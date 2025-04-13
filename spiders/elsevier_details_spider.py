@@ -25,11 +25,12 @@ class ElsevierDetailsSpider(scrapy.Spider):
                 for article in articles:
                     self.logger.info(f"Processing article: {article['title']}")
                     self.logger.info(f"Article URL: {article['url']}")
+                    self.logger.info(f"Proxy URL: {self.proxy}")
                     yield scrapy.Request(
                         url=article['url'],
                         callback=self.parse_article,
                         meta={"proxy": self.proxy, "title": article['title']}
-                    ) 
+                    )  
 
     def parse_article(self, response):
         def extract_meta(name):

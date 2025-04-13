@@ -37,11 +37,12 @@ class ElsevierLinksSpider(scrapy.Spider):
             return
 
         # modify this to handle both cases ("2025 — Volume 11" & "2025 — Volumes 153-158")
-        if "Volume" in heading_text:
-            max_volume = int(heading_text.split("Volume")[-1].strip())
-        elif "Volumes" in heading_text:
+        
+        if "Volumes" in heading_text:
             # Extract the range and get the last volume number
             max_volume = int(heading_text.split("Volumes")[-1].split("-")[-1].strip())
+        elif "Volume" in heading_text:
+            max_volume = int(heading_text.split("Volume")[-1].strip())
         else:
             self.logger.error("Unexpected format for volume heading text.")
             returns
