@@ -16,7 +16,7 @@ class ElsevierLinksSpider(scrapy.Spider):
         self.vol_base_url = f"https://www.sciencedirect.com/journal/{self.journal_name}/vol"
         self.output_dir = Path(f"static/{self.journal_name}/volumes")
         self.output_dir.mkdir(parents=True, exist_ok=True)
-        self.proxy = f"http://scraperapi:{kwargs['SCRAPER_API_KEY']}@proxy-server.scraperapi.com:8001"
+        self.proxy = f"http://scraperapi:{os.environ['SCRAPER_API_KEY']}@proxy-server.scraperapi.com:8001"
 
     def start_requests(self):
         logging.info(f"Visiting issues page: {self.base_url}")
@@ -45,7 +45,6 @@ class ElsevierLinksSpider(scrapy.Spider):
             max_volume = int(heading_text.split("Volume")[-1].strip())
         else:
             self.logger.error("Unexpected format for volume heading text.")
-            returns
 
         self.logger.info(f"Found total volumes: {max_volume}")
         
