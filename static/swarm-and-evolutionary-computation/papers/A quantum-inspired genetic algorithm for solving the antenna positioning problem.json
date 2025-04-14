@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650216300293",
+    "title": "A quantum-inspired genetic algorithm for solving the antenna positioning problem",
+    "abstract": "Cellular phone networks are one of today's most popular  means of communication . The big popularity and accessibility of the services proposed by these networks have made the mobile industry a field with high standard and competition where service quality is key. Actually, such a quality is strongly bound to the design quality of the networks themselves, where optimisation issues exist at each step. Thus, any process that cannot cope with these problems may alter the design phase and ultimately the service provided. The Antenna Positioning Problem (APP) is one of the most determinant optimisation issues that engineers face during network life cycle. This paper proposes a new variant of the Quantum-Inspired  Genetic Algorithm  (QIGA) based on a novel  quantum gate  for solving the APP. In order to assess the scalability, efficiency and robustness of the proposed algorithm, the experiments have been carried out on realistic, synthetic and random benchmarks with different dimensions. Several statistical analysis tests have been carried out as well. State-of-the-art algorithms designed to solve the APP, the Population-Based Incremental Learning (PBIL) and Genetic Algorithm (GA), are taken as a comparison basis. Performance evaluation of the proposed approach proves that it is efficient, robust and scalable; it could outperform both PBIL and GA in many benchmark instances.",
+    "citation_count": "53",
+    "year": "2016/12/01",
+    "authors": [
+        {
+            "name": "Zakaria Abd El Moiz Dahi",
+            "country": ""
+        },
+        {
+            "name": "Chaker Mezioud",
+            "country": ""
+        },
+        {
+            "name": "Amer Draa",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

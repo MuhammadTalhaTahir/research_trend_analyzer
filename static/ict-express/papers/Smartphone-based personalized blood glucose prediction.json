@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959516301126",
+    "title": "Smartphone-based personalized blood glucose prediction",
+    "abstract": "Effective blood glucose control is essential for patients with diabetes. However, individual patients may not be able to monitor their blood glucose level regularly because of all manner of real-life interference. In this paper, we propose a personalized diabetes prediction mechanism that leverages smartphone-collected patient data and population data to drive personalized prediction. Unlike existing predictive models, this model utilizes pooled population data and captures patient similarities, and eventually produces a personalized blood glucose prediction for an individual. We have implemented the proposed model as a mobile application and have performed extensive experiments to evaluate its performance. The experimental results demonstrate that the proposed prediction mechanism can improve the prediction accuracy and remedy the problem of sparse data in the existing approaches.",
+    "citation_count": "0",
+    "year": "2016/12/01",
+    "authors": [
+        {
+            "name": "Juan Li",
+            "country": ""
+        },
+        {
+            "name": "Chandima Fernando",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650216305910",
+    "title": "Improved gene expression programming to solve the inverse problem for ordinary differential equations",
+    "abstract": "Many complex systems in the real world evolve with time. These dynamic systems are often modeled by ordinary  differential equations  in mathematics. The  inverse problem  of ordinary differential equations is to convert the observed data of a physical system into a mathematical model in terms of ordinary differential equations. Then the model may be used to predict the future behavior of the physical system being modeled. Genetic programming has been taken as a solver of this inverse problem. Similar to genetic programming, gene expression programming could do the same job since it has a similar ability of establishing the model of ordinary differential systems. Nevertheless, such research is seldom studied before. This paper is one of the first attempts to apply gene expression programming for solving the inverse problem of ordinary differential equations. Based on a statistic observation of traditional gene expression programming, an improvement is made in our algorithm, that is, genetic operators should act more often on the dominant part of genes than on the recessive part. This may help maintain population diversity and also speed up the convergence of the algorithm. Experiments show that this improved algorithm performs much better than genetic programming and traditional gene expression programming in terms of running time and prediction precision.",
+    "citation_count": "36",
+    "year": "2018/02/01",
+    "authors": [
+        {
+            "name": "Kangshun Li",
+            "country": ""
+        },
+        {
+            "name": "Yan Chen",
+            "country": ""
+        },
+        {
+            "name": "Wei Li",
+            "country": ""
+        },
+        {
+            "name": "Jun He",
+            "country": ""
+        },
+        {
+            "name": "Yu Xue",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

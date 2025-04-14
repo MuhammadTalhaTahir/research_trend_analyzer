@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959525000062",
+    "title": "Parallel implementation of GCM on GPUs",
+    "abstract": "This paper presents the first fully parallelized optimization of GCM in a GPU environment. As the era of IoT emerges, a large number of clients communicate with servers, necessitating encrypted communications for security. GCM is a type of AEAD and is currently used in various security protocols, including TLS 1.3 and IPsec. Due to the burden of performing encrypted communication with numerous clients, there has been significant research on utilizing GPUs for high-speed parallel processing in encryption. However, to date, there has been no fully parallelized implementation of GCM on GPUs. This paper proposes a method for parallelizing the challenging GHASH computation in GCM mode, leading to a high-speed parallel implementation of AES-GCM that can exceed 400Gb/s, meeting the requirements of next-generation communication systems. The proposed approach is algorithm-independent and can be applied to any block ciphers. Our implementation on an RTX 4090 demonstrates a performance improvement of  × 15 . 38  compared to the maximum processing throughput of a multi-threaded Intel(R) Core(TM) i7-13700K. It also achieves a  × 17 . 87  improvement compared to a hybrid CPU–GPU system. Compared to the most researched FPGA implementation for GCM, specifically Xilinx Ultrascale FPGA, our implementation achieves  × 1 . 11  better performance. For not only throughput but also power efficiency also better than other implementation, it achieves  × 3 . 33  compared to CPU implementation on Intel Xeon E3-1220, also it achieves  × 21 . 09  compared to FPGA implementation for AES on Xilinx Virtex 7 series, which is not including full GCM.",
+    "citation_count": "0",
+    "year": "2025/04/01",
+    "authors": [
+        {
+            "name": "JaeSeok Lee",
+            "country": ""
+        },
+        {
+            "name": "DongCheon Kim",
+            "country": ""
+        },
+        {
+            "name": "Seog Chung Seo",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

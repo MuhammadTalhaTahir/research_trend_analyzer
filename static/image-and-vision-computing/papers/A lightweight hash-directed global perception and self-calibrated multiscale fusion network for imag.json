@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003603",
+    "title": "A lightweight hash-directed global perception and self-calibrated multiscale fusion network for image super-resolution",
+    "abstract": "In recent years, with the increase in the depth and width of convolutional neural networks, single image super-resolution (SISR) algorithms have made significant breakthroughs in objective quantitative metrics and subjective visual quality. However, these operations have inevitably caused model inference time to surge. In order to find a balance between model speed and accuracy, we propose a lightweight hash-directed global perception and self-calibrated multiscale fusion network for image Super-Resolution (HSNet) in this paper. The HSNet makes the following two main improvements: first, the Hash-Directed Global Perception module (HDGP) designed in this paper is able to capture the dependencies between features in a global perspective by using the hash encoding to direct the attention mechanism. Second, the Self-Calibrated Multiscale Fusion module (SCMF) proposed in this paper has two independent task branches: the upper branch of the SCMF utilizes the feature fusion module to capture multiscale contextual information, while the lower branch focuses on local details through a small convolutional kernel. These two branches are fused with each other to effectively enhance the network's multiscale understanding capability. Extensive experimental results demonstrate the remarkable superiority of our approach over other state-of-the-art methods in both subjective visual effects and objective evaluation metrics, including PSNR, SSIM, and computational complexity.",
+    "citation_count": "2",
+    "year": "2024/11/01",
+    "authors": [
+        {
+            "name": "Zhisheng Cui",
+            "country": ""
+        },
+        {
+            "name": "Yibing Yao",
+            "country": ""
+        },
+        {
+            "name": "Shilong Li",
+            "country": ""
+        },
+        {
+            "name": "Yongcan Zhao",
+            "country": ""
+        },
+        {
+            "name": "Ming Xin",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

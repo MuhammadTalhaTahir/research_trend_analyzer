@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885618300994",
+    "title": "Online background subtraction with freely moving cameras using different motion boundaries",
+    "abstract": "We propose a method for online  background subtraction  from a successive-frame video captured using a freely moving camera. Our method exploits a technique of interactive  image segmentation  with seeds (the subsets of pixels marked as “foreground” and “background”). The key novelty of our method is to automatically estimate the seeds by exploiting two different motion boundaries that are respectively computed using the magnitude and direction of the flow field. The magnitude of flow field is likely to be useful in differentiating the foreground and background motions when the moving objects and the camera make a movement towards the same direction. In contrast, the direction of flow field helps in discriminating the observed motions when the amount of displacement of the moving objects and the camera is the same. By adaptively exploiting the advantages of these different motion boundaries, our method enables to estimate the reliable foreground/background seeds. With the estimated seeds, our method performs accurate background subtraction even when the complex camera movements (e.g., large pan-tilt-zoom, rotation) are made. Our experiments demonstrate the effectiveness of our method using public dataset and other real image sequences.",
+    "citation_count": "9",
+    "year": "2018/08/01",
+    "authors": [
+        {
+            "name": "Daisuke Sugimura",
+            "country": ""
+        },
+        {
+            "name": "Fumihiro Teshima",
+            "country": ""
+        },
+        {
+            "name": "Takayuki Hamamoto",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

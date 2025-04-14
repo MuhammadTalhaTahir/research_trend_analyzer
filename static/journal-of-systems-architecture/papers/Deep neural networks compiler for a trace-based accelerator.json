@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762119304667",
+    "title": "Deep neural networks compiler for a trace-based accelerator",
+    "abstract": "Convolutional Neural Networks  (CNNs) are the algorithm of choice for  image processing  applications. CNNs are a highly  parallel workload  that leads to the emergence of custom  hardware accelerators .  Deep Learning  (DL) models specialized in different tasks require programmable custom hardware and a compiler/mapper to efficiently translate different CNNs into an efficient dataflow in the accelerator. The goal of this paper is to present a compiler for running CNNs on programmable custom  hardware accelerators  with a domain-specific ISA that targets CNNs. In this work, the compiler was evaluated and tested on a hardware accelerator that was presented in [18]. The compiler uses model definition files created from popular frameworks to generate custom instructions. The model goes through static compilation and different levels of hardware aware optimizations that improve performance and data reuse of the generated program. The software also exposes an interface to run on various  FPGA  platforms, providing an end-to-end solution. Various  CNN models  were benchmarked on different systems while scaling the number of processing units.",
+    "citation_count": "2",
+    "year": "2020/01/01",
+    "authors": [
+        {
+            "name": "Andre Xian Ming Chang",
+            "country": ""
+        },
+        {
+            "name": "Aliasger Zaidy",
+            "country": ""
+        },
+        {
+            "name": "Marko Vitez",
+            "country": ""
+        },
+        {
+            "name": "Lukasz Burzawa",
+            "country": ""
+        },
+        {
+            "name": "Eugenio Culurciello",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-016-9592-1",
+    "title": "A quadrature-free method for simulation and inversion of 1.5D direct current (DC) borehole measurements",
+    "abstract": "Resistivity inverse problems are routinely solved in order to characterize hydrocarbon bearing formations. They often require a large number of forward problems simulations. When considering a one dimensional (1D) planarly layered media, semi-analytical methods can be employed in order to solve a single forward problem in a fraction of a second. However, in some situations, a large number of (over one million) simulations is required, preventing this method to be used as a real time (logging) alternative. In this paper, we propose a novel semi-analytical method that dramatically reduces the total computational time, so it can be employed for real time inversion. In our proposed method, we select an ad hoc basis representation for the spectral solution such that its inverse Hankel transform can be computed analytically. The proposed method requires a pre-process that is expensive when compared with a single evaluation in classical semi-analytical methods. However, subsequent evaluations can be rapidly obtained, decreasing thus the total computational time by orders of magnitude when the number of required forward simulations is large.",
+    "citation_count": 28,
+    "year": "2016/12",
+    "authors": [
+        {
+            "name": "Rojas, Sergio",
+            "country": "Chile"
+        },
+        {
+            "name": "Muga, Ignacio",
+            "country": "Chile"
+        },
+        {
+            "name": "Pardo, David",
+            "country": "Chile"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

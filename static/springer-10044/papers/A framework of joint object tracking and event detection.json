@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-004-0231-4",
+    "title": "A framework of joint object tracking and event detection",
+    "abstract": "This paper describes a probabilistic framework for simultaneously performing object tracking and event detection in monocular videos. Mathematically, we cast the problem of jointly tracking and detecting semantic events as a principled model-based search problem in a multi-dimensional state space, where the tracking trajectory and event type are discovered via maximum a posteriori (MAP) optimization. The benefit of this approach comes from its combined utilization of particle probabilistic representation, multiple hypothesis retention, efficient particle propagation, and temporal optimization. We present qualitative and quantitative results from realistic video sequences to demonstrate the effectiveness of this approach.",
+    "citation_count": 36,
+    "year": "2004/12",
+    "authors": [
+        {
+            "name": "Wang, Ruoyu Roy",
+            "country": "USA"
+        },
+        {
+            "name": "Huang, Thomas",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650215000279",
+    "title": "Chaos driven discrete artificial bee algorithm for location and assignment optimisation problems",
+    "abstract": "The chaos driven discrete artificial bee colony (CDABC) algorithm is introduced in this paper. Four unique chaos maps of Burgers, Lozi, Delayed Logistic and Tinkerbell are embedded as chaos pseudo-random number generators and compared with the Mersenne Twister pseudo-random number generator. Two unique problems of quadratic assignment and capacitated  vehicle routing problem  are solved using five different variants of the algorithm and analytical comparison is conducted. Furthermore, paired  t -test is done pairwise on all variants, and from these results it is ascertained that the Tinkerbell variant of CDABC is the best performing for both problem classes.",
+    "citation_count": "45",
+    "year": "2015/12/01",
+    "authors": [
+        {
+            "name": "Magdalena Metlicka",
+            "country": ""
+        },
+        {
+            "name": "Donald Davendra",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

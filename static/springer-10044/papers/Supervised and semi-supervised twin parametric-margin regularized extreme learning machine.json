@@ -1,0 +1,16 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-020-00880-x",
+    "title": "Supervised and semi-supervised twin parametric-margin regularized extreme learning machine",
+    "abstract": "Twin extreme learning machine (TELM) has attracted considerable attention and achieved great success in the machine learning field. However, its performance will be severely affected when outliers exist in the dataset since TELM does not consider heteroscedasticity in practical applications. To improve the performance of TELM, a novel learning framework called twin parametric-margin extreme learning machine (TPMELM) was proposed. Further, to enhance the classification performance of our TPMELM in a semi-supervised learning setting, a Laplacian TPMELM (Lap-TPMELM) was developed by introducing manifold regularization into TPMELM. Using the geometric information of the marginal distribution embedded in unlabeled samples, Lap-TPMELM can effectively construct a more reasonable classifier. The TPMELM and Lap-TPMELM are suitable for many situations, especially when the data has heteroscedastic error structure. Moreover, the TPMELM and Lap-TPMELM are helpful in clarifying theoretical interpretation of parameters which control the bounds on proportions of support vectors and boundary errors. An efficient technique (successive over-relaxation, SOR) is applied in TPMELM and Lap-TPMELM, respectively. Experimental results show the effectiveness and reliability of the proposed methods.",
+    "citation_count": 35,
+    "year": "2020/11",
+    "authors": [
+        {
+            "name": "Ma, Jun",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

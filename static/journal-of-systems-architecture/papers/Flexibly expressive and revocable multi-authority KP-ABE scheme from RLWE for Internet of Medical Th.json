@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124001164",
+    "title": "Flexibly expressive and revocable multi-authority KP-ABE scheme from RLWE for Internet of Medical Things",
+    "abstract": "The emergence of the Internet of Medical Things (IoMT) has presented numerous opportunities for the healthcare industry. It is anticipated to enhance the quality and efficiency of medical services, thus enhancing people’s overall quality of life. However, frequently occurring medical data leakage makes the protection of medical data and privacy in IoMT become a critical issue. Among the solutions, attribute-based encryption (ABE) has been a very promising solution due to its flexible and fine-grained access control to encrypted data. However, the majority of current ABE schemes are based on bilinear pairing and are vulnerable to quantum attacks. The available of multi-authority ABE schemes over lattice only support a single policy such as threshold or AND gate, and lack the ability to implement user or attribute  revocation  in a flexible manner. For the special algebra structure of the lattice based scheme, how to overcome them is still a challenge at present. Aiming at the above, we propose a novel multi-authority key-policy  attribute based encryption  (RM-KP-ABE) based on the Ring Learning With Errors (RLWE) assumption. It supports multi-valued attributes and  { 0 , 1 } -LSSS access policy. This scheme allows multiple authorities to participate in key distribution and enables attribute revocation when dynamic users change their situation.  { 0 , 1 } -LSSS access policy makes the proposal get highly expressive which supports any monotonic boolean formula. Security analysis and performance evaluations demonstrate that our scheme is secure and efficient.",
+    "citation_count": "1",
+    "year": "2024/07/01",
+    "authors": [
+        {
+            "name": "Shuwei Xie",
+            "country": ""
+        },
+        {
+            "name": "Leyou Zhang",
+            "country": ""
+        },
+        {
+            "name": "Qing Wu",
+            "country": ""
+        },
+        {
+            "name": "Fatemeh Rezaeibagha",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

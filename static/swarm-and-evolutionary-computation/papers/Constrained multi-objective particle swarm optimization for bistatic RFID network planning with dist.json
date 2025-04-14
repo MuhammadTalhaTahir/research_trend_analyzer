@@ -1,0 +1,38 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650225000409",
+    "title": "Constrained multi-objective particle swarm optimization for bistatic RFID network planning with distributed antennas",
+    "abstract": "Radio Frequency Identification (RFID) network planning (RNP) is crucial for optimizing network performance by setting system parameters. The new bistatic RFID architecture with a distributed antenna system (DAS) offers advantages for the passive Internet of Things (IoT). It separates transmission and reception to minimize self-interference and extend uplink communication range, while using distributed antennas for broader coverage. Bistatic DAS RNP differs from monostatic in various aspects. Monostatic RNP focuses on factors like reader number, location, and power, while bistatic DAS RNP involves more parameters, including antenna and device numbers, locations, and interconnections. Coverage and interference are more complex, and practical planning faces constraints on antenna ports and feeder line length. Consequently, bistatic DAS RFID network planning (BDRNP) problems are novel, complex, high-dimensional, and constrained, making them relatively unexplored and highly challenging. This paper analyzes bistatic DAS RFID network coverage and interference, and proposes a mathematical model for BDRNP problems. A modified multi-objective discrete particle optimization (M2DPSO) algorithm is introduced, incorporating a modified k-means clustering method to group antennas, which ensures satisfaction constraints and reduces decision variable dimensionality from  4 | C S | + | C S | 2  to  4 | C S |  to  4 | C S |  where  | C S |  is the problem size. Redundant SDRs/carrier emitters are dynamically eliminated based on global best solution set changes. Experimental results show that M2DPSO algorithm significantly outperforms three existing popular algorithms – nondominated sorting genetic algorithm II (NSGAII), discrete particle swarm optimization (DPSO), and multi-objective evolutionary algorithm based on decomposition (MOEAD) – by 265%, 361%, and 726% respectively, in average inverted generational distance (IGD) metrics.",
+    "citation_count": "0",
+    "year": "2025/04/01",
+    "authors": [
+        {
+            "name": "Yamin Wang",
+            "country": ""
+        },
+        {
+            "name": "Shuai Ma",
+            "country": ""
+        },
+        {
+            "name": "Yuan Li",
+            "country": ""
+        },
+        {
+            "name": "Hongyu Qian",
+            "country": ""
+        },
+        {
+            "name": "Qianfan Jia",
+            "country": ""
+        },
+        {
+            "name": "Shanpeng Xiao",
+            "country": ""
+        },
+        {
+            "name": "Yuhong Huang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

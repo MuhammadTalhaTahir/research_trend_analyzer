@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885616300075",
+    "title": "A variational based model for estimating true tracklets in wide area surveillance",
+    "abstract": "In many wide area surveillance applications, tracking objects is usually accomplished by using network of cameras. A common approach to any multi-objects tracking algorithm in a network of cameras comprises of two main steps. First, the movement trajectory of each object, within the field of view of a camera, is extracted and is called object tracklet. Then, the set of tracklets are used to determine the persistent trace of each object. In this paper, we assume that the tracklets are extracted by a conventional tracking algorithm. The occurrence of occlusion between objects, within the viewing scene, leads to various types of errors on the extracted tracklets. If these erroneous tracklets are used in a multi-object tracking algorithm and ignoring the correction phase, then the errors are propagated and affect the results of tracking algorithm. Therefore the true tracklets have to be estimated from the erroneous tracklets. In this paper, we propose a variational model for estimating the true tracklets. The  variational principle  proposed in this model is established by first introducing a variational energy function. Then the erroneous tracklets are used to estimate the true tracklets through optimizing the energy function. The proposed method is evaluated on two well known datasets and a synthetic dataset which is particularly developed to demonstrate the performance of our algorithm under challenging scenarios. The 10 common metrics, which are used in other multi-objects tracking applications, are used for  quantitative evaluations . Our experimental results illustrate that our proposed model estimates the true tracklets which improves the overall association performances.",
+    "citation_count": "0",
+    "year": "2016/04/01",
+    "authors": [
+        {
+            "name": "Ehsan Pazouki",
+            "country": ""
+        },
+        {
+            "name": "Mohammad Rahmati",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

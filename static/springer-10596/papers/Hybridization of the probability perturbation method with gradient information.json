@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-007-9055-9",
+    "title": "Hybridization of the probability perturbation method with gradient information",
+    "abstract": "Geostatistically based history-matching methods make it possible to devise history-matching strategies that will honor geologic knowledge about the reservoir. However, the performance of these methods is known to be impeded by slow convergence rates resulting from the stochastic nature of the algorithm. It is the purpose of this paper to introduce a method that integrates qualitative gradient information into the probability perturbation method to improve convergence. The potential of the proposed method is demonstrated on a synthetic history-matching example. The results indicate that inclusion of qualitative gradient information improves the performance of the probability perturbation method.",
+    "citation_count": 14,
+    "year": "2007/12",
+    "authors": [
+        {
+            "name": "Johansen, Kent",
+            "country": "Denmark"
+        },
+        {
+            "name": "Caers, Jef",
+            "country": "USA"
+        },
+        {
+            "name": "Suzuki, Satomi",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

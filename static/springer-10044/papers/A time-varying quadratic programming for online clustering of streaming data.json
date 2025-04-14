@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-017-0608-9",
+    "title": "A time-varying quadratic programming for online clustering of streaming data",
+    "abstract": "An online clustering method based on a time-varying quadratic programming is proposed which can precisely detect streaming data clustering structure when no assumption is desired on the shape and density of data classes. In the proposed method, online clustering is achieved through simulating some dynamical equations which yield optimum solution of the time-varying quadratic programming over time. A new framework is also proposed which efficiently permits streaming data clustering based on a relatively small and renewable dataset. This framework reduces the need for incoming data storage memory to a small and independent of original data size. The performance of the proposed method is evaluated through the experiments using synthetic data as well as the KDD cup 99 dataset. The results illustrate higher performance of the proposed method in comparison with a range of benchmark methods.",
+    "citation_count": 28,
+    "year": "2018/11",
+    "authors": [
+        {
+            "name": "Adibi, Mohammad Amin",
+            "country": "Iran"
+        },
+        {
+            "name": "Shahrabi, Jamal",
+            "country": "Iran"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

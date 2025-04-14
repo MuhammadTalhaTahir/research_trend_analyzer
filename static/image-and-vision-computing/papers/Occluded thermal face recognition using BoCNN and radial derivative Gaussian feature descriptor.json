@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623000203",
+    "title": "Occluded thermal face recognition using BoCNN and radial derivative Gaussian feature descriptor",
+    "abstract": "In this work, we propose a Radial derivative Gaussian feature ( RDGF ) descriptor, a novel handcrafted  feature descriptor  for disguised thermal face recognition. The feature encoding has been done so that the performance is least affected by noise and works well over challenging datasets. We propose a cascaded framework that combines two modules, namely  Bo CNN  and the RDGF descriptor. The cascading architecture estimates the performance of  Bo CNN before classification. It also uses a dynamic classifier selector in run time to choose between handcrafted features and the CNN framework to enhance the overall performance. We also propose a thermal face dataset with  partial occlusion . We have compared the performance of the  RDGF  descriptor with state-of-the-art descriptors on the IIIT-Delhi disguised thermal face dataset and our proposed dataset.  RDGF  exhibits better performance compared to other state-of-the-art descriptors. Our proposed descriptor shows relative increment of 56.84%, 64.92%, 67.25%, 64.03%, 48.06%, and 7.28% on IIIT-D Occluded Thermal Dataset when compared with  LBP ,  LDP ,  LBDP ,  LVP ,  LGHP , and  HOG , respectively. A similar enhancement of accuracy has been observed on our proposed dataset as well. An exhaustive comparison based on the performance of the cascaded framework with state-of-the-art  CNN models  has also been done in a similar fashion.",
+    "citation_count": "5",
+    "year": "2023/04/01",
+    "authors": [
+        {
+            "name": "Sumit Kumar",
+            "country": ""
+        },
+        {
+            "name": "Satish Kumar Singh",
+            "country": ""
+        },
+        {
+            "name": "Peter Peer",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

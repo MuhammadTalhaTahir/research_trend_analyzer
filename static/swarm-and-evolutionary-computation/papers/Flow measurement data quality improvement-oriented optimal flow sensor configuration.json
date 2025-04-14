@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223000986",
+    "title": "Flow measurement data quality improvement-oriented optimal flow sensor configuration",
+    "abstract": "High-quality  flow measurement  plays an essential role in almost all process industries, e.g.,  chemical engineering , energy, and  sewage treatment . Although increasing the number of flow sensors can improve the  observability  and redundancy of flow data, it inevitably brings higher deployment and maintenance costs. Thus, the configuration of flow sensors is a multi-objective optimization problem with conflicting objectives, i.e., to achieve the highest observability, and redundancy of flow data, by minimal flow sensors. To address the above problem, the Gauss–Jordan elimination is adopted for computing the objective functions. For small-scale processes, an exact algorithm is proposed to solve the  Pareto optimal set  in a depth-first manner by using a multiway tree structure. For large-scale industrial processes, a novel multi-objective evolutionary algorithm (MOEA), called D&A-AGE-MOEA, is proposed by incorporating a duplication-reduction environmental selection operator and a comprehensive strategy that combines multiple  dichotomies  with the search volume allocation into the Adaptive Geometry Estimation-based MOEA (AGE-MOEA). In addition, a population initialization strategy that initializes  offspring  populations with the evolution results of pioneering populations is used to facilitate the search process. Extensive confirmatory and  comparative experiments  have been conducted on the ZDT-5 and two practical industrial processes. Experimental results show that D&A-AGE-MOEA outperforms seven state-of-the-art MOEAs.",
+    "citation_count": "5",
+    "year": "2023/07/01",
+    "authors": [
+        {
+            "name": "Jinping Liu",
+            "country": ""
+        },
+        {
+            "name": "Longcheng Xu",
+            "country": ""
+        },
+        {
+            "name": "Yiyun Hu",
+            "country": ""
+        },
+        {
+            "name": "Hadi Jahanshahi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

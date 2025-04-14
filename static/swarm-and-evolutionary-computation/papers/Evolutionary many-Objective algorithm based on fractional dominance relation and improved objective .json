@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650220304296",
+    "title": "Evolutionary many-Objective algorithm based on fractional dominance relation and improved objective space decomposition strategy",
+    "abstract": "For many-objective optimization problems (MaOPs), the proportion of non-dominated solutions in a population  scales up  sharply with the increase in the number of objectives. Besides, for an MaOP with a fixed number of objectives, the proportion of non-dominated solutions may also grow to a high level with the progressing of the evolutionary process, sometimes even reaching 100%. Thus, a great challenge has been posed to traditional Pareto-dominance-based many-objective  evolutionary algorithms  (MaOEAs). To address this issue, a new fractional dominance relation is proposed to distinguish non-dominated solutions for strengthening convergence. To be special, the number of objectives on which one solution is better than the other one is considered in the fractional dominance relationship. At the same time, the objective  space decomposition  approach is improved with a subspace selection mechanism to maintain the population diversity. Then, two new MaOEAs referred to as FDEA-I and FDEA-II are proposed on the basis of fractional dominance relation and the improved objective space decomposition strategy. The two algorithms first use fractional dominance relation to retain some solutions with promising performance, and then the improved objective space decomposition strategy is used to maintain diversity for the obtained population. Finally, to evaluate the performance of FDEA-I and FDEA-II, extensive experiments are conducted to compare them with six state-of-the-art MaOEAs on 72 many-objective benchmark instances taken from WFG and MaF test suites. The results show that FDEA-I and FDEA-II perform significantly better than the six comparative algorithms.",
+    "citation_count": "81",
+    "year": "2021/02/01",
+    "authors": [
+        {
+            "name": "Wenbo Qiu",
+            "country": ""
+        },
+        {
+            "name": "Jianghan Zhu",
+            "country": ""
+        },
+        {
+            "name": "Guohua Wu",
+            "country": ""
+        },
+        {
+            "name": "Mingfeng Fan",
+            "country": ""
+        },
+        {
+            "name": "Ponnuthurai Nagaratnam Suganthan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

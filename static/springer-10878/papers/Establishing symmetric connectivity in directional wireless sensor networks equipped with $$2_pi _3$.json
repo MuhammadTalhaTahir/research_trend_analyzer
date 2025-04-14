@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-017-0126-0",
+    "title": "Establishing symmetric connectivity in directional wireless sensor networks equipped with $$2\\pi /3$$ antennas",
+    "abstract": "In this paper, we study the antenna orientation problem concerning symmetric connectivity in directional wireless sensor networks. We are given a set of nodes each of which is equipped with one directional antenna with beam-width $$\\theta = 2\\pi /3$$ and is initially assigned a transmission range 1 that yields a connected unit disk graph spanning all nodes. The objective of the problem is to compute an orientation of the antennas and to find a minimum transmission power range $$r=O(1)$$ such that the induced symmetric communication graph is connected. We propose two algorithms that orient the antennas to yield symmetric connected communication graphs where the transmission power ranges are bounded by 6 and 5, which are currently the best results for this problem. We also study the performance of our algorithms through simulations.",
+    "citation_count": 33,
+    "year": "2017/11",
+    "authors": [
+        {
+            "name": "Tran, Tien",
+            "country": "USA"
+        },
+        {
+            "name": "An, Min Kyung",
+            "country": "USA"
+        },
+        {
+            "name": "Huynh, Dung T.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

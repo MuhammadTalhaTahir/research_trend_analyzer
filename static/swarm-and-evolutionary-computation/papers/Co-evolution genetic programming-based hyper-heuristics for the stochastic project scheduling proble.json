@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224002165",
+    "title": "Co-evolution genetic programming-based hyper-heuristics for the stochastic project scheduling problem with resource transfer and idle costs",
+    "abstract": "In this paper, we study the stochastic resource-constrained project scheduling problem with transfer and idle costs (SRCPSP-TIC) under uncertain environments, where the resource transfer and idle take time and costs. Priority rule (PR) based heuristics are the most commonly used approaches for project scheduling under uncertain environments due to their simplicity and efficiency. For PR-based heuristics of the SRCPSP-TIC, activity priority rules (APRs) and transfer priority rules (TPRs) are necessary to decide the activity sequence and resource transfer. Traditionally, APRs and TPRs need to be manually designed, which is time-consuming and difficult to adapt to different scheduling scenarios. Therefore, based on two individual representation methods, we propose two co-evolution genetic programming (CGP) based hyper-heuristics to evolve APRs and TPRs automatically. Furthermore, a fitness function surrogate-assisted method and a transfer learning mechanism are designed to improve the efficiency and solution quality of the CGP. Based on the instances with different stochastic activity duration distributions, we test the performance of different CGP-based hyper-heuristics and compare the evolved PRs with the classical PRs to demonstrate the effectiveness of evolved PRs. Experimental results show that the proposed algorithms can automatically evolve efficient PRs for the SRCPSP-TIC.",
+    "citation_count": "3",
+    "year": "2024/10/01",
+    "authors": [
+        {
+            "name": "Haohua Zhang",
+            "country": ""
+        },
+        {
+            "name": "Lubo Li",
+            "country": ""
+        },
+        {
+            "name": "Sijun Bai",
+            "country": ""
+        },
+        {
+            "name": "Jingwen Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

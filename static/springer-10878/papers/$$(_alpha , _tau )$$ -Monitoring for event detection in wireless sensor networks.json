@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-015-9837-2",
+    "title": "$$(\\alpha , \\tau )$$ -Monitoring for event detection in wireless sensor networks",
+    "abstract": "Detecting abnormal events is one of the fundamental issues in wireless sensor networks (WSNs). In this paper, we investigate $$(\\alpha ,\\tau )$$ -monitoring in WSNs. For a given monitored threshold $$\\alpha $$ , we prove that (i) the tight upper bound of $$\\Pr [{S(t)} \\ge \\alpha ]$$ is $$O\\left( {\\exp \\left\\{ { - n\\ell \\left( {\\frac{\\alpha }{{nsup}},\\frac{{\\mu (t)}}{{nsup}}} \\right) } \\right\\} } \\right) $$ , if $$\\mu (t) &lt; \\alpha $$ ; and (ii) the tight upper bound of $$\\Pr [{S(t)} \\le \\alpha ]$$ is $$O\\left( {\\exp \\left\\{ { - n\\ell \\left( {\\frac{\\alpha }{{nsup}},\\frac{{\\mu (t)}}{{nsup}}} \\right) } \\right\\} } \\right) $$ , if $$\\mu (t) &gt; \\alpha $$ , where $$\\Pr [X]$$ is the probability of random event $$X,\\, S(t)$$ is the sum of the monitored area at time $$t,\\, n$$ is the number of the sensor nodes, $$sup$$ is the upper bound of sensed data, $$ \\mu (t)$$ is the expectation of $$S(t)$$ , and $$\\ell ({x_1},{x_2}) = {x_1}\\ln \\left( {\\frac{{{x_1}}}{{{x_2}}}} \\right) + (1 - {x_1})\\ln \\left( {\\frac{{1 - {x_1}}}{{1 - {x_2}}}} \\right) $$ . An instant $$(\\alpha ,\\tau )$$ -monitoring scheme is then developed based on the upper bound. Moreover, approximate continuous $$(\\alpha , \\tau )$$ -monitoring is investigated. We prove that the probability of false negative alarm is $$\\delta $$ , if the sample size is for a given precision requirement, where is the fractile of a standard normal distribution. Finally, the performance of the proposed algorithms is validated through experiments.",
+    "citation_count": 25,
+    "year": "2016/11",
+    "authors": [
+        {
+            "name": "Bi, Ran",
+            "country": "China"
+        },
+        {
+            "name": "Li, Jianzhong",
+            "country": "China"
+        },
+        {
+            "name": "Gao, Hong",
+            "country": "China"
+        },
+        {
+            "name": "Li, Yingshu",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

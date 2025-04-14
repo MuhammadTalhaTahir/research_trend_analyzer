@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-024-01189-9",
+    "title": "A hybrid grey wolf optimizer for engineering design problems",
+    "abstract": "Grey wolf optimizer (GWO) is one of the most popular metaheuristics, and it has been presented as highly competitive with other comparison methods. However, the basic GWO needs some improvement, such as premature convergence and imbalance between exploitation and exploration. To address these weaknesses, this paper develops a hybrid grey wolf optimizer (HGWO), which combines the Halton sequence, dimension learning-based, crisscross strategy, and Cauchy mutation strategy. Firstly, the Halton sequence is used to enlarge the search scope and improve the diversity of the solutions. Then, the dimension learning-based is used for position update to balance exploitation and exploration. Furthermore, the crisscross strategy is introduced to enhance convergence precision. Finally, the Cauchy mutation strategy is adapted to avoid falling into the local optimum. The effectiveness of HGWO is demonstrated by comparing it with advanced algorithms on the 15 benchmark functions in different dimensions. The results illustrate that HGWO outperforms other advanced algorithms. Moreover, HGWO is used to solve eight real-world engineering problems, and the results demonstrate that HGWO is superior to different advanced algorithms.",
+    "citation_count": 46,
+    "year": "2024/07",
+    "authors": [
+        {
+            "name": "Chen, Shuilin",
+            "country": "China"
+        },
+        {
+            "name": "Zheng, Jianguo",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

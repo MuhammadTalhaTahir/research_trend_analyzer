@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650216304102",
+    "title": "A knowledge-guided multi-objective fruit fly optimization algorithm for the multi-skill resource constrained project scheduling problem",
+    "abstract": "In this paper, a knowledge-guided multi-objective fruit fly  optimization algorithm  (MOFOA) is proposed for the multi-skill resource-constrained project scheduling problem (MSRCPSP) with the criteria of minimizing the makespan and the total cost simultaneously. First, a solution is represented by two lists, i.e. resource list and task list. Second, the minimum total cost rule is designed for the initialization according to the property of the problem. Third, the smell-based search is implemented via the neighborhood based search operators that are specially designed for the MSRCPSP, while the vision-based search adopts the technique for the  order preference  by similarity to an ideal solution (TOPSIS) and the non-dominated sorting collaboratively to complete the multi-objective evaluation. In addition, a knowledge-guided search procedure is introduced to enhance the exploration of the FOA. Finally, the design-of-experiment (DOE) method is used to investigate the effect of parameter setting, and numerical tests based on benchmark instances are carried out. The results compared to other algorithms demonstrate the effectiveness of the MOFOA with knowledge-guided search in solving the multi-objective MSRCPSP.",
+    "citation_count": "129",
+    "year": "2018/02/01",
+    "authors": [
+        {
+            "name": "Ling Wang",
+            "country": ""
+        },
+        {
+            "name": "Xiao-long Zheng",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

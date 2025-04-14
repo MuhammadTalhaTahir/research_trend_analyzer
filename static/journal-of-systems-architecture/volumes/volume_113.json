@@ -1,0 +1,70 @@
+[
+    {
+        "title": "Editorial Board",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762120302447"
+    },
+    {
+        "title": "A comprehensive test framework for cryptographic accelerators in the cloud",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762120301533"
+    },
+    {
+        "title": "Palisade: A framework for anomaly detection in embedded systems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762120301545"
+    },
+    {
+        "title": "Video action recognition with visual privacy protection based on compressed sensing",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762120301570"
+    },
+    {
+        "title": "An efficient signcryption of heterogeneous systems for Internet of Vehicles",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762120301594"
+    },
+    {
+        "title": "Efficient Cache Resizing policy for DRAM-based LLCs in ChipMultiprocessors",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762120301582"
+    },
+    {
+        "title": "HOSVD prototype based on modular SW libraries running on a high-performance CPU+GPU platform",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762120301685"
+    },
+    {
+        "title": "A lightweight online backup manager for energy harvesting powered nonvolatile processor systems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762120301703"
+    },
+    {
+        "title": "Energy efficient backup overloading schemes for fault tolerant scheduling of real-time tasks",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762120301715"
+    },
+    {
+        "title": "ADAPT: An auxiliary storage data path toolkit",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762120301727"
+    },
+    {
+        "title": "A survey on security and authentication in wireless body area networks",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762120301600"
+    },
+    {
+        "title": "Accelerating CNN Inference on ASICs: A Survey",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762120301612"
+    },
+    {
+        "title": "Blockchain-based batch authentication protocol for Internet of Vehicles",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762120301569"
+    },
+    {
+        "title": "Distributed task allocation in Mobile Device Cloud exploiting federated learning and subjective logic",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762120302162"
+    },
+    {
+        "title": "A genetic algorithm based energy efficient group paging approach for IoT over 5G",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762120301557"
+    },
+    {
+        "title": "Benchmarking vision kernels and neural network inference accelerators on embedded platforms",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762120301697"
+    },
+    {
+        "title": "Online user allocation in mobile edge computing environments:A decentralized reactive approach",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762120301739"
+    }
+]

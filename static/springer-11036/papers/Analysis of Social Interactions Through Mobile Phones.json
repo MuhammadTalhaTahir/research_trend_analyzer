@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-012-0400-4",
+    "title": "Analysis of Social Interactions Through Mobile Phones",
+    "abstract": "Equipment of mobile phones with various kinds of sensors is transforming these devices from mere capabilities of voice and internet access to devices capable of sensing a number of phenomena pertaining to their users. In this paper we make use of these capabilities of phones to detect social interactions between people and analyze social context by using embedded sensors found in typical smart phones. Work carried out in this area has typically used dedicated hardware to establish social interactions, and we contend on the suitability of mobile phone, since additional devices that user is not familiar with influence natural user behavior and thus their social interaction patterns. Our work shows that two parameters that can be detected through mobile phone sensing, namely interpersonal distance and relative body orientation, provide a solid basis for inferring social interactions. We describe how these factors are acquired using smart phones and describe our analysis. The experiments demonstrate that we can recognize not only whether a social interaction is taking place, but also the type of social interaction, distinguishing between formal and informal social settings.",
+    "citation_count": 24,
+    "year": "2012/12",
+    "authors": [
+        {
+            "name": "Matic, Aleksandar",
+            "country": "Italy"
+        },
+        {
+            "name": "Osmani, Venet",
+            "country": "Italy"
+        },
+        {
+            "name": "Mayora-Ibarra, Oscar",
+            "country": "Italy"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

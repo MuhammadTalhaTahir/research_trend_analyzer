@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-010-0270-6",
+    "title": "A Resource Allocation Framework for Scalable Video Broadcast in Cellular Networks",
+    "abstract": "Video streaming is one of the most important applications that will make use of the high data rates offered by 4G networks. The current video transport techniques are already very advanced, and the more immediate problems lie in the joint optimization of video coding, AL-FEC, and PHY rate selection with the goal of enhancing the user perceived quality. In this work we provide an analysis of video broadcast streaming services for different combinations of layered coding and AL-FEC, using a realistic LTE PHY layer. Our simulation results show that the scalable content adaptation given by Scalable Video Coding (SVC) and the scheduling flexibility offered by the 3G-LTE MAC-layer provide a good match for enhanced video broadcast services for next generation cellular networks. Our proposed solution is compared to baseline algorithms and broadcast systems based on H.264/AVC streaming solutions. We emphasize the system quality improvement brought by our solution and discuss implications for a wide-scale practical deployment.",
+    "citation_count": 18,
+    "year": "2011/12",
+    "authors": [
+        {
+            "name": "Munaretto, Daniele",
+            "country": "Germany"
+        },
+        {
+            "name": "Jurca, Dan",
+            "country": "Germany"
+        },
+        {
+            "name": "Widmer, Joerg",
+            "country": "Germany"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

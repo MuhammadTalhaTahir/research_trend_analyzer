@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-020-00636-7",
+    "title": "Multimode time-cost-robustness trade-off project scheduling problem under uncertainty",
+    "abstract": "The time/cost trade-off problem is a well-known project scheduling problem that has been extensively studied. In recent years, many researchers have begun to focus on project scheduling problems under uncertainty to cope with uncertain factors, such as resource idleness, high inventory, and missing deadlines. To reduce the disturbance from uncertain factors, the aim of robust scheduling is to generate schedules with time buffers or resource buffers, which are capped by project makespan and project cost. This paper addresses a time-cost-robustness trade-off project scheduling problem with multiple activity execution modes under uncertainty. A multiobjective optimization model with three objectives (makespan minimization, cost minimization, and robustness maximization) is constructed and three propositions are proposed. An epsilon-constraint method-based genetic algorithm along with three improvement measures is designed to solve this NP-hard problem and to develop Pareto schedule sets, and a large-scale computational experiment on a randomly generated dataset is performed to validate the effectiveness of the proposed algorithm and the improvement measures. The final sensitivity analysis of three key parameters shows their distinctive influences on the three objectives, according to which several suggestions are given to project managers on the effective measures to improve the three objectives.",
+    "citation_count": 54,
+    "year": "2022/07",
+    "authors": [
+        {
+            "name": "Li, Xue",
+            "country": "China"
+        },
+        {
+            "name": "He, Zhengwen",
+            "country": "China"
+        },
+        {
+            "name": "Wang, Nengmin",
+            "country": "China"
+        },
+        {
+            "name": "Vanhoucke, Mario",
+            "country": "Belgium"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

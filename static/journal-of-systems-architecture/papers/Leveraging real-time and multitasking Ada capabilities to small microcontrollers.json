@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762118302212",
+    "title": "Leveraging real-time and multitasking Ada capabilities to small microcontrollers",
+    "abstract": "Small embedded  microcontrollers  typically operate for years without further programmer intervention, so that shipping software free of errors becomes paramount. The Ada programming language includes many safety characteristics (e.g., strong typing or contract-based programming) that help to largely reduce the number of errors introduced by programmers. However, Ada is barely used in microcontrollers with tight memory constraints due to the overhead introduced at run-time. The tasking semantics included in the language represent one major source of this overhead. In this paper we present a new Ada run-time environment that includes a new scheduling policy based on the  one-shot task  model that simplifies the implementation of the Ada tasking primitives and allows stack sharing techniques to be applied. Consequently, the proposed approach allows using the inherent safety characteristics of the Ada language along with a set of tasking constructs more suitable for small memory devices. Despite its simplicity, the tasking primitives have an equivalent, if not superior, expressiveness to the typical tasking constructs provided by the operating systems targeted to small microcontrollers. An implementation based on a small kernel, a modified run-time system and an automatic code transformation tool have been developed in the context of this work. Initial tests provide promising results, showing the tasking constructs are functionally correct and the proposed run-time features a small  memory footprint .",
+    "citation_count": "5",
+    "year": "2019/03/01",
+    "authors": [
+        {
+            "name": "Mario Aldea Rivas",
+            "country": ""
+        },
+        {
+            "name": "Hector Perez Tijero",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

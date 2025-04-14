@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885603001860",
+    "title": "Building optimal 2D statistical shape models",
+    "abstract": "Statistical shape models are used widely as a basis for segmenting and interpreting images. A major drawback of the approach is the need, during training, to establish a dense correspondence across a training set of segmented shapes. We show that model construction can be treated as an optimisation problem, automating the process and guaranteeing the effectiveness of the resulting models. This is achieved by optimising an objective function with respect to the correspondence. We use an information theoretic objective function that directly promotes desirable features of the model. This is coupled with an effective method of manipulating correspondence, based on re-parameterising each training shape, to build optimal statistical shape models. The method is evaluated on several training sets of shapes, showing that it constructs better models than alternative approaches.",
+    "citation_count": "46",
+    "year": "2003/12/01",
+    "authors": [
+        {
+            "name": "Rhodri H Davies",
+            "country": ""
+        },
+        {
+            "name": "Carole J Twining",
+            "country": ""
+        },
+        {
+            "name": "P Daniel Allen",
+            "country": ""
+        },
+        {
+            "name": "Tim F Cootes",
+            "country": ""
+        },
+        {
+            "name": "Chris J Taylor",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

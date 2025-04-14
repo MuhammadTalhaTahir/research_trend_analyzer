@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762118304399",
+    "title": "Workload-aware harmonic partitioned scheduling for fixed-priority probabilistic real-time tasks on multiprocessors",
+    "abstract": "Multiprocessor  platforms bring the probabilistic characteristic to real-time systems because of the performance variations of complex chips. We present a harmonic partitioned scheduling scheme with workload awareness for periodic probabilistic real-time tasks on multiprocessors under the fixed-priority scheduling policy. A harmonic index is defined to quantify the harmonicity among probabilistic real-time tasks. The proposed scheme first sorts tasks with respect to the workload, then packs them to processors one by one aiming at minimizing the increase of harmonic index caused by the task deployment. Evaluation shows that our proposed scheme can significantly outperform the existing harmonic partitioned probabilistic real-time scheduling algorithms.",
+    "citation_count": "5",
+    "year": "2019/02/01",
+    "authors": [
+        {
+            "name": "Jiankang Ren",
+            "country": ""
+        },
+        {
+            "name": "Yong Xie",
+            "country": ""
+        },
+        {
+            "name": "Ran Bi",
+            "country": ""
+        },
+        {
+            "name": "Yifan He",
+            "country": ""
+        },
+        {
+            "name": "Guowei Wu",
+            "country": ""
+        },
+        {
+            "name": "Guozhen Tan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

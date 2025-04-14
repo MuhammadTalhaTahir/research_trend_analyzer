@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-006-0043-9",
+    "title": "Two-stage binary classifier with fuzzy-valued loss function",
+    "abstract": "In this paper we present the decision rules of a two-stage binary Bayesian classifier. The loss function in our case is fuzzy-valued and is dependent on the stage of the decision tree or on the node of the decision tree. The decision rules minimize the mean risk, i.e., the mean value of the fuzzy loss function. The model is first based on the notion of fuzzy random variable and secondly on the subjective ranking of fuzzy number defined by Campos and González. In this paper also, influence of choice of parameter λ in selected comparison fuzzy number method on classification results are presented. Finally, an example illustrating the study developed in the paper is considered.",
+    "citation_count": 13,
+    "year": "2006/11",
+    "authors": [
+        {
+            "name": "Burduk, Robert",
+            "country": "Poland"
+        },
+        {
+            "name": "Kurzyński, Marek",
+            "country": "Poland"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

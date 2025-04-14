@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S221065022400124X",
+    "title": "Surrogate information transfer and fusion in high-dimensional expensive optimization problems",
+    "abstract": "The Kriging surrogate model is less frequently employed in high-dimensional expensive problems than is the radial basis function (RBF) model. This discrepancy is attributed to the challenge of hyperparameter tuning within the Kriging covariance function, which leads to relatively worse predictive performance. However, the Kriging model still plays a crucial role in providing the predicted uncertainty for new point infill that cannot be replaced by the RBF model. To leverage the advantages of both models, a surrogate information transfer and fusion algorithm is presented. Surrogate information transfer introduces global sensitivity information from the constructed RBF model to the hyperparameter optimization of the Kriging model, reducing the dimensions of hyperparameter tuning and improving its approximation performance. Surrogate information fusion combines the RBF and Kriging models, with the RBF model providing more accurate predictions of unknown points for exploitation, while the Kriging model provides predicted uncertainty for swarm updating and new point infilling to ensure exploration of the solution space. Compared with several state-of-the-art algorithms, the proposed algorithm is evaluated on eight benchmark problems and a in real-world optimization case. The experimental results demonstrate the effectiveness of the surrogate information transfer and fusion methods and the significant superiority of the proposed algorithm over the compared algorithms.",
+    "citation_count": "2",
+    "year": "2024/07/01",
+    "authors": [
+        {
+            "name": "Yong Pang",
+            "country": ""
+        },
+        {
+            "name": "Shuai Zhang",
+            "country": ""
+        },
+        {
+            "name": "Yaochu Jin",
+            "country": ""
+        },
+        {
+            "name": "Yitang Wang",
+            "country": ""
+        },
+        {
+            "name": "Xiaonan Lai",
+            "country": ""
+        },
+        {
+            "name": "Xueguan Song",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,40 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-024-10322-w",
+    "title": "High-speed algorithm for computing the inflow to multiple-fractured horizontal wells using stream tubes",
+    "abstract": "The scope of the work is to develop high-speed and fairly accurate methods for calculating (i) the productivity of wells with multi-stage hydraulic fracturing and (ii) the fluids flow near fractures to fast perform multivariate calculations for inversion framework or optimization problems. For this purpose we propose a method of decomposing the spatial problem of fluid inflow to fractures into two-dimensional problems in the fractures and one-dimensional problems in the reservoir through stream tubes. The structure of the stream tubes is assumed to be fixed and can be determined by a simplified analytical method or from a preliminary numerical solution of a steady state spatial problem. In the simplified method a combination of two typical drainage elements near fractures is considered with the stream-tube parameterization based on exact analytical solutions. This method has satisfactory accuracy and can be used to quickly calculating well productivity in the case of infinite conductivity fractures. Its advantage over known analytical models is demonstrated. Estimates for the applicability of this approach to the finite permeability fractures are also obtained. Computing two-component and two-phase flows, we demonstrate the possibility of increasing the speed of high-precision numerical simulation up to two orders of magnitude due to reducing the dimension of the non-steady transport problem. Parallel algorithms of solving transport problems in independent stream tubes additionally speeds up calculations. The achieved reduction in computer time makes it possible, in principle, to solve inverse problems on high-resolution grids, such as the design of multi-stage hydraulic fracturing or the identification of fracture parameters based on the results of tracer studies.",
+    "citation_count": 61,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "Potashev, Konstantin",
+            "country": "Russia"
+        },
+        {
+            "name": "Mazo, Alexander",
+            "country": "Russia"
+        },
+        {
+            "name": "Mukhina, Maria",
+            "country": "Russia"
+        },
+        {
+            "name": "Uraimov, Almaz",
+            "country": "Russia"
+        },
+        {
+            "name": "Maklakov, Dmitri",
+            "country": "Russia"
+        },
+        {
+            "name": "Khamidullin, Marsel",
+            "country": "Russia"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

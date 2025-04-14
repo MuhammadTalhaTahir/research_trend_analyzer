@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624004128",
+    "title": "MinoritySalMix and adaptive semantic weight compensation for long-tailed classification",
+    "abstract": "In real-world datasets, the widespread presence of a long-tailed distribution often leads models to become overly biased towards majority class samples while ignoring minority class samples. We propose a strategy called MASW (MinoritySalMix and adaptive semantic weight compensation) to improve this problem. First, we propose a data augmentation method called MinoritySalMix (minority-saliency-mixing), which uses significance detection techniques to select significant regions from minority class samples as cropping regions and paste them into the same regions of majority class samples to generate brand new samples, thereby amplifying images containing important regions of minority class samples. Second, in order to make the label value information of the newly generated samples more consistent with the image content of the newly generated samples, we propose an adaptive semantic compensation factor. This factor provides more label value compensation for minority samples based on the different cropping areas, thereby making the new label values closer to the content of the newly generated samples. Improve model performance by generating more accurate new label value information. Finally, considering that some current re-sampling strategies generally lack flexibility in handling class sampling weight allocation and frequently require manual adjustment. We designed an adaptive weight function and incorporated it into the re-sampling strategy to achieve better sampling. The experimental results on three long-tailed datasets show that our method can effectively improve the performance of the model and is superior to most advanced long-tailed methods. Furthermore, we extended MinoritySalMix’s strategy to three balanced datasets for experimentation, and the results indicated that our method surpassed several advanced data augmentation techniques.",
+    "citation_count": "0",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Wu Zeng",
+            "country": ""
+        },
+        {
+            "name": "Zheng-ying Xiao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

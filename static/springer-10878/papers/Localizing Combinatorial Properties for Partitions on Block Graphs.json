@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1009730825062",
+    "title": "Localizing Combinatorial Properties for Partitions on Block Graphs",
+    "abstract": "We extend the study on partition properties from the set partition to the graph partition, especially for the class of connected block graphs which includes trees. We introduce seventeen partition properties and determine their inter-relations. The notions of k-consistency and k-sortability were studied in the set partition to localize the properties, i.e., a global property can be verified through checking local conditions. We carry on these studies for partitions on connected block graphs. In particular, we completely determine the consistency for all the seventeen properties.",
+    "citation_count": 4,
+    "year": "1998/12",
+    "authors": [
+        {
+            "name": "Chang, G. J.",
+            "country": "Taiwan"
+        },
+        {
+            "name": "Hwang, F. K.",
+            "country": "Taiwan"
+        },
+        {
+            "name": "Yao, Y. C.",
+            "country": "Taiwan"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

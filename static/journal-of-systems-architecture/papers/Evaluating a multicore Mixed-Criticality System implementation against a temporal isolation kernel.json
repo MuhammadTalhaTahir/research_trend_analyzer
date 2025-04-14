@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001916",
+    "title": "Evaluating a multicore Mixed-Criticality System implementation against a temporal isolation kernel",
+    "abstract": "Digital transformation causes the deployment of vast quantities of heterogeneous software components in modern systems, while the urge to lower material cost wants more software to be integrated in less hardware. Safety critical systems incorporate components that must be assured to never fail and others that may do as long as the consequences can be contained without threatening safety. Isolation is the prime response to this need, which yields low CPU utilization, as large precautionary resource margins are apportioned to components that must never fall short of resources, which defeats the quest for integration. Alternative models that promise to achieve higher CPU utilization without losing safety, have been explored under the umbrella term of Mixed-Criticality Systems (MCS). This paper uses a concrete implementation of a state-of-the-art MCS solution to assess how viable its premises are in practice and how they compare to a standard Time-and-Space-Partitioning solution for sustained performance.",
+    "citation_count": "2",
+    "year": "2022/09/01",
+    "authors": [
+        {
+            "name": "M. Bottaro",
+            "country": ""
+        },
+        {
+            "name": "T. Vardanega",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

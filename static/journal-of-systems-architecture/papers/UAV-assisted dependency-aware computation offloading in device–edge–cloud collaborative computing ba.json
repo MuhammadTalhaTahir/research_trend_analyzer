@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124001528",
+    "title": "UAV-assisted dependency-aware computation offloading in device–edge–cloud collaborative computing based on improved actor–critic DRL",
+    "abstract": "Unmanned aerial vehicle  (UAV)-assisted  mobile edge computing  (MEC) has become a popular  research topic , addressing challenges posed by the pressure of  cloud computing  and the limited service scope of MEC. However, the limited computing resources of UAVs and the  data dependency  of specific tasks hinder the practical implementation of efficient computational offloading (CO). Accordingly, a device–edge–cloud  collaborative computing  model is proposed in this study to provide complementary offloading services. This model considers stochastic movement and channel obstacles, representing the  dependency relationships  as a directed acyclic graph. An  optimization problem  is formulated to simultaneously optimize system costs (i.e., delay and energy consumption) and UAV endurance, taking into account resource and task-dependent constraints. Additionally, a saturated training SAC-based UAV-assisted dependency-aware  computation offloading  algorithm (STS-UDCO) is developed. STS-UDCO learns the entropy and value of the CO policy to efficiently approximate the optimal solution. The adaptive saturation training rule proposed in STS-UDCO dynamically controls the update frequency of the critic based on the current fitted state to enhance training stability. Finally, extensive experiments demonstrate that STS-UDCO achieves superior convergence and stability, while also reducing the system total cost and convergence speed by at least 11.83% and 39.10%, respectively, compared with other advanced algorithms.",
+    "citation_count": "3",
+    "year": "2024/09/01",
+    "authors": [
+        {
+            "name": "Longxin Zhang",
+            "country": ""
+        },
+        {
+            "name": "Runti Tan",
+            "country": ""
+        },
+        {
+            "name": "Yanfen Zhang",
+            "country": ""
+        },
+        {
+            "name": "Jiwu Peng",
+            "country": ""
+        },
+        {
+            "name": "Jing Liu",
+            "country": ""
+        },
+        {
+            "name": "Keqin Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

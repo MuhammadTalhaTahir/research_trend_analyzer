@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-003-0197-7",
+    "title": "Extraction and recognition of artificial text in multimedia documents",
+    "abstract": "The systems currently available for contentbased image and video retrieval work without semantic knowledge, i. e. they use image processing methods to extract low level features of the data. The similarity obtained by these approaches does not always correspond to the similarity a human user would expect. A way to include more semantic knowledge into the indexing process is to use the text included in the images and video sequences. It is rich in information but easy to use, e. g. by key word based queries. In this paper we present an algorithm to localise artificial text in images and videos using a measure of accumulated gradients and morphological processing. The quality of the localised text is improved by robust multiple frame integration. A new technique for the binarisation of the text boxes based on a criterion maximizing local contrast is proposed. Finally, detection and OCR results for a commercial OCR are presented, justifying the choice of the binarisation technique.",
+    "citation_count": 0,
+    "year": "2004/02",
+    "authors": [
+        {
+            "name": "Wolf, C.",
+            "country": "France"
+        },
+        {
+            "name": "Jolion, J.-M.",
+            "country": "France"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

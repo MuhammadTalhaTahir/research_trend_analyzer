@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S026288560300177X",
+    "title": "Evaluation of salient point techniques",
+    "abstract": "In  image retrieval , global features related to color or texture are commonly used to describe the  image content . The problem with this approach is that these global features cannot capture all parts of the image having different characteristics. Therefore, local computation of  image information  is necessary. By using salient points to represent  local information , more  discriminative features  can be computed. In this paper, we compare a wavelet-based salient point extraction algorithm with two corner detectors using the criteria: repeatability rate and information content. We also show that extracting color and  texture information  in the locations given by our salient points provides significantly improved results in terms of  retrieval accuracy ,  computational complexity , and storage space of feature vectors as compared to global feature approaches.",
+    "citation_count": "67",
+    "year": "2003/12/01",
+    "authors": [
+        {
+            "name": "N. Sebe",
+            "country": ""
+        },
+        {
+            "name": "Q. Tian",
+            "country": ""
+        },
+        {
+            "name": "E. Loupias",
+            "country": ""
+        },
+        {
+            "name": "M.S. Lew",
+            "country": ""
+        },
+        {
+            "name": "T.S. Huang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762116302260",
+    "title": "Trade-offs of certified fixed-point code synthesis for linear algebra basic blocks",
+    "abstract": "In embedded systems,  efficient implementations  of numerical algorithms typically use the fixed-point arithmetic rather than the standardized and costly floating-point arithmetic. But, fixed-point developers  face  two difficulties: First, writing fixed-point codes is tedious and error prone. Second, the low dynamic range of fixed-point numbers leads to the persistent belief that fixed-point computations are inherently inaccurate. In this article, we address these two limitations by introducing a methodology to design and implement tools that synthesize fixed-point programs. To strengthen the user’s confidence in the synthesized code, analytic methods are presented to automatically assert its numerical quality. Furthermore, we use this framework to generate fixed-point code for  linear algebra  basic blocks such as matrix multiplication and inversion. For example, the former task involves trade-offs such as choosing to maximize the code’s accuracy or minimize its size. For the two cases of matrix multiplication and inversion, we describe, implement, and experiment with several algorithms to find trade-offs between the conflicting goals.",
+    "citation_count": "3",
+    "year": "2017/05/01",
+    "authors": [
+        {
+            "name": "Matthieu Martel",
+            "country": ""
+        },
+        {
+            "name": "Amine Najahi",
+            "country": ""
+        },
+        {
+            "name": "Guillaume Revy",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,38 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762119305016",
+    "title": "Efficient drone hijacking detection using two-step GA-XGBoost",
+    "abstract": "With the fast growth of civilian drones, their security problems meet significant challenges. A commercial drone may be hijacked by  Global Positioning System  (GPS)-spoofing attacks for illegal activities, such as terrorist attacks. Ideally, comparing positions respectively estimated by GPS and  Inertial Navigation System  (INS) can detect such attacks, while the results may always get fault because of the accumulated errors over time in INS. Therefore, in this paper, we propose a two-step GA-XGBoost method to detect GPS-spoofing attacks that just uses GPS and Inertial  Measurement Unit  (IMU) data. However, tunning the proper values of  XGBoost  parameters directly on the drone to achieve high prediction results consumes lots of resources which would influence the real-time performance of the drone. The proposed method separates the training phase into offboard step and onboard step. In offboard step, model is first trained by flight logs, and the training parameter values are automatically tuned by Genetic Algorithm (GA). Once the offboard model is trained, it could be uploaded to drones. To adapt our method to drones with different types of sensors and improve the correctness of prediction results, in onboard step, the model is further trained when a drone starts a mission. After onboard training finishes, the proposed method switches to the prediction mode. Besides, our method does not require any extra onboard hardware. The experiments with a real quadrotor drone also show the detection correctness is 96.3% and 100% in hijacked and non-hijacked cases at each sampling time respectively. Moreover, our method can achieve 100% detection correctness just within 1 s just after the attacks start.",
+    "citation_count": "62",
+    "year": "2020/02/01",
+    "authors": [
+        {
+            "name": "Zhiwei Feng",
+            "country": ""
+        },
+        {
+            "name": "Nan Guan",
+            "country": ""
+        },
+        {
+            "name": "Mingsong Lv",
+            "country": ""
+        },
+        {
+            "name": "Wenchen Liu",
+            "country": ""
+        },
+        {
+            "name": "Qingxu Deng",
+            "country": ""
+        },
+        {
+            "name": "Xue Liu",
+            "country": ""
+        },
+        {
+            "name": "Wang Yi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

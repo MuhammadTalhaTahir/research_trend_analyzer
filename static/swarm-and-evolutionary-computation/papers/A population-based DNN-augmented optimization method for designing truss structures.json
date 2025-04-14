@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224001512",
+    "title": "A population-based DNN-augmented optimization method for designing truss structures",
+    "abstract": "Truss design problems have been extensively investigated for various purposes. How to efficiently optimize truss structures and obtain diverse  optimized designs  is still a challenging task. In this paper, a population-based DNN (deep neural network) -augmented method is proposed to address this issue. In the proposed method, truss design problems are firstly transformed into a DNN-based design loss  minimization problem . The DNN model is gradually generated in an adaptive updating manner, and is used to indicate the truss design problem. In addition, the transformed minimization problem can be efficiently solved by DNN computation and a population of trusses can be optimized accordingly. Through the investigation of four truss design problems (two standard optimization problems and two optimization problems considering the design diversity), the effectiveness of the proposed method is validated. In addition, three aspects affecting the performance of the proposed method are also investigated, and the robustness and applicability of the proposed method are demonstrated.",
+    "citation_count": "1",
+    "year": "2024/08/01",
+    "authors": [
+        {
+            "name": "Yi Xia",
+            "country": ""
+        },
+        {
+            "name": "Jiepeng Liu",
+            "country": ""
+        },
+        {
+            "name": "Hongtuo Qi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

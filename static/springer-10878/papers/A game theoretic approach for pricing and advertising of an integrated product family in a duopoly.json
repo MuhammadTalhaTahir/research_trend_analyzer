@@ -1,0 +1,21 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-023-01041-6",
+    "title": "A game theoretic approach for pricing and advertising of an integrated product family in a duopoly",
+    "abstract": "Product family concept predicates to a products’ group or services that derive from a common base and they have usually the same production process and physical features, in different industries. In this paper, we assume two manufacturers that produce some homogeneous product families that they want to decide upon their wholesale price and national advertising expenditure, as a new problem in the multi-agent environment. According to this problem, we propose the non-cooperative, cooperative and two-stage game models to maximize manufacturers' profits and then, based on the optimization approaches i.e., Nash and Stackelberg methods, we obtain the appropriate equilibrium strategies in a special example. Also, we propose a new profit-sharing approach for the Stackelberg model of the defined problem and discuss the solutions as some propositions and marginal points, based on the numerical studies. The results show that the centralized model leads to better profit than the non-centralized and Stackelberg models.",
+    "citation_count": 47,
+    "year": "2023/07",
+    "authors": [
+        {
+            "name": "Safarzadeh, Soroush",
+            "country": "Iran"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

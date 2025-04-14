@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224000592",
+    "title": "Generating random complex networks with network motifs using evolutionary algorithm-based null model",
+    "abstract": "Network motifs in complex networks signify critical patterns of connections essential for deciphering system dynamics. Identifying and understanding these rare and elusive motifs is crucial for analyzing complex network behaviors. Our previous research has established a significant positive correlation between the occurrence of motifs and two network properties at the micro level, namely Assortativity Degree ( ρ ) and Local Clustering Coefficient ( C C l ) (Mursa, 2019b; Mursa, 2019c; Mursa, 2019a; Mursa, 2021). Making use of these findings, in this paper, we present a novel null model,  MuAn , which leverages Evolutionary Algorithms to produce synthetic networks with topologies that are characterized by high values of  ρ  and  C C l , facilitating the emergence of network motifs. A comprehensive experiment validates our proposed null model quality in generating networks with motifs through fine-tuning the EA configuration for precise and optimal outcomes and a comparative analysis with other well-known null models. The proposed model offers a promising avenue to advance motif analysis by enabling the generation of synthetic networks with motifs, expediting investigations on gene regulatory networks, transcriptional networks, drug-target networks, artificial neuronal networks, and other domains wherein motif-driven analysis is pivotal to unraveling their intrinsic complexities.",
+    "citation_count": "0",
+    "year": "2024/04/01",
+    "authors": [
+        {
+            "name": "Bogdan-Eduard-Mădălin Mursa",
+            "country": ""
+        },
+        {
+            "name": "Anca Andreica",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

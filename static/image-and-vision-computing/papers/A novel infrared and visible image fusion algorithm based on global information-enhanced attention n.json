@@ -1,0 +1,38 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S026288562400266X",
+    "title": "A novel infrared and visible image fusion algorithm based on global information-enhanced attention network",
+    "abstract": "The fusion of infrared and visible images aims to extract and fuse thermal target information and texture details to the fullest extent possible, enhancing the visual understanding capabilities of images for both humans and computers in complex scenes. However, existing methods have difficulties in preserving the comprehensiveness of source image feature information and enhancing the saliency of image texture information. Therefore, we put forward a novel infrared and visible image fusion algorithm based on global information-enhanced attention network (GIEA). Specifically, we develop an attention-guided Transformer module (AGTM) to make sure the fused images have enough global information. This module combines the convolutional  neural network  and Transformer to perform adequate feature extraction from shallow to deep layers, and utilize the attention network for multi-level feature-guided learning. Then, we build the contrast enhancement module (CENM), which enhances the feature representation and contrast of the image so that the fused image contains significant texture information. Furthermore, our network is driven to fully preserve the texture and structure details of the source images with a loss function that consists of content loss and total variance loss. Numerous experiments demonstrate that our fusion approach outperforms other fusion approaches in both subjective and objective assessments.",
+    "citation_count": "2",
+    "year": "2024/09/01",
+    "authors": [
+        {
+            "name": "Jia Tian",
+            "country": ""
+        },
+        {
+            "name": "Dong Sun",
+            "country": ""
+        },
+        {
+            "name": "Qingwei Gao",
+            "country": ""
+        },
+        {
+            "name": "Yixiang Lu",
+            "country": ""
+        },
+        {
+            "name": "Muxi Bao",
+            "country": ""
+        },
+        {
+            "name": "De Zhu",
+            "country": ""
+        },
+        {
+            "name": "Dawei Zhao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-022-00863-0",
+    "title": "Constructing tri-CISTs in shuffle-cubes",
+    "abstract": "Let $${\\mathcal {T}}=\\{T_1,T_2,\\ldots ,T_k\\}$$ be a set of $$k\\geqslant 2$$ spanning trees in a graph G. The k spanning trees are called completely independent spanning trees (CISTs for short) if the paths joining every pair of vertices x and y in any two trees have neither vertex nor edge in common except for x and y. Particularly, $${\\mathcal {T}}$$ is called a dual-CIST (resp. tri-CIST) provided $$k=2$$ (resp. $$k=3$$ ). From an algorithmic point of view, the problem of finding a dual-CIST in a given graph is known to be NP-hard. For data transmission applications in reliable networks, the existence of a dual-CIST can provide a configuration of fault-tolerant routing called protection routing. The presence of a tri-CIST can enhance the dependability of transmission and carry out secure message distribution for confidentiality. Recently, the construction of a dual-CIST has been proposed in a shuffle-cube $$SQ_n$$ , which is an innovative hypercube-variant network that possesses both short diameter and connectivity advantages. This paper uses the CIST-partition technique to construct a tri-CIST of $$SQ_6$$ , and shows that the diameters of three CISTs are 22, 22, and 13. Then, by the hierarchical structure of $$SQ_n$$ , we propose a recursive algorithm for constructing a tri-CIST for high-dimensional shuffle-cubes. When $$n\\geqslant 10$$ , the diameters of $$T_i$$ , $$i=1,2,3$$ , we constructed for $$SQ_n$$ are as follows: $$2n+11$$ , $$2n+9$$ , and $$2n+1$$ .",
+    "citation_count": 44,
+    "year": "2022/12",
+    "authors": [
+        {
+            "name": "Chen, Yu-Han",
+            "country": "Taiwan"
+        },
+        {
+            "name": "Pai, Kung-Jui",
+            "country": "Taiwan"
+        },
+        {
+            "name": "Lin, Hsin-Jung",
+            "country": "Taiwan"
+        },
+        {
+            "name": "Chang, Jou-Ming",
+            "country": "Taiwan"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

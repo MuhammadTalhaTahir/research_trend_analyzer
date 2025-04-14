@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885698001851",
+    "title": "Model-based force-driven nonrigid motion recovery from sequences of range images without point correspondences",
+    "abstract": "In this article we propose a new method for accurate nonrigid motion analysis when point correspondence data is not available. Nonlinear  finite element models  are constructed by integrating range data and prior knowledge about an object's properties. The motion sequence is recovered given an initial alignment of the model with the first frame of the sequence. The main idea of the method is to find the forces that are responsible for the motion or shape deformation of the given object. The task is broken into subtasks of finding the forces for each frame. Both  absolute values  and directions of these forces are taken into consideration and iteratively varied not only for each frame, but also between the frames. Experimental results demonstrate the success of the proposed algorithm. The method is applied to man-made elastic materials and human hand modeling. It allows for recovery of single and multiple forces using restricted (elastic-articulated) and completely unrestricted (elastic) models. Our work demonstrates the possibility of accurate nonrigid motion analysis and force recovery from range image sequences containing nonrigid objects and large motion without  interframe  point correspondences.",
+    "citation_count": "10",
+    "year": "1999/11/17",
+    "authors": [
+        {
+            "name": "Leonid V. Tsap",
+            "country": ""
+        },
+        {
+            "name": "Dmitry B. Goldgof",
+            "country": ""
+        },
+        {
+            "name": "Sudeep Sarkar",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

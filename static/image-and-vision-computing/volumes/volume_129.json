@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Editorial Board",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622002517"
+    },
+    {
+        "title": "Exploring viewport features for semi-supervised saliency prediction in omnidirectional images",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622002190"
+    },
+    {
+        "title": "A cross-modal crowd counting method combining CNN and cross-modal transformer",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622002219"
+    },
+    {
+        "title": "Fast and accurate superpixel segmentation algorithm with a guidance image",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622002256"
+    },
+    {
+        "title": "Revisiting crowd counting: State-of-the-art, trends, and future perspectives",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622002268"
+    },
+    {
+        "title": "Modeling graph-structured contexts for image captioning",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622002207"
+    },
+    {
+        "title": "Guest Editorial : Learning with Manifolds in Computer Vision",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622002281"
+    },
+    {
+        "title": "Aggregation of attention and erasing for weakly supervised object localization",
+        "url": "https://www.sciencedirect.com/science/article/pii/S026288562200227X"
+    },
+    {
+        "title": "TENet: Accurate light-field salient object detection with a transformer embedding network",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622002244"
+    },
+    {
+        "title": "DFAF3D:A dual-feature-aware anchor-free single-stage 3D detector for point clouds",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622002232"
+    },
+    {
+        "title": "Multi-scale interaction transformer for temporal action proposal generation",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622002189"
+    },
+    {
+        "title": "Dual-level contrastive learning for unsupervised person re-identification",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622002360"
+    }
+]

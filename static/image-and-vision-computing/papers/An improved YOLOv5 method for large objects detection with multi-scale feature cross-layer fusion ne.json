@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885622001470",
+    "title": "An improved YOLOv5 method for large objects detection with multi-scale feature cross-layer fusion network",
+    "abstract": "SSD and  YOLOv5  are the one-stage object detector representative algorithms. An improved one-stage object detector based on the YOLOv5 method is proposed in this paper, named Multi-scale Feature Cross-layer Fusion Network (M-FCFN). Firstly, we extract shallow features and deep features from the PANet structure for cross-layer fusion and obtain a feature scale different from 80 × 80, 40 × 40, and 20 × 20 as output. Then, according to the single shot multi-box detector, we propose the different scale features which are obtained by cross-layer fusion for dimension reduction and use it as another output for prediction. Therefore, two completely different feature scales are added as the output. Features of different scales are necessary for detecting objects of different sizes, which can increase the probability of object detection and significantly improve detection accuracy. Finally, aiming at the Autoanchor mechanism proposed by YOLOv5, we propose an  EIOU k-means  calculation. We have compared the four model structures of  S ,  M ,  L , and  X  of YOLOv5 respectively. The problem of missed and false detections for large objects is improved which has better detection results. The experimental results show that our methods achieve 89.1% and 67.8%  mAP @0.5 on the PASCAL  VOC  and MS COCO datasets. Compared with the YOLOv5_S, our methods improve by 4.4% and 1.4%  mAP @ [0.5:0.95] on the PASCAL VOC and MS COCO datasets. Compared with the four models of YOLOv5, our methods have better detection accuracy for large objects. It should be more attention that our method on the large-scale  mAP @ [0.5:0.95] is 5.4% higher than YOLOv5_S on the MS COCO datasets.",
+    "citation_count": "52",
+    "year": "2022/09/01",
+    "authors": [
+        {
+            "name": "Zhong Qu",
+            "country": ""
+        },
+        {
+            "name": "Le-yuan Gao",
+            "country": ""
+        },
+        {
+            "name": "Sheng-ye Wang",
+            "country": ""
+        },
+        {
+            "name": "Hao-nan Yin",
+            "country": ""
+        },
+        {
+            "name": "Tu-ming Yi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

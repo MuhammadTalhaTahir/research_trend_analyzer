@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223001852",
+    "title": "A coarse- and fine-grained niching-based differential evolution for multimodal optimization problems and its application in multirobot task allocation",
+    "abstract": "Multimodal  optimization problems  (MOPs) need to locate the  global optima  as many as possible and refine the accuracy of the identified optima as high as possible. How to divide niches reasonably and search solutions effectively are two difficult problems facing MOPs. In this paper, a coarse- and fine-grained niching-based differential evolution (CFNDE) algorithm with micro-search strategy is proposed to divide population reasonably and search the optima effectively, which mainly includes four contributions. Firstly, a framework of coarse- and fine-grained niching (CFN) strategy is proposed, where the coarse-grained  clustering method  provides the information of clusters to the fine-grained  clustering method  to accurately divide the population into niches. Secondly, a micro-search-based mutation (MSM) strategy is proposed to accelerate the convergence of population, which searches for the optimal solution in the range between the current individual and the nearest individual. Thirdly, a multi-level  local search  (MLLS) strategy that incorporates the cluster-level and population-level search mechanisms is proposed to refine the accuracy of solutions. Finally, a stagnation detection and re-search (SDR) strategy is proposed to re-search the  local optima  in evolution. We compare CFNDE with the-state-of-art multimodal  optimization algorithms  on the widely used benchmark CEC’2013. The experimental results show that CFNDE performs better than or similar to some recently proposed algorithms in 17 out of 20 tested functions. Besides, the proposed CFNDE is also applied to the  multirobot  task allocation problems and CFNDE provides multiple completely different optimal scheduling schemes to deal with emergencies.",
+    "citation_count": "6",
+    "year": "2023/12/01",
+    "authors": [
+        {
+            "name": "Tao Ma",
+            "country": ""
+        },
+        {
+            "name": "Hong Zhao",
+            "country": ""
+        },
+        {
+            "name": "Xiangqian Li",
+            "country": ""
+        },
+        {
+            "name": "Fang Yang",
+            "country": ""
+        },
+        {
+            "name": "Chun Sheng Liu",
+            "country": ""
+        },
+        {
+            "name": "Jing Liu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

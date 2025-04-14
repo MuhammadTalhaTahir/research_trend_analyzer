@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-013-9690-0",
+    "title": "A new bound on maximum independent set and minimum connected dominating set in unit disk graphs",
+    "abstract": "It is a conjecture that in any unit disk graph $$G$$ , $$\\alpha (G) \\le 3 \\cdot \\gamma _c(G) + 3$$ where $$\\alpha (G)$$ is the size of the maximum independent set in $$G$$ and $$\\gamma _c(G)$$ is the size of minimum connected dominating set in $$G$$ . In this paper, we show that in any unit disk graph $$G$$ , $$\\alpha (G) \\le 3.399 \\cdot \\gamma _c(G) + 4.874$$ . Currently, this is the best-known bound.",
+    "citation_count": 12,
+    "year": "2015/11",
+    "authors": [
+        {
+            "name": "Du, Yingfan L.",
+            "country": "USA"
+        },
+        {
+            "name": "Du, Hongmin W.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

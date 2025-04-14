@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-023-01158-8",
+    "title": "Discriminative estimation of probabilistic context-free grammars for mathematical expression recognition and retrieval",
+    "abstract": "We present a discriminative learning algorithm for the probabilistic estimation of two-dimensional probabilistic context-free grammars (2D-PCFG) for mathematical expressions recognition and retrieval. This algorithm is based on a generalization of the H-criterion as the objective function and the growth transformations as the optimization method. For the development of the discriminative estimation algorithm, the N-best interpretations provided by the 2D-PCFG have been considered. Experimental results are reported on two available datasets: Im2Latex and IBEM. The first experiment compares the proposed discriminative estimation method with the classic Viterbi-based estimation method. The second one studies the performance of the estimated models depending on the length of the mathematical expressions and the number of admissible errors in the metric used.",
+    "citation_count": 41,
+    "year": "2023/11",
+    "authors": [
+        {
+            "name": "Noya, Ernesto",
+            "country": "Spain"
+        },
+        {
+            "name": "Benedí, José Miguel",
+            "country": "Spain"
+        },
+        {
+            "name": "Sánchez, Joan Andreu",
+            "country": "Spain"
+        },
+        {
+            "name": "Anitei, Dan",
+            "country": "Spain"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1019189118727",
+    "title": "Comparative analysis of wireless ATM channel access protocols supporting multimedia traffic",
+    "abstract": "Extension of multimedia services and applications offered by ATM networks to wireless and mobile users has captured a lot of recent research attention. Research prototyping of wireless ATM networks is currently underway at many leading research and academic institutions. Various architectures have been proposed depending on the intended application domain. Successful implementation of wireless connectivity to ATM services is significantly dependent on the medium access control (MAC) protocol, which has to provide support for multimedia traffic and for quality‐of‐service (QoS) guarantees. The objective of this paper is to investigate the comparative performance of a set of access protocols, proposed earlier in the literature, with more realistic source traffic models. Data traffic is modeled with self‐similar (fractal) behavior. Voice traffic is modeled by a slow speech activity detector (SAD). Video traffic is modeled as a H.261 video teleconference, where the number of ATM cells per video frame is described by a gamma distribution and a first‐order discrete autoregressive process model. A comparison of the protocols based on simulation data is presented. The goal of the paper is to identify appropriate techniques for effectively and efficiently supporting multimedia traffic and QoS. Simulation results show that boundaries between different types of services are necessary for multimedia traffic. Reservation for certain traffic type especially video can significantly improve its quality. Reducing the number of collisions is an important issue for wireless networks since contentions lead not only to potentially high delay but also result in high power consumption.",
+    "citation_count": 61,
+    "year": "1998/09",
+    "authors": [
+        {
+            "name": "Chen, Jyh‐Cheng",
+            "country": "USA"
+        },
+        {
+            "name": "Sivalingam, Krishna M.",
+            "country": "USA"
+        },
+        {
+            "name": "Acharya, Raj",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

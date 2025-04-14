@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122000510",
+    "title": "Joint compressing and partitioning of CNNs for fast edge-cloud collaborative intelligence for IoT",
+    "abstract": "The  artificial intelligence  (AI) empowered advanced technologies have been widely applied to process in real-time the vast amount of data in the  internet of things  (IoT) for a fast response. However, traditional approaches to deploying  AI models  impose overwhelming computation and  communication overheads . In this paper, we propose a novel edge-cloud collaborative intelligence scheme that jointly compresses and partitions  Convolutional Neural Network  (CNN) models for fast response in IoT applications. The proposed approach first accelerates a CNN by using an acceleration technique to generate new layers that can serve as candidate partitioning since their outputs are smaller than the unaccelerated layers. It then designs fine-grained prediction models to accurately estimate the execution latency for each layer in the CNN model, and finds an optimal partitioning. The proposed approach splits the compressed CNN model into two parts according to the optimal partitioning. The obtained two parts are deployed at the edge device and in the cloud, respectively, which collaboratively minimize the overall latency without compromising the accuracy of the  deep CNN  model. To the best of our knowledge, this is the first work that jointly compresses and partitions CNN models for fast edge-cloud collaborative intelligence considering both execution latency and  communication latency . Experimental results show that the proposed technique can reduce the latency by up to 73.14% compared to five benchmarking methods.",
+    "citation_count": "9",
+    "year": "2022/04/01",
+    "authors": [
+        {
+            "name": "Wanpeng Zhang",
+            "country": ""
+        },
+        {
+            "name": "Nuo Wang",
+            "country": ""
+        },
+        {
+            "name": "Liying Li",
+            "country": ""
+        },
+        {
+            "name": "Tongquan Wei",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

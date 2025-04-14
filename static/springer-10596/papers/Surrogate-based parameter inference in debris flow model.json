@@ -1,0 +1,40 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-018-9765-1",
+    "title": "Surrogate-based parameter inference in debris flow model",
+    "abstract": "This work tackles the problem of calibrating the unknown parameters of a debris flow model with the drawback that the information regarding the experimental data treatment and processing is not available. In particular, we focus on the evolution over time of the flow thickness of the debris with dam-break initial conditions. The proposed methodology consists of establishing an approximation of the numerical model using a polynomial chaos expansion that is used in place of the original model, saving computational burden. The values of the parameters are then inferred through a Bayesian approach with a particular focus on inference discrepancies that some of the important features predicted by the model exhibit. We build the model approximation using a preconditioned non-intrusive method and show that a suitable prior parameter distribution is critical to the construction of an accurate surrogate model. The results of the Bayesian inference suggest that utilizing directly the available experimental data could lead to incorrect conclusions, including the over-determination of parameters. To avoid such drawbacks, we propose to base the inference on few significant features extracted from the original data. Our experiments confirm the validity of this approach, and show that it does not lead to significant loss of information. It is further computationally more efficient than the direct approach, and can avoid the construction of an elaborate error model.",
+    "citation_count": 55,
+    "year": "2018/12",
+    "authors": [
+        {
+            "name": "Navarro, Maria",
+            "country": "Saudi Arabia"
+        },
+        {
+            "name": "Le Maître, Olivier P.",
+            "country": "France"
+        },
+        {
+            "name": "Hoteit, Ibrahim",
+            "country": "Saudi Arabia"
+        },
+        {
+            "name": "George, David L.",
+            "country": "USA"
+        },
+        {
+            "name": "Mandli, Kyle T.",
+            "country": "USA"
+        },
+        {
+            "name": "Knio, Omar M.",
+            "country": "Saudi Arabia"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

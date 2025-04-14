@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-021-01889-0",
+    "title": "Multi-view Subspace Clustering via Two Dimensional Structures Preservation on Heterogeneous Features",
+    "abstract": "Spectral clustering is a recent proposed popular method for unsupervised image clustering problem, whose performance relies on a well-designed affinity matrix that measures the similarity among data. Nevertheless, on one hand, most of the existed affinity learning methods have been proposed focus on single-feature data, which would lose some cues from their other useful heterogeneous features. On the other hand, the specific two dimensional structures of visual data are not well preserved when affinity is learned. To address these two problems, in this paper, we propose a novel heterogeneous feature based strategy for image clustering by combining projection learning and affinity learning into a joint learning framework. Inspired by multimodal information integration, heterogeneous modal-based projection learning scheme, that maps each type of heterogeneous feature into the latent subspace in a two-dimensional way, is built with original image and their multi-modal heterogeneous features respectively to preserve more useful structural information. Then, the ensembling projected data of each modal are jointly used to establish an affinity learning model based on the shared ridge regression that considers cues from all modals simultaneously, which can greatly improve the similarity metric performance. Moreover, the graph-based constraint on affinity matrix is also adopt to capture the extra nonlinear structures of the data, which provides help for keeping their neighbor relationships. An iterative numerical scheme is designed to solve the objective function of our proposed framework and ensure convergence. Extensive experimental results on several public datasets verify the advancement and effectiveness of our proposed method among comparison methods.",
+    "citation_count": 41,
+    "year": "2022/12",
+    "authors": [
+        {
+            "name": "Chen, Jinyong",
+            "country": "China"
+        },
+        {
+            "name": "Dong, Yuxin",
+            "country": "China"
+        },
+        {
+            "name": "Sun, Kang",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

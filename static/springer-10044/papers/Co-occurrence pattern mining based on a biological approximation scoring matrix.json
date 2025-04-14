@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-017-0609-8",
+    "title": "Co-occurrence pattern mining based on a biological approximation scoring matrix",
+    "abstract": "Mining co-occurrence frequency patterns from multiple sequences is a hot topic in bioinformatics. Many seemingly disorganized constituents repetitively appear under different biological matrices, such as PAM250 and BLOSUM62, which are considered hidden frequent patterns (FPs). A hidden FP with both gap and flexible approximation operations (replacement, deletion or insertion) deepens the difficulty in discovering its true occurrences. To effectively discover co-occurrence FPs (Co-FPs) under these conditions, we design a mining algorithm (co-fp-miner) using the following steps: (1) a biological approximation scoring matrix is designed to discover various deformations of a single FP pattern; (2) a data-driven intersection tactic is used to generate candidate Co-FPs; (3) a deterministic Apriori-like rule is proposed to prune unnecessary Co-FPs; and (4) finally, we employ a backtracking matching scheme to validate true Co-FPs. The co-fp-miner algorithm is an unified framework for both exact and approximate mining on multiple sequences. Experiments on DNA and protein sequences demonstrate that co-fp-miner is more efficient on solutions, time and memory consumption than that of other peers.",
+    "citation_count": 52,
+    "year": "2018/11",
+    "authors": [
+        {
+            "name": "Guo, Dan",
+            "country": "China"
+        },
+        {
+            "name": "Yuan, Ermao",
+            "country": "China"
+        },
+        {
+            "name": "Hu, Xuegang",
+            "country": "China"
+        },
+        {
+            "name": "Wu, Xindong",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124000377",
+    "title": "A traceable and revocable broadcast encryption scheme for preventing malicious encryptors in Medical IoT",
+    "abstract": "Medical data sharing is essential for the advancement of medical research, but the existence of malicious encryptors and malicious users poses a major challenge to the seamless sharing of information among  healthcare providers . We proposed a traceable and revocable broadcast  encryption scheme  for preventing malicious encryptors in the Medical  Internet of Things  (MIoT). In 2023, Wang et al. first proposed the concept of malicious encryptor for broadcast encryption and trator tracing, and they constructed a scheme for preventing this attack. The malicious encryptor is reasonable in real broadcast  encryption systems  because the encryptor is not always the same as the digital content provider. When digital content providers for medical institutions want to share sensitive medical data, the employees may implement encryption. Then the employees may plant some trapdoors and sell to the black market, which can be used to construct pirated boxes. To resist malicious encryptor attacks, we rely on the uniform distribution of the output of the secure  cryptographic hash  function to generate the randomness needed for encryption. To prevent malicious users from selling their private keys to attackers, we set up public tracing and  revocation  mechanisms. Meanwhile, we enable digital content providers to share common  encrypted data  to different groups of authorized users protected by privacy, while also sharing individual data to designated consumers of those groups. Under the decision  q -parallel BDHE assumption without random oracles, our construction is demonstrated to be adaptive IND-CPA secure. Since we have a compact  communication bandwidth , a constant user secret key size, and only three bilinear operations are needed for decryption to recover the encrypted broadcast message, our scheme does not add much overhead and is therefore practical.",
+    "citation_count": "6",
+    "year": "2024/04/01",
+    "authors": [
+        {
+            "name": "Shuanggen Liu",
+            "country": ""
+        },
+        {
+            "name": "Hailun Pan",
+            "country": ""
+        },
+        {
+            "name": "Xu An Wang",
+            "country": ""
+        },
+        {
+            "name": "Siyi Zhao",
+            "country": ""
+        },
+        {
+            "name": "Qing Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

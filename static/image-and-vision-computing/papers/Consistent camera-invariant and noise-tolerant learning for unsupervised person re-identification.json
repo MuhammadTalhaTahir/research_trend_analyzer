@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885622000919",
+    "title": "Consistent camera-invariant and noise-tolerant learning for unsupervised person re-identification",
+    "abstract": "Unsupervised person re-identification (re-ID) is still a challenging task. Existing methods usually utilize an alternative manner of generating pseudo labels by clustering and optimizing the model based on pseudo labels. Although these methods achieve great accuracy, there remain two  problems unsolved : (1) Noise labels caused by camera variations and other factors. (2) The training of the model is inconsistent or unstable. In this paper, we propose a cluster memory-based  meta learning  (CMML) strategy with a cluster memory-based additive margin (CMAM) loss to deal with noise labels caused by camera variations and the model training problem, and a cluster memory-based noise-tolerant (CMNT) loss to tackle the rest noise labels. Extensive experimental results on three re-ID datasets (i.e., DukeMTMC-reID, Market1501 and MSMT17) validate the effectiveness of our proposed method. Our method achieves 70.3%, 81.8%, and 39.2%  mAP  on these three datasets, yielding comparable performance against the state-of-the-art purely unsupervised re-ID methods.",
+    "citation_count": "4",
+    "year": "2022/07/01",
+    "authors": [
+        {
+            "name": "Yiyu Chen",
+            "country": ""
+        },
+        {
+            "name": "Zheyi Fan",
+            "country": ""
+        },
+        {
+            "name": "Shuni Chen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

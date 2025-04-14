@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218310198",
+    "title": "Empirical study on rotation and information exchange in particle swarm optimization",
+    "abstract": "This paper investigates whether rotational variance and information exchange affect the performance of  Particle Swarm Optimization  (PSO) algorithms. Four  PSO  versions which include the presence or  absence  of rotational variance, and the fast or late information exchange among particles are under evaluation. The goal is to highlight the best approach and principal benefits of each PSO version based on numerical simulations. To accomplish the aforesaid, the algorithms were evaluated on CEC 2017 benchmark  optimization problems . Additionally, a method to estimate a reliable number of algorithms executions was also proposed. Statistical measurements based on Clerc's rules were used to strengthen the analyses. The results indicated the rotationally variant PSO as the overall winner, and the fast information exchange was statistically significant better than the late one, according to Friedman's and  Wilcoxon's tests .",
+    "citation_count": "3",
+    "year": "2019/08/01",
+    "authors": [
+        {
+            "name": "Reginaldo Santos",
+            "country": ""
+        },
+        {
+            "name": "Gilvan Borges",
+            "country": ""
+        },
+        {
+            "name": "Adam Santos",
+            "country": ""
+        },
+        {
+            "name": "Moisés Silva",
+            "country": ""
+        },
+        {
+            "name": "Claudomiro Sales",
+            "country": ""
+        },
+        {
+            "name": "João C.W.A. Costa",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

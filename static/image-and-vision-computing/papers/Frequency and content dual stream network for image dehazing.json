@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001944",
+    "title": "Frequency and content dual stream network for image dehazing",
+    "abstract": "Image dehazing can improve image clarity and visual effect, which plays a pivotal role in many computer vision tasks. Existing dehazing methods are mostly based on a single feature stream and tend to ignore the low-frequency characteristics of haze. In this paper, we propose a dual stream network for image dehazing. To enhance the edge information and texture detail of the image, we construct a frequency stream based on attention octave convolution. We decompose the features into high and low-frequency branches in the frequency stream to obtain different structural information. By adding a residual channel attention block, the attention octave convolution can extract frequency features more efficiently and effectively. Due to the lower resolution of low-frequency features in the frequency stream, the frequency stream features alone are insufficient for recovering the overall content of the image. Therefore, a content stream was added to compensate for the information lost in the frequency stream. By fusing the outputs of two feature streams, the network achieves an enhanced dehazing performance. The results show that our method is superior to other state-of-the-art algorithms in quantitative evaluation and visual impact.",
+    "citation_count": "0",
+    "year": "2023/11/01",
+    "authors": [
+        {
+            "name": "Meihua Wang",
+            "country": ""
+        },
+        {
+            "name": "Lei Liao",
+            "country": ""
+        },
+        {
+            "name": "De Huang",
+            "country": ""
+        },
+        {
+            "name": "Zhun Fan",
+            "country": ""
+        },
+        {
+            "name": "Jiafan Zhuang",
+            "country": ""
+        },
+        {
+            "name": "Wensheng Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

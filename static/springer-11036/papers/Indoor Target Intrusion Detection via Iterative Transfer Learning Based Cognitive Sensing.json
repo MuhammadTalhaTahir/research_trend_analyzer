@@ -1,0 +1,39 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-019-01335-2",
+    "title": "Indoor Target Intrusion Detection via Iterative Transfer Learning Based Cognitive Sensing",
+    "abstract": "The traditional localization technology, which requires the target carrying device and participating in localization process, transmits the signal to be received by the device to estimate the target locations, but it perceives the changes in the environment weakly as well as limits the application of localization services. Based on this, we propose a new indoor target intrusion detection approach based on iterative transfer learning without special device. In concrete terms, this approach relies on iterative transfer learning to use the signal received by Monitor Points (MPs) to determine whether there is a target intrusion in the environment, infer the area where the target is located, and consequently achieve autonomous cognitive sensing of environmental change. Specifically, first of all, we use the Received Signal Strength (RSS) data collected offline and their corresponding silence and intrusion labels to construct a source domain. Second, the cross-validation is applied to perform preliminary calibration on the RSS data collected online to obtain their corresponding pseudo-labels, and then these pseudo-labels are utilized to construct the target domain. Finally, the labels of target domain are obtained through the iterative intra-class transfer learning between the source and target domains. Furthermore, the experimental results show that the proposed approach can not only achieve high intrusion detection accuracy with a small number of RSS data, but also perform well in the cognitive sensing of the change of MPs.",
+    "citation_count": 40,
+    "year": "2019/12",
+    "authors": [
+        {
+            "name": "Zhou, Mu",
+            "country": "China"
+        },
+        {
+            "name": "Li, Yaoping",
+            "country": "China"
+        },
+        {
+            "name": "Deng, Zhian",
+            "country": "China"
+        },
+        {
+            "name": "Sun, Yongliang",
+            "country": "China"
+        },
+        {
+            "name": "Wang, Yanmeng",
+            "country": "China"
+        },
+        {
+            "name": "Tian, Zengshan",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

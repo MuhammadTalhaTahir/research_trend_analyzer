@@ -1,0 +1,43 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-022-02006-5",
+    "title": "Deep Reinforcement Learning-based Resource Allocation for 5G Machine-type Communication in Active Distribution Networks with Time-varying Interference",
+    "abstract": "Active distribution networks (ADNs) can solve the problem of grid compatibility and large-scale, intermittent, renewable energy applications. As the core part of ADNs, advanced metering infrastructure (AMI) meets the reliability requirements of the system for monitoring, diagnosis and control by extensive data acquisition and effective data transmission. The fifth-generation (5G) New Radio (NR) with ultra-reliable low-latency communication (URLLC) can be applied in ADNs for data transmission. However, in ADNs, the electromagnetic environment is complex, and the interference is diverse and time-varying. This scenario creates great challenges to data transmission in 5G communication networks. In this paper, we model the data transmission in 5G, design a rolling solution framework from predicting interference to improving data repetition, and then allocate wireless resources. To adapt resource allocation to time-varying interference, we propose an interference prediction algorithm to accurately estimate the interference distribution in the whole scheduling cycle. Moreover, to meet the second-level, resource scheduling requirement, we model resource allocation as a dynamic programming problem with the goal of maximizing energy efficiency and solve it by a DDQN-based reinforcement learning algorithm.",
+    "citation_count": 32,
+    "year": "2022/12",
+    "authors": [
+        {
+            "name": "Li, Qiyue",
+            "country": "China"
+        },
+        {
+            "name": "Cheng, Hong",
+            "country": "China"
+        },
+        {
+            "name": "Yang, Yangzhao",
+            "country": "China"
+        },
+        {
+            "name": "Tang, Haochen",
+            "country": "China"
+        },
+        {
+            "name": "Wang, Junbo",
+            "country": "China"
+        },
+        {
+            "name": "Luo, Guojun",
+            "country": "China"
+        },
+        {
+            "name": "Sun, Wei",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

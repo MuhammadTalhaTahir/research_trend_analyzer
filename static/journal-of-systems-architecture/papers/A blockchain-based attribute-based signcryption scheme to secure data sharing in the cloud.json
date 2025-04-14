@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762119304606",
+    "title": "A blockchain-based attribute-based signcryption scheme to secure data sharing in the cloud",
+    "abstract": "Traditional cloud data sharing schemes have relied on the architecture of the network and large storage providers. However, these storage providers work as trusted third parties to transfer and store data. This kind of cloud storage model has some weak points, such as data availability, centralized data storage, high operational cost, and security concern. In this paper, we combine the concept of  blockchain  with attribute-based signcryption to provide a secure data sharing in the cloud environment. The proposed scheme satisfies the security requirements of the  cloud computing  such as confidentiality and unforgeability. Further, the  smart contract  solves the problem of cloud storage such as returning wrong results as in the traditional cloud server. Finally, the performance comparisons and simulation results show that our proposed scheme is more efficient than others, and it is practical.",
+    "citation_count": "94",
+    "year": "2020/01/01",
+    "authors": [
+        {
+            "name": "Nabeil Eltayieb",
+            "country": ""
+        },
+        {
+            "name": "Rashad Elhabob",
+            "country": ""
+        },
+        {
+            "name": "Alzubair Hassan",
+            "country": ""
+        },
+        {
+            "name": "Fagen Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

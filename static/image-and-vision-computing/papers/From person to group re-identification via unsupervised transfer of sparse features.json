@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885619300186",
+    "title": "From person to group re-identification via unsupervised transfer of sparse features",
+    "abstract": "The visual association of a person appearing in the field of view of different cameras is today well known as Person Re-Identification. Current approaches find a solution to such a problem by considering persons as individuals, hence avoiding the fact that frequently they form groups or move in crowds. In such cases, the information acquired by neighboring individuals can provide relevant visual context to boost the performance in re-identifying persons within the group. In light of enriched information, groups re-identification encompasses additional problems to the common person re-identification ones, such as severe occlusions and changes in the  relative position  of people within the group. In this paper, the single person re-identification knowledge is transferred by means of a sparse dictionary learning to group re-identification. First, patches extracted from single person images are used to learn a dictionary of sparse atoms. This is used to obtain a sparsity-driven residual group representation that is exploited to perform group re-identification. To evaluate the performance of the proposed approach, we considered the i-LIDS groups dataset that is the only group re-identification publicly available dataset. The benchmark datasets for single person re-identification evaluation do not include group information, hence we collected two additional datasets under challenging scenarios and used them to validate our solution.",
+    "citation_count": "8",
+    "year": "2019/03/01",
+    "authors": [
+        {
+            "name": "Giuseppe Lisanti",
+            "country": ""
+        },
+        {
+            "name": "Niki Martinel",
+            "country": ""
+        },
+        {
+            "name": "Christian Micheloni",
+            "country": ""
+        },
+        {
+            "name": "Alberto Del Bimbo",
+            "country": ""
+        },
+        {
+            "name": "Gian Luca Foresti",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-016-0554-y",
+    "title": "A comparative study of the performance of local feature-based pattern recognition algorithms",
+    "abstract": "Several feature-based pattern recognition algorithms have been developed during the past decade. These algorithms rely on identifying keypoints in an image and assigning a descriptor to each point based on the composition of their surrounding region. Comparison of the descriptors of keypoints found in two images enables these algorithms to match similar objects within those images. The dependence of these algorithms’ performance on the similarity of the internal structure of objects makes them susceptible to modifications that change this internal structure. In this paper, we first compare the relative performance of some major feature-based algorithms in finding similar objects surrounded by geometrical noise. Next, we add several noise and transformation types to target objects and re-evaluate the performance of these algorithms under the resulting structural changes. Our results provide insights on the relative strengths of these algorithms in the presence and absence of several noise and transformation types. In addition, these findings allow us to identify modification types that can better inhibit the performance of these algorithms. The resulting insight can be used in applications that need to build resistance against such algorithms, e.g., in developing CAPTCHAs that need to be resistant to recognition attacks.",
+    "citation_count": 28,
+    "year": "2017/11",
+    "authors": [
+        {
+            "name": "Roshanbin, Narges",
+            "country": "Canada"
+        },
+        {
+            "name": "Miller, James",
+            "country": "Canada"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

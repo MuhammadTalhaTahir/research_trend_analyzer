@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623002172",
+    "title": "Face and body-shape integration model for cloth-changing person re-identification",
+    "abstract": "Among the existing deep learning-based person re-identification (ReID) methods, human  parsing  based on  semantic segmentation  is the most promising solution for  ReID  because such models can learn to identify fine-grained details of different body parts or apparel of a target semantically. However, intra-class variations such as illumination changes, multi-pose angles, and cloth-changing (CC) across different non-overlapping camera viewpoints present a crucial challenge for this approach. Among these challenges, a person CC is the most distinctive problem for ReID models, which often fail to associate the target in new cloth against the learned feature semantics of the previous cloth worn in a different timeline. In this paper, we propose a face and body-shape integration (FBI) network as a tactical solution to address the long-term person CC-ReID problem. The FBI comprises hierarchically stacked parsing and edge prediction (PEP)  CNN  blocks that generate fine-grained human-parsing output at the initial stage. We then aligned the PEP to our proposed model agnostic plug-in feature overlay module (FOM) to mask cloth-relevant body attributes except the  facial features  pooled from the input sample. Thus, our human parsing PEP and FOM modules are attuned to discriminatively learn cloth-irrelevant features of the target pedestrian(s) to optimize the effectiveness of person ReID in solitary or minimally crowded areas. In our extensive person CC-ReID experiments, our FBI model achieves 83.4/61.8 in R1 and 91.7/65.8 in  mAP  evaluation results on the PRCC and LTCC datasets, respectively; thereby significantly out-competing several previous state-of-the-art ReID methods, and validating the effectiveness of the FBI.",
+    "citation_count": "3",
+    "year": "2023/12/01",
+    "authors": [
+        {
+            "name": "Obinna Agbodike",
+            "country": ""
+        },
+        {
+            "name": "Weijin Zhang",
+            "country": ""
+        },
+        {
+            "name": "Jenhui Chen",
+            "country": ""
+        },
+        {
+            "name": "Lei Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

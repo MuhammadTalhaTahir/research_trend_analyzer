@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124000791",
+    "title": "Resource-aware Montgomery modular multiplication optimization for digital signal processing",
+    "abstract": "Homomorphic encryption  is an important technology for protecting data privacy, and the performance of modular multiplication directly affects the efficiency of homomorphic encryption. Currently, there are numerous FPGA-based acceleration techniques targeting modular multiplication. However, many of these implementations require substantial hardware resources or suffer from resource imbalance. This leads to a lower throughput. Therefore, we present a novel FPGA-based implementation of Montgomery Modular Multiplication aimed at addressing these challenges. Our design employs a suitable radix bit width and word size based on the  digital signal processing  (DSP) bit width rather than the conventional binary powers of two. We aim to instantiate more modular multipliers using limited resources while minimizing latency. We also introduce a novel DSP cascade structure, called parallel grouping cascade DSP, which reduces the number of clock cycles of internal multipliers. To balance the ratio of  lookup table  (LUT) and DSP usage, we also use multipliers implemented in the LUT to replace some DSPs. Our results, implemented on Xilinx Virtex-7 field-programmable gate array (FPGA), demonstrate more than 27% improvement in throughput on 1024-bit modular multiplication and more than 70% improvement on 2048-bit compared to the best previous state-of-the-art references.",
+    "citation_count": "2",
+    "year": "2024/06/01",
+    "authors": [
+        {
+            "name": "Qiqi Tao",
+            "country": ""
+        },
+        {
+            "name": "Liying Li",
+            "country": ""
+        },
+        {
+            "name": "Junlong Zhou",
+            "country": ""
+        },
+        {
+            "name": "Guitao Cao",
+            "country": ""
+        },
+        {
+            "name": "Dan Meng",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

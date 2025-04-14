@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-012-9297-z",
+    "title": "A supercoarsening multigrid method for poroelasticity in 3D coupled flow and geomechanics modeling",
+    "abstract": "The Galerkin finite-element discretization of the force balance equation typically leads to large linear systems for geomechanical problems with realistic dimensions. In iteratively coupled flow and geomechanics modeling, a large linear system is solved at every timestep often multiple times during coupling iterations. The iterative solution of the linear system stemming from the poroelasticity equations constitutes the most time-consuming and memory-intensive component of coupled modeling. Block Jacobi, LSOR, and Incomplete LU factorization are popular preconditioning techniques used for accelerating the iterative solution of the poroelasticity linear systems. However, the need for more effective, efficient, and robust iterative solution techniques still remains especially for large coupled modeling problems requiring the solution of the poroelasticity system for a large number of timesteps. We developed a supercoarsening multigrid method (SCMG) which can be multiplicatively combined with commonly used preconditioning techniques. SCMG has been tested on a variety of coupled flow and geomechanics problems involving single-phase depletion and multiphase displacement of in-situ hydrocarbons, CO2 injection, and extreme material property contrasts. Our analysis indicates that the SCMG consistently improves the convergence properties of the linear systems arising from the poroelasticity equations, and thus, accelerates the coupled simulations for all cases subject to investigation. The joint utilization of the two-level SCMG with the ILU1 preconditioner emerges as the most optimal preconditioning/iterative solution strategy in a great majority of the problems evaluated in this work. The BiCGSTAB iterative solver converges more rapidly compared to PCG in a number of test cases, in which various SCMG-accelerated preconditioning strategies are applied to both iterators.",
+    "citation_count": 51,
+    "year": "2012/09",
+    "authors": [
+        {
+            "name": "Alpak, Faruk O.",
+            "country": "USA"
+        },
+        {
+            "name": "Wheeler, Mary F.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

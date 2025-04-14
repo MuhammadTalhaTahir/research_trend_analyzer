@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217304753",
+    "title": "A modified Intellects-Masses Optimizer for solving real-world optimization problems",
+    "abstract": "The Intellects-Masses Optimizer (IMO) is a recently-proposed cultural algorithm, which is easy to understand, use, and implement. IMO requires (almost) no parameter tuning and has successfully been used to tackle unconstrained continuous optimization problems. A modified variant of IMO, called MIMO, is proposed in this paper. The proposed method uses improved update equations, a self-adaptive scaling factor, duplicates removal, and a local search to improve the performance of IMO. The MIMO method is tested on the 22 IEEE CEC 2011 real-world benchmark problems and is compared with 14  state-of-the-art  algorithms. The results demonstrate the outperformance of the proposed method and its superiority compared to the original IMO algorithm.",
+    "citation_count": "11",
+    "year": "2018/08/01",
+    "authors": [
+        {
+            "name": "Mahamed G.H. Omran",
+            "country": ""
+        },
+        {
+            "name": "Salah Alsharhan",
+            "country": ""
+        },
+        {
+            "name": "Maurice Clerc",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

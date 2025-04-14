@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-008-9090-1",
+    "title": "Geoacoustic inversion using adaptive neuro-fuzzy inference system",
+    "abstract": "The geoacoustic parameters form significant input for underwater acoustic propagation studies and geoacoustic modeling. Conventional inversion techniques commonly used as indirect approach for extraction of geoacoustic parameters from acoustic or seismic data are computationally intensive and time-consuming. In the present study, we have tried to exploit the advantage of soft computing techniques like, reasoning ability of fuzzy logic and learning abilities of neural networks, in inversion studies. The network model based on the combined approach called adaptive neuro-fuzzy inference system (ANFIS), is found to be very promising in inversion of the acoustic data. The network model once built is capable of invert a few thousand data sets instantaneously, to a reasonably good accuracy. In the case of conventional approaches, repetition of the entire inversion process with each new data set is required. A limited number of sensor’s data are sufficient for simulation of the network model and provides an advantage to use short hydrophone array data. Inversion results of a few hundred test data sets, representing different geoacoustic environments, show the prediction error is much less than 0.01&nbsp;g/cc, 10&nbsp;m/s, 10&nbsp;m and 0.1 against first layer’s density, compressional sound speed, thickness and attenuation respectively for a three-layer geoacoustic model. However, the error is relatively large for the second- and third-layer parameters, which need to be improved. The model is efficient, robust and inexpensive.",
+    "citation_count": 35,
+    "year": "2008/12",
+    "authors": [
+        {
+            "name": "Yegireddi, Satyanarayana",
+            "country": "India"
+        },
+        {
+            "name": "Kumar, Arvind",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

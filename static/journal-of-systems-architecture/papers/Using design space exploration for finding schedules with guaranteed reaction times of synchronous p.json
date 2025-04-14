@@ -1,0 +1,42 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762116302557",
+    "title": "Using design space exploration for finding schedules with guaranteed reaction times of synchronous programs on multi-core architecture",
+    "abstract": "The synchronous  model of computation  is well suited for real-time systems, because it allows  static analysis  in order to find and guarantee their reaction times. Today’s multi-core systems are becoming the predominant computing platforms. Synchronous programs are typically compiled into single threaded code, which makes them unsuitable for exploiting  parallelism  of the multi-core platforms. Moreover, static timing analysis becomes highly intractable for multi-core systems. This article proposes a novel methodology that aims at finding the mapping and schedule of synchronous programs that guarantees, statically, reaction times when mapped onto a multi-core system consisting of two types of time-predictable cores. The proposed methodology combines  design space exploration  based on  evolutionary algorithm  and scheduling of parts of synchronous programs. It allows minimizing the resource usage in terms of number of cores by finding the mapping and schedule with the guaranteed reaction time for architectures with different number of cores. In particular, we: (a) transform a synchronous program written in synchronous SystemJ to a graph-based model represented with two types of computation nodes suitable for execution on two types of time-predictable cores, (b) perform mapping of computation nodes on a customizable multi-core platform using genetic operations, and (c) generate a resulting static schedule of computation nodes for each mapping as part of the design space exploration. The design flow, from program specification and node mapping to the design space exploration and multi-core scheduling is completely automated.",
+    "citation_count": "8",
+    "year": "2017/03/01",
+    "authors": [
+        {
+            "name": "Zhenmin Li",
+            "country": ""
+        },
+        {
+            "name": "Heejong Park",
+            "country": ""
+        },
+        {
+            "name": "Avinash Malik",
+            "country": ""
+        },
+        {
+            "name": "Kevin I-Kai Wang",
+            "country": ""
+        },
+        {
+            "name": "Zoran Salcic",
+            "country": ""
+        },
+        {
+            "name": "Boris Kuzmin",
+            "country": ""
+        },
+        {
+            "name": "Michael Glaß",
+            "country": ""
+        },
+        {
+            "name": "Jürgen Teich",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

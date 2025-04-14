@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959522000534",
+    "title": "Predicting river water height using deep learning-based features",
+    "abstract": "The paper presents the river height prediction model using real-world historical sensor data such as rainfall, cumulative rainfall, and river water heights. The study evaluates using a Support Vector Regression, a Long Short-Term Memory, and a combination of a Long Short-Term Memory as the feature extraction and a support vector regression. Through experiments, various future predictions are tested, including a few hours or a day. As expected, RNN achieved the lowest error, but it could not capture rapid changes in river height levels. In comparison, the LSTM-SVR can better represent rapid transient changes in the data by using nonlinear kernels.",
+    "citation_count": "0",
+    "year": "2022/12/01",
+    "authors": [
+        {
+            "name": "Punyanuch Borwarnginn",
+            "country": ""
+        },
+        {
+            "name": "Jason H. Haga",
+            "country": ""
+        },
+        {
+            "name": "Worapan Kusakunniran",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

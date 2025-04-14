@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621000688",
+    "title": "Multimodal assessment of apparent personality using feature attention and error consistency constraint",
+    "abstract": "Personality computing and  affective computing , where the recognition of personality traits is essential, have gained increasing interest and attention in many research areas recently. We propose a novel approach to recognize the  Big Five personality traits  of people from videos. To this end, we use four different modalities, namely, ambient appearance (scene),  facial appearance , voice, and transcribed speech. Through a specialized  subnetwork  for each of these modalities, our model learns reliable modality-specific representations and fuse them using an  attention mechanism  that re-weights each dimension of these representations to obtain an optimal combination of  multimodal information . A novel loss function is employed to enforce the proposed model to give an equivalent importance for each of the personality traits to be estimated through a consistency constraint that keeps the trait-specific errors as close as possible. To further enhance the reliability of our model, we employ (pre-trained) state-of-the-art architectures (i.e.,  ResNet , VGGish, ELMo) as the backbones of the modality-specific subnetworks, which are complemented by multilayered Long Short-Term Memory networks to capture temporal dynamics. To minimize the  computational complexity  of multimodal optimization, we use two-stage modeling, where the modality-specific subnetworks are first trained individually, and the whole network is then fine-tuned to jointly model multimodal data. On the large scale ChaLearn First Impressions V2 challenge dataset, we evaluate the reliability of our model as well as investigating the informativeness of the considered modalities. Experimental results show the effectiveness of the proposed attention mechanism and the error consistency constraint. While the best performance is obtained using facial information among  individual modalities , with the use of all four modalities, our model achieves a mean accuracy of 91.8%, improving the state of the art in automatic personality analysis.",
+    "citation_count": "32",
+    "year": "2021/06/01",
+    "authors": [
+        {
+            "name": "Süleyman Aslan",
+            "country": ""
+        },
+        {
+            "name": "Uğur Güdükbay",
+            "country": ""
+        },
+        {
+            "name": "Hamdi Dibeklioğlu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

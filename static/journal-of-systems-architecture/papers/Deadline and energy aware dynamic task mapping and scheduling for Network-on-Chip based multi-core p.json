@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762117300498",
+    "title": "Deadline and energy aware dynamic task mapping and scheduling for Network-on-Chip based multi-core platform",
+    "abstract": "Task allocation and scheduling is a challenging problem in Network-on-Chip (NoC) based multi-core systems. It affects the performance of the application in terms of energy consumption and timing. The complexity of the problem increases further for dynamic scenarios where new applications can arrive in the multi-core platform at any time instant. In real-time systems, validity of computation is dependent on both the correctness of the result and temporal  constraint satisfaction . Although a significant amount of work has been done in this domain, existing algorithms either ignore  task scheduling  or assume an as-soon-as possible scheduling strategy when determining task allocation at design-time. In this paper, we propose an improved deadline and energy aware dynamic task mapping and  scheduling algorithm  for multi-core platform. A detailed evaluation of the performance of the proposed algorithm has been conducted for different types of applications. The simulation results show that the use of task slack time while allocating tasks to processing elements can produce on an average 28% reduction in communication energy, compared to communication-aware packing based nearest neighbour algorithm. For real-time dynamic scenarios, the proposed algorithm performs an intelligent  resource allocation  which improves the rate of deadline satisfaction for the applications. We have also augmented the proposed algorithm to incorporate  task migration  for further improvement in the quality of solution.",
+    "citation_count": "26",
+    "year": "2017/03/01",
+    "authors": [
+        {
+            "name": "Navonil Chatterjee",
+            "country": ""
+        },
+        {
+            "name": "Suraj Paul",
+            "country": ""
+        },
+        {
+            "name": "Priyajit Mukherjee",
+            "country": ""
+        },
+        {
+            "name": "Santanu Chattopadhyay",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

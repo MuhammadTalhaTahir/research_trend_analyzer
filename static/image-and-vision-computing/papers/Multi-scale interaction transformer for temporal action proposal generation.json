@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885622002189",
+    "title": "Multi-scale interaction transformer for temporal action proposal generation",
+    "abstract": "Temporal action proposal generation is to localize the time intervals with actions in untrimmed videos. Action instances in untrimmed videos have dramatically varied temporal scales which brings about great challenges for temporal action proposal generation. While temporal action proposal generation has achieved tremendous progress over the past years, multi-scale issue in action proposal generation is still an open problem. In this paper, we propose a Multi-scale Interaction Transformer (MSIT) architecture, which adopts a directly set prediction method to work out the temporal action proposal generation task. MSIT constructs multi-scale feature pyramids and incorporates a novel multi-scale mechanism into Transformer framework. A customized top-down interaction structure is designed to perform self-scale attention and cross-scale attention at different levels of the feature pyramids. Through the top-down interaction, the semantic and  location information  in each feature level is strengthened and therefore the proposal generation performance can be improved. Furthermore, to model the accurate action locations for each frame, we incorporate an actionness prediction structure to constrain the features output from the encoder. The proposed method was tested on two challenging datasets: THUMOS14 and ActivityNet-1.3. Experiments show that our method achieves comparable performance with state-of-the-art methods. Extensive studies and visualizations also demonstrate the strength of our method.",
+    "citation_count": "9",
+    "year": "2023/01/01",
+    "authors": [
+        {
+            "name": "Jiahui Shang",
+            "country": ""
+        },
+        {
+            "name": "Ping Wei",
+            "country": ""
+        },
+        {
+            "name": "Huan Li",
+            "country": ""
+        },
+        {
+            "name": "Nanning Zheng",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

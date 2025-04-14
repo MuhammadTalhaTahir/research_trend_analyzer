@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650219300033",
+    "title": "Frequent pattern mining assisted energy consumption evolutionary optimization approach based on surrogate model at GCC compile time",
+    "abstract": "The  evolutionary algorithms  have been used to improve the energy consumption of  embedded software  by searching the optimal compilation options of GCC compiler. However, these algorithms do not consider the complex multivariate interactions between compilation options, which has negative effect on solution quality and convergence rate. Furthermore, it is also not investigated how to reduce the computational cost incurred by fitness evaluation using adaptive  surrogate models . To address these problems, a novel approach to energy consumption optimization at GCC compile time, named FACET, is proposed in this paper. Firstly, the high-frequency multivariate interactions with positive effect on energy consumption are captured during evolution by our proposed  frequent patterns mining  algorithm. Secondly, the captured multivariate positive interactions are regarded as heuristic knowledge to guide the design of two  mutation operators  of ADD and DELETE. Thirdly, the adaptive surrogate models are introduced to assist fitness evaluation in order to reduce the high time-consumption. Finally, we evaluate our approach on 8 typical problem instances, drawn from 5 categories using 6 measurement metrics. Our results show that FACET was significantly better ( p < 0.05 ) than Tree-EDA in terms of solution quality and convergence rate in all compared experiments (with high Vargha-Delaney  A ˆ 12  effect size). Specifically, FACET can reduce energy consumption by 2.5% on average and 16.4% at best; accelerate convergence by 36.3% on average and 80.6% at best. Moreover, FACET was also significantly better ( p < 0.05 ) than Tree-EDA and SM-GA in terms of multivariate  positive correlation  in the optimal solutions (with high Vargha-Delaney  A ˆ 12  effect size). FACET can enhance the proportion of positive correlation by 23.3% against Tree-EDA and by 36.4% against SM-GA on average. At the same time, the adaptive surrogate models significantly save time by 73.96% on average while their accuracy reaches as high as above 99%. In addition, the adaptive surrogate models have no significant  negative impact  on solution quality of FACET.",
+    "citation_count": "8",
+    "year": "2019/11/01",
+    "authors": [
+        {
+            "name": "Youcong Ni",
+            "country": ""
+        },
+        {
+            "name": "Xin Du",
+            "country": ""
+        },
+        {
+            "name": "Peng Ye",
+            "country": ""
+        },
+        {
+            "name": "Ruliang Xiao",
+            "country": ""
+        },
+        {
+            "name": "Yuan Yuan",
+            "country": ""
+        },
+        {
+            "name": "Wangbiao Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

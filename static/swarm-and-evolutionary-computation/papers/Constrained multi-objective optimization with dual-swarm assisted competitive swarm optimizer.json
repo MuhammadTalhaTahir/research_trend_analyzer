@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224000294",
+    "title": "Constrained multi-objective optimization with dual-swarm assisted competitive swarm optimizer",
+    "abstract": "Many  metaheuristic  methods have been proposed and have shown promising performance in solving multi-objective  optimization problems  (MOPs). As a representative example, the competitive  swarm  optimizer (CSO) exhibits excellent performance in solving large-scale MOPs. However, CSO performs poorly when used straightforwardly for constrained MOPs with complex constraints or  objective spaces . In this paper, we propose a dual-swarm-based CSO framework that co-evolves two swarms with different orientations: (i) CSO is improved using  genetic algorithms , namely CSO-GA to form a convergence-directed swarm without considering constraints to accelerate the convergence. (ii) CSO is further improved by differential evolution, namely CSO-DE to form a search-directed swarm by considering constraints to enhance diversity and improving the search for the constrained  Pareto front . Moreover, a new constraint relaxation method is proposed that combines the  particle swarm  feasible rate and current evolutionary generation to dynamically adjust the factor for decreasing or increasing constraint relaxation. Extensive experiments with 37 benchmark instances and nineteen real-world constrained MOPs demonstrate that our proposed algorithm yields significantly better or at least more competitive results than ten state-of-the-art methods.",
+    "citation_count": "0",
+    "year": "2024/04/01",
+    "authors": [
+        {
+            "name": "Yubo Wang",
+            "country": ""
+        },
+        {
+            "name": "Chengyu Hu",
+            "country": ""
+        },
+        {
+            "name": "Wenyin Gong",
+            "country": ""
+        },
+        {
+            "name": "Fei Ming",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

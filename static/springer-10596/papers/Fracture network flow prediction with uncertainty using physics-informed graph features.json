@@ -1,0 +1,40 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-023-10256-9",
+    "title": "Fracture network flow prediction with uncertainty using physics-informed graph features",
+    "abstract": "The inherent uncertainty of subsurface fracture characteristics requires an ensemble-based approach where multiple network realizations are generated to represent a single physical system. However, the computational cost of these simulations is often prohibitive for carrying out an adequate number of simulations to obtain stable statistics for many quantities of interest, including the first passage time distribution (FPTD) of particles passing through the system. We characterize how variability induced by stochastic representations of subsurface fracture networks propagates into the FPTD. We simulate flow and transport on a large ensemble of three-dimensional fracture networks, observe the quantiles of the first passage time distributions, and characterize the network structure using coarse graph-based representations. Through analysis of the first passage times and graphs, we identify key geostructural features which explain variation in the FPTD. These features integrate hydrological fracture properties (permeability) with topological attributes. Using these features, we fit both parametric and nonparametric regression models to predict FPTD with uncertainty, compare the relative performance of each model in terms of error and coverage, and discuss possible model extensions. Models are validated using a held-out set of networks independently generated under different parameter settings. These nonparametric regression models can flexibly account for nonlinear relationships while allowing prediction intervals to adjust accurately depending on input feature values.",
+    "citation_count": 90,
+    "year": "2023/12",
+    "authors": [
+        {
+            "name": "Strait, Justin D.",
+            "country": "USA"
+        },
+        {
+            "name": "Moran, Kelly R.",
+            "country": "USA"
+        },
+        {
+            "name": "Hyman, Jeffrey D.",
+            "country": "USA"
+        },
+        {
+            "name": "Viswanathan, Hari S.",
+            "country": "USA"
+        },
+        {
+            "name": "Sweeney, Matthew R.",
+            "country": "USA"
+        },
+        {
+            "name": "Stauffer, Philip H.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

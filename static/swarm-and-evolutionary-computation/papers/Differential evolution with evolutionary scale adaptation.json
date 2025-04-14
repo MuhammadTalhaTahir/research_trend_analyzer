@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224000142",
+    "title": "Differential evolution with evolutionary scale adaptation",
+    "abstract": "The performance of differential evolution (DE) algorithm heavily depends on the evolutionary scale, which is controlled by the generation operations including mutation, crossover and the  control parameters  including mutation factor and crossover rate. Adjusting the evolutionary scale to suit different types of problems is a critical yet challenging open question in DE research. To efficiently address this issue, this paper proposes a novel DE based on evolutionary scale adaptation, termed as ESADE. First, a successful scale estimation mechanism is proposed to measure the appropriate evolutionary scale by utilizing the successful evolutionary feedback from the  solution space  provided by the trial vectors and the target vectors. With the appropriate evolutionary scale, an evolutionary scale adaptation mechanism pre-selects the closest or the farthest trial vector from each target vector, which corresponds to a small or large evolutionary scale respectively to match the search requirements of different evolutionary stages. The effectiveness of the ESA method is demonstrated by performance comparisons with each single baseline strategy, state-of-the-art DEs and state-of-the-art multi-strategy methods on 29  benchmark functions  with three dimensionalities. Further applications on several real-world  optimization problems  also reveal the competitive performance of ESADE.",
+    "citation_count": "5",
+    "year": "2024/03/01",
+    "authors": [
+        {
+            "name": "Sheng Xin Zhang",
+            "country": ""
+        },
+        {
+            "name": "Xin Rou Hu",
+            "country": ""
+        },
+        {
+            "name": "Shao Yong Zheng",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

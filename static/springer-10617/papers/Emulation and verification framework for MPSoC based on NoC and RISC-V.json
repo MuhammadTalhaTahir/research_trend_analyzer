@@ -1,0 +1,34 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10617-022-09265-1",
+    "title": "Emulation and verification framework for MPSoC based on NoC and RISC-V",
+    "abstract": "Nowadays, embedded systems have multiprocessing capabilities to meet the complexity of modern applications, such as signal processing and multimedia. However, as the embedded system’s functionality expands, complexity increases and numerous constraints become necessary. Constraints, such as high performance, low power consumption, and development time, became critical demands. Therefore, emulation and verification are necessary to assess the correctness and performance of such architectures and accelerate the development phase. We propose a robust, scalable, and flexible hardware-software emulation framework that focuses on design space exploration for MPSoC architectures. Our framework supports 2D and 3D NoC-based architectures built on an open-source RISC-V. According to user configuration, the framework auto-generates the corresponding universal verification methodology environment to explore the design space, evaluate the performance, and compare the results for wide configurations and parameters. Then, it provides the best solution based on provided user criteria. Our framework uses an emulation co-modeling technology to enable the designer to explore and detect architecture failures. We provide numerous experimental results for different 2D and 3D NoC architectures to assess their correctness and performance, including energy and power consumption. Noticeably, results show an acceleration by $$40\\times $$ in comparison to software simulators.",
+    "citation_count": 61,
+    "year": "2022/12",
+    "authors": [
+        {
+            "name": "Khamis, Mostafa",
+            "country": "Egypt"
+        },
+        {
+            "name": "El-Ashry, Sameh",
+            "country": "Egypt"
+        },
+        {
+            "name": "AbdElsalam, Mohamed",
+            "country": "Egypt"
+        },
+        {
+            "name": "El-Kharashi, M. Watheq",
+            "country": "Egypt"
+        },
+        {
+            "name": "Shalaby, Ahmed",
+            "country": "Canada"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

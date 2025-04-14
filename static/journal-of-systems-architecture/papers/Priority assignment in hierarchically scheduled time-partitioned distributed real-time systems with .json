@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002320",
+    "title": "Priority assignment in hierarchically scheduled time-partitioned distributed real-time systems with multipath flows",
+    "abstract": "The increasing complexity in the design of industrial embedded systems represents a challenge in the development of scheduling algorithms for such systems, which are essential to guarantee that they meet their deadlines even in the worst-case situation. In this work, we propose a new collection of non-iterative priority assignment algorithms for multipath flows within hierarchical schedulers based on state-of-the-art scheduling algorithms, which have been adapted to this complex system model. They are applied to an industrial railway use case that has motivated this work, and then their performance is evaluated in different general synthetic scenarios, with the aim of providing a view on how they behave in a wider range of system configurations.",
+    "citation_count": "0",
+    "year": "2022/01/01",
+    "authors": [
+        {
+            "name": "Andoni Amurrio",
+            "country": ""
+        },
+        {
+            "name": "J. Javier Gutiérrez",
+            "country": ""
+        },
+        {
+            "name": "Mario Aldea",
+            "country": ""
+        },
+        {
+            "name": "Ekain Azketa",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

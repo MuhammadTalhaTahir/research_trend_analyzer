@@ -1,0 +1,38 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10617-005-1199-z",
+    "title": "Single Source Design Environment for Embedded Systems Based on SystemC",
+    "abstract": "There is a clear need for new methodologies supporting efficient design of embedded systems on complex platforms implementing both hardware and software modules. Software development has to be carried out under a closer relationship with the underlying platform. The current trend is towards an increasing embedded software development effort under more stringent time-to-market requirements. As a consequence, it is necessary to reduce software generation cost while maintaining reliability and design quality. In that context, languages centered on describing whole systems, with software and hardware parts, have been proposed. Among these, SystemC is gaining increasing interest as a specification language for embedded systems. SystemC supports the specification of the complete system and the modeling of the platform. In this paper, the application of SystemC to performance analysis and embedded software generation is discussed. A single-source approach is proposed, that is, the use of the same code for system-level specification and profiling, and, after architectural mapping, for HW/SW co-simulation and embedded software generation. A design environment based on C++ libraries for performance analysis and software generation is presented. This approach avoids working on intermediate formats and translators, which facilitates the designer’s interaction with the system description throughout the development process. Additionally, it ensures the preservation of the computational models used for the system specification during architectural mapping and compilation.",
+    "citation_count": 45,
+    "year": "2004/12",
+    "authors": [
+        {
+            "name": "Posadas, H.",
+            "country": "Spain"
+        },
+        {
+            "name": "Herrera, F.",
+            "country": "Spain"
+        },
+        {
+            "name": "FernÁndez, V.",
+            "country": "Spain"
+        },
+        {
+            "name": "SÁnchez, P.",
+            "country": "Spain"
+        },
+        {
+            "name": "Villar, E.",
+            "country": "Spain"
+        },
+        {
+            "name": "Blasco, F.",
+            "country": "Spain"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

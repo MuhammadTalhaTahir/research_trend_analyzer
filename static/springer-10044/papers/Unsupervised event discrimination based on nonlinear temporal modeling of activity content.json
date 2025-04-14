@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-005-0242-9",
+    "title": "Unsupervised event discrimination based on nonlinear temporal modeling of activity content",
+    "abstract": "This paper deals with the problem of event discrimination in generic video documents. We propose an investigation on the design of an activity-based similarity measure derived from motion analysis. In an unsupervised context, our approach relies on the nonlinear temporal modeling of wavelet-based motion features directly estimated from the video frame. On the basis of the support vector machine (SVM) regression, this nonlinear model is able to learn the behavior of the motion descriptors along the temporal dimension and to capture useful information about the dynamic content of the shot. A similarity measure associated with our temporal model is then defined. This measure defines a metric between video segments according to spatial and temporal properties of the movements and provides a theoretic framework to compare, sort and classify videos. Experiments on a large annotated video database and a comparison with a similarity measure based on motion histograms shows that our approach is effective in discriminating between video events without any prior knowledge.",
+    "citation_count": 26,
+    "year": "2004/12",
+    "authors": [
+        {
+            "name": "Bruno, Eric",
+            "country": "Switzerland"
+        },
+        {
+            "name": "Moenne-Loccoz, Nicolas",
+            "country": "Switzerland"
+        },
+        {
+            "name": "Marchand-Maillet, Stéphane",
+            "country": "Switzerland"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

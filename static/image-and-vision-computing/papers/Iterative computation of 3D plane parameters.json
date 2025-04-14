@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885600000603",
+    "title": "Iterative computation of 3D plane parameters",
+    "abstract": "Knowledge of the position and orientation of 3D planes that exist in a scene is very important for many machine vision-based tasks, such as navigation, self-localization and docking. In this paper we propose two iterative methods for robustly computing the plane parameters out of given image sequences. Both methods include the (limited) ability to determine unknown parameters of the 3D-camera motion.",
+    "citation_count": "2",
+    "year": "2000/11/01",
+    "authors": [
+        {
+            "name": "H. Baltzakis",
+            "country": ""
+        },
+        {
+            "name": "P.E. Trahanias",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

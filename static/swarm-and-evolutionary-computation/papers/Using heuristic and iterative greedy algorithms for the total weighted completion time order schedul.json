@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218301317",
+    "title": "Using heuristic and iterative greedy algorithms for the total weighted completion time order scheduling with release times",
+    "abstract": "The customer order scheduling problem is becoming a major topic in the research community, but the research regarding customer order scheduling problems with ready times remains relatively limited. This study examined an order scheduling problem with ready times where the measurement criterion was minimizing the total weighted completion time of all the given orders. To solve this intractable problem, we first derived several dominance rules and two lower bounds to use in a branch-and-bound method for finding an exact solution. We then modified five existing heuristics and adopted an iterative greedy (IG) algorithm to determine a near-optimal solution. Specifically, we used a fixed proportion of destruction and a linear function of destruction in the IG algorithm. Pairwise improvement was applied to all the proposed heuristics to achieve high-quality solutions, and we performed one-way analysis of variance and Fisher's least significant difference tests to evaluate and compare the performance of all the proposed algorithms.",
+    "citation_count": "18",
+    "year": "2019/02/01",
+    "authors": [
+        {
+            "name": "Chin-Chia Wu",
+            "country": ""
+        },
+        {
+            "name": "Tzu-Hsuan Yang",
+            "country": ""
+        },
+        {
+            "name": "Xingong Zhang",
+            "country": ""
+        },
+        {
+            "name": "Chao-Chung Kang",
+            "country": ""
+        },
+        {
+            "name": "I-Hong Chung",
+            "country": ""
+        },
+        {
+            "name": "Win-Chin Lin",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

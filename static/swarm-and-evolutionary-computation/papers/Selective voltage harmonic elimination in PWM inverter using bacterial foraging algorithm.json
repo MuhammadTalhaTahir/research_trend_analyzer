@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650214000807",
+    "title": "Selective voltage harmonic elimination in PWM inverter using bacterial foraging algorithm",
+    "abstract": "Pulse width modulation  (PWM) techniques are increasingly employed in  power electronic circuits . Among the various  PWM  methods used, selective harmonic elimination PWM (SHEPWM) method is popular and it is widely accepted for its better harmonic elimination capability and its ability to maintain output voltage regulation. However, in this method difficulty persists in the identification of switching instants as it involves non-linear transcendental equations for obtaining the desired solution. In this paper, bacterial foraging algorithm (BFA) method is proposed for switching angle selection in PWM inverter. The problem of  voltage harmonic  elimination together with output voltage regulation is drafted as an optimization task and the solution is sought through the proposed method. Extensive simulations are carried out using MATLAB/SIMULINK environment under various operating points with different switching pulses per half cycle. To demonstrate the superiority of the proposed method, BFA results are compared with other existing techniques such as  Genetic Algorithm  and  Particle Swarm Optimization  method. Further, the obtained simulation results are validated through experimental findings.",
+    "citation_count": "64",
+    "year": "2015/02/01",
+    "authors": [
+        {
+            "name": "T. Sudhakar Babu",
+            "country": ""
+        },
+        {
+            "name": "K. Priya",
+            "country": ""
+        },
+        {
+            "name": "D. Maheswaran",
+            "country": ""
+        },
+        {
+            "name": "K. Sathish Kumar",
+            "country": ""
+        },
+        {
+            "name": "N. Rajasekar",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

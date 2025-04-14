@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121001351",
+    "title": "NUMA-aware memory coloring for multicore real-time systems",
+    "abstract": "Non-uniform memory access (NUMA) systems are characterized by varying  memory latencies  so that execution times may become unpredictable in a multicore real-time system. This results in overly conservative scheduling with low utilization due to loose bounds on a task’s worst-case execution time (WCET). This work contributes a controller/node-aware memory coloring (CAMC) allocator inside the Linux kernel for the entire address space to reduce access conflicts and latencies by isolating tasks from one another. CAMC improves timing predictability and performance over Linux’ buddy allocator and prior coloring methods. It provides core isolation with respect to banks and  memory controllers  for real-time systems. This work is the first to consider multiple memory controllers in real-time systems, combine them with bank coloring, and assess its performance on a NUMA architecture, to the best of our knowledge.",
+    "citation_count": "4",
+    "year": "2021/09/01",
+    "authors": [
+        {
+            "name": "Xing Pan",
+            "country": ""
+        },
+        {
+            "name": "Frank Mueller",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,43 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-021-01848-9",
+    "title": "Edge Network Routing Protocol Base on Target Tracking Scenario",
+    "abstract": "Edge computing perfectly integrates cloud computing centers and edge-end devices together, but there are not many related researches on how the edge-end node devices work to form an edge network and what the protocols used to implement the communication among nodes in the edge network. Aiming at the problem of coordinated communication among edge nodes in the current edge computing network architecture, this paper proposes an edge network routing and forwarding protocol based on target tracking scenarios. This protocol can meet the dynamic changes of node locations, and the elastic expansion of node scale. Individual node failures will not affect the overall network, and the network ensures efficient real-time with less communication overhead. The experimental results display that the protocol can effectively reduce the communications volume of the edge network, improve the overall efficiency of the network, and set the optimal sampling period, so as to ensure that the network delay is minimized.",
+    "citation_count": 30,
+    "year": "2021/12",
+    "authors": [
+        {
+            "name": "Zhang, Zhongyi",
+            "country": "China"
+        },
+        {
+            "name": "Zhao, Weihua",
+            "country": "China"
+        },
+        {
+            "name": "Huang, Ouhan",
+            "country": "China"
+        },
+        {
+            "name": "Jia, Gangyong",
+            "country": "China"
+        },
+        {
+            "name": "Li, Youhuizi",
+            "country": "China"
+        },
+        {
+            "name": "Mei, Songzhu",
+            "country": "China"
+        },
+        {
+            "name": "Zhao, Duan",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

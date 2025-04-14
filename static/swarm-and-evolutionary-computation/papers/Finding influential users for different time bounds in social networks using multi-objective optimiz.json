@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217304431",
+    "title": "Finding influential users for different time bounds in social networks using multi-objective optimization",
+    "abstract": "Online social networks  play an important role in  marketing services . Influence maximization is a major challenge, in which the goal is to find the most influential users in a social network. Increasing the number of influenced users at the end of a  diffusion process  while decreasing the time of diffusion are two main objectives of the influence maximization problem. The goal of this paper is to find multiple sets of influential users such that each of them is the best set to spread influence for a specific time bound. Considering two conflicting objectives, increasing influence and decreasing  diffusion time , we employ the NSGA-II algorithm which is a powerful algorithm in multi-objective optimization to find different seed sets with high influence at different diffusion times. Since social networks are large, computing influence and diffusion time of all chromosomes in each iteration will be challenging and computationally expensive. Therefore, we propose two methods which can estimate the expected influence and diffusion time of a seed set in an efficient manner. Providing the set of all potentially optimal solutions helps a  decision maker  evaluate the trade-offs between the two objectives, i.e., the number of influenced users and diffusion time. In addition, we develop an approach for selecting seed sets, which have optimal influence for specific time bounds, from the resulting  Pareto front  of the NSGA-II. Finally, we show that applying our algorithm to real social networks outperforms existing algorithms for the influence maximization problem. The results show a good compromise between the two objectives and the final seed sets result in high influence for different time bounds.",
+    "citation_count": "14",
+    "year": "2018/06/01",
+    "authors": [
+        {
+            "name": "Azadeh Mohammadi",
+            "country": ""
+        },
+        {
+            "name": "Mohamad Saraee",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

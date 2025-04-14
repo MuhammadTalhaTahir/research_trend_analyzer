@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959518305861",
+    "title": "Modified pilot selection for channel estimation of systematic polar coded MIMO-OFDM",
+    "abstract": "This paper proposes a modified pilot selection for channel estimation of systematic polar coded MIMO-OFDM. Polar codes provably achieve the theoretical limit for communication systems and systematic polar codes generate the codeword that has the same value of information bit. Using this property, an efficient channel estimation scheme was proposed; values of some information bits are fixed to zeros or ones and utilized for pilot symbols. Similarly, we also can fix values of some frozen bit as zeros or ones by exploiting features of the encoding generator. By combining these advantages, pilot signals are selected from the systematic polar coded symbols themselves and we do not need add and insert pilot symbols just to estimate the channel. Leveraging this, we apply the proposed systematic polar coding scheme to MIMO-OFDM system under frequency selective fading channel.",
+    "citation_count": "0",
+    "year": "2019/12/01",
+    "authors": [
+        {
+            "name": "Koya Watanabe",
+            "country": ""
+        },
+        {
+            "name": "Shun Kojima",
+            "country": ""
+        },
+        {
+            "name": "Takashi Akao",
+            "country": ""
+        },
+        {
+            "name": "Masato Katsuno",
+            "country": ""
+        },
+        {
+            "name": "Kazuki Maruta",
+            "country": ""
+        },
+        {
+            "name": "Chang-Jun Ahn",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

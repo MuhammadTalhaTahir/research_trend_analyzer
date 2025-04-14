@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S221065021630503X",
+    "title": "Multiobjective in-core nuclear fuel management optimisation by means of a hyperheuristic",
+    "abstract": "This paper is concerned with the problem of constrained  multiobjective in-core fuel management optimisation  (MICFMO) using, for the first time, a  hyperheuristic  technique as solution approach. A multiobjective hyperheuristic called the AMALGAM method (an evolutionary-based technique incorporating multiple sub-algorithms simultaneously) is compared to three previously-studied  metaheuristics , namely the  nondominated sorting  genetic algorithm  II , the  Pareto  ant colony optimisation  algorithm and the  multiobjective optimisation  using cross-entropy method , in an attempt to improve upon the level of generality at which MICFMO may be conducted. This solution approach was motivated by a lack of consistent performance by the aforementioned metaheuristics when applied in isolation. Comparisons are conducted in the context of a test suite of several problem instances based on the SAFARI-1 nuclear research reactor. Nonparametric statistical analyses in respect of the optimisation results reveal that the AMALGAM method significantly outperforms the three metaheuristics in the majority of problem instances within the test suite. Additional comparisons are also performed between the proposed AMALGAM method and a randomised (or no-learning) version thereof, as well as a selection choice function-based multiobjective hyperheuristic available in the literature. It is found that the proposed method is superior to the choice function-based algorithm within the context of the MICFMO test suite, and yields results of similar quality when compared to its randomised version. The practical relevance of the hyperheuristic results is further demonstrated by comparing the solutions thus obtained to a reload configuration designed according to the current fuel assembly reload design approach followed at the SAFARI-1 reactor.",
+    "citation_count": "16",
+    "year": "2018/10/01",
+    "authors": [
+        {
+            "name": "E.B. Schlünz",
+            "country": ""
+        },
+        {
+            "name": "P.M. Bokov",
+            "country": ""
+        },
+        {
+            "name": "J.H. van Vuuren",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

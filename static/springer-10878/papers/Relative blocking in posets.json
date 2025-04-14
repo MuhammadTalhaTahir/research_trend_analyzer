@@ -1,0 +1,21 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-006-9028-2",
+    "title": "Relative blocking in posets",
+    "abstract": "Poset-theoretic generalizations of set-theoretic committee constructions are presented. The structure of the corresponding subposets is described. Sequences of irreducible fractions associated to the principal order ideals of finite bounded posets are considered and those related to the Boolean lattices are explored; it is shown that such sequences inherit all the familiar properties of the Farey sequences.",
+    "citation_count": 46,
+    "year": "2007/05",
+    "authors": [
+        {
+            "name": "Matveev, Andrey O.",
+            "country": "Russia"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885614001474",
+    "title": "Using a Discrete Hidden Markov Model Kernel for lip-based biometric identification",
+    "abstract": "In this paper, a novel and effective lip-based biometric identification approach with the Discrete Hidden Markov Model Kernel (DHMMK) is developed. Lips are described by shape features (both geometrical and sequential) on two different grid layouts: rectangular and polar. These features are then specifically modeled by a DHMMK, and learnt by a  support vector machine  classifier. Our experiments are carried out in a ten-fold cross validation fashion on three different datasets, GPDS-ULPGC Face Dataset, PIE Face Dataset and RaFD Face Dataset. Results show that our approach has achieved an average  classification accuracy  of 99.8%, 97.13%, and 98.10%, using only two training images per class, on these three datasets, respectively. Our comparative studies further show that the DHMMK achieved a 53% improvement against the baseline HMM approach. The comparative ROC curves also confirm the efficacy of the proposed lip contour based  biometrics  learned by DHMMK. We also show that the performance of linear and  RBF  SVM is comparable under the frame work of DHMMK.",
+    "citation_count": "15",
+    "year": "2014/12/01",
+    "authors": [
+        {
+            "name": "Carlos M. Travieso",
+            "country": ""
+        },
+        {
+            "name": "Jianguo Zhang",
+            "country": ""
+        },
+        {
+            "name": "Paul Miller",
+            "country": ""
+        },
+        {
+            "name": "Jesús B. Alonso",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

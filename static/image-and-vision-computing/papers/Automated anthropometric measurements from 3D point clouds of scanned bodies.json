@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624004116",
+    "title": "Automated anthropometric measurements from 3D point clouds of scanned bodies",
+    "abstract": "Anthropometry plays a critical role across numerous sectors, particularly within healthcare and fashion, by facilitating the analysis of the human body structure. The significance of anthropometric data cannot be overstated; it is crucial for assessing nutritional status among children and adults alike, enabling early detection of conditions such as malnutrition, obesity, and being overweight. Furthermore, it is instrumental in creating tailored dietary interventions. This study introduces a novel automated technique for extracting anthropometric measurements from any body part. The proposed method leverages a parametric model to accurately determine the measurement parameters from either an unstructured point cloud or a mesh. We conducted a comprehensive evaluation of our approach by comparing perimetral measurements from over 400 body scans with expert assessments and existing state-of-the-art methods. The results demonstrate that our approach significantly surpasses the current methods for measuring the waist, hip, thigh, chest, and wrist perimeters with exceptional accuracy. These findings indicate the potential of our method to automate anthropometric analysis and offer efficient and accurate measurements for various applications in healthcare and fashion industries.",
+    "citation_count": "0",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Nahuel E. Garcia-D’Urso",
+            "country": ""
+        },
+        {
+            "name": "Antonio Macia-Lillo",
+            "country": ""
+        },
+        {
+            "name": "Higinio Mora-Mora",
+            "country": ""
+        },
+        {
+            "name": "Jorge Azorin-Lopez",
+            "country": ""
+        },
+        {
+            "name": "Andres Fuster-Guillo",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

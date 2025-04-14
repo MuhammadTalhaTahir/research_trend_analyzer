@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218306886",
+    "title": "A novel approach to select the best portfolio considering the preferences of the decision maker",
+    "abstract": "The challenges of Portfolio Optimization have led to an increasing interest from the multi-objective evolutionary algorithms research community; however, little attention has been paid to the particular preferences of the investor in order to select the most preferred portfolio from a set of mathematically equivalent alternatives in presence of many criteria. The main goal of this work is thus modeling the preferences of the investor in order to find the most satisfactory portfolio from the investor's perspective when many objective functions are considered. Here, the investor's behavior facing risk, the estimations of the portfolios' future returns, and the risk of not attaining those returns are all represented by means of probabilistic confidence intervals. The  imperfect knowledge  related to the subjectivity of the investor is modeled on the basis of Interval Theory and the outranking method. The proposed approach aggregates the many criteria on the basis of the investor's particular system of preferences producing a selective pressure towards the most preferred portfolio while the investor's cognitive effort in the final selection is reduced. An illustrative example in the context of stock portfolio optimization is provided, where several investors interested in many criteria are simulated. The considered criteria are confidence intervals around the portfolios' expected returns, and indicators from the so-called fundamental and technical analyses. Our approach is compared, using real historical data, with an outstanding multi-objective evolutionary algorithm, MOEA/D, and some well-known benchmarks in Modern Portfolio Theory and  Finance  Theory, namely, the Mean-Variance approach and the Dow Jones Industrial Average index. The results show an evident superiority of the proposed approach in both the context of the underlying criteria (confidence intervals and financial indicators) and the context of the actual returns. Thus, we conclude that the proposed approach was able to find satisfactory portfolios in the context of the experiments.",
+    "citation_count": "31",
+    "year": "2019/05/01",
+    "authors": [
+        {
+            "name": "Eduardo Fernandez",
+            "country": ""
+        },
+        {
+            "name": "Jorge Navarro",
+            "country": ""
+        },
+        {
+            "name": "Efrain Solares",
+            "country": ""
+        },
+        {
+            "name": "Carlos Coello Coello",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

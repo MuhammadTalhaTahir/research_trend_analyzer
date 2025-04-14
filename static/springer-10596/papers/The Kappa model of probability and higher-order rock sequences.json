@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-011-9234-6",
+    "title": "The Kappa model of probability and higher-order rock sequences",
+    "abstract": "In any depositional environment, the sequence of sediments follows specific high- and low-frequency patterns of rock occurrences or events. The occurrence of a rock in a spatial location is conditional to a prior rock event at a distant location. Subsequently, a third rock occurs between the two locations. This third event is conditional to both prior events and is driven by a third-order conditional probability P(C ∣ (A ∩ B)). Such probability has to be characterized beyond the classic conditional independence model, and this research has found that exact computation requires a third-order co-cumulant term. The co-cumulants provide the higher-order redundancy among multiple indicator variables. A Bayesian analysis has been performed with “known” numerical co-cumulants yielding a novel model of conditional probability that is called the “Kappa model.” This model was applied to three-point variables, and the concept has been extended for multiple events P(G ∣ A ∩ B ∩ C ∩ D... ∩ N), allowing the reproduction of complex transitions of rocks in sequence stratigraphy. The Kappa model and co-cumulants have been illustrated with simple numerical examples for clastic rock sequences. In addition, the co-cumulant has been used to discover an extension of the variogram called the indicator cumulogram. In this way, multiple prior events are no longer ignored for evaluating the probability of a posterior event with higher-order co-cumulant considerations.",
+    "citation_count": 13,
+    "year": "2011/09",
+    "authors": [
+        {
+            "name": "Vargas-Guzmán, J. A.",
+            "country": "Kingdom of Saudi Arabia"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

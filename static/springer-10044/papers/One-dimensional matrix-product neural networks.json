@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-025-01457-2",
+    "title": "One-dimensional matrix-product neural networks",
+    "abstract": "As an alternative model of the convolutional neural network (CNN), the matrix-product neural network (MPNN) constructed on account of two-dimensional discrete matrix-product operation (TDDMPO) is not only better than the CNN in recognition performance, but also smaller in calculation and faster in convergence speed than the CNN. In order to further perfect the MPNN, compared with the discrete convolutional operation and CNN, this paper proposes one-dimensional discrete matrix-product operation (ODDMPO) and its corresponding one-dimensional matrix-product neural network (ODMPNN). Experimental results on MNIST, Fashion_MNIST, CIFAR10, and FLOWER17 datasets show that ODMPNNs improve the performance by 0.62 $$-$$ 7.38% over the corresponding one-dimensional convolutional neural networks (ODCNNs), and the calculation amount of one-dimensional matrix-product layers of ODMPNNs obtains 5 $$\\times$$ -79 $$\\times$$ less than that of the corresponding one-dimensional convolutional layers of ODCNNs. Therefore, it shows again that the MPNN is a potentially important model to replace the CNN.",
+    "citation_count": 14,
+    "year": "2025/06",
+    "authors": [
+        {
+            "name": "Shan, Chuanhui",
+            "country": "China"
+        },
+        {
+            "name": "Li, Hu",
+            "country": "China"
+        },
+        {
+            "name": "Han, Chao",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

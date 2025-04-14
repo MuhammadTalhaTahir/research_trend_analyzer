@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762119304734",
+    "title": "A cloud data deduplication scheme based on certificateless proxy re-encryption",
+    "abstract": "Cloud data  deduplication  removes redundant data blocks or files and keeps only one copy in the cloud  storage server . In order to improve on security, we need to encrypt data files and blocks such that all same files and blocks are detectable based on  ciphertext  for deduplication. So how to detect a ciphertext to find the same files is a challenging problem. In this paper, we propose a cloud  data deduplication  scheme based on certificateless proxy re-encryption. It contains certificateless proxy re-encryption (CL-PRE) and proof of ownership based on certificateless signature (PoW-CLS). Compared with the existing scheme, we use certificateless cryptography to solve the problem of key escrow and avoid the situation where a key generation center (KGC) impersonates a user to decrypt the ciphertext. Our CL-PRE realizes data deduplication across users and our PoW-CLS improves the efficiency of the proof of ownership (PoW).",
+    "citation_count": "47",
+    "year": "2020/01/01",
+    "authors": [
+        {
+            "name": "Xiaoyu Zheng",
+            "country": ""
+        },
+        {
+            "name": "Yuyang Zhou",
+            "country": ""
+        },
+        {
+            "name": "Yalan Ye",
+            "country": ""
+        },
+        {
+            "name": "Fagen Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

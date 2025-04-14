@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002332",
+    "title": "Tightening the CRPD bound for multilevel non-inclusive caches",
+    "abstract": "Tasks running on  microprocessors  with cache memories are often subjected to  cache related preemption delays  (CRPDs). CRPDs may significantly increase task  execution times , thereby, affecting their schedulability.  Schedulability analysis  accounting for the impact of CRPD has been extensively studied over the past two decades for systems with a single level of cache. Yet, the literature on CRPD for multilevel non-inclusive caches is relatively  scarce . Two main challenges exist when analyzing multilevel caches: (1) characterization of the  indirect effect  of preemption , i.e., capturing the increase in cache interference at lower cache levels (e.g., level-two or L2 cache) due to the evictions of cache content from a higher cache level (e.g., level-one or L1 cache), and (2) upper bounding the maximum CRPD suffered by tasks at lower cache levels (e.g., L2 cache), i.e., determining the cache content of tasks that can be evicted from lower cache levels in case of preemptions. Existing analysis that focus on bounding CRPD for multilevel non-inclusive caches overestimate the values of (1) and (2) leading to pessimistic worst-case  response time  (WCRT) estimations. In this work, we reduce the excessive  pessimism  of the state-of-the-art CRPD analysis for multilevel non-inclusive caches by (i) introducing the notion of multi-level useful cache blocks, i.e., cache blocks that can cause CRPD at different cache levels, and use it to compute a tighter bound on the indirect effect of preemption of tasks; and (ii) deriving a new analysis to compute tighter bounds on the CRPD of tasks at lower cache levels (e.g., L2 cache). We performed a thorough experimental evaluation using benchmarks to compare the performance of our proposed CRPD analysis against the state-of-the-art CRPD analysis. Experimental results show that our proposed CRPD analysis dominates the existing analysis and improves task set schedulability by up to 20% percentage points.",
+    "citation_count": "3",
+    "year": "2022/01/01",
+    "authors": [
+        {
+            "name": "Syed Aftab Rashid",
+            "country": ""
+        },
+        {
+            "name": "Geoffrey Nelissen",
+            "country": ""
+        },
+        {
+            "name": "Eduardo Tovar",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

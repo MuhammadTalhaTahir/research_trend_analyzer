@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885617300471",
+    "title": "Gesture sequence recognition with one shot learned CRF/HMM hybrid model",
+    "abstract": "In this paper, we propose a novel markovian hybrid system CRF/HMM for  gesture recognition , and a novel motion description method called  gesture signature  for gesture characterisation. The gesture signature is computed using the  optical flows  in order to describe the location, velocity and orientation of the gesture global motion. We elaborated the proposed hybrid CRF/HMM model by combining the modeling ability of Hidden Markov Models and the discriminative ability of Conditional Random Fields. In the context of one-shot-learning, this model is applied to the recognition of gestures in videos. In this extreme case, the proposed framework achieves very interesting performance and remains independent from the moving object type, which suggest possible application to other motion-based recognition tasks.",
+    "citation_count": "33",
+    "year": "2017/05/01",
+    "authors": [
+        {
+            "name": "Selma Belgacem",
+            "country": ""
+        },
+        {
+            "name": "Clément Chatelain",
+            "country": ""
+        },
+        {
+            "name": "Thierry Paquet",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

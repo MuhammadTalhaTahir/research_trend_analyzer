@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/BF01234770",
+    "title": "Fusion of images interpreted by a new fuzzy classifier",
+    "abstract": "This paper presents a global system for the fusion of images segmented by various methods and interpreted by a fuzzy classifier. A set of complementary segmentation operators is applied to the image. Each region of the segmented images is interpreted by the fuzzy classifier, through membership degrees to classes. The fuzzy classifier builds the classes automatically from examples, even in the case of complex data sets. Interpreted images are then merged by a fusion operator from the fuzzy set theory. Several fusion operators are compared. They trust more high membership degrees to classes, which are considered as reliability degrees. The fusion of the interpreted images improves the segmentation, and gives solutions to segmentation and interpretation evaluation.",
+    "citation_count": 33,
+    "year": "1998/12",
+    "authors": [
+        {
+            "name": "Huet, F.",
+            "country": "France"
+        },
+        {
+            "name": "Philipp, S.",
+            "country": "France"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

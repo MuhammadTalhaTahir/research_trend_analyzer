@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/0262885694900442",
+    "title": "Morph transformation of the facial image",
+    "abstract": "Slow cross-dissolves between one digital image and another can be controlled very accurately, but as with standard film techniques, considerable ghosting of the two end-stop frames is visible during transformation. Using carefully selected landmark control points, digital image warping and weighted blending allows very precise morphological changes to be synthesized. Because of its inherent complexity, this paper places emphasis on the control and manipulation of the facial image, and indicates how the technique may be applied in Vision research. Limitations of the process are also discussed, Facial ‘morphs’ are particularly interesting and compelling as We are extremely susceptible to even the slightest changes in individuals' appearances.",
+    "citation_count": "24",
+    "year": "1994/12/01",
+    "authors": [
+        {
+            "name": "Philip J Benson",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

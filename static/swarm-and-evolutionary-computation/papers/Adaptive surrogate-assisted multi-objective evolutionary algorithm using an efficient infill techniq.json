@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650222001377",
+    "title": "Adaptive surrogate-assisted multi-objective evolutionary algorithm using an efficient infill technique",
+    "abstract": "Surrogate-assisted multi-objective evolutionary algorithms have become increasingly popular for solving computationally expensive problems, profiting from surrogate modeling and infill approaches to reduce the time cost of optimization. Most existing algorithms have specified the type of surrogate model before a run and keep the type static during the optimization process. However, a sole surrogate model may not consistently perform well for all problems without any prior knowledge. In this context, this paper proposes an adaptive technique for surrogate models with multiple radial basis functions (RBFs), as the technique can dynamically establish the most promising RBF for each objective, thereby enhancing the reliability of surrogate prediction. Moreover, multi-objective evolutionary algorithms (MOEAs) that are employed as optimizers for infilling criteria can highly affect the search behavior of a surrogate-assisted evolutionary algorithm. The proposed infill technique develops a crowding distance-based prescreening operator to embed various MOEAs. Two techniques collaboratively promote the convergence, coverage, and diversity of the predicted Pareto front. Representative benchmark problems and a structural optimization problem are given to show the effectiveness of the algorithm that employs these techniques. Empirical experiments demonstrate that the proposed algorithm significantly outperforms other state-of-the-art algorithms in most cases.",
+    "citation_count": "20",
+    "year": "2022/12/01",
+    "authors": [
+        {
+            "name": "Mengtian Wu",
+            "country": ""
+        },
+        {
+            "name": "Lingling Wang",
+            "country": ""
+        },
+        {
+            "name": "Jin Xu",
+            "country": ""
+        },
+        {
+            "name": "Pengjie Hu",
+            "country": ""
+        },
+        {
+            "name": "Pengcheng Xu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

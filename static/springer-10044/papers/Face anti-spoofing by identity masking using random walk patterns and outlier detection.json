@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-020-00875-8",
+    "title": "Face anti-spoofing by identity masking using random walk patterns and outlier detection",
+    "abstract": "Existing architectures used in face anti-spoofing tend to deploy registered spatial measurements to generate feature vectors for spoof detection. This means that the ordering or sequence in which specific statistics are computed cannot be changed, as one moves from one facial profile to another. While this arrangement works in a person-specific setting, it becomes a major drawback when single-sided training is done based on the natural face class alone. To mitigate subject identity linked content interference within the anti-spoofing frame, we propose a identity-independent architecture based on random correlated scans of natural face images. The same natural face image can be scanned multiple times through independent correlated random walks before deriving simple differential features on the 1D scanned vectors. This proposed frame tends to capture the pixel correlation statistics with minimal content interference and shows great promise, particularly when trained on natural face sets, using a one-class support vector machine and cross-validated on other databases. Performance measured in terms of EER for detection of spoof face is found to be $$3.8291\\%$$ with proposed random scan features, and $$2.02\\%$$ with auto-population samples for inter database.",
+    "citation_count": 21,
+    "year": "2020/11",
+    "authors": [
+        {
+            "name": "Katika, Balaji Rao",
+            "country": "India"
+        },
+        {
+            "name": "Karthik, Kannan",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

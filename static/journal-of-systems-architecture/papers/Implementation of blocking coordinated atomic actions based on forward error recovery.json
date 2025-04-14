@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762197000295",
+    "title": "Implementation of blocking coordinated atomic actions based on forward error recovery",
+    "abstract": "The coordinated atomic action concept was proposed as a means for providing fault tolerance in complex objectoriented systems that incorporate both cooperative and competitive concurrency. This paper has two purposes: to discuss a particular implementation of this concept and to address a number of the implementation issues that are common to any experiments with this concept. Our implementation relies on a detailed set of programming conventions for the standard Ada 95 language and uses a scheme of forward error recovery incorporating concurrent exception handling and resolution. Ada 95 has a number of unique features which make it a particularly good choice for our experiments. We believe that our approach is practical and useful for many critical applications with high dependability requirements.",
+    "citation_count": "9",
+    "year": "1997/01/01",
+    "authors": [
+        {
+            "name": "A. Romanovsky",
+            "country": ""
+        },
+        {
+            "name": "B. Randell",
+            "country": ""
+        },
+        {
+            "name": "R. Stroud",
+            "country": ""
+        },
+        {
+            "name": "J. Xu",
+            "country": ""
+        },
+        {
+            "name": "A. Zorzo",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

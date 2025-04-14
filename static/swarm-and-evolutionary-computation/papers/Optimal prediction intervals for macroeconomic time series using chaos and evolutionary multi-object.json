@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650222000426",
+    "title": "Optimal prediction intervals for macroeconomic time series using chaos and evolutionary multi-objective optimization algorithms",
+    "abstract": "In a first-of-its-kind study, this paper formulates the problem of estimating the prediction intervals (PIs) in a  macroeconomic   time series  as a bi-objective optimization problem and solves it with three evolutionary algorithms namely, Non-dominated Sorting  Genetic Algorithm  (NSGA-II), Non-dominated Sorting  Particle Swarm Optimization  (NSPSO) and Multi-Objective Evolutionary Algorithm based on Decomposition (MOEA-D). We also proposed modeling the chaos present in the time series as a  preprocessor , which we called stage-1. Accordingly, we proposed 2-stage models, where stage-1 is followed by obtaining the optimal point prediction using NSGA-II/NSPSO/MOEA-D and using these point predictions to obtain PIs (stage-2). We then proposed a 3-stage hybrid, which is built on the 2-stage model, wherein the 3 rd  stage also invokes NSGA-II/NSPSO/MOEA-D in order to estimate the PIs from the point predictions obtained in 2 nd  stage by simultaneously and explicitly optimizing (i) prediction interval coverage probability (PICP) and (ii) prediction interval average width (PIAW). The proposed models yielded better results in terms of both PICP and PIAW compared to the state-of-the-art Lower Upper Bound Estimation Method (LUBE) with  Gradient Descent  (GD) and LUBE with long short-term memory (LSTM) network. The 3-stage models outperformed the 2-stage models with respect to PICP but showed similar performance in PIAW at the cost of running NSGA-II/NSPSO/MOEA-D second time. Overall, MOEA-D yielded best PIs in two datasets and NSGA-II outperformed the other two in the third dataset. But, in terms of hypervolume, in 2-stage MOEA-D produced most diverse solutions in two datasets, while NSGA-II was the winner in the third dataset.",
+    "citation_count": "11",
+    "year": "2022/06/01",
+    "authors": [
+        {
+            "name": "Vangala Sarveswararao",
+            "country": ""
+        },
+        {
+            "name": "Vadlamani Ravi",
+            "country": ""
+        },
+        {
+            "name": "Shaik Tanveer Ul Huq",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

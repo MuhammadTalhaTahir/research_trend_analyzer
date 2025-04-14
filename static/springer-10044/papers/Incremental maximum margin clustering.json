@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-015-0447-5",
+    "title": "Incremental maximum margin clustering",
+    "abstract": "This paper proposes incremental maximum margin clustering in which one data point at a time is examined to decide which cluster the new data point belongs. The proposed method adopts the off-line iterative maximum margin clustering method’s alternating optimization algorithm. Accurate online support vector regression is employed in the alternating optimization. To avoid premature convergence, a sequence of decremental unlearning and incremental learning steps is performed. The proposed method is experimentally argued to (i) be scalable and competitive on training time front when compared with iterative maximum margin clustering and (ii) achieve competitive cluster quality compared to the off-line counterpart.",
+    "citation_count": 29,
+    "year": "2016/11",
+    "authors": [
+        {
+            "name": "Vijaya Saradhi, V.",
+            "country": "India"
+        },
+        {
+            "name": "Charly Abraham, P.",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

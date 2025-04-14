@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223002018",
+    "title": "A benchmark test suite for evolutionary multi-objective multi-concept optimization",
+    "abstract": "For real-world design optimization, there may often exist multiple candidate concepts that may solve the problem at hand. The process of concurrently identifying the best concept and the corresponding variable values that optimize the design objective(s) is termed as a multi-concept optimization (MCO). While such problems are commonly encountered in practical domains such as engineering, transport, product design, there has been little focus on developing computationally efficient algorithms for MCO. One of the reasons contributing to this gap is the scarcity of benchmark problems with diverse challenges that could be used as a testbed for the development and systematic evaluation of advanced MCO algorithms. In this paper, we particularly focus on MCO problems with multiple conflicting objectives. We review the existing multi-objective MCO test problems and identify their shortcomings through preliminary numerical experiments. Then, we propose a methodology and provide a test problem generator for systematically constructing new multi-objective MCO instances with desired properties. We also propose 28 specific test problem instances using this generator to build a benchmark suite that poses a wide range of challenges to the prospective search strategies. Further, we conduct numerical experiments on the proposed test suite using multiple existing algorithmic strategies from the literature to demonstrate their performance. The results clearly highlight the challenges faced by the strategies for different types of problems. These observations emphasize the need for research efforts towards the development of more efficient and versatile MCO algorithms to tackle a wider range of MCO problems.",
+    "citation_count": "0",
+    "year": "2024/02/01",
+    "authors": [
+        {
+            "name": "Rounak Saha Niloy",
+            "country": ""
+        },
+        {
+            "name": "Hemant Kumar Singh",
+            "country": ""
+        },
+        {
+            "name": "Tapabrata Ray",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

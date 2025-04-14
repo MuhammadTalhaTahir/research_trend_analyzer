@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885620301050",
+    "title": "A novel co-attention computation block for deep learning based image co-segmentation",
+    "abstract": "The correlation between images is crucial for solving the image co-segmentation problem that is segmenting common and salient objects from a set of related images. This paper proposes a novel co-attention computation block to compute the visual correlation between images for improving the co-segmentation performance. Here ‘co-attention’ means that we obtain the co-attention features in encoded features of an image to guide the attention in another image. To this purpose, we firstly introduce top-k  average pooling  to compute the channel co-attention descriptor. Then we explore the correlation between features in different  spatial positions  to get the spatial co-attention descriptor. Finally, these two types of co-attention descriptors are multiplied to generate a fused one. We obtain such a fused co-attention descriptor for each image and use it to produce the co-attention augmented feature map for the following processing in the applications. We embed the proposed co-attention block into a U-shaped  Siamese network  for fulfilling the image co-segmentation. It is proven to be able to improve the performance effectively in the experiments. To our best knowledge, it leads to the currently best results on Internet dataset and iCoseg dataset.",
+    "citation_count": "12",
+    "year": "2020/09/01",
+    "authors": [
+        {
+            "name": "Xiaopeng Gong",
+            "country": ""
+        },
+        {
+            "name": "Xiabi Liu",
+            "country": ""
+        },
+        {
+            "name": "Yushuo Li",
+            "country": ""
+        },
+        {
+            "name": "Huiyu Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762113001549",
+    "title": "Exploring the design space of programmable regular expression matching accelerators",
+    "abstract": "State-of-the-art regular expression (regex) accelerators combine parallel programmable state machines with cascaded, wide-issue instruction processors to improve the storage efficiency and the processing rates, while preserving the  programmability . The pattern-matching engine (PME) included on the IBM PowerEN™ (Edge-of-Network) processor is one such design, and can be used as an architectural  template  for a broad design-space exploration. The regex compiler is a key component of such an exploration, involving sophisticated transformations to map large sets of complex regexs to the memory contents and the configuration registers of the  accelerator hardware . The design space is explored by varying the main microarchitectural parameters, including the memory size, the number of parallel state machines, and the parameters of the instruction processor. While the design-space exploration confirms the main  architectural choices  of the PME, it also shows that further optimization is possible by eliminating the bottlenecks in the  instruction dispatch  mechanisms, which results in an up to 50% reduction in the storage requirements. The design-space exploration utilizes a parameterizable and synthesizable hardware model to evaluate the effects the microarchitectural choices have on the chip area and operating frequency. The synthesis results demonstrate the scalability of the optimization chosen and the need to incorporate these choices into future regex accelerator architectures.",
+    "citation_count": "5",
+    "year": "2013/11/01",
+    "authors": [
+        {
+            "name": "Kubilay Atasu",
+            "country": ""
+        },
+        {
+            "name": "Raphael Polig",
+            "country": ""
+        },
+        {
+            "name": "Jonathan Rohrer",
+            "country": ""
+        },
+        {
+            "name": "Christoph Hagleitner",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

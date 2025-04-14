@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650219303414",
+    "title": "An enhanced-indicator based many-objective evolutionary algorithm with adaptive reference point",
+    "abstract": "Indicator based many-objective  evolutionary algorithms  generally introduce the performance indicator as the selection criterion in environmental selection. In the calculation of some indicators, the  reference points  as sampled points on  Pareto fronts  are very important for their calculation. However, it is difficult to obtain good reference points on various types of Pareto fronts. To address this issue, this paper proposes an enhanced-indicator based many-objective evolutionary algorithm with adaptive reference point, termed EIEA. The algorithm proposes a reference point adaptation method to dynamically adapt the reference points for the calculation of indicators. Moreover, the calculation of IGD-NS is enhanced by employing the modified distance calculation to introduce the Pareto compliant which can further comprehensively measure the convergence and diversity. The proposed EIEA adopts Pareto dominance and the enhanced IGD-NS as the first selection criterion and the secondary selection criterion in environmental selection, respectively. The intensive experiments demonstrate that the proposed algorithm has good performance in solving problems with various types of Pareto fronts, surpassing several representative many-objective evolutionary algorithms for many-objective optimization.",
+    "citation_count": "18",
+    "year": "2020/06/01",
+    "authors": [
+        {
+            "name": "Junhua Li",
+            "country": ""
+        },
+        {
+            "name": "Guoyu Chen",
+            "country": ""
+        },
+        {
+            "name": "Ming Li",
+            "country": ""
+        },
+        {
+            "name": "Hao Chen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

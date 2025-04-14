@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-018-0757-5",
+    "title": "Micro-expression recognition based on 3D flow convolutional neural network",
+    "abstract": "Micro-expression recognition (MER) is a growing field of research which is currently in its early stage of development. Unlike conventional macro-expressions, micro-expressions occur at a very short duration and are elicited in a spontaneous manner from emotional stimuli. While existing methods for solving MER are largely non-deep-learning-based methods, deep convolutional neural network (CNN) has shown to work very well on such as face recognition, facial expression recognition, and action recognition. In this article, we propose applying the 3D flow-based CNNs model for video-based micro-expression recognition, which extracts deeply learned features that are able to characterize fine motion flow arising from minute facial movements. Results from comprehensive experiments on three benchmark datasets—SMIC, CASME/CASME II, showed a marked improvement over state-of-the-art methods, hence proving the effectiveness of our fairly easy CNN model as the deep learning benchmark for facial MER.",
+    "citation_count": 32,
+    "year": "2019/11",
+    "authors": [
+        {
+            "name": "Li, Jing",
+            "country": "China"
+        },
+        {
+            "name": "Wang, Yandan",
+            "country": "China"
+        },
+        {
+            "name": "See, John",
+            "country": "Malaysia"
+        },
+        {
+            "name": "Liu, Wenbin",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

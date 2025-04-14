@@ -1,0 +1,40 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-022-10174-2",
+    "title": "Rock thin sections identification under harsh conditions across regions based on online transfer method",
+    "abstract": "Automatic identification of rock thin sections provides valuable geological information for oil and gas exploration. However, the application of rock thin sections identification in new blocks works poorly. The reason is that the geological data of target blocks are extremely scarce in the early stage of exploration and development. Therefore, using an improved MaSE-ResNetXt network, data enhancement, feature extractors, online transfer learning and other strategies, a stable, efficient and continuously growing end-to-end identification system based on online transfer learning was built. In case one, the use of the basic MaSE-ResNetXt network on regional rock properties and model categories was compared with previous studies and experiments, and performance improvements of 5% and 14.3% were achieved respectively, which verified the high efficiency of the basic MaSE-ResNetXt network for feature extraction in a large-scale dataset. In case two, sensitivity analysis was conducted for similar categories that are easily confused, during which parameters of the network and optimizer were compared. The sensitivity problems of oolitic structure feature maps were discussed and optimized. After that, a weighted F1-score of 0.95 was reached, proving the prediction stability of cross-regional transfer. In case three, real-time online transfer learning for the cold boot was conducted with scarce geological data. Compared with the previous studies, the training speed was improved by 15 times, and the accuracy was improved by 20%. An improved method based on MaSE-ResNeXt with transfer learning using a neural network feature map for rock characteristics analysis was proposed. By proposing inheritance and real-time online transfer learning solutions, the problems of automatic rock thin sections identification in a new area were solved, and the geological data of multiple blocks were fully used. By doing so, this study bridged the gap that experiences from the former regions could not be inherited effectively for cross-regional rock thin sections identification, so that empowered the development of new blocks.",
+    "citation_count": 29,
+    "year": "2022/12",
+    "authors": [
+        {
+            "name": "Wang, Biao",
+            "country": "China"
+        },
+        {
+            "name": "Han, Guoqing",
+            "country": "China"
+        },
+        {
+            "name": "Ma, He",
+            "country": "China"
+        },
+        {
+            "name": "Zhu, Liying",
+            "country": "China"
+        },
+        {
+            "name": "Liang, Xingyuan",
+            "country": "China"
+        },
+        {
+            "name": "Lu, Xin",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

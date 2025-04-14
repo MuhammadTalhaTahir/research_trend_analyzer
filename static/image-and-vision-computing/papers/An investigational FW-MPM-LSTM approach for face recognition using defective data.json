@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623000185",
+    "title": "An investigational FW-MPM-LSTM approach for face recognition using defective data",
+    "abstract": "Facial recognition systems are based on the features and traits of the face, since the systems are classified as biometric systems. Additionally, they are founded on the  image processing , machine vision and  machine learning  principles. From images,  imperfect information  is considered by face recognition systems. A variety of image reconstruction mechanisms is vital in this situation in order to match faces. The proposed method calls for image enhancement at the pre-processing stage. Following the  image segmentation  and  reconstruction stage , the best  facial features  are extracted using features such the eyes, cheeks, face area and lips. By means of  fractal model  and  wavelet transform  the operation is performed. Using the Moore Penrose Matrix, the  LSTM   neural network  is then improved also known as the MPM-LSTM, to train and test the system. From experimental results, the outcomes show that the proposed methodology performs better than the contemporary techniques.",
+    "citation_count": "6",
+    "year": "2023/04/01",
+    "authors": [
+        {
+            "name": "Baraa Adil Mahmood",
+            "country": ""
+        },
+        {
+            "name": "Sefer Kurnaz",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

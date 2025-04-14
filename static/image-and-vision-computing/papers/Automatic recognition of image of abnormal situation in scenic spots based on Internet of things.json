@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885620300408",
+    "title": "Automatic recognition of image of abnormal situation in scenic spots based on Internet of things",
+    "abstract": "Internet of things  is an emerging information-aware technology that combines  computer vision  and  artificial intelligence  technology to ensure the safety of personnel and facilities in tourist attractions by discovering real-time alarms of abnormal conditions in the monitoring of tourist attractions. Therefore, this paper proposes an automatic image algorithm for tourism scene anomaly based on  Internet of things . The algorithm uses the Internet of things intelligent camera in the image acquisition preprocessing platform to collect the tourist scenic spot image. Based on the traditional  image segmentation  technology, according to the neighborhood-related characteristics of the Markov random field, the dynamic characteristics of continuous frames are added. Reconstruct the  Gibbs energy  function. The location of the abnormal situation is determined by coding, and a treatment opinion is given. The experimental results show that the proposed algorithm not only considers the spatial information of each pixel and neighboring points, but also adds the time information of successive frames, accumulates the  energy values  of all the pixels in the whole image and analyzes the data with the energy curve. It can accurately and efficiently identify the abnormal situation images of tourist attractions.",
+    "citation_count": "8",
+    "year": "2020/04/01",
+    "authors": [
+        {
+            "name": "Yigang Lin",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

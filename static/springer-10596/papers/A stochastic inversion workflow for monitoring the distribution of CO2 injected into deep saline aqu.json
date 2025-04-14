@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-016-9590-3",
+    "title": "A stochastic inversion workflow for monitoring the distribution of CO2 injected into deep saline aquifers",
+    "abstract": "We present a two-step stochastic inversion approach for monitoring the distribution of CO2 injected into deep saline aquifers for the typical scenario of one single injection well and a database comprising a common suite of well logs as well as time-lapse vertical seismic profiling (VSP) data. In the first step, we compute several sets of stochastic models of the elastic properties using conventional sequential Gaussian co-simulations (SGCS) representing the considered reservoir before CO2 injection. All realizations within a set of models are then iteratively combined using a modified gradual deformation algorithm aiming at reducing the mismatch between the observed and simulated VSP data. In the second step, these optimal static models then serve as input for a history matching approach using the same modified gradual deformation algorithm for minimizing the mismatch between the observed and simulated VSP data following the injection of CO2. At each gradual deformation step, the injection and migration of CO2 is simulated and the corresponding seismic traces are computed and compared with the observed ones. The proposed stochastic inversion approach has been tested for a realistic, and arguably particularly challenging, synthetic case study mimicking the geological environment of a potential CO2 injection site in the Cambrian-Ordivician sedimentary sequence of the St. Lawrence platform in Southern Québec. The results demonstrate that the proposed two-step reservoir characterization approach is capable of adequately resolving and monitoring the distribution of the injected CO2. This finds its expression in optimized models of P- and S-wave velocities, density, and porosity, which, compared to conventional stochastic reservoir models, exhibit a significantly improved structural similarity with regard to the corresponding reference models. The proposed approach is therefore expected to allow for an optimal injection forecast by using a quantitative assimilation of all available data from the appraisal stage of a CO2 injection site.",
+    "citation_count": 63,
+    "year": "2016/12",
+    "authors": [
+        {
+            "name": "Perozzi, Lorenzo",
+            "country": "Canada"
+        },
+        {
+            "name": "Gloaguen, Erwan",
+            "country": "Canada"
+        },
+        {
+            "name": "Giroux, Bernard",
+            "country": "Canada"
+        },
+        {
+            "name": "Holliger, Klaus",
+            "country": "Switzerland"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

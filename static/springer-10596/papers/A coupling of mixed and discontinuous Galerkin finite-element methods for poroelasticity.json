@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-008-9082-1",
+    "title": "A coupling of mixed and discontinuous Galerkin finite-element methods for poroelasticity",
+    "abstract": "In this paper, we formulate a finite-element procedure for approximating the coupled fluid and mechanics in Biot’s consolidation model of poroelasticity. We approximate the flow variables by a mixed finite-element space and the displacement by a family of discontinuous Galerkin methods. Theoretical convergence error estimates are derived and, in particular, are shown to be independent of the constrained specific storage coefficient, c o . This suggests that our proposed algorithm is a potentially effective way to combat locking, or the nonphysical pressure oscillations, which sometimes arise in numerical algorithms for poroelasticity.",
+    "citation_count": 29,
+    "year": "2008/12",
+    "authors": [
+        {
+            "name": "Phillips, Phillip Joseph",
+            "country": "USA"
+        },
+        {
+            "name": "Wheeler, Mary F.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

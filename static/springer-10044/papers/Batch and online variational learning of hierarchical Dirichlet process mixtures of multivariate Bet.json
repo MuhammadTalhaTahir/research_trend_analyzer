@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-021-01023-6",
+    "title": "Batch and online variational learning of hierarchical Dirichlet process mixtures of multivariate Beta distributions in medical applications",
+    "abstract": "Thanks to the significant developments in healthcare industries, various types of medical data are generated. Analysing such valuable resources aid healthcare experts to understand the illnesses more precisely and provide better clinical services. Machine learning as one of the capable tools could assist healthcare experts in achieving expressive interpretation and making proper decisions. As annotation of medical data is a costly and sensitive task that can be performed just by healthcare professionals, label-free methods could be significantly promising. Interpretability and evidence-based decision are other concerns in medicine. These needs were our motivators to propose a novel clustering method based on hierarchical Dirichlet process mixtures of multivariate Beta distributions. To learn it, we applied batch and online variational methods for finding the proper number of clusters as well as estimating model parameters at the same time. The effectiveness of the proposed models is evaluated on three medical real applications, namely oropharyngeal carcinoma diagnosis, osteosarcoma analysis, and white blood cell counting.",
+    "citation_count": 82,
+    "year": "2021/11",
+    "authors": [
+        {
+            "name": "Manouchehri, Narges",
+            "country": "Canada"
+        },
+        {
+            "name": "Bouguila, Nizar",
+            "country": "Canada"
+        },
+        {
+            "name": "Fan, Wentao",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

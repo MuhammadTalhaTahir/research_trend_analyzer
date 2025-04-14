@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s100440170005",
+    "title": "Segmentation of Colour Images with Highlights and Shadows sing Fuzzy-like Reasoning",
+    "abstract": "In this paper, a fuzzy-like technique is presented that resolves several difficult issues related to image segmentation, such as highlights and shadows. Large, relatively continuous, areas within an image are usually easy to segment, and the pixels included within different segments are often determined by using derived edge information. However, in many cases, pixels which lie between segments or in high frequency areas of an image cannot be easily categorised as belonging to any particular segments. Typically, according to the dichromatic reflection model, these pixels may belong to the matte, highlight or shadow area of the closest segment; or, in association with neighbouring pixels, they make up a separate smaller segment. The dichromatic reflection model is applied here to merge highlight and shadow areas with matte areas in an image. By segmenting those pixels into proper regions, the proposed fuzzy-like reasoning approach provides a more human-like segmentation of images.",
+    "citation_count": 0,
+    "year": "2001/11",
+    "authors": [
+        {
+            "name": "Yuan, X.",
+            "country": "US"
+        },
+        {
+            "name": "Goldman, D.",
+            "country": "US"
+        },
+        {
+            "name": "Moghaddamzadeh, A.",
+            "country": "US"
+        },
+        {
+            "name": "Bourbakis, N.",
+            "country": "US"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S026288562300197X",
+    "title": "Lightweight multi-scale attention-guided network for real-time semantic segmentation",
+    "abstract": "The wide application of small mobile devices makes the demand for lightweight real-time  semantic segmentation  algorithm become more and more intense, which makes it become one of the most popular  research topics  in the field of  computer vision . However, some current methods blindly pursue low parameter numbers and high inference speeds, resulting in excessively low model accuracy and a loss of practical value. Therefore, a lightweight multi-scale attention-guided network for real-time semantic segmentation(LMANet) based on asymmetric encoder-decoder is proposed in this paper to solve the above dilemmas. In the encoder, we propose multi-scale asymmetric residual(MAR) modules to extract local spatial information and context information to enhance feature expression. In the decoder, we design an attention feature fusion(AFF) module and an attention pyramid refining (APR) module. AFF module guides the fusion of low-level and middle-level feature information through high-level semantic information, and finally refines the fusion result through APR module. In addition, we improve the  segmentation performance  of the model with the help of the attention modules in the network. Our network is tested on two complex urban road datasets. The experimental results show that LMANet achieves 70.6% mIoU and 66.5% mIoU on Cityscapes and Camvid datasets at 112FPS and 333FPS respectively, only 0.95 M parameters without any pre-training or pre-processing. Compared with most of existing state-of-the-art models, our network not only guarantees reasonable inference speed and parameter quantity, but also improves the accuracy as much as possible, which makes it more practical.",
+    "citation_count": "12",
+    "year": "2023/11/01",
+    "authors": [
+        {
+            "name": "Xuegang Hu",
+            "country": ""
+        },
+        {
+            "name": "Yuanjing Liu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

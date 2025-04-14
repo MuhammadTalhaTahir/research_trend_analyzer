@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762115001502",
+    "title": "Subscription-free Pay-TV over IPTV",
+    "abstract": "We propose a novel short-interval charging model for pay-TV over  IPTV . To realize this model we develop an approach that relies on the channel switching action of users to trigger the charging process. When a user switches to a paid channel a multicast rekeying procedure is triggered resulting in a new content key for all viewing users of that paid channel. At this time the charging interval for the user who switched to the paid channel is started. In contrast, when a user leaves a paid channel, another multicast rekeying procedure is triggered resulting in a new content key for all viewing users of that paid channel except for the leaving user. At this time the charging interval for the user who left the paid channel is stopped. Obviously, this approach poses tight real-time requirements on the system. We designed and implemented this system based on an in-depth requirement analysis. The system test has shown that the proposed short-interval charging model is feasible without considerable violation of reported requirements regarding channel switching times.",
+    "citation_count": "4",
+    "year": "2016/03/01",
+    "authors": [
+        {
+            "name": "Tolga Arul",
+            "country": ""
+        },
+        {
+            "name": "Abdulhadi Shoufan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

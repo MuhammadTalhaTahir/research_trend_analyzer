@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885615000086",
+    "title": "Application of Shearlet transform to classification of surface defects for metals",
+    "abstract": "Surface defects  are important factors of surface quality of industrial products. Most of the traditional machine vision based methods for surface defect recognition have some shortcomings such as low detection rate of defects and high rate of  false alarms . Different types of defects have special information at some directions and scales of their images, while the traditional methods of feature extraction, such as Wavelet transform, are unable to get the information at all directions. In this study, Shearlet transform is introduced to provide efficient multi-scale directional representation, and a general framework has been developed to analyze and represent surface  defect images  with  anisotropic  information. The metal surface images captured from production lines are decomposed into multiple directional subbands with Shearlet transform, and features are extracted from all subbands and combined into a high-dimensional feature vector. Kernel Locality Preserving Projection is applied to the dimension reduction of the feature vector. The proposed method is tested with the surface images captured from different production lines, and the results show that the classification rates of surface defects of  continuous casting  slabs, hot-rolled steels, and aluminum sheets are 94.35%, 95.75% and 92.5% respectively.",
+    "citation_count": "53",
+    "year": "2015/03/01",
+    "authors": [
+        {
+            "name": "Ke Xu",
+            "country": ""
+        },
+        {
+            "name": "Shunhua Liu",
+            "country": ""
+        },
+        {
+            "name": "Yonghao Ai",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

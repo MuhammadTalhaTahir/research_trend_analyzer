@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650219305115",
+    "title": "Matrix adaptation evolution strategies for optimization under nonlinear equality constraints",
+    "abstract": "This work concerns the design of matrix adaptation evolution strategies for black-box optimization under nonlinear equality constraints. First, constraints in form of elliptical manifolds are considered. For those constraints, an algorithm is proposed that evolves itself on that manifold while optimizing the objective function. The specialty about the approach is that it is possible to ensure that the population evolves on the manifold with closed-form expressions. Second, an algorithm design for general nonlinear equality constraints is presented. For those constraints considered, an iterative repair approach is presented. This allows the evolution to happen on the nonlinear manifold defined by the equality constraints for this more general case as well. For both cases, the algorithms are  interior point  methods, i.e., the objective function is only evaluated at feasible points in the parameter space, which is often required in the area of simulation-based optimization. For the experimental evaluation, different test problems are introduced. The proposed algorithms are evaluated on those providing insights into the working principles of the different approaches. It is experimentally shown that correcting the mutation vectors after the repair step is important for an effective evolution strategy. Additional experiments are conducted for providing a comparison to other evolutionary black-box optimization methods, which show that the developed algorithms are competitive.",
+    "citation_count": "7",
+    "year": "2020/05/01",
+    "authors": [
+        {
+            "name": "Patrick Spettel",
+            "country": ""
+        },
+        {
+            "name": "Hans-Georg Beyer",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

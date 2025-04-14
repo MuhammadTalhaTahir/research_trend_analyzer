@@ -1,0 +1,30 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10617-021-09253-x",
+    "title": "Adaptive run-time scheduling of dependent services for service-oriented IoT systems",
+    "abstract": "IoT systems can be regarded as distributed systems that are composed of heterogeneous smart devices with different performances and functionalities. Many IoT applications with various resources and real-time requirements will run concurrently in an IoT system. In addition, non-functional properties such as power consumption and device lifetime are considered important. Since the IoT services can be added or removed anytime and the device status may change at runtime, the system configuration is unprecedentedly dynamic, which brings up a challenging scheduling problem of IoT services onto the devices. We assume that an IoT application is specified by a directed graph, called service graph, where nodes represent services while the directed edges represent the dependencies between them. To tackle this problem, we propose a novel adaptive approach that consists of two scheduling techniques, incremental and global. The incremental heuristic method is proposed to provide fast responsiveness to the dynamically changing configuration while satisfying the real-time constraints. During steady state operation, GA-based global rescheduling is periodically applied. We use the acceptance ratio of new services and energy consumption as two performance metrics of the proposed scheduling method. The viability of the proposed approach is verified by extensive simulations with random IoT service graphs.",
+    "citation_count": 51,
+    "year": "2021/12",
+    "authors": [
+        {
+            "name": "Kim, Jangryul",
+            "country": "Republic of Korea"
+        },
+        {
+            "name": "Park, Kangkyu",
+            "country": "Republic of Korea"
+        },
+        {
+            "name": "Yang, Hoeseok",
+            "country": "Republic of Korea"
+        },
+        {
+            "name": "Ha, Soonhoi",
+            "country": "Republic of Korea"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

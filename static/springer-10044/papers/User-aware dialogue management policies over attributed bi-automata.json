@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-018-0743-y",
+    "title": "User-aware dialogue management policies over attributed bi-automata",
+    "abstract": "Designing dialogue policies that take user behavior into account is complicated due to user variability and behavioral uncertainty. Attributed probabilistic finite-state bi-automata (A-PFSBA) have proven to be a promising framework to develop dialogue managers that capture the users’ actions in its structure and adapt to them online, yet developing policies robust to high user uncertainty is still challenging. In this paper, the theoretical A-PFSBA dialogue management framework is augmented by formally defining the notation of exploitation policies over its structure. Under such definition, multiple path-based policies are implemented, those that take into account external information and those which do not. These policies are evaluated on the Let’s Go corpus, before and after an online learning process whose goal is to update the initial model through the interaction with end users. In these experiments the impact of user uncertainty and the model structural learning is thoroughly analyzed.",
+    "citation_count": 29,
+    "year": "2019/11",
+    "authors": [
+        {
+            "name": "Serras, Manex",
+            "country": "Spain"
+        },
+        {
+            "name": "Torres, María Inés",
+            "country": "Spain"
+        },
+        {
+            "name": "del Pozo, Arantza",
+            "country": "Spain"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

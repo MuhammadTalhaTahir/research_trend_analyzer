@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762113001537",
+    "title": "Design space exploration for high-level synthesis of multi-threaded applications",
+    "abstract": "We present an  ESL  methodology creating a direct path from high-level multi-threaded OpenMP applications to automatically synthesized, heterogeneous hardware/software systems implemented onto  FPGA  devices. The work addresses a number of challenges, including the definition of a novel system-oriented  Model of Computation  (MoC), capturing the essential aspects of the structure of a parallel  software application  related to the optimization and translation process, a key element to enable automated  design space exploration . The paper also presents an analytical optimization model based on  Integer Linear Programming , as well as innovative techniques for early  hardware cost  prediction used to speed up the design space exploration process. The methodology is supported by a set of ad hoc tools, including a custom OpenMP compiler and a hardware cost estimator, interacting with an existing ILP solver and a hardware high-level  synthesis engine . The resulting prototypical environment demonstrates an innovative design flow that can extend the spectrum of  ESL design  to high-level multi-threaded applications, successfully meeting the current trends in complex  embedded systems design . The work also presents a case-study to show the effectiveness of the proposed methodology with a real-world application.",
+    "citation_count": "30",
+    "year": "2013/11/01",
+    "authors": [
+        {
+            "name": "Alessandro Cilardo",
+            "country": ""
+        },
+        {
+            "name": "Luca Gallo",
+            "country": ""
+        },
+        {
+            "name": "Nicola Mazzocca",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

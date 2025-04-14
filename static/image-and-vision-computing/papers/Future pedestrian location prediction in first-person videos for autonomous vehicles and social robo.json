@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623000458",
+    "title": "Future pedestrian location prediction in first-person videos for autonomous vehicles and social robots",
+    "abstract": "Future pedestrian trajectory prediction in first-person videos offers great prospects to help autonomous vehicles and social robots to enable better human-vehicle interactions. Given an egocentric video stream, we aim to predict the location and depth (distance between the observed person and the camera) of his/her neighbors in future frames. To locate their future trajectories, we mainly consider three main factors: a) It is necessary to restore the spatial distribution of pedestrians in 2D image to 3D space, i.e., to extract the distance between the pedestrian and the camera which is often neglected. b) It is critical to utilize neighbors’ poses to recognize their intentions. c) It is important to learn human-vehicle interactions from the pedestrian’s historical trajectories. We propose to incorporate these three factors into a multi-channel tensor to represent the main features in real-life 3D space. We then put this tensor into an innovative end-to-end fully convolutional network based on transformer architecture. Experimental results reveal our method outperforms other state-of-the-art methods on public benchmarks MOT15, MOT16 and MOT17. The proposed method will be useful to understand human-vehicle interaction and helpful for pedestrian collision avoidance.",
+    "citation_count": "5",
+    "year": "2023/06/01",
+    "authors": [
+        {
+            "name": "Kai Chen",
+            "country": ""
+        },
+        {
+            "name": "Haihua Zhu",
+            "country": ""
+        },
+        {
+            "name": "Dunbing Tang",
+            "country": ""
+        },
+        {
+            "name": "Kun Zheng",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

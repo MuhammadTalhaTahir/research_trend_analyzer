@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650220303941",
+    "title": "A novel path-based reproduction operator for multi-objective optimization",
+    "abstract": "A large number of multi-objective  evolutionary algorithms  (MOEAs) have been proposed for the past two decades. However, few papers focus on the study of reproduction operator in MOEAs. In this work, we propose a novel path-based reproduction operator, termed path evolution (PE), to generate potential solutions more effectively for MOEAs. In PE, there is no mating selection, and the calculation of the evolution path is simple. Moreover, a new gene-sharing operation is proposed. The effectiveness of PE is validated by comparing it with three widely used reproduction operators and two state-of-the-art path-based reproduction operators. It is also reported that PE is very flexible to embed into different categories of MOEAs. The empirical results on three widely used test suites demonstrate the superiority, especially faster convergence ability, of PE.",
+    "citation_count": "7",
+    "year": "2020/12/01",
+    "authors": [
+        {
+            "name": "Wenjiang Song",
+            "country": ""
+        },
+        {
+            "name": "Wei Du",
+            "country": ""
+        },
+        {
+            "name": "Chen Fan",
+            "country": ""
+        },
+        {
+            "name": "Weimin Zhong",
+            "country": ""
+        },
+        {
+            "name": "Feng Qian",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

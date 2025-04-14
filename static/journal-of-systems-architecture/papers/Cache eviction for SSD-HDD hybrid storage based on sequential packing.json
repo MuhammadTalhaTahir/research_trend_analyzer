@@ -1,0 +1,38 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762123001091",
+    "title": "Cache eviction for SSD-HDD hybrid storage based on sequential packing",
+    "abstract": "Hybrid storage systems consist of NAND flash-based solid-state drives (SSDs) and conventional  hard disk drives  (HDDs). In which, the SSD device commonly acts as a cache for HDDs, to not only reduce overall  power consumption , but also enhance responsiveness of a system. Cache eviction, which is responsible for moving the data out of SSD during  garbage collection  (GC) so as to maximize the use efficiency of cache, may greatly affect normal I/O processing. This paper proposes a technique of sequential packing-based cache eviction, which groups the flushed data pages in the GC block, with the (cold) sequential address data located in other SSD blocks. Then, the packed data pages can be flushed together onto the lower level storage of HDDs, to fully use their high sequential bandwidth. As a result, our approach can cut down negative effects of write amplification on the SSD cache, and contribute to better I/O performance of SSD-HDD hybrid storage.",
+    "citation_count": "4",
+    "year": "2023/08/01",
+    "authors": [
+        {
+            "name": "Chengyong Tang",
+            "country": ""
+        },
+        {
+            "name": "Zhibing Sha",
+            "country": ""
+        },
+        {
+            "name": "Jun Li",
+            "country": ""
+        },
+        {
+            "name": "Haodong Lin",
+            "country": ""
+        },
+        {
+            "name": "Lei Chen",
+            "country": ""
+        },
+        {
+            "name": "Zhigang Cai",
+            "country": ""
+        },
+        {
+            "name": "Jianwei Liao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-005-4921-7",
+    "title": "A Hybrid Genetic—GRASP Algorithm Using Lagrangean Relaxation for the Traveling Salesman Problem",
+    "abstract": "Hybridization techniques are very effective for the solution of combinatorial optimization problems. This paper presents a genetic algorithm based on Expanding Neighborhood Search technique (Marinakis, Migdalas, and Pardalos, Computational Optimization and Applications, 2004) for the solution of the traveling salesman problem: The initial population of the algorithm is created not entirely at random but rather using a modified version of the Greedy Randomized Adaptive Search Procedure. Farther more a stopping criterion based on Lagrangean Relaxation is proposed. The combination of these different techniques produces high quality solutions. The proposed algorithm was tested on numerous benchmark problems from TSPLIB with very satisfactory results. Comparisons with the algorithms of the DIMACS Implementation Challenge are also presented.",
+    "citation_count": 21,
+    "year": "2005/12",
+    "authors": [
+        {
+            "name": "Marinakis, Yannis",
+            "country": "Greece"
+        },
+        {
+            "name": "Migdalas, Athanasios",
+            "country": "Greece"
+        },
+        {
+            "name": "Pardalos, Panos M.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

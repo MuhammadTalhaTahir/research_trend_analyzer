@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621001190",
+    "title": "LSTM with bio inspired algorithm for action recognition in sports videos",
+    "abstract": "Nowadays, Sport-related movement recognition plays an essential part in the wellbeing of people's lives. The mention of human movements and gestures is often studied in sports to help analyze, guide, and evaluate activity. The automatic detection of sports-related signals helps find the injuries or indirect physical issues in the human body. Action recognition patterns with complicated motion status and periodicity in sports games can help to more accurately estimate the duration of successful action states. Actions are recognized by identifying the activity in a clip. Quality evaluation of action assigns a quantitative score based on the performance of the action. Based on the score, the action states are analyzed. The main issue of sports game identification correctly tracks the behavior of sportspeople. In this paper,  Long Short Term Memory  networks (LSTM) with a Bio-inspired Algorithm (BIA) framework have been proposed to recognize the action of a sportsperson and motivate a person to improve sports skills. Action recognition and classification can also be used to produce matching or practice output statistics automatically. The proposed LSTM-BIA utilizes predefined actions by modeling the monitoring effects with discriminative  temporal signals . It uses the Spatial pyramid pooling SPP-net to obtain the robust characteristic of each frame's tracked area. The new SPP-net network structure will produce an adjusted description irrespective of the scale and resolution of the object. It could be used for identification and entity recognition and enables variable-length image input into  CNN . The experimental results show that the proposed method can evaluate the actual action of sportspersons with high accuracy when compared to other methods.",
+    "citation_count": "36",
+    "year": "2021/08/01",
+    "authors": [
+        {
+            "name": "Jun Chen",
+            "country": ""
+        },
+        {
+            "name": "R. Dinesh Jackson Samuel",
+            "country": ""
+        },
+        {
+            "name": "Parthasarathy Poovendran",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

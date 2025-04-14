@@ -1,0 +1,31 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-018-1067-2",
+    "title": "Discovering Homophily in Online Social Networks",
+    "abstract": "During the last ten years, Online Social Networks (OSNs) have increased their popularity by becoming part of the real life of users. Despite their tremendous widespread, OSNs have introduced several privacy issues as a consequence of the nature of the information involved in these services. Indeed, the huge amount of private information produced by users of current OSNs expose the users to a number of risks. The analysis of the users’ similarity in OSNs is attracting the attention of researchers because of its implications on privacy and social marketing. In particular, the homophily between users could be used to reveal important characteristics that users would like to keep hidden, hence violating the privacy of OSNs’ users. Homophily has been well studied in existing sociology literature, however, it is not easily extensible in OSNs due to the lack of real datasets. In this paper, we propose an analysis of similarity of social profiles in terms of movie preferences. Results reveal the presence of homophily between users and its dependence from the tie strength. Moreover, we show that it is possible to profile a user (in our case by considering the age attribute) by exploiting movie preferences.",
+    "citation_count": 32,
+    "year": "2018/12",
+    "authors": [
+        {
+            "name": "De Salve, Andrea",
+            "country": "Italy"
+        },
+        {
+            "name": "Guidi, Barbara",
+            "country": "Italy"
+        },
+        {
+            "name": "Ricci, Laura",
+            "country": "Italy"
+        },
+        {
+            "name": "Mori, Paolo",
+            "country": "Italy"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

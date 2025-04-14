@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885625000228",
+    "title": "Semantic consistency learning for unsupervised multi-modal person re-identification",
+    "abstract": "Unsupervised multi-modal person re-identification poses significant challenges due to the substantial modality gap and the absence of annotations. Although previous efforts have aimed to bridge this gap by establishing modality correspondences, their focus has been confined to the feature and image level correspondences, neglecting full utilization of semantic information. To tackle these issues, we propose a Semantic Consistency Learning Network (SCLNet) for unsupervised multi-modal person re-identification. SCLNet first predicts pseudo-labels using a hierarchical clustering algorithm, which capitalizes on common semantics to perform mutual refinement across modalities and establishes cross-modality label correspondences based on semantic analysis. Besides, we also design a cross-modality loss that utilizes contrastive learning to acquire modality-invariant features, effectively reducing the inter-modality gap and enhancing the robustness of the model. Furthermore, we construct a new multi-modality dataset named Subway-TM. This dataset not only encompasses visible and infrared modalities but also includes a depth modality, captured by three cameras across 266 identities, comprising 10,645 RGB images, 10,529 infrared images, and 10,529 depth images. To the best of our knowledge, this is the first person re-identification dataset with three modalities. We conduct extensive experiments, utilizing the widely employed person re-identification datasets SYSU-MM01 and RegDB, along with our newly proposed multi-modal Subway-TM dataset. The experimental results show that our proposed method is promising compared to the current state-of-the-art methods.",
+    "citation_count": "0",
+    "year": "2025/03/01",
+    "authors": [
+        {
+            "name": "Yuxin Zhang",
+            "country": ""
+        },
+        {
+            "name": "Zhu Teng",
+            "country": ""
+        },
+        {
+            "name": "Baopeng Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

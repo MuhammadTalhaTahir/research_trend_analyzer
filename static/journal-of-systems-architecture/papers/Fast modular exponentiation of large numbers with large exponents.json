@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762102000589",
+    "title": "Fast modular exponentiation of large numbers with large exponents",
+    "abstract": "In many problems, modular exponentiation | x b | m  is a basic computation, often responsible for the overall time performance, as in some  cryptosystems , since its implementation requires a large number of multiplications. It is known that | x b | m =| x | b | ϕ ( m ) | m  for any  x  in [1, m −1] if  m  is prime; in this case the number of multiplications depends on  ϕ ( m ) instead of depending on  b . It was also stated that previous relation holds in the case  m = pq , with  p  and  q  prime; this case occurs in the RSA method. In this paper it is proved that such a relation holds in general for any  x  in [1, m −1] when  m  is a product of any number  n  of distinct primes and that it does not hold in the other cases for the whole range [1, m −1]. Moreover, a general method is given to compute | x b | m  without any hypothesis on  m , for any  x  in [1, m −1], with a number of modular multiplications not exceeding those required when  m  is a product of primes. Next, it is shown that representing  x  in a residue  number system  (RNS) with proper moduli  m i  allows to compute | x b | m  by  n  modular exponentiations | x i b | m i  in parallel and, in turn, to replace  b  by | b | ϕ ( m i )  in the worst case, thus executing a very low number of multiplications, namely ⌈log 2 m i ⌉ for each residue digit. A general architecture is also proposed and evaluated, as a possible implementation of the proposed method for the modular exponentiation.",
+    "citation_count": "5",
+    "year": "2002/08/01",
+    "authors": [
+        {
+            "name": "Giuseppe Alia",
+            "country": ""
+        },
+        {
+            "name": "Enrico Martinelli",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

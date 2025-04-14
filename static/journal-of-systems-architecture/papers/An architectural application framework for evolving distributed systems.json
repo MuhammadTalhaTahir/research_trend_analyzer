@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762198000745",
+    "title": "An architectural application framework for evolving distributed systems",
+    "abstract": "In this paper, we present an object-oriented application framework to support the development of evolving distributed systems. The framework combines concepts of the object-oriented paradigm with those of  architectural design . The result is a framework which supports extensible and reusable configurations of distributed components. The framework addresses the problem of evolution by allowing the addition, replacement and extension of components of a configuration. Evolution is also possible at run time, where a configuration can change dynamically depending on a particular event. The paper outlines the fundamental aspects of our framework and presents a  case study , which illustrates its application.",
+    "citation_count": "13",
+    "year": "1999/09/01",
+    "authors": [
+        {
+            "name": "G.R. Ribeiro-Justo",
+            "country": ""
+        },
+        {
+            "name": "P.R.F. Cunha",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

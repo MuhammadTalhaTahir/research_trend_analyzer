@@ -1,0 +1,31 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-010-0274-2",
+    "title": "A Secure Handshake Scheme with Symptoms-Matching for mHealthcare Social Network",
+    "abstract": "In our aging society, mHealthcare social network (MHSN) built upon wireless body sensor network (WBSN) and mobile communications provides a promising platform for the seniors who have the same symptom to exchange their experiences, give mutual support and inspiration to each other, and help forwarding their health information wirelessly to a related eHealth center. However, there exist many challenging security issues in MHSN such as how to securely identify a senior who has the same symptom, how to prevent others who don’t have the symptom from knowing someone’s symptom? In this paper, to tackle these challenging security issues, we propose a secure same-symptom-based handshake (SSH) scheme. Specifically, in the proposed SSH scheme, each patient is granted with a pseudo-ID and its private key corresponding to his symptom. When two patients meet, only if they have the same symptom, they can use their private keys to make mutual authentication. With the provable security technique, we demonstrate the proposed SSH is secure in the MHSN scenarios. Moreover, we also discuss a promising application – social-based patient health information (PHI) collaborative reporting in MHSN, and conduct extensive simulations to evaluate its efficiency in terms of PHI delivery ratio and reporting delay.",
+    "citation_count": 21,
+    "year": "2011/12",
+    "authors": [
+        {
+            "name": "Lu, Rongxing",
+            "country": "Canada"
+        },
+        {
+            "name": "Lin, Xiaodong",
+            "country": "Canada"
+        },
+        {
+            "name": "Liang, Xiaohui",
+            "country": "Canada"
+        },
+        {
+            "name": "Shen, Xuemin",
+            "country": "Canada"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

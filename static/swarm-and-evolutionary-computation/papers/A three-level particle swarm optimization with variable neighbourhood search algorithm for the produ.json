@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218309015",
+    "title": "A three-level particle swarm optimization with variable neighbourhood search algorithm for the production scheduling problem with mould maintenance",
+    "abstract": "To improve the reliability of production systems in the plastics industry, researchers are now taking mould maintenance into consideration, besides machine maintenance, in the production scheduling problem. Different strategies and approaches have been proposed to solve the production scheduling with mould maintenance (PS-MM) problem. However, it remains a challenge to provide a satisfactory solution. In this research, a new hybrid metaheuristic algorithm (TLPSO-VNS algorithm) is proposed, which is a combination of the three-level particle swarm optimization (TLPSO) algorithm devised in this study and variable neighbourhood search (VNS). Differing from the  joint  scheduling strategies used in existing research, this study divides the integrated problem into three sub-problems and solves them through three interrelated PSOs named  TLPSO . Then, the solutions obtained by  TLPSO  are enhanced by VNS. The key characteristics of TLPSO and VNS are employed simultaneously to achieve superior solutions in solving the addressed optimization problem. In the proposed hybrid algorithm, the TLPSO performs a global search whereas the VNS has a local search role. These two techniques complement each other to enhance the search diversification and intensification. Numerical experiments on a variety of simulated scenarios show the efficiency and effectiveness of the proposed algorithm by comparing it with other algorithms.",
+    "citation_count": "17",
+    "year": "2019/11/01",
+    "authors": [
+        {
+            "name": "Xiaoyue Fu",
+            "country": ""
+        },
+        {
+            "name": "Felix T.S. Chan",
+            "country": ""
+        },
+        {
+            "name": "Ben Niu",
+            "country": ""
+        },
+        {
+            "name": "Nick S.H. Chung",
+            "country": ""
+        },
+        {
+            "name": "Ting Qu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

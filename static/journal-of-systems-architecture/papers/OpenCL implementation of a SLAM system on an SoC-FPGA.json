@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S138376212030117X",
+    "title": "OpenCL implementation of a SLAM system on an SoC-FPGA",
+    "abstract": "Simultaneous localization and mapping (SLAM) becomes a solved problem in terms of the algorithms. In order to use them in autonomous mobile robots, researches are focusing on reducing computation complexity and developing embedded systems with appropriate software and hardware architecture. In this work, we aim to perform a fully embedded implementation of a SLAM on an FPGA based SoC combining an embedded Hard Processor System (HPS) with an FPGA in the same chip. The followed implementation methodology is based on software profiling. The SLAM is profiled to perform an appropriate hardware/software partitioning and decide which part of the SLAM will be accelerated on the FPGA. The software is running on Linux on the HPS of the SoC-FPGA and the accelerated function is executed on the FPGA. The FPGA is programmed using OpenCL which is a high level language that can reduce significantly the developpement time. The results show that the SLAM algorithm implemented on SoC-FPGA is accelerated to nearly the twice comparing to the pure software implementation, while ensuring the real-time constraint",
+    "citation_count": "10",
+    "year": "2020/12/01",
+    "authors": [
+        {
+            "name": "Salah Bouhoun",
+            "country": ""
+        },
+        {
+            "name": "Rabah Sadoun",
+            "country": ""
+        },
+        {
+            "name": "Mourad Adnane",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

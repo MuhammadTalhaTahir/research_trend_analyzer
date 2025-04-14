@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Editorial Board / Aims and Scope",
+        "url": "https://www.sciencedirect.com/science/article/pii/S138376211500123X"
+    },
+    {
+        "title": "A trustworthy, fault-tolerant and scalable self-configuration algorithm for Organic Computing systems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S138376211500082X"
+    },
+    {
+        "title": "Self-adaptive corner detection on MPSoC through resource-aware programming",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762115000818"
+    },
+    {
+        "title": "Interfacing the hardware API with a feature-based operating system family",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762115000806"
+    },
+    {
+        "title": "Memory organizations for 3D-DRAMs and PCMs in processor memory hierarchy",
+        "url": "https://www.sciencedirect.com/science/article/pii/S138376211500079X"
+    },
+    {
+        "title": "Non-preemptive and SRP-based fully-preemptive scheduling of real-time Software Transactional Memory",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762115000788"
+    },
+    {
+        "title": "Exploring ICMetrics to detect abnormal program behaviour on embedded devices",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762115000776"
+    },
+    {
+        "title": "A two-tier design space exploration algorithm to construct GPU performance model",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762115000764"
+    },
+    {
+        "title": "Tuning the victim selection policy of Intel TBB",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762115000740"
+    },
+    {
+        "title": "Denial-of-Service attacks on PCI passthrough devices: Demonstrating the impact on network- and storage-I/O performance",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762115000739"
+    },
+    {
+        "title": "Introduction to the Special Issue on Testing, prototyping, and debugging of multi-core architectures",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762115001356"
+    },
+    {
+        "title": "mcfTRaptor: Toward unobtrusive on-the-fly control-flow tracing in multicores",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762115000752"
+    },
+    {
+        "title": "Techniques for on-demand structural redundancy for massively parallel processor arrays",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762115001186"
+    },
+    {
+        "title": "Automatic task mapping and heterogeneity-aware fault tolerance: The benefits for runtime optimization and application development",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762115001034"
+    },
+    {
+        "title": "A high performance hardware accelerator for dynamic texture segmentation",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762115001022"
+    },
+    {
+        "title": "Synthesis and optimization of image processing accelerators using domain knowledge",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762115001010"
+    },
+    {
+        "title": "Calculation of dense trajectory descriptors on a heterogeneous embedded architecture",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762115001009"
+    },
+    {
+        "title": "Resource-awareness on heterogeneous MPSoCs for image processing",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762115000995"
+    },
+    {
+        "title": "Automatically controlled pan–tilt smart camera with FPGA based image analysis system dedicated to real-time tracking of a moving object",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762115000971"
+    },
+    {
+        "title": "An embedded system for handwritten digit recognition",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762115000867"
+    }
+]

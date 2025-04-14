@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-025-01276-5",
+    "title": "Mathematical models for the one-dimensional cutting stock problem with setups and open stacks",
+    "abstract": "In real-life production, the cutting stock problem is often associated with additional constraints and objectives. Among the auxiliary objectives, two of the most relevant are the minimization of the number of different cutting patterns used and the minimization of the maximum number of simultaneously open stacks. The first auxiliary objective arises in manufacturing environments where the adjustment of the cutting tools when changing the cutting patterns incurs increased costs and time spent in production. The second is crucial to face scenarios where the space near the cutting machine or the number of automatic unloading stations is limited. In this paper, we address the one-dimensional cutting stock problem, considering the additional goals of minimizing the number of different cutting patterns used and the maximum number of simultaneously open stacks. We propose two Integer Linear Programming (ILP) formulations and a Constraint Programming (CP) model for the problem. Moreover, we develop new upper bounds on the frequency of the cutting patterns in a solution and address some special cases in which the problem may be simplified. All three approaches are embedded into an iterative exact framework to find efficient solutions. We perform computational experiments using two sets of instances from the literature. The proposed approaches proved effective in determining the entire Pareto front for small problem instances, and several solutions for medium-sized instances with minimum trim loss, a reduced maximum number of simultaneously open stacks, and a small number of different used cutting patterns.",
+    "citation_count": 49,
+    "year": "2025/04",
+    "authors": [
+        {
+            "name": "Guimarães, Gabriel Gazzinelli",
+            "country": "Brazil"
+        },
+        {
+            "name": "Poldi, Kelly Cristina",
+            "country": "Brazil"
+        },
+        {
+            "name": "Martin, Mateus",
+            "country": "Brazil"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

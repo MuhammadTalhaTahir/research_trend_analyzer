@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002506",
+    "title": "Predictive breast cancer diagnosis using ensemble fuzzy model",
+    "abstract": "Breast cancer continues to be a major global health challenge, necessitating reliable diagnostic methods for early detection and improved patient outcomes. This study introduces a novel ensemble fuzzy model for predictive breast cancer diagnosis, integrating multiple deep-learning classifiers with fuzzy logic to enhance decision-making. Traditional diagnostic approaches often struggle with the complexity and heterogeneity of breast cancer data, which this new model addresses through an innovative ensemble technique. The ensemble model combines the strengths of Inception-V4, Inception-ResNet, and Inception V3/V4 +  BN , with fuzzy logic for adaptive priority assignment based on confidence scores. The method employs a re-parameterized Gompertz function to assign fuzzy ranks to constituent classifiers, allowing flexible fusion strategies. The proposed model is evaluated on two benchmark breast cancer datasets: the Digital Database for Screening Mammography (DDSM) and the Breast Cancer Histopathological  Image Classification  (BACH) dataset. It achieves high performance across key metrics, including accuracy, precision, recall, and F1 score, consistently outperforming  individual classifiers . On the DDSM dataset, the ensemble fuzzy model attains an accuracy of 0.97, a recall of 0.93, a precision of 0.95, and an F1 score of 0.96. Similarly, on the BACH dataset, the proposed method records an accuracy of 97.05%, a recall of 99.31%, a precision of 95.44%, and an F1 score of 97.37%, demonstrating its robust capability to identify  positive instances  and maintain a balanced performance. These results highlight the potential of the ensemble fuzzy model to improve breast cancer diagnosis, offering a reliable solution to the inherent challenges in this field.",
+    "citation_count": "2",
+    "year": "2024/08/01",
+    "authors": [
+        {
+            "name": "Xiaohui Yu",
+            "country": ""
+        },
+        {
+            "name": "Jingjun Tian",
+            "country": ""
+        },
+        {
+            "name": "Zhipeng Chen",
+            "country": ""
+        },
+        {
+            "name": "Yizhen Meng",
+            "country": ""
+        },
+        {
+            "name": "Jun Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

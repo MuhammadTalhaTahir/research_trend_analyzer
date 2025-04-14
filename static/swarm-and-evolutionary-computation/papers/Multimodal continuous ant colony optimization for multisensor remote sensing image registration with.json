@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217301864",
+    "title": "Multimodal continuous ant colony optimization for multisensor remote sensing image registration with local search",
+    "abstract": "Due to the large differences between different  imaging sensors , multisensor  remote sensing  image registration is a challenging work. Multisensor  remote sensing image  registration can be formulated as a multimodal problem, and general optimization methods may get trapped into a local optimum when solving complex multimodal problems. In this paper, we introduce a multimodal continuous ant colony  optimization algorithm  for multisensor remote sensing image registration, and an efficient optimization method is designed as local search operation. Multimodal continuous  ant colony optimization  algorithm can preserve high diversity and has the global search ability for multimodal problems. Meanwhile, efficient local search operation can improve the efficiency and provide the accurate result. The experimental results have demonstrated the effectiveness and robustness of the proposed method.",
+    "citation_count": "61",
+    "year": "2019/06/01",
+    "authors": [
+        {
+            "name": "Yue Wu",
+            "country": ""
+        },
+        {
+            "name": "Wenping Ma",
+            "country": ""
+        },
+        {
+            "name": "Qiguang Miao",
+            "country": ""
+        },
+        {
+            "name": "Shanfeng Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

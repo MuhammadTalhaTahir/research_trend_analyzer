@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762116301552",
+    "title": "Provisioning of power event APIs as a mobile OS facility",
+    "abstract": "Monitoring various hardware and software events for energy consumption is essential for  energy management  in mobile devices. However, current  mobile operating systems  (OS) lack monitoring functionality and do not provide sufficient information of this kind. In this paper, we propose PEMOS (Power Events Monitor for Mobile Operating Systems), a framework for power event  APIs  for mobile devices, that provides a wide spectrum of energy-related information, enabling in-depth analysis of energy problems. PEMOS provides a set of well-defined  APIs  as a mobile OS facility, defining various energy-related system events as power events. These are classified into system events and application events, encompassing extensive and fine-grained power-related events. Benefits of PEMOS include extensive coverage of power events, high portability across various platforms, and efficient API implementation. The framework structure is portable across multiple devices, and the standard ioctl-based API implementation enables the same operations on different devices without system modification. We implemented PEMOS on the  Android  platform to evaluate its efficacy and usefulness. The experimental results and  case studies  confirm that PEMOS is effective and useful for a range of energy  management systems , with minimal overhead.",
+    "citation_count": "3",
+    "year": "2016/11/01",
+    "authors": [
+        {
+            "name": "Chanmin Yoon",
+            "country": ""
+        },
+        {
+            "name": "Seokjun Lee",
+            "country": ""
+        },
+        {
+            "name": "Rhan Ha",
+            "country": ""
+        },
+        {
+            "name": "Hojung Cha",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

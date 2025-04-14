@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S026288562400338X",
+    "title": "Black-box model adaptation for semantic segmentation",
+    "abstract": "Model adaptation aims to transfer knowledge in pre-trained source models to a new unlabeled dataset. Despite impressive progress, prior methods always need to access the source model and develop data-reconstruction approaches to align the data distributions between target samples and the generated instances, which may raise privacy concerns from source individuals. To alleviate the above problem, we propose a new method in the setting of Black-box model adaptation for semantic segmentation, in which only the pseudo-labels from multiple source domain is required during the adaptation process. Specifically, the proposed method structurally distills the knowledge with multiple classifiers to obtain a customized target model, and then the predictions of target data are refined to fit the target domain with co-regularization. We conduct extensive experiments on several standard datasets, and our method can achieve promising results.",
+    "citation_count": "1",
+    "year": "2024/10/01",
+    "authors": [
+        {
+            "name": "Zhiheng Zhou",
+            "country": ""
+        },
+        {
+            "name": "Wanlin Yue",
+            "country": ""
+        },
+        {
+            "name": "Yinglie Cao",
+            "country": ""
+        },
+        {
+            "name": "Shifu Shen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

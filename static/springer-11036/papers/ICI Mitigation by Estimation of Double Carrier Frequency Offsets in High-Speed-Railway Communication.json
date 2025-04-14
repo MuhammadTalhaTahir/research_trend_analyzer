@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-017-0990-y",
+    "title": "ICI Mitigation by Estimation of Double Carrier Frequency Offsets in High-Speed-Railway Communication Systems for Smart Cities",
+    "abstract": "The urbanization and the fourth industrial revolution lead to the explosion of smart cities. One of the most prior problems to solve in digital cities is transportation infrastructures and high speed railway (HSR) is an effective solution. In communication aspect of HSR, the passenger’s demand and transportation management networks require high-speed data services with reliable connections. Orthogonal frequency division multiplexing (OFDM) is a modulation method in the advanced communication systems to provide broadband communications services. OFDM is substantial against inter-symbol-interference due to long symbol duration, but it is very sensitive to doppler effect that happens when the speed of the train is getting much faster. In addition, inter-carrier interference (ICI) caused by high doppler frequency shift has a severe impact on OFDM in case of high channel variations. In this paper, we propose an ICI mitigation method by utilizing the estimation and pre-compensation of high doppler shifts in HSR communication systems for smart cities. The estimate of the doppler shift is based on a preamble frame of data in communication link between EnodeB and user equipment. The simulation results show that the performance of system has been improved using the proposed model.",
+    "citation_count": 30,
+    "year": "2018/12",
+    "authors": [
+        {
+            "name": "Van Yem, Vu",
+            "country": "Vietnam"
+        },
+        {
+            "name": "Huong, Trinh Thi",
+            "country": "Vietnam"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223000020",
+    "title": "Improved ant colony optimization for the vehicle routing problem with split pickup and split delivery",
+    "abstract": "The  vehicle routing problem  (VRP) with split pick-up and delivery of multi-category goods is characterized by low carbon, demand splitting and simultaneous pick-up and delivery. In view of this, a mathematical model for optimizing vehicle routing with the objective of minimizing the total cost (comprising the  fixed cost ,  carbon emission  cost and penalty cost) is established by considering traffic conditions, satisfaction, and energy saving and emission reduction. A new improved  ant colony optimization  (ACO) algorithm is designed to solve the model and an initial solution is generated with pheromones of vehicles and a heuristic algorithm to ensure the quality of the initial population. A  tabu  search operator containing five neighborhood operators is constructed to improve the local search ability of the algorithm, and simulated annealing mechanisms are introduced to update global pheromones, so as to increase the diversity of populations. The effectiveness of the model and algorithm proposed in this study is verified through numerical simulation experiments on 18 groups of examples with different scales. The research results not only enrich relevant theories considering problems with demand splitting and the simultaneous pick-up and delivery, but also provide effective theoretical supports for  decision making  in logistics  enterprises  in the face of such complex problems.",
+    "citation_count": "45",
+    "year": "2023/03/01",
+    "authors": [
+        {
+            "name": "Teng Ren",
+            "country": ""
+        },
+        {
+            "name": "Tianyu Luo",
+            "country": ""
+        },
+        {
+            "name": "Binbin Jia",
+            "country": ""
+        },
+        {
+            "name": "Bihao Yang",
+            "country": ""
+        },
+        {
+            "name": "Ling Wang",
+            "country": ""
+        },
+        {
+            "name": "Lining Xing",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

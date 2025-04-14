@@ -1,0 +1,22 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10617-014-9147-4",
+    "title": "An energy aware buffer mapping technique on hybrid STT-MRAM memories with multiple retention time for stream applications",
+    "abstract": "STT-MRAM has been recently researched to replace DRAM in order to reduce the cell size and save the leakage power consumption. Although the read operation in STT-MRAM is acceptable in terms of performance and energy consumption, the write operation discourages the adoption of the STT-MRAM as main memory. A promising approach to overcome the poor write operation is to reduce the planar cell size which decreases the retention time, the write latency and the write energy consumption since the change of the cell size requires no additional manufacturing process. However, since refresh is required in the reduced retention time memory just like DRAM, the leakage energy consumption may increase compared with a traditional STT-MRAM with long retention time. This paper solves the buffer mapping problem onto a system with multiple retention time memories for a stream application to minimize the energy consumption. Experimental results show that a system with two or three different retention time STT-MRAMs reduces 45–75&nbsp; $$\\%$$ of write energy consumption compared with a single long retention time STT-MRAM.",
+    "citation_count": 40,
+    "year": "2013/09",
+    "authors": [
+        {
+            "name": "Choi, Kwangil",
+            "country": "South Korea"
+        },
+        {
+            "name": "Oh, Hyunok",
+            "country": "South Korea"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

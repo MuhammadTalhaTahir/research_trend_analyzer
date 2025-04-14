@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-019-00441-x",
+    "title": "Fractional matching preclusion of the restricted HL-graphs",
+    "abstract": "The fractional matching preclusion number of a graph is the minimum number of edges whose deletion results in a graph that has no fractional perfect matchings, and the fractional strong matching preclusion number of a graph is the minimum number of edges and/or vertices whose deletion leaves a resulting graph with no fractional perfect matchings. In this paper, we determine these two numbers for the restricted HL-graphs.",
+    "citation_count": 23,
+    "year": "2019/11",
+    "authors": [
+        {
+            "name": "Zhang, Shunzhe",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Liu, Huiqing",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Li, Dong",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Hu, Xiaolan",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

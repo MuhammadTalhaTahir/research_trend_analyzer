@@ -1,0 +1,42 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885622001652",
+    "title": "Complementary characteristics fusion network for weakly supervised salient object detection",
+    "abstract": "Salient object detection  (SOD) is a challenging and fundamental research in  computer vision  and  image processing . Since the cost of pixel-level annotations is high, scribble annotations are usually used as weak supervisions. However, scribble annotations are too sparse and always located inside the objects with lacking annotations close to the semantic boundaries, which can't make confident predictions. To alleviate these issues, we propose a novel and effective scribble-based weakly supervised approach for SOD, named complementary characteristics fusion network (CCFNet). To be more specific, we design an edge fusion module (EFM) by taking account of local and high-level semantic information to equip our model, which would be beneficial to enhance the power of aggregating  edge information . Then to achieve the complementary role of different features, a series of feature correlation modules (FCMs) are employed to strengthen the localization information and details learning. This is based on low-level, high-level global and edge information, which will complement each other to obtain relatively complete  salient regions . Alternatively, to encourage the network to learn structural information and further improve the results of saliency maps in foreground and background, we propose a self-supervised salient detection (SSD) loss. Extensive experiments using five benchmark datasets demonstrate that our proposed approach performs favorably against the state-of-the-art weakly supervised algorithms, and even surpasses the performance of those fully supervised.",
+    "citation_count": "4",
+    "year": "2022/10/01",
+    "authors": [
+        {
+            "name": "Yan Liu",
+            "country": ""
+        },
+        {
+            "name": "Yunzhou Zhang",
+            "country": ""
+        },
+        {
+            "name": "Zhenyu Wang",
+            "country": ""
+        },
+        {
+            "name": "Fei Yang",
+            "country": ""
+        },
+        {
+            "name": "Cao Qin",
+            "country": ""
+        },
+        {
+            "name": "Feng Qiu",
+            "country": ""
+        },
+        {
+            "name": "Sonya Coleman",
+            "country": ""
+        },
+        {
+            "name": "Dermot Kerr",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

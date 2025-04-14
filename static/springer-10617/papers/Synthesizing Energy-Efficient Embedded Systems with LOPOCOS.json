@@ -1,0 +1,26 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1016511712014",
+    "title": "Synthesizing Energy-Efficient Embedded Systems with LOPOCOS",
+    "abstract": "In this paper, we introduce the LOPOCOS (Low Power Co-synthesis) system, a prototype CAD tool for system level co-design. LOPOCOS targets the design of energy-efficient embedded systems implemented as heterogeneous distributed architectures. In particular, it is designed to solve the specific problems involved in architectures that include dynamic voltage scalable (DVS) processors. The aim of this paper is to demonstrate how LOPOCOS can support the system designer in identifying energy-efficient hardware/software implementations for the desired embedded systems. Hence, highlighting the necessary optimization steps during design space exploration for DVS enable architectures. The optimization steps carried out in LOPOCOS involve component allocation and task/communication mapping as well as scheduling and dynamic voltage scaling. LOPOCOS has the following key features, which contribute to this energy efficiency. During the voltage scaling valuable power profile information of task execution is taken into account, hence, the accuracy of the energy estimation is improved. A combined optimization for scheduling and communication mapping based on genetic algorithm, optimizes simultaneously execution order and communication mapping towards the utilization of the DVS processors and timing behaviour. Furthermore, a separation of task and communication mapping allows a more effective implementation of both task and communication mapping optimizationsteps. Extensive experiments are conducted to demonstrate the efficiency of LOPOCOS. We report up to 38% higher energy reductions compared to previous co-synthesis techniques for DVS systems. The investigations include a real-life example of an optical flow detection algorithm.",
+    "citation_count": 42,
+    "year": "2002/07",
+    "authors": [
+        {
+            "name": "Schmitz, Marcus T.",
+            "country": "United Kingdom"
+        },
+        {
+            "name": "Al-Hashimi, Bashir M.",
+            "country": "United Kingdom"
+        },
+        {
+            "name": "Eles, Petru",
+            "country": "Sweden"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

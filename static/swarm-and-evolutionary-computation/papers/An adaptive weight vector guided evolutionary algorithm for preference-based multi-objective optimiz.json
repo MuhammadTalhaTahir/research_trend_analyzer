@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218309738",
+    "title": "An adaptive weight vector guided evolutionary algorithm for preference-based multi-objective optimization",
+    "abstract": "Recently, multi-objective  evolutionary algorithms  (MOEAs) have been widely explored and applied to many real-world problems. Particularly, preference-based MOEAs are among the mostly studied. Several preference-based optimization algorithms have already been proposed in literature. However, most existing studies focus on how to locate the region of interest (ROI) and how to control the size of ROI, and overlook the relationship between preference information and distribution of the final solutions. Given that the distribution of the final solutions is also an important factor, in this paper, we propose a new preference-based MOEAs called MOEA/D-AWV using an adaptive  weight vector  generation strategy (AWV). The weight vectors are generated adaptively by the decision maker’s preference, and finally guide the solutions to converge to a preferred distribution. Solutions will converge to the  reference point  as close as possible with the AWV strategy, which will lead to the loss of diversity. In order to prevent the search process from being trapped at local optima, we propose an adaptive parameter tuning scheme (APT) to maintain diversity during the search process. In addition, since the distribution of weight vectors should adapt to the changes of decision makers’ preference, the APT scheme can help algorithm find desired results in different scenarios. Compared with five state-of-the-art preference-based MOEAs on 23 test instances, MOEA/D-AWV achieves the best performance. Especially, in many-objective optimization problems with high-dimensional objective space, our proposed MOEA/D-AWV still shows a competitive performance.",
+    "citation_count": "77",
+    "year": "2019/09/01",
+    "authors": [
+        {
+            "name": "Feng Wang",
+            "country": ""
+        },
+        {
+            "name": "Yixuan Li",
+            "country": ""
+        },
+        {
+            "name": "Heng Zhang",
+            "country": ""
+        },
+        {
+            "name": "Ting Hu",
+            "country": ""
+        },
+        {
+            "name": "Xiao-Liang Shen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124000420",
+    "title": "An intelligent assistive driving solution based on smartphone for power wheelchair mobility",
+    "abstract": "This research introduces a cost-effective, smartphone-powered, computer-vision-based system for Power Wheelchair Intelligent Assistive Driving (PWC IA-Driving). This system enables the safe, hands-free operation of a Power Wheelchair (PWC) with reduced attention required from the user in  indoor environments , thereby easing the burden on disabled individuals and lessening their stress. Our objective is to provide an affordable and practical solution that can be easily incorporated into existing PWCs. The system leverages a customized and pre-trained ResNet-based model on a smartphone to derive driving commands from real-time imagery captured by the phone’s camera. These instructions are then conveyed to the PWC via a control interface connected to the smartphone. We have developed a prototype of this assistive driving system on a Pixel-6  Android  phone and tested its feasibility on a mobile robot as a proof-of-concept. Our evaluations indicate that the smartphone can process up to 25 images per second. This rapid processing rate allows for the generation of driving instructions in real time, enabling the mobile robot to navigate safely at reasonable speeds within the test environment, while requiring minimal user intervention.",
+    "citation_count": "0",
+    "year": "2024/04/01",
+    "authors": [
+        {
+            "name": "Zhiwei Wang",
+            "country": ""
+        },
+        {
+            "name": "Jingye Xu",
+            "country": ""
+        },
+        {
+            "name": "Jianqiu Zhang",
+            "country": ""
+        },
+        {
+            "name": "Rocky Slavin",
+            "country": ""
+        },
+        {
+            "name": "Dakai Zhu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

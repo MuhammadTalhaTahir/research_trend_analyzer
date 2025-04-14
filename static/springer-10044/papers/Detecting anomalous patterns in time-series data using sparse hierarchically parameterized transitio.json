@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-016-0544-0",
+    "title": "Detecting anomalous patterns in time-series data using sparse hierarchically parameterized transition matrices",
+    "abstract": "Anomaly detection in time-series data is a relevant problem in many fields such as stochastic data analysis, quality assurance, and predictive modeling. Markov models are an effective tool for time-series data analysis. Previous approaches utilizing Markov models incorporate transition matrices (TMs) at varying dimensionalities and resolutions. Other analysis methods treat TMs as vectors for comparison using search algorithms such as the nearest neighbors comparison algorithm, or use TMs to calculate the probability of discrete subsets of time-series data. We propose an analysis method that treats the elements of a TM as random variables, parameterizing them hierarchically. This approach creates a metric for determining the “normalcy” of a TM generated from a subset of time-series data. The advantages of this novel approach are discussed in terms of computational efficiency, accuracy of anomaly detection, and robustness when analyzing sparse data. Unlike previous approaches, this algorithm is developed with the expectation of sparse TMs. Accounting for this sparseness significantly improves the detection accuracy of the proposed method. Detection rates in a variety of time-series data types range from (97&nbsp;% TPR, 2.1&nbsp;% FPR) to (100&nbsp;% TPR, &lt;0.1&nbsp;% FPR) with very small sample sizes (20–40 samples) in data with sparse transition probability matrices.",
+    "citation_count": 18,
+    "year": "2017/11",
+    "authors": [
+        {
+            "name": "Milo, Michael W.",
+            "country": "USA"
+        },
+        {
+            "name": "Roan, Michael J.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

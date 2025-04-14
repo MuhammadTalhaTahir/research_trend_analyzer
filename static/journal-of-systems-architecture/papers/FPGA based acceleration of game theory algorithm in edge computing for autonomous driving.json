@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762118304934",
+    "title": "FPGA based acceleration of game theory algorithm in edge computing for autonomous driving",
+    "abstract": "For  autonomous driving  area, the communication among autonomous vehicles is quite frequent and inevitable to perceive the surrounding environment. Massive data needs to be processed in time on the edge to control vehicles to make suitable strategies. For a group of vehicles, collaborative strategies are necessary to avoid unintentional congestions. However, less attention is paid to competition and cooperation between vehicle groups. In this paper, we explore the possibility of adopting  game theory  for decision making to obtain win-win between autonomous vehicles. The Lemke-Howson algorithm in  game theory  is the best known combinatorial algorithm that computes a  Nash equilibrium  of a bimatrix game. More importantly, we implement the Lemke-Howson algorithm on  FPGA  to accelerate the computation process. We explain the design challenges of solving the  performance bottleneck  and how to make optimizations. We implement the Lemke-Howson accelerator on a KCU116 board and obtain a speedup of about 2.4 times versus that running on a CPU.",
+    "citation_count": "24",
+    "year": "2019/02/01",
+    "authors": [
+        {
+            "name": "Sen Du",
+            "country": ""
+        },
+        {
+            "name": "Tian Huang",
+            "country": ""
+        },
+        {
+            "name": "Junjie Hou",
+            "country": ""
+        },
+        {
+            "name": "Shijin Song",
+            "country": ""
+        },
+        {
+            "name": "Yuefeng Song",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

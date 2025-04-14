@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217305138",
+    "title": "Robust tuning of excitation controller for stability enhancement using multi-objective metaheuristic Firefly algorithm",
+    "abstract": "The proposed approach focuses on investigating the optimum values of  Power System   Stabilizer  (PSS) parameters by the implementation of  Firefly algorithm  (FFA) based optimization technique. It minimizes the low frequency oscillations such that both maximum overshoot and settling time are reduced simultaneously, since the reduction of both these parameters will considerably improve the stability of the power system. In this paper, eigenvalue and overshoot based multi objective function is used to enhance damping of electromechanical oscillations in the system. Firstly, the conventional lead-lag structure of PSS, which has its design based on phase compensation technique, was applied to the systems under study. Then, Firefly optimization technique is implemented on three different standard test systems and a comparative analysis is carried out with the classical techniques (under the disturbances). Moreover, the performance of FFA tuned PSS is also compared with PSS tuned using  Genetic algorithm  (GA). Based on the simulations, it is seen that Firefly optimization technique based PSS converges faster as compared to conventional PSS and GAPSS. Thus, the implementation and evaluation of firefly algorithm has emerged as an evolving platform and can be considered as a very impressive catalytic method to tune the PSS parameters.",
+    "citation_count": "65",
+    "year": "2019/02/01",
+    "authors": [
+        {
+            "name": "Mahesh Singh",
+            "country": ""
+        },
+        {
+            "name": "R.N. Patel",
+            "country": ""
+        },
+        {
+            "name": "D.D. Neema",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

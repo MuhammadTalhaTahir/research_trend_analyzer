@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003184",
+    "title": "An improved attentive residue multi-dilated network for thermal noise removal in magnetic resonance images",
+    "abstract": "Magnetic resonance imaging (MRI) technology is crucial in the medical field, but the thermal noise in the reconstructed MR images may interfere with the clinical diagnosis. Removing the thermal noise in MR images mainly contains two challenges. First, thermal noise in an MR image obeys Rician distribution, where the statistical features are not consistent in different regions of the image. In this case, conventional denoising methods like spatial convolutional filtering will not be appropriate to deal with it. Second, details and edge information in the image may get damaged while smoothing the noise. This paper proposes a novel deep-learning model to denoise MR images. First, the model learns a binary mask to separate the background and signal regions of the noised image, making the noise left in the signal region obey a unified statistical distribution. Second, the model is designed as an attentive residual multi-dilated network (ARM-Net), composed of a multi-branch structure, and supplemented with a frequency-domain-optimizable discrete cosine transform module. In this way, the deep-learning model will be more effective in removing the noise while maintaining the details of the original image. Furthermore, we have also made improvements on the original ARM-Net baseline to establish a new model called ARM-Net v2, which is more efficient and effective. Experimental results illustrate that over the BraTS 2018 dataset, our method achieves the PSNR of 39.7087 and 32.6005 at noise levels of 5% and 20%, which realizes the state-of-the-art performance among existing MR image denoising methods.",
+    "citation_count": "1",
+    "year": "2024/10/01",
+    "authors": [
+        {
+            "name": "Bowen Jiang",
+            "country": ""
+        },
+        {
+            "name": "Tao Yue",
+            "country": ""
+        },
+        {
+            "name": "Xuemei Hu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217301700",
+    "title": "Artificial life based on boids model and evolutionary chaotic neural networks for creating artworks",
+    "abstract": "In this paper, we propose a multi-agent based art production framework. In existing artwork creation systems, images were generated using artificial life and evolutionary computation approaches. In artificial life,  swarm intelligence  or Boids model, and in evolutionary computation,  genetic algorithm  or  genetic programming  are commonly used to create images. These automated artwork creation systems make it easy to create artistic images even if the users are not professional artists. Despite the high possibility of these creation systems, however, much research has not been done so far. In this paper, we propose an art production framework that generates images using multi-agents with chaotic dynamics features. Agents act on the canvas following the three rules of Boids model. In addition, each agent possesses a chaotic  neural network  which trained by  differential evolution algorithm , so that colors can be evolved to represent a better style. As a result, we propose an art production framework for generating processing artworks that contain highly complex dynamics. Finally, we created the glitch artworks using the proposed framework, which shows a new glitch style.",
+    "citation_count": "19",
+    "year": "2019/06/01",
+    "authors": [
+        {
+            "name": "Tae Jong Choi",
+            "country": ""
+        },
+        {
+            "name": "Chang Wook Ahn",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

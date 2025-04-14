@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-019-01390-9",
+    "title": "Modeling Displacement and Direction Aware Ad Hoc On-Demand Distance Vector Routing Standard for Mobile Ad Hoc Networks",
+    "abstract": "The mobile ad hoc network (MANETs) is increasingly emerging wireless standards with the immense extent of applications. The MANET routing experiences disputes in terms of their autonomous nature and due to the presence of diverse routing schemes. The reactive routing standards are chosen due to minimized control overheads and expandability but they experience regular path breakdowns because of increased displacement of the nodes. For minimizing the connection breakdowns and to acquire a constant path a fresh reactive routing standard is designed based on hierarchy based displacements. The designed displacement and magnitude aware ad hoc on demand distance vector routing standard intends to address the displacements and magnitude features over the ad hoc networks. The DDC – AODV directs the path identification and path acknowledgment based on the displacement of the contributing nodes and their magnitudes. The NS2 offers two load assessment employing assessments to explore the consequences and benefits of DDC – AODV over the AODV standards.",
+    "citation_count": 15,
+    "year": "2019/12",
+    "authors": [
+        {
+            "name": "Saravanan, T.",
+            "country": "India"
+        },
+        {
+            "name": "Nithya, N. S.",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

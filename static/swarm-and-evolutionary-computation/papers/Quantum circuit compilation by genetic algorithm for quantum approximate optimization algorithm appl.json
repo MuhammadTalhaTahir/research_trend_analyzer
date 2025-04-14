@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650222000025",
+    "title": "Quantum circuit compilation by genetic algorithm for quantum approximate optimization algorithm applied to MaxCut problem",
+    "abstract": "The Quantum Circuit Compilation Problem (QCCP) is challenging to the Artificial Intelligence community. It was already tackled with temporal planning, constraint programming, greedy heuristics and other techniques. In this paper, QCCP is formulated as a scheduling problem and solved by a genetic algorithm. We focus on QCCP for Quantum Approximation Optimization Algorithms (QAOA) applied to the MaxCut problem and consider Noisy Intermediate Scale Quantum (NISQ) hardware architectures. Based on the fact that these algorithms apply a set of basic quantum operations repeatedly over a number of rounds, we propose a genetic algorithm approach, termed Decomposition Based Genetic Algorithm (DBGA), that in each round extends the partial solutions obtained for the previous ones. DBGA is compared to the state of the art across a set of conventional instances. The results of the experimental study provided interesting insight in the problem structure and showed that DBGA is quite competitive with the state of the art. In particular, DBGA outperformed the best current method on the largest instances and provided new best solutions to most of them.",
+    "citation_count": "0",
+    "year": "2022/03/01",
+    "authors": [
+        {
+            "name": "Lis Arufe",
+            "country": ""
+        },
+        {
+            "name": "Miguel A. González",
+            "country": ""
+        },
+        {
+            "name": "Angelo Oddi",
+            "country": ""
+        },
+        {
+            "name": "Riccardo Rasconi",
+            "country": ""
+        },
+        {
+            "name": "Ramiro Varela",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

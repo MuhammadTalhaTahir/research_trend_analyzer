@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-005-0014-6",
+    "title": "Classifying image texture with statistical landscape features",
+    "abstract": "This paper proposes to use three-dimensional information derived from the graph of an image function for texture description. The graph of an image function is a rumpled surface appearing like a landscape. To characterize the texture through this landscape, six novel texture feature curves based on the statistics of the geometrical and topological properties of the solids shaped by the graph and a variable horizontal plane are used. The proposed statistical landscape features have been shown by systematic experiments to offer very low error rates on a large subset of the Brodatz texture album having excluded some nonhomogeneous images, the entire Brodatz texture set, as well as the VisTex texture collection.",
+    "citation_count": 36,
+    "year": "2006/02",
+    "authors": [
+        {
+            "name": "Xu, Cun Lu",
+            "country": "China"
+        },
+        {
+            "name": "Chen, Yan Qiu",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

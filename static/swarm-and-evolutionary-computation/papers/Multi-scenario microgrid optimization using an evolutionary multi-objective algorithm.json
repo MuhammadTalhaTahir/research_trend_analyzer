@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650219302093",
+    "title": "Multi-scenario microgrid optimization using an evolutionary multi-objective algorithm",
+    "abstract": "Multi-scenario  microgrid  optimization arises regularly in real life. It refers to finding optimal scheduling strategies of a microgrid under multiple scenarios where each scenario corresponds to a specific working condition. For example, in an industrial park, there are often many users with different load demands. We need to efficiently find the optimal scheduling strategies for all users. The easiest way is to conduct the operation search for each user separately, which however, is obviously inefficient. Inspired by the underlying  parallelism  of evolutionary multi-objective optimization (EMO), this study proposes to optimize all scenarios simultaneously, i.e., finding the optimal scheduling strategies for all users in a single algorithm run. Specifically, the multi-scenario microgrid  optimization problem  is transformed into a bi-objective problem in which one objective is to minimize the number of scenarios and the other is to minimize the overall cost of the microgrid. The bi-objective problem is then solved by a typical  EMO algorithm . The obtained  Pareto optimal solutions  correspond to the optimal scheduling strategies for different scenarios. Experimental results show that the proposed method is both effective and efficient, and can find more appropriate scheduling strategies than dealing with each scenario individually.",
+    "citation_count": "31",
+    "year": "2019/11/01",
+    "authors": [
+        {
+            "name": "Wenhua Li",
+            "country": ""
+        },
+        {
+            "name": "Rui Wang",
+            "country": ""
+        },
+        {
+            "name": "Tao Zhang",
+            "country": ""
+        },
+        {
+            "name": "Mengjun Ming",
+            "country": ""
+        },
+        {
+            "name": "Hongtao Lei",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

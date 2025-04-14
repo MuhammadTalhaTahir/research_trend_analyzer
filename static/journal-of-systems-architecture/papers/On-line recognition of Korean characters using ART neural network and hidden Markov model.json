@@ -1,0 +1,9 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762197000441",
+    "title": "On-line recognition of Korean characters using ART neural network and hidden Markov model",
+    "abstract": "This paper proposes an efficient method for on-line recognition of cursive Korean characters. The recognition of cursive strokes and the representation of a large character set are important determinants in the recognition rate of Korean characters. To deal with cursive strokes, we classify them automatically by using an ART-2 neural network. This neural network has the advantage of assembling similar patterns together to form classes in a self-organized manner. To deal with the large character set, we construct a character recognition model by using the hidden Markov model (HMM), which has the advantages of providing an explicit representation of time-varying vector sequence and probabilistic interpretation. Probabilistic parameters of the HMM are initialized using the combination rule for Korean characters and a set of primitive strokes that are classified by the ART stroke classifier, and trained with sample data. This is an efficient means of representing all the 11,172 possible Korean characters. We tested the model on 7500 on-line cursive Korean characters and it proved to perform well in recognition rate and speed.",
+    "citation_count": "0",
+    "year": "1998/09/01",
+    "authors": [],
+    "keywords": []
+}

@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-010-9334-6",
+    "title": "Minimum d-blockers and d-transversals in graphs",
+    "abstract": "We consider a set V of elements and an optimization problem on V: the search for a maximum (or minimum) cardinality subset of V verifying a given property ℘. A d-transversal is a subset of V which intersects any optimum solution in at least d elements while a d-blocker is a subset of V whose removal deteriorates the value of an optimum solution by at least d. We present some general characteristics of these problems, we review some situations which have been studied (matchings, s–t paths and s–t cuts in graphs) and we study d-transversals and d-blockers of stable sets or vertex covers in bipartite and in split graphs.",
+    "citation_count": 25,
+    "year": "2011/11",
+    "authors": [
+        {
+            "name": "Costa, Marie-Christine",
+            "country": "France"
+        },
+        {
+            "name": "de Werra, Dominique",
+            "country": "Switzerland"
+        },
+        {
+            "name": "Picouleau, Christophe",
+            "country": "France"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223000603",
+    "title": "Trial-based dominance for comparing both the speed and accuracy of stochastic optimizers with standard non-parametric tests",
+    "abstract": "Non-parametric tests can determine the better of two stochastic optimization algorithms when benchmarking results are ordinal—like the final fitness values of multiple trials—but for many benchmarks, a trial can also terminate once it reaches a prespecified target value. In such cases, both the time that a trial takes to reach the target value (or not) and its final fitness value characterize its outcome. This paper describes how trial-based dominance can totally order this two-variable dataset of outcomes so that traditional non-parametric methods can determine the better of two algorithms when one is faster, but less accurate than the other, i.e. when neither algorithm dominates. After describing trial-based dominance, we outline its benefits. We subsequently review other attempts to compare stochastic optimizers, before illustrating our method with the Mann-Whitney  U test . Simulations demonstrate that “U-scores” are much more effective than dominance when tasked with identifying the better of two algorithms. We validate U-scores by having them determine the winners of the CEC 2022 competition on single objective, bound-constrained numerical optimization.",
+    "citation_count": "0",
+    "year": "2023/04/01",
+    "authors": [
+        {
+            "name": "Kenneth V. Price",
+            "country": ""
+        },
+        {
+            "name": "Abhishek Kumar",
+            "country": ""
+        },
+        {
+            "name": "P.N. Suganthan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

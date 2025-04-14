@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-019-09878-9",
+    "title": "Unstructured grid adaptation for multiscale finite volume method",
+    "abstract": "The multiscale finite volume (MSFV) method produces non-monotone solutions in the presence of highly heterogeneous and channelized permeability fields, or in media with impermeable barriers. The accuracy of the MSFV method can be significantly improved by generating adapted coarse grids according to the fine-scale permeability field. This paper presents efficient algorithms for generating adaptive unstructured primal and dual coarse grids based on permeability features to efficiently improve the MSFV results. The primal coarse grid is generated based on a multilevel tabu search algorithm and its boundaries are adapted to reduced non-physical coarse-scale transmissibilities. Adaptive dual coarse grid is generated based on Dijkstra’s routing algorithm. The performance of the proposed algorithms is assessed for challenging test cases with highly heterogeneous and channelized permeability fields as well as impermeable shale layers. Numerical results show that permeability-adapted coarse grids significantly improve the accuracy of the MSFV method for simulation of multiphase flow in highly heterogeneous porous media.",
+    "citation_count": 40,
+    "year": "2019/12",
+    "authors": [
+        {
+            "name": "Mehrdoost, Zahra",
+            "country": "Iran"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

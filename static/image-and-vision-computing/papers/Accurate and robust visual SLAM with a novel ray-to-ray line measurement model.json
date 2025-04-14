@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623002111",
+    "title": "Accurate and robust visual SLAM with a novel ray-to-ray line measurement model",
+    "abstract": "Line feature is regarded as a more intuitive and accurate landmark than point feature in visual SLAM for its multiple-pixel comprehensiveness. However, uncertain factors, such as  partial occlusion  and noise, frequently hinder the mapping accuracy and destabilize the line-assisted SLAM system. Structural regulations and prior hypotheses are often used to tackle the issues, whereas only few people explore the impact of line feature optimization. In this paper, we attempt to improve the accuracy and robustness of visual SLAM system through line feature optimization process. First, a concise ray-to-ray residual model is proposed to replace the prevalent point-to-line model to integrally use line features. Second, the information matrix related to observation uncertainties is calculated to normalize the residual model, which aims to better balance the weights of different lines. Third, we add the line model to ORB-SLAM3 system and design the method of point-and-line based tracking and optimization. Finally, quantitative criteria are proposed to objectively evaluate the line feature map. Both synthetical and real datasets experiments are carried out to demonstrate the advantages of our algorithm in terms of camera ego-motion estimation and mapping. For camera ego-motion estimation experiments, the proposed ray-to-ray residual model produces more accurate results compared to state-of-the-art line-assisted SLAM/VIO algorithms. Furthermore, the model runs faster and obtains more robust results than the prevalent point-to-line reprojection residual model. For mapping experiments, quantitative criteria are proposed, which also open a new perspective to evaluate line-assisted SLAM systems, and give clues to evidence that the proposed method builds a more accurate line feature map.",
+    "citation_count": "5",
+    "year": "2023/12/01",
+    "authors": [
+        {
+            "name": "Chengran Zhang",
+            "country": ""
+        },
+        {
+            "name": "Zheng Fang",
+            "country": ""
+        },
+        {
+            "name": "Xingjian Luo",
+            "country": ""
+        },
+        {
+            "name": "Wei Liu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

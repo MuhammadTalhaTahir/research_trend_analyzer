@@ -1,0 +1,35 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-016-0729-1",
+    "title": "Adaptive Estimation of WiFi RSSI and Its Impact Over Advanced Wireless Services",
+    "abstract": "RSSI is a reference magnitude of radio signal strength received by a wireless terminal. Traditionally, it has been used to implement wireless services like scanning in handoff. But its high long term variability (volatility) makes its high precision estimation be impossible, complicating its applicability. Moreover, every wireless terminal has its own way to provide RSSI. Recently a high impact paper has formally shown that RSSI of laboratory radio signal in WiFi always reverts to its mean. That is, its long term stability can be estimated. We present a new RSSI estimation model that improves other recently published methods; and shows that it can be used, in contrast with those other techniques, to a wide range of current wireless terminals and real world scenarios. We also show its applicability to indoor localization service, by observing how it can be used in a recent high impact paper and improving another paper also published in a high impact journal. Our method can be used in SDN.",
+    "citation_count": 29,
+    "year": "2017/12",
+    "authors": [
+        {
+            "name": "Santana, José Aurelio",
+            "country": "Spain"
+        },
+        {
+            "name": "Macías, Elsa",
+            "country": "Spain"
+        },
+        {
+            "name": "Suárez, Álvaro",
+            "country": "Spain"
+        },
+        {
+            "name": "Marrero, Domingo",
+            "country": "Spain"
+        },
+        {
+            "name": "Mena, Vicente",
+            "country": "Spain"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

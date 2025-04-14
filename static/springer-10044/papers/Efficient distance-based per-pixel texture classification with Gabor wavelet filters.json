@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-007-0097-3",
+    "title": "Efficient distance-based per-pixel texture classification with Gabor wavelet filters",
+    "abstract": "This paper proposes an efficient solution to the problem of per-pixel classification of textured images with multichannel Gabor wavelet filters based on a selection scheme that automatically determines a subset of prototypes that characterize each texture class. Results with Brodatz compositions and outdoor images, and comparisons with alternative classification techniques are presented.",
+    "citation_count": 11,
+    "year": "2008/09",
+    "authors": [
+        {
+            "name": "Melendez, Jaime",
+            "country": "Spain"
+        },
+        {
+            "name": "Garcia, Miguel Angel",
+            "country": "Spain"
+        },
+        {
+            "name": "Puig, Domenec",
+            "country": "Spain"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

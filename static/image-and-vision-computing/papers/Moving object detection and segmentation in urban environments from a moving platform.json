@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885617301142",
+    "title": "Moving object detection and segmentation in urban environments from a moving platform",
+    "abstract": "This paper proposes an effective approach to detect and segment moving objects from two time-consecutive stereo frames, which leverages the uncertainties in camera motion estimation and in disparity computation. First, the relative camera motion and its uncertainty are computed by tracking and matching sparse features in four images. Then, the motion likelihood at each pixel is estimated by taking into account the ego-motion uncertainty and disparity in computation procedure. Finally, the motion likelihood, color and depth cues are combined in the graph-cut framework for moving object segmentation. The efficiency of the proposed method is evaluated on the KITTI  benchmarking datasets , and our experiments show that the proposed approach is robust against both global (camera motion) and local (optical flow) noise. Moreover, the approach is dense as it applies to all pixels in an image, and even partially occluded moving objects can be detected successfully. Without dedicated tracking strategy, our approach achieves high recall and comparable precision on the KITTI benchmarking sequences.",
+    "citation_count": "43",
+    "year": "2017/12/01",
+    "authors": [
+        {
+            "name": "Dingfu Zhou",
+            "country": ""
+        },
+        {
+            "name": "Vincent Frémont",
+            "country": ""
+        },
+        {
+            "name": "Benjamin Quost",
+            "country": ""
+        },
+        {
+            "name": "Yuchao Dai",
+            "country": ""
+        },
+        {
+            "name": "Hongdong Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885617300537",
+    "title": "Saliency and KAZE features assisted object segmentation",
+    "abstract": "In this paper, we propose an unsupervised salient object  segmentation approach  using saliency and object features. In the proposed method, we utilize occlusion boundaries to construct a region-prior map which is then enhanced using object properties. To reject the non-salient regions, a region rejection strategy is employed based on the amount of detail (saliency information) and density of KAZE  keypoints  contained in them. Using the region rejection scheme, we obtain a threshold for binarizing the saliency map. The binarized saliency map is used to form a salient  superpixel  cluster. Finally, an iterative grabcut segmentation is applied with salient texture keypoints (SIFT keypoints on the Gabor convolved texture map) supplemented with salient KAZE keypoints (keypoints inside saliency cluster) as the foreground seeds and the binarized saliency map (obtained using the region rejection strategy) as a probably foreground region. We perform experiments on several datasets and show that the proposed segmentation framework outperforms the state of the art unsupervised salient object segmentation approaches on various performance metrics.",
+    "citation_count": "27",
+    "year": "2017/05/01",
+    "authors": [
+        {
+            "name": "Prerana Mukherjee",
+            "country": ""
+        },
+        {
+            "name": "Brejesh Lall",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

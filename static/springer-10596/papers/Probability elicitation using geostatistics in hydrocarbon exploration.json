@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-021-10084-9",
+    "title": "Probability elicitation using geostatistics in hydrocarbon exploration",
+    "abstract": "The exploratory phase of a hydrocarbon field is a period when decision-supporting information is scarce while the drilling stakes are high. Each new prospect drilled brings more knowledge about the area and might reveal reserves, hence choosing such prospect is essential for value creation. Drilling decisions must be made under uncertainty as the available geological information is limited and probability elicitation from geoscience experts is key in this process. This work proposes a novel use of geostatistics to help experts elicit geological probabilities more objectively, especially useful during the exploratory phase. The approach is simpler, more consistent with geologic knowledge, more comfortable for geoscientists to use and, more comprehensive for decision-makers to follow when compared to traditional methods. It is also flexible by working with any amount and type of information available. The workflow takes as input conceptual models describing the geology and uses geostatistics to generate spatial variability of geological properties in the vicinity of potential drilling prospects. The output is stochastic realizations which are processed into a joint probability distribution (JPD) containing all conditional probabilities of the process. Input models are interactively changed until the JPD satisfactory represents the expert’s beliefs. A 2D, yet realistic, implementation of the workflow is used as a proof of concept, demonstrating that even simple modeling might suffice for decision-making support. Derivative versions of the JPD are created and their effect on the decision process of selecting the drilling sequence is assessed. The findings from the method application suggest ways to define the input parameters by observing how they affect the JPD and the decision process.",
+    "citation_count": 42,
+    "year": "2021/12",
+    "authors": [
+        {
+            "name": "Morosov, André Luís",
+            "country": "Norway"
+        },
+        {
+            "name": "Bratvold, Reidar Brumer",
+            "country": "Norway"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

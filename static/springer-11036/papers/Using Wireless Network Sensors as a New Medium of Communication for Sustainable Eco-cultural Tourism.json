@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-023-02177-9",
+    "title": "Using Wireless Network Sensors as a New Medium of Communication for Sustainable Eco-cultural Tourism",
+    "abstract": "Internet of Things (IoT) in tourism refers to the use of interconnected devices and systems to enhance the travel experience for tourists. IoT applications in the tourism industry include using and promoting new wireless communication mediums, which will have a significant impact on this business. Wireless network sensors (WSNs) significantly influence the future of communication because they offer a new channel for communication among linked tourist machinery and equipment. The effective routing method of sensor nodes can be helpful for the application of wireless sensors and IoT in eco-cultural tourism. The routing approach of sensor nodes is crucial to the entire network's performance. Routing protocols select several intermediary nodes between the source nodes and the destination nodes to build an effective data transmission path by enhancing WSN’s performance in eco-cultural tourism. This study use the Dynamic Host Configuration Protocol (DHCP) and the conventional Minimum Maximum Battery Cost Routing (MMBCR) protocol to lower the network's energy consumption and packet loss rate. According to the experimental findings, the DHCP protocol's network latency was 0.01&nbsp;s, and the MMBCR protocol's network delay was 0.05&nbsp;s, when there were 30 nodes in the network. Similarly, the MMBCR protocol's network latency was 0.17&nbsp;s, and the DHCP protocol's network delay was 0.07&nbsp;s when there were 150 nodes. The DHCP protocol's network delay increased but did not change abruptly, but the delay of the MMBCR protocol increased constantly and quicker based on the experimental outcomes. It demonstrates how the DHCP protocol is more flexible to data rate increases and more suited to enhancing the speed of sensor nodes as a new medium for communication.",
+    "citation_count": 23,
+    "year": "2023/12",
+    "authors": [
+        {
+            "name": "Ren, Lili",
+            "country": "China"
+        },
+        {
+            "name": "Deng, Baiyun",
+            "country": "China"
+        },
+        {
+            "name": "Chen, Zhiling",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

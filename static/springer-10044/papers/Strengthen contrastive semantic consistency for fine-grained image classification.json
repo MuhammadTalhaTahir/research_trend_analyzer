@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-025-01456-3",
+    "title": "Strengthen contrastive semantic consistency for fine-grained image classification",
+    "abstract": "Fine-grained Visual Classification (FGVC) refers to the divisions of sub-classes from the given object categories only with the supervision of the image-level labels. While numerous efforts have improved the recognition accuracy of fine-grained images by strengthening the discriminative feature between different subtle inter-classes, we argue most recent approaches still suffer from the challenge of high intra-class variances in FGVC, i.e., objects belonging to the same sub-class present huge visual differences to output different recognition results. To suppress the intra-class variances, in this paper, we capture the semantic consistency for the visual changes of intra-class images and propose a novel contrastive fine-grained visual classification network (CFGVC-Net). We first embed discriminative parts to distinguish different sub-classes based on the spatial attention map. We then design the semantic consistency enhancement module by applying several transformation strategies to the training images and further matching the discriminative features of the generated image pairs based on the center loss and contrast loss, which can improve the model learning tolerance to the distribution diversity of the intra-class images. Extensive experiments on five benchmark datasets show that the proposed CFGVC-Net can significantly enhance FGVC performance, demonstrating its effectiveness across diverse fine-grained classification tasks. The code is available at https://github.com/WangYuPeng1/CFGVC-Net .",
+    "citation_count": 60,
+    "year": "2025/06",
+    "authors": [
+        {
+            "name": "Wang, Yupeng",
+            "country": "China"
+        },
+        {
+            "name": "Wang, Yongli",
+            "country": "China"
+        },
+        {
+            "name": "Ye, Qiaolin",
+            "country": "China"
+        },
+        {
+            "name": "Lang, Wenxi",
+            "country": "China"
+        },
+        {
+            "name": "Xu, Can",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

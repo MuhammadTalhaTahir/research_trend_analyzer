@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-007-9051-0",
+    "title": "Utilisation of the image analysis method for the detection of the morphological anisotropy of calcite grains in marble",
+    "abstract": "This paper presents the development and utilisation of an automated image processing algorithm for detection and analysis of grains. Using optical polarising microscopy, a set of colored images are collected from an area on a thin section. A filtering operation, using rotation of a morphological alternating sequence filter (based on a structuring element), is used to remove twinning features within individual grains. Filtering is followed by the watershed segmentation technique to determine grain boundaries. The method is used for the identification of calcite grains in marble and the subsequent analysis of morphological anisotropy.",
+    "citation_count": 29,
+    "year": "2007/12",
+    "authors": [
+        {
+            "name": "Obara, Boguslaw",
+            "country": "Poland"
+        },
+        {
+            "name": "Kožušníková, Alena",
+            "country": "Czech Republic"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

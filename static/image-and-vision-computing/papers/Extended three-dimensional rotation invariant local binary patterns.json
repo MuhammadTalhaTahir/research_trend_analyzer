@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885617300665",
+    "title": "Extended three-dimensional rotation invariant local binary patterns",
+    "abstract": "This paper presents a new set of three-dimensional rotation invariant  texture descriptors  based on the well-known  local binary patterns  (LBPs). In the approach proposed here, we extend an existing three-dimensional LBP based on the region growing algorithm using existing features developed exquisitely for two-dimensional LBPs (pixel intensities and differences). We have conducted experiments on a synthetic dataset of three-dimensional randomly rotated texture images in order to evaluate the discriminatory power and the rotation  invariant properties  of our descriptors as well as those of other two-dimensional and three-dimensional texture descriptors. Our results demonstrate the effectiveness of the extended LBPs and improvements against other state-of-the-art hand-crafted three-dimensional texture descriptors on this dataset. Furthermore, we prove that the extended LBPs can be used in medical datasets to discriminate between MR images of oxygenated and non-oxygenated  brain tissues  of newborn babies.",
+    "citation_count": "17",
+    "year": "2017/06/01",
+    "authors": [
+        {
+            "name": "Leonardo Citraro",
+            "country": ""
+        },
+        {
+            "name": "Sasan Mahmoodi",
+            "country": ""
+        },
+        {
+            "name": "Angela Darekar",
+            "country": ""
+        },
+        {
+            "name": "Brigitte Vollmer",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-017-9676-6",
+    "title": "Fully implicit higher-order schemes applied to polymer flooding",
+    "abstract": "In water-based EOR methods, active chemical or biological substances are added to modify the physical properties of the fluids or/and the porous media at the interface between oil and water. The resulting displacement processes are governed by complex interplays between the transport of chemical substances, which is largely linear and highly affected by numerical diffusion, and how these substances affect the flow by changing the properties of the fluids and the surrounding rock. These effects are highly nonlinear and highly sensitive to threshold parameters that determine sharp transitions between regions of very different behavior. Unresolved simulation can therefore lead to misleading predictions of injectivity and recovery profiles. Use of higher-order spatial discretization schemes have been proposed by many authors as a means to reduce numerical diffusion and grid-orientation effects. Most higher-order simulators reported in the literature are based on explicit time stepping, and only a few are implicit. One reason that fully implicit formulations are not widely used might be that it becomes quite involved to compute the necessary linearizations for modern high-resolution discretizations of TVD and WENO type. Herein, we solve this problem by using automatic differentiation. We also demonstrate that using lagged evaluation of slope limiters and WENO weights alleviates the nonlinearity of the discrete systems and improves the computational efficiency, without having an adverse effect on the stability and accuracy of the higher-resolution schemes. As an example of EOR, we consider polymer flooding, which involves complex and adverse phenomena like adsorption in the rock, degradation and in-situ chemical reactions, shear thinning/thickening, dead pore space, etc. Using a few idealized test cases, we compare and contrast explicit and fully implicit time stepping for a variety of high and low-resolution spatial discretizations.",
+    "citation_count": 44,
+    "year": "2017/12",
+    "authors": [
+        {
+            "name": "Mykkeltvedt, Trine S.",
+            "country": "Norway"
+        },
+        {
+            "name": "Raynaud, Xavier",
+            "country": "Norway"
+        },
+        {
+            "name": "Lie, Knut-Andreas",
+            "country": "Norway"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

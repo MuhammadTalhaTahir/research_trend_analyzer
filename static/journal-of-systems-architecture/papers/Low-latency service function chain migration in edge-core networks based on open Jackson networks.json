@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S138376212200008X",
+    "title": "Low-latency service function chain migration in edge-core networks based on open Jackson networks",
+    "abstract": "Multi-access Edge Computing (MEC) offers cloud computing capabilities at the edge of the network. Growing demand for low-latency services requires Service Function Chains (SFCs) to be scaled up beyond MEC network to core network. To adapt to network dynamics and provide low-latency services, being able to migrate SFCs when needed is of paramount importance. However, migration of SFCs among edge and core networks such that average latency is optimized as well as considering resource consumption is an intractable challenge because improper migration of Virtual Network Functions (VNFs) results in failure of meeting the requirements of network policies. In this paper, we investigate SFCs in edge-core networks and model the  Latency-aware Edge-Core SFCs Migration  problem based on open Jackson networks. Two SFC migration algorithms, i.e., Profit-driven Heuristic Search (PHS) and Average Utilization Based (AUB), are proposed to efficiently optimize average latency of all SFCs in edge-core networks. Extensive evaluation results show that PHS optimizes average latency by 19.5%, while AUB can further reduce average latency by up to 36.9% by allowing a marginally higher number of VNF migrations.",
+    "citation_count": "13",
+    "year": "2022/03/01",
+    "authors": [
+        {
+            "name": "Wenjie Liang",
+            "country": ""
+        },
+        {
+            "name": "Lin Cui",
+            "country": ""
+        },
+        {
+            "name": "Fung Po Tso",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885622002451",
+    "title": "An end-to-end convolutional network for estimating the essential matrix",
+    "abstract": "Essential matrix (E-matrix) estimation is a crucial aspect of pose estimation. In this study, we developed an end-to-end method (E-net) to estimate the E-matrix without correspondences. A pair of the corresponding images was placed in the twin transformer architecture to simultaneously extract the features. We developed a feature matching module for matching the extracted features based on their commonalities. To avoid excessive network parameters, matched features with their weights obtained by  multilayer perceptron  were transmitted to the flatten layer, where the Max-Pooling was used to eliminate their useless portions. We further constructed three self-defined layers to ensure that E-matrix is rank-2 with 5 degrees of freedom using reserved helpful features. Besides, we presented two self-defined loss functions (Loss 1  and Loss 2 ) to train the E-net and improve the estimated E-matrix's accuracy. E-net's performance was evaluated on the KITTI and TUM SLAM datasets using two self-defined metrics,  M 1  (mean value of matching error) and  M 2  (mean squared value of matching error). The E-net achieved  M 1  0.107 and  M 2  0.091 on the KITTI dataset and  M 1  0.253 and  M 2  0.144 on the TUM SLAM dataset. The results demonstrated that the E-net trained with self-defined loss functions outperforms other algorithms when compared to the 5-point algorithm of  M 1  10.411 and  M 2  8.332.",
+    "citation_count": "0",
+    "year": "2023/02/01",
+    "authors": [
+        {
+            "name": "Ruiqi Yang",
+            "country": ""
+        },
+        {
+            "name": "Junhua Zhang",
+            "country": ""
+        },
+        {
+            "name": "Bo Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

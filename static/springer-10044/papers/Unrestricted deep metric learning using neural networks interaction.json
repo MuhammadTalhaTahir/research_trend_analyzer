@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-021-01018-3",
+    "title": "Unrestricted deep metric learning using neural networks interaction",
+    "abstract": "In many machine learning applications and algorithms, the algorithm performance and accuracy are highly dependent on the metric used to measure the distance between different samples. Therefore, learning a distance metric specific to the data can improve these algorithms’ performance. This paper proposes an unrestricted deep metric learning framework based on neural networks’ interaction for learning metrics in latent space. The proposed method is inspired by generative neural nets (GANs), in which two neural nets are working together to learn true data distribution. In our method, one network plays the role of a supervisor for another network, a feature learning auto-encoder. Its task is to learn transformation to latent space in which data have more meaningful distance and separability. i.e., the supervisor gets the output of the auto-encoder and sends feedback to modify its weights. They interact with each other interleavingly. Several experiments were conducted on four datasets, such as MNIST, GISETTE, Winnipeg Cropland Classification (WCC), and swarm behavior, from different application domains, to evaluate the proposed method’s performance. The results show that we can force auto-encoder to learn label information to project data into a latent space with better separability by using our approach. In addition to better class discrimination, the proposed method is far faster than normal auto-encoders during feature learning and has much less training time in the classification phase.",
+    "citation_count": 46,
+    "year": "2021/11",
+    "authors": [
+        {
+            "name": "Mehralian, Soheil",
+            "country": "Iran"
+        },
+        {
+            "name": "Teshnehlab, Mohammad",
+            "country": "Iran"
+        },
+        {
+            "name": "Nasersharif, Babak",
+            "country": "Iran"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

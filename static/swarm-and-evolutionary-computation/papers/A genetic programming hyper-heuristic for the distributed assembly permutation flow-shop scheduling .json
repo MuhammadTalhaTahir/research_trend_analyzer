@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650220304600",
+    "title": "A genetic programming hyper-heuristic for the distributed assembly permutation flow-shop scheduling problem with sequence dependent setup times",
+    "abstract": "In this paper, a genetic programming hyper heuristic (GP-HH) algorithm is proposed to solve the distributed assembly permutation flow-shop scheduling problem with sequence dependent setup times (DAPFSP-SDST) and the objective of makespan minimization. The main idea is to use genetic programming (GP) as the high level strategy to generate heuristic sequences from a pre-designed low-level heuristics (LLHs) set. In each generation, the heuristic sequences are evolved by GP and then successively operated on the solution space for better solutions. Additionally, simulated annealing is embedded into each LLH to improve the local search ability. An effective encoding and decoding pair is also presented for the algorithm to obtain feasible schedules. Finally, computational simulation and comparison are both carried out on a benchmark set and the results demonstrate the effectiveness of the proposed GP-HH. The best-known solutions are updated for 333 out of the 540 benchmark instances.",
+    "citation_count": "83",
+    "year": "2021/02/01",
+    "authors": [
+        {
+            "name": "Hong-Bo Song",
+            "country": ""
+        },
+        {
+            "name": "Jian Lin",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

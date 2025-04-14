@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-021-00980-2",
+    "title": "A new method of hybrid time window embedding with transformer-based traffic data classification in IoT-networked environment",
+    "abstract": "The Internet of Things (IoT) appliances often expose sensitive data, either directly or indirectly. They may, for instance, tell whether you are at home right now or what your long or short-term habits are. Therefore, it is crucial to protect such devices against adversaries and has in place an early warning system which indicates compromised devices in a quick and efficient manner. In this paper, we propose time window embedding solutions that efficiently process a massive amount of data and have a low-memory-footprint at the same time. On top of the proposed embedding vectors, we use the core anomaly detection unit. It is a classifier that is based on the transformer’s encoder component followed by a feed-forward neural network. We have compared the proposed method with other classical machine-learning algorithms. Therefore, in the paper, we formally evaluate various machine-learning schemes and discuss their effectiveness in the IoT-related context. Our proposal is supported by detailed experiments that have been conducted on the recently published Aposemat IoT-23 dataset.",
+    "citation_count": 22,
+    "year": "2021/11",
+    "authors": [
+        {
+            "name": "Kozik, Rafał",
+            "country": "Poland"
+        },
+        {
+            "name": "Pawlicki, Marek",
+            "country": "Poland"
+        },
+        {
+            "name": "Choraś, Michał",
+            "country": "Poland"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

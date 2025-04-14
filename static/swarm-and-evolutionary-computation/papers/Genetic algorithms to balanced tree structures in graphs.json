@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650216300578",
+    "title": "Genetic algorithms to balanced tree structures in graphs",
+    "abstract": "Given an edge-weighted graph  G = ( V , E )  with vertex set  V  and edge set  E , we study in this paper the following related balanced  tree  structure problems in  G . The first problem, called  Constrained Minimum Spanning Tree Problem  (CMST), asks for a rooted tree  T  in  G  that minimizes the total weight of  T  such that the distance between the root and any vertex  v  in  T  is at most a given constant  C  times the shortest distance between the two vertices in  G . The  Constrained Shortest Path Tree Problem  (CSPT) requires a rooted tree  T  in  G  that minimizes the maximum distance between the root and all vertices in  V  such that the total weight of  T  is at most a given constant  C  times the minimum tree weight in  G . The third problem, called  Minimum Maximum Stretch Spanning Tree  (MMST), looks for a tree  T  in  G  that minimize the maximum distance between all pairs of vertices in  V . It is easy to conclude from the literatures that the above problems are NP-hard. We present efficient  genetic algorithms  that return (as shown by our experimental results) high quality solutions for these problems.",
+    "citation_count": "19",
+    "year": "2017/02/01",
+    "authors": [
+        {
+            "name": "Riham Moharam",
+            "country": ""
+        },
+        {
+            "name": "Ehab Morsy",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

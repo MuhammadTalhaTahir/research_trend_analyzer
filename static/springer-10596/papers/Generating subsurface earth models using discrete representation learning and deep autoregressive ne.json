@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-023-10243-0",
+    "title": "Generating subsurface earth models using discrete representation learning and deep autoregressive network",
+    "abstract": "Subsurface earth models (referred as geomodels) are crucial for characterizing complex subsurface systems. Multiple-point statistics is commonly used to generate geomodels. In this paper, a deep-learning-based generative method is developed as an alternative to traditional geomodel generation procedure. The generative method comprises two deep-learning models, namely hierarchical vector-quantized variational autoencoder (VQ-VAE-2) and PixelSNAIL autoregressive model. Based on the principle of neural discrete representation learning, the VQ-VAE-2 learns to massively compress the geomodels to extract the low-dimensional, discrete latent representation corresponding to each geomodel. Following that, PixelSNAIL uses deep autoregressive network to learn the prior distribution of the latent codes. For the purpose of geomodel generation, PixelSNAIL samples from the newly learnt prior distribution of latent codes, and then the decoder of the VQ-VAE-2 converts the newly sampled latent code to a newly constructed geomodel. PixelSNAIL can be used for unconditional or conditional geomodel generation. In unconditional generation, the generative workflow generates an ensemble of geomodels without any constraint. On the other hand, in the conditional geomodel generation, the generative workflow generates an ensemble of geomodels similar to a user-defined source image, which ultimately facilitates the control and manipulation of the generated geomodels. To better construct the fluvial channels in the geomodels, perceptual loss is implemented in the VQ-VAE-2 model instead of the traditional ‘mean squared error’ loss. At a specific compression ratio, the quality of multi-attribute geomodel generation is better than that of single-attribute geomodel generation.",
+    "citation_count": 39,
+    "year": "2023/12",
+    "authors": [
+        {
+            "name": "Chen, Jungang",
+            "country": "USA"
+        },
+        {
+            "name": "Huang, Chung-Kan",
+            "country": "USA"
+        },
+        {
+            "name": "Delgado, Jose F.",
+            "country": "USA"
+        },
+        {
+            "name": "Misra, Siddharth",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

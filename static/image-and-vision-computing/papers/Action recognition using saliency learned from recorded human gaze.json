@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S026288561630107X",
+    "title": "Action recognition using saliency learned from recorded human gaze",
+    "abstract": "This paper addresses the problem of recognition and localization of actions in image sequences, by utilizing, in the training phase only, gaze tracking data of people watching videos depicting the actions in question. First, we learn discriminative action features at the areas of gaze fixation and train a  Convolutional Network  that predicts areas of fixation (i.e. salient regions) from raw  image data . Second, we propose a Support Vector Machine-based recognition method for  joint  recognition and localization, in which the  bounding box  of the action in question is considered as a latent variable. In our formulation the optimization attempts to both minimize the classification cost and maximize the saliency within the bounding box. We show that the results obtained with the optimization where saliency within the bounding box is maximized outperform the results obtained when saliency within the bounding box is not maximized, i.e. when only classification cost is minimized. Furthermore, the results that we obtain outperform the state-of-the-art results on the UCF sports dataset.",
+    "citation_count": "8",
+    "year": "2016/08/01",
+    "authors": [
+        {
+            "name": "Daria Stefic",
+            "country": ""
+        },
+        {
+            "name": "Ioannis Patras",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

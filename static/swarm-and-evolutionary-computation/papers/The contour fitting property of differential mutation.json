@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218301470",
+    "title": "The contour fitting property of differential mutation",
+    "abstract": "State-of-the-art global optimization techniques adapt the search range and direction to the objective function.  Differential Evolution algorithms  perform this adaptation implicitly, leading to a contour fitting property which has been empirically observed, but lacks theoretical grounding. In this paper, we formalize the contour fitting notion and derive an analytical model that links the differential  mutation operator  with the adaptation of the range and direction of search. Our analysis uses the Differential Mutation  Evolutionary Algorithm  (DMEA), which optimizes the multidimensional  Gaussian  objective function. Through our analysis, we are able to make several observations. Firstly, a normally distributed population remains normal in consecutive iterations. Moreover, parameters of the population distribution can be updated with explicit algebraic formulas. Furthermore, for a  scaling factor  below a critical value, the population reaches a  stable state . Finally, the  covariance matrix  of a population in a stable state is proportional to the  covariance matrix  of the  Gaussian  objective function. The analytical results explaining the contour fitting property are confirmed with a simulation study. Although this work focuses on theoretical analyses, the proposed DE/prop/1 mutation and DMEA algorithm maintain population diversity and therefore, can lead to optimization by means of saddle-crossing and can become a basis for adaptive  Markov Chain Monte Carlo  sampling schemes or an element of strategy adaptive differential evolution variants. The latter approach was tested on the CEC 2017 benchmark and found to significantly improve the performance of the SaDE algorithm.",
+    "citation_count": "6",
+    "year": "2019/11/01",
+    "authors": [
+        {
+            "name": "Karol R. Opara",
+            "country": ""
+        },
+        {
+            "name": "Jarosław Arabas",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

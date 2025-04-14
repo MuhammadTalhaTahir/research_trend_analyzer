@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S138376219800068X",
+    "title": "Developing technologies for broad-network concurrent computing",
+    "abstract": "Recent developments in networking infrastructures,  computer workstation  capabilities,  software tools , and programming languages have motivated new approaches to broad-network concurrent computing. This paper describes extensions to concurrent computing which blend new and evolving technologies to extend users' access to resources beyond their  local network . The result is a  concurrent programming  environment which can dynamically extend over network and file system boundaries to envelope additional resources, to enable multiple-user collaborative programming, and to achieve a more optimal process mapping. Additional aspects of the derivative environment feature extended portability and support for the accessing of legacy codes and packages. This paper describes the advantages of such a design and how they have been implemented in the environment termed “IceT”.",
+    "citation_count": "0",
+    "year": "1999/09/01",
+    "authors": [
+        {
+            "name": "Paul A Gray",
+            "country": ""
+        },
+        {
+            "name": "Vaidy S Sunderam",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

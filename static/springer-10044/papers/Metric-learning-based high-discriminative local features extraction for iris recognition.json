@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-018-0713-4",
+    "title": "Metric-learning-based high-discriminative local features extraction for iris recognition",
+    "abstract": "Biometric-based authentication system is one of the main strategies to protect and control the access of users to important resources in any system and organization. Iris pattern is one of the best and most reliable biological features used in these systems. Extraction of high-discriminative local features can increase the recognition accuracy of iris-based biometric systems, especially when the number of users is high. Most of the existing methods utilize a combination of simple handcraft local feature models that deteriorate system performance when the number of users is increased. In this paper, after identification and segmentation of iris region, a new learning-based method is proposed to define and extract rotation- and illumination-invariant main local patterns associated with the iris texture. Afterwards, the metric-learning-based transform is employed to improve the discrimination of these patterns in recognition process. The proposed method was applied on more than 10,000 images from CASIA-V4, UBIRIS and ICE data sets. The identification accuracy of this method is 99.7, 98.13 and 99.26%, respectively, that is, higher than other methods in terms of both recognition accuracy and the number of used images.",
+    "citation_count": 60,
+    "year": "2019/11",
+    "authors": [
+        {
+            "name": "Fathi, Abdolhossein",
+            "country": "Iran"
+        },
+        {
+            "name": "Mohamadi, Mahboobeh",
+            "country": "Iran"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

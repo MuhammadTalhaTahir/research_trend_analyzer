@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650219302044",
+    "title": "A novel Error-Correcting Output Codes algorithm based on genetic programming",
+    "abstract": "Error-Correcting Output Codes (ECOC) is widely used in the field of  multiclass classification . As an optimal codematrix is key to the performance of an ECOC algorithm, this paper proposes a  genetic programming  (GP) based ECOC algorithm (GP-ECOC). In the design of individual of our GP, each  terminal node  represents a class, and  nonterminal  nodes combine the classes in their child nodes. In this way, an individual is a class combination tree, and represents an ECOC codematrix. A legality checking process is embedded in our algorithm to check each codematrix, so as to ensure each codematrix satisfying ECOC constraints. Those violating the constraints will be corrected by a proposed Guided  Mutation operator . Before fitness evaluation, a  local optimization  algorithm is proposed to append new columns for tough classes, so as to improve the  generalization ability  of each individual and accelerate the evolutionary speed. In this way, our GP can evolve optimal codematrices through the evolutionary process. Experiments show that compared with other ensemble algorithms, our algorithm can achieve stable and high performances with relatively small ensemble scales on various UCI data sets. To the best of our knowledge, it is the first time that GP has been applied to implement the ECOC  encoding algorithm . Our  Python code  is available at https://github.com/samuellees/gpecoc.",
+    "citation_count": "17",
+    "year": "2019/11/01",
+    "authors": [
+        {
+            "name": "Ke-Sen Li",
+            "country": ""
+        },
+        {
+            "name": "Han-Rui Wang",
+            "country": ""
+        },
+        {
+            "name": "Kun-Hong Liu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650221000559",
+    "title": "Efficient evolutionary neural architecture search by modular inheritable crossover",
+    "abstract": "Deep neural networks  are widely used in the domain of  image classification , and a large number of excellent deep  neural networks  have been proposed in recent years. However, hand-crafted  neural networks  often require human experts for elaborate designs, which can be time-consuming and error-prone. Hence,  neural architecture search  (NAS) methods have been proposed to design model architecture automatically. The evolutionary NAS methods have achieved encouraging results due to the global search capability of  evolutionary algorithms . Nevertheless, most existing evolutionary NAS methods use only the  mutation operator  to generate  offspring  architectures. Consequently, the generated architectures could be pretty different from their parent architectures, failing to inherit the modular information to accelerate the convergence rate. We propose an efficient evolutionary method using a tailored  crossover operator  to address this deficiency, which enables the offspring architectures to inherit from their parent architectures. Moreover, we combine it with mutation operators under the framework of the evolutionary algorithm. Experimental results on both the CIFAR-10 and CIFAR-100 tasks show that our proposed evolutionary NAS method has achieved state-of-the-art results.",
+    "citation_count": "21",
+    "year": "2021/07/01",
+    "authors": [
+        {
+            "name": "Cheng He",
+            "country": ""
+        },
+        {
+            "name": "Hao Tan",
+            "country": ""
+        },
+        {
+            "name": "Shihua Huang",
+            "country": ""
+        },
+        {
+            "name": "Ran Cheng",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

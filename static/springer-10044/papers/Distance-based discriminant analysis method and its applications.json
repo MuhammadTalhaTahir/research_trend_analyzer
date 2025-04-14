@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-007-0082-x",
+    "title": "Distance-based discriminant analysis method and its applications",
+    "abstract": "This paper proposes a method of finding a discriminative linear transformation that enhances the data’s degree of conformance to the compactness hypothesis and its inverse. The problem formulation relies on inter-observation distances only, which is shown to improve non-parametric and non-linear classifier performance on benchmark and real-world data sets. The proposed approach is suitable for both binary and multiple-category classification problems, and can be applied as a dimensionality reduction technique. In the latter case, the number of necessary discriminative dimensions can be determined exactly. Also considered is a kernel-based extension of the proposed discriminant analysis method which overcomes the linearity assumption of the sought discriminative transformation imposed by the initial formulation. This enhancement allows the proposed method to be applied to non-linear classification problems and has an additional benefit of being able to accommodate indefinite kernels.",
+    "citation_count": 63,
+    "year": "2008/09",
+    "authors": [
+        {
+            "name": "Kosinov, Serhiy",
+            "country": "Switzerland"
+        },
+        {
+            "name": "Pun, Thierry",
+            "country": "Switzerland"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

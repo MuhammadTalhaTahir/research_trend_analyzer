@@ -1,0 +1,60 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-024-10304-y",
+    "title": "Unsupervised segmentation for sandstone thin section image analysis",
+    "abstract": "The study of thin sections provides crucial information about the structure of sedimentary rocks. Different properties, such as mineral composition, texture, grain morphology, presence of clay minerals, and porosity level, can be derived from thin section analysis. These features directly determine the quality of crude reservoirs. In this context, manual grain identification from petrographic thin sections usually demands considerable time and effort, so machine learning and image processing techniques have become more frequent in the last few years. Obtaining large and reliable labeled data sets for supervised learning workflows is a complex and critical process. We devise a completely unsupervised approach for granulometric classification using thin section images. The introduced workflow first pre-processes the thin section image by denoising and dividing it into different image patches. In the second stage, the image patches are used to train an unsupervised convolutional neural network. Then, the trained network segments the grains in each patch of the pre-processed image. The training strategy uses transfer learning to guarantee the same initialization parameters of the neural network while processing the image patches. Next, a watershed transform is applied to recover the borders of the segmented grains. Finally, a granulometric calculation and classification process is performed by considering the grain contours restored through the implemented methodology. The results obtained with the proposed algorithm are concordant with those obtained from the analysis of sieved thin sections derived from controlled experiments in the laboratory.",
+    "citation_count": 29,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "Barbosa, Rayan T. C. M.",
+            "country": "Brazil"
+        },
+        {
+            "name": "Faria, E. L.",
+            "country": "Brazil"
+        },
+        {
+            "name": "Klatt, Matheus",
+            "country": "Brazil"
+        },
+        {
+            "name": "Silva, Thais C.",
+            "country": "Brazil"
+        },
+        {
+            "name": "Coelho, Juliana. M.",
+            "country": "Brazil"
+        },
+        {
+            "name": "Matos, Thais F.",
+            "country": "Brazil"
+        },
+        {
+            "name": "Santos, Bernardo C. C.",
+            "country": "Brazil"
+        },
+        {
+            "name": "Gonzalez, J. L.",
+            "country": "Brazil"
+        },
+        {
+            "name": "Bom, Clécio R.",
+            "country": "Brazil"
+        },
+        {
+            "name": "de Albuquerque, Márcio P.",
+            "country": "Brazil"
+        },
+        {
+            "name": "de Albuquerque, Marcelo P.",
+            "country": "Brazil"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

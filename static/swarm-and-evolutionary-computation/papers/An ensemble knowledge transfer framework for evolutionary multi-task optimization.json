@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223001670",
+    "title": "An ensemble knowledge transfer framework for evolutionary multi-task optimization",
+    "abstract": "The cognitive capability of learning from  past experiences  to resolve relevant tasks at hand is a hallmark of humans. The emerging evolutionary multi-task transfer optimization (EMTO) fashion pursues such intelligent behavior by exploring useful knowledge drawn from solving one task to accelerate the optimization process of other related tasks. However, in practical scenario, knowledge drawn from various task domains may not always benefit the  solving process  of one another, and source-target domain mismatch is likely to induce notorious negative transfer, which is a critical concern in EMTO. Domain adaption aims to narrow the gap between distinct domains so as to curb negative transfer. Generally, different strategies possess distinct advantages in different situations, no one can dominate others in all cases. Taking this cue, we present a novel bandit-mechanism-based  ensemble method  to determine the proper domain adaption strategy online in the context of EMTO. Besides, the intensity of cross-task knowledge transfer is adapted according to historical experiences of the population. We carry out extensive experiments to examine the performance of proposed approach, demonstrating its superiority in comparison to state-of-the-art peers in multi-task problem-solving scenario. Our work thus sheds light on a new alternative way for automatic domain adaption for knowledge transfer across problems.",
+    "citation_count": "5",
+    "year": "2023/12/01",
+    "authors": [
+        {
+            "name": "Jiajun Zhou",
+            "country": ""
+        },
+        {
+            "name": "Shijie Rao",
+            "country": ""
+        },
+        {
+            "name": "Liang Gao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

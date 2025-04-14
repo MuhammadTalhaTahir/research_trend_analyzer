@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S026288562400249X",
+    "title": "SMTCNN - A global spatio-temporal texture convolutional neural network for 3D dynamic texture recognition",
+    "abstract": "Dynamic textures (DT) are typically  3D videos  of physical processes showing  statistical regularity  but have indeterminate spatial and temporal extent. Existing DT recognition methods usually neglect the global spatio-temporal relationships of DT which reflect the statistical regularities. In this paper, a spatio-temporal texture  convolutional neural network  (SMTCNN) is proposed for global semantic DT representation. Specifically, SMTCNN describes  DT features  by learning DT’ temporal motion as well as the sources of the motions and the scenarios where the motion is happening, and accordingly, a motion net and a source net are formulated. In particular, a novel module consisting of expansion and concatenation implementations on deep features is presented, with an arbitrary 2D backbone as input, followed by a new 1D CNN including 4 convolutional, 2 pooling and 2 fully-connected layers to represent the 2D tensors in space–time, by transforming  DT descriptors  from discrete “words” to global “textures”. A number of  comparative experiments  on three DT dataset - UCLA, DynTex and DynTex   ++ are conducted to demonstrate our approach.",
+    "citation_count": "0",
+    "year": "2024/08/01",
+    "authors": [
+        {
+            "name": "Liangliang Wang",
+            "country": ""
+        },
+        {
+            "name": "Lei Zhou",
+            "country": ""
+        },
+        {
+            "name": "Peidong Liang",
+            "country": ""
+        },
+        {
+            "name": "Ke Wang",
+            "country": ""
+        },
+        {
+            "name": "Lianzheng Ge",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

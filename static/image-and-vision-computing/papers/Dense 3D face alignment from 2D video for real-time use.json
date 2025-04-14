@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885616300877",
+    "title": "Dense 3D face alignment from 2D video for real-time use",
+    "abstract": "To enable real-time, person-independent 3D registration from 2D video, we developed a 3D cascade regression approach in which facial landmarks remain invariant across pose over a range of approximately 60°. From a single 2D image of a person's face, a dense 3D shape is registered in real time for each frame. The algorithm utilizes a fast cascade regression framework trained on high-resolution 3D face-scans of posed and spontaneous emotion expression. The algorithm first estimates the location of a dense set of landmarks and their visibility, then reconstructs face shapes by fitting a part-based 3D model. Because no assumptions are required about illumination or surface properties, the method can be applied to a wide range of imaging conditions that include 2D video and uncalibrated multi-view video. The method has been validated in a  battery  of experiments that evaluate its precision of  3D reconstruction , extension to multi-view reconstruction, temporal integration for videos and 3D head-pose estimation. Experimental findings strongly support the validity of real-time, 3D registration and reconstruction from 2D video. The software is available online at  http://zface.org .",
+    "citation_count": "74",
+    "year": "2017/02/01",
+    "authors": [
+        {
+            "name": "László A. Jeni",
+            "country": ""
+        },
+        {
+            "name": "Jeffrey F. Cohn",
+            "country": ""
+        },
+        {
+            "name": "Takeo Kanade",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650216300384",
+    "title": "Genetic programming with semantic equivalence classes",
+    "abstract": "In this paper, we introduce the concept of semantics-based equivalence classes for symbolic  regression problems  in  genetic programming . The idea is implemented by means of two different genetic programming systems, in which two different definitions of equivalence are used. In both systems, whenever a solution in an equivalence class is found, it is possible to generate any other solution in that equivalence class analytically. As such, these two systems allow us to shift the objective of genetic programming: instead of finding a  globally optimal solution , the objective is now to find any solution that belongs to the same equivalence class as a  global optimum . Further, we propose improvements to these genetic programming systems in which, once a solution that belongs to a particular equivalence class is generated, no other solution in that class is accepted in the population during the evolution anymore. We call these improved versions filtered systems. Experimental results obtained via seven complex real-life test problems show that using equivalence classes is a promising idea and that filters are generally helpful for improving the systems' performance. Furthermore, the proposed methods produce individuals with a much smaller size with respect to geometric semantic genetic programming. Finally, we show that filters are also useful to improve the performance of a state-of-the-art method, not explicitly based on semantic equivalence classes, like linear scaling.",
+    "citation_count": "9",
+    "year": "2019/02/01",
+    "authors": [
+        {
+            "name": "Stefano Ruberto",
+            "country": ""
+        },
+        {
+            "name": "Leonardo Vanneschi",
+            "country": ""
+        },
+        {
+            "name": "Mauro Castelli",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

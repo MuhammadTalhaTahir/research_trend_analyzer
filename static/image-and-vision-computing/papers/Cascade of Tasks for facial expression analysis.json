@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885616300348",
+    "title": "Cascade of Tasks for facial expression analysis",
+    "abstract": "Automatic facial action unit (AU) detection from video is a long-standing problem in facial expression analysis. Existing work typically poses AU detection as a classification problem between frames or segments of positive and negative examples, and emphasizes the use of different features or classifiers. In this paper, we propose a novel AU event detection method, Cascade of Tasks (CoT), which combines the use of different tasks ( i.e. , frame-level detection, segment-level detection and transition detection). We train CoT sequentially embracing diversity to ensure robustness and generalization to unseen data. Unlike conventional frame-based metrics that evaluate frames independently, we propose a new event-based metric to evaluate detection performance at the event-level. The event-based metric measures the ratio of correctly detected AU events instead of frames. We show how the CoT method consistently outperforms state-of-the-art approaches in both frame-based and event-based metrics, across four datasets that differ in complexity: CK+, FERA, RU-FACS and GFT.",
+    "citation_count": "6",
+    "year": "2016/07/01",
+    "authors": [
+        {
+            "name": "Xiaoyu Ding",
+            "country": ""
+        },
+        {
+            "name": "Wen-Sheng Chu",
+            "country": ""
+        },
+        {
+            "name": "Fernando De la Torre",
+            "country": ""
+        },
+        {
+            "name": "Jeffery F. Cohn",
+            "country": ""
+        },
+        {
+            "name": "Qiao Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

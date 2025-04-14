@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885615000141",
+    "title": "Unrestricted pose-invariant face recognition by sparse dictionary matrix",
+    "abstract": "In this paper, a novel method is proposed for real-world pose-invariant face recognition from only a single image in a gallery. A 3D Facial Expression Generic Elastic Model (3D FE-GEM) is proposed to reconstruct a 3D model of each human face using only a single 2D frontal image. Then, for each person in the database, a Sparse  Dictionary Matrix  (SDM) is created from all face poses by rotating the 3D reconstructed models and extracting features in the rotated face. Each SDM is subsequently rendered based on triplet angles of face poses. Before matching to SDM, an  initial estimate  of triplet angles of face poses is obtained in the probe face image using an automatic  head pose estimation  approach. Then, an array of the SDM is selected based on the estimated triplet angles for each subject. Finally, the selected arrays from SDMs are compared with the probe image by  sparse representation  classification. Convincing results were acquired to handle pose changes on the FERET, CMU PIE, LFW and video face databases based on the proposed method compared to several state-of-the-art in pose-invariant face recognition.",
+    "citation_count": "29",
+    "year": "2015/04/01",
+    "authors": [
+        {
+            "name": "Ali Moeini",
+            "country": ""
+        },
+        {
+            "name": "Hossein Moeini",
+            "country": ""
+        },
+        {
+            "name": "Karim Faez",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

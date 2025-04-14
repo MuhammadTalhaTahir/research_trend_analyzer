@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124001310",
+    "title": "Lyapunov-guided deep reinforcement learning for delay-aware online task offloading in MEC systems",
+    "abstract": "With the arrival of 5G technology and the popularization of the  Internet of Things  (IoT),  mobile edge computing  (MEC) has great potential in handling delay-sensitive and compute-intensive (DSCI) applications. Meanwhile, the need for reduced latency and improved energy efficiency in terminal devices is becoming urgent increasingly. However, the users are affected by channel conditions and bursty computational demands in dynamic MEC environments, which can lead to longer task correspondence times. Therefore, finding an efficient  task offloading  method in  stochastic systems  is crucial for optimizing  system energy  consumption. Additionally, the delay due to frequent user–MEC interactions cannot be overlooked. In this article, we initially frame the task offloading issue as a  dynamic optimization  issue. The goal is to minimize the system’s long-term energy consumption while ensuring the task queue’s stability over the long term. Using the  Lyapunov optimization  technique, the  task processing  deadline problem is converted into a stability control problem for the virtual queue. Then, a novel Lyapunov-guided  deep reinforcement learning  (DRL) for delay-aware offloading algorithm (LyD2OA) is designed. LyD2OA can figure out the task offloading scheme online, and adaptively offload the task with better network quality. Meanwhile, it ensures that deadlines are not violated when offloading tasks in poor communication environments. In addition, we perform a rigorous  mathematical analysis  of the performance of Ly2DOA and prove the existence of upper bounds on the virtual queue. It is theoretically proven that LyD2OA enables the system to realize the trade-off between energy consumption and delay. Finally, extensive simulation experiments verify that LyD2OA has  good performance  in minimizing energy consumption and keeping latency low.",
+    "citation_count": "0",
+    "year": "2024/08/01",
+    "authors": [
+        {
+            "name": "Longbao Dai",
+            "country": ""
+        },
+        {
+            "name": "Jing Mei",
+            "country": ""
+        },
+        {
+            "name": "Zhibang Yang",
+            "country": ""
+        },
+        {
+            "name": "Zhao Tong",
+            "country": ""
+        },
+        {
+            "name": "Cuibin Zeng",
+            "country": ""
+        },
+        {
+            "name": "Keqin Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

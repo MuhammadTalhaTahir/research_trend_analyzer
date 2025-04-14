@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-018-0313-7",
+    "title": "New bounds for locally irregular chromatic index of bipartite and subcubic graphs",
+    "abstract": "A graph is locally irregular if the neighbors of every vertex v have degrees distinct from the degree of v. A locally irregular edge-coloring of a graph G is an (improper) edge-coloring such that the graph induced on the edges of any color class is locally irregular. It is conjectured that three colors suffice for a locally irregular edge-coloring. In the paper, we develop a method using which we prove four colors are enough for a locally irregular edge-coloring of any subcubic graph admiting such a coloring. We believe that our method can be further extended to prove the tight bound of three colors for such graphs. Furthermore, using a combination of existing results, we present an improvement of the bounds for bipartite graphs and general graphs, setting the best upper bounds to 7 and 220, respectively.",
+    "citation_count": 9,
+    "year": "2018/11",
+    "authors": [
+        {
+            "name": "Lužar, Borut",
+            "country": "Slovenia"
+        },
+        {
+            "name": "Przybyło, Jakub",
+            "country": "Slovakia"
+        },
+        {
+            "name": "Soták, Roman",
+            "country": "Poland"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

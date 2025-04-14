@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-025-10355-9",
+    "title": "Multiple data assimilation as an approximate maximum a posteriori estimator",
+    "abstract": "Data assimilation is the process of integrating observational data into a time series of state estimates. For linear-Gaussian systems, an optimal state estimate always exists. This optimal solution both minimizes mean-square error and maximizes the Bayesian posterior distribution at every time step. If the observation model is nonlinear, then the posterior distribution is no longer Gaussian; the minimum mean-square error state estimate and the maximum a posteriori (MAP) state estimate may not coincide. Still, the MAP estimate may be sought using optimization or other means. Multiple Data Assimilation (MDA) is a recursive approach that has been found empirically to produce similar state estimates to optimization-based approaches. However, convergence has been difficult to prove analytically. In this work, we shed new light on MDA by deriving it from a homotopy function. From this viewpoint, MDA is not an optimization but an approximate numerical solution to an ordinary differential equation (ODE). Given this new ODE formulation, we propose a new adaptive-step MDA algorithm inspired by the Runge Kutta integration method. The new algorithm outperforms standard approaches on a chaotic system with highly nonlinear measurements. We conclude that MDA is not an exact MAP estimator, but it can still provide a good approximation of the MAP given reasonable local linearity of the observation model.",
+    "citation_count": 35,
+    "year": "2025/04",
+    "authors": [
+        {
+            "name": "Michaelson, Kristen",
+            "country": "USA"
+        },
+        {
+            "name": "Popov, Andrey A.",
+            "country": "USA"
+        },
+        {
+            "name": "Zanetti, Renato",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

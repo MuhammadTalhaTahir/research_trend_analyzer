@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650220303904",
+    "title": "A many-objective algorithm based on staged coordination selection",
+    "abstract": "Convergence and diversity are two performance requirements that should be paid attention to in  evolutionary algorithms . Most  multiobjective evolutionary algorithms  (MOEAs) try their best to maintain a balance between the two aspects, which poses a challenge to the convergence of MOEAs in the early evolutionary process. In this paper, a many-objective  optimization algorithm  based on staged coordination selection, which consists of the convergence and diversity stages, is proposed in which the two stages are considered separately in each iteration. In the convergence exploring stage, the  decomposition method  is adopted to rapidly make the population close to the true  PF . In the diversity exploring stage, a diversity maintenance mechanism same to the archive truncation method of SPEA2 is used to push distributed individuals to the true PF. The convergence stage serves for the diversity stage, and the second stage turns into the first stage when it fails to reach the convergence requirement and so forth. Our algorithm is compared with eight state-of-the-art many-objective optimization algorithms on DTLZ, WFG and  MaOP  benchmark instances. Results show that our algorithm outperformed the comparison algorithms for most test problems.",
+    "citation_count": "10",
+    "year": "2021/02/01",
+    "authors": [
+        {
+            "name": "Juan Zou",
+            "country": ""
+        },
+        {
+            "name": "Jing Liu",
+            "country": ""
+        },
+        {
+            "name": "Jinhua Zheng",
+            "country": ""
+        },
+        {
+            "name": "Shengxiang Yang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

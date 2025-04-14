@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-007-9089-x",
+    "title": "Simplest optimal guillotine cutting patterns for strips of identical circles",
+    "abstract": "The manufacturing industry often uses the cutting and stamping process to divide stock plates into circles. A guillotine machine cuts the plate into strips for stamping at the cutting stage, and then a stamping press punches out the circles from the strips at the stamping stage. The problem discussed is to cut a plate into strips of identical circles such that the number of circles is maximized. A dynamic programming algorithm is presented for generating the simplest optimal cutting patterns of the strips. The computational results indicate that the algorithm is much efficient in simplifying the cutting process.",
+    "citation_count": 10,
+    "year": "2008/05",
+    "authors": [
+        {
+            "name": "Cui, Yaodong",
+            "country": "China"
+        },
+        {
+            "name": "Gu, Tianlong",
+            "country": "China"
+        },
+        {
+            "name": "Hu, Wei",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

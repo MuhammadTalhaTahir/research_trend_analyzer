@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-020-00535-x",
+    "title": "Co-density and fractional edge cover packing",
+    "abstract": "Given a multigraph $$G=(V,E)$$, the edge cover packing problem (ECPP) on G is to find a coloring of edges of G using the maximum number of colors such that at each vertex all colors occur. ECPP can be formulated as an integer program and is NP-hard in general. In this paper, we consider the fractional edge cover packing problem, the LP relaxation of ECPP. We focus on the more general weighted setting, the weighted fractional edge cover packing problem (WFECPP), which can be formulated as the following linear program $$\\begin{aligned} \\begin{array}{ll} \\hbox {Maximize} \\ \\ \\ &amp;{} {{\\varvec{1}}}^T {{\\varvec{x}}} \\\\ \\hbox {subject to} &amp;{} A{{\\varvec{x}}} \\le {{\\varvec{w}}} \\\\ &amp;{} \\quad {{\\varvec{x}}} \\ge {{\\varvec{0}}}, \\end{array} \\end{aligned}$$where A is the edge–edge cover incidence matrix of G, $${\\varvec{w}}=(w(e): e\\in E)$$, and w(e) is a positive rational weight on each edge e of G. The weighted co-density problem, closely related to WFECPP, is to find a subset $$S\\subseteq V$$ with $$|S|\\ge 3$$ and odd, such that $$\\frac{2w(E^{+}(S))}{|S|+1}$$ is minimized, where $$E^{+}(S)$$ is the set of all edges of G with at least one end in S and $$w(E^{+}(S))$$ is the total weight of all edges in $$E^{+}(S)$$. We present polynomial combinatorial algorithms for solving these two problems exactly.",
+    "citation_count": 19,
+    "year": "2020/05",
+    "authors": [
+        {
+            "name": "Zhao, Qiulan",
+            "country": "China"
+        },
+        {
+            "name": "Chen, Zhibin",
+            "country": "China"
+        },
+        {
+            "name": "Sang, Jiajun",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

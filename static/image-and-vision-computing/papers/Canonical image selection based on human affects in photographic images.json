@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885616301469",
+    "title": "Canonical image selection based on human affects in photographic images",
+    "abstract": "The selection of canonical images that best represent a scene type is very important for efficiently visualizing search results and re-ranking them. In this paper, we propose the selection of canonical images based on human affects that are hidden in the image. One is a probabilistic affective model (PAM) based probabilistic latent semantic analysis (PLSA) learning to annotate the image by human affects and the other is the cluster ranking algorithm to select the informative summary from vast search results. The PAM first extract the dominant  color compositions  (CCs) that constitute the image itself, through  image segmentation  and RAG analysis, then to infer numerical ratings from CCs for affective classes, a PLSA is employed that is well-known method in finding latent semantics from documents. Once converting the images to the affective space using PAM, the clustering is performed. Then to select the images that are representative among the images and are distinctive from each other, we identify three dominant properties such as coverage, affective coherence, and distinctiveness. Based on these, cluster ranking is performed. Finally, the representative images for each cluster are selected, all of which are displayed as canonical images to the user. Experiments were performed on  Photo.Net  and Google images and compared the results with other existing methods. Then our PAM showed the  F 1 -scores of 0.667 on averages, which can improve 14% of the existing method. In addition, it is proven that the proposed system is superior to the others in selecting the canonical images, when comparing its performance with two baselines in terms of representative and diverse scores.",
+    "citation_count": "1",
+    "year": "2016/10/01",
+    "authors": [
+        {
+            "name": "Eun Yi Kim",
+            "country": ""
+        },
+        {
+            "name": "Eunjeong Ko",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

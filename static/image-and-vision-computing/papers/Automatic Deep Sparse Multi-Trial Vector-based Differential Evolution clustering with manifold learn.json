@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623000860",
+    "title": "Automatic Deep Sparse Multi-Trial Vector-based Differential Evolution clustering with manifold learning and incremental technique",
+    "abstract": "Most deep clustering methods despite utilizing complex networks to learn better from data, use a shallow clustering method. These methods have difficulty in finding good clusters due to the lack of ability to handle between local search and global search to prevent premature convergence. In other words, they do not consider different aspects of the search and it causes them to get stuck in the local optimum. In addition, the majority of existing deep clustering approaches perform clustering with the knowledge of the number of clusters, which is not practical in most real scenarios where such information is not available. To address these problems, this paper presents a novel automatic deep sparse clustering approach based on an  evolutionary algorithm  called Multi-Trial Vector-based Differential Evolution (MTDE). Sparse auto-encoder is first applied to extract embedded features. Manifold learning is then adopted to obtain representation and extract the spatial structure of features. Afterward, MTDE clustering is performed without prior information on the number of clusters to find the optimal clustering solution. The proposed approach was evaluated on various datasets, including images and time-series. The results demonstrate that the proposed method improved MTDE by 18.94% on average and compared to the most recent deep clustering algorithms, is consistently among the top three in the majority of datasets.",
+    "citation_count": "3",
+    "year": "2023/08/01",
+    "authors": [
+        {
+            "name": "Parham Hadikhani",
+            "country": ""
+        },
+        {
+            "name": "Daphne Teck Ching Lai",
+            "country": ""
+        },
+        {
+            "name": "Wee-Hong Ong",
+            "country": ""
+        },
+        {
+            "name": "Mohammad H. Nadimi-Shahraki",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

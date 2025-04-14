@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Benchmark study for the simulation of Underground Hydrogen Storage operations",
+    "url": "https://link.springer.com/article/10.1007/s10596-022-10163-5"
+  },
+  {
+    "title": "Numerical simulation of crack propagation and coalescence in rock materials by the peridynamic method based on strain energy density theory",
+    "url": "https://link.springer.com/article/10.1007/s10596-022-10172-4"
+  },
+  {
+    "title": "Covariogram ranges for approximate global sensitivity analysis",
+    "url": "https://link.springer.com/article/10.1007/s10596-022-10167-1"
+  },
+  {
+    "title": "An approximate cut-cell discretization technique for flow in fractured porous media",
+    "url": "https://link.springer.com/article/10.1007/s10596-022-10173-3"
+  },
+  {
+    "title": "Rock thin sections identification under harsh conditions across regions based on online transfer method",
+    "url": "https://link.springer.com/article/10.1007/s10596-022-10174-2"
+  },
+  {
+    "title": "Coastline matching via a graph-based approach",
+    "url": "https://link.springer.com/article/10.1007/s10596-022-10175-1"
+  },
+  {
+    "title": "Well testing of radial jet drilling wells in geothermal reservoirs",
+    "url": "https://link.springer.com/article/10.1007/s10596-022-10162-6"
+  },
+  {
+    "title": "A DEIM driven reduced basis method for the diffuse Stokes/Darcy model coupled at parametric phase-field interfaces",
+    "url": "https://link.springer.com/article/10.1007/s10596-022-10164-4"
+  },
+  {
+    "title": "Design of optimal operational parameters for steam-alternating-solvent processes in heterogeneous reservoirs – A multi-objective optimization approach",
+    "url": "https://link.springer.com/article/10.1007/s10596-022-10170-6"
+  },
+  {
+    "title": "Lithology identification in carbonate thin section images of the Brazilian pre-salt reservoirs by the computational vision and deep learning",
+    "url": "https://link.springer.com/article/10.1007/s10596-022-10168-0"
+  },
+  {
+    "title": "The traveling wavefront for foam flow in two-layer porous media",
+    "url": "https://link.springer.com/article/10.1007/s10596-022-10169-z"
+  },
+  {
+    "title": "TOUGH3-FLAC3D: a modeling approach for parallel computing of fluid flow and geomechanics",
+    "url": "https://link.springer.com/article/10.1007/s10596-022-10176-0"
+  },
+  {
+    "title": "An adaptive discontinuous Galerkin method for the Darcy system in fractured porous media",
+    "url": "https://link.springer.com/article/10.1007/s10596-022-10171-5"
+  }
+]

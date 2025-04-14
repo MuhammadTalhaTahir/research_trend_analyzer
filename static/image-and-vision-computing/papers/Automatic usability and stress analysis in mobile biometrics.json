@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885614001383",
+    "title": "Automatic usability and stress analysis in mobile biometrics",
+    "abstract": "This article focuses on the  usability evaluation  of  biometric  recognition systems in mobile devices. In particular, a behavioural modality has been used: the dynamic handwritten signature. Testing usability in behavioural modalities involves a big challenge due to the number of degrees of freedom that users have in interacting with sensors, as well as the variety of capture devices to be used. In this context we propose a usability evaluation that allows users to interact freely with the system while minimizing errors at the same time. The participants signed in a smartphone with a stylus through the different phases in the use of a biometric system: training, enrolment and verification. In addition, a profound study on the automation of the evaluation processes has been done, so as to reduce the resources employed. The influence of the users' stress has also been studied, to obtain conclusions on its impact on both the  usability systems  in scenarios where the user may suffer a certain level of stress, such as in courts, banks or even shopping. In brief, the results shown in this paper prove not only that a dynamic handwritten signature is a trustable solution for a large number of applications in the real world, but also that the evaluation of the usability of biometric systems can be carried out at lower costs and shorter duration.",
+    "citation_count": "15",
+    "year": "2014/12/01",
+    "authors": [
+        {
+            "name": "Ramon Blanco-Gonzalo",
+            "country": ""
+        },
+        {
+            "name": "Raul Sanchez-Reillo",
+            "country": ""
+        },
+        {
+            "name": "Oscar Miguel-Hurtado",
+            "country": ""
+        },
+        {
+            "name": "Eric Bella-Pulgarin",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

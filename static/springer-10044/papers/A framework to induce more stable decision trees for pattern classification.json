@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-016-0542-2",
+    "title": "A framework to induce more stable decision trees for pattern classification",
+    "abstract": "Decision tree learning algorithms are known to be unstable, such that small changes in the training data can result in highly different output models. Instability is an important issue in the context of machine learning which is usually overlooked. In this paper, we illustrate and discuss the problem of instability of decision tree induction algorithms and propose a framework to induce more stable decision trees. In the proposed framework, the split test encompasses two advantageous properties: First, it is able to contribute multiple attributes. Second, it has a polylithic structure. The first property alleviates the race between the competing attributes to be installed at an internal node, which is the major cause of instability. The second property has the potential of improving the stability by providing the locality of the effect of the instances on the split test. We illustrate the effectiveness of the proposed framework by providing a complying decision tree learning algorithm and conducting several experiments. We have evaluated the structural stability of the algorithms by employing three measures. The experimental results reveal that the decision trees induced by the proposed framework exhibit great stability and competitive accuracy in comparison with several well-known decision tree learning algorithms.",
+    "citation_count": 40,
+    "year": "2017/11",
+    "authors": [
+        {
+            "name": "Mirzamomen, Zahra",
+            "country": "Iran"
+        },
+        {
+            "name": "Kangavari, Mohammad Reza",
+            "country": "Iran"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

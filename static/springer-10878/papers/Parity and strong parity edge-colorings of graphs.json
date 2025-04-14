@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-011-9398-y",
+    "title": "Parity and strong parity edge-colorings of graphs",
+    "abstract": "A parity walk in an edge-coloring of a graph is a walk along which each color is used an even number of times. A parity edge-coloring (respectively, strong parity edge-coloring) is an edge-coloring in which there is no nontrivial parity path (respectively, open parity walk). The parity edge-chromatic number p(G) (respectively, strong parity edge-chromatic number $\\widehat{p}(G)$ ) is the least number of colors in a parity edge-coloring (respectively, strong parity edge-coloring) of G. Notice that $\\widehat{p}(G) \\ge p(G) \\ge \\chi'(G) \\ge \\Delta(G)$ for any graph G. In this paper, we determine $\\widehat{p}(G)$ and p(G) for some complete bipartite graphs and some products of graphs. For instance, we determine $\\widehat{p}(K_{m,n})$ and p(K m,n ) for m≤n with n≡0,−1,−2 (mod 2⌈lg m⌉).",
+    "citation_count": 16,
+    "year": "2012/11",
+    "authors": [
+        {
+            "name": "Hsu, Hsiang-Chun",
+            "country": "Taiwan"
+        },
+        {
+            "name": "Chang, Gerard J.",
+            "country": "Taiwan"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

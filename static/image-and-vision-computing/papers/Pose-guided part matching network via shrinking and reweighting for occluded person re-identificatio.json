@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621000913",
+    "title": "Pose-guided part matching network via shrinking and reweighting for occluded person re-identification",
+    "abstract": "Occluded person re-identification (ReID) is a challenging task, which aims at retrieving an occluded person across multiple non-overlapping cameras. To address this issue, we propose a novel framework named Shrinking and Reweighting Network (SRNet) that jointly learns global features by shrinking and reweights part features for matching in an end-to-end framework. Specifically, we use a strong backbone that combines some effective designs and training tricks to learn the robust and discriminative global features. Even so, there exist noise-related features due to the occlusion, so we utilize the Deep  Residual Shrinkage  Module (DRS Module) to eliminate unimportant features by automatically determining the soft thresholds. When aligning two groups of part features from two images, we view it as a  graph matching  problem and design an effectively Reweight Module for Part Matching (RMPM) to learn self-adaptive weights for part features before the part matching stage, the proposed RMPM can alleviate the influence of meaningless part features in the part matching stage. Eventually, extensive experimental results on occluded, partial, and holistic re-id datasets clearly demonstrate that the proposed method achieves competitive performance to the state-of-the-art methods. Specifically, our framework remarkably outperforms state-of-the-art by 8.9%  mAP  scores on Occluded-Duke dataset. Code is available at https://github.com/chenxiangzZ/SRNet.",
+    "citation_count": "16",
+    "year": "2021/07/01",
+    "authors": [
+        {
+            "name": "HongXia Wang",
+            "country": ""
+        },
+        {
+            "name": "Xiang Chen",
+            "country": ""
+        },
+        {
+            "name": "Chun Liu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

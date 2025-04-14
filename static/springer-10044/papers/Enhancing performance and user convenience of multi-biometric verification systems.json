@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-021-01008-5",
+    "title": "Enhancing performance and user convenience of multi-biometric verification systems",
+    "abstract": "A multi-biometric verification system lowers the verification errors by fusing information from multiple biometric sources. Information can be fused in parallel or serial modes. While parallel fusion gives a higher accuracy, it may suffer from a serious problem of taking a longer verification time. Serial fusion can alleviate this problem by allowing the users to submit a subset of the available biometric characteristics. Unfortunately, several studies show that serial fusion may not reach the level of accuracy of parallel fusion. In this paper, we propose a fusion framework which combines the advantages of both parallel and serial fusion. The core of the framework is a new concept of “confident reject region” which incurs nearly zero verification error. We evaluate our framework by performing experiments on two multi-biometric verification systems built with NIST biometric scores set release 1. The experimental results show that our framework achieves a lower equal error rate and takes a shorter verification time than standard parallel fusion.",
+    "citation_count": 51,
+    "year": "2021/11",
+    "authors": [
+        {
+            "name": "Hossain, Md S.",
+            "country": "USA"
+        },
+        {
+            "name": "Phoha, Vir V.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

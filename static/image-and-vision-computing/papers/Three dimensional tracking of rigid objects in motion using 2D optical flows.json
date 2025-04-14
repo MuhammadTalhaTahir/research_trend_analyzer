@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624000167",
+    "title": "Three dimensional tracking of rigid objects in motion using 2D optical flows",
+    "abstract": "Detecting and tracking objects in image sequences is paramount for any video analytic. While object detectors have become increasingly robust, motion estimates based on the straightforward approach of running a detector and linking detections are prone to bounding box noise. An algorithm for the monocular estimation of the 3D motion of rigid objects is presented, combining an object detector, minimal camera calibration, and 2D optical flows observed on the image plane. The algorithm utilizes the 2D Delaunay triangulation over geometrically consistent optical flow tracks to identify regions common to the same object. The algorithm is evaluated on the special case of image sequences of vehicles on roads. Experiments on BrnoCompSpeed dataset show that speed estimates from both detector-based tracking (mean error of 1.62 km/h) and optical flow based tracking (mean error of 2.19 km/h) perform competitively on straight roads. An extensive empirical evaluation is also conducted on a new dataset containing synthetic and real world scenes that also include vehicle trajectories involving rotation. A naive baseline bounding box track based method obtained a mean error of 5.29 km/h for vehicle speed, but optical flow tracks performed significantly better with mean error of 1.65 km/h on the new dataset including rotation. With the new method, video analytics such as vehicle speed estimation and lane change detection can obtain precise information about the 3D trajectory of rigid objects in motion.",
+    "citation_count": "0",
+    "year": "2024/02/01",
+    "authors": [
+        {
+            "name": "Ramesh Marikhu",
+            "country": ""
+        },
+        {
+            "name": "Matthew N. Dailey",
+            "country": ""
+        },
+        {
+            "name": "Mongkol Ekpanyapong",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

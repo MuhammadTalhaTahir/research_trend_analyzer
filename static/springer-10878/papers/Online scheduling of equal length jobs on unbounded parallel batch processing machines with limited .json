@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-015-9844-3",
+    "title": "Online scheduling of equal length jobs on unbounded parallel batch processing machines with limited restart",
+    "abstract": "We consider the online scheduling of equal length jobs on unbounded parallel batch processing machines to minimize makespan with limited restart. In the problem $$m$$ identical unbounded parallel batch processing machines are available to process the equal length jobs arriving over time. The processing batches are allowed limited restart. Here, “restart” means that a running task may be interrupted, losing all the work done on it, and the jobs in the interrupted task are then released and become independently unscheduled jobs, called restarted jobs. “Limited restart” means that only a running batch that contains no restarted jobs can be restarted. For this problem, we present a best possible online algorithm.",
+    "citation_count": 22,
+    "year": "2016/05",
+    "authors": [
+        {
+            "name": "Liu, Hailing",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Yuan, Jinjiang",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Li, Wenjie",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-008-9100-3",
+    "title": "Controllability, observability and identifiability in single-phase porous media flow",
+    "abstract": "Over the past few years, more and more systems and control concepts have been applied in reservoir engineering, such as optimal control, Kalman filtering, and model reduction. The success of these applications is determined by the controllability, observability, and identifiability properties of the reservoir at hand. The first contribution of this paper is to analyze and interpret the controllability and observability of single-phase flow reservoir models and to investigate how these are affected by well locations, heterogeneity, and fluid properties. The second contribution of this paper is to show how to compute an upper bound on the number of identifiable parameters when history matching production data and to present a new method to regularize the history matching problem using a reservoir’s controllability and observability properties.",
+    "citation_count": 35,
+    "year": "2008/12",
+    "authors": [
+        {
+            "name": "Zandvliet, M. J.",
+            "country": "The Netherlands"
+        },
+        {
+            "name": "Van Doren, J. F. M.",
+            "country": "The Netherlands"
+        },
+        {
+            "name": "Bosgra, O. H.",
+            "country": "The Netherlands"
+        },
+        {
+            "name": "Jansen, J. D.",
+            "country": "The Netherlands"
+        },
+        {
+            "name": "Van den Hof, P. M. J.",
+            "country": "The Netherlands"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

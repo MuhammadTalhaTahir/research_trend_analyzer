@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-021-10091-w",
+    "title": "Domain decomposition and partitioning methods for mixed finite element discretizations of the Biot system of poroelasticity",
+    "abstract": "We develop non-overlapping domain decomposition methods for the Biot system of poroelasticity in a mixed form. The solid deformation is modeled with a mixed three-field formulation with weak stress symmetry. The fluid flow is modeled with a mixed Darcy formulation. We introduce displacement and pressure Lagrange multipliers on the subdomain interfaces to impose weakly continuity of normal stress and normal velocity, respectively. The global problem is reduced to an interface problem for the Lagrange multipliers, which is solved by a Krylov space iterative method. We study both monolithic and split methods. In the monolithic method, a coupled displacement-pressure interface problem is solved, with each iteration requiring the solution of local Biot problems. We show that the resulting interface operator is positive definite and analyze the convergence of the iteration. We further study drained split and fixed stress Biot splittings, in which case we solve separate interface problems requiring elasticity and Darcy solves. We analyze the stability of the split formulations. Numerical experiments are presented to illustrate the convergence of the domain decomposition methods and compare their accuracy and efficiency.",
+    "citation_count": 63,
+    "year": "2021/12",
+    "authors": [
+        {
+            "name": "Jayadharan, Manu",
+            "country": "USA"
+        },
+        {
+            "name": "Khattatov, Eldar",
+            "country": "USA"
+        },
+        {
+            "name": "Yotov, Ivan",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

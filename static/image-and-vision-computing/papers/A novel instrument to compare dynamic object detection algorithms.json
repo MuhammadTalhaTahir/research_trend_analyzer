@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885619300563",
+    "title": "A novel instrument to compare dynamic object detection algorithms",
+    "abstract": "Nowadays, the amount of dynamic object detection in video sequences algorithms has increased considerably. Notwithstanding the many efforts to provide benchmarking resource, a standard methodology to achieve this evaluation does not exist. Most of the existing benchmarking resources concentrate on the evaluation of the algorithms from a rigid perspective by using just quantitative metric values of the performance. However, these evaluations do not consider important criteria like documentation, auto-adaptability, novelty, speed, which are important factors to consider from a scientific and/or real word application. Therefore, this paper proposes a new methodology to evaluate, compare, and select dynamic object  detection algorithms  by considering the criteria previously mentioned including performance. The new methodology was developed by analyzing 119 algorithms and the databases CDnet2014, CDnet2012 and BMC. The findings indicate that the proposed methodology preserves consistence with some of the rankings in the databases, but it also provides more complete and useful information in the evaluation of the algorithm.",
+    "citation_count": "5",
+    "year": "2019/08/01",
+    "authors": [
+        {
+            "name": "Mario I. Chacon-Murguia",
+            "country": ""
+        },
+        {
+            "name": "Abimael Guzman-Pando",
+            "country": ""
+        },
+        {
+            "name": "Graciela Ramirez-Alonso",
+            "country": ""
+        },
+        {
+            "name": "Juan A. Ramirez-Quintana",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

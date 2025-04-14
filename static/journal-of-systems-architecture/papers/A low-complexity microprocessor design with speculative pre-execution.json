@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762108000878",
+    "title": "A low-complexity microprocessor design with speculative pre-execution",
+    "abstract": "Current  superscalar  architectures strongly depend on an instruction issue queue to achieve multiple instruction issue and out-of-order execution. However, the issue queue requires a centralized structure and mainly causes globally broadcasting operations to wakeup and select the instructions. Therefore, a large issue queue ultimately results in a low clock rate along with a high circuit complexity. In other words, the increasing demands for a larger issue queue correspondingly impose a significant burden on achieving a higher clock speed. This paper discusses our Speculative Pre-Execution Assisted by compileR (SPEAR), a low-complexity issue queue design. SPEAR is designed to manage the small window superscalar architecture more efficiently without increasing the window size. To this end, we have first recognized that the long  memory latency  is one of the factors that demand a large window, and we aim at achieving early execution of the miss-causing load instructions using another hierarchy of an issue queue. We pre-execute those miss-causing instructions speculatively as an additional  prefetching  thread. Simulation results show that the SPEAR design achieves performance comparable to or even better than what would be obtained in superscalar architectures with a large issue queue. However, SPEAR is designed with smaller issue queues which consequently can be implemented with low hardware complexity and high clock speed.",
+    "citation_count": "0",
+    "year": "2008/12/01",
+    "authors": [
+        {
+            "name": "Won W. Ro",
+            "country": ""
+        },
+        {
+            "name": "Jean-Luc Gaudiot",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S026288562300118X",
+    "title": "Accurate video saliency prediction via hierarchical fusion and temporal recurrence",
+    "abstract": "With the ability to extract spatiotemporal features, 3D  convolutional networks  have become the mainstream method for Video Saliency Prediction (VSP). However, these methods cannot make full use of hierarchical spatiotemporal features and also lack focus on past  salient features , which hinders further improvements in accuracy. To address these issues, we propose a 3D convolutional Network based on Hierarchical Fusion and Temporal Recurrence (HFTR-Net) for VSP. Specifically, we propose a Bi-directional Temporal–Spatial Feature Pyramid (BiTSFP), which adds the flow of shallow  location information  based on the previous flow of deep semantic information. Then, different from simple addition and concatenation, we design a Hierarchical Adaptive Fusion (HAF) mechanism that can adaptively learn the fusion weights of adjacent features to integrate them appropriately. Moreover, to utilize previous salient information, a Recall 3D convGRU (R3D GRU) module is integrated into the 3D convolution-based method for the first time. It subtly combines the  local feature  extraction of the 3D backbone with the long-term relationship modeling of the temporal recurrence mechanism. Experimental results on the three common datasets demonstrate that the HFTR-Net outperforms existing state-of-the-art methods in accuracy.",
+    "citation_count": "4",
+    "year": "2023/08/01",
+    "authors": [
+        {
+            "name": "Yunzuo Zhang",
+            "country": ""
+        },
+        {
+            "name": "Tian Zhang",
+            "country": ""
+        },
+        {
+            "name": "Cunyu Wu",
+            "country": ""
+        },
+        {
+            "name": "Yuxin Zheng",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

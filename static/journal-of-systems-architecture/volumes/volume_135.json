@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Editorial Board",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762123000061"
+    },
+    {
+        "title": "Efficient schedulability analysis of hierarchical EDF scheduling with resource sharing",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122002892"
+    },
+    {
+        "title": "Smart contract-based security architecture for collaborative services in municipal smart cities",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122002879"
+    },
+    {
+        "title": "CFIO: A conflict-free I/O mechanism to fully exploit internal parallelism for Open-Channel SSDs",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122002880"
+    },
+    {
+        "title": "Reformulating the direct convolution for high-performance deep learning inference on ARM processors",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122002910"
+    },
+    {
+        "title": "Tight necessary feasibility analysis for recurring real-time tasks on a multiprocessor",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122002934"
+    },
+    {
+        "title": "Hardware-aware neural architecture search for stochastic computing-based neural networks on tiny devices",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122002958"
+    },
+    {
+        "title": "TPPD: Targeted Pseudo Partitioning based Defence for cross-core covert channel attacks",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122002909"
+    },
+    {
+        "title": "CLARINET: A quire-enabled RISC-V-based framework for posit arithmetic empiricism",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122002867"
+    },
+    {
+        "title": "Loop interchange and tiling for multi-dimensional loops to minimize write operations on NVMs",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122002843"
+    },
+    {
+        "title": "Differentially private stochastic gradient descent via compression and memorization",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122003046"
+    },
+    {
+        "title": "Formal domain-driven system development in Event-B: Application to interactive critical systems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122002831"
+    },
+    {
+        "title": "Special issue on Reliable Software Technologies (AEiC2022)",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122002946"
+    },
+    {
+        "title": "Optimized CPU–GPU collaborative acceleration of zero-knowledge proof for confidential transactions",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122002922"
+    }
+]

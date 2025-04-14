@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650216305144",
+    "title": "Evolutionary-morphological learning machines for high-frequency financial time series prediction",
+    "abstract": "A recent study has presented a model, called the increasing-decreasing-linear (IDL) model, which is able to efficiently predict the high-frequency stock market. Nevertheless, a drawback arises from the IDL's learning process, which consists of its costly methodology to circumvent the non-differentiability problem of increasing and decreasing operators. In this sense, trying to reduce the computational cost of the IDL design, we propose evolutionary learning machines, using the genetic algorithm, the particle swarm optimizer, the backtracking search algorithm, the firefly algorithm and the cuckoo search, to design the IDL model. Five relevant high-frequency  time series  from the Brazilian stock market are used to assess performance, and the achieved results have demonstrated better prediction performance with smaller computational cost when compared to those achieved by the IDL model designed by its classical learning process, as well as to those achieved by some relevant prediction models presented in the literature.",
+    "citation_count": "6",
+    "year": "2018/10/01",
+    "authors": [
+        {
+            "name": "Ricardo de A. Araújo",
+            "country": ""
+        },
+        {
+            "name": "Nadia Nedjah",
+            "country": ""
+        },
+        {
+            "name": "José M. de Seixas",
+            "country": ""
+        },
+        {
+            "name": "Adriano L.I. Oliveira",
+            "country": ""
+        },
+        {
+            "name": "Silvio R. de L. Meira",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

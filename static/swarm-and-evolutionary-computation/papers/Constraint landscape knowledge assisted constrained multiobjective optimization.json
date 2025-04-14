@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224002232",
+    "title": "Constraint landscape knowledge assisted constrained multiobjective optimization",
+    "abstract": "When evolutionary algorithms are employed to tackle constrained multiobjective optimization problems (CMOPs), constraint handling techniques (CHTs) play a pivotal role. To date, several CHTs have been designed, but they are only effective for certain types of constraint landscapes. For CMOPs with unknown properties, their optimization performance and efficiency remain uncertain. To tackle this issue, we attempt to mine and utilize the knowledge of constraint landscape to solve CMOPs. Specifically, the evolutionary process can be divided into three stages: learning stage, classification stage, and evolving stage. During the learning stage, the two populations, namely  mainPop  and  auxPop , cooperatively evolve with and without considering constraints, respectively. The  mainPop  can locate the feasible regions, while the  auxPop  is employed to evaluate the size of the feasible regions. Subsequently, in the classification stage, based on the learned landscape knowledge, the category of problem can be determined: CMOP with small feasible regions or CMOP with large feasible regions. Then, in the evolving stage, for CMOPs with small feasible regions, CHTI, which includes a population exchange method and a feasible regions relaxation method, is proposed, while for CMOPs with large feasible regions, CHTII, which encompasses a dynamic resource allocation method and a coevolutionary method, is designed. The proposed framework is executed on extensive benchmark test suites. It has achieved superior or at least competitive performance compared with other state-of-the-art algorithms. Furthermore, the framework has been successfully implemented on the robotic manipulator path planning problem.",
+    "citation_count": "1",
+    "year": "2024/10/01",
+    "authors": [
+        {
+            "name": "Yuhang Ma",
+            "country": ""
+        },
+        {
+            "name": "Bo Shen",
+            "country": ""
+        },
+        {
+            "name": "Anqi Pan",
+            "country": ""
+        },
+        {
+            "name": "Jiankai Xue",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

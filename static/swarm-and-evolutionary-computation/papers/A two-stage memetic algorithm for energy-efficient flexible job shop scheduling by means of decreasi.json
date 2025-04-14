@@ -1,0 +1,38 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650222001018",
+    "title": "A two-stage memetic algorithm for energy-efficient flexible job shop scheduling by means of decreasing the total number of machine restarts",
+    "abstract": "Machine on/off control is an effective way to achieve energy-efficient production scheduling. Turning off machines and restarting them frequently, however, would incur a considerable amount of additional energy and may even cause damage to the machines. In this paper, we propose a  mathematical model  based on the energy-efficient flexible  job shop scheduling problem  (EEFJSP), aiming to minimize not just the makespan and  total energy consumption  but also the total number of machine restarts. Our idea here is that shifting the start time of operations on different machines appropriately can effectively decrease the number of restarts required and the total energy consumption. We present a two-stage  memetic algorithm  (TMA) to solve the EEFJSP. A  variable neighborhood search  approach is designed to improve the convergence speed and fully exploit the  solution space  of the TMA. An operation-block moving operator is developed to further reduce the total energy consumption as well as the total number of machine restarts without affecting the makespan. Extensive computational experiments carried out to compare the TMA with some well-known algorithms confirm that the proposed TMA can easily obtain better  Pareto solutions  for the EEFJSP.",
+    "citation_count": "32",
+    "year": "2022/12/01",
+    "authors": [
+        {
+            "name": "Guiliang Gong",
+            "country": ""
+        },
+        {
+            "name": "Raymond Chiong",
+            "country": ""
+        },
+        {
+            "name": "Qianwang Deng",
+            "country": ""
+        },
+        {
+            "name": "Xuran Gong",
+            "country": ""
+        },
+        {
+            "name": "Wenhui Lin",
+            "country": ""
+        },
+        {
+            "name": "Wenwu Han",
+            "country": ""
+        },
+        {
+            "name": "Like Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

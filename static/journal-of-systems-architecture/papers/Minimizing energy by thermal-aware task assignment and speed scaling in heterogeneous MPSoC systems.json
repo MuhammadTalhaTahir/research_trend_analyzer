@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762118300304",
+    "title": "Minimizing energy by thermal-aware task assignment and speed scaling in heterogeneous MPSoC systems",
+    "abstract": "The ever-increasing power density has caused severe energy and thermal issues in real-time embedded systems with limited energy capacity and cooling capability. Due to the strong inter-dependency, the temperature and energy consumption of the systems should be minimized together. However, existing work either only minimizes the  dynamic power consumption  while considering temperature as a constraint or only minimizes the temperature within the limited optimization room remained after the minimization of dynamic  power consumption , both of which fail to fully explore the  optimization space  for the two issues. To this end, this work aims at minimizing both the temperature and energy consumption of heterogeneous  MPSoC  systems at the same time. Different with the commonly used energy-aware scheduling approaches, this work proposes a thermal/energy aware two-phase  task scheduling  approach: in the first phase assigns tasks to processors by taking both the thermal and  power dissipation  factors into consideration so as to balance the thermal/energy loads of processors; in the second phase deduces the thermal/energy optimal speed assignment for tasks by considering the heterogeneity of both processors and tasks, based on which designing an approximate fluid  scheduling algorithm  that can reduce the task switching overhead while guaranteeing the tasks’ timing constraints. Extensive experiments validate the efficiency and superiority of the proposed approach.",
+    "citation_count": "17",
+    "year": "2018/09/01",
+    "authors": [
+        {
+            "name": "Tiantian Li",
+            "country": ""
+        },
+        {
+            "name": "Ge Yu",
+            "country": ""
+        },
+        {
+            "name": "Jie Song",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

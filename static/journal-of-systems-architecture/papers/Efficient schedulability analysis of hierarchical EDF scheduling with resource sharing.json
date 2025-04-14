@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122002892",
+    "title": "Efficient schedulability analysis of hierarchical EDF scheduling with resource sharing",
+    "abstract": "This paper presents an efficient, exact and sustainable  schedulability analysis  for hierarchical scheduling when a hybrid scheduling strategy is applied to a uniprocessor real-time system. We concentrate on the situation in which each application is to run on a server with an earliest deadline first (EDF) scheduler, and the tasks of each application are required to meet their given hard real-time constraints. We show how blocking can be considered in a hierarchical system to let the applications and the tasks share non-preemptable resources at global and local levels. This hierarchical system model is easy to implement, and the proposed analysis does not require making any online scheduling decisions, hence no extra scheduling overhead is required. Through extensive experiments, we show that our schedulability analysis has a very high acceptance ratio for the application tasks and that the proposed analysis is also highly efficient; in nearly all cases, less than 12 times the calculations of the  response time  on average is required to complete an analysis for a set of tasks within an application. Therefore, the proposed schedulability analysis significantly reduces the required computations and increases the acceptance ratio. Furthermore, the proposed approach is quite general and there are no restrictions on the task parameters, each task could be periodic or sporadic, and they can have arbitrary relative deadlines.",
+    "citation_count": "2",
+    "year": "2023/02/01",
+    "authors": [
+        {
+            "name": "Fengxiang Zhang",
+            "country": ""
+        },
+        {
+            "name": "Zhiming Liu",
+            "country": ""
+        },
+        {
+            "name": "Qin Wu",
+            "country": ""
+        },
+        {
+            "name": "Sumei Wang",
+            "country": ""
+        },
+        {
+            "name": "Dandi Ma",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

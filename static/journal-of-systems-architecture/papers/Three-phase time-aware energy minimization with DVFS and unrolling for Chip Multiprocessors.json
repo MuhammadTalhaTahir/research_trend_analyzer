@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762112000719",
+    "title": "Three-phase time-aware energy minimization with DVFS and unrolling for Chip Multiprocessors",
+    "abstract": "Energy consumption has been one of the most critical issues in the  Chip Multiprocessor  (CMP). Using the  Dynamic Voltage and Frequency Scaling  (DVFS), a  CMP system  can achieve a balance between the performance and the energy-efficiency. In this paper, we propose a three-phase discrete DVFS algorithm for a  CMP system  dedicated to applications where the period of the applications’ task graph is smaller than the deadline of tasks. In these applications, multiple task graphs are unrolled and then concatenated together to form a new task graph. The proposed DVFS algorithm is applied to the newly formed task graph to stretch tasks’  execution time , lower operating frequencies of processors and achieve the  system power  efficiency. Experimental results show that the proposed algorithm reduces the  energy dissipation  by 25% on average, compared to previous DVFS approaches.",
+    "citation_count": "113",
+    "year": "2012/11/01",
+    "authors": [
+        {
+            "name": "Meikang Qiu",
+            "country": ""
+        },
+        {
+            "name": "Zhong Ming",
+            "country": ""
+        },
+        {
+            "name": "Jiayin Li",
+            "country": ""
+        },
+        {
+            "name": "Shaobo Liu",
+            "country": ""
+        },
+        {
+            "name": "Bin Wang",
+            "country": ""
+        },
+        {
+            "name": "Zhonghai Lu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

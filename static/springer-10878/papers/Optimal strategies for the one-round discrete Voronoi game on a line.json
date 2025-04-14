@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-011-9447-6",
+    "title": "Optimal strategies for the one-round discrete Voronoi game on a line",
+    "abstract": "The one-round discrete Voronoi game, with respect to a n-point user set&nbsp; $\\mathcal {U}$ , consists of two players Player&nbsp;1 (P1) and Player&nbsp;2 (P2). At first, P1 chooses a set $\\mathcal{F}_{1}$ of m facilities following which P2 chooses another set $\\mathcal{F}_{2}$ of m facilities, disjoint from&nbsp; $\\mathcal{F}_{1}$ , where m(=O(1)) is a positive constant. The payoff of P2 is defined as the cardinality of the set of points in $\\mathcal{U}$ which are closer to a facility in $\\mathcal{F}_{2}$ than to every facility in $\\mathcal{F}_{1}$ , and the payoff of P1 is the difference between the number of users in $\\mathcal{U}$ and the payoff of&nbsp;P2. The objective of both the players in the game is to maximize their respective payoffs. In this paper, we address the case where the points in $\\mathcal{U}$ are located along a line. We show that if the sorted order of the points in $\\mathcal{U}$ along the line is known, then the optimal strategy of P2, given any placement of facilities by&nbsp;P1, can be computed in O(n) time. We then prove that for m≥2 the optimal strategy of P1 in the one-round discrete Voronoi game, with the users on a line, can be computed in $O(n^{m-\\lambda_{m}})$ time, where 0&lt;λ m &lt;1, is a constant depending only on&nbsp;m.",
+    "citation_count": 13,
+    "year": "2013/11",
+    "authors": [
+        {
+            "name": "Banik, Aritra",
+            "country": "India"
+        },
+        {
+            "name": "Bhattacharya, Bhaswar B.",
+            "country": "USA"
+        },
+        {
+            "name": "Das, Sandip",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

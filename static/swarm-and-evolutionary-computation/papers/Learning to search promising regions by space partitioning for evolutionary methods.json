@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224002645",
+    "title": "Learning to search promising regions by space partitioning for evolutionary methods",
+    "abstract": "To alleviate the premature, many evolutionary computation algorithms try to balance the exploitation and exploration by controlling the population diversity. However, randomly diversifying a population cannot always guarantee that an algorithm exploits or explores promising regions. To address this issue, a general framework is proposed in this paper for learning promising regions that are made up of subspaces to guide where to exploit and explore by two reinforcement learning systems. The learning mechanism is as follows: (1) To enhance the efficiency of exploitation, an exploitative reinforcement learning system is constructed to estimate the exploitative potential values of subspaces. Accordingly, basins of attraction are approximated by clustering subspaces and historical solutions are selected within the same basin of attraction to generate new solutions. (2) To efficiently explore the solution space, an explorative reinforcement learning system is established to estimate the explorative potential values of subspaces. Accordingly, algorithms are guided to explore subspaces with higher explorative potential values, promoting the discovery of unexploited promising basins of attraction. The framework is implemented into three conventional evolutionary algorithms, and the mechanism and effectiveness of the implemented algorithms are investigated by comprehensive experimental studies. The experimental results show that the proposed algorithms have competitive performances over the other twelve popular evolutionary algorithms.",
+    "citation_count": "1",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Hai Xia",
+            "country": ""
+        },
+        {
+            "name": "Changhe Li",
+            "country": ""
+        },
+        {
+            "name": "Qingshan Tan",
+            "country": ""
+        },
+        {
+            "name": "Sanyou Zeng",
+            "country": ""
+        },
+        {
+            "name": "Shengxiang Yang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

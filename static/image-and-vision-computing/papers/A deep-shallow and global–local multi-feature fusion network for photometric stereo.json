@@ -1,0 +1,38 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621002730",
+    "title": "A deep-shallow and global–local multi-feature fusion network for photometric stereo",
+    "abstract": "Recovering 3D surfaces based on the  photometric stereo  is a challenging task, due to the non-Lambertian surface of real-world objects. Although much effort has been made to address this issue, existing photometric stereo methods based on  deep learning  did not fully consider the influence of global–local features and deep-shallow features on the training process. How to combine multi-feature into a framework effectively to overcome their drawbacks has not been explored. Therefore, we propose a novel multi-feature fusion photometric stereo network (MF-PSN), focusing on both local–global and deep-shallow features fusion. Global–local  feature fusion  maintains the features under different illuminations and the most  salient features  of all illuminations, thereby effectively uses the information of each input image. Deep-shallow feature fusion keeps the features from deep and shallow layers with different receptive fields, which effectively improves the accuracy and robustness of the model. Experiments show that multi-feature fusion can make full use of the information of the input image to achieve a better reconstruction of surface normals of the object. Extensive ablation studies and experiments on the widely used DiLiGenT benchmark dataset have well verified the effectiveness of our proposed method. In addition, testing on the Gourd & Apple dataset and Light Stage Data Gallery verifies the generalization of our method.",
+    "citation_count": "27",
+    "year": "2022/02/01",
+    "authors": [
+        {
+            "name": "Yanru Liu",
+            "country": ""
+        },
+        {
+            "name": "Yakun Ju",
+            "country": ""
+        },
+        {
+            "name": "Muwei Jian",
+            "country": ""
+        },
+        {
+            "name": "Feng Gao",
+            "country": ""
+        },
+        {
+            "name": "Yuan Rao",
+            "country": ""
+        },
+        {
+            "name": "Yeqi Hu",
+            "country": ""
+        },
+        {
+            "name": "Junyu Dong",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

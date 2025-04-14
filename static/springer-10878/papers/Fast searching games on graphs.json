@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-010-9328-4",
+    "title": "Fast searching games on graphs",
+    "abstract": "Given a graph, suppose that intruders hide on vertices or along edges of the graph. The fast searching problem is to find the minimum number of searchers required to capture all the intruders satisfying the constraint that every edge is traversed exactly once and searchers are not allowed to jump. In this paper, we prove lower bounds on the fast search number. We present a linear time algorithm to compute the fast search number of Halin graphs and their extensions. We present a quadratic time algorithm to compute the fast search number of cubic graphs.",
+    "citation_count": 20,
+    "year": "2011/11",
+    "authors": [
+        {
+            "name": "Stanley, Donald",
+            "country": "Canada"
+        },
+        {
+            "name": "Yang, Boting",
+            "country": "Canada"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

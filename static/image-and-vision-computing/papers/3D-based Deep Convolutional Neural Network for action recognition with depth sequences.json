@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885616300592",
+    "title": "3D-based Deep Convolutional Neural Network for action recognition with depth sequences",
+    "abstract": "Traditional algorithms to design hand-crafted features for action recognition have been a hot research area in the last decade. Compared to RGB video, depth sequence is more insensitive to lighting changes and more discriminative due to its capability to catch  geometric information  of object. Unlike many existing methods for action recognition which depend on well-designed features, this paper studies deep learning-based action recognition using depth sequences and the corresponding skeleton  joint  information. Firstly, we construct a 3D-based Deep  Convolutional Neural Network  (3 D 2 CNN) to directly learn spatio-temporal features from raw depth sequences, then compute a joint based feature vector named JointVector for each sequence by taking into account the simple position and angle information between skeleton joints. Finally,  support vector machine  (SVM)  classification results  from 3 D 2 CNN learned features and JointVector are fused to take action recognition. Experimental results demonstrate that our method can learn feature representation which is time-invariant and viewpoint-invariant from depth sequences. The proposed method achieves comparable results to the state-of-the-art methods on the UTKinect-Action3D dataset and achieves superior performance in comparison to  baseline methods  on the MSR-Action3D dataset. We further investigate the generalization of the trained model by transferring the learned features from one dataset (MSR-Action3D) to another dataset (UTKinect-Action3D) without retraining and obtain very promising  classification accuracy .",
+    "citation_count": "133",
+    "year": "2016/11/01",
+    "authors": [
+        {
+            "name": "Zhi Liu",
+            "country": ""
+        },
+        {
+            "name": "Chenyang Zhang",
+            "country": ""
+        },
+        {
+            "name": "Yingli Tian",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

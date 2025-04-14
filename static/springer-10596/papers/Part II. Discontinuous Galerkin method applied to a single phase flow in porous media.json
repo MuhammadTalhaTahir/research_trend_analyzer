@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1011546411957",
+    "title": "Part II. Discontinuous Galerkin method applied to a single phase flow in porous media",
+    "abstract": "Discontinuous Galerkin numerical simulations of single phase flow problem are described in this paper. The simulations show the advantages of using discontinuous approximation spaces. hp convergence results are obtained for smooth solutions. Unstructured meshes and unsmooth solutions are also considered.",
+    "citation_count": 7,
+    "year": "2000/12",
+    "authors": [
+        {
+            "name": "Riviè;re, Béatrice",
+            "country": "USA"
+        },
+        {
+            "name": "Wheeler, Mary F.",
+            "country": "USA"
+        },
+        {
+            "name": "Banaś, Krzysztof",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

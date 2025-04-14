@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650220304831",
+    "title": "An efficient hybrid metaheuristics optimization technique applied to the AC electric transmission network expansion planning",
+    "abstract": "The  transmission network  expansion planning (TNEP) problem consists of determining the necessary infrastructure additions, within a planning horizon, to minimize an investment objective function while meeting some operational and physical constraints. Even using simplified models to represent the electric network, the TNEP becomes a very complex, combinatorial and non-convex optimization problem. In recent years, the full  alternating current  (AC) network model has been proposed to formulate the TNEP problem. Due to its complexity, more robust and efficient optimization techniques to solve the AC formulation are required. This paper proposes a new effcient hybrid metaheuristic technique to solve the TNEP problem. Additionally, it presents a comprehensive comparative study including different powerful conventional, emerging and hybrid  optimization metaheuristics  techniques applied to solve the static, long-term TNEP problem, using the AC model, considering both operating and reactive power compensation costs. Simulation results are shown for three test systems: Garver 6-bus system, IEEE 24-bus system and the IEEE 118-bus system.",
+    "citation_count": "20",
+    "year": "2021/03/01",
+    "authors": [
+        {
+            "name": "Edgar G. Morquecho",
+            "country": ""
+        },
+        {
+            "name": "Santiago P. Torres",
+            "country": ""
+        },
+        {
+            "name": "Carlos A. Castro",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650215000619",
+    "title": "Discrete honeybee mating optimization algorithm for the routing of battery-operated automated guidance electric vehicles in personal rapid transit systems",
+    "abstract": "Reducing the amount of energy consumed by mass transit systems can be a challenging task. The present study focuses on minimizing the energy consumed by a relatively new transportation system called a personal rapid transit (PRT) system. PRT systems provide automated direct nonstop transit services to their users. This study explores the  routing problem  associated with PRT where the aim is to minimize the energy consumption while considering the battery capacity of PRT vehicles. The honeybee mating  optimization algorithm  is adapted to this problem. A specific enhancement procedure is proposed that boosts the performance of algorithm based on a specific initialization of the population. A multiple-descendant honeybee mating optimization algorithm is also proposed. Finally, the algorithms were verified using a set of 1320  randomly generated instances  and extensive statistical analyses were performed to validate the results obtained.",
+    "citation_count": "19",
+    "year": "2016/02/01",
+    "authors": [
+        {
+            "name": "Ezzeddine Fatnassi",
+            "country": ""
+        },
+        {
+            "name": "Olfa Chebbi",
+            "country": ""
+        },
+        {
+            "name": "Jouhaina Chaouachi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

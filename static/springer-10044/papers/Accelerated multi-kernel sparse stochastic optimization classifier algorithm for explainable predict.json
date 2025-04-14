@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-024-01367-9",
+    "title": "Accelerated multi-kernel sparse stochastic optimization classifier algorithm for explainable prediction",
+    "abstract": "For classification problems, training accurate and sparse models in limited time has been a longstanding challenge. When a large number of irrelevant and redundant features are collected in datasets, this problem becomes more difficult. Feature selection is often used to solve this problem. However, feature selection suffers from high time complexity and a trade-off between the number of selected features and predictive errors. As a solution to this problem, we propose an accelerated multi-kernel sparse stochastic optimization classifier (AMSSOC) algorithm. which reconstructs $$\\ell _{1}$$ -norm support vector classifier by introducing the $$\\ell _{0}$$ -norm function. AMSSOC minimizes the number of features by using an approximate $$\\ell _{0}$$ -norm function to the support vector classifier. Meanwhile, the novel column-wise multi-kernel matrix is integrated into the classifier to select key features and obtain the explainable prediction. Moreover, the AMSSOC algorithm employs the Nesterov’s method to accelerate the training speed of the classifier. Our main purpose is to find the feature subset as small as possible for improving the prediction accuracy and explainability. As shown in experimental results, the proposed AMSSOC outperforms the existing four classification methods on thirteen real-world and two real image datasets. At the same time, critical feature subsets are discovered, which play an important role for explainable prediction in practical applications. Also, the achieved outcomes demonstrate the superiority of the proposed algorithm.",
+    "citation_count": 36,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "Chen, Zhirui",
+            "country": "China"
+        },
+        {
+            "name": "Zhang, Zhiwang",
+            "country": "China"
+        },
+        {
+            "name": "Li, Shuqing",
+            "country": "China"
+        },
+        {
+            "name": "Cao, Jie",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

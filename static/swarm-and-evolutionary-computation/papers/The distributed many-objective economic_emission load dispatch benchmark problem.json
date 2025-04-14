@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218305923",
+    "title": "The distributed many-objective economic/emission load dispatch benchmark problem",
+    "abstract": "This paper considers a new kind of economic/emission load dispatch-based problem framework. In the proposed framework, non-synchronous and distant generators are connected to different demanding areas, unlike conventional distributed dispatch problems. Only some of the generators are physically connected to the demanding areas, which are shared by some other generators. Hence, each generator affects other generators. Additionally, the proposed framework is enriched with an over-produced power that can be sold to the neighboring regions. Since many aspects, constraints and objectives are introduced in this new framework, the number of objectives is increased. To solve this experimental problem, many-objective  optimization algorithms  are applied, and the results are compared with each other. These algorithms are the multi-objective  evolutionary algorithm  based on decomposition, inverse modeling-based multi-objective  evolutionary algorithm , grid-based evolutionary algorithm for many-objective optimization, reference vector-guided evolutionary algorithm, and  strength  Pareto evolutionary algorithm with shift-based density estimator. Additionally, to evaluate the performances of many-objective optimization algorithms, the multi-objective version of the problem is solved with a constraint-based classical optimization algorithm, achievement scalarization functions, and  sequential quadratic programming . The results suggest that as the model converges to a more realistic problem, the number of objectives is increased, and more efficient algorithms are needed to solve these problems.",
+    "citation_count": "8",
+    "year": "2019/09/01",
+    "authors": [
+        {
+            "name": "O. Tolga Altinoz",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

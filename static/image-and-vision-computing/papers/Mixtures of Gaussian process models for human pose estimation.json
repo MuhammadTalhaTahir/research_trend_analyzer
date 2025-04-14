@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885613001480",
+    "title": "Mixtures of Gaussian process models for human pose estimation",
+    "abstract": "Discriminative human pose estimation is the problem of inferring the 3D articulated pose of a human directly from an  image feature . This is a challenging problem due to the highly non-linear and multi-modal mapping from the image  feature space  to the pose space. To address this problem, we propose a model employing a mixture of Gaussian processes where each  Gaussian process models  a local region of the pose space. By employing the models in this way we are able to overcome the limitations of Gaussian processes applied to human pose estimation — their  O ( N 3 ) time complexity and their uni-modal  predictive distribution . Our model is able to give a multi-modal predictive distribution where each mode is represented by a different Gaussian process prediction. A  logistic regression model  is used to give a prior over each expert prediction in a similar fashion to previous mixture of expert models. We show that this technique outperforms existing state of the art  regression techniques  on human pose estimation data sets for ballet dancing, sign language and the HumanEva data set.",
+    "citation_count": "9",
+    "year": "2013/12/01",
+    "authors": [
+        {
+            "name": "Martin Fergie",
+            "country": ""
+        },
+        {
+            "name": "Aphrodite Galata",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

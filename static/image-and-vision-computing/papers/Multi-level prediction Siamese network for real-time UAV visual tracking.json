@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885620301347",
+    "title": "Multi-level prediction Siamese network for real-time UAV visual tracking",
+    "abstract": "Existing deployed  Unmanned Aerial Vehicles  (UAVs) visual trackers are usually based on the correlation filter framework. Although these methods have certain advantages of low  computational complexity , the tracking performance of small targets and fast motion scenarios is not satisfactory. In this paper, we present a novel multi-level prediction  Siamese network  (MLPS) for object tracking in UAV videos, which consists of Siamese feature extraction module and multi-level prediction module. The multi-level prediction module can make full use of the characteristics of each layer features to achieve robust evaluation of targets with different scales. Meanwhile, for small-size  target tracking , we design a  residual  feature fusion  block , which is used to constrain the low-level feature representation by using high-level abstract semantics, and obtain the improvement of the tracker's ability to distinguish scene details. In addition, we propose a  layer attention fusion block  which is sensitive to the informative features of each layers to achieve adaptive fusion of different levels of correlation responses by dynamically balancing the multi-layer features. Sufficient experiments on several  UAV tracking  benchmarks demonstrate that MLPS achieves state-of-the-art performance and runs at a speed over 97 FPS.",
+    "citation_count": "13",
+    "year": "2020/11/01",
+    "authors": [
+        {
+            "name": "Mu Zhu",
+            "country": ""
+        },
+        {
+            "name": "Hui Zhang",
+            "country": ""
+        },
+        {
+            "name": "Jing Zhang",
+            "country": ""
+        },
+        {
+            "name": "Li Zhuo",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

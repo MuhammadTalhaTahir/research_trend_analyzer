@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885618300131",
+    "title": "A novel local wavelet energy mesh pattern (LWEMeP) for heterogeneous face recognition",
+    "abstract": "This paper proposes a novel and accurate methodology for matching of heterogeneous faces, such as sketch–photo and near infrared (NIR)-visible (VIS) images. Inspired from  mesh topology  in computer networking, a new  local binary pattern  has been developed. We call it derived local mesh pattern ( DLMeP ).  DLMeP  is computed based on the relationship among each and every pixel present in a local window. For heterogeneous face recognition, more emphasis is given to the edge and  texture features , because these features could be extracted invariant to different modalities. The  wavelet transform  is employed to capture the edge and texture features simultaneously. Then a local wavelet energy feature is calculated to enhance the local  texture information  and edges. Finally,  DLMeP  is used to measure the local variation or pattern of wavelet energy, and we call it local wavelet energy mesh pattern ( LWEMeP ). For refinement of  LWEMeP , a model based weight value learning is suggested. We have tested the proposed methodology on different sketch–photo and NIR-VIS benchmark databases. In the case of viewed sketches, the rank-1  recognition accuracy  of 99.37% is achieved on CUFSF database.  LWEMeP  gives the rank-1 accuracy of 65.31% on challenging e-PRIP composite sketch database. In the case of NIR-VIS matching, the rank-1 accuracy of 89.78% is achieved and which is superior to other state-of-the-art methods. Finally, proposed  LWEMeP  is also compared with state-of-the-art  deep learning  based methods in the case of composite sketch vs photo matching and NIR vs VIS matching. Superior results of the proposed feature after combining with  deep learning  suggest that handcrafted features combining with deep learning give excellent  classification results .",
+    "citation_count": "9",
+    "year": "2018/04/01",
+    "authors": [
+        {
+            "name": "Hiranmoy Roy",
+            "country": ""
+        },
+        {
+            "name": "Debotosh Bhattacharjee",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001579",
+    "title": "Fuzzy set-based Bernoulli Random Noise Weighted Loss for unsupervised person re-identification",
+    "abstract": "Clustering-based methods have achieved impressive performance on unsupervised person ReID task. However, most of these models suffer from noisy labels. In this paper, we propose a novel method to evaluate and suppress noisy labels. Since the feature network is barely trained and the clustering results are unreliable consequently, noisy samples can be hardly screened out with a hard threshold in the early stage of training. To address this issue, we construct a  N oisy  L abel  F uzzy  S et (NLFS) whose membership function can be used to evaluate the noise level of each sample. Furthermore, we propose a new loss function, referred to as  B ernoulli  R andom  N oise  W eighted  L oss (BRNWL), with which some samples with higher noise membership will be recognized as noisy samples in higher probability and assigned with corresponding weights to limit their contributions to the training. Through above improvements, randomness is introduced into the alternating update between the feature network and the clustering results, which can effectively prevent the model from trapping into local minima or vicious circles. Extensive experiments demonstrate that our method achieves state-of-the-art performance on popular ReID datasets.",
+    "citation_count": "2",
+    "year": "2023/10/01",
+    "authors": [
+        {
+            "name": "Chunren Tang",
+            "country": ""
+        },
+        {
+            "name": "Dingyu Xue",
+            "country": ""
+        },
+        {
+            "name": "Dongyue Chen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

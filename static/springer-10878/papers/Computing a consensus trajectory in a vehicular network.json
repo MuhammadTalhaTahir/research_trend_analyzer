@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-022-00909-3",
+    "title": "Computing a consensus trajectory in a vehicular network",
+    "abstract": "In this paper, we study the problem of computing a consensus trajectory of a vehicle given the history of Points of Interest visited by the vehicle over a certain period of time. The problem arises when a system tries to establish the social connection between two vehicles in a vehicular network, where three versions of the problem are studied. Formally, given a set of m trajectories, the first version of the problem is to compute a target (median) sequence T over $$\\varSigma $$ such that the sum of similarity measure (i.e., number of adjacencies) between T and all $$S_i$$ ’s is maximized. For this version, we show that the problem is NP-hard and we present a simple factor-2 approximation based on a greedy method. We implement the greedy algorithm and a variation of it which is based on a more natural greedy search on a new data structure called adjacency map. In the second version of the problem where the sequence T is restricted to be a permutation, we show that the problem remains NP-hard but the approximation factor can be improved to 1.5. In the third version where the sequence T has to contain all letters of $$\\varSigma $$ , we again prove that it is NP-hard. We implement a simple greedy algorithm and a variation of the 1.5-approximation algorithm for the second version, and which are used to construct solution for the third version. Our algorithms are tested on the simulation data and the empirical results are very promising.",
+    "citation_count": 23,
+    "year": "2022/12",
+    "authors": [
+        {
+            "name": "Zou, Peng",
+            "country": "USA"
+        },
+        {
+            "name": "Qingge, Letu",
+            "country": "USA"
+        },
+        {
+            "name": "Yang, Qing",
+            "country": "USA"
+        },
+        {
+            "name": "Zhu, Binhai",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

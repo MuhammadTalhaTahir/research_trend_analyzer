@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762123000395",
+    "title": "Lightweight certificateless privacy-preserving integrity verification with conditional anonymity for cloud-assisted medical cyber–physical systems",
+    "abstract": "Cloud-assisted medical cyber–physical systems (MCPSs) leverage the power of  cloud computing  for scalable storage and management of outsourced medical data. Based on the crucial outsourced medical data, guardians could know patient’s health condition timely, doctors can make accurate diagnoses of patients, and medical research centers could also conduct medical  big data  analysis. However, medical data is highly sensitive and demands strong protection. Meanwhile, the integrity of outsourced medical data is vulnerable to hardware failures, software bugs or human errors. To date, a large number of data privacy-preserving integrity auditing schemes have been presented, but most of them suffer from the burden of complex  public key  certificate management or the key escrow problem of identity-based cryptography. In this paper, we propose a lightweight certificateless privacy-preserving  integrity verification  scheme (LCPPIV) with conditional  anonymity  for cloud-assisted MCPSs by developing an elliptic-curve  digital signature  and a key exchange mechanism, which can achieve the functionalities of medical data privacy protection, integrity verification of outsourced medical data, conditional anonymity, batch auditing, and secure compensation mechanism, simultaneously. Theoretical security analysis demonstrates that our scheme is  provably secure  in the  random oracle model , with resistance to the public key replacement attack, malicious-but-passive-KGC attack, and response auditing proofs forgery. The performance evaluations indicate that LCPPIV is much more practical for cloud-assisted MCPSs compared with state-of-art data auditing schemes.",
+    "citation_count": "13",
+    "year": "2023/05/01",
+    "authors": [
+        {
+            "name": "Jie Zhao",
+            "country": ""
+        },
+        {
+            "name": "Yifeng Zheng",
+            "country": ""
+        },
+        {
+            "name": "Hejiao Huang",
+            "country": ""
+        },
+        {
+            "name": "Jing Wang",
+            "country": ""
+        },
+        {
+            "name": "Xiaojun Zhang",
+            "country": ""
+        },
+        {
+            "name": "Daojing He",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

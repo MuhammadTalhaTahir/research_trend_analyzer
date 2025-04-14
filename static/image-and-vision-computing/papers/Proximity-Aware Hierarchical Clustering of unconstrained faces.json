@@ -1,0 +1,38 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885618301033",
+    "title": "Proximity-Aware Hierarchical Clustering of unconstrained faces",
+    "abstract": "In this paper, we propose an unsupervised face  clustering algorithm  called “Proximity-Aware Hierarchical Clustering” (PAHC) that exploits the local structure of deep representations. In the proposed method, a similarity measure between deep features is computed by evaluating linear SVM margins, which are learned using nearest neighbors of sample data. Clusters are then formed by applying agglomerative hierarchical clustering (AHC). We evaluate the clustering performance using four unconstrained face datasets, including Celebrity in Frontal-Profile (CFP), Labeled Faces in the Wild (LFW), IARPA JANUS Benchmark A (IJB-A), and IARPA JANUS Benchmark B (IJB-B) datasets. Experimental results demonstrate that the proposed approach can achieve improved performance over state-of-the-art methods. Moreover, we show the proposed  clustering algorithm  has the potential to be applied to actively learn robust deep face representations by first harvesting  sufficient number  of unseen face images through curation of large-scale dataset, e.g. the MS-Celeb-1 M dataset. By training DCNNs on the curated MS-Celeb-1 M dataset which contains over three million face images, improved representation for face images are learned.",
+    "citation_count": "6",
+    "year": "2018/09/01",
+    "authors": [
+        {
+            "name": "Wei-An Lin",
+            "country": ""
+        },
+        {
+            "name": "Jun-Cheng Chen",
+            "country": ""
+        },
+        {
+            "name": "Rajeev Ranjan",
+            "country": ""
+        },
+        {
+            "name": "Ankan Bansal",
+            "country": ""
+        },
+        {
+            "name": "Swami Sankaranarayanan",
+            "country": ""
+        },
+        {
+            "name": "Carlos D. Castillo",
+            "country": ""
+        },
+        {
+            "name": "Rama Chellappa",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

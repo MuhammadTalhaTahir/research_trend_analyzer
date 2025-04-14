@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650220303722",
+    "title": "A survey on meta-heuristics for solving disassembly line balancing, planning and scheduling problems in remanufacturing",
+    "abstract": "Recently, meta-heuristics have been employed and improved for solving various scheduling and combinational  optimization problems . Disassembly line balancing, planning and scheduling problems (DLBPSP) are typical examples since the high complexity (NP-Hard). Since 2000s, numerous articles have represented the applications of meta-heuristics for solving DLBPSP. This paper aims to review the state-of-the-art of this topic. It can help researchers, especially for new researchers, to identify the current status of meta-heuristics for solving DLBPSP, to obtain the technologies used in various algorithms, and to follow the research trends of this topic. First, the related research articles are summarized, classified, and analyzed. Second, the special meta-heuristics for solving DLBPSP are reviewed. The encoding/decoding rules and  improvement strategies  are analyzed and discussed. Finally, the current research trends are summarized, and some future research directions are given.",
+    "citation_count": "103",
+    "year": "2020/09/01",
+    "authors": [
+        {
+            "name": "K.Z. Gao",
+            "country": ""
+        },
+        {
+            "name": "Z.M. He",
+            "country": ""
+        },
+        {
+            "name": "Y. Huang",
+            "country": ""
+        },
+        {
+            "name": "P.Y. Duan",
+            "country": ""
+        },
+        {
+            "name": "P.N. Suganthan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959519303625",
+    "title": "Deep transductive transfer learning framework for zero-day attack detection",
+    "abstract": "Zero-day attack detection in  Intrusion Detection Systems  is challenging due to the lack of labeled instances. This paper applies manifold alignment approach  of TL  that transforms the source and target domains into a common latent space to evade the problem of different  feature spaces  and different marginal probability distributions among the domains. On the transformed space, a method is proposed for generating target soft labels to compensate for the lack of labeled target instances by applying the cluster correspondence procedures. On top of this,  DNN  is applied to build a framework for the detection of zero-day attacks. Authors have conducted several experiments using NSL-KDD and CIDD datasets to evaluate the performance of the proposed framework. From the experimental results it is evident that the proposed framework could successfully detect zero-day attacks on unseen data.",
+    "citation_count": "42",
+    "year": "2020/12/01",
+    "authors": [
+        {
+            "name": "Nerella Sameera",
+            "country": ""
+        },
+        {
+            "name": "M. Shashi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

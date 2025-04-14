@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002208",
+    "title": "Bidirectional scale-aware upsampling network for arbitrary-scale video super-resolution",
+    "abstract": "The performance of video super-resolution (VSR) has significantly improved. However, the current methods only focus on a single scale factor, treating the VSR of different scale factors independently and disregarding video super-resolution of arbitrary-scale factors. To address this issue, we propose a model, the Bidirectional Scale-Aware Upsampling Network for Arbitrary-Scale Video Super-Resolution, which eliminates the need for multiple models for various scale factors. We design a Bidirectional Scale-Aware Upsampling module in the proposed model, consisting of a Bidirectional Scale-Aware Module (BSAM) and a Spatial Pyramid Upsampling section. The BSAM extracts feature for various scale factors and allows feature information of different scales to interact bidirectionally. Additionally, we propose a Spatial Pyramid Loss that optimizes the network based on upsampling and maps the results of different scales to a unified spatial set to find the arbitrary-scale factor's loss. Along with this, we introduce an Explicit Feature Pyramid module, which uses Spatial Pyramid Upsampling to learn arbitrary-scale factor details explicitly. Finally, we demonstrate the extensibility of the model through a  VSR algorithm  integration with the Bidirectional Scale-Aware Upsampling, ensuring high-resolution results of arbitrary-scale factors without affecting the performance. Our comprehensive experiments on public benchmarks show promising results for video super-resolution of arbitrary-scale factors.",
+    "citation_count": "1",
+    "year": "2024/08/01",
+    "authors": [
+        {
+            "name": "Laigan Luo",
+            "country": ""
+        },
+        {
+            "name": "Benshun Yi",
+            "country": ""
+        },
+        {
+            "name": "Zhongyuan Wang",
+            "country": ""
+        },
+        {
+            "name": "Zheng He",
+            "country": ""
+        },
+        {
+            "name": "Chao Zhu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

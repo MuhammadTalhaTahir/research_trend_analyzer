@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885603001872",
+    "title": "Learning pixel-wise signal energy for understanding semantics",
+    "abstract": "Visual interpretation of events requires both an appropriate representation of change occurring in the scene and the application of semantics for differentiating between different types of change. Conventional approaches for tracking objects and modelling object dynamics make use of either temporal region-correlation or pre-learnt shape or appearance models. We propose a new pixel-level approach for learning the temporal characteristics of change at  individual pixels .  Gaussian mixture models  are used to model slow long-term changes in pixel distributions while pixel energy histories are used to extract fast-change signatures from short-term events and modelled by CONDENSATION matching.",
+    "citation_count": "9",
+    "year": "2003/12/01",
+    "authors": [
+        {
+            "name": "Jeffrey Ng",
+            "country": ""
+        },
+        {
+            "name": "Shaogang Gong",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

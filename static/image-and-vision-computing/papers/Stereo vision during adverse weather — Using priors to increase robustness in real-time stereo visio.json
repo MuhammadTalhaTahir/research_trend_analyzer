@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885617301166",
+    "title": "Stereo vision during adverse weather — Using priors to increase robustness in real-time stereo vision",
+    "abstract": "Stereo vision  can deliver a dense  3D reconstruction  of the environment in real-time for driver assistance as well as  autonomous driving . Semi-Global Matching (SGM) is a popular method of choice for solving this task which is already in use for production vehicles. Despite the enormous progress in the field and the high level of performance of modern stereo methods, one key challenge remains:  robust  stereo vision in automotive scenarios during rain, snow and darkness. Under these circumstances, current methods generate strong temporal noise, many disparity outliers and  false positives  on object level. These problems are addressed in this work by regularizing stereo vision via prior information. We formulate a temporal prior and a scene prior, which we apply to SGM in order to overcome the deficiencies. The temporal prior integrates knowledge from the previous  disparity map  to exploit the high temporal correlation, the scene prior exploits knowledge of a representative traffic scene. Using these priors, the object detection rate improves significantly on a driver assistance dataset of 3000 frames including bad weather while reducing the rate of erroneous object detections. We also outperform the ECCV Robust Vision Challenge 2012 winner, iSGM, on this dataset. In addition, results are presented for the KITTI dataset, even showing improvements under good weather conditions when exploiting the temporal prior. We also show that the temporal and scene priors are easy and efficient to implement on a hybrid CPU/reconfigurable hardware platform. The use of these priors can be extended to other  application areas  such as mobile robotics.",
+    "citation_count": "13",
+    "year": "2017/12/01",
+    "authors": [
+        {
+            "name": "Stefan Gehrig",
+            "country": ""
+        },
+        {
+            "name": "Nicolai Schneider",
+            "country": ""
+        },
+        {
+            "name": "Reto Stalder",
+            "country": ""
+        },
+        {
+            "name": "Uwe Franke",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

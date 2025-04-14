@@ -1,0 +1,42 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S138376210800091X",
+    "title": "Design space exploration of an open-source, IP-reusable, scalable floating-point engine for embedded applications",
+    "abstract": "This paper describes an open-source and highly scalable floating-point unit (FPU) for embedded systems. Our FPU is fast and efficient, due to the high  parallelism  of its architecture: the functional units inside the  datapath  can operate in parallel and independently from each other. A comparison between different versions of the FPU has been made to highlight how performance scales accordingly.  Logic synthesis  results show that our FPU requires 105 Kgates and runs at 400   MHz on a low-power 90   nm std-cells low-power technology, and requires 20   K Logic Elements running at 67   MHz of an Altera Stratix  FPGA . The proposed FPU is supported by a  software tool  suite which compiles programs written using the C/C++ language. A set of DSP and  3D graphics  algorithms have been benchmarked, showing that using our FPU the amount of clock cycles required to perform each algorithm is one order of magnitude smaller than what is required by its corresponding software implementation.",
+    "citation_count": "5",
+    "year": "2008/12/01",
+    "authors": [
+        {
+            "name": "Claudio Brunelli",
+            "country": ""
+        },
+        {
+            "name": "Fabio Campi",
+            "country": ""
+        },
+        {
+            "name": "Claudio Mucci",
+            "country": ""
+        },
+        {
+            "name": "Davide Rossi",
+            "country": ""
+        },
+        {
+            "name": "Tapani Ahonen",
+            "country": ""
+        },
+        {
+            "name": "Juha Kylliäinen",
+            "country": ""
+        },
+        {
+            "name": "Fabio Garzia",
+            "country": ""
+        },
+        {
+            "name": "Jari Nurmi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

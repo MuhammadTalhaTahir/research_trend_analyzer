@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217306764",
+    "title": "A new learning-based adaptive multi-objective evolutionary algorithm",
+    "abstract": "In this paper, we propose an adaptive multi-objective evolutionary algorithm for multi-objective optimization problems (MOPs). In the algorithm, a clustering approach is employed to learn the  Pareto optimal set's  manifold structure adaptively, in accordance with the regularity property of MOPs, along the evolution. An advanced sampling strategy is developed for the generation of promising  offspring  from the learned structure. To generate trial solution, each non-dominated solution at present generation is Gaussian-perturbed using the variance-covariance matrix within its cluster. The other new features include 1) an adaptive hybridization of the developed sampling strategy with a differential evolution (DE) operator which aims to combine local and global information; 2) a reusing scheme which is to reduce the computational cost on modeling (clustering); and 3) an adaptive strength Pareto based approach which is to adaptively determine the contribution of the developed sampling strategy and the DE operator for balancing exploration and exploitation. The developed algorithm was empirically compared with four well-known MOEAs on a number of test instances with complex Pareto optimal set structure and complicated  Pareto fronts . Experimental results suggest that it outperforms the compared algorithms on these test instances in terms of two commonly-used measure metrics. The effectiveness of the developed sampling strategy, the reusing scheme, the  hybrid strategy , and the adaptive strategy was also empirically validated.",
+    "citation_count": "44",
+    "year": "2019/02/01",
+    "authors": [
+        {
+            "name": "Jianyong Sun",
+            "country": ""
+        },
+        {
+            "name": "Hu Zhang",
+            "country": ""
+        },
+        {
+            "name": "Aimin Zhou",
+            "country": ""
+        },
+        {
+            "name": "Qingfu Zhang",
+            "country": ""
+        },
+        {
+            "name": "Ke Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

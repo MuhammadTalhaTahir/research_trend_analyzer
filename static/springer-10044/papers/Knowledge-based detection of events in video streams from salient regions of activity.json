@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-004-0235-0",
+    "title": "Knowledge-based detection of events in video streams from salient regions of activity",
+    "abstract": "Visual events occurring in video streams (such as human postures or more complex activities) are detected from a robust and generic region-based representation of the visual content and inferred using a spatio-temporal language that integrates domain-specific knowledge. More specifically, salient regions of activity are first extracted from the dynamic of the salient points along the scene. They are mapped to a vocabulary of the domain, using a state-of-the-art classifier, to describe the visual content in terms of semantic facts. Occurrences of events, modelled as assertions of a language representing spatio-temporal relationships between facts, are inferred from the description of videos by applying a forward-reasoning engine. An application to visual events retrieval in videos of meetings is presented as a test case.",
+    "citation_count": 22,
+    "year": "2004/12",
+    "authors": [
+        {
+            "name": "Moënne-Loccoz, Nicolas",
+            "country": "Switzerland"
+        },
+        {
+            "name": "Bruno, Eric",
+            "country": "Switzerland"
+        },
+        {
+            "name": "Marchand-Maillet, Stéphane",
+            "country": "Switzerland"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

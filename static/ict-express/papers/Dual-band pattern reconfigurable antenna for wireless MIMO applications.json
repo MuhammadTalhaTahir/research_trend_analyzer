@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959516300765",
+    "title": "Dual-band pattern reconfigurable antenna for wireless MIMO applications",
+    "abstract": "In this study, a dual-band pattern reconfigurable antenna is proposed for 2.4 and 5.8 GHz wireless multiple-input multiple-output (MIMO) applications. The proposed antenna comprises four pairs of active elements and parasitic elements loaded on PIN diodes. By switching PIN diodes, the parasitic element acts as a director or reflector, and the radiation patterns of the antenna are optimized. The antenna offers three modes with nine radiation beam patterns in a 5.8 GHz band. The measured peak gain of all the beam patterns ranges from 5.6 to 10.4 dBi. At a 2.4 GHz band, omnidirectional beam patterns with a measured peak gain of approximately 4.5 dBi are generated.",
+    "citation_count": "0",
+    "year": "2016/12/01",
+    "authors": [
+        {
+            "name": "Jeong Keun Ji",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122002685",
+    "title": "Reducing tail latency with coding-based packet spraying in edge datacenters",
+    "abstract": "Modern cloud computing applications have stringent low-latency and high-throughput requirements to meet the increasingly diverse demands from customers. In edge datacenters, the popular load balancing scheme based on packet spraying, i.e., random packet spraying (RPS), makes good use of multiple equal-cost paths to ensure high link utilization and efficient transmission. However, RPS performs poorly under the bursty traffic scenario due to packet loss or even timeout. Therefore, to reduce the tail latency caused by retransmission, we design a coding-based random packet spraying named CRPS. Specifically, the source host transmits forward error correction (FEC) encoded packets and dynamically adjusts the data redundancy based on the packet loss rate. Then the switch randomly sprays the encoded packets across all equal-cost multiple paths to implement parallel transmission. In this way, once enough encoded packets from any parallel paths arrive at the destination host, the original packets can be decoded immediately to address the adverse impact of packet loss. The NS-2 simulation results show that CRPS effectively reduces the probability of timeout and significantly improves the tail flow completion time (FCT) by up to 72% compared with the state-of-the-art multipath transmission schemes.",
+    "citation_count": "0",
+    "year": "2023/01/01",
+    "authors": [
+        {
+            "name": "Jing Wang",
+            "country": ""
+        },
+        {
+            "name": "Wei Ding",
+            "country": ""
+        },
+        {
+            "name": "Man He",
+            "country": ""
+        },
+        {
+            "name": "Jinbin Hu",
+            "country": ""
+        },
+        {
+            "name": "Neal Xiong",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

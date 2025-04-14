@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762115001198",
+    "title": "3D sparse signal recovery via 3D orthogonal matching pursuit",
+    "abstract": "Though many three-dimensional (3D) compressive sensing schemes have been proposed, recovery algorithms in most of these schemes are designed for 1D or 2D signals, which cause some serious drawbacks, e.g., huge memory usage, and high decoder complexity. This paper proposes a 3D separable operator (3DSO) which is able to completely exploit the spatial and  spectral correlation  to sparsify and samples the 3D signal in three dimensions. A 3D orthogonal matching pursuit (3D-OMP) algorithm is then employed to recover the 3D sparse signal, which is able to reduce the computational complexity of the decoder significantly with guaranteed accuracy. In the proposed algorithm, we represent each 3D signal as a weighted sum of 3D atoms, which allow us to sample the 3D signal with 3D separable sensing operator. Then the best matched atoms are selected to construct the 3D support set, and the 3D signal is optimally recovered from the 3D support set in the sense of the least squares. Experimental results show that the 3D-OMP approach achieves higher recovery quality but requires less computational time than the Kronecker Compressive Sensing (KCS) scheme.",
+    "citation_count": "2",
+    "year": "2016/03/01",
+    "authors": [
+        {
+            "name": "Yingqiu Huo",
+            "country": ""
+        },
+        {
+            "name": "Yong Fang",
+            "country": ""
+        },
+        {
+            "name": "Lei Huang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

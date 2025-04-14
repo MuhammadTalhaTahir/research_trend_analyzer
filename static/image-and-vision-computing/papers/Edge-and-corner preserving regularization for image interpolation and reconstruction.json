@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885608000607",
+    "title": "Edge-and-corner preserving regularization for image interpolation and reconstruction",
+    "abstract": "The edge and corner structures are two categories of perceptually important image characteristics, and hence, edge-and-corner preserving  regularization  is required for many problems in  image processing . In this paper, the first novelty is to propose a new edge-and-corner preserving approach for  image interpolation , based on the coupling of robust orientation diffusion, edge shock filtering, and a type of newly designed corner shock filtering. The proposed  interpolation scheme  is not only able to remove the staircase artifacts along the edge structures, but also able to restrain the rounding artifacts around the corner structures. The second novelty in this paper is to analyze the filtering behavior of two standard structure tensor based variational PDE (partial differential equation) approaches, following which an edge-and-corner preserving common PDE framework is proposed for different applications in image processing. Numerous experimental results confirm the effectiveness of the proposed interpolation approach, and demonstrate its superiority to other interpolation algorithms. The common PDE framework is applied to several other image processing problems, including image denoising, deringing, deblocking, inpainting, and super-resolution reconstruction.",
+    "citation_count": "31",
+    "year": "2008/12/01",
+    "authors": [
+        {
+            "name": "Wen-Ze Shao",
+            "country": ""
+        },
+        {
+            "name": "Zhi-Hui Wei",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

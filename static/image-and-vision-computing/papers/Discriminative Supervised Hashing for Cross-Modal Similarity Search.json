@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885619300873",
+    "title": "Discriminative Supervised Hashing for Cross-Modal Similarity Search",
+    "abstract": "With the advantages of low  storage cost  and high retrieval efficiency, hashing techniques have recently been an emerging topic in cross-modal similarity search. As multiple modal data reflect similar semantic content, many works aim at learning unified  binary codes . However, discriminative hashing features learned by these methods are not adequate. This results in lower accuracy and robustness. We propose a novel hashing learning framework which jointly performs classifier learning, subspace learning, and  matrix factorization  to preserve class-specific semantic content, termed Discriminative Supervised Hashing (DSH), to learn the discriminative unified  binary codes  for multi-modal data. Besides, reducing the loss of information and preserving the non-linear structure of data, DSH non-linearly projects different modalities into the common space in which the similarity among  heterogeneous data  points can be measured. Extensive experiments conducted on the three publicly available datasets demonstrate that the framework proposed in this paper outperforms several state-of-the-art methods.",
+    "citation_count": "10",
+    "year": "2019/09/01",
+    "authors": [
+        {
+            "name": "Jun Yu",
+            "country": ""
+        },
+        {
+            "name": "Xiao-Jun Wu",
+            "country": ""
+        },
+        {
+            "name": "Josef Kittler",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

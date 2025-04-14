@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-006-8460-7",
+    "title": "Partitioning 2-edge-colored complete multipartite graphs into monochromatic cycles, paths and trees",
+    "abstract": "In this paper we consider the problem of partitioning complete multipartite graphs with edges colored by 2 colors into the minimum number of vertex disjoint monochromatic cycles, paths and trees, respectively. For general graphs we simply address the decision version of these three problems the 2-PGMC, 2-PGMP and 2-PGMT problems, respectively. We show that both 2-PGMC and 2-PGMP problems are NP-complete for complete multipartite graphs and the 2-PGMT problem is NP-complete for bipartite graphs. This also implies that all these three problems are NP-complete for general graphs, which solves a question proposed by the authors in a previous paper. Nevertheless, we show that the 2-PGMT problem can be solved in polynomial time for complete multipartite graphs.",
+    "citation_count": 15,
+    "year": "2006/06",
+    "authors": [
+        {
+            "name": "Jin, Zemin",
+            "country": "China"
+        },
+        {
+            "name": "Kano, Mikio",
+            "country": "China"
+        },
+        {
+            "name": "Li, Xueliang",
+            "country": "Japan"
+        },
+        {
+            "name": "Wei, Bing",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

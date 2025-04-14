@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224002736",
+    "title": "Constrained large-scale multiobjective optimization based on a competitive and cooperative swarm optimizer",
+    "abstract": "Many engineering application problems can be modeled as constrained multiobjective optimization problems (CMOPs), which have attracted much attention. In solving CMOPs, existing algorithms encounter difficulties in balancing conflicting objectives and constraints. Worse still, the performance of the algorithms deteriorates drastically when the size of the decision variables scales up. To address these issues, this study proposes a competitive and cooperative swarm optimizer for large-scale CMOPs. To balance conflict objectives and constraints, a bidirectional search mechanism based on competitive and cooperative swarms is designed. It involves two swarms, approximating the true Pareto front from two directions. To enhance the search efficiency in large-scale space, we propose a fast-converging competitive swarm optimizer. Unlike existing competitive swarm optimizers, the proposed optimizer updates the velocity and position of all particles at each iteration. Additionally, to reduce the search range of the decision space, a fuzzy decision variables operator is used. Comparison experiments have been performed on test instances with 100–1000 decision variables. Experiments demonstrate the superior performance of the proposed algorithm over five peer algorithms.",
+    "citation_count": "2",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Jinlong Zhou",
+            "country": ""
+        },
+        {
+            "name": "Yinggui Zhang",
+            "country": ""
+        },
+        {
+            "name": "Ponnuthurai Nagaratnam Suganthan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

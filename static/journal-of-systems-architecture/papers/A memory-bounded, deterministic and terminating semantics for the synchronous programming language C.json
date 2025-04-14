@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762118305745",
+    "title": "A memory-bounded, deterministic and terminating semantics for the synchronous programming language Céu",
+    "abstract": "Céu  is a synchronous programming language for embedded soft real-time systems. It focuses on control-flow safety features in the presence of shared-memory concurrency and abortion of lines of execution, while enforcing memory-bounded, deterministic, and terminating reactions to the environment. In this work, we present a small-step structural  operational semantics  for  Céu  and prove that reactions have the properties enumerated above: that for a given arbitrary timeline of input events, multiple executions of the same program always react in bounded time and arrive at the same final finite memory state.",
+    "citation_count": "2",
+    "year": "2019/08/01",
+    "authors": [
+        {
+            "name": "Guilherme F. Lima",
+            "country": ""
+        },
+        {
+            "name": "Rodrigo C.M. Santos",
+            "country": ""
+        },
+        {
+            "name": "Roberto Ierusalimschy",
+            "country": ""
+        },
+        {
+            "name": "Edward H. Haeusler",
+            "country": ""
+        },
+        {
+            "name": "Francisco Sant’Anna",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

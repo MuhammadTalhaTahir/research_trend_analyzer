@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885620302006",
+    "title": "Video-based person re-identification by intra-frame and inter-frame graph neural network",
+    "abstract": "In the past few years, video-based person re-identification (Re-ID) have attracted growing research attention. The crucial problem for this task is how to learn robust video feature representation, which can weaken the influence of factors such as occlusion, illumination, and background etc. A great deal of previous works utilize spatio-temporal information to represent pedestrian video, but the correlations between parts of human body are ignored. In order to take advantage of the relationship among different parts, we propose a novel Intra-frame and Inter-frame  Graph Neural Network  (I2GNN) to solve the video-based person Re-ID task. Specifically, (1) the features from each part are treated as  graph nodes  from each frame; (2) the intra-frame edges are established by the correlation between different parts; (3) the inter-frame edges are constructed between the same parts across adjacent frames. I2GNN learns video representations by employing the adjacent matrix of the graph and input features to conduct  graph convolution , and then adopts projection metric learning on Grassman manifold to measure the similarities between learned pedestrian features. Moreover, this paper proposes a novel occlusion-invariant term to make the part features close to their center, which can relive several uncontrolled complicated factors, such as occlusion and pose invariance. Besides, we have carried out extensive experiments on four widely used datasets: MARS, DukeMTMC-VideoReID, PRID2011, and iLIDS-VID. The experimental results demonstrate that our proposed I2GNN model is more competitive than other state-of-the-art methods.",
+    "citation_count": "11",
+    "year": "2021/02/01",
+    "authors": [
+        {
+            "name": "Guiqing Liu",
+            "country": ""
+        },
+        {
+            "name": "Jinzhao Wu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

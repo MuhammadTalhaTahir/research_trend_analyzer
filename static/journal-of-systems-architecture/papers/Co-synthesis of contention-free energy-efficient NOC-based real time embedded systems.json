@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762119300475",
+    "title": "Co-synthesis of contention-free energy-efficient NOC-based real time embedded systems",
+    "abstract": "Network-on-Chip (NoC) architectures, due to their excellent communication capabilities for multiprocessor system-on-chip, increasingly gain attention of the academia and the industry. Regular or custom NoC topologies may be applied. Since custom architecture enables better optimization of performance, cost and energy consumption of the target system, it is more suitable for real-time embedded systems. This work presents a novel approach to the synthesis of application-specific custom NOC-based architectures of multicore real-time embedded systems. The method integrates the hardware/software co-synthesis with the custom topology generation for contention-free and energy-efficient NoC. The system is specified as a task graph, then the co-synthesis tries to find the optimal distributed architecture, consisting of software and hardware processing elements, which satisfies all time requirements. For implementation of real-time transmissions the contention-less NoC topology is generated. We take advantage of a priori known communication pattern to schedule computations and transmissions as well as perform routing, taking into account time constraints of the system. The experiments confirmed the superiority of our method over commonly used application-to-NoC mapping methodologies as well as over existing co-synthesis methods for real time embedded systems. For the most of random and real-life systems we obtained better or comparable results in terms of the performance, power consumption and cost of the target architecture.",
+    "citation_count": "6",
+    "year": "2019/09/01",
+    "authors": [
+        {
+            "name": "Stanisław Deniziak",
+            "country": ""
+        },
+        {
+            "name": "Robert Tomaszewski",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-018-9772-2",
+    "title": "Computing derivative information of sequentially coupled subsurface models",
+    "abstract": "A generic framework for the computation of derivative information required for gradient-based optimization using sequentially coupled subsurface simulation models is presented. The proposed approach allows for the computation of any derivative information with no modification of the mathematical framework. It only requires the forward model Jacobians and the objective function to be appropriately defined. The flexibility of the framework is demonstrated by its application in different reservoir management studies. The performance of the gradient computation strategy is demonstrated in a synthetic water-flooding model, where the forward model is constructed based on a sequentially coupled flow-transport system. The methodology is illustrated for a synthetic model, with different types of applications of data assimilation and life-cycle optimization. Results are compared with the classical fully coupled (FIM) forward simulation. Based on the presented numerical examples, it is demonstrated how, without any modifications of the basic framework, the solution of gradient-based optimization models can be obtained for any given set of coupled equations. The sequential derivative computation methods deliver similar results compared to FIM methods, while being computationally more efficient.",
+    "citation_count": 35,
+    "year": "2018/12",
+    "authors": [
+        {
+            "name": "de Moraes, Rafael J.",
+            "country": "The Netherlands"
+        },
+        {
+            "name": "Rodrigues, José R. P.",
+            "country": "Brazil"
+        },
+        {
+            "name": "Hajibeygi, Hadi",
+            "country": "Brazil"
+        },
+        {
+            "name": "Jansen, Jan Dirk",
+            "country": "The Netherlands"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S138376211730019X",
+    "title": "Energy-efficient scheduling for moldable real-time tasks on heterogeneous computing platforms",
+    "abstract": "In this paper, we address the problem of executing (soft) real-time  data processing applications  on  heterogeneous computing  platforms with the goal of reducing the energy consumption. The typical application domain is  edge computing  (or  fog computing ), where a certain amount of data, collected from the environment, needs to be pre-processed in real-time before being sent to the central server for storage and final processing. The kind of applications we address here can be easily parallelized, and we also need to reduce as much as possible the necessary energy to perform such tasks. Heterogeneous Multi-core Processors (HMP) such as ARM big.LITTLE are designed to combine both performances and energy efficiency, so they are one of the preferred choices for this kind of applications. Here we focus on  Dynamic Voltage and Frequency Scaling  (DVFS),  parallelization , real-time scheduling and  resource allocation  techniques. In the first part of the paper, we present a model of the performance and energy consumption of a parallel real-time task executed on an ARM bigLITTLE architecture. We use this model in the second part of the paper where we first define the  optimization problem  as an Integer Non-linear Programming (INLP) problem, and then propose heuristics for efficiently solving it. Finally, we present a wide range of synthetic experiments that demonstrate the performance of our approach.",
+    "citation_count": "64",
+    "year": "2017/03/01",
+    "authors": [
+        {
+            "name": "Houssam-Eddine Zahaf",
+            "country": ""
+        },
+        {
+            "name": "Abou El Hassen Benyamina",
+            "country": ""
+        },
+        {
+            "name": "Richard Olejnik",
+            "country": ""
+        },
+        {
+            "name": "Giuseppe Lipari",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959522001035",
+    "title": "Temperature monitoring techniques of power cable joints in underground utility tunnels using a fiber Bragg grating",
+    "abstract": "Underground utility tunnels (UUTs), facilities where utilities such as electricity, gas, and telecommunication are concentrated, constitute important infrastructures that help humans with their daily lives. Therefore, it is of utmost importance to protect UUTs from disasters. Power cable accidents in UUT internal facilities mostly occur at the joints of power cables. This paper proposes a temperature sensor module for detecting fires (a disaster that can occur in UUTs) that may occur at the “cable joints” of cables used in a power distribution grid. Long-distance transmission is possible without interference from electromagnetic waves as the proposed temperature sensor module is based on a fiber optic sensor. Therefore, it is suitable for application in narrow and long UUTs. When light from a broadband light source is sent to the fiber Bragg grating (FBG), signals with different wavelengths according to the temperature are reflected. The optical filter module divides the reflected signal into four wavelengths and demodulates it simultaneously. The signal demodulated through self-referencing had an almost linear characteristic. The adjusted R-squared value, indicating the degree of linearity, was  ≥ 0.99744, and the temperature resolution of the analysis module was 1 °C. We placed the proposed FBG on an energized cable joint of the power distribution grid and measured the temperature. Herein, we present the configuration of the sensor module and the measured results.",
+    "citation_count": "0",
+    "year": "2022/12/01",
+    "authors": [
+        {
+            "name": "Hyunjin Kim",
+            "country": ""
+        },
+        {
+            "name": "Misuk Lee",
+            "country": ""
+        },
+        {
+            "name": "Woo-Sug Jung",
+            "country": ""
+        },
+        {
+            "name": "Seung-Hee Oh",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

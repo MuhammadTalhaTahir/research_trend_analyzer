@@ -1,0 +1,26 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1008965304567",
+    "title": "Synthesis of Hard Real-Time Application Specific Systems",
+    "abstract": "This paper presents a system level approach for the synthesis of hard real-time multitask application specific systems. The algorithm takes into account task precedence constraints among multiple hard real-time tasks and targets a multiprocessor system consisting of a set of heterogeneous off-the-shelf processors. The optimization goal is to select a minimal cost multi-subset of processors while satisfying all the required timing and precedence constraints. There are three design phases: resource allocation, assignment, and scheduling. Since the resource allocation is a search for a minimal cost multi-subset of processors, we adopted an A* search based technique for the first synthesis phase. A variation of the force-directed optimization technique is used to assign a task to an allocated processor. The final scheduling of a hard-real time task is done by the task level scheduler which is based on Earliest Deadline First (EDF) scheduling policy. Our task level scheduler incorporates force-directed scheduling methodology to address the situations where EDF is not optimal. The experimental results on a variety of examples show that the approach is highly effective and efficient.",
+    "citation_count": 52,
+    "year": "1999/10",
+    "authors": [
+        {
+            "name": "Lee, Chunho",
+            "country": "Los Angeles"
+        },
+        {
+            "name": "Potkonjak, Miodrag",
+            "country": "Los Angeles"
+        },
+        {
+            "name": "Wolf, Wayne",
+            "country": "Princeton"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

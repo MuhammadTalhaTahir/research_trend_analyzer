@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Welcome Prof. Al Reynolds and Prof. Mojdeh Delshad",
+    "url": "https://link.springer.com/article/10.1007/s10596-013-9386-7"
+  },
+  {
+    "title": "A pseudospectral approach to the McWhorter and Sunada equation for two-phase flow in porous media with capillary pressure",
+    "url": "https://link.springer.com/article/10.1007/s10596-013-9360-4"
+  },
+  {
+    "title": "A priori testing of sparse adaptive polynomial chaos expansions using an ocean general circulation model database",
+    "url": "https://link.springer.com/article/10.1007/s10596-013-9361-3"
+  },
+  {
+    "title": "Large-scale stochastic linear inversion using hierarchical matrices",
+    "url": "https://link.springer.com/article/10.1007/s10596-013-9364-0"
+  },
+  {
+    "title": "Non-parametric Bayesian networks for parameter estimation in reservoir simulation: a graphical take on the ensemble Kalman filter (part I)",
+    "url": "https://link.springer.com/article/10.1007/s10596-013-9365-z"
+  },
+  {
+    "title": "Gaussian beam imaging of walkaway VSP data based on finite differences in time domain",
+    "url": "https://link.springer.com/article/10.1007/s10596-013-9367-x"
+  },
+  {
+    "title": "Theoretical connections between optimization algorithms based on an approximate gradient",
+    "url": "https://link.springer.com/article/10.1007/s10596-013-9368-9"
+  },
+  {
+    "title": "Efficient methods for computing observation impact in 4D-Var data assimilation",
+    "url": "https://link.springer.com/article/10.1007/s10596-013-9370-2"
+  },
+  {
+    "title": "Waterflooding optimization in uncertain geological scenarios",
+    "url": "https://link.springer.com/article/10.1007/s10596-013-9371-1"
+  },
+  {
+    "title": "Training image-based scenario modeling of fractured reservoirs for flow uncertainty quantification",
+    "url": "https://link.springer.com/article/10.1007/s10596-013-9372-0"
+  },
+  {
+    "title": "The regularizing Levenberg–Marquardt scheme for history matching of petroleum reservoirs",
+    "url": "https://link.springer.com/article/10.1007/s10596-013-9373-z"
+  },
+  {
+    "title": "A discontinuous Galerkin method for two-phase flow in a porous medium enforcing",
+    "url": "https://link.springer.com/article/10.1007/s10596-013-9374-y"
+  },
+  {
+    "title": "Analysis of the pressure projection stabilization method for the Darcy and coupled Darcy–Stokes flows",
+    "url": "https://link.springer.com/article/10.1007/s10596-013-9376-9"
+  }
+]

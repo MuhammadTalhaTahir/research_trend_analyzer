@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762120301168",
+    "title": "Latency upper bound for data chains of real-time periodic tasks",
+    "abstract": "The inter-task communication in embedded real-time systems can be achieved using various patterns and be subject to different timing constraints. One of the most basic communication patterns encountered in today’s automotive and aerospace software is the data chain. Each task of the chain reads data from the previous task and delivers the results of its computation to the next task. The data passing does not affect the execution of the tasks that are activated periodically at their own rates. As there is no task  synchronization , a task does not wait for its predecessor data; it may execute with old data and get new data at its later release. From the design stage of embedded real-time systems, evaluating if data chains meet their timing requirements, such as the latency constraint, is of the highest importance. The trade-off between accuracy and complexity of the timing analysis is a  critical element  in the optimization process. In this paper, we consider data chains of real-time periodic tasks executed by a fixed-priority preemptive scheduler upon a single processor. We present a method for the worst-case latency calculation of periodic tasks’ data chains. As the method has an exponential time complexity, we derive a polynomial-time upper bound. Evaluations carried out on an automotive benchmark demonstrate that the average bound  overestimation  is less than 10 percent of the actual value.",
+    "citation_count": "12",
+    "year": "2020/10/01",
+    "authors": [
+        {
+            "name": "Tomasz Kloda",
+            "country": ""
+        },
+        {
+            "name": "Antoine Bertout",
+            "country": ""
+        },
+        {
+            "name": "Yves Sorel",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

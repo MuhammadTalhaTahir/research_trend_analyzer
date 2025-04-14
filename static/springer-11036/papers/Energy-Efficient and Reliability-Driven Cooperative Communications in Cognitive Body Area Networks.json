@@ -1,0 +1,35 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-010-0273-3",
+    "title": "Energy-Efficient and Reliability-Driven Cooperative Communications in Cognitive Body Area Networks",
+    "abstract": "We study the potential of cognition and cooperation in Body Area Networks (BANs). On one hand, most BAN-based applications involve end-to-end transmission across heterogenous networks. Cognitive communication has been known to be an effective technology for addressing network heterogeneity. On the other hand, a BAN is normally required to provide reliable communications and operate in a very low power level to conserve energy and reduce the electromagnetic radiation impact on human body. Cooperative communication has been known to enhance the transmission reliability and maintain low transmission power. However, the joint cognitive and cooperative mechanism has not been investigated yet in the literature. In this paper, we propose a network architecture for cognitive and cooperative communications in BANs. An intelligent mobile device is introduced as either a cognitive gateway to interconnect heterogenous networks; or a cooperative relay node to achieve transmission diversity. Two cooperative transmission schemes, Energy-conserved Cooperative Transmission and Reliability-driven Cooperative Transmission, are presented for different applications that have distinct energy consumption or reliability requirement. Optimization problems are formulated to optimally allocate power in the cooperative transmission. Results indicate that cooperative transmission schemes can significantly decrease Bit Error Rate (BER) and reduce energy consumption, compared to the non-cooperative schemes. The BER gain is over one order in the high SNR region, while the energy consumption can save up to 50% in the low BER region.",
+    "citation_count": 23,
+    "year": "2011/12",
+    "authors": [
+        {
+            "name": "Yu, Rong",
+            "country": "China"
+        },
+        {
+            "name": "Zhang, Yan",
+            "country": "China"
+        },
+        {
+            "name": "Gao, Chen",
+            "country": "Norway"
+        },
+        {
+            "name": "Huang, Chujia",
+            "country": "Norway"
+        },
+        {
+            "name": "Gao, Ruchao",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

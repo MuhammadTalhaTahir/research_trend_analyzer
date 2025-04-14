@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621000494",
+    "title": "Boundary graph convolutional network for temporal action detection",
+    "abstract": "Temporal action proposal generation is a fundamental yet challenging to locate the temporal action in untrimmed videos. Although current proposal generation methods can generate the precise boundary of actions, few focus on considering the relation of proposals. In this paper, we propose a unified framework to generate the temporal boundary proposals with a  graph convolution network  based on the boundary proposals' feature named Boundary Graph Convolutional Network (BGCN). BGCN draws inspiration from boundary methods and uses edge  graph convolution  relay on the boundary proposals' feature. First, we use a base layer to fusion the two-stream video features to get two-branches of base features. Then the two-branches of base features enter into the same structure of Proposal Features Graph Convolutional Network (PFGCN): Action PFGCN to extract the  action classification  score and Boundary PFGCN to extract the ending score and staring score. In proposal features graph convolutional network, we first densely sampled the proposals' feature from the video features. We construct a proposal feature graph, where each proposal feature as a node and their relations between proposals' features as an edge with edge convolution for graph convolution. After that, map the relations into a 2D map score. Experiments on popular benchmarks THUMOS14 demonstrate the superiority of BGCN over (44.8% versus 42.8% at tIoU 0.5) the state-of-the-art proposal generator (e.g., G-TAD, TAL-Net, and BMN) at any of tIoU thresholds from 0.3 to 0.7. On ActivityNet1.3, BGCN also got better results. Moreover, BGCN has high efficiency for action detection with less than 2 MB model size and fast inference time. GCN based on boundary generation for densely produce the action proposals Efficient and novel BGCN model has a great capability to learn the proposal features Has a lower model size for temporal action proposals generation Has fast inference time for temporal action proposals generation.",
+    "citation_count": "13",
+    "year": "2021/05/01",
+    "authors": [
+        {
+            "name": "Yaosen Chen",
+            "country": ""
+        },
+        {
+            "name": "Bing Guo",
+            "country": ""
+        },
+        {
+            "name": "Yan Shen",
+            "country": ""
+        },
+        {
+            "name": "Wei Wang",
+            "country": ""
+        },
+        {
+            "name": "Weichen Lu",
+            "country": ""
+        },
+        {
+            "name": "Xinhua Suo",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

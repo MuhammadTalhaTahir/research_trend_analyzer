@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650221000912",
+    "title": "Performance analysis of dynamic optimization algorithms using relative error distance",
+    "abstract": "Quantification of the performance of algorithms that solve dynamic  optimization problems  (DOPs) is challenging, since the fitness landscape changes over time. Popular  performance measures  for DOPs do not adequately account for ongoing fitness landscape scale changes, and often yield a confounded view of performance. Similarly, most popular measures do not allow for fair performance comparisons across multiple instances of the same problem type nor across different types of problems, since performance values are not normalized. Many measures also assume normally distributed input data values, while in reality the necessary conditions for data normality are often not satisfied. The majority of measures also fail to capture the notion of performance variance over time. This paper proposes a new performance measure for DOPs, namely the  relative error  distance. The measure shows how close to optimal an algorithm performs by considering the multi-dimensional distance between the vector comprising the normalized performance scores for specific  algorithm iterations  of interest, and the theoretical point of best possible performance. The new measure does not assume normally distributed  performance data  across fitness landscape changes, is resilient against fitness landscape scale changes, better incorporates performance variance across fitness landscape changes into a single scalar value, and allows easier algorithm comparisons using established nonparametric  statistical methods .",
+    "citation_count": "6",
+    "year": "2021/10/01",
+    "authors": [
+        {
+            "name": "Stéfan A.G. van der Stockt",
+            "country": ""
+        },
+        {
+            "name": "Gary Pamparà",
+            "country": ""
+        },
+        {
+            "name": "Andries P. Engelbrecht",
+            "country": ""
+        },
+        {
+            "name": "Christopher W. Cleghorn",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

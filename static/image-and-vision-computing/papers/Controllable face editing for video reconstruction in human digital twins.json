@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885622001469",
+    "title": "Controllable face editing for video reconstruction in human digital twins",
+    "abstract": "High fidelity and controllable manipulation are critical to facial video reconstruction in human digital twins. Current  generative adversarial networks  (GANs) have achieved impressive performance in realistic face generation with high resolution, motivating several recent works to perform face editing via pretrained GANs. However, existing works suffer identity loss and semantic  entanglement  while editing real faces. To tackle these limitations, we propose a framework to perform controllable facial editing in video reconstruction. First, we propose to train a semantic inversion network to embed the target attribute change into the latent space of GANs. Disentangled semantic manipulation is performed during the semantic inversion by changing only the target attribute with the other unrelated attributes kept. Furthermore, we propose a novel personalized GAN inversion for the real face cropped from videos via retraining the generator of GANs, which can embed the real face into the latent space of GANs and preserve identity details for the real face. Finally, the realistic edited face is fused back into the original video. We use the identity preservation rate and disentanglement rate to evaluate the performance of our controllable face editing. Both qualitative and  quantitative evaluations  show that our method achieves prominent identity preservation and semantic disentanglement in controllable face editing, outperforming recent state-of-the-art methods.",
+    "citation_count": "9",
+    "year": "2022/09/01",
+    "authors": [
+        {
+            "name": "Chengde Lin",
+            "country": ""
+        },
+        {
+            "name": "Shengwu Xiong",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

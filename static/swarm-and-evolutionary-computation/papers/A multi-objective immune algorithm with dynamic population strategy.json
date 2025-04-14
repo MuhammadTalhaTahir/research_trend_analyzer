@@ -1,0 +1,38 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218302165",
+    "title": "A multi-objective immune algorithm with dynamic population strategy",
+    "abstract": "In this paper, we propose a multi-objective  immune algorithm  with dynamic population strategy, named MOIA-DPS, which introduces a  control strategy  of dynamic  population size  into multi-objective immune algorithm (MOIA). This scheme helps to compensate the lack of diversity due to the clonal principle in MOIA and adequately exploits the  computational resource  during the evolutionary progress. In MOIA-DPS, the status of  external archive  (full or not full) is used to decide the enlargement or the reduction of  population size , so as to adaptively adjust the computational resource. Moreover, in order to further enhance the robustness of MOIA-DPS, we present an effective DE operator with two search models, called TDE, in which two search models such as rand/2/bin and rand/1/bin are alternatively exchanged according to a  probability . When compared to four state-of-the-art  heuristic algorithms , i.e., I SDE +, MOEA/D-GRA, AbYSS, CMPSO, and four MOIAs, i.e., IMADE, DMMO, HEIA, and AIMA, MOIA-DPS was shown to present several advantages in solving different sets of benchmark problems.",
+    "citation_count": "24",
+    "year": "2019/11/01",
+    "authors": [
+        {
+            "name": "Qiuzhen Lin",
+            "country": ""
+        },
+        {
+            "name": "Qingling Zhu",
+            "country": ""
+        },
+        {
+            "name": "Na Wang",
+            "country": ""
+        },
+        {
+            "name": "Peizhi Huang",
+            "country": ""
+        },
+        {
+            "name": "Wenjun Wang",
+            "country": ""
+        },
+        {
+            "name": "Jianyong Chen",
+            "country": ""
+        },
+        {
+            "name": "Zhong Ming",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

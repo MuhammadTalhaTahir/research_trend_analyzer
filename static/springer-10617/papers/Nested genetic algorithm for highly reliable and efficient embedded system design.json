@@ -1,0 +1,34 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10617-020-09234-6",
+    "title": "Nested genetic algorithm for highly reliable and efficient embedded system design",
+    "abstract": "Modern embedded systems must have high reliability and performance. They should be able to tolerate both hard as well as soft errors occurring in the resources constituting the system. Reliability must be part of the system design and the system must consist of non expensive off-the-shelf resources. A system-level design process of reliable system demands efficient reliability evaluation of the explored design alternatives (DA). This work presents a new approach to accelerate the calculation of reliability and execution time of the system and thereby suggests the design space exploration for a reliable system. A new data structure denoted as system error decision diagram (SEDD) is proposed, which is based on both binary decision diagrams to model hard errors and zero-suppressed decision diagrams to model soft errors. The construction of the SEDD diagram and the calculation of reliability and execution time are explained in an algorithmic way. SEDD is found to be better in terms of memory requirements and construction time compared to other models available in the literature. Using SEDD and the corresponding algorithms, a nested genetic algorithm is constructed that designs system for lifetime reliability and execution time. The result of the design space exploration algorithm is a set of Pareto DAs. A so-called ‘human designer’ is thus able to select one of the best alternative that represents the given system requirements. The nested genetic algorithm and its benefits are illustrated using a real-life embedded application from automotive domain.",
+    "citation_count": 49,
+    "year": "2020/12",
+    "authors": [
+        {
+            "name": "Israr, Adeel",
+            "country": "Pakistan"
+        },
+        {
+            "name": "Kaleem, Mohammad",
+            "country": "Pakistan"
+        },
+        {
+            "name": "Nazir, Sajid",
+            "country": "UK"
+        },
+        {
+            "name": "Mirza, Hamid Turab",
+            "country": "Pakistan"
+        },
+        {
+            "name": "Huss, Sorin Alexander",
+            "country": "Germany"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-013-9681-1",
+    "title": "How much the grid network and rescuers’ communication can improve the rescue efficiency in worst-case analysis",
+    "abstract": "Disasters often bring great uncertainty to the urban traffic network. Considering a special urban network and the rescuers’ communication, this paper focuses on the real-time rescue routing problem from a source node to an emergency spot. There are some uncertain edge blockages, which cannot be observed in advance. Our goal is to make all the rescuers arrive at the emergency spot as quickly as possible. We study the problem in two scenarios: (1) without communication $$(S_1)$$ , the rescuers can not communicate with the others; (2) with complete communication $$(S_2)$$ , the rescuers can share their information about the tracks and the detected edge blockages instantaneously. These two scenarios are both analyzed on the grid network and the general network, respectively. The results of worst case analysis indicate that the consideration of both the grid network and the rescuers’ communication can significantly improve the rescue efficiency.",
+    "citation_count": 17,
+    "year": "2015/11",
+    "authors": [
+        {
+            "name": "Xu, Yinfeng",
+            "country": "China"
+        },
+        {
+            "name": "Zhang, Huili",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

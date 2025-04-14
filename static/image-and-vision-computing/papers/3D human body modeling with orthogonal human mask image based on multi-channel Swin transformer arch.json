@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001695",
+    "title": "3D human body modeling with orthogonal human mask image based on multi-channel Swin transformer architecture",
+    "abstract": "The reconstruction based on  RGB images  of dressed human body lacks the shape information of the human body under clothing, while the naked 3D human body scanning will violate the user's privacy. To overcome these limitations, a new method, based on Swin transformer (Swin-T), for reconstructing 3D human  body shape  from human orthogonal mask image is proposed. Its core is to express the reconstruction problem as solving regression mapping function. A fast body shape type classification method based on the human front mask is proposed. The  regression function  is innovatively represented as a piecewise function, with the body shape of the human body as the segmentation criterion. A multi-channel Swin-T architecture is designed, which can not only extract features from front and side mask images, but also their mixed features to construct the regression mapping function. Different body types for different genders are predicted with separate regression function to help estimate an accurate human model. Extensive experimental results show that the proposed method effectively achieves visually realistic and accurate body reconstruction, and significantly outperforms the current state-of-the-art methods. In addition, the classification of body types can compensate for the errors caused by partial clothing laxity in practical applications, which is beneficial for users to obtain a more accurate 3D human model.",
+    "citation_count": "1",
+    "year": "2023/09/01",
+    "authors": [
+        {
+            "name": "Xihang Li",
+            "country": ""
+        },
+        {
+            "name": "Guiqin Li",
+            "country": ""
+        },
+        {
+            "name": "Ming Li",
+            "country": ""
+        },
+        {
+            "name": "Kuiliang Liu",
+            "country": ""
+        },
+        {
+            "name": "Peter Mitrouchev",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

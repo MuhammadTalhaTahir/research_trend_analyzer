@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000217",
+    "title": "A secure index resisting keyword privacy leakage from access and search patterns in searchable encryption",
+    "abstract": "The keyword-based searchable encryption is a very promising technology in the cloud storage, which can supply data users with accurate search services over  encrypted data  based on queried keywords. An important security objective of this kind of schemes is to resist keyword  privacy leakage  because it may cause content leakage of to data itself and search preferences of data users. To protect keyword privacy, the existing methods mainly are implemented by keyword  ciphertext  indistinguishability and trapdoor indistinguishability. And there is few works to resist keyword privacy leakage from access pattern and search pattern simultaneously, which will inevitably affects the further application of this promising technology. In order to avoid keyword privacy leakage from above two patterns, we first construct a novel secure keyword index called the global index pair which is used to construct a k-nearest neighbour search, i.e., a data user can always receive the top-k encrypted files which are the most relevant to the search query. To effectively save computing costs and  storage costs  for DUs, a new order-preserving transformation is designed in our scheme to generate trapdoor without DUs computing the inverse of matrix. Secondly, our construction is independent of a specific  searchable encryption scheme . Any kind of a keyword-based searchable encryption scheme can apply our method to resist the keyword privacy leakage both from access pattern and search pattern. Finally, the detailed security analyses are given to demonstrate that the advantage of any Level-3 attacker launching efficient inside attack from search pattern and access pattern is negligible, i.e., our construction can protect the keyword privacy against an inside attacker.",
+    "citation_count": "11",
+    "year": "2021/05/01",
+    "authors": [
+        {
+            "name": "Yanping Li",
+            "country": ""
+        },
+        {
+            "name": "Qiang Cao",
+            "country": ""
+        },
+        {
+            "name": "Kai Zhang",
+            "country": ""
+        },
+        {
+            "name": "Fang Ren",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

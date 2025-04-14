@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-016-0031-y",
+    "title": "Maximum flows in generalized processing networks",
+    "abstract": "Processing networks (cf. Koene in Minimal cost flow in processing networks: a primal approach, 1982) and manufacturing networks (cf. Fang and Qi in Optim Methods Softw 18:143–165, 2003) are well-studied extensions of traditional network flow problems that allow to model the decomposition or distillation of products in a manufacturing process. In these models, so called flow ratios&nbsp; $$\\alpha _e \\in [0,1]$$ are assigned to all outgoing edges of special processing nodes. For each such special node, these flow ratios, which are required to sum up to one, determine the fraction of the total outgoing flow that flows through the respective edges. In this paper, we generalize processing networks to the case that these flow ratios only impose an upper bound on the respective fractions and, in particular, may sum up to more than one at each node. We show that a flow decomposition similar to the one for traditional network flows is possible and can be computed in strongly polynomial time. Moreover, we show that there exists a fully polynomial-time approximation scheme (FPTAS) for the maximum flow problem in these generalized processing networks if the underlying graph is acyclic and we provide two exact algorithms with strongly polynomial running-time for the problem on series–parallel graphs. Finally, we study the case of integral flows and show that the problem becomes $${\\mathcal {NP}}$$ -hard to solve and approximate in this case.",
+    "citation_count": 22,
+    "year": "2017/05",
+    "authors": [
+        {
+            "name": "Holzhauser, Michael",
+            "country": "Germany"
+        },
+        {
+            "name": "Krumke, Sven O.",
+            "country": "Germany"
+        },
+        {
+            "name": "Thielen, Clemens",
+            "country": "Germany"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

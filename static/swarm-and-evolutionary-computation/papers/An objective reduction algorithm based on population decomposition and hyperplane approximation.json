@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224000282",
+    "title": "An objective reduction algorithm based on population decomposition and hyperplane approximation",
+    "abstract": "Objective reduction is an efficient method to simplify many-objective optimization problems (MaOPs) with redundant objectives. However, most objective reduction algorithms operate on an entire sample set, which would easily omit local features and lead to an over-reduction of objectives. To alleviate the above problems, this paper proposes an objective reduction algorithm based on population decomposition and hyperplane approximation, denoted as PDHA, where the population is decomposed into several subpopulations, and a method based on hyperplane approximation is applied to extract the essential objectives from subpopulations. PDHA has two advantages. First, extracting essential objectives from the subpopulations could reduce errors produced by the reduction technique. Second, more attention is paid to local features via extracting the essential objectives from different subpopulations, which could prevent an over-reduction of objectives. The performance of PDHA is theoretically verified and experimentally compared with some state-of-the-art objective reduction algorithms and some algorithms for MaOPs on some benchmark problems. The experimental results show that PDHA is effective for the objective reduction of objective-redundant MaOPs.",
+    "citation_count": "0",
+    "year": "2024/04/01",
+    "authors": [
+        {
+            "name": "Ning Yang",
+            "country": ""
+        },
+        {
+            "name": "Hai-Lin Liu",
+            "country": ""
+        },
+        {
+            "name": "Junrong Xiao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

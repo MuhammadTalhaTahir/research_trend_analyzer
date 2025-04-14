@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001014",
+    "title": "Easy pair selection method for Kinship Verification using fixed age group images",
+    "abstract": "Kinship Verification (KV) by using facial images is a relevant and challenging research problem in the field of computer vision. Facial features are extracted from the input pair of images and subsequently analyzed to find out existence of kin relation between them. Weights of the training model are suitably learned and adapted for the same. In most of the existing schemes, non kin pairs are randomly generated from the existing kin pair database for the learning process of the model. Since non-kin pairs are formed randomly from the true kin pair database itself, hence there is a significant probability that some non kin pairs have more similarity in feature space which is ideally undesirable and leads to improper learning of the model and results into errors. To reduce such errors, we have proposed a new scheme called easy-pair selection method for KV. Kin and non kin pairs are categorized into easy and hard pairs based on sum of square distance with respect to the feature space of the pairs. Suitable kin-margin (KM) value is chosen to classify the pair as easy or hard. Further, selected easy pairs are used to compute the optimized training weights (W) from the training dataset. The obtained weights will ensure to minimize the distance of kin pairs and maximize the distance of non-kin pairs in feature space. A fixed age group image database  (FAG)  have also been proposed through this article which contains the corresponding facial images of the parents and their children from the same age group to minimize the issue of age in-variance as well. Extensive experiments have been performed to validate the accuracy of the proposed scheme and is found to outperform the existing relevant schemes for KV.",
+    "citation_count": "3",
+    "year": "2023/08/01",
+    "authors": [
+        {
+            "name": "Madhu Oruganti",
+            "country": ""
+        },
+        {
+            "name": "T. Meenpal",
+            "country": ""
+        },
+        {
+            "name": "Saikat Majumder",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

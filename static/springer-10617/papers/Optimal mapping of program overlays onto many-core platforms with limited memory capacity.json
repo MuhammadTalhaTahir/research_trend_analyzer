@@ -1,0 +1,26 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10617-017-9193-9",
+    "title": "Optimal mapping of program overlays onto many-core platforms with limited memory capacity",
+    "abstract": "This paper addresses the problem of mapping tasks onto an FPGA-based many-core platform where the cores typically have a limited amount of memory and thus should be frequently overlaid with a small program block that implements a task. In this regard, we propose a framework that takes integer linear programming (ILP) to find an optimal mapping of an application onto such a many-core platform at the task-level of granularity. The optimality is defined within the limits of our ILP model. The proposed framework is not only suitable for an application that can be accommodated on the available cores but also for a larger application (or even multiple applications) that needs more cores than what is provided by the platform. This is achieved by mapping different partitions of the application to the same set of cores and dynamically (during the life time of the application) overlaying a partition on another. The proposed mapping flow integrates scheduling, binding and place and route steps into one mapping process using an ILP formulation. Due to the slowness of ILP solutions, our solution is applicable at design time only. It is implemented using TOMLAB/CPLEX toolbox and we assess its efficacy on a set of 40 synthetic task graphs as well as some multimedia applications.",
+    "citation_count": 54,
+    "year": "2017/12",
+    "authors": [
+        {
+            "name": "Shahraki Moghaddam, Mansureh",
+            "country": "South Korea"
+        },
+        {
+            "name": "Balakrishnan, M.",
+            "country": "India"
+        },
+        {
+            "name": "Choi, Kiyoung",
+            "country": "South Korea"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

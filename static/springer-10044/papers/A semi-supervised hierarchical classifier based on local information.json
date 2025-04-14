@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-024-01345-1",
+    "title": "A semi-supervised hierarchical classifier based on local information",
+    "abstract": "The scarcity of labeled data is a common problem in supervised classification and in particular in hierarchical classification. Therefore, in this work a semi-supervised hierarchical classifier based on local information (SSHC-BLI) is proposed in order to take advantage of labeled and unlabeled data to perform classification tasks. SSHC-BLI is a semi-supervised learning algorithm for hierarchical classification, which tries to pseudo-label each unlabeled instance using the labels of its labeled neighbors, also, it uses a similarity function to determine whether the unlabeled instance is similar to its labeled neighbors to be pseudo-labeled; in this way, the heuristic function similarity of an instance with a set of instances is proposed. SSHC-BLI was tested in several datasets from different fields, including: artificial, functional genomics and text; also, it was compared against a supervised hierarchical classifier and &nbsp;two state of the art methods, showing in most cases superior performance with statistical significance in exact match and Matthews correlation coefficient.",
+    "citation_count": 61,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "Serrano-Pérez, Jonathan",
+            "country": "Mexico"
+        },
+        {
+            "name": "Sucar, L. Enrique",
+            "country": "Mexico"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

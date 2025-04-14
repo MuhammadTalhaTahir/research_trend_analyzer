@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762116300303",
+    "title": "NoC routing protocols – objective-based classification",
+    "abstract": "NoCs (Network on Chips) are the most popular interconnection mechanism used for systems that require flexibility, extensibility and  low power consumption . However, communication performance is strongly related to the  routing algorithm  that is used in the NoC. The most important issues in the routing process are:  deadlock , livelock, congestion and faults. In this paper, a classification of NoC routing protocols is proposed according to the problems they address. Two main families emerge: mono objective and multi objectives. A discussion of the advantages and the drawbacks of each protocols family is given. A summary of the most used practices in this field and the less used ones is provided. This survey shows that it is hard to satisfy the four objectives at the same time with classical methods, highlighting the strengths of multi-objectives approaches.",
+    "citation_count": "45",
+    "year": "2016/05/01",
+    "authors": [
+        {
+            "name": "Asma Benmessaoud Gabis",
+            "country": ""
+        },
+        {
+            "name": "Mouloud Koudil",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

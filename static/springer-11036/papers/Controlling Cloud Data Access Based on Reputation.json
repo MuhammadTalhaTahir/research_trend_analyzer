@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-015-0591-6",
+    "title": "Controlling Cloud Data Access Based on Reputation",
+    "abstract": "Cloud computing offers a new way of service provision and will play an important role in the next generation mobile networks and services (in short 5G). Cloud data privacy and security protection is a crucial issue that impacts the success of cloud computing and may impede the development of 5G. Literature has proposed a number of cloud data access control schemes. However, existing solutions suffer from high computation complexity and cost and therefore few of them have been really deployed in practice. In this paper, we propose a practical scheme to securely access cloud data and effectively reduce access risk according to the reputations of cloud computing entities by applying proxy re-encryption in the situation that the data owner is not available online or does not know how to control the access. The advantages, security and performance of the proposed scheme are evaluated and justified through extensive analysis, security proof and implementation. The results show the efficiency and effectiveness of our scheme for practical deployment.",
+    "citation_count": 28,
+    "year": "2015/12",
+    "authors": [
+        {
+            "name": "Yan, Zheng",
+            "country": "China"
+        },
+        {
+            "name": "Li, Xueyun",
+            "country": "Finland"
+        },
+        {
+            "name": "Kantola, Raimo",
+            "country": "Finland"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

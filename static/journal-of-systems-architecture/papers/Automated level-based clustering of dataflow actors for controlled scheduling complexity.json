@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124001541",
+    "title": "Automated level-based clustering of dataflow actors for controlled scheduling complexity",
+    "abstract": "Dataflow  Models of Computation  (MoCs) significantly enhance  parallel computing  by efficiently expressing application  parallelism  on multicore architectures, unlocking greater performance and throughput. However, the complexity of graphs within dataflow-based systems can result in a time-consuming  resource allocation  process. To address this issue, a solution is to cluster computations to ease heuristic solving. The information encompassing the context of computations and the constraints of the architecture plays a crucial role in determining application performance. This paper presents an automated approach that leverages this information to control graph complexity prior to the resource allocation process. Experiments demonstrate that the proposed method, driven by clustering, not only yields improved throughput but also provides better mapping decisions and  data transfer  efficiency, achieving a throughput up to 1.8 times higher than state-of-the-art techniques.",
+    "citation_count": "0",
+    "year": "2024/09/01",
+    "authors": [
+        {
+            "name": "Ophélie Renaud",
+            "country": ""
+        },
+        {
+            "name": "Hugo Miomandre",
+            "country": ""
+        },
+        {
+            "name": "Karol Desnos",
+            "country": ""
+        },
+        {
+            "name": "Jean-François Nezan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

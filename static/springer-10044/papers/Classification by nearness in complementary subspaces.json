@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-012-0308-4",
+    "title": "Classification by nearness in complementary subspaces",
+    "abstract": "This study introduces a classifier founded on k-nearest neighbours in the complementary subspaces (NCS). The global space, spanned by all training samples, can be decomposed into the direct sum of two subspaces in terms of one class: the projection vectors of this class into one subspace are nonzero, and that into another subspace are zero. A query sample is projected into the two subspaces for each class, respectively. In each subspace, the distance from the projection vector to the mean of its k-nearest neighbours can be calculated, and the final classification rules are designed in terms of the two distances calculated in the two complementary subspaces, respectively. Allowing for the geometric meaning of Gram determinant and kernel trick, the classifier is naturally implemented in the kernel space. The experimental results on 1 synthetic, 13 IDA binary class, and five UCI multi-class data sets show that NCS compares favourably to the comparing classifiers, which is founded on the k-nearest neighbours or the nearest subspace, on almost all the data sets. The classifier can straightforwardly solve multi-classification problems, and the performance is promising.",
+    "citation_count": 32,
+    "year": "2013/11",
+    "authors": [
+        {
+            "name": "Yang, Menglong",
+            "country": "People’s Republic of  China"
+        },
+        {
+            "name": "Liu, Yiguang",
+            "country": "People’s Republic of  China"
+        },
+        {
+            "name": "Zhong, Baojiang",
+            "country": "China"
+        },
+        {
+            "name": "Li, Zheng",
+            "country": "People’s Republic of  China"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

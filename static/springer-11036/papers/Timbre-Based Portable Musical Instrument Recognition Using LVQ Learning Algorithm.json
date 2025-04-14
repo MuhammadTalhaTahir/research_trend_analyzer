@@ -1,0 +1,19 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-023-02174-y",
+    "title": "Timbre-Based Portable Musical Instrument Recognition Using LVQ Learning Algorithm",
+    "abstract": "With the advent of deep learning algorithms, the field of portable musical instrument recognition, i.e., musical recognition using mobile devices, has experienced substantial progress. Manual labeling, which is time-consuming, labor-intensive, and error-prone, has historically been used to classify instruments. Recent research, however, has concentrated on automating the classification process through the extraction of music properties. Nonetheless, due to the complicated interplay between the fundamental wave and harmonics in music, identifying important audio information remains difficult. This article describes the underlying ideas and implementation approach of portable musical instrument identification based on acoustic characteristics in detail. This paper proposes utilizing the Learning Vector Quantization (LVQ) neural network learning technique to extract acoustic components from music sources using the Short-Time Fourier Transform (STFT). In addition, this paper uses a feature selection strategy to pick the most informative features, lowering the dimensionality of the classifier’s feature vector and improving training and recognition efficiency. The weighted recognition accuracy is 79.8% when all characteristics are picked, according to the experimental results. However, by decreasing the number of feature dimensions to 24, the system obtains its greatest weighted recognition rate of 81.2%, outperforming the performance with all features enabled by 1.3%. This illustrates how feature dimensionality reduction may increase recognition performance. However, decreasing the feature dimensions beyond 24 resulted in worse recognition accuracy, demonstrating the existence of an ideal feature dimensionality for each portable musical instrument category. A feature vector with 24 dimensions produces the greatest results for piano recognition, whereas a vector with 20 dimensions offers the maximum accuracy for cello recognition. These findings highlight the significance of feature selection in obtaining high accuracy rates for certain instrument types.",
+    "citation_count": 19,
+    "year": "2023/12",
+    "authors": [
+        {
+            "name": "Sun, Yizhen",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

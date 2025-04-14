@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-015-9865-y",
+    "title": "Budget-constrained minimum cost flows",
+    "abstract": "We study an extension of the well-known minimum cost flow problem in which a second kind of costs (called usage fees) is associated with each edge. The goal is to minimize the first kind of costs as in traditional minimum cost flows while the total usage fee of a flow must additionally fulfill a budget constraint. We distinguish three variants of computing the usage fees. The continuous case, in which the usage fee incurred on an edge depends linearly on the flow on the edge, can be seen as the $$\\varepsilon $$ -constraint method applied to the bicriteria minimum cost flow problem. We present the first strongly polynomial-time algorithm for this problem. In the integral case, in which the fees are incurred in integral steps, we show weak $${\\mathcal {NP}}$$ -hardness of solving and approximating the problem on series-parallel graphs and present a pseudo-polynomial-time algorithm for this graph class. Furthermore, we present a PTAS, an FPTAS, and a polynomial-time algorithm for several special cases on extension-parallel graphs. Finally, we show that the binary case, in which a fixed fee is payed for the usage of each edge independently of the amount of flow (as for fixed cost flows—Hochbaum and Segev in Networks 19(3):291–312, 1989), is strongly $${\\mathcal {NP}}$$ -hard to solve and we adapt several results from the integral case.",
+    "citation_count": 22,
+    "year": "2016/05",
+    "authors": [
+        {
+            "name": "Holzhauser, Michael",
+            "country": "Germany"
+        },
+        {
+            "name": "Krumke, Sven O.",
+            "country": "Germany"
+        },
+        {
+            "name": "Thielen, Clemens",
+            "country": "Germany"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

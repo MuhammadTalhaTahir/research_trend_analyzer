@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650220303680",
+    "title": "Autonomous detection of collective behaviours in swarms",
+    "abstract": "Collective behaviours such as  swarm  formations of  autonomous agents  offer the advantages of efficient movement, redundancy, and potential for human guidance of a single swarm organism. This paper proposes a developmental approach to evolving collective behaviours whereby the evolutionary process is guided by a novel value system. A self-organising map is used at the core of this value system and motion properties of the swarm entities are used as input. Unlike traditional approaches, this value system does not need in advance the precise characteristics of the intended behaviours. We examine the performance of this value system in a series of controlled experiments. Our results demonstrate that the value system can recognise multiple “interesting” structured collective behaviours and distinguish them from random movement patterns. Results show that our value system is most effective distinguishing structured behaviours from random behaviours when using motion properties of individual agents as input. Further variations and modifications to input data such as normalisation and aggregation were also investigated, and it was shown that certain configurations provide better results in distinguishing collective behaviours from random ones.",
+    "citation_count": "20",
+    "year": "2020/09/01",
+    "authors": [
+        {
+            "name": "Md Mohiuddin Khan",
+            "country": ""
+        },
+        {
+            "name": "Kathryn Kasmarik",
+            "country": ""
+        },
+        {
+            "name": "Michael Barlow",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

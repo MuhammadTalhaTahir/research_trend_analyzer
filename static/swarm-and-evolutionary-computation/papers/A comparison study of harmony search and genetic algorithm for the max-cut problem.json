@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217306788",
+    "title": "A comparison study of harmony search and genetic algorithm for the max-cut problem",
+    "abstract": "The max-cut problem is one of well-known NP-complete problems and has applications in various fields such as the design process for VLSI (Very-Large-Scale Integration) chips and spin glass theory in  statistical physics . In this paper, a  harmony search  algorithm for the max-cut problem is proposed. Compared to  genetic algorithm , harmony search algorithm has advantages of generating a new vector after considering all of the existing vectors and requiring only a few number of parameters to be determined before the run of the algorithm. For 31 benchmark graphs of various types, the proposed harmony search algorithm is compared with a newly developed genetic algorithm and another genetic algorithm taken from the recent literature are presented. The proposed harmony search algorithm produced significantly better results than the two genetic algorithms.",
+    "citation_count": "58",
+    "year": "2019/02/01",
+    "authors": [
+        {
+            "name": "Yong-Hyuk Kim",
+            "country": ""
+        },
+        {
+            "name": "Yourim Yoon",
+            "country": ""
+        },
+        {
+            "name": "Zong Woo Geem",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

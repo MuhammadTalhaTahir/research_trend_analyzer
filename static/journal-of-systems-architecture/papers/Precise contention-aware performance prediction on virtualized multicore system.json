@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762116300649",
+    "title": "Precise contention-aware performance prediction on virtualized multicore system",
+    "abstract": "Multicore systems  are widely deployed in both the embedded and the high end computing infrastructures. However, traditional  virtualization systems  can not effectively isolate shared micro architectural resources among virtual machines (VMs) running on multicore systems. CPU and memory intensive VMs contending for these resources will lead to serious performance interference, which makes virtualization systems less efficient and VM performance less stable. In this paper, we propose a contention-aware performance prediction model on the virtualized multicore systems to quantify the performance degradation of VMs. First, we identify the performance interference factors and design synthetic micro-benchmarks to obtain VM’s contention sensitivity and intensity features that are correlated with VM performance degradation. Second, based on the contention features, we build VM performance prediction model using  machine learning techniques  to quantify the precise levels of performance degradation. The proposed model can be used to optimize VM performance on multicore systems. Our experimental results show that the performance prediction model achieves high accuracy and the  mean absolute error  is 2.83%.",
+    "citation_count": "18",
+    "year": "2017/01/01",
+    "authors": [
+        {
+            "name": "Yuxia Cheng",
+            "country": ""
+        },
+        {
+            "name": "Wenzhi Chen",
+            "country": ""
+        },
+        {
+            "name": "Zonghui Wang",
+            "country": ""
+        },
+        {
+            "name": "Yang Xiang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

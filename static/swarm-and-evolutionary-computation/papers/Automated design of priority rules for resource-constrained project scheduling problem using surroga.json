@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223001128",
+    "title": "Automated design of priority rules for resource-constrained project scheduling problem using surrogate-assisted genetic programming",
+    "abstract": "In the past few years, the  genetic programming  approach (GP) has been successfully used by researchers to design priority rules for the resource-constrained project scheduling problem (RCPSP) thanks to its high  generalization ability  and superior performance. However, one of the main drawbacks of the GP is that the fitness evaluation in the training process often requires a very high  computational effort . In order to reduce the runtime of the training process, this research proposed four different  surrogate models  for the RCPSP. The experiment results have verified the effectiveness and the performance of the proposed surrogate models. It is shown that they achieve similar performance as the original model with the same number of evaluations and better performance with the same runtime. We have also tested the performance of one of our surrogate models with seven different  population sizes  to show that the selected surrogate model achieves similar performance for each population size as the original model, even when the searching space is sufficiently explored. Furthermore, we have investigated the accuracy of our proposed surrogate models and the size of the rules they designed. The result reveals that all the proposed surrogate models have high accuracy, and sometimes the rules found by them have a smaller size compared with the original model.",
+    "citation_count": "18",
+    "year": "2023/08/01",
+    "authors": [
+        {
+            "name": "Jingyu Luo",
+            "country": ""
+        },
+        {
+            "name": "Mario Vanhoucke",
+            "country": ""
+        },
+        {
+            "name": "José Coelho",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

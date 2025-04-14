@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S026288562200004X",
+    "title": "Progressive ShallowNet for large scale dynamic and spontaneous facial behaviour analysis in children",
+    "abstract": "COVID-19 has severely disrupted every aspect of society and left negative impact on our life. Resisting the temptation in engaging face-to-face social connection is not as easy as we imagine. Breaking ties within social circle makes us lonely and isolated, that in turns increase the likelihood of depression related disease and even can leads to death by increasing the chance of heart disease. Not only adults, children's are equally impacted where the contribution of emotional competence to social competence has long term implications. Early identification skill for facial behaviour emotions, deficits, and expression may help to prevent the low social functioning. Deficits in young children's ability to differentiate human emotions can leads to social functioning impairment. However, the existing work focus on adult emotions recognition mostly and ignores emotion recognition in children. By considering the working of pyramidal cells in the cerebral cortex, in this paper, we present progressive lightweight shallow learning for the classification by efficiently utilizing the skip-connection for spontaneous facial behaviour recognition in children. Unlike earlier deep neural networks, we limit the alternative path for the gradient at the earlier part of the network by increase gradually with the depth of the network. Progressive ShallowNet is not only able to explore more feature space but also resolve the over-fitting issue for smaller data, due to limiting the residual path locally, making the network vulnerable to perturbations. We have conducted extensive experiments on benchmark facial behaviour analysis in children that showed significant performance gain comparatively.",
+    "citation_count": "0",
+    "year": "2022/03/01",
+    "authors": [
+        {
+            "name": "Abdul Qayyum",
+            "country": ""
+        },
+        {
+            "name": "Imran Razzak",
+            "country": ""
+        },
+        {
+            "name": "Nour Moustafa",
+            "country": ""
+        },
+        {
+            "name": "Moona Mazher",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-024-10324-8",
+    "title": "Deep learning surrogate for predicting hydraulic conductivity tensors from stochastic discrete fracture-matrix models",
+    "abstract": "Simulating water flow in fractured crystalline rock requires tackling its stochastic nature. We aim to utilize the multilevel Monte Carlo method for cost-effective estimation of simulation statistics. This multiscale approach entails upscaling of fracture hydraulic conductivity by homogenization. In this work, we replace 2D numerical homogenization based on the discrete fracture-matrix (DFM) approach with a surrogate model to expedite computations. We employ a deep convolutional neural network (CNN) connected to a deep feed-forward neural network as the surrogate. The equivalent hydraulic conductivity tensor $$\\varvec{K}^{\\varvec{eq}}$$ is predicted based on the input tensorial spatial random fields (SRFs) of hydraulic conductivities, along with the cross-section and hydraulic conductivity of fractures. Three independent surrogates with the same architecture are trained, each with a different ratio of fracture-to-matrix hydraulic conductivity $$\\varvec{K}_{\\varvec{f}}\\varvec{/}\\varvec{K}_{\\varvec{m}}$$ . As the ratio $$\\varvec{K}_{\\varvec{f}}\\varvec{/}\\varvec{K}_{\\varvec{m}}$$ increases, the distribution of $$\\varvec{K}^{\\varvec{eq}}$$ becomes more complex, leading to a decline in the prediction accuracy of the surrogates. The prediction accuracy improves as the fracture density decreases, regardless of the $$\\varvec{K}_{\\varvec{f}}\\varvec{/}\\varvec{K}_{\\varvec{m}}$$ . We also investigate prediction accuracy for different correlation lengths of input SRFs. The observed speedup gained by surrogates varies from $$\\varvec{4}\\varvec{\\times }$$ to $$\\varvec{28}\\varvec{\\times }$$ depending on the number of homogenization blocks. Upscaling by numerical homogenization and surrogate modeling is compared on two macroscale problems. For the first one, the accuracy of outcomes is directly correlated with the accuracy of $$\\varvec{K}^{\\varvec{eq}}$$ predictions. For the latter one, we observe only a mild impact of the upscaling method on the accuracy of the results.",
+    "citation_count": 53,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "Špetlík, Martin",
+            "country": "Czech Republic"
+        },
+        {
+            "name": "Březina, Jan",
+            "country": "Czech Republic"
+        },
+        {
+            "name": "Laloy, Eric",
+            "country": "Belgium"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

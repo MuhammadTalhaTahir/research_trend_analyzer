@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1013657422419",
+    "title": "An efficient multicast protocol for PCS networks",
+    "abstract": "In a Personal Communication Services (PCS) network, mobile hosts communicate with other mobile hosts through base stations on a wired (static) network. The mobile hosts connect to different base stations through wireless links and the base stations to which mobile hosts are connected change depending on the current location of the mobile hosts. In this environment, the problem of efficiently delivering a multicast message from one mobile host to a group of other mobile hosts becomes challenging. In this paper, we present a multicast protocol that delivers multicast messages from a mobile host to a group of other mobile hosts without flooding the wired network. The multicast protocol is built on top of a user location strategy that should follow one of the three models of user location described in the paper. The basic multicast protocol proposed guarantees exactly‐once message delivery to all mobile hosts in the multicast group and also ensures that multicast messages are delivered in FIFO order from the point of view of the base station that originates the multicast message (referred to as BS‐FIFO). More importantly, an extension of the basic protocol is provided that, unlike earlier work, delivers multicast messages in FIFO order from the point of view of the mobile host that initiates the multicast message (referred to as MH‐FIFO). The modifications to be made to the multicast protocol to accommodate each of the three models of user location is also described.",
+    "citation_count": 18,
+    "year": "1997/12",
+    "authors": [
+        {
+            "name": "Aravamudhan, Vanitha",
+            "country": "USA"
+        },
+        {
+            "name": "Ratnam, Karunaharan",
+            "country": "USA"
+        },
+        {
+            "name": "Rangarajan, Sampath",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

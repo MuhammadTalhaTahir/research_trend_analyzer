@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-012-0269-7",
+    "title": "Trajectory clustering in CCTV traffic videos using probability product kernels with hidden Markov models",
+    "abstract": "This article presents a method for clustering the trajectories obtained by tracking vehicles in traffic videos, recorded from CCTV cameras in public spaces. The proposed method employs a model-based approach in which (1) each trajectory (position and velocity) is modelled using a hidden Markov model (HMM), and (2) the distance between two trajectories is computed as the probabilistic similarity between HMMs, by means of the probability product kernel. Experiments on a set of real traffic video sequences reveal very good results of the proposed approach, outperforming two non-trivial baselines. To the best of the authors’ knowledge, this approach is novel for trajectory grouping in traffic videos.",
+    "citation_count": 46,
+    "year": "2012/11",
+    "authors": [
+        {
+            "name": "Rodríguez-Serrano, José A.",
+            "country": "UK"
+        },
+        {
+            "name": "Singh, Sameer",
+            "country": "UK"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

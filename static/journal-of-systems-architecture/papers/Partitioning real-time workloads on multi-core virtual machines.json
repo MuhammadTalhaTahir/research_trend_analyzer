@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122002181",
+    "title": "Partitioning real-time workloads on multi-core virtual machines",
+    "abstract": "Modern real-time virtual machines and containers are starting to make it possible to support the execution of real-time applications in virtualized environments. Real-time scheduling theory already provides techniques for analyzing the schedulability of real-time applications executed in virtual machines, but most of the previous work focused on global scheduling while, excluding a few exceptions, the problem of partitioning real-time workloads on multi-core VMs has not been properly investigated yet. This paper discusses and presents a set of partitioning algorithms, based on both mathematical optimization and some heuristics, to tackle the problem of online admission control and partitioning. An experimental evaluation shows that some of the heuristic algorithms can be effectively used in practical settings, being capable to partition complex task sets in short times and introducing an allocation overhead near to the optimum one.",
+    "citation_count": "5",
+    "year": "2022/10/01",
+    "authors": [
+        {
+            "name": "Luca Abeni",
+            "country": ""
+        },
+        {
+            "name": "Alessandro Biondi",
+            "country": ""
+        },
+        {
+            "name": "Enrico Bini",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

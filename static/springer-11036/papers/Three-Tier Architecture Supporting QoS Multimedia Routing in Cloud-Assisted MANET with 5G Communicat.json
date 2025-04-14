@@ -1,0 +1,19 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-020-01657-6",
+    "title": "Three-Tier Architecture Supporting QoS Multimedia Routing in Cloud-Assisted MANET with 5G Communication (TCM5G)",
+    "abstract": "Recently, evolving technologies such as 5G and cloud computing have offered new prospects in mobile ad hoc networks (MANETs). However, achieving a high quality of service (QoS) in multimedia routing over MANET–cloud using 5G networks remains challenging owing to the dynamic nature of mobile devices. The present study addresses this problem by proposing a three-tier architecture in cloud-assisted MANETs with 5G (TCM5G) communication. The network comprises the MANET, cloudlet, and cloud tiers. In the proposed scheme, partitioning and clustering are performed to optimize the cluster size. Specifically, partitioning is first performed by the improved monarch butterfly optimization algorithm. Here, the cluster head (CH) is first selected by computing the importance rate. The selected CH then forms a cluster around itself by broadcasting its selection message. Device-to-device (D2D) communication is established using the Kuhn–Munkres algorithm, which determines the optimal device for each D2D communication in the network in order to increase data transmission efficiency. Network performance depends on effective routing; hence, we considered two routing types: inter-cluster and cloudlet. The former is performed through chaotic flower pollination, and the latter is achieved by using the improved Type-2 Takagi Sugeno fuzzy algorithm. To improve the QoS in multimedia routing, we employ a full-interpolation, scalable video-coding algorithm for effective multimedia data encoding. Task offloading among cloudlets is performed based on a load criterion to balance the cloudlet load. The performance of the proposed system is evaluated using five metrics: throughput, packet delivery ratio (PDR), end-to-end delay, task-completion time, and bandwidth consumption. The results demonstrate that in comparison with the existing DCRM, PCA, and HRM methods, the proposed TCM5G scheme enhances throughput and PDR by 30%, and reduces end-to-end delay, task-completion time, and bandwidth consumption by up to 40%.",
+    "citation_count": 55,
+    "year": "2020/12",
+    "authors": [
+        {
+            "name": "Alghamdi, Saleh A.",
+            "country": "Saudi Arabia"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/0262885691900027",
+    "title": "Frame-based system for image interpretation",
+    "abstract": "This paper describes a frame-based computer vision system named FABIUS implemented in Prolog. Advantages of using frames for computer vision are that they are modular and understandable; structural, decomposable objects can be described by part frame hierarchies, and specialization frame hierarchies enable property inheritance and flexible, efficient object classification. Image processing operations, written in C, are triggered as demons when specific slots in a frame are accessed. Prolog provides the problem solving facilities of backtracking and pattern matching. The system is shown to be well suited to rapid development of applications and alternative interpretation strategies, and its operation is illustrated when applied to the task of identifying vehicles in cluttered real-world scenes.",
+    "citation_count": "7",
+    "year": "1991/12/01",
+    "authors": [
+        {
+            "name": "Paul L Rosin",
+            "country": ""
+        },
+        {
+            "name": "Tim Ellis",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-018-0705-4",
+    "title": "Binary ranking for ordinal class imbalance",
+    "abstract": "Imbalanced classification has been extensively researched in the last years due to its prevalence in real-world datasets, ranging from very different topics such as health care or fraud detection. This literature has long been dominated by variations of the same family of solutions (e.g. mainly resampling and cost-sensitive learning). Recently, a new and promising way of tackling this problem has been introduced: learning with scoring pairwise ranking so that each pair of classes contribute in tandem to the decision boundary. In this sense, the paper addresses the problem of class imbalance in the context of ordinal regression, proposing two novel contributions: (a) approaching the imbalance by binary pairwise ranking using a well-known label decomposition ensemble, and (b) introducing a regularization into this ensemble so that parallel decision boundaries are favored. These are two independent contributions that synergize well. Our model is tested using linear Support Vector Machines and our results are compared against state-of-the-art models. Both approaches show promising performance in ordinal class imbalance, with an overall 15% improvement relative to the state-of-the-art, as evaluated by a balanced metric.",
+    "citation_count": 14,
+    "year": "2018/11",
+    "authors": [
+        {
+            "name": "Cruz, Ricardo",
+            "country": "Portugal"
+        },
+        {
+            "name": "Fernandes, Kelwin",
+            "country": "Portugal"
+        },
+        {
+            "name": "Costa, Joaquim F. Pinto",
+            "country": "Portugal"
+        },
+        {
+            "name": "Ortiz, María Pérez",
+            "country": "Portugal"
+        },
+        {
+            "name": "Cardoso, Jaime S.",
+            "country": "Portugal"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

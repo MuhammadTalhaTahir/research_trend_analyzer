@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650225000185",
+    "title": "Handling objective preference and variable uncertainty in evolutionary multi-objective optimization",
+    "abstract": "Evolutionary algorithms (EAs) are widely employed in multi-objective optimization (MOO) to find a well-distributed set of near-Pareto solutions. Among various types of practicalities that demand standard evolutionary multi-objective optimization (EMO) algorithms to be modified suitably, we propose here a framework for handling two important ones: (i) decision-making to choose one or more preferred Pareto regions, rather than finding the entire Pareto set, and (i) uncertainty in variables and parameters of the problem which is inevitable in any practical problem. While the first practicality will allow a focused set of preferred solutions to be found, the second practicality will enable finding robust yet high-performing non-dominated solutions. We propose and analyze four different approaches for finding preferred and robust solutions for handling both practicalities simultaneously. Our results on a number of two to 10-objective tests and engineering problems indicate the superiority of one specific approach. For a comprehensive evaluation of new EMO algorithms for finding a preferred and robust solution set, we also propose a new performance metric by identifying and utilizing a number of desired properties of such trade-off solutions. The study is comprehensive and should encourage researchers to develop more competitive EMO algorithms for finding preferred and robust Pareto solutions.",
+    "citation_count": "0",
+    "year": "2025/04/01",
+    "authors": [
+        {
+            "name": "Deepanshu Yadav",
+            "country": ""
+        },
+        {
+            "name": "Palaniappan Ramu",
+            "country": ""
+        },
+        {
+            "name": "Kalyanmoy Deb",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

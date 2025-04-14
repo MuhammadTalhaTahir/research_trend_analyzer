@@ -1,0 +1,36 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-005-0013-7",
+    "title": "An efficient segmentation-free approach to assist old Greek handwritten manuscript OCR",
+    "abstract": "Recognition of old Greek manuscripts is essential for quick and efficient content exploitation of the valuable old Greek historical collections. In this paper, we focus on the problem of recognizing early Christian Greek manuscripts written in lower case letters. Based on the existence of closed cavity regions in the majority of characters and character ligatures in these scripts, we propose a novel, segmentation-free, fast and efficient technique that assists the recognition procedure by tracing and recognizing the most frequently appearing characters or character ligatures. First, we detect closed cavities that exist in the character body. Then, the protrusions in the outer contour outline of the connected components that contain the character closed cavities are used for the classification of the area around closed cavities to a specific character or a character ligature. The proposed method gives highly accurate results and offers great assistance to old Greek handwritten manuscript OCR. We also provide additional OCR applications that not only prove the robustness of the proposed method but also demonstrate its generic flavor in case segmentation and text location tasks are very difficult to perform.",
+    "citation_count": 36,
+    "year": "2006/02",
+    "authors": [
+        {
+            "name": "Gatos, B.",
+            "country": "Greece"
+        },
+        {
+            "name": "Ntzios, K.",
+            "country": "Greece"
+        },
+        {
+            "name": "Pratikakis, I.",
+            "country": "Greece"
+        },
+        {
+            "name": "Petridis, S.",
+            "country": "Greece"
+        },
+        {
+            "name": "Konidaris, T.",
+            "country": "Greece"
+        },
+        {
+            "name": "Perantonis, S. J.",
+            "country": "Greece"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

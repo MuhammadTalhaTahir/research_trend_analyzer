@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885620301542",
+    "title": "Intelligent querying for target tracking in camera networks using deep Q-learning with n-step bootstrapping",
+    "abstract": "Surveillance camera networks are a useful infrastructure for various  visual analytics  applications, where high-level inferences and predictions could be made based on  target tracking  across the network. Most multi-camera tracking works focus on target re-identification and trajectory association problems to track the target. However, since camera networks can generate enormous amount of video data, inefficient schemes for making re-identification or trajectory association queries can incur prohibitively large computational requirements. In this paper, we address the problem of intelligent scheduling of re-identification queries in a multi-camera tracking setting. To this end, we formulate the target  tracking problem  in a camera network as an  MDP  and learn a  reinforcement learning  based policy that selects a camera for making a re-identification query. The proposed approach to camera selection does not assume the knowledge of the camera  network topology  but the resulting policy implicitly learns it. We have also shown that such a policy can be learnt directly from data. Using the NLPR MCT and the Duke MTMC multi-camera multi-target tracking benchmarks, we empirically show that the proposed approach substantially reduces the number of frames queried.",
+    "citation_count": "6",
+    "year": "2020/11/01",
+    "authors": [
+        {
+            "name": "Anil Sharma",
+            "country": ""
+        },
+        {
+            "name": "Saket Anand",
+            "country": ""
+        },
+        {
+            "name": "Sanjit K. Kaul",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

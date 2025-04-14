@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650216301419",
+    "title": "Intelligent dynamic spectrum access using hybrid genetic operators",
+    "abstract": "This paper presents a novel hybrid  dynamic spectrum access  approach, combining classical and stochastic flavors being augmented with new  genetic  operators, for multi-channel single-radio  cognitive radio networks . Existing classical and  stochastic approaches  exhibit different advantages and disadvantages depending on  network architecture . Our proposed approach exploits a delicate balance between the two different approaches for extracting advantages from both of them while limiting their disadvantages. Additionally, in our proposed approach, we boost up extent of the exploitation through designing new genetic operators. Furthermore, we provide a thorough performance evaluation of our approach using a widely used discrete event simulator called  ns-2 . Here, we also simulate several existing approaches that are based on graph theory,  game theory , heuristic,  genetic algorithm , agent-based learning, and online learning. Simulation results demonstrate significant  performance improvement  using our proposed intelligent  dynamic spectrum access  approach over these state-of-the-art ones based on various standard metrics.",
+    "citation_count": "6",
+    "year": "2017/10/01",
+    "authors": [
+        {
+            "name": "Md. Jahidul Islam",
+            "country": ""
+        },
+        {
+            "name": "Md. Monirul Islam",
+            "country": ""
+        },
+        {
+            "name": "A.B.M. Alim Al Islam",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

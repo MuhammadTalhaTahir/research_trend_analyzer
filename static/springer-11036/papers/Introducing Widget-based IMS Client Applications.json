@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-010-0239-5",
+    "title": "Introducing Widget-based IMS Client Applications",
+    "abstract": "Classic telecommunication methods and Internet services are converging. For this reason Telecommunication companies are looking for new ways to include their services in Web 2.0 applications. A strong candidate for the telecommunication infrastructure of the future is the IP Multimedia Subsystem (IMS), an all IP telecommunication core network. In the last few years a new kind of application has increasingly gained popularity: they are known as widgets. Widgets are small but fancy applications based on Web technologies that are very easy to develop. This paper describes a new approach to combining widgets with telecommunication features, such as Voice over IP calls or messaging, using IMS. Our solution includes a new abstraction layer with interfaces for the different telecommunication capabilities. Moreover, we implemented a widget engine that makes these telecommunication interfaces available to its widgets. Our solution allows the rapid development of new IMS client applications and a short time-to-market. The combination of other Web 2.0 services with IMS features becomes an exploitable opportunity.",
+    "citation_count": 13,
+    "year": "2010/12",
+    "authors": [
+        {
+            "name": "Deinert, Florian",
+            "country": "Germany"
+        },
+        {
+            "name": "Magedanz, Thomas",
+            "country": "Germany"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

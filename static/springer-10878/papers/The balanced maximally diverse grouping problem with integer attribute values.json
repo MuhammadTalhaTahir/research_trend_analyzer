@@ -1,0 +1,21 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-023-01061-2",
+    "title": "The balanced maximally diverse grouping problem with integer attribute values",
+    "abstract": "The paper considers the assignment of items to groups according to their attribute values such that the groups are as balanced as possible. Although the problem is in general NP-hard, we prove that it can be solved in pseudo-polynomial time if attribute values are integer. We point out a relation to partition and more general to multi-way number partitioning. Furthermore, we introduce a mixed-integer programming (MIP) formulation, a variable reduction technique, and an efficient lower bound for the objective value. Our computational results show that the lower bound meets the optimal objective value in the most of our instances of realistic size. Hence, the MIP solves instances with several thousand items within seconds to optimality.",
+    "citation_count": 52,
+    "year": "2023/07",
+    "authors": [
+        {
+            "name": "Schulz, Arne",
+            "country": "Germany"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

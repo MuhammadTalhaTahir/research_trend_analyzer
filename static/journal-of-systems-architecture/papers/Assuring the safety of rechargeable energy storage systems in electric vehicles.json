@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124001553",
+    "title": "Assuring the safety of rechargeable energy storage systems in electric vehicles",
+    "abstract": "Energy storage systems, especially lithium-ion batteries have gained significant attention and interest due to their potential in storing electrical energy and environmental sustainability. They play a crucial role in electric vehicles and significantly impact their performance, particularly in terms of electric driving range and quick acceleration. Despite their advantages, lithium-ion batteries also have limitations. These include the potential for thermal runaway, which can lead to safety hazards if not properly managed, such as outgassing, fire, and explosion that in turn cause significant property damage and fatalities. Published studies on road vehicles have not adequately considered the safety assurance of rechargeable energy storage systems in accordance with ISO 26262 standard. Accordingly in this paper, we focus on the safety assurance of a battery management system (BMS) that prevents thermal runaway and keeps lithium-ion batteries safe in electric vehicles. To this end, the safety life cycle process is performed. At first, the potential hazards that lead to thermal runaway impacting the functions of electric vehicles have been identified and safety goals related to means for preventing and controlling hazards are formulated. Next, the functional safety requirements are derived from each safety goal, and subsequently technical safety requirements are derived. To demonstrate the acceptable safety of electric vehicles using the BMS strategy, the safety cases are developed from the functional safety activities. The safety contracts are derived from battery specifications and chemistry and are associated with safety cases that provide the means for performing necessary adaptations at the operational phase. We leveraged a simulation for performing the verification and validation as well as finetuning of the BMS strategy. Simulation data is gathered, and the critical parameters are monitored to determine safety violations, control actions are triggered to resolve them, and safety cases are updated to reflect the current system safety.",
+    "citation_count": "0",
+    "year": "2024/09/01",
+    "authors": [
+        {
+            "name": "Faiz Ul Muram",
+            "country": ""
+        },
+        {
+            "name": "Paul Pop",
+            "country": ""
+        },
+        {
+            "name": "Muhammad Atif Javed",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

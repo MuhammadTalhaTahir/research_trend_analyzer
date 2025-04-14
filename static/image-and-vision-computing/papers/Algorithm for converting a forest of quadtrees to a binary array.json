@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/0262885687900060",
+    "title": "Algorithm for converting a forest of quadtrees to a binary array",
+    "abstract": "An algorithm for reconstructing a binary array of size  N sx N  from its forest of quadtree representation is presented. The algorithm traverses each tree of the forest in preorder and maps each ‘black’ node into the spatial domain. The time complexity in mapping is  O (log  N  ×  B n  +  B p ), where  B n  is the number of black nodes in the forest and  B p  is the number of black pixels in the  N  ×  N  array. The algorithm has been implemented on an Apple II.",
+    "citation_count": "0",
+    "year": "1987/11/01",
+    "authors": [
+        {
+            "name": "S Ravindran",
+            "country": ""
+        },
+        {
+            "name": "M Manohar",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

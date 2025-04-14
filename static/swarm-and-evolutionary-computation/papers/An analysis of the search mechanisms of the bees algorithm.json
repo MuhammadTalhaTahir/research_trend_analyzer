@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650220303990",
+    "title": "An analysis of the search mechanisms of the bees algorithm",
+    "abstract": "The Bees Algorithm has been successfully applied for over a decade to a large number of  optimisation problems . However, a mathematical analysis of its search capabilities, the effects of different parameters used, and various design choices has not been carried out. As a consequence, optimisation of the Bees Algorithm has so far relied on trial-and-error experimentation. This paper formalises the Bees Algorithm in a rigorous  mathematical description , beyond the qualitative biological metaphor. A review of the literature is presented, highlighting the main variants of the Bees Algorithm, and its analogies and differences compared with other optimisation methods. The local search procedure of the Bees Algorithm is analysed, and the results experimentally checked. The analysis shows that the progress of local search is mainly influenced by the size of the neighbourhood and the stagnation limit in the site abandonment procedure, rather than the number of recruited foragers. In particular, the analysis underlines the trade-off between the step size of local search (a large neighbourhood size favours quick progress) and the likelihood of stagnation (a small neighbourhood size prevents premature site abandonment). For the first time, the implications of the choice of neighbourhood shape on the character of the local search are clarified. The paper reveals that, particularly in high-dimensional spaces, hyperspherical neighbourhoods allow greater search intensification than hypercubic neighbourhoods. The theoretical results obtained in this paper are in good agreement with the findings of several experimental studies. It is hoped that the new  mathematical formalism  here introduced will foster further understanding and analysis of the Bees Algorithm, and that the theoretical results obtained will provide useful parameterisation guidelines for applied studies.",
+    "citation_count": "24",
+    "year": "2020/12/01",
+    "authors": [
+        {
+            "name": "Luca Baronti",
+            "country": ""
+        },
+        {
+            "name": "Marco Castellani",
+            "country": ""
+        },
+        {
+            "name": "Duc Truong Pham",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

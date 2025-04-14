@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000412",
+    "title": "Secure content based image retrieval for mobile users with deep neural networks in the cloud",
+    "abstract": "With the tremendous growth of  smart mobile devices , the  C ontent- B ased  I mage  R etrieval (CBIR) becomes popular and has great market potentials. Secure  image retrieval  has attracted considerable interests recently due to the outsourcing of CBIR onto the cloud. In this paper, we propose and implement a secure CBIR framework that performs image retrieval on the cloud without the user’s interaction. A pre-trained generic  DNN  model (e.g., VGG-16) is used to extract the feature vectors of an image on the user side. The cloud servers perform secure image inference with a private pre-trained  DNN  model and execute  A pproximate  N earest  N eighbor (ANN) image retrieval protocols without the user’s anymore interaction. We design and implement a set of protocols for the secure evaluation of the non-linear functions in DNNs. The information about the  image contents , the private  DNN model  parameters, the intermediate and the retrieval results is strictly concealed by the conjunctive use of the lattice-based homomorphic scheme and two-party computation (2-PC) techniques. We further propose a secure image similarity scoring and a result sorting protocols, which enable the cloud servers to compare and sort images without knowing any information about their features or contents. The comprehensive experimental results show that our framework is efficient, accurate and secure.",
+    "citation_count": "21",
+    "year": "2021/06/01",
+    "authors": [
+        {
+            "name": "Abdelrhman Hassan",
+            "country": ""
+        },
+        {
+            "name": "Fei Liu",
+            "country": ""
+        },
+        {
+            "name": "Fanchuan Wang",
+            "country": ""
+        },
+        {
+            "name": "Yong Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

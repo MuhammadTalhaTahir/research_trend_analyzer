@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885619300897",
+    "title": "Interpretable Relative Squeezing bottleneck design for compact convolutional neural networks model",
+    "abstract": "Convolutional neural networks (CNN) are mainly used for image recognition tasks. However, some huge models are infeasible for mobile devices because of limited computing and memory resources. In this paper, feature maps of DenseNet and CondenseNet are visualized. It could be observed that there are some feature channels in locked state and some have similar distribution property, which could be compressed further. Thus, in this work, a novel architecture — RSNet is introduced to improve the computing efficiency of CNNs. This paper proposes Relative-Squeezing (RS) bottleneck design, where the output is the weighted percentage of input channels. Besides, RSNet also contains multiple compression layers and learned group convolutions (LGCs). By eliminating superfluous feature maps, relative squeezing and compression layers only transmit the most significant features to the next layer. Less parameters are employed and much computation is saved. The proposed model is evaluated on three benchmark datasets: CIFAR-10, CIFAR-100 and ImageNet. Experiment results show that RSNet performs better with less parameters and FLOPs, compared to the state-of-the-art baseline, including CondenseNet, MobileNet and ShuffleNet.",
+    "citation_count": "0",
+    "year": "2019/09/01",
+    "authors": [
+        {
+            "name": "Qi Zhao",
+            "country": ""
+        },
+        {
+            "name": "Jiahui Liu",
+            "country": ""
+        },
+        {
+            "name": "Boxue Zhang",
+            "country": ""
+        },
+        {
+            "name": "Shuchang Lyu",
+            "country": ""
+        },
+        {
+            "name": "Nauman Raoof",
+            "country": ""
+        },
+        {
+            "name": "Wenquan Feng",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

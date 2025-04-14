@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124001966",
+    "title": "Timing analysis of processing chains with data refreshing in ROS 2",
+    "abstract": "Robot Operating System (ROS) 2 is currently the most popular framework for robotic software development. Safety-critical robotic software are subject to hard end-to-end timing constraints. A processing chain, composed of an ordered sequence of inter-communicating tasks, is used to describe the sequential steps to complete a certain functionality. Tasks in processing chains communicate via the buffer between them, and the data handling semantics greatly affects end-to-end timing performance. Data refreshing is one of the widely applied data handling semantics. However, limited research has been conducted on the timing performance associated with this type of semantics. This paper presents methods for analyzing the end-to-end timing performance with data refreshing semantics, and formally proves the buffer size configuration to optimize end-to-end latency. Experiments with randomly generated workload and a case study are conducted to evaluate proposed methods.",
+    "citation_count": "0",
+    "year": "2024/10/01",
+    "authors": [
+        {
+            "name": "Yue Tang",
+            "country": ""
+        },
+        {
+            "name": "Xu Jiang",
+            "country": ""
+        },
+        {
+            "name": "Nan Guan",
+            "country": ""
+        },
+        {
+            "name": "Xiantong Luo",
+            "country": ""
+        },
+        {
+            "name": "Maolin Yang",
+            "country": ""
+        },
+        {
+            "name": "Wang Yi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

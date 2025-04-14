@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1026022325876",
+    "title": "RSVP Extensions for Real-Time Services in Hierarchical Mobile IPv6",
+    "abstract": "The Mobile IPv6 (MIPv6) provides many great features, such as sufficient addressing space, mobility, and security; MIPv6 is one of the most important protocols for next generation mobile Internet. Simultaneously, with the rapid improvement of wireless technologies, the real-time multi-media IP services such as video on demand, videoconference, interactive games, IP telephony and video IP phone will be delivered in the near future. Thus, to furnish accurate QoS for real-time services is one of the most important thing in the next generation mobile Internet. Although RSVP, which is a resource reservation protocol, processes signaling messages to establish QoS paths between senders and receivers, RSVP was originally designed for stationary networks and not aware of the mobility of MNs. Therefore, this paper proposes a novel RSVP extension to support real-time services in Hierarchical Mobile IPv6 (HMIPv6) environments. For intra-site mobility, the concept of QoS Agent (QA) is proposed to handle the RSVP QoS update messages and provide the advanced reservation models for real-time services. For inter-site mobility, IP multicast can help to invite inter-site QAs to make pre-reservation and minimize the service disruption caused by re-routing the data path during handover. Simulation results show that the proposed scheme over HMIPv6 is more suitable for real-time services than the famous RSVP tunnel-based solution.",
+    "citation_count": 25,
+    "year": "2003/12",
+    "authors": [
+        {
+            "name": "Huang, Nen-Fu",
+            "country": "R.O.C"
+        },
+        {
+            "name": "Chen, Whai-En",
+            "country": "R.O.C"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

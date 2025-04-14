@@ -1,0 +1,16 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-003-0196-8",
+    "title": "Discriminative features for text document classification",
+    "abstract": "The bag-of-words approach to text document representation typically results in vectors of the order of 5000–20,000 components as the representation of documents. To make effective use of various statistical classifiers, it may be necessary to reduce the dimensionality of this representation. We point out deficiencies in class discrimination of two popular such methods, Latent Semantic Indexing (LSI), and sequential feature selection according to some relevant criterion. As a remedy, we suggest feature transforms based on Linear Discriminant Analysis (LDA). Since LDA requires operating both with large and dense matrices, we propose an efficient intermediate dimension reduction step using either a random transform or LSI. We report good classification results with the combined feature transform on a subset of the Reuters-21578 database. Drastic reduction of the feature vector dimensionality from 5000 to 12 actually improves the classification performance.",
+    "citation_count": 0,
+    "year": "2004/02",
+    "authors": [
+        {
+            "name": "Torkkola, K.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

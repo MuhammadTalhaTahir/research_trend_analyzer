@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762125000219",
+    "title": "Real-time scheduling for multi-object tracking tasks in regions with different criticalities",
+    "abstract": "Autonomous vehicles (AVs) utilize sensors such as LiDAR and cameras to iteratively perform sensing, decision-making, and actions. Multi-object tracking (MOT) systems are employed in the sensing stage of AVs, using these sensors to detect and track objects like pedestrians and vehicles, thereby enhancing situational awareness. These systems must handle regions of varying criticality and dynamically shifting locations, all within limited computing resources. Previous DNN-based MOT approaches primarily focused on tracking accuracy, but timing guarantees are becoming increasingly vital for autonomous driving. Although recent studies have introduced MOT scheduling frameworks with timing guarantees, they are either restricted to single-camera systems or fail to prioritize safety-critical regions in the input images. We propose  CA-MOT , a  C riticality- A ware  MOT  execution and scheduling framework for multiple cameras.  CA-MOT  provides a control knob that balances tracking accuracy in safety-critical regions and timing guarantees. By effectively utilizing this control knob,  CA-MOT  achieves both high accuracy and timing guarantees. We evaluated  CA-MOT ’s performance using a GPU-enabled embedded board commonly employed in AVs, with data from real-world autonomous driving scenarios.",
+    "citation_count": "0",
+    "year": "2025/03/01",
+    "authors": [
+        {
+            "name": "Donghwa Kang",
+            "country": ""
+        },
+        {
+            "name": "Jinkyu Lee",
+            "country": ""
+        },
+        {
+            "name": "Hyeongboo Baek",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

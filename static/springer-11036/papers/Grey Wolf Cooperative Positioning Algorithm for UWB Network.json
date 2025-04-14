@@ -1,0 +1,31 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-022-02026-1",
+    "title": "Grey Wolf Cooperative Positioning Algorithm for UWB Network",
+    "abstract": "The traditional grey wolf (GW) positioning algorithm enjoys a good positioning effect, but its improvement of localization accuracy is limited due to the lack of ranging information between the labels. This paper presents a novel GW cooperative positioning algorithm that can improve the localization accuracy. Firstly, a new notion of fitness is established which takes the ranging information between the labels into account. Then the ranging information from the label to the base station is used to acquire a good initial location of the label, based on the traditional GW positioning algorithm. Finally, the entire ranging information and the acquired initial location are employed to obtain a precise positioning. Simulation results demonstrate that when compared to the traditional GW positioning algorithm, the positioning accuracy of the proposed algorithm shows different improvement effects under different conditions, but the improvement degree is more than 34%.",
+    "citation_count": 22,
+    "year": "2023/12",
+    "authors": [
+        {
+            "name": "Xia, Bin",
+            "country": "China"
+        },
+        {
+            "name": "Zheng, Xianzhi",
+            "country": "China"
+        },
+        {
+            "name": "Xie, Nan",
+            "country": "China"
+        },
+        {
+            "name": "Zhang, Liye",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

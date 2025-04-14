@@ -1,0 +1,54 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762119305107",
+    "title": "Towards fault adaptive routing in metasurface controller networks",
+    "abstract": "HyperSurfaces (HSFs) comprise structurally reconfigurable  metasurfaces  whose  electromagnetic properties  can be changed via a software interface, using an embedded miniaturized network of controllers, enabling novel capabilities in  wireless communications , including 5G applications.  Resource constraints  associated with a hardware  testbed  of this breakthrough technology, currently under development, necessitate an interconnect architecture of a Network of Controllers (CN) that is distinct from, yet reminiscent to, those of conventional Network-on-Chip (NoC) architectures. To meet the purposes of our HSF testbed, we rationalize the construction of an  irregular topology  where its controllers are interconnected in a Manhattan-like geometry, with the flow of control directives conducted in a handshaking mode, and routing operated by an XY-YX algorithm that is agnostic of the CN connectivity, determined following the results of model specification and model checking techniques. With such controllers prone to the appearance of permanent faults, threatening the operation of such HSFs, we propose, develop and evaluate two fault adaptive  routing algorithms  aiming to enhance the successful delivery of packetized control directives to their recipients: (1) Loop Free Algorithm (LFA), and (2) Reliable Delivery Algorithm (RDA) of deterministic and probabilistic variants. LFA and RDA are developed based on utilizing said topology-agnostic XY-YX routing algorithm as a base, along with an appropriate adoption of routing turn rules, to address said HSF CN challenges that deviate from traditional  fault tolerant routing  algorithms seen in NoCs. Experimental evaluation results obtained using a custom developed simulator, show that probabilistic RDA exhibits top performance in terms of successful  packet delivery ratio  and topology coverage, albeit at the expense of a higher path hop count. Pointers in addressing tradeoffs between HSF CN performance and  resource utilization  are also provided.",
+    "citation_count": "17",
+    "year": "2020/06/01",
+    "authors": [
+        {
+            "name": "Dimitrios Kouzapas",
+            "country": ""
+        },
+        {
+            "name": "Constantinos Skitsas",
+            "country": ""
+        },
+        {
+            "name": "Taqwa Saeed",
+            "country": ""
+        },
+        {
+            "name": "Vassos Soteriou",
+            "country": ""
+        },
+        {
+            "name": "Marios Lestas",
+            "country": ""
+        },
+        {
+            "name": "Anna Philippou",
+            "country": ""
+        },
+        {
+            "name": "Sergi Abadal",
+            "country": ""
+        },
+        {
+            "name": "Christos Liaskos",
+            "country": ""
+        },
+        {
+            "name": "Loukas Petrou",
+            "country": ""
+        },
+        {
+            "name": "Julius Georgiou",
+            "country": ""
+        },
+        {
+            "name": "Andreas Pitsillides",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

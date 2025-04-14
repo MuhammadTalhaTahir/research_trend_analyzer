@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762125000372",
+    "title": "Designing secure blockchain-based authentication and key management mechanism for Internet of Drones applications",
+    "abstract": "Due to advancement in Information and Communications Technology (ICT) and Internet of Things (IoT), the Internet of Drones (IoD) can be employed in numerous applications, facilitating the daily lives of diverse users, including civilians and others. Wireless communication nature leads to an IoD environment to be vulnerable to various potential attack risks, such as data breaches, man-in-the-middle, impersonation, replay, and data leaking attacks. As a result, the security of the IoD environment becomes crucial. To safeguard the data and devices (such as IoT-enabled drones and servers) integral to IoD networks, a security solution is essential. It is imperative to implement targeted security measures, such as intrusion detection, access control, and authentication, in order to establish a security scheme that is both reliable and efficient. In this article, we mainly focus on developing a secure authentication and key management scheme that leverages blockchain technology. Most existing authentication techniques proposed in IoT and IoD environments are either inefficient in communication and computation, or they are insecure against various attacks. To mitigate these issues, this study proposes a secure blockchain-based authentication and key management scheme for IoD applications (in short BAKMM-IoD). The blockchain is applied here as a secure data storage purpose. After performing a detailed security analysis and formal security verification with the widely-recognized Scyther tool, the proposed BAKMM-IoD has exhibited resilience against different potential attacks. BAKMM-IoD also surpasses other contemporary existing schemes in terms of security and functionality features, including computational costs, and communication costs. Moreover, the blockchain simulation shows that the influence of the proposed BAKMM-IoD on critical performance metrics in real-world scenarios.",
+    "citation_count": "0",
+    "year": "2025/03/01",
+    "authors": [
+        {
+            "name": "Mohammad Wazid",
+            "country": ""
+        },
+        {
+            "name": "Saksham Mittal",
+            "country": ""
+        },
+        {
+            "name": "Ashok Kumar Das",
+            "country": ""
+        },
+        {
+            "name": "SK Hafizul Islam",
+            "country": ""
+        },
+        {
+            "name": "Mohammed J.F. Alenazi",
+            "country": ""
+        },
+        {
+            "name": "Athanasios V. Vasilakos",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

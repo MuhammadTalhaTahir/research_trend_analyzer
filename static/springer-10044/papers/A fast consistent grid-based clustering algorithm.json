@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-024-01354-0",
+    "title": "A fast consistent grid-based clustering algorithm",
+    "abstract": "We propose a fast consistent grid-based algorithm that estimates the number of clusters for observations in $${{\\mathbb {R}}}^d$$ and, besides, constructs an approximation for the clusters. Consistency is proved under certain conditions. The time complexity of the algorithm can be made linear retaining the consistency. Numerical experiments confirm high computational efficiency of the new algorithm and its ability to process large datasets.",
+    "citation_count": 33,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "Tarasenko, Anton S.",
+            "country": "Russia"
+        },
+        {
+            "name": "Berikov, Vladimir B.",
+            "country": "Russia"
+        },
+        {
+            "name": "Pestunov, Igor A.",
+            "country": "Russia"
+        },
+        {
+            "name": "Rylov, Sergey A.",
+            "country": "Russia"
+        },
+        {
+            "name": "Ruzankin, Pavel S.",
+            "country": "Russia"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

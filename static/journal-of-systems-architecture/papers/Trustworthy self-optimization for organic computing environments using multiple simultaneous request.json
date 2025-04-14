@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762117301388",
+    "title": "Trustworthy self-optimization for organic computing environments using multiple simultaneous requests",
+    "abstract": "Open distributed systems are rapidly getting more and more complex. Therefore, it is essential that such systems will be able to adapt autonomously to changes in their environment. They should be characterized by so-called self-x properties such as self-configuration, self-optimization and self-healing. The autonomous optimization of nodes at runtime in open distributed environments is a crucial part for developing self-optimizing systems. In this paper, we present a self-optimization approach that does not only consider pure load-balancing but also takes into account trust to improve the assignment of important services to trustworthy nodes. Our approach uses different  optimization strategies  to determine whether a service should be transferred to another node or not. The evaluation results showed that the proposed approach is able to balance the workload between nodes nearly optimal. Moreover, it improves significantly the availability of important services, i.e., the achieved availability was no lower than 85% of the maximum theoretical availability value.",
+    "citation_count": "5",
+    "year": "2017/04/01",
+    "authors": [
+        {
+            "name": "Nizar Msadek",
+            "country": ""
+        },
+        {
+            "name": "Theo Ungerer",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

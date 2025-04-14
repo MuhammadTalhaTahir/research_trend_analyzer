@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000394",
+    "title": "Exploring the boundaries of Ada syntax with functional-style iterators",
+    "abstract": "Functional-style iterators are present in many popular languages as a way of processing data in several connected steps, in a safe and readable manner. By contrast, Ada started providing general iterators only with its 2012 revision, in a way not directly intended for sequential composition. This paper presents a functional iterators library design inspired by the standard Rust iterators and the RxAda reactive extensions. This library is used as a  case study  for the limitations in implementing higher-kinded types in current Ada, and how currently proposed extensions for the 202X revision might change the situation.",
+    "citation_count": "1",
+    "year": "2021/06/01",
+    "authors": [
+        {
+            "name": "Alejandro R. Mosteo",
+            "country": ""
+        },
+        {
+            "name": "María-Teresa Lorente",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

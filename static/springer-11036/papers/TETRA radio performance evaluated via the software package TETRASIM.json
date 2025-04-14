@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1019123620969",
+    "title": "TETRA radio performance evaluated via the software package TETRASIM",
+    "abstract": "TETRA (TErrestrial Trunked RAdio) is a digital mobile radio standard for voice and data transmission. It aims at satisfying the growing request of applications and facilities coming from professional users and emergency services. The system has been standardized by ETSI (European Telecommunications Standards Institute) and is provided with an European harmonized frequency band. The first TETRA networks appeared on the market in 1997. This paper reports TETRA radio performance evaluated via a simulation software package, named TETRASIM, entirely developed at CSELT according to TETRA specifications. The simulation results have been obtained for some of the traffic and control channels specified by the standard, in terms of BER (Bit Error Rate) and MER (Message Erasure Rate). As far as the simulated receiver scheme is concerned, the characteristics of the equivalent low-pass filters and the adopted synchronization technique are reported. The simulated demodulator uses a differential detection scheme with soft decision outputs in the case of coded channels. Performance analyses and results comparison are provided by taking into account the effects of signal-to-noise ratio, co-channel interference, adjacent channel interference, propagation models defined in the standard and mobile unit speed. The simulation results reported in this work have been included in the ETR (ETSI Technical Report) “TETRA Designers’ Guide Part 2: Radio and Traffic Performance”.",
+    "citation_count": 6,
+    "year": "2004/04",
+    "authors": [
+        {
+            "name": "Annunziato, Armando",
+            "country": "Italy"
+        },
+        {
+            "name": "Sorbara, Davide",
+            "country": "Italy"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

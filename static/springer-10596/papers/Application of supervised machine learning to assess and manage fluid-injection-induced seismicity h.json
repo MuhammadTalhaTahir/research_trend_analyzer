@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-024-10318-6",
+    "title": "Application of supervised machine learning to assess and manage fluid-injection-induced seismicity hazards based on the Montney region of northeastern British Columbia",
+    "abstract": "One of the key challenges in assessing, managing and mitigating induced-seismicity hazards related to hydraulic fracturing and fluid injection activities is understanding how geological and operational features influence the likelihood and severity of an event. Geological features point to the pre-existing conditions that affect a well’s susceptibility to generating induced seismicity. In contrast, operational features are controllable and can be engineered to mitigate and minimize potential hazards. In recent years, with increased data availability and the rapid development of machine learning techniques, the application of these statistical tools has been proposed to investigate induced seismicity. However, this raises the question of the performance and interpretability of these methods, which requires thorough investigation. This paper presents the results of a detailed study utilizing data for the Montney region of northeastern British Columbia that investigates the robustness of several machine learning algorithms in predicting induced seismicity likelihood and severity and compares the importance of geological and operational features on the triggering and maximum magnitude of these events. The analyses include seismic monitoring, regional geology and well completions data, and the novel use of geophysical well log data to provide a more comprehensive database of geological features.",
+    "citation_count": 43,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "Amini, Afshin",
+            "country": "Canada"
+        },
+        {
+            "name": "Eberhardt, Erik",
+            "country": "Canada"
+        },
+        {
+            "name": "Mehrabifard, Ali",
+            "country": "Canada"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

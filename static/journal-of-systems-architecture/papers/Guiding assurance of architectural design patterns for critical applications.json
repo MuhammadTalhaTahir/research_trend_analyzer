@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S138376212030059X",
+    "title": "Guiding assurance of architectural design patterns for critical applications",
+    "abstract": "Development of critical systems nowadays is hardly achievable without reuse of previous knowledge. Design patterns have an important role in the design of such systems as they define and document common solutions to recurring design problems. However, critical systems such as those that are safety or security related, often require specific assurances that the system is adequate to operate in a given environment. Just as with any other reused knowledge in such systems, the reuse via application of design patterns needs to be assured every time. In this paper, we present a methodology for assuring the application of design patterns in critical domains. In particular, we enrich the design patterns template to support their further assurance. We define the aspects that should be tackled during the assurance of a design pattern application. We use the information specified in the design pattern template to guide the automated instantiation of the argumentation for each design pattern application in the system. We provide tool-support for our methodology in the context of the AMASS tool-platform and evaluate it in an automotive case study.",
+    "citation_count": "0",
+    "year": "2020/11/01",
+    "authors": [
+        {
+            "name": "Irfan Šljivo",
+            "country": ""
+        },
+        {
+            "name": "Garazi Juez Uriagereka",
+            "country": ""
+        },
+        {
+            "name": "Stefano Puri",
+            "country": ""
+        },
+        {
+            "name": "Barbara Gallina",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

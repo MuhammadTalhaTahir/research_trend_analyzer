@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223000056",
+    "title": "Influence of the number of connections between particles in the performance of a multi-objective particle swarm optimizer",
+    "abstract": "Particle Swarm  Optimization (PSO) is a bio-inspired  metaheuristic  that operates on a set of potential solutions (called particles). In PSO, each particle moves throughout the  search space  using the information collected by itself and its neighbors. Experimental studies have shown that the way each particle is connected (the swarm topology) impacts the performance of PSO both for single- and multi-objective problems. Several experimental analyses have shown that the number of connections among particles directly relates to the behavior of single-objective PSO. However, few studies exist about this relationship in Multi-Objective Particle  Swarm  Optimizers (MOPSOs). Furthermore, the existing studies are limited to two-objective problems or do not use specific topologies to control the number of connections among particles. This work analyzes the influence on the number of connections among particles in a MOPSO using random regular graphs as the swarm topology in many-objective problems. In order to undertake this analysis, we modified a variation of the Speed-constrained Multi-objective Particle Swarm Optimizer that can handle swarm topologies to make it more sensitive to its topology. Then, we analyzed its performance using regular graphs of different degrees. Our experimental results show that, in various problems, a higher connection degree produces instability in the algorithms. Moreover, our analysis also indicates that MOPSOs have a similar behavior if they have a swarm topology with the same connection degree.",
+    "citation_count": "8",
+    "year": "2023/03/01",
+    "authors": [
+        {
+            "name": "Diana Cristina Valencia-Rodríguez",
+            "country": ""
+        },
+        {
+            "name": "Carlos A. Coello Coello",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

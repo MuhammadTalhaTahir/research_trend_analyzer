@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S138376212100151X",
+    "title": "An open source framework based on Kafka-ML for Distributed DNN inference over the Cloud-to-Things continuum",
+    "abstract": "The current dependency of Artificial Intelligence (AI) systems on Cloud computing implies higher transmission latency and bandwidth consumption. Moreover, it challenges the real-time monitoring of physical objects, e.g., the Internet of Things (IoT). Edge systems bring computing closer to end devices and support time-sensitive applications. However, Edge systems struggle with state-of-the-art Deep Neural Networks (DNN) due to computational resource limitations. This paper proposes a technology framework that combines the Edge-Cloud architecture concept with BranchyNet advantages to support fault-tolerant and low-latency AI predictions. The implementation and evaluation of this framework allow assessing the benefits of running Distributed DNN (DDNN) in the Cloud-to-Things continuum. Compared to a Cloud-only deployment, the results obtained show an improvement of 45.34% in the response time. Furthermore, this proposal presents an extension for Kafka-ML that reduces rigidness over the Cloud-to-Things continuum managing and deploying DDNN.",
+    "citation_count": "0",
+    "year": "2021/09/01",
+    "authors": [
+        {
+            "name": "Daniel R. Torres",
+            "country": ""
+        },
+        {
+            "name": "Cristian Martín",
+            "country": ""
+        },
+        {
+            "name": "Bartolomé Rubio",
+            "country": ""
+        },
+        {
+            "name": "Manuel Díaz",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959517302886",
+    "title": "Vision based rail track extraction and monitoring through drone imagery",
+    "abstract": "Track detection and gauge measurement are considered as crucial aspects of railway inspection systems. Traditionally, monitoring by human inspectors was done. Nowadays, computer vision-based systems are used due to their flexibility and ease of use. In recent years, various prototypes of vision based inspection system have been proposed, most have a camera mounted on carts or trains. Employing drones for such monitoring systems provides a cost effective and accurate means for monitoring tracks. This paper explores the possibilities of computer vision based monitoring through drone imagery. The experimental results ensure that the proposed method provides high reliability and accuracy.",
+    "citation_count": "0",
+    "year": "2019/12/01",
+    "authors": [
+        {
+            "name": "Arun Kumar Singh",
+            "country": ""
+        },
+        {
+            "name": "Anushka Swarup",
+            "country": ""
+        },
+        {
+            "name": "Ankush Agarwal",
+            "country": ""
+        },
+        {
+            "name": "Dharmendra Singh",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624004360",
+    "title": "Point cloud segmentation neural network with same-type point cloud assistance",
+    "abstract": "This paper proposes neural network architectures for point cloud segmentation, which leverage prior knowledge derived from same-type point clouds. The approach involves concurrent processing of two point clouds: a target point cloud necessitating segmentation and a labeled same-type point cloud. The labeled point cloud provides preliminary labeling information, assisting in segmenting the target point cloud. A feature combination module is proposed to identify and combine corresponding features across the point clouds. The module augments the feature representation of the target cloud and improves its capacity for object discrimination. Experiments on the ShapeNetPart and S3DIS datasets demonstrate that when integrated into classical network architectures, the proposed approach can achieve improved segmentation performance over the corresponding networks, significantly in some of them.",
+    "citation_count": "0",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Jingxin Lin",
+            "country": ""
+        },
+        {
+            "name": "Kaifan Zhong",
+            "country": ""
+        },
+        {
+            "name": "Tao Gong",
+            "country": ""
+        },
+        {
+            "name": "Xianmin Zhang",
+            "country": ""
+        },
+        {
+            "name": "Nianfeng Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

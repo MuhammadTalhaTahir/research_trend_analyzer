@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-015-9834-5",
+    "title": "Heuristics for the network design problem with connectivity requirements",
+    "abstract": "We consider the NP-complete problem of finding a spanning $$k$$ -tree of minimum weight in a complete weighted graph. This problem has a number of applications in designing reliable backbone telecommunication networks. We propose effective algorithms based on a greedy strategy and several variable neighborhood search metaheuristics. We also develop an integer linear programming model for calculating a lower bound. Preliminary numerical experiments using random and real-word data sets are reported to show the effectiveness of our approach. In addition, we compare our approach with known metaheuristics.",
+    "citation_count": 33,
+    "year": "2016/05",
+    "authors": [
+        {
+            "name": "Shangin, Roman E.",
+            "country": "Russia"
+        },
+        {
+            "name": "Pardalos, Panos",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

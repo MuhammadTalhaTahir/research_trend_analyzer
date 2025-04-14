@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-013-0466-7",
+    "title": "Application of Cognitive Techniques to Adaptive Routing for VANETs in City Environments",
+    "abstract": "The evolution of smart vehicles has widened the application opportunities for vehicular ad hoc networks. In this context, the routing issue is still one of the main challenges regarding to the performance of the network. Although there are multiple ad hoc routing proposals, the traditional general-purpose approaches do not fit the distinctive properties of vehicular network environments. New routing strategies must complement the existing protocols to improve their performance in vehicular scenarios. This paper introduces a novel intelligent routing technique that makes decisions in order to adaptively adjust its operation and obtain a global benefit. The nodes sense the network locally and collect information to feed the cognitive module which will select the best routing strategy, without the need of additional protocol message dissemination or convergence mechanism.",
+    "citation_count": 19,
+    "year": "2013/12",
+    "authors": [
+        {
+            "name": "Blanco, Bego",
+            "country": "Spain"
+        },
+        {
+            "name": "Liberal, Fidel",
+            "country": "Spain"
+        },
+        {
+            "name": "Aguirregoitia, Amaia",
+            "country": "Spain"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

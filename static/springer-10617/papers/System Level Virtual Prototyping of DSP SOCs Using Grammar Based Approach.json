@@ -1,0 +1,38 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1008906302979",
+    "title": "System Level Virtual Prototyping of DSP SOCs Using Grammar Based Approach",
+    "abstract": "As we move from algorithm on a chip to system on a chip era, the design bottleneck is shifting from individual DSP functions to global control that composes a system from these functions. The practice in industry suffers from global control entering the design flow too late, discontinuity between functional modeling and implementation phase and mixing data flow with global control. MASIC—Maths to ASIC—is a methodology proposed in this paper that targets DSP SOCs and addresses these issues. Global control is specified in a grammar notation and integrates the output of functional modeling phase, the DSP functions, by referencing them. A virtual prototype is automatically built from such a specification that models the global control in VHDL and cosimulates with the DSP functions in C from the functional modeling phase. A highly efficient verification methodology based on separating the verification of global control from DSP functions is proposed. A smooth path to cycle true implementation is possible using either behavioral synthesis, IPs for the DSP functions or manual implementation. Experiments using realistic examples like GSM base band processing, rake receiver and some smaller examples have been carried out to quantify the benefits of MASIC.",
+    "citation_count": 16,
+    "year": "2000/08",
+    "authors": [
+        {
+            "name": "Hemani, Ahmed",
+            "country": "Sweden"
+        },
+        {
+            "name": "Deb, Abhijit Kumar",
+            "country": "Sweden"
+        },
+        {
+            "name": "Oberg, Johnny",
+            "country": "Sweden"
+        },
+        {
+            "name": "Postula, Adam",
+            "country": "Australia"
+        },
+        {
+            "name": "Lindqvist, Dan",
+            "country": "Sweden"
+        },
+        {
+            "name": "Fjellborg, Bjorn",
+            "country": "Sweden"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

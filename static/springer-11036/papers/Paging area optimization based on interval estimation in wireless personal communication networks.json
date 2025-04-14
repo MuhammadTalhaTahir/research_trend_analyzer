@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1019135923695",
+    "title": "Paging area optimization based on interval estimation in wireless personal communication networks",
+    "abstract": "We consider an optimum personal paging area configuration problem to improve the paging efficiency in PCS/cellular mobile networks. The approach is to set up the boundaries of a one-step paging area that contain the locations of a mobile user with a high probability and to adjust the boundaries to gain a coverage that is matched to the mobile user's time-varying mobility pattern. We formulate the problem as an interval estimation problem. The objective is to reduce the paging signaling cost by minimizing the size of the paging area constrained to certain confidence measure (probability of locating the user), based on a finite number of available location observations of the mobile user. Modeling user mobility as a Brownian motion with the drift stochastic process and by estimating the parameters of the location probability distribution of the mobility process, the effects of the mobility characteristics and the system design parameters on the optimum paging area are investigated. Results show: (1) the optimum paging area expands with the time elapsed after the last known location of the user; (2) it also increases with the length of a prediction interval and the location probability; (3) the relative change in the paging area size decreases with the increase in the number of location observations.",
+    "citation_count": 22,
+    "year": "2004/04",
+    "authors": [
+        {
+            "name": "Lei, Zhuyu",
+            "country": "USA"
+        },
+        {
+            "name": "Saraydar, Cem U.",
+            "country": "USA"
+        },
+        {
+            "name": "Mandayam, Narayan B.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

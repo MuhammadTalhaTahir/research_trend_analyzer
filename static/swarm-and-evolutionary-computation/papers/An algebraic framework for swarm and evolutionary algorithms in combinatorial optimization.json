@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650219301099",
+    "title": "An algebraic framework for swarm and evolutionary algorithms in combinatorial optimization",
+    "abstract": "A popular trend in evolutionary computation is to adapt numerical algorithms to  combinatorial optimization problems . For instance, this is the case of a variety of  Particle Swarm Optimization  and Differential Evolution implementations for both binary and permutation-based  optimization problems . In this paper, after highlighting the main drawbacks of the approaches in literature, we provide an algebraic framework which allows to derive fully discrete variants of a large class of numerical  evolutionary algorithms  to tackle many  combinatorial problems . The strong mathematical foundations upon which the framework is built allow to redefine numerical  evolutionary operators  in such a way that their original movements in the continuous space are simulated in the  discrete space . Algebraic implementations of Differential Evolution and  Particle Swarm Optimization  are then proposed. Experiments have been held to compare the algebraic algorithms to the most popular schemes in literature and to the state-of-the-art results for the tackled problems. Experimental results clearly show that algebraic algorithms outperform the competitors and are competitive with the state-of-the-art results.",
+    "citation_count": "31",
+    "year": "2020/06/01",
+    "authors": [
+        {
+            "name": "Valentino Santucci",
+            "country": ""
+        },
+        {
+            "name": "Marco Baioletti",
+            "country": ""
+        },
+        {
+            "name": "Alfredo Milani",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

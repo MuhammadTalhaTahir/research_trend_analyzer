@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-012-0314-6",
+    "title": "Modelling and predicting news popularity",
+    "abstract": "We explore the problem of learning to predict the popularity of an article in online news media. By “popular” we mean an article that was among the “most read” articles of a given day in the news outlet that published it. We show that this cannot be modelled simply as the binary classification task of separating popular from unpopular articles, thereby assuming that popularity is an absolute property. Instead, we propose to view popularity in the perspective of a competitive situation where the popular articles are those which were the most appealing on that particular day. This leads to the notion of an “appeal” function, to model which we use a linear function in the bag of words representation. The parameters of this linear function are learnt from a training set formed by pairs of documents, one of which was popular and the other which appeared on the same page and date, without becoming popular. To learn the appeal function we use Ranking Support Vector Machines, using data collected from six different outlets over a period of 1&nbsp;year. We show that our method can predict which articles will become popular, as well as extracting those keywords that mostly affect the appeal function. This also enables us to compare different outlets from the point of view of their readers’ preference patterns. Remarkably, this is achieved using very limited information, namely the textual content of title and description of each article, the page and date of publication, and whether it became popular.",
+    "citation_count": 45,
+    "year": "2013/11",
+    "authors": [
+        {
+            "name": "Hensinger, Elena",
+            "country": "UK"
+        },
+        {
+            "name": "Flaounas, Ilias",
+            "country": "UK"
+        },
+        {
+            "name": "Cristianini, Nello",
+            "country": "UK"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

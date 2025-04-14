@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650221000882",
+    "title": "Memetic search for vehicle routing with simultaneous pickup-delivery and time windows",
+    "abstract": "The  Vehicle Routing Problem  with Simultaneous Pickup-Delivery and Time Windows (VRPSPDTW) has attracted much research interest in the last decade, due to its wide application in modern logistics. Since VRPSPDTW is NP-hard and exact methods are only applicable to small-scale instances, heuristics and meta-heuristics are commonly adopted. In this paper we propose a novel  M emetic   A lgorithm with efficien T  local search and  E xtended neighborhood, dubbed MATE, to solve this problem. Compared to existing algorithms, the advantages of MATE lie in two aspects. First, it is capable of more effectively exploring the  search space , due to its novel  initialization procedure , crossover and large-step-size operators. Second, it is also more efficient in local exploitation, due to its sophisticated constant-time-complexity move evaluation mechanism. Experimental results on public benchmarks show that MATE outperforms all the state-of-the-art algorithms, and notably, finds new best-known solutions on 12 instances (65 instances in total). Moreover, a comprehensive ablation study is also conducted to show the effectiveness of the novel components integrated in MATE. Finally, a new benchmark of large-scale instances, derived from a real-world application of the JD logistics, is introduced, which can serve as a new and more challenging test set for future research.",
+    "citation_count": "48",
+    "year": "2021/10/01",
+    "authors": [
+        {
+            "name": "Shengcai Liu",
+            "country": ""
+        },
+        {
+            "name": "Ke Tang",
+            "country": ""
+        },
+        {
+            "name": "Xin Yao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

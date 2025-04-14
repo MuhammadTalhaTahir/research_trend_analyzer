@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623002147",
+    "title": "Multi-modal spatial relational attention networks for visual question answering",
+    "abstract": "Visual Question Answering  (VQA) is a task that requires VQA model to fully understand the visual information of the image and the language information of the question, and then combine both to provide an answer. Recently, a large amount of VQA approaches focus on modeling intra- and inter-modal interactions with respect to vision and language using a deep modular co-attention network, which can achieve a  good performance . Despite their benefits, they also have their limitations. First, the question representation is obtained through Glove  word embeddings  and  Recurrent Neural Network , which may not be sufficient to capture the intricate semantics of the question features. Second, they mostly use visual appearance features extracted by Faster R-CNN to interact with  language features , and they ignore important  spatial relations  between objects in images, resulting in incomplete use of  image information . To overcome the limitations of previous methods, we propose a novel Multi-modal Spatial Relation Attention Network (MSRAN) for VQA, which can introduce spatial relationships between objects to fully utilize the image information, thus improving the performance of VQA. In order to achieve the above, we design two types of spatial relational attention modules to comprehensively explore the attention schemes: (i) Self-Attention based on Explicit Spatial Relation (SA-ESR) module that explores geometric relationships between objects explicitly; and (ii) Self-Attention based on Implicit Spatial Relation (SA-ISR) module that can capture the hidden dynamic relationships between objects by using spatial relationship. Moreover, the pre-training model  BERT , which replaces Glove  word embeddings  and Recurrent  Neural Network , is applied to MSRAN in order to obtain the better question representation. Extensive experiments on two large benchmark datasets, VQA 2.0 and GQA, demonstrate that our proposed model achieves the state-of-the-art performance.",
+    "citation_count": "7",
+    "year": "2023/12/01",
+    "authors": [
+        {
+            "name": "Haibo Yao",
+            "country": ""
+        },
+        {
+            "name": "Lipeng Wang",
+            "country": ""
+        },
+        {
+            "name": "Chengtao Cai",
+            "country": ""
+        },
+        {
+            "name": "Yuxin Sun",
+            "country": ""
+        },
+        {
+            "name": "Zhi Zhang",
+            "country": ""
+        },
+        {
+            "name": "Yongkang Luo",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

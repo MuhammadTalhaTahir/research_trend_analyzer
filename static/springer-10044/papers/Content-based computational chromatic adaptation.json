@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-018-0685-4",
+    "title": "Content-based computational chromatic adaptation",
+    "abstract": "Chromatic adaptation is needed to accurately reproduce the color appearance of an image. Imaging systems have to apply a transform which converts a color of an image captured under an input illuminant to another output illuminant. This transform is called chromatic adaptation transform (CAT). Different CATs have been proposed in the literature such as von Kries, Bradford, and Sharp; both consider the adjustment of all the image spatial contents (edges, texture, and homogeneous area) in the same way. Our intuition is that CATs behave differently on the image spatial content. To verify that, we prospect to study the well-known CATs influence on the image spatial content, according to some objective criteria. Based on observations we made, new CATs are derived considering the image spatial content. To achieve that, suitable requirements for CAT are revised and rewritten in a variational formalism. Encouraging results are obtained while comparing the proposed CATs to well-known ones.",
+    "citation_count": 30,
+    "year": "2018/11",
+    "authors": [
+        {
+            "name": "Kerouh, F.",
+            "country": "Canada"
+        },
+        {
+            "name": "Ziou, D.",
+            "country": "Algeria"
+        },
+        {
+            "name": "Lahmar, K. N.",
+            "country": "Canada"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

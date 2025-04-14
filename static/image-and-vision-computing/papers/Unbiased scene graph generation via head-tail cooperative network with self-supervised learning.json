@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003883",
+    "title": "Unbiased scene graph generation via head-tail cooperative network with self-supervised learning",
+    "abstract": "Scene Graph Generation (SGG) as a critical task in image understanding, facing the challenge of head-biased prediction caused by the long-tail distribution of predicates. However, current debiased SGG methods can easily prioritize improving the prediction of tail predicates while ignoring the substantial sacrifice of head predicates, leading to a shift from head bias to tail bias. To address this issue, we propose a Head-Tail Cooperative network with self-supervised Learning (HTCL), which achieves unbiased SGG by cooperating head-prefer and tail-prefer predictions through learnable weight parameters. HTCL employs a tail-prefer feature encoder to re-represent predicate features by injecting self-supervised learning, which focuses on the intrinsic structure of features, into the supervised learning of SGG, constraining the representation of predicate features to enhance the distinguishability of tail samples. We demonstrate the effectiveness of our HTCL by applying it to VG150, Open Images V6 and GQA200 datasets. The results show that HTCL achieves higher mean Recall with a minimal sacrifice in Recall and achieves a new state-of-the-art overall performance. Our code is available at  https://github.com/wanglei0618/HTCL .",
+    "citation_count": "0",
+    "year": "2024/11/01",
+    "authors": [
+        {
+            "name": "Lei Wang",
+            "country": ""
+        },
+        {
+            "name": "Zejian Yuan",
+            "country": ""
+        },
+        {
+            "name": "Yao Lu",
+            "country": ""
+        },
+        {
+            "name": "Badong Chen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

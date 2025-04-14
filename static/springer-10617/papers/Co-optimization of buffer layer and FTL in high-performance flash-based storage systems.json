@@ -1,0 +1,34 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10617-010-9066-y",
+    "title": "Co-optimization of buffer layer and FTL in high-performance flash-based storage systems",
+    "abstract": "NAND flash-based storage devices have rapidly improved their position in the secondary storage market ranging from mobile embedded systems to personal computer and enterprise storage systems. Recently, the most important issue of NAND flash-based storage systems is the performance of random writes as well as sequential writes, which strongly depends on their two main software layers: a Buffer Management Layer (BML) and a Flash Translation Layer (FTL). The primary goal of our study is to highly improve the overall performance of NAND flash-based storage systems by exploiting the cooperation between those two layers. In this paper, we propose an FTL-aware BML policy called Selective Block Padding and a BML-based FTL algorithm called Optimized Switch Merge, which overcome the limitations of existing approaches on performance enhancement. When using both the proposed techniques, evaluation results show that the throughput is significantly increased over that of previous studies.",
+    "citation_count": 32,
+    "year": "2010/12",
+    "authors": [
+        {
+            "name": "Shim, Hyotaek",
+            "country": "Republic of Korea"
+        },
+        {
+            "name": "Jung, Dawoon",
+            "country": "Republic of Korea"
+        },
+        {
+            "name": "Kim, Jaegeuk",
+            "country": "Republic of Korea"
+        },
+        {
+            "name": "Kim, Jin-Soo",
+            "country": "Republic of Korea"
+        },
+        {
+            "name": "Maeng, Seungryoul",
+            "country": "Republic of Korea"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

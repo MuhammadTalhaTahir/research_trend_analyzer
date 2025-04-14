@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-018-0680-9",
+    "title": "Gene clustering with hidden Markov model optimized by PSO algorithm",
+    "abstract": "Gene clustering is one of the most important problems in bioinformatics. In the sequential data clustering, hidden Markov models (HMMs) have been widely used to find similarity between sequences, due to their capability of handling sequence patterns with various lengths. In this paper, a novel gene clustering scheme based on HMMs optimized by particle swarm optimization algorithm is introduced. In this approach, each gene sequence is described by a specific HMM, and then for each model, its probability to generate individual sequence is evaluated. A hierarchical clustering algorithm based on a new definition of a distance measure has been applied to find the best clusters. Experiments carried out on lung cancer-related genes dataset show that the proposed approach can be successfully utilized for gene clustering.",
+    "citation_count": 20,
+    "year": "2018/11",
+    "authors": [
+        {
+            "name": "Soruri, Mohammad",
+            "country": "Iran"
+        },
+        {
+            "name": "Sadri, Javad",
+            "country": "Iran"
+        },
+        {
+            "name": "Zahiri, S. Hamid",
+            "country": "Canada"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

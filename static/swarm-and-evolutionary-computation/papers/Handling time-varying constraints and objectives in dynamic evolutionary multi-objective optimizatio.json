@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217302717",
+    "title": "Handling time-varying constraints and objectives in dynamic evolutionary multi-objective optimization",
+    "abstract": "Recently, several researchers within the evolutionary and swarm computing community have been interested in solving dynamic multi-objective problems where the objective functions, the problem's parameters, and/or the constraints may change over time. According to the related literature, most works have focused on the dynamicity of objective functions, which is insufficient since also constraints may change over time along with the objectives. For instance, a  feasible solution  could become infeasible after a change occurrence, and vice versa. Besides, a non-dominated solution may become dominated, and vice versa. Motivated by these observations, we devote this paper to focus on the dynamicity of both: (1) problem's constraints and (2) objective functions. To achieve our goal, we propose a new self-adaptive penalty function and a new feasibility driven strategy that are embedded within the NSGA-II and that are applied whenever a change is detected. The feasibility driven strategy is able to guide the search towards the new feasible directions according to the environment changes. The empirical results have shown that our proposal is able to handle various challenges raised by the problematic of dynamic constrained multi-objective optimization. Moreover, we have compared our new dynamic constrained NSGA-II version, denoted as DC-MOEA, against two existent dynamic constrained  evolutionary algorithms . The obtained results have demonstrated the competitiveness and the superiority of our algorithm on both aspects of convergence and diversity.",
+    "citation_count": "41",
+    "year": "2018/04/01",
+    "authors": [
+        {
+            "name": "Radhia Azzouz",
+            "country": ""
+        },
+        {
+            "name": "Slim Bechikh",
+            "country": ""
+        },
+        {
+            "name": "Lamjed Ben Said",
+            "country": ""
+        },
+        {
+            "name": "Walid Trabelsi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

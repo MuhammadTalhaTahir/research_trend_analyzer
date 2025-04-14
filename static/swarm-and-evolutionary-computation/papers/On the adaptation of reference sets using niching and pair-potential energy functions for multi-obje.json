@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223001815",
+    "title": "On the adaptation of reference sets using niching and pair-potential energy functions for multi-objective optimization",
+    "abstract": "Multi-objective  evolutionary algorithms  (MOEAs) have shown a good capability to approximate the  Pareto front  (PF) of complex multi-objective optimization problems (MOPs). Recently, several decomposition-based, indicator-based, and reference set-based MOEAs have been proposed to tackle MOPs with four or more objective functions, known as many-objective optimization problems (MaOPs). Some well-known MOEAs from these design strategies use a predefined reference set generated with uniformly distributed  weight vectors  on a unit simplex. These MOEAs have demonstrated good convergence, coverage, and uniformity of solutions on MOPs with regular PF shapes, i.e., simplex-like shapes. However, it has been shown that their performance degrades on MOPs with irregular PF shapes. In this paper, we proposed a pluggable reference set adaptation method based on niching and pair-potential energy functions (PPFs), called Ada K , to enhance the performance of these MOEAs on MOPs with irregular PF shapes while maintaining their good behavior on MOPs with regular PF shapes. Our adaptation method was validated by plugging it into three well-known MOEAs that use a predefined weight vector-based reference set. We perform an empirical study using different PPFs for our adaptation method on the DTLZ, WFG, Minus-DTLZ, Minus-WFG, IMOP, and VNT test suites. Our experimental results show the capability of our adaptation method to promote an invariant performance regardless of the PF shape. Additionally, we show that MOEAs with our adaptation method have a competitive performance against state-of-the-art MOEAs.",
+    "citation_count": "4",
+    "year": "2023/12/01",
+    "authors": [
+        {
+            "name": "Luis A. Márquez-Vega",
+            "country": ""
+        },
+        {
+            "name": "Jesús Guillermo Falcón-Cardona",
+            "country": ""
+        },
+        {
+            "name": "Edgar Covantes Osuna",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

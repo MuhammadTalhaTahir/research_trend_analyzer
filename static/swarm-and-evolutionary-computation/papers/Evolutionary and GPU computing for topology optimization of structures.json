@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650216302036",
+    "title": "Evolutionary and GPU computing for topology optimization of structures",
+    "abstract": "Although  structural topology optimization , as a discrete optimization problem, has been successfully solved several times in the literature using evolutionary algorithms (EAs), the two key difficulties lie in generating geometrically feasible structures and handling a high computation time. These two challenges are addressed in this paper by adopting triangular representation for two-dimensional continuum structures, related crossover and  mutation operators , and by performing computations in parallel on the  graphics processing unit  (GPU). Two  case studies  are solved on the GPU that show 5× of speedup over CPU implementation. The  parametric study  on the  population size  of EA shows that the approximate Pareto-optimal solutions can be evolved using a small population with the proposed EA operators.",
+    "citation_count": "28",
+    "year": "2017/08/01",
+    "authors": [
+        {
+            "name": "Laxman Ram",
+            "country": ""
+        },
+        {
+            "name": "Deepak Sharma",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

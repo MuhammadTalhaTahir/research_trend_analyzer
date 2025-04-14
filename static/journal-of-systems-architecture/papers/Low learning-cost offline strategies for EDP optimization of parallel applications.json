@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762120302101",
+    "title": "Low learning-cost offline strategies for EDP optimization of parallel applications",
+    "abstract": "Many parallel applications do not scale with the number of threads. Several online and offline strategies have been proposed in order to optimize this number. While the former strategy can capture some behaviors that can only be known at runtime, the latter do not impose any execution overhead and can use more complex and efficient algorithms. However, the learning algorithm in these offline strategies may take several hours, precluding their use or a smooth portability across different systems. In this scenario, we propose a methodology to decrease the learning time of offline strategies by inferring the execution behavior of parallel applications using smaller input sets than the ones used by the target applications. It implements two search strategies: SEA, where all parallel regions of an application run with the same number of threads; and SPRA, which seeks to find an ideal number of threads for each parallel region of a given application. With an extensive set of experiments, we show that SEA and SPRA strategies converge to results close to an offline approach applied over the regular input, but being 88% and 87% faster, on average, respectively. We also show that SPRA is better than SEA for unbalanced applications.",
+    "citation_count": "3",
+    "year": "2021/03/01",
+    "authors": [
+        {
+            "name": "Gustavo Paim Berned",
+            "country": ""
+        },
+        {
+            "name": "Fábio D. Rossi",
+            "country": ""
+        },
+        {
+            "name": "Marcelo C. Luizelli",
+            "country": ""
+        },
+        {
+            "name": "Samuel Xavier de Souza",
+            "country": ""
+        },
+        {
+            "name": "Antonio Carlos S. Beck",
+            "country": ""
+        },
+        {
+            "name": "Arthur F. Lorenzon",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

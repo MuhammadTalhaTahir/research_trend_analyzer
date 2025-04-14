@@ -1,0 +1,46 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218309908",
+    "title": "Analysis and multi-objective optimization of a kind of teaching manipulator",
+    "abstract": "Designing and setting manipulator trajectories in a programming system can be a tedious and time-consuming task for manufacturers. In this paper, one kind of six degree-of-freedom (DOF) teaching manipulator is designed and developed for conveniently setting and recording trajectories for industrial robots. A constrained multi-objective optimization problem is formulated to optimize the design of the teaching manipulator. Two performance indexes, i.e. the magnitude of the peak operating force and difference between the maximum and minimum magnitude of operating forces are adopted as the objectives. Two PPS-based (push and pull search) algorithms, including PPS-MOEA/D and PPS-M2M, are suggested to solve the formulated CMOP. Several state-of-the-art CMOEAs, including MOEA/D-ACDP, MOEA/D-CDP, NSGA-II-CDP and CM2M, are also tested. The experimental results indicate that PPS-MOEA/D has the best performance among the six compared algorithms, and the PPS-based methods as a group outperform their counterparts without adopting the PPS framework, which demonstrates the superiority of the PPS framework for solving real-world optimization problems.",
+    "citation_count": "8",
+    "year": "2019/11/01",
+    "authors": [
+        {
+            "name": "Zhun Fan",
+            "country": ""
+        },
+        {
+            "name": "Yugen You",
+            "country": ""
+        },
+        {
+            "name": "Xinye Cai",
+            "country": ""
+        },
+        {
+            "name": "Haodong Zheng",
+            "country": ""
+        },
+        {
+            "name": "Guijie Zhu",
+            "country": ""
+        },
+        {
+            "name": "Wenji Li",
+            "country": ""
+        },
+        {
+            "name": "Akhil Garg",
+            "country": ""
+        },
+        {
+            "name": "Kalyanmoy Deb",
+            "country": ""
+        },
+        {
+            "name": "Erik Goodman",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

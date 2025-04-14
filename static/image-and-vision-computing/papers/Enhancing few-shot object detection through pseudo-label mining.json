@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624004840",
+    "title": "Enhancing few-shot object detection through pseudo-label mining",
+    "abstract": "Few-shot object detection involves adapting an existing detector to a set of unseen categories with few annotated examples. This data limitation makes these methods to underperform those trained on large labeled datasets. In many scenarios, there is a high amount of unlabeled data that is never exploited. Thus, we propose to e xPAND  the initial novel set by mining pseudo-labels. From a raw set of detections, xPAND obtains reliable pseudo-labels suitable for training any detector. To this end, we propose two new modules: Class and Box confirmation. Class Confirmation aims to remove misclassified pseudo-labels by comparing candidates with expected class prototypes. Box Confirmation estimates IoU to discard inadequately framed objects. Experimental results demonstrate that xPAND enhances the performance of multiple detectors up to +5.9 nAP and +16.4 nAP50 points for MS-COCO and PASCAL VOC, respectively, establishing a new state of the art. Code:  https://github.com/PAGF188/xPAND .",
+    "citation_count": "0",
+    "year": "2025/02/01",
+    "authors": [
+        {
+            "name": "Pablo Garcia-Fernandez",
+            "country": ""
+        },
+        {
+            "name": "Daniel Cores",
+            "country": ""
+        },
+        {
+            "name": "Manuel Mucientes",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

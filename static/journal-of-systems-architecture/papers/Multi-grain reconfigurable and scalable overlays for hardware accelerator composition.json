@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002083",
+    "title": "Multi-grain reconfigurable and scalable overlays for hardware accelerator composition",
+    "abstract": "In this paper, the reconfigurable nature of SRAM-based FPGAs is exploited to build a dynamically multi-grain reconfigurable and scalable overlay architecture. The composition of the overlay can be reconfigured on the fly to map applications with different requirements, change the size of the overlay to free up resources for other accelerators, or to deal with run-time variable computation demands. The overlay has been implemented by combining two different dynamic partial reconfiguration granularities. First, medium grain is used to compose the overlay by stitching together different processing elements, while fine grain reconfiguration is used to map applications onto the overlay by configuring the interconnections of the processing elements. The overlay has been coupled with a multiport memory and integrated into a System-on-Chip (SoC). Finally, a fully automated toolchain is proposed to transform code segments with one or two nested loops into the appropriate overlay configuration and the required control routines, enabling the transparent offloading of the computing-intensive parts of the application from the embedded SoC processor to hardware. The proposed overlay has been implemented in a Xilinx Zynq-7000 device and tested using the benchmark proposed in the CGRA-ME framework, obtaining up to 2 ×  speed-up.",
+    "citation_count": "0",
+    "year": "2021/12/01",
+    "authors": [
+        {
+            "name": "Rafael Zamacola",
+            "country": ""
+        },
+        {
+            "name": "Andrés Otero",
+            "country": ""
+        },
+        {
+            "name": "Eduardo de la Torre",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

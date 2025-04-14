@@ -1,0 +1,35 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-010-0269-z",
+    "title": "A Genetic Algorithm Approach to Multi-Agent Itinerary Planning in Wireless Sensor Networks",
+    "abstract": "It has been shown recently that using Mobile Agents (MAs) in wireless sensor networks (WSNs) can help to achieve the flexibility of over-the-air software deployment on demand. In MA-based WSNs, it is crucial to find out an optimal itinerary for an MA to perform data collection from multiple distributed sensors. However, using a single MA brings up the shortcomings such as large latency, inefficient route, and unbalanced resource (e.g. energy) consumption. Then a novel genetic algorithm based multi-agent itinerary planning (GA-MIP) scheme is proposed to address these drawbacks. The extensive simulation experiments show that GA-MIP performs better than the prior single agent algorithms in terms of the product of delay and energy consumption.",
+    "citation_count": 16,
+    "year": "2011/12",
+    "authors": [
+        {
+            "name": "Cai, Wei",
+            "country": "Korea"
+        },
+        {
+            "name": "Chen, Min",
+            "country": "Korea"
+        },
+        {
+            "name": "Hara, Takahiro",
+            "country": "Japan"
+        },
+        {
+            "name": "Shu, Lei",
+            "country": "Japan"
+        },
+        {
+            "name": "Kwon, Taekyoung",
+            "country": "Korea"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

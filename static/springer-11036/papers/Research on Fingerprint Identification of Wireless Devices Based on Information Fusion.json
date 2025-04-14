@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-020-01613-4",
+    "title": "Research on Fingerprint Identification of Wireless Devices Based on Information Fusion",
+    "abstract": "With the rapid development of wireless devices in recent years, the hardware tolerance of wireless devices has gradually become narrowed. Traditional radio frequency fingerprint(RF fingerprint) recognition methods are usually used based on single signal features, which will fail to characterize the subtle differences of wireless devices. Therefore, aiming at the shortcomings of traditional radio frequency fingerprint recognition methods, a multi-segment fusion recognition model is proposed based on D-S evidence theory. The fusion features of time-domain RF-DNA and high-order spectral features are used to obtain more accurate radio frequency fingerprint features. Simulation experiments show that the fusion method can significantly improve the recognition performance of traditional fingerprint recognition methods. When the SNR is higher than 5&nbsp;dB, with the increasing number of signal fusion segment, the recognition rate of the proposed model will be higher than 99%, which prove that it has a better performance and can be used in practice.",
+    "citation_count": 30,
+    "year": "2020/12",
+    "authors": [
+        {
+            "name": "Tian, Qiao",
+            "country": "China"
+        },
+        {
+            "name": "Jia, Jicheng",
+            "country": "China"
+        },
+        {
+            "name": "Hou, Changbo",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

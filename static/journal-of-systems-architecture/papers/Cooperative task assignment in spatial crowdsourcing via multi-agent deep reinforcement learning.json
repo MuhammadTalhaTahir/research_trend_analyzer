@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001060",
+    "title": "Cooperative task assignment in spatial crowdsourcing via multi-agent deep reinforcement learning",
+    "abstract": "With the rapid development of mobile Internet, spatial crowdsourcing (SC) has become an emerging paradigm with many applications. As a key challenge in SC, the problem of task assignment has attracted extensive research. However, most previous work focus on the single mode setting where cooperation among workers is either allowed or prohibited. Moreover, only short-term benefit of either workers or requesters is considered separately. To address these issues, we first propose a new spatial crowdsourcing scenario that permits cooperation with no mandate among workers and tasks. Furthermore, we propose a multi-agent deep reinforcement learning (MADRL) solution for SC. Specifically, we extend the Advantage Actor–Critic (A2C) algorithm to multi-agent settings, and design a reward function that considers both local and global return. Through the game between agents, we generate a task assignment scheme that considers both workers’ and requesters’ long-term benefit. In order to improve the performance of our model, we further introduce the attention mechanism to guide information sharing between agents. We use simulations to conduct experimental evaluation on both synthetic and real-world datasets. Experimental results show that our proposed method outperforms other state-of-the-art task assignment algorithms in terms of worker profitability rate and task completion rate.",
+    "citation_count": "15",
+    "year": "2022/07/01",
+    "authors": [
+        {
+            "name": "Pengcheng Zhao",
+            "country": ""
+        },
+        {
+            "name": "Xiang Li",
+            "country": ""
+        },
+        {
+            "name": "Shang Gao",
+            "country": ""
+        },
+        {
+            "name": "Xiaohui Wei",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

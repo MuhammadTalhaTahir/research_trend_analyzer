@@ -1,0 +1,38 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10617-011-9076-4",
+    "title": "Enhancing IP cores specifications using hierarchical composition and set theory",
+    "abstract": "During the functional verification, complex interactions between multiple blocks that compose an Intellectual Property (IP) core can reveal hard-to-find bugs. Functional verification specifications must be precise to assure these interactions occur during the simulation. In this work, we are proposing a technique for improving the functional verification specification of individual blocks, preserving the occurrence of these interaction scenarios in the composition phase. Our approach was implemented for the VeriSC methodology, a&nbsp;SystemC-based functional verification methodology. After each block that composes the IP core was stand-alone verified, we exploit the composition phase using set theory to increase the coverage numbers and to justify why some of these numbers cannot, or need not, reach 100%. By applying our approach in a MPEG 4 video decoder design, we show how our work can save functional verification time during the hierarchical composition. Using mutation based-tests, we demonstrate that our work can contribute to error detection. Furthermore, we demonstrate the effectiveness of our approach with regard to traditional structural coverage metrics, such as line coverage and branch coverage.",
+    "citation_count": 33,
+    "year": "2011/12",
+    "authors": [
+        {
+            "name": "Rodrigues, Cássio L.",
+            "country": "Brazil"
+        },
+        {
+            "name": "da Silva, Karina R. G.",
+            "country": "Brazil"
+        },
+        {
+            "name": "Cunha, Henrique N.",
+            "country": "Brazil"
+        },
+        {
+            "name": "de Figueiredo, Jorge C. A.",
+            "country": "Brazil"
+        },
+        {
+            "name": "Guerrero, Dalton D. S.",
+            "country": "Brazil"
+        },
+        {
+            "name": "Melcher, Elmar",
+            "country": "Brazil"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

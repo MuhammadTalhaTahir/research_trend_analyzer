@@ -1,0 +1,35 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-015-0619-y",
+    "title": "Efficiently Predicting Trustworthiness of Mobile Services Based on Trust Propagation in Social Networks",
+    "abstract": "Predicting trustworthiness of mobile services is a fundamental need for mobile service selection. With the popularization of mobile social networks, employing trust propagation to predict trust of a user placed on a mobile service becomes available. However, existing methods based on trust propagation in social networks may suffer from a scalability problem, i.e., their trust computation for two indirectly connected users is likely too time-consuming to be acceptable in very large social networks. To address this issue, this paper proposes a trust propagation method which exploits the peculiar properties of social networks and incorporates a landmark-based method with preprocessing to improve the efficiency of trust prediction. In this method, a small number of landmark users in the social network are firstly selected as referees in trust propagation, and the trust between these landmark users and the other users are then pre-computed. The trust between two indirectly connected users is finally estimated via aggregating the referrals provided by the landmark users. To evaluate the performance of the proposed method, comprehensive experiments are conducted using a real online social network. The experimental results show that our method is quite more efficient than the other four classic trust propagation methods in trust prediction.",
+    "citation_count": 30,
+    "year": "2015/12",
+    "authors": [
+        {
+            "name": "Lyu, Saixia",
+            "country": "China"
+        },
+        {
+            "name": "Liu, Jianxun",
+            "country": "China"
+        },
+        {
+            "name": "Tang, Mingdong",
+            "country": "China"
+        },
+        {
+            "name": "Xu, Yu",
+            "country": "China"
+        },
+        {
+            "name": "Chen, Jinjun",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/BF01234771",
+    "title": "Mean fields and two-dimensional Markov random fields in image analysis",
+    "abstract": "In this paper we compare two iterative approaches to the problem of pixel-level image restoration when the model contains unknown parameters. Pairwise interaction models are assumed to represent the local associations in the true scene. The first approach is a variation on the EM algorithm in which Mean-field approximations are used in the E-step and a variational approximation is used in the M-step. In the second approach, each iteration involves first restoring the image using the Iterated Conditional Modes (ICM) algorithm and then updating the parameter estimates by maximising the so-called pseudolikelihood. In addition, refinemenrs are made to the Mean-field approximation, and these are also used for restoration. The methods are compared empirically using both artificial and real noise-corrupted binary scenes. Within the comparisons the effects of using different convergence criteria for deciding when to stop the algorithms are also investigated.",
+    "citation_count": 10,
+    "year": "1998/12",
+    "authors": [
+        {
+            "name": "Dunmur, A. P.",
+            "country": "UK"
+        },
+        {
+            "name": "Titterington, D. M.",
+            "country": "UK"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

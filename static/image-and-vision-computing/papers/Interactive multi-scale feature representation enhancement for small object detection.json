@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621000330",
+    "title": "Interactive multi-scale feature representation enhancement for small object detection",
+    "abstract": "In the field of detection, there is a wide gap between the performance of small objects and that of medium, large objects. Some studies show that this gap is due to the contradiction between the classification-based backbone and localization. Although the reduction in the feature map size is beneficial for the extraction of abstract features, it will cause the loss of detailed features in the localization as traversing the backbone. Therefore, an interactive multi-scale feature representation enhancement strategy is proposed. This strategy includes two modules: first a multi-scale auxiliary enhancement network is proposed for feature interaction under multiple inputs. We scale the input to multiple scales corresponding to the prediction layers, and only passes through the lightweight extraction module to extract more detailed features for enhancing the original futures. Moreover, an adaptive interaction module is designed to aggregate the features of  adjacent layers . This approach provides flexibility in achieving the improvement of small objects detection ability without changing the original network structure. Comprehensive experimental results based on PASCAL  VOC  and MS COCO datasets show the effectiveness of the proposed method.",
+    "citation_count": "17",
+    "year": "2021/04/01",
+    "authors": [
+        {
+            "name": "Qiyuan Zheng",
+            "country": ""
+        },
+        {
+            "name": "Ying Chen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000643",
+    "title": "Public-key authenticated encryption with keyword search achieving both multi-ciphertext and multi-trapdoor indistinguishability",
+    "abstract": "The notion of Public-key Encryption with  Keyword Search  (PEKS) was first proposed by Boneh et al. in 2004. However, almost all PEKS schemes cannot resist offline Keyword Guessing Attacks (KGA). To address this issue, Huang and Li introduced the notion of Public-key Authenticated Encryption with Keyword Search (PAEKS) in 2017. Recently, Qin et al. put forward a new security model named Multi-Ciphertext Indistinguishability (MCI), in which an adversary aims to distinguish two tuples of ciphertexts. They found that Huang and Li’s scheme cannot achieve MCI-security, so they proposed a new scheme which is able to achieve MCI-security. Furthermore, Qin et al. referred to another security model named Multi-Trapdoor Indistinguishability (MTI). They stated that the future work direction is to design a scheme which can achieve both MCI-security and MTI-security. In this paper, we present a new PAEKS scheme and prove that it is capable of achieving MCI-security and MTI-security simultaneously with the help of random oracles. Finally, we compare our scheme with other four related schemes using PBC library and provide experimental results. It turns out that our scheme achieves a higher  security level  with a little more cost.",
+    "citation_count": "62",
+    "year": "2021/05/01",
+    "authors": [
+        {
+            "name": "Xiangyu Pan",
+            "country": ""
+        },
+        {
+            "name": "Fagen Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

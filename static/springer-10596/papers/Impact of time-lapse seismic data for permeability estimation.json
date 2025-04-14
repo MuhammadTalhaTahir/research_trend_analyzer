@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-010-9182-6",
+    "title": "Impact of time-lapse seismic data for permeability estimation",
+    "abstract": "We consider the impact of using time-lapse seismic data in addition to production data for permeability estimation in a porous medium with multiphase fluid flows, such as a petroleum reservoir under water-assisted production. Since modeling seismic wave propagation in addition to modeling fluid flows in the reservoir is quite involved, it is assumed that the time-lapse seismic data have already been inverted into fluid saturation differences (pseudoseismic data). Because an inversion process often leads to considerable error growth, we will consider pseudoseismic data with large uncertainties. The impact of pseudoseismic data is assessed through permeability estimation with and without such data and through application of some uncertainty measures for the estimated parameters. A multiscale algorithm is used for the parameter estimations, so that potential differences in attainable permeability resolution will be easily revealed. The numerical examples clearly indicate that the permeability estimation problem is stabilized at a higher level of resolution when pseudoseismic data are applied in addition to production data, even if the pseudoseismic data have large associated uncertainties. Use of the parameter uncertainty measures confirm these results.",
+    "citation_count": 37,
+    "year": "2010/09",
+    "authors": [
+        {
+            "name": "Feng, Tao",
+            "country": "Norway"
+        },
+        {
+            "name": "Mannseth, Trond",
+            "country": "Norway"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

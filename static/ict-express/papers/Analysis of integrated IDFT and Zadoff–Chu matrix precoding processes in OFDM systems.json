@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959525000219",
+    "title": "Analysis of integrated IDFT and Zadoff–Chu matrix precoding processes in OFDM systems",
+    "abstract": "Peak signal reduction is a critical problem in orthogonal frequency-division multiplexing (OFDM) systems. Herein, we focus on Zadoff–Chu matrix (ZCM) precoding as a peak signal reduction method and analyze its integration using the discrete Fourier transform process. The analysis reveals that the integrated process can be substituted by a sparse matrix multiplication and the influence of ZCM parameters on the sparse matrix is mathematically clarified. The results also show that the ZCM precoding works to produce a single-carrier signal and explains how the ZCM precoding reduces the peak of the OFDM signal.",
+    "citation_count": "0",
+    "year": "2025/04/01",
+    "authors": [
+        {
+            "name": "Kouji Ohuchi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

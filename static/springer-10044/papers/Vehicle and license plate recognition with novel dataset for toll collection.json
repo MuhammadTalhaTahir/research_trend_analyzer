@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-025-01443-8",
+    "title": "Vehicle and license plate recognition with novel dataset for toll collection",
+    "abstract": "We propose an automatic toll tax collection framework designed for challenging conditions, consisting of three sequential steps: vehicle type recognition, license plate localization, and license plate reading. Traditional decorations on vehicle fronts often introduce significant intra-class variations, severe background clutter, and partial occlusions, complicating both license plate detection and reading. In addition, non-uniform license plate positions-particularly on trucks-and variations in font styles, sizes, and partially occluded characters further challenge the process. To address these issues, we leverage advanced deep learning architectures along with a novel dataset of 10k images covering six vehicle types. Each image is manually annotated with the vehicle type and the alphanumeric characters of its license plate. We evaluate our framework using state-of-the-art YOLO models, from the initial to the latest versions: Yolov2, Yolov3, Yolov4, YOLOv5, YOLOv8, and YOLOv11, and assess their lightweight (Nano) variants for real-time deployment on a Raspberry Pi. Our experimental results demonstrate that the large variants of YOLOv5, YOLOv8, and YOLOv11 consistently achieve a top mean average precision (mAP@0.5) of 99% across all tasks, while their Nano versions attain peak mAP values of 98%, 97%, and 98% for vehicle type recognition, license plate detection, and character recognition, respectively. The code, trained models, and test images are available at https://github.com/usama-x930/VT-LPR .",
+    "citation_count": 58,
+    "year": "2025/06",
+    "authors": [
+        {
+            "name": "Usama, Muhammad",
+            "country": "Pakistan"
+        },
+        {
+            "name": "Anwar, Hafeez",
+            "country": "Pakistan"
+        },
+        {
+            "name": "Anwar, Saeed",
+            "country": "Australia"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

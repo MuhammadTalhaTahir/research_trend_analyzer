@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-020-00873-w",
+    "title": "An instance and variable selection approach in pixel-based classification for automatic white blood cells segmentation",
+    "abstract": "Instance and variable selection involve identifying a subset of instances and variables such that the learning process will use only this subset with better performances and lower cost. Due to the huge amount of data available in many fields, data reduction is considered as an NP-hard problem. In this paper, we present a simultaneous instance and variable selection approach based on the Random Forest-RI ensemble methods in the aim to discard noisy and useless information from the original data set. We proposed a selection principle based on two concepts: the ensemble margin and the importance variable measure of Random Forest-RI. Experiments were conducted on cytological images for the automatic segmentation and recognition of white blood cells WBC (nucleus and cytoplasm). Moreover, in order to explore the performance of our proposed approach, experiments were carried out on standardized datasets from UCI and ASU repository, and the obtained results of the instances and variable selection by the Random Forest classifier are very encouraging.",
+    "citation_count": 65,
+    "year": "2020/11",
+    "authors": [
+        {
+            "name": "Settouti, Nesma",
+            "country": "Algeria"
+        },
+        {
+            "name": "Saidi, Meryem",
+            "country": "Algeria"
+        },
+        {
+            "name": "Bechar, Mohammed El Amine",
+            "country": "Algeria"
+        },
+        {
+            "name": "El Habib Daho, Mostafa",
+            "country": "Algeria"
+        },
+        {
+            "name": "Chikh, Mohamed Amine",
+            "country": "Algeria"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

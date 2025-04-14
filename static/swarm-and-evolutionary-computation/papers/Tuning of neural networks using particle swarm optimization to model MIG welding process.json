@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S221065021100040X",
+    "title": "Tuning of neural networks using particle swarm optimization to model MIG welding process",
+    "abstract": "Particle swarm optimization  technique has been used for tuning of  neural networks  utilized for carrying out both forward and reverse mappings of metal  inert gas  (MIG)  welding process . Four approaches have been developed and their performances are compared to solve the said problems. The first and second approaches deal with tuning of multi-layer feed-forward neural network and  radial basis function  neural network, respectively. In the third and fourth approaches, a back-propagation algorithm has been used along with particle swarm optimization to tune radial basis function neural network. Moreover, in these two approaches, two different  clustering algorithms  have been utilized to decide the structure of the network. The performances of hybrid approaches (that is, the third and fourth approaches) are found to be better than that of the other two.",
+    "citation_count": "72",
+    "year": "2011/12/01",
+    "authors": [
+        {
+            "name": "Rakesh Malviya",
+            "country": ""
+        },
+        {
+            "name": "Dilip Kumar Pratihar",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

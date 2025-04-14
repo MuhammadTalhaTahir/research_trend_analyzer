@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762120300783",
+    "title": "Reactive programming in Ada 2012 with RxAda",
+    "abstract": "The ReactiveX API, also known as the Reactive Extensions in the .NET world, is a popular functional reactive programming framework for asynchronous, event-based, multithreaded programming. Although Ada built-in tasking reduces the dire needs for additional multithreading support of some other languages, the reactive approach has properties that are well-suited to the safety and maintainability culture predominant in the Ada world, such as complexity reduction, well-defined concurrency semantics, and enhanced legibility by means of concise and explicit information flows appealing to imperative reasoning. This work presents the design of a ReactiveX Ada implementation that aims to balance desirable library properties such as compile-time type-safety, amount of user-required generic instantiations, and a smooth learning curve for both library clients and maintainers. Concurrency design aspects of the library are detailed, showing how the  Flat_Map  and  Thread  abstractions have been implemented following Ada programming expectations, in particular with regard to task termination. In the intervening time from its first presentation, the library has gained implemented operators to the point of having all fundamental building blocks available. With RxAda, the Ada programmer can henceforth benefit from the abundant documentation existing for the language-agnostic ReactiveX approach without stepping out of the Ada tool chain.",
+    "citation_count": "0",
+    "year": "2020/11/01",
+    "authors": [
+        {
+            "name": "Alejandro R. Mosteo",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621000846",
+    "title": "Short-term anchor linking and long-term self-guided attention for video object detection",
+    "abstract": "We present a new network architecture able to take advantage of spatio-temporal information available in videos to boost object detection precision. First, box features are associated and aggregated by linking proposals that come from the same  anchor box  in the nearby frames. Then, we design a new attention module that aggregates short-term enhanced box features to exploit long-term spatio-temporal information. This module takes advantage of geometrical features in the long-term for the first time in the video object detection domain. Finally, a spatio-temporal double head is fed with both spatial information from the reference frame and the aggregated information that takes into account the short- and long-term temporal context. We have tested our proposal in five video object detection datasets with very different characteristics, in order to prove its robustness in a wide number of scenarios. Non-parametric statistical tests show that our approach outperforms the state-of-the-art. Our code is available at  https://github.com/daniel-cores/SLTnet .",
+    "citation_count": "0",
+    "year": "2021/06/01",
+    "authors": [
+        {
+            "name": "Daniel Cores",
+            "country": ""
+        },
+        {
+            "name": "Víctor M. Brea",
+            "country": ""
+        },
+        {
+            "name": "Manuel Mucientes",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

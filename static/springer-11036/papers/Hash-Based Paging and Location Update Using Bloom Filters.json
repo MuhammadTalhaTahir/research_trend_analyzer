@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1023/B:MONE.0000042501.94708.b2",
+    "title": "Hash-Based Paging and Location Update Using Bloom Filters",
+    "abstract": "We develop and analyze a hash-based paging and location update technique that reduces the paging cost in cellular systems. By applying a Bloom filter, the terminal identifier field of a paging message is coded to page a number of terminals concurrently. A small number of terminals may wake up and send what we call “false location updates” although they are not being paged. We compare the total number of paging and false location update messages with the cost of the standard paging procedure. Fortunately, the false location update probabilities can be made very small, and important bandwidth gains can be expected. The larger the size of the terminal identifier, the less probable are false location updates. Therefore, hash-based paging especially shows promise for IP paging in mobile IPv6 networks with 128-bit mobile host addresses.",
+    "citation_count": 9,
+    "year": "2004/12",
+    "authors": [
+        {
+            "name": "Mutaf, Pars",
+            "country": "France"
+        },
+        {
+            "name": "Castelluccia, Claude",
+            "country": "France"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

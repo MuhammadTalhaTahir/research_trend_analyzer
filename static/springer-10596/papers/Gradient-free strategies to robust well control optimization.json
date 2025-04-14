@@ -1,0 +1,40 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-019-09888-7",
+    "title": "Gradient-free strategies to robust well control optimization",
+    "abstract": "In this work, the well control optimization of the Olympus challenge is solved by two non-intrusive strategies that use the simulator as a black box. This reservoir model contains uncertainties on geological scenarios, in which the optimal management process is conducted through robust optimization, which can use a set of representative realizations to honor the statistics of the geological properties. The statistic considered here is the mean of the net present value (NPV). Control variables are flow rates and bottom hole pressures (BHP) of each well completion. The first strategy used here is the sequential approximate optimization (SAO) with variable reparameterization that uses polynomial control trajectories. In order to reduce the computational cost of the overall process, this strategy builds surrogate models to be used in the several function calls required in the optimization process. The other strategy is the refined ensemble-based (REB) method that computes the approximate gradient of the expected NPV as a sum of the columns of a refined sensitivity matrix obtained from ensemble-based covariance matrices of controls and cross-covariance between well NPVs and controls. The use of small-sized ensembles introduces spurious correlations that degrade gradient quality. Non-distance-based localization and competitiveness coefficients between producer wells and smoothing control trajectories are used to reduce spurious correlations. Both strategies use approximate derivatives and they are able to include any general nonlinear constraints. The SQP (sequential quadratic programming) is the algorithm used in both methodologies. The strategies produced similar results, are close to the reactive control solution, and are viable alternatives for robust optimization problem and the choice depends mostly on the number of control variables.",
+    "citation_count": 59,
+    "year": "2020/12",
+    "authors": [
+        {
+            "name": "Pinto, Jefferson Wellano Oliveira",
+            "country": "Brazil"
+        },
+        {
+            "name": "Tueros, Juan Alberto Rojas",
+            "country": "Brazil"
+        },
+        {
+            "name": "Horowitz, Bernardo",
+            "country": "Brazil"
+        },
+        {
+            "name": "da Silva, Silvana Maria Bastos Afonso",
+            "country": "Brazil"
+        },
+        {
+            "name": "Willmersdorf, Ramiro Brito",
+            "country": "Brazil"
+        },
+        {
+            "name": "de Oliveira, Diego Felipe Barbosa",
+            "country": "Brazil"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

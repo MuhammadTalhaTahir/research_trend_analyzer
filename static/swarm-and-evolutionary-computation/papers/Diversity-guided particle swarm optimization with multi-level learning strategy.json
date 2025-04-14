@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224000713",
+    "title": "Diversity-guided particle swarm optimization with multi-level learning strategy",
+    "abstract": "Particle swarm optimization  (termed as PSO) is a  metaheuristic algorithm  inspired by the  swarm intelligence . Since its advent, PSO has been successfully applied to tackle various issues that are hard to optimize. Unfortunately, similar to other evolutionary computation, PSO is also difficult to get rid of the bad luck of premature convergence and  local optimization , especially when dealing with complex multimodal issues. Hence, this work proposes a diversity-guided PSO with multi-level learning strategy (DPSO-MLS). To begin with, chaotic opposition-based learning (OBL) is used to generate well-distributed initial particles to speed up  convergence process  of DPSO-MLS. Subsequently, according to the current swarm diversity, the high-layer learning mechanism enables PSO to explore the entire  search space  from a global perspective via attractive and repulsive strategies, respectively. Next, according to average fitness value of entire swarm, the low-layer learning strategy fine-tunes the particles search from a local perspective to sustain its diversity. To be specific, in the context of the repulsion phase, the regular varying function (RVF) embedded update strategy is used to block potential  local optima  so as to continue exploring the potential  search space  when the particle's fitness is less than the average of swarm, otherwise an alternative mutation scheme is utilized to enrich the swarm diversity. Accordingly, the  slowly varying function  (SVF) embedded update strategy is applied when the particle's fitness is greater than the average of swarm, otherwise the worst-best example learning based mechanism is exploited to update the worst particle to improve the quality of swarm in the context of the attraction phase. To verify the effectiveness of DPSO-MLS, extensive experiments are conducted and the results show that our proposal is superior or highly competitive to several existing PSOs according to the robustness, convergence rate and solution accuracy.",
+    "citation_count": "19",
+    "year": "2024/04/01",
+    "authors": [
+        {
+            "name": "Dongping Tian",
+            "country": ""
+        },
+        {
+            "name": "Qiu Xu",
+            "country": ""
+        },
+        {
+            "name": "Xinhui Yao",
+            "country": ""
+        },
+        {
+            "name": "Guangnan Zhang",
+            "country": ""
+        },
+        {
+            "name": "Yafeng Li",
+            "country": ""
+        },
+        {
+            "name": "Chenghu Xu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

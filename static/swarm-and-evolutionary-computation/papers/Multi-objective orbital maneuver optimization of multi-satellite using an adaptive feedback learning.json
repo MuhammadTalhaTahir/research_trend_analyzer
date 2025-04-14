@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224003730",
+    "title": "Multi-objective orbital maneuver optimization of multi-satellite using an adaptive feedback learning NSGA-II",
+    "abstract": "Earth observation satellite (EOS) systems play a crucial role in performing emergency monitoring tasks such as natural disasters. In terms of urgent observation tasks within a limited period, manipulating the orbit of EOSs to meet emergency requirements is an efficient scheme. The traditional multiple satellite orbit maneuver optimization problem (MSOMOP) almost considers single objective optimization, neglecting the optimization of conflicting objectives in practical applications. This paper is devoted to conducting multi-objective optimization research for the MSOMOP. First, a multi-objective mathematical model is established, where the response time, imaging resolution, and fuel cost are considered as optimization objectives. Subsequently, an adaptive feedback learning of non-dominated sorting genetic algorithm-II (AFL-NSGA-II) is proposed, which introduces the idea of adaptive strategy and a feedback learning mechanism into the traditional NSGA-II. The AFL-NSGA-II incorporates an increased learning mechanism and adaptive strategies, which facilitates efficient solution search and reduces the risk of converging to a local optimum. Moreover, several problem-specific designed operators are incorporated into the algorithm to enhance the search capability. Finally, we conduct extensive experimental studies to verify the efficiency of the proposed algorithm. Experiment results demonstrate that the proposed AFL-NSGA-II outperforms three existing algorithms and exhibits superior performance in typical scheduling scenarios.",
+    "citation_count": "1",
+    "year": "2025/03/01",
+    "authors": [
+        {
+            "name": "Qian Yin",
+            "country": ""
+        },
+        {
+            "name": "Guohua Wu",
+            "country": ""
+        },
+        {
+            "name": "Guang Sun",
+            "country": ""
+        },
+        {
+            "name": "Yi Gu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

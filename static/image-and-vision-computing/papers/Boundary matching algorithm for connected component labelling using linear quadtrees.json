@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/026288568890011X",
+    "title": "Boundary matching algorithm for connected component labelling using linear quadtrees",
+    "abstract": "A computationally fast top-down recursive algorithm for connected component labelling using linear quadtrees is presented. The input data structure used is a linear quadtree representing only black leaf nodes. The boundary matching approach used ensures that at most two adjacencies of any black leaf node are considered. Neighbour searching is carried out within restricted subsets of the input quadtree. The time and space complexities of the algorithm are O(Bn) and O(B) respectively for a linear quadtree with B black leaves constructed from a binary array of size 2 n  × 2 n . Simulations show the algorithm to be twice as fast as an existing algorithm that uses an identical input data structure. The top-down algorithm presented can also be used to efficiently generate a linear quadtree representing all nodes — ‘grey’, ‘black’ and ‘white’ — in preorder when given an input linear quadtree representing only ‘black’ leaf nodes. The boundary matching algorithm is computationally fast and has low static and dynamic storage costs, making it useful for applications where linear quadtrees are held in main memory.",
+    "citation_count": "4",
+    "year": "1988/11/01",
+    "authors": [
+        {
+            "name": "Sudhakar Menon",
+            "country": ""
+        },
+        {
+            "name": "Terence R Smith",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

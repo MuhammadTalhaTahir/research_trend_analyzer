@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122002454",
+    "title": "An efficient secure data transmission and node authentication scheme for wireless sensing networks",
+    "abstract": "With the development of  big data  era,  wireless sensor networks  (WSNs) are widely used. However, the wireless sensing network has the disadvantages that it is difficult to monitor after deployment and the node energy after deployment cannot be supplemented. Therefore, this paper proposes an efficient and high-performance data acquisition scheme, and realizes the  authentication  of effective nodes and the confidentiality of data transmission. Firstly, the  sensing node  uses  compressed sensing  sampling network (CSSN) to complete high-performance data collection, and applies  deep learning  to wireless sensing network data collection. Secondly, the lightweight  hash algorithm  is applied to process the ID and timestamp time of each node to realize the identification and authentication of the sink node, and avoid the replay attack. Finally, the Paillier additive  homomorphic encryption  is used to encrypt the signed data to realize the confidential transmission of data. At the same time, this scheme evaluates the reputation of each sense node and deletes the damaged nodes invaded by attackers from the network. Taking image  information acquisition  as an example, a large number of experiments have proved the feasibility and applicability of this scheme.",
+    "citation_count": "5",
+    "year": "2022/12/01",
+    "authors": [
+        {
+            "name": "Lixiang Li",
+            "country": ""
+        },
+        {
+            "name": "Sirui Li",
+            "country": ""
+        },
+        {
+            "name": "Haipeng Peng",
+            "country": ""
+        },
+        {
+            "name": "Jingguo Bi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

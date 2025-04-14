@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223000822",
+    "title": "Adam-assisted quantum particle swarm optimization guided by length of potential well for numerical function optimization",
+    "abstract": "Quantum-inspired particle swarm optimization (QPSO) is a powerful computation technique that introduces quantum mechanics theory into particle swarm optimization (PSO), which has been successfully applied to address complex and challenging functional optimization problems. However, QPSO still suffers from premature convergence and trapping in the local optima. In this paper, we propose a novel QPSO variant by guiding it with the length of the potential well (LPW) and assisting it with Adam (abbreviated as Adam-LGQPSO). To select the appropriate strategy according to the evolutionary states, an LPW-guided particle update strategy is proposed, by introducing a Gaussian random vector for enhancing the information sharing among particles and endowing the swarm with adaptive randomness. Meanwhile, a particle perturbation mechanism is developed to avoid getting into a search dilemma. To balance the exploration and exploitation, a diversity function is introduced and a diversity-based LPW strategy is designed, which helps the algorithm to better adapt to the complex and variable search environment. Finally, the Adam algorithm is integrated into the QPSO to assist the initialization of the population. The effectiveness of the proposed strategies is testified by a set of experiments. With the extensive experiments on the CEC 2017 test suite, we also show that Adam-LGQPSO achieves superior performance compared to several state-of-art metaheuristics.",
+    "citation_count": "12",
+    "year": "2023/06/01",
+    "authors": [
+        {
+            "name": "Caicheng Wang",
+            "country": ""
+        },
+        {
+            "name": "Zili Wang",
+            "country": ""
+        },
+        {
+            "name": "Shuyou Zhang",
+            "country": ""
+        },
+        {
+            "name": "Jianrong Tan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

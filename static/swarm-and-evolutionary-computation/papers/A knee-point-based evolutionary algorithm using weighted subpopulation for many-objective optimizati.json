@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218300191",
+    "title": "A knee-point-based evolutionary algorithm using weighted subpopulation for many-objective optimization",
+    "abstract": "Among many-objective  optimization problems  (MaOPs), the proportion of  nondominated solutions  is too large to distinguish among different solutions, which is a great obstacle in the process of solving MaOPs. Thus, this paper proposes an algorithm which uses a weighted subpopulation knee point. The weight is used to divide the whole population into a number of subpopulations, and the knee point of each subpopulation guides other solutions to search. Additionally, the convergence of the knee point approach can be exploited, and the subpopulation-based approach improves performance by improving the diversity of the  evolutionary algorithm . Therefore, these advantages can make the  algorithm suitable  for solving MaOPs. Experimental results show that the proposed algorithm performs better on most test problems than six other state-of-the-art many-objective evolutionary algorithms.",
+    "citation_count": "28",
+    "year": "2019/06/01",
+    "authors": [
+        {
+            "name": "Juan Zou",
+            "country": ""
+        },
+        {
+            "name": "Chunhui Ji",
+            "country": ""
+        },
+        {
+            "name": "Shengxiang Yang",
+            "country": ""
+        },
+        {
+            "name": "Yuping Zhang",
+            "country": ""
+        },
+        {
+            "name": "Jinhua Zheng",
+            "country": ""
+        },
+        {
+            "name": "Ke Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

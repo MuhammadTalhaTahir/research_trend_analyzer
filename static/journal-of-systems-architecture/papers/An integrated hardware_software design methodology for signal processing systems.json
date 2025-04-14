@@ -1,0 +1,54 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762118301735",
+    "title": "An integrated hardware/software design methodology for signal processing systems",
+    "abstract": "This paper presents a new methodology for design and implementation of signal processing systems on system-on-chip (SoC) platforms. The methodology is centered on the use of lightweight application programming interfaces for applying principles of dataflow design at different layers of abstraction. The development processes integrated in our approach are software implementation, hardware implementation, hardware-software co-design, and optimized application mapping. The proposed methodology facilitates development and integration of signal processing hardware and software modules that involve heterogeneous programming languages and platforms. As a demonstration of the proposed design framework, we present a dataflow-based deep neural network (DNN) implementation for vehicle classification that is streamlined for real-time operation on embedded SoC devices. Using the proposed methodology, we apply and integrate a variety of dataflow graph optimizations that are important for efficient mapping of the DNN system into a resource constrained implementation that involves cooperating multicore CPUs and field-programmable gate array subsystems. Through experiments, we demonstrate the flexibility and effectiveness with which different design transformations can be applied and integrated across multiple scales of the targeted computing system.",
+    "citation_count": "0",
+    "year": "2019/02/01",
+    "authors": [
+        {
+            "name": "Lin Li",
+            "country": ""
+        },
+        {
+            "name": "Carlo Sau",
+            "country": ""
+        },
+        {
+            "name": "Tiziana Fanni",
+            "country": ""
+        },
+        {
+            "name": "Jingui Li",
+            "country": ""
+        },
+        {
+            "name": "Timo Viitanen",
+            "country": ""
+        },
+        {
+            "name": "François Christophe",
+            "country": ""
+        },
+        {
+            "name": "Francesca Palumbo",
+            "country": ""
+        },
+        {
+            "name": "Luigi Raffo",
+            "country": ""
+        },
+        {
+            "name": "Heikki Huttunen",
+            "country": ""
+        },
+        {
+            "name": "Jarmo Takala",
+            "country": ""
+        },
+        {
+            "name": "Shuvra S. Bhattacharyya",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

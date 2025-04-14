@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650220304193",
+    "title": "An enhanced teaching-learning-based optimization algorithm with self-adaptive and learning operators and its search bias towards origin",
+    "abstract": "Teaching-learning-based optimization (TLBO) is a recently proposed meta-heuristic optimization method and demonstrates outstanding performance for solving numerous sciences and engineering problems. However, many studies have shown that TLBO has a strong bias towards converging to origin and poorly performs in the problems with shifted solutions. To conquer this problem, a novel self-adaptive hybrid self-learning based TLBO (SHSLTLBO) is proposed in this paper. By constructing a self-adaptive framework, the original TLBO is fused with the  Gaussian distribution , and the novel updating law switches in two modes corresponding to the fitness during the searching process. Additionally, in order to avoid local convergence in the initialization, a self-learning phase is introduced, associated to the original teaching and learning phase. The performance of the proposed SHSLTLBO is tested in the numerical benchmark functions, where the comprehensive comparison carries out with the state-of-the-art TLBO variants and other meta-heuristic approaches. The results demonstrate superior advantages of the proposed algorithm at balancing along the evolutionary stages among the TLBO variants. In the experiments, the two well-performed meta-heuristic optimization methods, namely LSHADE and HCLPSO, are used as the comparative methods to SHSLTLBO, where their superior performances of them are shown on the shifted problems. With increasing dimensionality, the performance of TLBO goes down rapidly while LSHADE's relative ranking improves. Apart from these scenarios, the comparative results of different dimensional problems indicate that the proposed SHSLTLBO has the best convergence and stability in solving all 28 benchmarks with low dimension and shifted solutions.",
+    "citation_count": "32",
+    "year": "2021/02/01",
+    "authors": [
+        {
+            "name": "Zhenyu Chen",
+            "country": ""
+        },
+        {
+            "name": "Yang Liu",
+            "country": ""
+        },
+        {
+            "name": "Zhile Yang",
+            "country": ""
+        },
+        {
+            "name": "Xuewei Fu",
+            "country": ""
+        },
+        {
+            "name": "Jiubin Tan",
+            "country": ""
+        },
+        {
+            "name": "Xiaofeng Yang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

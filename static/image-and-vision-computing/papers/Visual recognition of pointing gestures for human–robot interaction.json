@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885606002897",
+    "title": "Visual recognition of pointing gestures for human–robot interaction",
+    "abstract": "In this paper, we present an approach for recognizing pointing gestures in the context of human–robot interaction. In order to obtain input features for  gesture recognition , we perform  visual tracking  of head, hands and  head orientation . Given the images provided by a calibrated  stereo camera , color and disparity information are integrated into a multi-hypothesis tracking framework in order to find the 3D-positions of the respective body parts. Based on the hands’ motion, an HMM-based classifier is trained to detect pointing gestures. We show experimentally that the gesture recognition performance can be improved significantly by using information about head orientation as an additional feature. Our system aims at applications in the field of human–robot interaction, where it is important to do run-on recognition in real-time, to allow for robot egomotion and not to rely on manual initialization.",
+    "citation_count": "197",
+    "year": "2007/12/03",
+    "authors": [
+        {
+            "name": "Kai Nickel",
+            "country": ""
+        },
+        {
+            "name": "Rainer Stiefelhagen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

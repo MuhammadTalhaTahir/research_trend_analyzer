@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624001380",
+    "title": "Transductive semantic decoupling double variational inference for few-shot classification",
+    "abstract": "In recent years, within the rapidly evolving landscape of  deep learning  technology, few-shot learning, particularly in few-shot classification, has emerged as an enticing frontier. Despite the notable achievements of  deep learning  in handling extensive datasets, the task of  image classification  remains highly demanding when faced with a limited number of annotated samples. To address this challenge, we introduce the Transductive Semantic Decoupling Double Variational Inference (TSDVI), a novel framework that employs two iteratively interacting variational networks to disentangle  image information  and model distributions. This approach greatly improves the model's ability to discern inter-class differences, hence enabling more effective separation of features across distinct categories. Our TSDVI approach has been extensively validated through experiments, which have shown significant performance gains. These experiments were conducted on many widely-used datasets such as miniImagenet, tiered-Imagenet, CIFAR-FS, and FC100. Particularly noteworthy is the outstanding performance gain of up to 30% on the 1-shot task within the FC100 dataset. These practical results strongly emphasize the effectiveness of the TSDVI model and its promise in few-shot classification. Code is available at:  https://github.com/zjh1015/tsdvi .",
+    "citation_count": "2",
+    "year": "2024/06/01",
+    "authors": [
+        {
+            "name": "Jinhu Zhang",
+            "country": ""
+        },
+        {
+            "name": "Shaobo Li",
+            "country": ""
+        },
+        {
+            "name": "Xingxing Zhang",
+            "country": ""
+        },
+        {
+            "name": "Zichen Huang",
+            "country": ""
+        },
+        {
+            "name": "Hui Miao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

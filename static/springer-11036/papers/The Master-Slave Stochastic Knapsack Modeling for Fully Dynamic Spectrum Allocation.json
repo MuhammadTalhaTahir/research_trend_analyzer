@@ -1,0 +1,31 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-012-0385-z",
+    "title": "The Master-Slave Stochastic Knapsack Modeling for Fully Dynamic Spectrum Allocation",
+    "abstract": "Scarcity problem of radio spectrum resource stimulates the research on cognitive radio technology, in which dynamic spectrum allocation attracts lots of attention. For higher access efficiency in cognitive radio context, we suggest a fully dynamic access scheme for primary and secondary users, which is modeled by a master-slave stochastic knapsack process. Equilibrium behavior of this knapsack model is analyzed: expressions of blocking probability of both master and slave classes are derived as performance criterion, as well as forced termination probability for the slave class. All the theoretic results are verified by numeric simulations. Compared to traditional opportunistic spectrum access (OSA), which can be regarded as half dynamic due to primary users’ rough preemption, our scheme leads to less termination events for the secondary users while keeping the same performance for the primary class, thus promotes the system access performance. Nonideal spectrum sensing algorithm with detection error is also taken into consideration to evaluate its impact on system access performance, which is a practical issue for implementation.",
+    "citation_count": 26,
+    "year": "2012/12",
+    "authors": [
+        {
+            "name": "Zhang, Sihai",
+            "country": "China"
+        },
+        {
+            "name": "Yang, Fei",
+            "country": "China"
+        },
+        {
+            "name": "Zhao, Ming",
+            "country": "China"
+        },
+        {
+            "name": "Zhou, Wuyang",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

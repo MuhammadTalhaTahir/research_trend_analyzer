@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959524001401",
+    "title": "Optimized Falcon Verify on Cortex-M4 for Post-Quantum secure UAV communications",
+    "abstract": "Falcon, a NIST-standardized DSA, is ideal for broadcast-based communication like UAV due to its short key and signature. Since each UAV broadcasts the signed message to surrounding parties, UAVs must verify numerous signatures in flight. After migrating from ECDSA to Falcon for quantum security, it is crucial to maintain the same throughput of signature verification. However, existing Falcon implementations do not guarantee that throughput. We optimize Falcon Verify for Cortex-M4, enhancing NTT-based polynomial multiplication with signed representation and Plantard-based modular multiplication. We outperform the latest Falcon implementation in pqm4 by 64%/75% (resp. Falcon-512/Falcon-1024) in verification time, ensuring ECDSA-like throughput.",
+    "citation_count": "0",
+    "year": "2025/04/01",
+    "authors": [
+        {
+            "name": "JunHyeok Choi",
+            "country": ""
+        },
+        {
+            "name": "SeungYong Yoon",
+            "country": ""
+        },
+        {
+            "name": "Seog Chung Seo",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

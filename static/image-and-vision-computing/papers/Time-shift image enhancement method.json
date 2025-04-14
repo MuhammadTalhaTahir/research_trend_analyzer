@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001841",
+    "title": "Time-shift image enhancement method",
+    "abstract": "This paper proposes a time-shift image enhancement method for representing constant images in spacetime, deriving the associated events in a specified time, and using them to enhance the degraded images. We assumed constant images as moving objects on a z-plane with different velocities and adopted the spacetime using the Lorentz factor to represent the movement of objects at the constant moment. The changes between the events and a reference frame are used to create adjacent z-plane events. The events provide statistical and pixel-based relationships in order to reconstruct a single frame for the common perspective of the reference image in time. Then, the gamma correction is applied in the reconstructed image based on the obtained statistics to provide enhancement of images by preserving the brightness and improving the contrast and details. In order to demonstrate the proposed methods’ general applicability, several challenging referenced and non-referenced datasets from different problem domains are considered. A comparative study has been performed, and the proposed method has been compared to state-of-the-art and recent image enhancement techniques. Both qualitative and quantitative results are analyzed for color correction, detail enhancement, and additional noise for each dataset. The results show that the Time-Shift Method could be effectively used for image enhancement for different problem domains without producing over- or under-enhancement.",
+    "citation_count": "0",
+    "year": "2023/10/01",
+    "authors": [
+        {
+            "name": "Boran Sekeroglu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

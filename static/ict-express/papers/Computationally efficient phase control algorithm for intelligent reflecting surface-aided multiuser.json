@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959523000498",
+    "title": "Computationally efficient phase control algorithm for intelligent reflecting surface-aided multiuser systems",
+    "abstract": "The intelligent reflecting surface (IRS) technology can enhance coverage in wireless networks by detouring a blocked path, where the phases of its passive elements are controlled to reinforce reflected signals in the desired directions, as the massive MIMO does. As a massive IRS system is introduced in the millimeter wave (mmWave) and tera-hertz (THz) bands, the optimal phase control induces computational complexity, and its complexity is doubled in multiuser systems. We propose a computationally efficient phase control algorithm in IRS-aided multiuser systems, where the reflected signals are sequentially aligned to search for optimal phases to maximize the total SNR of all users in service. The proposed scheme is evaluated with continuous phase and discrete phases with 1, 2, and 3 bits and compared with the random phase and full-search cases.",
+    "citation_count": "0",
+    "year": "2023/12/01",
+    "authors": [
+        {
+            "name": "Gwang Hae Kim",
+            "country": ""
+        },
+        {
+            "name": "Duk Kyung Kim",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

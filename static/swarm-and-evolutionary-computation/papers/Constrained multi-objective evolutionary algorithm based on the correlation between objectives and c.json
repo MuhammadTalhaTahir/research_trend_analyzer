@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650225000616",
+    "title": "Constrained multi-objective evolutionary algorithm based on the correlation between objectives and constraints",
+    "abstract": "Many engineering optimization problems require simultaneous optimization of multiple objective functions under certain constraints, which are collectively referred to as constrained multi-objective problems (CMOPs). The crucial issue in solving CMOPs is to balance constraints and objectives. This paper proposes a constrained multi-objective evolutionary algorithm based on the correlation between objectives and constraints, termed CORCMO. CORCMO mainly comprises two stages: the learning stage and the evolving stage. The learning stage focuses on analyzing the correlation between each objective and constraints. In the evolving stage, the CMOP is decomposed into  M  constraint single-objective problems, which are optimized by  M  subpopulations cooperatively. For each subproblem, the corresponding fitness function, computed based on the correlation, is adopted to guide the evolution. Subsequently, CORCMO employs archive population update strategy to find the optimal solutions of the given CMOP. Experiments conducted on a series of benchmark problems demonstrate that CORCMO is promising to solve CMOPs.",
+    "citation_count": "0",
+    "year": "2025/04/01",
+    "authors": [
+        {
+            "name": "Jianxia Li",
+            "country": ""
+        },
+        {
+            "name": "Ruochen Liu",
+            "country": ""
+        },
+        {
+            "name": "Xilong Zhang",
+            "country": ""
+        },
+        {
+            "name": "Ruinan Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

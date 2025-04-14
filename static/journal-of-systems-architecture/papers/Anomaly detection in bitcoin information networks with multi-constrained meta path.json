@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762120301211",
+    "title": "Anomaly detection in bitcoin information networks with multi-constrained meta path",
+    "abstract": "As the most popular digital currency,  Bitcoin  has a high economic value, and its security has been paid more and more attention.  Anomaly detection  of Bitcoin has become a problem that must be solved. The existing Bitcoin anomaly detection methods only use static network models, and only the simple structural features such as node attributes and in/out-degree are considered to measure the similarities between nodes. Therefore, we propose a series of constrained anomaly  detection algorithms  for Bitcoin data. In our algorithms, we first construct a temporal Bitcoin  network model for  Bitcoin data. Then, combining time constraints, attribute constraints and structure constraints, a multi-constrained meta path is proposed on the basis of the meta path to specify the candidate sets, reference sets and similarity measurement strategies and detect local abnormal users and transactions that are of interest to users from static and dynamic angles with lower space-time overhead. Experiments on real-world Bitcoin data show that the constrained algorithms have certain improvements in recall, precision and F2 score when compared to the algorithms that only considers simple structural features such as node attributes and in/out-degree.",
+    "citation_count": "18",
+    "year": "2020/11/01",
+    "authors": [
+        {
+            "name": "Rui Zhang",
+            "country": ""
+        },
+        {
+            "name": "Guifa Zhang",
+            "country": ""
+        },
+        {
+            "name": "Lan Liu",
+            "country": ""
+        },
+        {
+            "name": "Chen Wang",
+            "country": ""
+        },
+        {
+            "name": "Shaohua Wan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

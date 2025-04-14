@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-019-01388-3",
+    "title": "Prediction of Individual’s Character in Social Media Using Contextual Semantic Sentiment Analysis",
+    "abstract": "Sentiment analysis on social media has become most popular due to its extensive applications in both public and private sectors. We use twitter to know people’s opinion towards any topic. Predicting character of an individual is important for any organization or society. Maslow hierarchy based prediction helps to define characteristic of the people. In this research, tweets are used to classify social media users based on Maslow hierarchy. We apply contextual semantic sentiment analysis to examine the people’s character based on his/her tweets. In this research paper, three methods are proposed such as Opinion COW (Opinion Co-Occurrence Word) method, Opinion Circle method and Hybrid method to evaluate the tweets. We have recommended a new technique called opinion circle for sentiment analysis on tweets. Opinion circle method takes into account the co-occurrence words (contextual semantic) along with the Maslow keywords to capture the polarity of the tweet. Using opinion circle method, prior sentiment of the tweets may flip (positive to negative, positive to neutral or vice versa) due to the co-occurrence word. Our result shows that 51.46% of tweets flipping their sentiment because of co-occurrence word.",
+    "citation_count": 25,
+    "year": "2019/12",
+    "authors": [
+        {
+            "name": "Ramanathan, Vallikannu",
+            "country": "India"
+        },
+        {
+            "name": "T, Meyyappan",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

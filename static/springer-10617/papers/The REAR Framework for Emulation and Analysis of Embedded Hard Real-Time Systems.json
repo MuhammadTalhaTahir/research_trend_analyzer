@@ -1,0 +1,38 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1008997901162",
+    "title": "The REAR Framework for Emulation and Analysis of Embedded Hard Real-Time Systems",
+    "abstract": "The aim of rapid prototyping real-time applications is to substantially reduce development times by confirming the functional and temporal requirements of the application at a very early stage of development with the help of an executable prototype. Hence, the real-time rapid prototyping system presented in this paper integrates two complementary tasks: On one hand it provides an automated design environment for a rapid and facile generation of a working prototype. On the other hand, the design process is extended with real-time requirement specification and analysis in order to prove that the embedded system will meet all timing requirements, and to verify that the timing requirements have been modeled correctly. The REAR framework uses annotated SDL for the system specification, from which both, the compilable source codes and the real-time analysis model are generated. After instrumentation for timing measurements, the C and VHDL source code is compiled and synthesized, linked with communication libraries and executed on the configurable, heterogeneous multiprocessor target system. Several case studies demonstrate the feasibility of this approach.",
+    "citation_count": 16,
+    "year": "2000/08",
+    "authors": [
+        {
+            "name": "Petters, S.",
+            "country": "Germany"
+        },
+        {
+            "name": "Muth, A.",
+            "country": "Germany"
+        },
+        {
+            "name": "Kolloch, T.",
+            "country": "Germany"
+        },
+        {
+            "name": "Hopfner, T.",
+            "country": "Germany"
+        },
+        {
+            "name": "Fischer, F.",
+            "country": "Germany"
+        },
+        {
+            "name": "Färber, G.",
+            "country": "Germany"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218305455",
+    "title": "A hierarchical gravitational search algorithm with an effective gravitational constant",
+    "abstract": "Gravitational search algorithm (GSA) inspired by the law of gravity is a swarm intelligent optimization algorithm. It utilizes the gravitational force to implement the interaction and evolution of individuals. The conventional GSA achieves several successful applications, but it still  faces  a premature convergence and a low search ability. To address these two issues, a hierarchical GSA with an effective  gravitational constant  (HGSA) is proposed from the viewpoint of population topology. Three contrastive experiments are carried out to analyze the performances between HGSA and other GSAs, heuristic algorithms and  particle swarm optimizations  (PSOs) on function optimization. Experimental results demonstrate the effective property of HGSA due to its hierarchical structure and gravitational constant. A component-wise experiment is also established to further verify the superiority of HGSA. Additionally, HGSA is applied to several real-world optimization problems so as to verify its good practicability and performance. Finally, the time complexity analysis is discussed to conclude that HGSA has the same computational efficiency in comparison with other GSAs.",
+    "citation_count": "117",
+    "year": "2019/05/01",
+    "authors": [
+        {
+            "name": "Yirui Wang",
+            "country": ""
+        },
+        {
+            "name": "Yang Yu",
+            "country": ""
+        },
+        {
+            "name": "Shangce Gao",
+            "country": ""
+        },
+        {
+            "name": "Haiyu Pan",
+            "country": ""
+        },
+        {
+            "name": "Gang Yang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

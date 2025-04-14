@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624004086",
+    "title": "Multi-object tracking using score-driven hierarchical association strategy between predicted tracklets and objects",
+    "abstract": "Machine vision is one of the major technologies to guarantee intelligent robots’ human-centered embodied intelligence. Especially in the complex dynamic scene involving multi-person, Multi-Object Tracking (MOT), which can accurately identify and track specific targets, significantly influences intelligent robots’ performance regarding behavior perception and monitoring, autonomous decision-making, and providing personalized humanoid services. In order to solve the problem of targets lost and identity switches caused by the scale variations of objects and frequent overlaps during the tracking process, this paper presents a multi-object tracking method using score-driven hierarchical association strategy between predicted tracklets and objects (ScoreMOT). Firstly, a motion prediction of occluded objects based on bounding box variation (MPOBV) is proposed to estimate the position of occluded objects. MPOBV models the motion state of the object using the bounding box and confidence score. Then, a score-driven hierarchical association strategy between predicted tracklets and objects (SHAS) is proposed to correctly associate them in frequently overlapping scenarios. SHAS associates the predicted tracklets and detected objects with different confidence in different stages. The comparison results with 16 state-of-the-art methods on Multiple Object Tracking Benchmark 20 (MOT20) and DanceTrack datasets are conducted, and ScoreMOT outperforms the compared methods.",
+    "citation_count": "2",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Tianyi Zhao",
+            "country": ""
+        },
+        {
+            "name": "Guanci Yang",
+            "country": ""
+        },
+        {
+            "name": "Yang Li",
+            "country": ""
+        },
+        {
+            "name": "Minglang Lu",
+            "country": ""
+        },
+        {
+            "name": "Haoran Sun",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

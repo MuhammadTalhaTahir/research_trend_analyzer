@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-006-8461-6",
+    "title": "A combinatorial theorem on labeling squares with points and its application",
+    "abstract": "In this paper, we present a combinatorial theorem on labeling disjoint axis-parallel squares of edge length two using points. Given an arbitrary set of disjoint axis-parallel squares of edge length two, we show that if we label points on the boundary of all squares (one for each square) and define a distance label graph such that there is an edge between any two labeling points if and only if their L∞-distance is at most 1 − ε (0 &lt; ε &lt; 1), then the maximum connected component of the graph contains Θ(1/ε) vertices, which is tight. With this theorem we present a new and simple factor-(3 + ε) approximation for labeling points with axis-parallel squares under the slider model.",
+    "citation_count": 9,
+    "year": "2006/06",
+    "authors": [
+        {
+            "name": "Zhu, Binhai",
+            "country": "USA"
+        },
+        {
+            "name": "Jiang, Minghui",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

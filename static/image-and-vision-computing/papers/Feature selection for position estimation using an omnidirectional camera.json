@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885615000359",
+    "title": "Feature selection for position estimation using an omnidirectional camera",
+    "abstract": "This paper considers visual feature selection to implement position estimation using an  omnidirectional camera . The localization is based on a  maximum likelihood  estimation (MLE) with a map from optimally selected visual features using  Gaussian  process (GP) regression. In particular, the collection of selected features over a surveillance region is modeled by a multivariate GP with unknown hyperparameters. The hyperparameters are identified through the learning process by an MLE, which are used for prediction in an empirical Bayes fashion. To select features, we apply a backward sequential elimination technique in order to improve the quality of the position estimation with compressed features for efficient localization. The excellent results of the proposed algorithm are illustrated by the experimental studies with different visual features under both indoor and outdoor real-world scenarios.",
+    "citation_count": "17",
+    "year": "2015/07/01",
+    "authors": [
+        {
+            "name": "Huan N. Do",
+            "country": ""
+        },
+        {
+            "name": "Mahdi Jadaliha",
+            "country": ""
+        },
+        {
+            "name": "Jongeun Choi",
+            "country": ""
+        },
+        {
+            "name": "Chae Young Lim",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

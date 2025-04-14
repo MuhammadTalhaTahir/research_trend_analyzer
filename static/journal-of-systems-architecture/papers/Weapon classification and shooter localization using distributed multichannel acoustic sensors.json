@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S138376211100052X",
+    "title": "Weapon classification and shooter localization using distributed multichannel acoustic sensors",
+    "abstract": "A wireless sensor network-based wearable countersniper system prototype is presented. The sensor board is connected to a small helmet-mounted  microphone array  that uses time of arrival (ToA) estimates of the ballistic  shockwave  and the muzzle blast to compute the  angle of arrival  (AoA) of both acoustic events. A low-power radio is used to form an ad-hoc  multihop network  that shares the detections among the nodes. Utilizing all available ToA and AoA data, a novel  sensor fusion  algorithm then estimates the shooter position, bullet trajectory, miss distance, caliber, and weapon type. A single sensor relying only on its own detections is able determine the shooter position when both the shockwave and the muzzle blast are detected by at least three microphones each. Even with just one shockwave and one muzzle blast detection, the miss distance and range can be accurately estimated by a single sensor. The system has been tested multiple times at the US Army Aberdeen Test Center and the Nashville Police Academy. The demonstrated performance is 1-degree trajectory precision, over 95% caliber estimation accuracy, and close to 100% weapon estimation accuracy for 4 out of the 6 guns tested.",
+    "citation_count": "52",
+    "year": "2011/11/01",
+    "authors": [
+        {
+            "name": "Janos Sallai",
+            "country": ""
+        },
+        {
+            "name": "Will Hedgecock",
+            "country": ""
+        },
+        {
+            "name": "Peter Volgyesi",
+            "country": ""
+        },
+        {
+            "name": "Andras Nadas",
+            "country": ""
+        },
+        {
+            "name": "Gyorgy Balogh",
+            "country": ""
+        },
+        {
+            "name": "Akos Ledeczi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

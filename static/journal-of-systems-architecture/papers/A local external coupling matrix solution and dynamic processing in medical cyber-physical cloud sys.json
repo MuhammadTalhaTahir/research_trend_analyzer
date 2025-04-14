@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762119304850",
+    "title": "A local external coupling matrix solution and dynamic processing in medical cyber-physical cloud systems",
+    "abstract": "Medical cyber-physical  cloud systems  (MCPCS) are new generation medical cyber-physical systems (MCPS), which introduce  cloud computing  to integrate multiple MCPS to improve  quality of service  (QoS) and expand service scope in hospitals. When used in large-scale distributed environment, MCPCS need to perform a stability analysis to guarantee collaboration among multiple MCPS. In this paper, we propose a local topology search algorithm (LTS) to obtain the local external coupling matrices, which are important input parameters for the local synchronization stability analysis of MCPCS. LTS generates an optimal multi-fork tree from the source end MCPS to multiple destination end MCPS. Based on the relationship between nodes in the optimal multi-fork tree, the local external coupling matrices applied to the local synchronization stability analysis of MCPCS are then solved. Considering the variability of  network topology , we further propose a dynamic  processing method  called external coupling matrix change processing (ECMCP) to ensure the real-time update of the local external coupling matrices and dimensional consistency. Experimental results show that the proposed solution of LTS  &  ECMCP has lower costs of nodes and their communications than existing method.",
+    "citation_count": "8",
+    "year": "2020/01/01",
+    "authors": [
+        {
+            "name": "Li Liu",
+            "country": ""
+        },
+        {
+            "name": "Guoqi Xie",
+            "country": ""
+        },
+        {
+            "name": "Renfa Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

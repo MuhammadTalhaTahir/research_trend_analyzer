@@ -1,0 +1,30 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1008839720051",
+    "title": "Domain–Specific High–Level Modeling and Synthesis for ATM Switch Prototyping",
+    "abstract": "ATM switch, the core technology of an ATM networking system, is one of the major products in Fujitsu telecommunication business. However, current gate–level design methodology can no longer satisfy its stringent time–to–market requirement. It becomes necessary to exploit high–level methodology to specify and synthesize the design at an abstraction level higher than logic gates. This paper presents our prototyping experience on domain–specific high–level modeling and synthesis for Fujitsu ATM switch design. We propose a high–level design methodology using VHDL, where ATM switch architectural features are considered during behavior modeling, and a high–level synthesis compiler, MEBS, is prototyped to synthesize the behavior model down to a gate–level implementation. Since the specific ATM switch architecture is incorporated into both modeling and synthesis phases, a high–quality design is efficiently derived. The synthesis results shows that given the design constraints, the proposed high–level design methodology can produce a gate–level implementation by MEBS with about 15 percent area reduction in shorter design cycle when compared with manual design.",
+    "citation_count": 11,
+    "year": "1997/05",
+    "authors": [
+        {
+            "name": "Lee, Mike Tien-Chien",
+            "country": "USA"
+        },
+        {
+            "name": "Hsu, Yu-Chin",
+            "country": "USA"
+        },
+        {
+            "name": "Chen, Ben",
+            "country": "Japan"
+        },
+        {
+            "name": "Fujita, Masahiro",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

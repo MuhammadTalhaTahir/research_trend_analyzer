@@ -1,0 +1,39 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-012-0399-6",
+    "title": "Social and Content Hybrid Image Recommender System for Mobile Social Networks",
+    "abstract": "One of the advantages of social networks is the possibility to socialize and personalize the content created or shared by the users. In mobile social networks, where the devices have limited capabilities in terms of screen size and computing power, Multimedia Recommender Systems help to present the most relevant content to the users, depending on their tastes, relationships and profile. Previous recommender systems are not able to cope with the uncertainty of automated tagging and are knowledge domain dependant. In addition, the instantiation of a recommender in this domain should cope with problems arising from the collaborative filtering inherent nature (cold start, banana problem, large number of users to run, etc.). The solution presented in this paper addresses the abovementioned problems by proposing a hybrid image recommender system, which combines collaborative filtering (social techniques) with content-based techniques, leaving the user the liberty to give these processes a personal weight. It takes into account aesthetics and the formal characteristics of the images to overcome the problems of current techniques, improving the performance of existing systems to create a mobile social networks recommender with a high degree of adaptation to any kind of user.",
+    "citation_count": 42,
+    "year": "2012/12",
+    "authors": [
+        {
+            "name": "Sanchez, Faustino",
+            "country": "Spain"
+        },
+        {
+            "name": "Barrilero, Marta",
+            "country": "Spain"
+        },
+        {
+            "name": "Uribe, Silvia",
+            "country": "Spain"
+        },
+        {
+            "name": "Alvarez, Federico",
+            "country": "Spain"
+        },
+        {
+            "name": "Tena, Agustin",
+            "country": "Spain"
+        },
+        {
+            "name": "Menendez, Jose Manuel",
+            "country": "Spain"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

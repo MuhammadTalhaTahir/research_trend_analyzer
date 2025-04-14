@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-021-00726-0",
+    "title": "An LP-rounding based algorithm for a capacitated uniform facility location problem with penalties",
+    "abstract": "Facility location problem is a well established research area within Operations Research. Capacitated facility location problem is one of the most important variants, in which each facility has an upper bound on the demand, i.e., capacity. Moreover, the integrality gap of the natural linear program relaxation for the problem is infinite. Fortunately, the gap is finite when all opening costs for the facilities are the same. We consider a capacity facility location problem with penalties in which it is allowed some customers are not served by facilities and all opening costs are uniform. Based on LP-rounding framework, we propose a 5.732-approximation algorithm.",
+    "citation_count": 20,
+    "year": "2021/05",
+    "authors": [
+        {
+            "name": "Lv, Wei",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Wu, Chenchen",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

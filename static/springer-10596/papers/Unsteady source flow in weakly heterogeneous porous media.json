@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1011531414683",
+    "title": "Unsteady source flow in weakly heterogeneous porous media",
+    "abstract": "Average nonuniform flows in heterogeneous formations are modeled with the aid of the nonlocal effective Darcy's law. The mean head for flow toward source of instantaneous discharge in a heterogeneous medium of given statistics represents the fundamental solution of the average flow equation and is called the Mean Green Function (MGF). The general representation of the MGF is obtained for weakly heterogeneous formations as a functional of the logconductivity correlation function. For Gaussian logconductivity correlation, the MGF is derived in terms of one quadrature in time t and it is analyzed for isotropic media of any dimensionality d and for 3D axisymmetric formations. The MGF is further applied to determining the mean head distribution for flow driven by a continuous source of constant discharge. The large time asymptotic of the mean head is analyzed in details.",
+    "citation_count": 24,
+    "year": "2000/12",
+    "authors": [
+        {
+            "name": "Indelman, Peter",
+            "country": "Israel"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

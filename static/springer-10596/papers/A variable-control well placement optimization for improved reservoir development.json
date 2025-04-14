@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-012-9292-4",
+    "title": "A variable-control well placement optimization for improved reservoir development",
+    "abstract": "Determination of well locations and their operational settings (controls) such as injection/production rates in heterogeneous subsurface reservoirs poses a challenging optimization problem that has a significant impact on the recovery performance and economic value of subsurface energy resources. The well placement optimization is often formulated as an integer-programming problem that is typically carried out assuming known well control settings. Similarly, identification of the optimal well settings is usually formulated and solved as a control problem in which the well locations are fixed. Solving each of the two problems individually without accounting for the coupling between them leads to suboptimal solutions. Here, we propose to solve the coupled well placement and control optimization problems for improved production performance. We present an alternating iterative solution of the decoupled well placement and control subproblems where each subproblem (e.g., well locations) is resolved after updating the decision variables of the other subproblem (e.g., solving for the control settings) from previous step. This approach allows for application of well-established methods in the literature to solve each subproblem individually. We show that significant improvements can be achieved when the well placement problem is solved by allowing for variable and optimized well controls. We introduce a well-distance constraint into the well placement objective function to avoid solutions containing well clusters in a small region. In addition, we present an efficient gradient-based method for solving the well control optimization problem. We illustrate the effectiveness of the proposed algorithms using several numerical experiments, including the three-dimensional PUNQ reservoir and the top layer of the SPE10 benchmark model.",
+    "citation_count": 23,
+    "year": "2012/09",
+    "authors": [
+        {
+            "name": "Li, Lianlin",
+            "country": "USA"
+        },
+        {
+            "name": "Jafarpour, Behnam",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

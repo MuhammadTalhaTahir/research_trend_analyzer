@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S138376212200306X",
+    "title": "An efficient heterogeneous authenticated key agreement scheme for unmanned aerial vehicles",
+    "abstract": "Unmanned aerial vehicle  (UAV) technology is becoming more and more popular recently due to the rapid development of  Internet of things  (IoT) and network technology. It has gradually expanded from military field to civil field because of the convenience brought by UAVs. However, the communication of UAV is based on open wireless network, which makes it vulnerable to varieties of attacks. Besides, UAVs are generally considered as mobile devices with limited resources. It is necessary to ensure the security of UAV communication and reduce the computation overhead and communication cost on UAV’s side as much as possible.  Authenticated key agreement  (AKA) scheme is a proper way to meet the above requirements. It enables an UAV and a ground station (GS) to share a session key. Then they can use the session key as a symmetric key and communicate securely through  symmetric encryption , which is much less expensive than  asymmetric encryption . In this paper, we propose a heterogeneous authenticated key agreement (HAKA) scheme for an UAV to communicate with a GS, in which the UAV belongs to identity-based  cryptosystem  (IBC) and the GS belongs to  public key infrastructure  (PKI). Through rigorous security analysis, we show that the proposed scheme is  provably secure . Moreover, the comparative experimental results show that our scheme is the most efficient and suitable for UAVs with limited resources.",
+    "citation_count": "8",
+    "year": "2023/03/01",
+    "authors": [
+        {
+            "name": "Xiangyu Pan",
+            "country": ""
+        },
+        {
+            "name": "Yuqiao Jin",
+            "country": ""
+        },
+        {
+            "name": "Fagen Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,31 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-019-01380-x",
+    "title": "Optimal Charging Scheduling of Electric Vehicles in Micro Grids Using Priority Algorithms and Particle Swarm Optimization",
+    "abstract": "The large-scale integration of electric vehicles (EVs) into modern power grid brings both challenges and opportunities to the performance of the systems. This paper presents an optimal static (when EV is stationary) charging scheduling scheme of EVs to minimize the charging cost while complying with the constraints related to the status of the charging station. The proposed systematic charging scheme is based on “Particle Swarm Optimization (PSO)”. It is compared with well-established algorithms such as “Arrival Time-Based priority (ATP) algorithm” and “SOC-Based Priority (SBP) algorithm”. In addition, a microgrid scenario is further considered for reducing the consumption of energy from the grid and also, reducing the charging cost by properly shifting the EV load. Based on the study carried out for a sample test cases considered, it is found that the proposed scheme has better performance compared to the existing schemes.",
+    "citation_count": 38,
+    "year": "2019/12",
+    "authors": [
+        {
+            "name": "Savari, George Fernandez",
+            "country": "India"
+        },
+        {
+            "name": "Krishnasamy, Vijayakumar",
+            "country": "India"
+        },
+        {
+            "name": "Sugavanam, Vidyasagar",
+            "country": "India"
+        },
+        {
+            "name": "Vakesan, Kalyanasundaram",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

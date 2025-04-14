@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-024-01173-3",
+    "title": "The critical node game",
+    "abstract": "In this work, we introduce a game-theoretic model that assesses the cyber-security risk of cloud networks and informs security experts on the optimal security strategies. Our approach combines game theory, combinatorial optimization, and cyber-security and aims to minimize the unexpected network disruptions caused by malicious cyber-attacks under uncertainty. Methodologically, we introduce the the critical node game, a simultaneous and non-cooperative attacker-defender game where each player solves a combinatorial optimization problem parametrized in the variables of the other player. Each player simultaneously commits to a defensive (or attacking) strategy with limited knowledge about the choices of their adversary. We provide a realistic model for the critical node game and propose an algorithm to compute its stable solutions, i.e., its Nash equilibria. Practically, our approach enables security experts to assess the security posture of the cloud network and dynamically adapt the level of cyber-protection deployed on the network. We provide a detailed analysis of a real-world cloud network and demonstrate the efficacy of our approach through extensive computational tests.",
+    "citation_count": 41,
+    "year": "2024/07",
+    "authors": [
+        {
+            "name": "Dragotto, Gabriele",
+            "country": "USA"
+        },
+        {
+            "name": "Boukhtouta, Amine",
+            "country": "Canada"
+        },
+        {
+            "name": "Lodi, Andrea",
+            "country": "USA"
+        },
+        {
+            "name": "Taobane, Mehdi",
+            "country": "Canada"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

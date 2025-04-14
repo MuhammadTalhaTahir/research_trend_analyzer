@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-025-01278-3",
+    "title": "Approximation algorithms for solving the heterogeneous rooted tree/path cover problems",
+    "abstract": "In this paper, we consider the heterogeneous rooted tree cover (HRTC) problem, which further generalizes the rooted tree cover problem. Specifically, given a complete graph $$G=(V,E; w,f; r)$$ and k construction teams, having nonuniform construction speeds $$\\lambda _{1}$$ , $$\\lambda _{2}$$ , $$\\ldots $$ , $$\\lambda _{k}$$ , where $$r\\in V$$ is a fixed common root, $$w:E\\rightarrow {\\mathbb {R}}^{+}$$ is an edge-weight function, satisfying the triangle inequality, and $$f:V\\rightarrow {\\mathbb {R}}^{+}_{0}$$ (i.e., $${\\mathbb {R}}^{+}\\cup \\{0\\})$$ is a vertex-weight function with $$f(r)=0$$ , we are asked to find k trees for these k construction teams, each tree having the same root r, and collectively covering all vertices in V, the objective is to minimize the maximum completion time of k construction teams, where the completion time of each team is the total construction weight of its related tree divided by its construction speed. In addition, substituting k paths for k trees in the HRTC problem, we also consider the heterogeneous rooted path cover (HRPC) problem. Our main contributions are as follows. (1) Given any small constant $$\\delta &gt;0$$ , we first design a $$58.3286(1+\\delta )$$ -approximation algorithm to solve the HRTC problem, and this algorithm runs in time $$O(n^{2}(n+\\frac{\\log n}{\\delta })+\\log (w(E)+f(V)))$$ . Meanwhile, we present a simple $$116.6572(1+\\delta )$$ -approximation algorithm to solve the HRPC problem, whose time complexity is the same as the preceding algorithm. (2) We provide a $$\\max \\{2\\rho , 2+\\rho -\\frac{2}{k}\\}$$ -approximation algorithm to resolve the HRTC problem, and that algorithm runs in time $$O(n^{2})$$ , where $$\\rho $$ is the ratio of the largest team speed to the smallest one. At the same time, we can prove that the preceding $$\\max \\{2\\rho , 2+\\rho -\\frac{2}{k}\\}$$ -approximation algorithm also resolves the HRPC problem.",
+    "citation_count": 23,
+    "year": "2025/04",
+    "authors": [
+        {
+            "name": "Pan, Pengxiang",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Lichen, Junran",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Yang, Ping",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Li, Jianping",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

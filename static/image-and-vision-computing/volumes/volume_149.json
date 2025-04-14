@@ -1,0 +1,134 @@
+[
+    {
+        "title": "Editorial Board",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003287"
+    },
+    {
+        "title": "STAFFormer: Spatio-temporal adaptive fusion transformer for efficient 3D human pose estimation",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002464"
+    },
+    {
+        "title": "M",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002439"
+    },
+    {
+        "title": "2",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002671"
+    },
+    {
+        "title": "VAD",
+        "url": "https://www.sciencedirect.com/science/article/pii/S026288562400266X"
+    },
+    {
+        "title": ": Multiview multimodality transformer-based weakly supervised video anomaly detection",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002646"
+    },
+    {
+        "title": "Hybrid attention transformer with re-parameterized large kernel convolution for image super-resolution",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002609"
+    },
+    {
+        "title": "A novel infrared and visible image fusion algorithm based on global information-enhanced attention network",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002658"
+    },
+    {
+        "title": "FTAN: Frame-to-frame temporal alignment network with contrastive learning for few-shot action recognition",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002622"
+    },
+    {
+        "title": "An instance-level data balancing method for object detection via contextual information alignment",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002877"
+    },
+    {
+        "title": "GDM-depth: Leveraging global dependency modelling for self-supervised indoor depth estimation",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002865"
+    },
+    {
+        "title": "A semi-parallel CNN-transformer fusion network for semantic change detection",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002774"
+    },
+    {
+        "title": "Relational-branchformer: Novel framework for audio-visual speech recognition",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002853"
+    },
+    {
+        "title": "Exploring global context and position-aware representation for group activity recognition",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002889"
+    },
+    {
+        "title": "Joint training strategy of unimodal and multimodal for multimodal sentiment analysis",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002956"
+    },
+    {
+        "title": "Semantics feature sampling for point-based 3D object detection",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002683"
+    },
+    {
+        "title": "A novel facial expression recognition model based on harnessing complementary features in multi-scale network with attention fusion",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002919"
+    },
+    {
+        "title": "LDConv: Linear deformable convolution for improving convolutional neural networks",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002737"
+    },
+    {
+        "title": "Artificial immune systems for data augmentation",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002749"
+    },
+    {
+        "title": "Exploring holistic discriminative representation for micro-expression recognition via contrastive learning",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002932"
+    },
+    {
+        "title": "Transferable dual multi-granularity semantic excavating for partially relevant video retrieval",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002750"
+    },
+    {
+        "title": "Event-driven weakly supervised video anomaly detection",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002634"
+    },
+    {
+        "title": "QSMT-net: A query-sensitive proposal and multi-temporal-span matching network for video grounding",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002944"
+    },
+    {
+        "title": "CoNPL: Consistency training framework with noise-aware pseudo labeling for dense pose estimation",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002762"
+    },
+    {
+        "title": "Multi-task disagreement-reducing multimodal sentiment fusion network",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002166"
+    },
+    {
+        "title": "Multi-label recognition in open driving scenarios based on bipartite-driven superimposed dynamic graph",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002713"
+    },
+    {
+        "title": "EVA-02: A visual representation for neon genesis",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002348"
+    },
+    {
+        "title": "Superpixel conditional generation adversarial network for CMR artifact correction",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002968"
+    },
+    {
+        "title": "PMANet: Progressive multi-stage attention networks for skin disease classification",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002981"
+    },
+    {
+        "title": "EPSViTs: A hybrid architecture for image classification based on parameter-shared multi-head self-attention",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002488"
+    },
+    {
+        "title": "Multiscale segmentation net for segregating heterogeneous brain tumors: Gliomas on multimodal MR images",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002701"
+    },
+    {
+        "title": "Enhancing cervical cancer diagnosis: Integrated attention-transformer system with weakly supervised learning",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002695"
+    },
+    {
+        "title": "GAN-BodyPose: Real-time 3D human body pose data key point detection and quality assessment assisted by generative adversarial network",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003007"
+    }
+]

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762115000788",
+    "title": "Non-preemptive and SRP-based fully-preemptive scheduling of real-time Software Transactional Memory",
+    "abstract": "Recent embedded processor architectures containing multiple heterogeneous cores and non-coherent caches renewed attention to the use of Software  Transactional Memory  (STM) as a  building block  for developing parallel applications. STM promises to ease concurrent and parallel software development, but relies on the possibility of abort conflicting transactions to maintain data consistency, which in turns affects the execution time of tasks carrying transactions. Because of this fact the timing behaviour of the task set may not be predictable, thus it is crucial to limit the execution time overheads resulting from aborts. In this paper we formalise a FIFO-based algorithm to order the sequence of commits of concurrent transactions. Then, we propose and evaluate two non-preemptive and one SRP-based fully-preemptive scheduling strategies, in order to avoid transaction starvation.",
+    "citation_count": "4",
+    "year": "2015/11/01",
+    "authors": [
+        {
+            "name": "António Barros",
+            "country": ""
+        },
+        {
+            "name": "Luís Miguel Pinho",
+            "country": ""
+        },
+        {
+            "name": "Patrick Meumeu Yomsi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

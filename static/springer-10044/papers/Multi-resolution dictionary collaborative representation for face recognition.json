@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-021-00987-9",
+    "title": "Multi-resolution dictionary collaborative representation for face recognition",
+    "abstract": "In this paper, a multi-resolution dictionary collaborative representation(MRDCR) method for face recognition is proposed. Unlike most of the traditional sparse learning methods, such as sparse representation-based classification(SRC) methods and dictionary learning(DL)-based methods, which concentrate only on a single resolution, we consider the fact that the resolutions of real-world face images are variable. We use multiple dictionaries each being related with a resolution to collaboratively represent the test image. Main advantages of this work are summarized as follows. First, we extend the traditional collaborative representation-based classification(CRC) method to the multi-resolution dictionary case, which obtains better recognition accuracy than traditional SRC/CRC methods. Second, comparing with conventional DL methods and recently proposed multi-resolution dictionary learning(MRDL) method, MRDCR still shows superior performance, even in the case of random baboon block occlusion. Third, on the small-scale face databases, our method has achieved better results than some deep learning methods. Last, MRDCR has a closed-form solution, which makes it more efficient than most of the traditional sparse learning methods. The experimental results on five benchmark face databases and a Virus database demonstrate that our proposed MRDCR method outperforms many state-of-the-art dictionary learning and sparse representation methods. The MATLAB code will be available at https://github.com/masterliuhzen/ .",
+    "citation_count": 43,
+    "year": "2021/11",
+    "authors": [
+        {
+            "name": "Liu, Zhen",
+            "country": "China"
+        },
+        {
+            "name": "Wu, Xiao-Jun",
+            "country": "China"
+        },
+        {
+            "name": "Shu, Zhenqiu",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

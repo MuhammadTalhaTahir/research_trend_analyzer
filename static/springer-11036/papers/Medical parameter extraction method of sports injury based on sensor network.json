@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-022-02023-4",
+    "title": "Medical parameter extraction method of sports injury based on sensor network",
+    "abstract": "In order to ensure the extraction effect of sports injury medical parameters, improve the extraction efficiency and accuracy, and reduce the extraction error, a sports injury medical parameter extraction method based on sensor network is proposed. The medical parameters of sports injury are collected through invasive wireless sensor network nodes. Using the KPCA data dimensionality reduction principle, the collected sports injury medical parameters are reduced, the Kinect somatosensory sensor is used to identify the bone and joint points of the human body, build the skeleton model of the human body, and extract the sports injury medical parameters. The experimental results show that the proposed method has good extraction effect of sports injury medical parameters, can effectively improve the efficiency and accuracy of sports injury medical parameters extraction, and reduce the error of sports injury medical parameters extraction.",
+    "citation_count": 20,
+    "year": "2023/12",
+    "authors": [
+        {
+            "name": "Gong, Yong",
+            "country": "China"
+        },
+        {
+            "name": "García-Díaz, Vicente",
+            "country": "Spain"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959520301296",
+    "title": "BBR Advanced (BBR-A) — Reduced retransmissions with improved fairness",
+    "abstract": "In 2016, Google proposed Bottleneck Bandwidth and Round-trip-time (BBR), a new TCP congestion control algorithm to avoid bottleneck queue formation and utilize underlying bandwidth in full. However, recent reports have found significant flaws in BBR, especially a high packet retransmissions problem, and throughput unfairness issue. We propose BBR Advanced (BBR-A) that resolves these issues by halving the congestion window and slowing down the pacing gain for actual congestion events, which it decides based on packet losses and RTT. Mininet emulation experiments confirm that BBR-A reduces retransmissions up to 60% and increases fairness index up to 10% in comparison with BBR.",
+    "citation_count": "0",
+    "year": "2020/12/01",
+    "authors": [
+        {
+            "name": "Imtiaz Mahmud",
+            "country": ""
+        },
+        {
+            "name": "You-Ze Cho",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-020-00632-x",
+    "title": "Super-stability in the student-project allocation problem with ties",
+    "abstract": "The Student-Project Allocation problem with lecturer preferences over Students (spa-s) involves assigning students to projects based on student preferences over projects, lecturer preferences over students, and the maximum number of students that each project and lecturer can accommodate. This classical model assumes that each project is offered by one lecturer and that preference lists are strictly ordered. Here, we study a generalisation of spa-s where ties are allowed in the preference lists of students and lecturers, which we refer to as the Student-Project Allocation problem with lecturer preferences over Students with Ties (spa-st). We investigate stable matchings under the most robust definition of stability in this context, namely super-stability. We describe the first polynomial-time algorithm to find a super-stable matching or to report that no such matching exists, given an instance of spa-st. Our algorithm runs in O(L) time, where L is the total length of all the preference lists. Finally, we present results obtained from an empirical evaluation of the linear-time algorithm based on randomly-generated spa-st instances. Our main finding is that, whilst super-stable matchings can be elusive when ties are present in the students’ and lecturers’ preference lists, the probability of such a matching existing is significantly higher if ties are restricted to the lecturers’ preference lists.",
+    "citation_count": 28,
+    "year": "2022/07",
+    "authors": [
+        {
+            "name": "Olaosebikan, Sofiat",
+            "country": "UK"
+        },
+        {
+            "name": "Manlove, David",
+            "country": "UK"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

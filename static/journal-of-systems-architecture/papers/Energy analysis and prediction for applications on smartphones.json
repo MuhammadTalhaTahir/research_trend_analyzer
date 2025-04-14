@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762113001598",
+    "title": "Energy analysis and prediction for applications on smartphones",
+    "abstract": "A rich variety of applications are deployed on mobile devices, such as smartphones, and most of them consume huge  battery  energy during the execution. Unfortunately, it’s hard to obtain the  application energy  consumption for the end user based on professional measurement devices. Therefore, it is crucial to model the energy consumption of applications to easily understand the application power behavior for end users without external tools. In this paper, a time energy model (TEM) is proposed, which is a regression model to estimate the application energy consumption on real mobile devices. Compared with the component energy model (CEM), TEM uses a time variable to characterize and contain a variety of mobile devices’ properties, such as  power consumption  and performance, to simply, rapidly and accurately estimate the mobile devices’ energy consumption during  application execution . Based on our TEM, the  execution time  of an application can be easily measured and obtained as well. To demonstrate the effectiveness and accuracy of TEM, the energy consumptions of three applications are measured by our energy monitor, PowerTutor and a HOIKI 3334 power meter, respectively. The experiment results show that, on average, our TEM can achieve a 1.30% error rate compared to CEM, a 2.88% error rate compared to PowerTutor and a 8.98% error rate compared to HOIKI 3334. Therefore, TEM can help end users rapidly and conveniently predict the applications energy consumption.",
+    "citation_count": "18",
+    "year": "2013/11/01",
+    "authors": [
+        {
+            "name": "Lin-Tao Duan",
+            "country": ""
+        },
+        {
+            "name": "Bing Guo",
+            "country": ""
+        },
+        {
+            "name": "Yan Shen",
+            "country": ""
+        },
+        {
+            "name": "Yi Wang",
+            "country": ""
+        },
+        {
+            "name": "Wen-Li Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

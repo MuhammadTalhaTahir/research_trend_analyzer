@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-021-01882-7",
+    "title": "Privacy-Preserving Traffic Violation Image Filtering and Searching via Crowdsensing",
+    "abstract": "With the popularity of mobile terminal equipment and wireless sensing network, the applications of mobile crowdsensing-based traffic violation monitoring are increasingly widely used. However, the enormous amount of sensing data with complex types brings a critical challenge to the limited bandwidth and storage space. Meanwhile, there is a serious risk of the sensing data and query privacy leakage in multi-requester/multi-user scenarios. To address the above issues, we propose a traffic violation image filtering and searching scheme for multi-requester/multi-user mobile crowdsensing, which achieves image content and user query privacy preservation. Specifically, we firstly consider the multiple factors that impaired image quality, then give the grading metric to perform image filtering and obtain high-quality images. In query and searching processes, we achieve that unshared key multi-requester/multi-user image retrieval without any image content and query privacy leakage. Moreover, our proposed scheme supports the malicious users’ accountability based on the revealed private keys, which significantly improve the security and reliability. Finally, we conduct the privacy analysis, which satisfies the privacy-preserving and security requirements. Experiment results on real-world dataset show that our approach to image filtering and searching is practical and effective.",
+    "citation_count": 51,
+    "year": "2022/12",
+    "authors": [
+        {
+            "name": "Zhang, Yuanyuan",
+            "country": "China"
+        },
+        {
+            "name": "Xiong, Jinbo",
+            "country": "China"
+        },
+        {
+            "name": "Liu, Ximeng",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

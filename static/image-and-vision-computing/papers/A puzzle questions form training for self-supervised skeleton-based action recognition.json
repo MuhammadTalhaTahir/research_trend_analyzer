@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002415",
+    "title": "A puzzle questions form training for self-supervised skeleton-based action recognition",
+    "abstract": "This paper proposed a novel pretext task to address the skeleton-based video representation for self-supervised action recognition tasks. Instead of exploiting only the whole body, various levels of the skeleton structure (e.g., upper body, lower body, left arm, left leg, right arm, right leg, and torso) are employed to extract essential coarser-grained characteristics. This involves  computing statistical  representations like motion, orientation, trajectory, and magnitude shift from unlabeled skeleton configurations. Then a learning model is built and trained to yield these statistical representations given the sequence configuration as the input. Our approach is question-driven, where each question acts as a puzzle piece contributing to a  deeper understanding  of the skeleton joint configuration. It's inspired by the ability of the cognitive system observed in individuals to hypothesize unseen actions. This is accomplished by posing pertinent questions and envisioning plausible scenarios to recognize the actions taking place. The answers to these devised questions are derived from the statistical representation of skeleton configurations. To this end, we made 44 questions designed to encompass the broadest overview to the finest detail. Our experiments on the NTU RGB-D, NW-UCLA, and PKU-MMD datasets demonstrate outstanding results in action recognition, proving the superiority of our approach in learning discriminative characteristics.",
+    "citation_count": "0",
+    "year": "2024/08/01",
+    "authors": [
+        {
+            "name": "Oumaima Moutik",
+            "country": ""
+        },
+        {
+            "name": "Hiba Sekkat",
+            "country": ""
+        },
+        {
+            "name": "Taha Ait Tchakoucht",
+            "country": ""
+        },
+        {
+            "name": "Badr El Kari",
+            "country": ""
+        },
+        {
+            "name": "Ahmed El Hilali Alaoui",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

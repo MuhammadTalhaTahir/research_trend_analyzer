@@ -1,0 +1,37 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-017-0202-5",
+    "title": "On residual approximation in solution extension problems",
+    "abstract": "The solution extension variant of a problem consists in, being given an instance and a partial solution, finding the best solution comprising the given partial solution. Many problems have been studied with a similar approach. For instance the Pre-Coloring Extension problem, the clustered variant of the Travelling Salesman problem, or the General Routing Problem are in a way typical examples of solution extension variant problems. Motivated by practical applications of such variants, this work aims to explore different aspects around extension on classical optimization problems. We define residue-approximations as algorithms whose performance ratio on the non-prescribed part can be bounded, and corresponding complexity classes. Using residue-approximation, we classify problems according to their residue-approximability, exhibit distinct behaviors and give several examples and first interesting results.",
+    "citation_count": 43,
+    "year": "2018/11",
+    "authors": [
+        {
+            "name": "Weller, Mathias",
+            "country": "France"
+        },
+        {
+            "name": "Chateau, Annie",
+            "country": "France"
+        },
+        {
+            "name": "Giroudeau, Rodolphe",
+            "country": "France"
+        },
+        {
+            "name": "König, Jean-Claude",
+            "country": "France"
+        },
+        {
+            "name": "Pollet, Valentin",
+            "country": "France"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

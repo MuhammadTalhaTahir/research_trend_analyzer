@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-021-00991-z",
+    "title": "Savitzky–Golay filter energy features-based approach to face recognition using symbolic modeling",
+    "abstract": "Face recognition is a well-researched domain however many issues for instance expression changes, illumination variations, and presence of occlusion in the face images seriously affect the performance of such systems. A recent survey shows that&nbsp;COVID-19&nbsp;will also have a&nbsp;considerable&nbsp;and long-term impact on biometric face recognition systems. The work has presented two novel Savitzky–Golay differentiator (SGD) and gradient-based Savitzky–Golay differentiator (GSGD) feature extraction techniques to elevate issues related to face recognition systems. The SGD and GSGD feature descriptors are able to extract discriminative information present in different parts of the face image. In this paper, an efficient and robust person identification using symbolic data modeling approach and similarity analysis measure is devised and employed for feature representation and classification tasks to address the aforementioned issues of face recognition. Extensive experiments and comparisons of the proposed descriptors experimental results indicated that the proposed approaches can achieve optimal performance of 96–97, 92–96, 100, 84–93, and 87–96% on LFW, ORL, AR, IJB-A datasets, and newly devised VISA database, respectively.",
+    "citation_count": 41,
+    "year": "2021/11",
+    "authors": [
+        {
+            "name": "Kagawade, Vishwanath C.",
+            "country": "India"
+        },
+        {
+            "name": "Angadi, Shanmukhappa A.",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

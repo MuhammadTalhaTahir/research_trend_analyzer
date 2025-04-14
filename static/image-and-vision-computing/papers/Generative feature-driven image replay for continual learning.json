@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002920",
+    "title": "Generative feature-driven image replay for continual learning",
+    "abstract": "Neural networks are prone to catastrophic forgetting when trained incrementally on different tasks. Popular incremental learning methods mitigate such forgetting by retaining a subset of previously seen samples and replaying them during the training on subsequent tasks. However, this is not always possible, e.g., due to data protection regulations. In such restricted scenarios, one can employ generative models to replay either artificial images or hidden features to a classifier. In this work, we propose Genifer ( GEN erat I ve  FE ature-driven image  R eplay), where a generative model is trained to replay images that must induce the same hidden features as real samples when they are passed through the classifier. Our technique therefore incorporates the benefits of both image and feature replay, i.e.: (1) unlike conventional image replay, our generative model explicitly learns the distribution of features that are relevant for classification; (2) in contrast to feature replay, our entire classifier remains trainable; and (3) we can leverage image-space augmentations, which increase distillation performance while also mitigating overfitting during the training of the generative model. We show that Genifer substantially outperforms the previous state of the art for various settings on the CIFAR-100 and CUB-200 datasets. The code is available at:  https://github.com/kevthan/feature-driven-image-replay .",
+    "citation_count": "3",
+    "year": "2024/10/01",
+    "authors": [
+        {
+            "name": "Kevin Thandiackal",
+            "country": ""
+        },
+        {
+            "name": "Tiziano Portenier",
+            "country": ""
+        },
+        {
+            "name": "Andrea Giovannini",
+            "country": ""
+        },
+        {
+            "name": "Maria Gabrani",
+            "country": ""
+        },
+        {
+            "name": "Orcun Goksel",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

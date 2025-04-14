@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-009-9139-9",
+    "title": "A three-phase four-component streamline-based simulator to study carbon dioxide storage",
+    "abstract": "We have extended an existing streamline simulator (Batycky et al., SPE Reserv Eng 12(4):246–254, 1997) that considered two phases (aqueous and hydrocarbon) and two components (water and oil) to handle three-phase (aqueous, hydrocarbon, and solid), four-component (water, oil, CO2, and salt) transport applied to CO2 injection. We solved CO2 transport equations in the hydrocarbon and aqueous phases along streamlines and in the direction of gravity. To capture the physics of CO2 transport, in the hydrocarbon phase, we used the Todd–Longstaff model (Todd and Longstaff, J Pet Technol 24(7):874–882, 1972) to represent subgrid-block viscous fingering. We implemented a thermodynamic model of mutual dissolution between CO2 and water with salt precipitation (Spycher et al., Geochim Cosmochim Acta 67(16):3015–3031, 2003; Spycher and Pruess, Geochim Cosmochim Acta 69(13):3309–3320, 2005). The resultant changes in porosity and permeability due to chemical reaction and salt precipitation were also considered. We accounted for two cycles of relative permeability hysteresis (primary and secondary drainage and imbibition) by applying two different trapping models: Land (SPE J 8:149–156, 1968) and Spiteri et al. (SPE J 13(3):277–288, 2008). Relative permeability changes and variations in the trapped nonwetting phase saturations due to hysteresis were updated on a block-by-block basis. We verified our simulator by comparing one-dimensional simulation results with analytical solutions. We then performed simulations on three-dimensional reservoir models. We first simulated dry CO2 injection in an aquifer to investigate the effect of salt precipitation. After 2&nbsp;years of CO2 injection, the permeability reduced by approximately 20%. We then used the simulator to design CO2 injection strategies in aquifers to maximize CO2 storage and in oil reservoirs to optimize both CO2 storage and oil recovery. Simulations were conducted on a North Sea reservoir description. We propose to inject CO2 and water simultaneously, followed by chase brine injection, which could render the majority of CO2 injected immobile while giving a much higher storage efficiency than injecting CO2 alone.",
+    "citation_count": 44,
+    "year": "2009/12",
+    "authors": [
+        {
+            "name": "Qi, Ran",
+            "country": "UK"
+        },
+        {
+            "name": "LaForce, Tara C.",
+            "country": "UK"
+        },
+        {
+            "name": "Blunt, Martin J.",
+            "country": "UK"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

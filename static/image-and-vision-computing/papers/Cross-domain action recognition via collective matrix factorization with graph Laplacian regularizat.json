@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885616300099",
+    "title": "Cross-domain action recognition via collective matrix factorization with graph Laplacian regularization",
+    "abstract": "This paper investigates the problem of cross-domain action recognition. Specifically, we present a cross-domain action recognition framework by utilizing some labeled data from other data sets as the  auxiliary  source domain. It is a challenging task as data from different domains may have different feature distribution. To map data from different domains into the same abstract space and boost the action recognition performance, we propose a method named collective  matrix factorization  with graph  Laplacian   regularization  (CMFGLR). Our approach is built upon the technique of collective  matrix factorization , which simultaneously learns a common latent space, linear  projection matrices  for obtaining  semantic representations , and an optimal  linear classifier . Moreover, we explore the label consistency across different domain and the local geometric consistency in each domain and obtain a graph  Laplacian   regularization term  to enhance the discrimination of learned features. Experimental results verify that CMFGLR significantly outperforms several state-of-the-art methods.",
+    "citation_count": "15",
+    "year": "2016/11/01",
+    "authors": [
+        {
+            "name": "Jun Tang",
+            "country": ""
+        },
+        {
+            "name": "Haiqun Jin",
+            "country": ""
+        },
+        {
+            "name": "Shoubiao Tan",
+            "country": ""
+        },
+        {
+            "name": "Dong Liang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

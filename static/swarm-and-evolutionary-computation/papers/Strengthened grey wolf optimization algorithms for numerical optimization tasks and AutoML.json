@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650225000495",
+    "title": "Strengthened grey wolf optimization algorithms for numerical optimization tasks and AutoML",
+    "abstract": "The grey wolf optimization algorithm (GWO) is an efficient optimization technology. However, it still has some problems such as immature convergence and stagnation at local optima. In this paper, a strengthened grey wolf optimization algorithm (SGWO) is proposed based on three strengthening mechanisms: the exponential decreasing convergence factor, the elite reselection strategy in per generation and the Cauchy mutation (CM) operator. Seven variants of SGWO are designed according to different deployment modes of three reinforcement mechanisms. Experiments on thirteen numerical optimization problems are carried out to compare the differences between GWO and SGWOs. The experimental results reveal that SGWOs can significantly improve the search performance of GWO in most tasks. Among them, SGWO7 is the most successful competitor. Furthermore, several optimizers have demonstrated through comparison on engineering design problems that SGWO7 outperforms the vast majority of competitors. Subsequently, MHHO, TLBO, GWO and SGWO7 are used to build automatic machine learning (AutoML) model. The experimental results of the four methods on MNIST dataset further illustrate the advantages of SGWO7 designed in this research.",
+    "citation_count": "0",
+    "year": "2025/04/01",
+    "authors": [
+        {
+            "name": "Xuefen Chen",
+            "country": ""
+        },
+        {
+            "name": "Chunming Ye",
+            "country": ""
+        },
+        {
+            "name": "Yang Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

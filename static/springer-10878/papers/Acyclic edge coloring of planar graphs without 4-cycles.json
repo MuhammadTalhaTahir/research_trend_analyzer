@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-012-9474-y",
+    "title": "Acyclic edge coloring of planar graphs without 4-cycles",
+    "abstract": "An acyclic edge coloring of a graph G is a proper edge coloring such that no bichromatic cycles are produced. The acyclic chromatic index a′(G) of G is the smallest integer k such that G has an acyclic edge coloring using k colors. Fiamčik (Math. Slovaca 28:139–145, 1978) and later Alon, Sudakov and Zaks (J.&nbsp;Graph Theory 37:157–167, 2001) conjectured that a′(G)≤Δ+2 for any simple graph G with maximum degree Δ. In this paper, we confirm this conjecture for planar graphs G with Δ≠4 and without 4-cycles.",
+    "citation_count": 23,
+    "year": "2013/05",
+    "authors": [
+        {
+            "name": "Wang, Weifan",
+            "country": "China"
+        },
+        {
+            "name": "Shu, Qiaojun",
+            "country": "China"
+        },
+        {
+            "name": "Wang, Yiqiao",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-006-8462-5",
+    "title": "Polyhedral combinatorics of the cardinality constrained quadratic knapsack problem and the quadratic selective travelling salesman problem",
+    "abstract": "This paper considers the Cardinality Constrained Quadratic Knapsack Problem (QKP) and the Quadratic Selective Travelling Salesman Problem (QSTSP). The QKP is a generalization of the Knapsack Problem and the QSTSP is a generalization of the Travelling Salesman Problem. Thus, both problems are NP hard. The QSTSP and the QKP can be solved using branch-and-cut methods. Good bounds can be obtained if strong constraints are used. Hence it is important to identify strong or even facet-defining constraints. This paper studies the polyhedral combinatorics of the QSTSP and the QKP, i.e. amongst others we identify facet-defining constraints for the QSTSP and the QKP, and provide mathematical proofs that they do indeed define facets.",
+    "citation_count": 18,
+    "year": "2006/06",
+    "authors": [
+        {
+            "name": "Mak, Vicky",
+            "country": "Australia"
+        },
+        {
+            "name": "Thomadsen, Tommy",
+            "country": "Denmark"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

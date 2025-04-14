@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224002013",
+    "title": "When large language model meets optimization",
+    "abstract": "Optimization algorithms and large language models (LLMs) enhance decision-making in dynamic environments by integrating artificial intelligence with traditional techniques. LLMs, with extensive domain knowledge, facilitate intelligent modeling and strategic decision-making in optimization, while optimization algorithms refine LLM architectures and output quality. This synergy offers novel approaches for advancing general AI, addressing both the computational challenges of complex problems and the application of LLMs in practical scenarios. This review outlines the progress and potential of combining LLMs with optimization algorithms, providing insights for future research directions.",
+    "citation_count": "1",
+    "year": "2024/10/01",
+    "authors": [
+        {
+            "name": "Sen Huang",
+            "country": ""
+        },
+        {
+            "name": "Kaixiang Yang",
+            "country": ""
+        },
+        {
+            "name": "Sheng Qi",
+            "country": ""
+        },
+        {
+            "name": "Rui Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

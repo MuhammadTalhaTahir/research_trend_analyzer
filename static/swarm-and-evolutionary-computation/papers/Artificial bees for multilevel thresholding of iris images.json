@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650214000820",
+    "title": "Artificial bees for multilevel thresholding of iris images",
+    "abstract": "In this paper, a multilevel thresholding based on  Artificial Bee Colony   metaheuristic  is proposed as a pre-segmentation step in the iris detection process. Multilevel thresholding helps in the unification of the iris region and the attenuation of the noise outside and inside the iris region that mainly affects the process of iris segmentation. Since it depends on  exhaustive search , multilevel thresholding is time consuming especially if the number of thresholds is not restricted, though it yields convenient results. Two variants of Artificial Bee Colony (ABC) metaheuristic, namely, the basic ABC and the G-best guided ABC in addition to  Cuckoo Search  (CS) and  Particle Swarm Optimisation  (PSO) metaheuristics are then used to look for the best thresholds distribution delimiting the components of the  iris image  for improving the iris detection results. To test our approach, we have opted for the Integro-differential Operator of Daughman and the Masek method for the principal  segmentation process  on both the standard databases CASIA and UBIRIS. As a result, qualitatively the segmented iris images are enhanced; numerically the iris detection rate improved and became more accurate.",
+    "citation_count": "33",
+    "year": "2015/04/01",
+    "authors": [
+        {
+            "name": "Amira Bouaziz",
+            "country": ""
+        },
+        {
+            "name": "Amer Draa",
+            "country": ""
+        },
+        {
+            "name": "Salim Chikhi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

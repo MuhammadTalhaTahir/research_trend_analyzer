@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885620300445",
+    "title": "Learning visual variation for object recognition",
+    "abstract": "We propose visual variation learning to improve object recognition with  convolutional neural networks  (CNN). While a typical CNN regards visual variations as nuisances and marginalizes them from the data, we speculate that some variations are informative. We study the impact of visual variation as an auxiliary task, during training only, on classification and similarity embedding problems. To train the network, we introduce the iLab-20M dataset, a large-scale controlled parametric dataset of toy vehicle objects under systematic annotated variations of viewpoint, lighting, focal setting, and background. After training, we strip out the network components related to visual variations, and test  classification accuracy  on images with no visual variation labels. Our experiments on 1.75 million images from iLab-20M show significant improvement in object  recognition accuracy , i.e., AlexNet: 84.49% to 91.15%;  ResNet : 86.14% to 90.70%; and  DenseNet : 85.56% to 91.55%. Our key contribution is that, at the cost of visual variation annotation during training only, CNN enhanced with visual variation learning is able to focus its attention on distinctive features and learn better object representations, reducing  classification error  rate of Alexnet by 42%, ResNet by 32%, and DenseNet by 41%, without significant sacrificing of training time and model complexity.",
+    "citation_count": "10",
+    "year": "2020/06/01",
+    "authors": [
+        {
+            "name": "Jatuporn Toy Leksut",
+            "country": ""
+        },
+        {
+            "name": "Jiaping Zhao",
+            "country": ""
+        },
+        {
+            "name": "Laurent Itti",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

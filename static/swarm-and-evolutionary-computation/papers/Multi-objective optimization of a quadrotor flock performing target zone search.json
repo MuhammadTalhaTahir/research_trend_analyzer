@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650220303862",
+    "title": "Multi-objective optimization of a quadrotor flock performing target zone search",
+    "abstract": "This article presents a  performance improvement  of a bio-inspired quadrotor  swarm  for a flocking task with an unknown target zone. Because swarm behavior depends on repulsion, orientation and attraction tendencies between members, these parameters can be set properly for this improvement. A simulator of the swarm in the proposed task is made involving a dynamic modelling of a quadrotor and considering two scenarios, without and with obstacles. Task execution is evaluated by multiple objective functions which must be minimized making use of multi-objective optimization techniques. A comparison between Nondominated Sorting  Genetic Algorithm  II with Differential Evolution (NSGA-II-DE) and Multi-Objective  Particle Swarm Optimization  (MOPSO) is made. The results indicate relevance of the proper set of repulsion, orientation and attraction parameters in order to maintain the properties of the swarm like aggregation while executes a navigation-search task when scenario involves a different number of quadrotors or when there are obstacles in the arena.",
+    "citation_count": "16",
+    "year": "2021/02/01",
+    "authors": [
+        {
+            "name": "Luis A. Márquez-Vega",
+            "country": ""
+        },
+        {
+            "name": "Mario Aguilera-Ruiz",
+            "country": ""
+        },
+        {
+            "name": "Luis M. Torres-Treviño",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

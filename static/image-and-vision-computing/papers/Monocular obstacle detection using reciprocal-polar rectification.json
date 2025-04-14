@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885606001326",
+    "title": "Monocular obstacle detection using reciprocal-polar rectification",
+    "abstract": "Our obstacle detection method is applicable to deliberative translation motion of a mobile robot and, in such motion, the epipole of each image of an image pair is coincident and termed the focus of expansion (FOE). We present an accurate method for computing the FOE and then we use this to apply a novel  rectification  to each image, called a reciprocal-polar (RP)  rectification . When robot translation is parallel to the ground, as with a mobile robot, ground plane image motion in RP-space is a pure shift along an RP image scan line and hence can be recovered by a process of 1D correlation, even over large image displacements and without the need for corner matches. Furthermore, we show that the magnitude of these shifts follows a sinusoidal form along the second (orientation) dimension of the RP image. This gives the main result that ground plane motion over RP image space forms a 3D sinusoidal manifold. Simultaneous ground plane pixel grouping and recovery of the ground plane motion thus amounts to finding the FOE and then robustly fitting a 3D  sinusoid  to shifts of maximum correlation in RP space. The phase of the recovered sinusoid corresponds to the orientation of the vanishing line of the ground plane and the amplitude is related to the magnitude of the robot/camera translation. Recovered FOE, vanishing line and sinusoid amplitude fully define the ground plane motion (homography) across a pair of images and thus obstacles and ground plane can be segmented without any explicit knowledge of either camera parameters or camera motion.",
+    "citation_count": "8",
+    "year": "2006/12/01",
+    "authors": [
+        {
+            "name": "Zezhi Chen",
+            "country": ""
+        },
+        {
+            "name": "Nick Pears",
+            "country": ""
+        },
+        {
+            "name": "Bojian Liang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

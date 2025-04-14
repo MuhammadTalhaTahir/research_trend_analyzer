@@ -1,0 +1,38 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10617-013-9109-2",
+    "title": "ATLeS-SN",
+    "abstract": "As wireless sensor network platforms become increasingly more complex to design and optimize due to the multitude of interdependent parameters that must be considered, computer simulations have emerged as the primary solution to feasibly analyze the long-term effects of design changes within a deployed system. Although several successful wireless sensor network simulators have already been developed, to our knowledge, none provide the modularity necessary to model sensor nodes and/or environmental components at differing levels of abstraction. In this paper, we present the Arizona Transaction-Level Simulator for Sensor Networks (ATLeS-SN), which by virtue of its implementation language—SystemC—allows application developers to easily specify interchangeable component models in order to achieve the desired simulation correctness, performance, and scalability. We provide an overview of our proposed simulation framework and highlight its benefits using a sound ranging application.",
+    "citation_count": 26,
+    "year": "2012/11",
+    "authors": [
+        {
+            "name": "Lizarraga, Adrian",
+            "country": "USA"
+        },
+        {
+            "name": "Ding, Lu",
+            "country": "USA"
+        },
+        {
+            "name": "Hiner, Jeff",
+            "country": "USA"
+        },
+        {
+            "name": "Lysecky, Roman",
+            "country": "USA"
+        },
+        {
+            "name": "Lysecky, Susan",
+            "country": "USA"
+        },
+        {
+            "name": "Gordon-Ross, Ann",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

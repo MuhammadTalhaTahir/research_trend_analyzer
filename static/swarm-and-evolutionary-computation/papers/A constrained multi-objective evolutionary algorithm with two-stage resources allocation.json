@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S221065022300086X",
+    "title": "A constrained multi-objective evolutionary algorithm with two-stage resources allocation",
+    "abstract": "The tradeoff between feasibility and  optimality  is critical to handling constrained multi-objective  optimization problems  (CMOPs). Thus, many constrained multi-objective evolutionary algorithms (CMOEAs) with multiple stages or multiple populations have been proposed in recent years. However, these algorithms are based on preference-based search, which makes the  resource allocation  between feasibility and optimality inflexible. This may lead to low performance, especially for CMOPs with an irregular  Pareto front  (PF). To alleviate this problem, we propose a novel CMOEA with two-stage resources allocation (CMOEA-TSRA), which considers feasibility and optimality simultaneously during the whole evolutionary process (i.e., at each stage). Specifically, it divides the evolutionary process into two stages according to the convergence degree of the population. In the first stage, it adaptively allocates fewer individuals to roughly exploit the currently discovered  feasible regions  and more individuals to explore the potentially optimal feasible regions. In the second stage, more individuals are allocated to further exploit the currently discovered feasible regions, while fewer individuals are allocated to continue to explore the potentially optimal feasible regions. With the help of this strategy, CMOEA-TSRA balances exploitation and exploration dynamically. In addition, most of the existing works consider the tradeoff between feasibility and optimality when evaluating individuals. However, it is not always necessary to consider the tradeoff between feasibility and optimality when evaluating individuals. Therefore, we design a new fitness assignment method based on the individual distribution in the population by utilizing the correlation between constraint violation and objective functions, which makes the more explicit evaluation preferences of individuals located in different search regions. With the help of this method, the population can easily cross the large infeasible regions. The experimental results on several widely used benchmark suites and three real-world problems demonstrate that the proposed CMOEA-TSRA is superior for handling CMOPs compared with six state-of-the-art CMOEAs.",
+    "citation_count": "7",
+    "year": "2023/06/01",
+    "authors": [
+        {
+            "name": "Mingming Xia",
+            "country": ""
+        },
+        {
+            "name": "Qing Chong",
+            "country": ""
+        },
+        {
+            "name": "Minggang Dong",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

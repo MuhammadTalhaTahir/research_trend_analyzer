@@ -1,0 +1,35 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-023-02209-4",
+    "title": "Cloud-Edge Multi-Service Data Offloading Optimization for New Type Distribution Grid",
+    "abstract": "Surging multi-service heterogeneous data offloading in new type distribution grid places new demands on latency. Cloud-edge collaboration enables low-latency data offloading through sufficient information sharing and resource allocation. However, there exist transmission and computing uncertainty on data offloading such as emergent task and burst interference in distribution grid. The conflicts of resource competition bring another challenge to multi-service data offloading with different priorities. In this paper, we address the cloud-edge multi-service data offloading problem which aims to minimize the weighted total data offloading delay based on the priorities. Then, the optimization problem is transformed as two-dimensional matching problem. We propose the uncertainty and priority awareness based low-latency multi-service data offloading optimization algorithm which achieves uncertainty and priority awareness and solves the resource competition among devices through price rising matching. Simulation results indicate that the proposed algorithm outperforms existing algorithms in total data offloading delay.",
+    "citation_count": 28,
+    "year": "2024/10",
+    "authors": [
+        {
+            "name": "Li, Lisheng",
+            "country": "China"
+        },
+        {
+            "name": "Li, Shuai",
+            "country": "China"
+        },
+        {
+            "name": "Wen, Yan",
+            "country": "China"
+        },
+        {
+            "name": "Zhang, Shidong",
+            "country": "China"
+        },
+        {
+            "name": "Wen, Xiangyu",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

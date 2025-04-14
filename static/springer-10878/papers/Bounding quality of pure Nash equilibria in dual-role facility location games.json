@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-022-00905-7",
+    "title": "Bounding quality of pure Nash equilibria in dual-role facility location games",
+    "abstract": "We study a dual-role game setting of locating facilities in a metric space where each agent can open a facility at her location or be a customer to receive the service, and an opening cost function is given to represent the cost of opening a facility at some specific location. We first show the existence of pure Nash equilibria (PNE) in such games by a polynomial-time algorithm, then use the price of anarchy (PoA) to measure the quality of PNE under social objectives of minimizing the maximum/social cost. For dual-role facility location games with general opening cost functions, we show the PoA under maximum/social cost can tend to be infinite. However, for games with L-Lipschitz conditioned opening cost functions where $$L\\ge 0$$ is a given parameter, the PoA under maximum cost is exactly $$L+1$$ and the PoA under social cost is bounded by the interval $$\\left[ (n+L)/3, n+\\max \\{L-1,0\\}\\right] $$ .",
+    "citation_count": 19,
+    "year": "2022/12",
+    "authors": [
+        {
+            "name": "Chen, Xin",
+            "country": "China"
+        },
+        {
+            "name": "Liu, Wenjing",
+            "country": "China"
+        },
+        {
+            "name": "Nong, Qingqin",
+            "country": "China"
+        },
+        {
+            "name": "Fang, Qizhi",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

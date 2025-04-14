@@ -1,0 +1,31 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-019-01214-w",
+    "title": "Fuzzy Logic with Expert Judgment to Implement an Adaptive Risk-Based Access Control Model for IoT",
+    "abstract": "The Internet of Things (IoT) is becoming the future of the Internet with a large number of connected devices that are predicted to reach about 50 billion by 2020. With proliferation of IoT devices and need to increase information sharing in IoT applications, risk-based access control model has become the best candidate for both academic and commercial organizations to address access control issues. This model carries out a security risk analysis on the access request by using IoT contextual information to provide access decisions dynamically. This model solves challenges related to flexibility and scalability of the IoT system. Therefore, we propose an adaptive risk-based access control model for the IoT. This model uses real-time contextual information associated with the requesting user to calculate the security risk regarding each access request. It uses user attributes while making the access request, action severity, resource sensitivity and user risk history as inputs to analyze and calculate the risk value to determine the access decision. To detect abnormal and malicious actions, smart contracts are used to track and monitor user activities during the access session to detect and prevent potential security violations. In addition, as the risk estimation process is the essential stage to build a risk-based model, this paper provides a discussion of common risk estimation methods and then proposes the fuzzy inference system with expert judgment as to be the optimal approach to handle risk estimation process of the proposed risk-based model in the IoT system.",
+    "citation_count": 55,
+    "year": "2021/12",
+    "authors": [
+        {
+            "name": "Atlam, Hany F.",
+            "country": "UK"
+        },
+        {
+            "name": "Walters, Robert J.",
+            "country": "Egypt"
+        },
+        {
+            "name": "Wills, Gary B.",
+            "country": "UK"
+        },
+        {
+            "name": "Daniel, Joshua",
+            "country": "UK"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

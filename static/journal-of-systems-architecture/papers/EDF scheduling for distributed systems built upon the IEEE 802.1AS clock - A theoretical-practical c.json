@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122002272",
+    "title": "EDF scheduling for distributed systems built upon the IEEE 802.1AS clock - A theoretical-practical comparison",
+    "abstract": "Existing response time analysis and optimization techniques for real-time distributed systems show that EDF schedulers feature better scheduling capabilities when a global clock reference can be used; this form of scheduling is known as global-clock EDF. In this context, precise clock synchronization is an enabling technology for future distributed real-time systems that want to leverage EDF scheduling. The IEEE 802.1AS protocol can be considered a stable technology for this purpose, as it is part of the Time-Sensitive Networking (TSN) family of standards to provide real-time communication over Ethernet. This paper presents a system architecture for applying global-clock EDF scheduling in distributed systems with soft real-time requirements. It also presents experiments to (1) assess the synchronization capabilities of the clock synchronization mechanism in the proposed architecture, (2) evaluate the performance of different scheduling deadline assignment techniques, and (3) contrast the theoretical results obtained by the schedulability analysis against those obtained through the execution of these experiments.",
+    "citation_count": "0",
+    "year": "2022/11/01",
+    "authors": [
+        {
+            "name": "Héctor Pérez",
+            "country": ""
+        },
+        {
+            "name": "J. Javier Gutiérrez",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

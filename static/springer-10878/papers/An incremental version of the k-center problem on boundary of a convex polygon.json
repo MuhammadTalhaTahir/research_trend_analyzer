@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-015-9933-3",
+    "title": "An incremental version of the k-center problem on boundary of a convex polygon",
+    "abstract": "This paper studies an incremental version of the k-center problem with centers constrained to lie on boundary of a convex polygon. In the incremental k-center problem we considered, we are given a set of n demand points inside a convex polygon, facilities are constrained to lie on its boundary. Our algorithm produces an incremental sequence of facility sets $$B_{1}\\subseteq B_{2}\\subseteq \\cdots \\subseteq B_{n}$$ , where each $$B_{k}$$ contains k facilities. Such an algorithm is called $$\\alpha $$ -competitive, if for any k, the maximum of the ratio between the value of solution $$B_{k}$$ and the value of an optimal k-center solution is no more than $$\\alpha $$ . We present a polynomial time incremental algorithm with a competitive ratio $$\\frac{3\\sqrt{3}}{2}$$ and we also prove a lower bound of 2.",
+    "citation_count": 24,
+    "year": "2015/11",
+    "authors": [
+        {
+            "name": "Du, Hai",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Xu, Yinfeng",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Zhu, Binhai",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

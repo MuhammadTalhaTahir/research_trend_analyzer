@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762118302224",
+    "title": "Leaking your engine speed by spectrum analysis of real-Time scheduling sequences",
+    "abstract": "This paper identifies and studies a new security/privacy issue for automobile vehicles. Specifically, attackers can infer the engine speed of a vehicle by observing and analyzing the real-time scheduling sequences on the Engine  Control Unit  (ECU). First, we present the problem model of engine-triggered task executed on ECU. And then, we introduce two Engine-triggered Task Period Tracing methods (DFT-based ETPT and FRSP-based ETPT) to infer the period variation of engine-triggered task. Finally, simulation experiments are conducted to demonstrate the effect of this new timing side-channel  information leakage  with our proposed methods.",
+    "citation_count": "10",
+    "year": "2019/08/01",
+    "authors": [
+        {
+            "name": "Songran Liu",
+            "country": ""
+        },
+        {
+            "name": "Nan Guan",
+            "country": ""
+        },
+        {
+            "name": "Dong Ji",
+            "country": ""
+        },
+        {
+            "name": "Weichen Liu",
+            "country": ""
+        },
+        {
+            "name": "Xue Liu",
+            "country": ""
+        },
+        {
+            "name": "Wang Yi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

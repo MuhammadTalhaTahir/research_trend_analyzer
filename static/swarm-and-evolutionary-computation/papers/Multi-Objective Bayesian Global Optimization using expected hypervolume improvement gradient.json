@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217307861",
+    "title": "Multi-Objective Bayesian Global Optimization using expected hypervolume improvement gradient",
+    "abstract": "The Expected Hypervolume Improvement (EHVI) is a frequently used infill criterion in Multi-Objective Bayesian Global Optimization (MOBGO), due to its good ability to lead the exploration. Recently, the computational complexity of EHVI calculation is reduced to  O ( n  log  n ) for both 2-D and 3-D cases. However, the optimizer in MOBGO still requires a significant amount of time, because the calculation of EHVI is carried out in each iteration and usually tens of thousands of the EHVI calculations are required. This paper derives a formula for the Expected Hypervolume Improvement Gradient (EHVIG) and proposes an efficient algorithm to calculate EHVIG. The new criterion (EHVIG) is utilized by two different strategies to improve the efficiency of the optimizer discussed in this paper. Firstly, it enables gradient ascent methods to be used in MOBGO. Moreover, since the EHVIG of an optimal solution should be a zero vector, it can be regarded as a stopping criterion in global optimization, e.g., in Evolution Strategies. Empirical experiments are performed on seven benchmark problems. The experimental results show that the second proposed strategy, using EHVIG as a stopping criterion for local search, can outperform the normal MOBGO on problems where the optimal solutions are located in the interior of the search space. For the ZDT series test problems, EHVIG still can perform better when gradient projection is applied.",
+    "citation_count": "0",
+    "year": "2019/02/01",
+    "authors": [
+        {
+            "name": "Kaifeng Yang",
+            "country": ""
+        },
+        {
+            "name": "Michael Emmerich",
+            "country": ""
+        },
+        {
+            "name": "André Deutz",
+            "country": ""
+        },
+        {
+            "name": "Thomas Bäck",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

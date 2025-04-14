@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650221001504",
+    "title": "A surrogate-assisted evolutionary algorithm for expensive many-objective optimization in the refining process",
+    "abstract": "Computationally expensive optimization problems are difficult for an evolutionary algorithm within limited fitness evaluations, especially for many-objective optimization. To remedy this issue, a surrogate-assisted decomposition-based evolutionary algorithm is proposed in this work where the  Kriging model  is used to approximate each objective function. In order to balance exploration and exploitation, the model management strategy integrates the infill criterion with the distribution information of both  weight vectors  and population. Additionally, a one-by-one replacement strategy is developed to select a fixed number of training data to limit computational time for the model training as well as maintain the approximation accuracy. The empirical results show that the performance of the proposed algorithm is competitive to the state-of-the-art algorithms on a number of benchmarks. Finally, the proposed algorithm is applied for a real-world optimization problem in the refining process and exhibits superior performance.",
+    "citation_count": "22",
+    "year": "2022/03/01",
+    "authors": [
+        {
+            "name": "Dong Han",
+            "country": ""
+        },
+        {
+            "name": "Wenli Du",
+            "country": ""
+        },
+        {
+            "name": "Xinjie Wang",
+            "country": ""
+        },
+        {
+            "name": "Wei Du",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

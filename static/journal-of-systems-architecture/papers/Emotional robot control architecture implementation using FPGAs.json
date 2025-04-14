@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762116301047",
+    "title": "Emotional robot control architecture implementation using FPGAs",
+    "abstract": "Emotional control architectures are becoming promising solutions for the design of the robots of the future. The emotions motivate the robot behaviors to fulfill the objectives. The workload of the emotions increases with the complexity of the applications, which reduces the capacity of the processor to undertake more complex problems. A simple but costly solution would be the use of high performance computers to solve the complex problems. However, taking advantage of the potential parallelism of the emotions, this paper proposes a less expensive solution using low cost Cyclone FPGAs. Different FPGA devices are compared to analyze their suitability to cope with different industrial mobile robotic applications. The experiments are conducted taking into account different environmental conditions, robot dynamics and emotional states. The results of the evaluation show that Cyclone V outperforms the original RT-SW solution in 5 times and can undertake the 97% of the problems of the robot, while Cyclone IV improves the performances in about 4 times solving medium and few complex problems. Cyclone 2 and 3 double the performance of the RT-SW and are useful for simple robotic applications.",
+    "citation_count": "2",
+    "year": "2017/01/01",
+    "authors": [
+        {
+            "name": "Carlos Dominguez",
+            "country": ""
+        },
+        {
+            "name": "Houcine Hassan",
+            "country": ""
+        },
+        {
+            "name": "Alfons Crespo",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

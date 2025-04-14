@@ -1,0 +1,38 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224001925",
+    "title": "Dynamic variable analysis guided adaptive evolutionary multi-objective scheduling for large-scale workflows in cloud computing",
+    "abstract": "Energy consumption and makespan of  workflow execution  are two core performance indicators in operating cloud platforms. But, simultaneously optimizing these two indicators encounters various challenges, such as elastic resources, large-scale decision variables, and sophisticated workflow structures. To handle these challenges, we design an adaptive evolutionary  scheduling algorithm , namely AESA, with three innovative strategies. First, a heuristic population initialization strategy is devised to gather workflow tasks onto limited potential resources, thereby alleviating the  negative impact  of redundant cloud resources on evolutionary search efficiency. Then, a variable analysis strategy is designed to dynamically measure the contribution of each decision variable in pushing the population towards Pareto-optimal fronts. Moreover, AESA embraces an adaptive strategy to reward more evolutionary opportunities for decision variables with higher contributions to handle large-scale decision variables in a targeted manner, further improving the efficiency of evolutionary search. Finally, extensive experiments are performed based on real-world cloud platforms and workflow traces to verify the effectiveness of the proposed AESA. The comparison results validate its superior performance by significantly outperforming five representative baselines in optimizing makespan and energy consumption. Also, the results of ablation experiments demonstrate that all three components contribute to AESA’s overall performance, with the adaptive reward mechanism being the most significant.",
+    "citation_count": "2",
+    "year": "2024/10/01",
+    "authors": [
+        {
+            "name": "Yangkun Xia",
+            "country": ""
+        },
+        {
+            "name": "Xinran Luo",
+            "country": ""
+        },
+        {
+            "name": "Wei Yang",
+            "country": ""
+        },
+        {
+            "name": "Ting Jin",
+            "country": ""
+        },
+        {
+            "name": "Jun Li",
+            "country": ""
+        },
+        {
+            "name": "Lining Xing",
+            "country": ""
+        },
+        {
+            "name": "Lijun Pan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

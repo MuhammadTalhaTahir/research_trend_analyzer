@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224001822",
+    "title": "Continuous variation operator configuration for decomposition-based evolutionary multi-objective optimization",
+    "abstract": "There are various multi-objective evolutionary algorithms (MOEAs) for solving multi-objective  optimization problems  (MOPs), and the significant difference between them lies in the way they generate  offspring , which are the so-called  variation operators . Since different variation operators have their own characteristics, it is often tedious to select a suitable EA for a given MOP. Even if the optimal operator is assigned, the fixed operator and hyper-parameters make it difficult to balance exploration and exploitation during the evolutionary process. It is imperative to configure variation operators and hyper-parameters automatically during the evolutionary process, which can improve the efficiency of algorithm search. However, numerous configurations only consider operators or discretize hyper-parameters, making it difficult to achieve satisfactory results. In this paper, we formulate the operator configuration as a continuous  Markov Decision Process  (MDP) and use a suitable  Reinforcement Learning  (RL) paradigm to realize the online configuration of EAs. To simplify the deployment of MDP, we adopt a decomposition-based framework and use a one-dimensional vector with a combination of weights and objectives as state spaces. In addition, we take the selection of crossover and  mutation operators  and the fine-tuning of their hyper-parameters as  joint  action spaces. With an  RL technique , we expect to achieve maximum improvement in the performance of offspring on each preference by selecting an action in a given state. We further explore the effectiveness of the proposed methodology on different characteristic MOPs. Experimental results show that our method is more competitive than other configurations and state-of-the-art EAs.",
+    "citation_count": "0",
+    "year": "2024/08/01",
+    "authors": [
+        {
+            "name": "Yuan Liu",
+            "country": ""
+        },
+        {
+            "name": "Jiazheng Li",
+            "country": ""
+        },
+        {
+            "name": "Juan Zou",
+            "country": ""
+        },
+        {
+            "name": "Zhanglu Hou",
+            "country": ""
+        },
+        {
+            "name": "Shengxiang Yang",
+            "country": ""
+        },
+        {
+            "name": "Jinhua Zheng",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

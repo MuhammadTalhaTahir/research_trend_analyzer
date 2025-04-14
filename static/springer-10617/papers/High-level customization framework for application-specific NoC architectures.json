@@ -1,0 +1,30 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10617-013-9114-5",
+    "title": "High-level customization framework for application-specific NoC architectures",
+    "abstract": "Network-on-Chip (NoC) has been recognized as the new paradigm to interconnect and organize a high number of cores. NoCs address global communication issues in System-on-Chips (SoC) involving communication-centric design and implementation of scalable communication structures evolving application-specific NoC design as a key challenge to modern SoC design. In this paper we present a SystemC customization framework and methodology for automatic design and evaluation of regular and irregular NoC architectures. The presented framework also supports application-specific optimization techniques such as priority assignment, node clustering and buffer sizing. Experimental results show that generated regular NoC architectures achieve an average of 5.5&nbsp;% lower communication-cost compared to other regular NoC designs while irregular NoCs proved to achieve on average 4.5×higher throughput and 40&nbsp;% network delay reduction compared to regular mesh topologies. In addition, employing a buffer sizing algorithm we achieve a reduction in network’s power consumption by an average of 45&nbsp;% for both regular and irregular NoC design flow.",
+    "citation_count": 44,
+    "year": "2012/11",
+    "authors": [
+        {
+            "name": "Anagnostopoulos, Iraklis",
+            "country": "Greece"
+        },
+        {
+            "name": "Bartzas, Alexandros",
+            "country": "Greece"
+        },
+        {
+            "name": "Filippopoulos, Iason",
+            "country": "Norway"
+        },
+        {
+            "name": "Soudris, Dimitrios",
+            "country": "Greece"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

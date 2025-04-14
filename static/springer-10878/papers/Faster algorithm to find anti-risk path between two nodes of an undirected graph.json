@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-012-9553-0",
+    "title": "Faster algorithm to find anti-risk path between two nodes of an undirected graph",
+    "abstract": "For a weighted 2-edge connected graph G=(V,E), we are to find a “minimum risk path” from source s to destination t. This is a shortest s−t path under the assumption that at most one edge on the path may be blocked. The fact that the edge is blocked is known only when we reach a site adjacent to the blocked edge. If n and m are the number of nodes and edges of G, then we show that this problem can be solved in O(n 2) time using only simple data structures. This is an improvement over the previous O(mn+n 2logn) time algorithm. Moreover, with use of more complicated data structures like Fibonacci Heaps and transmuters the time can be further reduced to O(m+nlogn).",
+    "citation_count": 10,
+    "year": "2014/05",
+    "authors": [
+        {
+            "name": "Mahadeokar, Jay",
+            "country": "India"
+        },
+        {
+            "name": "Saxena, Sanjeev",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

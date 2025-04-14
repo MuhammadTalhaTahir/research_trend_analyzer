@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-017-0213-2",
+    "title": "A quadratic time exact algorithm for continuous connected 2-facility location problem in trees",
+    "abstract": "This paper studies the continuous connected 2-facility location problem (CC2FLP) in trees. Let $$T = (V, E, c, d, \\ell , \\mu )$$ be an undirected rooted tree, where each node $$v \\in V$$ has a weight $$d(v) \\ge 0$$ denoting the demand amount of v as well as a weight $$\\ell (v) \\ge 0$$ denoting the cost of opening a facility at v, and each edge $$e \\in E$$ has a weight $$c(e) \\ge 0$$ denoting the cost on e and is associated with a function $$\\mu (e,t) \\ge 0$$ denoting the cost of opening a facility at a point x(e,&nbsp;t) on e where t is a continuous variable on e. Given a subset $$\\mathcal {D} \\subseteq V$$ of clients, and a subset $$\\mathcal {F} \\subseteq \\mathcal {P}(T)$$ of continuum points admitting facilities where $$\\mathcal {P}(T)$$ is the set of all the points on edges of T, when two facilities are installed at a pair of continuum points $$x_1$$ and $$x_2$$ in $$\\mathcal {F}$$ , the total cost involved in CC2FLP includes three parts: the cost of opening two facilities at $$x_1$$ and $$x_2$$ , K times the cost of connecting $$x_1$$ and $$x_2$$ , and the cost of all the clients in $$\\mathcal {D}$$ connecting to some facility. The objective is to open two facilities at a pair of continuum points in $$\\mathcal {F}$$ to minimize the total cost, for a given input parameter $$K \\ge 1$$ . This paper focuses on the case of $$\\mathcal {D} = V$$ and $$\\mathcal {F} = \\mathcal {P}(T)$$ . We first study the discrete version of CC2FLP, named the discrete connected 2-facility location problem (DC2FLP), where two facilities are restricted to the nodes of T, and devise a quadratic time edge-splitting algorithm for DC2FLP. Furthermore, we prove that CC2FLP is almost equivalent to DC2FLP in trees, and develop a quadratic time exact algorithm based on the edge-splitting algorithm. Finally, we adapt our algorithms to the general case of $$\\mathcal {D} \\subseteq V$$ and $$\\mathcal {F} \\subseteq \\mathcal {P}(T)$$ .",
+    "citation_count": 87,
+    "year": "2018/11",
+    "authors": [
+        {
+            "name": "Ding, Wei",
+            "country": "China"
+        },
+        {
+            "name": "Qiu, Ke",
+            "country": "Canada"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224002335",
+    "title": "A novel evolutionary strategy optimization algorithm for reliability redundancy allocation problem with heterogeneous components",
+    "abstract": "The reliability-redundancy allocation problem (RRAP) is an optimization problem that maximizes system reliability under some constraints. In most studies on the RRAP, either active redundant components or cold standby components are used in a subsystem. This paper presents a new model for the RRAP of a system with a mixed redundancy strategy, in which all components can be heterogeneous. This formulation leads to a more precise solution for the problem; however, RRAP is an np-hard problem, and the new mixed heterogeneous model will be more complicated to solve. After formulating the issue, a novel design of an evolutionary strategy optimization algorithm is proposed to solve that. The problem consists of discrete and continuous variables, and different mutation strategies are designed for each. The new formulation of the problem and the new method for solving it lead to better results than those reported in other recent papers. We implement the new suggested heterogeneous model with the PSO and SPSO algorithms to better compare the proposed algorithm. Results show improvement in both system reliability and fitness evaluation count.",
+    "citation_count": "2",
+    "year": "2024/10/01",
+    "authors": [
+        {
+            "name": "A.D. Hesampour",
+            "country": ""
+        },
+        {
+            "name": "K. Ziarati",
+            "country": ""
+        },
+        {
+            "name": "S. Zarezadeh",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

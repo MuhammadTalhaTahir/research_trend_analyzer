@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885616000123",
+    "title": "A framework for semantic people description in multi-camera surveillance systems",
+    "abstract": "People re-identification has been a very active  research topic  recently in  computer vision . It is an important application in surveillance systems with disjoint cameras. In this paper, a framework is proposed to extract descriptors of people in videos, which are based on soft-biometric traits and can be further used for people re-identification or other applications. Soft-biometric based description is more invariant to changing factors than directly using low level features such as color and texture. The ensemble of a set of soft-biometric traits can achieve  good performance  in people re-identification. In the proposed method, the body of detected people is divided into three parts and the selected soft-biometric traits are extracted from each part. All traits are then combined to form the final descriptor, and people re-identification is performed based on the descriptor and Nearest Neighbor (NN) matching strategy. The experiments are carried out on SAIVT-SoftBio database which consists of videos from disjoint surveillance cameras, as well as some static image based datasets. An open ID recognition problem is also evaluated for the proposed method. Comparisons with some state-of-the-art methods are provided as well. The experiment results show the good performance of the proposed framework.",
+    "citation_count": "6",
+    "year": "2016/02/01",
+    "authors": [
+        {
+            "name": "Zhi Zhou",
+            "country": ""
+        },
+        {
+            "name": "Yue Wang",
+            "country": ""
+        },
+        {
+            "name": "Eam Khwang Teoh",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

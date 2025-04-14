@@ -1,0 +1,38 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000230",
+    "title": "Adaptive subflow allocation for multipath data transmission in mobile edge networks",
+    "abstract": "Multipath  data transmission  techniques have been proposed to aggregate the resource of multiple heterogeneous access networks to enhance the robustness and throughput of multi-homed mobile devices. The Multipath TCP (MPTCP) protocol has been standardized by the IETF as an extension of conventional TCP, which enables establishing several subflows over multiple interfaces for simultaneous data transmission. However, current implementation of MPTCP only supports static subflow management strategies, which cannot adapt to the changing to network environment. In this paper, we focus on the issues of dynamic subflow management for MPTCP. We present theoretical analysis to the overall throughput of establishing multiple subflows with MPTCP, based on which we propose an adaptive subflow allocation algorithm to determine the proper number of subflows for each network interface to optimize the performance gain. We implement the proposed algorithm, integrate it into the MPTCP Linux Kernel implementation, and evaluate its performance on a wireless network  testbed . Extensive experiments show that the proposed allocation algorithm significantly outperforms the existing subflow management strategies with 57% improvement.",
+    "citation_count": "8",
+    "year": "2021/06/01",
+    "authors": [
+        {
+            "name": "Wenzhong Li",
+            "country": ""
+        },
+        {
+            "name": "Lingfan Yu",
+            "country": ""
+        },
+        {
+            "name": "Chaojing Xue",
+            "country": ""
+        },
+        {
+            "name": "Han Zhang",
+            "country": ""
+        },
+        {
+            "name": "Jixiang Lu",
+            "country": ""
+        },
+        {
+            "name": "Rongrong Cao",
+            "country": ""
+        },
+        {
+            "name": "Sanglu Lu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

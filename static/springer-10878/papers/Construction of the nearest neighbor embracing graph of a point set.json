@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-006-8459-0",
+    "title": "Construction of the nearest neighbor embracing graph of a point set",
+    "abstract": "This paper gives optimal algorithms for the construction of the Nearest Neighbor Embracing Graph (NNE-graph) of a given point set V of size n in the k-dimensional space (k-D) for k = 2,3. The NNE-graph provides another way of connecting points in a communication network, which has lower expected degree at each point and shorter total length of connections with respect to those using Delaunay triangulation. In fact, the NNE-graph can also be used as a tool to test whether a point set is randomly generated or has some particular properties. We show that in 2-D the NNE-graph can be constructed in optimal $$\\Theta(n^2)$$ time in the worst case. We also present an $$O(n \\log n + nd)$$ time algorithm, where d is the $$\\Omega(\\log n)$$ -th largest degree in the utput NNE-graph. The algorithm is optimal when $$d=O(\\log n)$$ . The algorithm is also sensitive to the structure of the NNE-graph, for instance when $$d=g \\cdot(\\log n)$$ , the number of edges in NNE-graph is bounded by $$O(gn \\log n)$$ for any value g with $$1 \\leq g \\leq \\frac{n}{\\log n}$$ . We finally propose an $$O(n \\log n + nd \\log d^*)$$ time algorithm for the problem in 3-D, where d and $$d^*$$ are the $$\\Omega(\\frac{\\log n}{\\log \\log n})$$ -th largest vertex degree and the largest vertex degree in the NNE-graph, respectively. The algorithm is optimal when the largest vertex degree of the NNE-graph $$d^*$$ is $$O(\\frac{\\log n}{\\log \\log n})$$ .",
+    "citation_count": 7,
+    "year": "2006/06",
+    "authors": [
+        {
+            "name": "Chan, M. Y.",
+            "country": "Hong Kong"
+        },
+        {
+            "name": "Chen, Danny Z.",
+            "country": "USA"
+        },
+        {
+            "name": "Chin, Francis Y. L.",
+            "country": "Hong Kong"
+        },
+        {
+            "name": "Wang, Cao An",
+            "country": "Canada"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

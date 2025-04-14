@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885617301129",
+    "title": "Regression of feature scale tracklets for decimeter visual localization",
+    "abstract": "Localization along a route is an everyday necessity for in-vehicle  navigation systems , and a vital task for automated driving technologies. Visual ego-localization promises reliable accuracy even in challenging urban environments where  Global Positioning Systems  (GPSs) can fail. Using cameras for localization against a pre-constructed database requires either the creation of a dense three-dimensional feature point map and pose estimation of a query camera relative to this map, or image matching along a database route to determine the capture position of the query camera based on the most similar database image. While the latter method is potentially less computationally intensive and can provide a more compact database,  localization accuracy  is limited by the discrete positioning information at database frame capture locations. In this paper we propose an image matching method that makes use of  image features  which are pre-matched during database construction, allowing linear  regression coefficients  for the relationship between capture position and feature scale to be calculated. The capture position of matched query features can then be estimated to sub-database spacing resolution. By incorporating the visual localization system into a  Bayes estimator , we demonstrate an average monocular vision localization accuracy of 0.33   m in tests on actual vehicle image streams.",
+    "citation_count": "2",
+    "year": "2017/12/01",
+    "authors": [
+        {
+            "name": "David Wong",
+            "country": ""
+        },
+        {
+            "name": "Daisuke Deguchi",
+            "country": ""
+        },
+        {
+            "name": "Yasutomo Kawanishi",
+            "country": ""
+        },
+        {
+            "name": "Ichiro Ide",
+            "country": ""
+        },
+        {
+            "name": "Hiroshi Murase",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,21 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-024-01186-y",
+    "title": "Improved kernelization and fixed-parameter algorithms for bicluster editing",
+    "abstract": "Given a bipartite graph G, the Bicluster Editing problem asks for the minimum number of edges to insert or delete in G so that every connected component is a bicluster, i.e. a complete bipartite graph. This has several applications, including in bioinformatics and social network analysis. In this work, we study the parameterized complexity under the natural parameter k, which is the number of allowed modified edges. We first show that one can obtain a kernel with 4.5k vertices, an improvement over the previously known quadratic kernel. We then propose an algorithm that runs in time $$O^*(2.581^k)$$ . Our algorithm has the advantage of being conceptually simple and should be easy to implement.",
+    "citation_count": 36,
+    "year": "2024/07",
+    "authors": [
+        {
+            "name": "Lafond, Manuel",
+            "country": "Canada"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

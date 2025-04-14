@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-015-0500-4",
+    "title": "A novel fuzzy approach for handwritten Arabic character recognition",
+    "abstract": "The aim of our work is to present a new method based on structural characteristics and a fuzzy classifier for off-line recognition of handwritten Arabic characters in all their forms (beginning, end, middle and isolated). The proposed method can be integrated in any handwritten Arabic words recognition system based on an explicit segmentation process. First, three preprocessing operations are applied on character images: thinning, contour tracing and connected components detection. These operations extract structural characteristics used to divide the set of characters into five subsets. Next, features are extracted using invariant pseudo-Zernike moments. Classification was done using the Fuzzy ARTMAP neural network, which is very fast in training and supports incremental learning. Five Fuzzy ARTMAP neural networks were employed; each one is designed to recognize one subset of characters. The recognition process is achieved in two steps: in the first one, a clustering method affects characters to one of the five character subsets. In the second one, the pseudo-Zernike features are used by the appropriate Fuzzy ARTMAP classifier to identify the character. Training process and tests were performed on a set of character images manually extracted from the IFN/ENIT database. A height recognition rate was reported .",
+    "citation_count": 66,
+    "year": "2016/11",
+    "authors": [
+        {
+            "name": "Kef, Maâmar",
+            "country": "Algeria"
+        },
+        {
+            "name": "Chergui, Leila",
+            "country": "Algeria"
+        },
+        {
+            "name": "Chikhi, Salim",
+            "country": "Algeria"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-025-01277-4",
+    "title": "Steiner trees with infinitely many terminals on the sides of an angle",
+    "abstract": "The Euclidean Steiner problem is the problem of finding a set $$\\mathcal{S}\\mathcal{t}$$ , with the shortest length, such that $$\\mathcal{S}\\mathcal{t}\\cup \\mathcal {A}$$ is connected, where $$\\mathcal {A}$$ is a given set in a Euclidean space. The solutions $$\\mathcal{S}\\mathcal{t}$$ to the Steiner problem will be called Steiner sets while the set $$\\mathcal {A}$$ will be called input. Since every Steiner set is acyclic we call it Steiner tree in the case when it is connected. We say that a Steiner tree is indecomposable if it does not contain any Steiner tree for a subset of the input. We are interested in finding the Steiner set when the input consists of infinitely many points distributed on two lines. In particular we would like to find a configuration which gives an indecomposable Steiner tree. It is natural to consider a self-similar input, namely the set $$\\mathcal {A}_{\\alpha ,\\lambda }$$ of points with coordinates $$(\\lambda ^{k-1}\\cos \\alpha ,$$ $$\\pm \\lambda ^{k-1}\\sin \\alpha )$$ , where $$\\lambda &gt;0$$ and $$\\alpha &gt;0$$ are small fixed values and $$k \\in \\mathbb {N}$$ . These points are distributed on the two sides of an angle of size $$2\\alpha $$ in such a way that the distances from the points to the vertex of the angle are in a geometric progression. To our surprise, we show that in this case the solutions to the Steiner problem for $$\\mathcal {A}_{\\alpha ,\\lambda }$$ , when $$\\alpha $$ and $$\\lambda $$ are small enough, are always decomposable trees. More precisely, any Steiner tree for $$\\mathcal {A}_{\\alpha ,\\lambda }$$ is a countable union of Steiner trees, each one connecting 5 points from the input. Each component of the decomposition can be mirrored with respect to the angle bisector providing $$2^{\\mathbb N}$$ different solutions with the same length. By considering only a finite number of components we obtain many solutions to the Steiner problem for finite sets composed of $$4k+1$$ points distributed on the two lines ( $$2k+1$$ on a line and 2k on the other line). These solutions are very similar to the ladders of Chung and Graham. We are able to obtain an indecomposable Steiner tree by adding, to the previous input, a single point strategically placed inside the angle. In this case the solution is in fact a self-similar tree (in the sense that it contains a homothetic copy of itself). Finally, we show how the position of the Steiner points in the Steiner tree can be described by a discrete dynamical system which turns out to be equivalent to a 2-interval piecewise linear contraction.",
+    "citation_count": 26,
+    "year": "2025/04",
+    "authors": [
+        {
+            "name": "Cherkashin, Danila",
+            "country": "Bulgaria"
+        },
+        {
+            "name": "Paolini, Emanuele",
+            "country": "Italy"
+        },
+        {
+            "name": "Teplitskaya, Yana",
+            "country": "France"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

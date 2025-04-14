@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762120300394",
+    "title": "Fast modeling L2 cache reuse distance histograms using combined locality information from software traces",
+    "abstract": "To mitigate the performance gap between CPU and the main memory, multi-level cache architectures are widely used in modern processors. Therefore, modeling the behaviors of the downstream caches becomes a critical part of the processor performance evaluation in the early stage of  Design Space Exploration  (DSE). In this paper, we propose a fast and accurate  L2 cache   reuse distance   histogram model , which can be used to predict the behaviors of the multi-level cache architectures where the  L1 cache  uses the LRU replacement policy and the L2 cache uses LRU/Random replacement policies. We use the profiled L1 reuse distance histogram and two newly proposed metrics, namely the RST table and the Hit-RDH, that describing more detailed information of the software traces as the inputs. For a given L1  cache configuration , the  profiling results  can be reused for different configurations of the L2 cache. The output of our model is the L2 cache reuse distance histogram, based on which the L2  cache miss rates  can be evaluated. We compare the L2 cache miss rates with the results from gem5 cycle-accurate simulations of 15 benchmarks chosen from SPEC CPU 2006 and 9 benchmarks from SPEC CPU 2017. The  average absolute error  is less than 5%, while the evaluation time for each L2 configuration can be sped up almost 30× for four L2 cache candidates.",
+    "citation_count": "4",
+    "year": "2020/09/01",
+    "authors": [
+        {
+            "name": "Ming Ling",
+            "country": ""
+        },
+        {
+            "name": "Jiancong Ge",
+            "country": ""
+        },
+        {
+            "name": "Guangmin Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

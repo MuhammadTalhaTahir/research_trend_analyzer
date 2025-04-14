@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224001755",
+    "title": "A knee-oriented many-objective differential evolution with bi-strategy and Manhattan distance-domination range",
+    "abstract": "Differential evolution multi-objective algorithms effectively address problems with two or three objectives. However, many-objective problems with more than three objectives are challenging because of inadequate selection pressure in environment selection, excessive variation in mutation, and difficulties in representing the  Pareto front . This paper introduces a novel approach that combines differential evolution with a knee-oriented strategy to address the mentioned challenges. The approach allows the algorithm to focus on trade-off solutions for representing the surface instead of searching the entire Pareto front. Specifically, the algorithm consists of two stages: knee exploration stage and knee  exploitation stage . Each stage utilizes different dominance relationships and  mutation operators  to enhance selection pressure in high-dimensional spaces. Moreover, a Manhattan distance-domination range is designed to update the reference vector by identifying multiple localized knee points in high-dimensional space. The experimental results demonstrate superior performance to other state-of-the-art algorithms on 50 knee-oriented benchmark problem test sets, including CKP, DO2DK, DEB2DK, DEB3DK, and PMOPs.",
+    "citation_count": "2",
+    "year": "2024/08/01",
+    "authors": [
+        {
+            "name": "Yu Sun",
+            "country": ""
+        },
+        {
+            "name": "Shiming Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

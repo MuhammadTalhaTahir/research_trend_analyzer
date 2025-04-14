@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003470",
+    "title": "Language conditioned multi-scale visual attention networks for visual grounding",
+    "abstract": "Visual grounding (VG) is a task that requires to locate a specific region in an image according to a natural language expression. Existing efforts on the VG task are divided into two-stage, one-stage and Transformer-based methods, which have achieved high performance. However, most of the previous methods extract visual information at a single spatial scale and ignore visual information at other spatial scales, which makes these models unable to fully utilize the visual information. Moreover, the insufficient utilization of linguistic information, especially failure to capture global linguistic information, may lead to failure to fully understand language expressions, thus limiting the performance of these models. To better address the task, we propose a language conditioned multi-scale visual attention network (LMSVA) for visual grounding, which can sufficiently utilize visual and linguistic information to perform multimodal reasoning, thus improving performance of model. Specifically, we design a visual feature extractor containing a multi-scale layer to get the required multi-scale visual features by expanding the original backbone. Moreover, we exploit pooling the output of the pre-trained Bidirectional Encoder Representations from Transformers (BERT) model to extract sentence-level linguistic features, which can enable the model to capture global linguistic information. Inspired by the Transformer architecture, we present the Visual Attention Layer guided by Language and Multi-Scale Visual Features (VALMS), which is able to better learn the visual context guided by multi-scale visual and linguistic features, and facilitates further multimodal reasoning. Extensive experiments on four large benchmark datasets, including ReferItGame, RefCOCO, RefCOCO   + and RefCOCOg, demonstrate that our proposed model achieves the state-of-the-art performance.",
+    "citation_count": "2",
+    "year": "2024/10/01",
+    "authors": [
+        {
+            "name": "Haibo Yao",
+            "country": ""
+        },
+        {
+            "name": "Lipeng Wang",
+            "country": ""
+        },
+        {
+            "name": "Chengtao Cai",
+            "country": ""
+        },
+        {
+            "name": "Wei Wang",
+            "country": ""
+        },
+        {
+            "name": "Zhi Zhang",
+            "country": ""
+        },
+        {
+            "name": "Xiaobing Shang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

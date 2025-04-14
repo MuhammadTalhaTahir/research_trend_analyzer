@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650214000546",
+    "title": "A self adaptive differential harmony search based optimized extreme learning machine for financial time series prediction",
+    "abstract": "This paper proposes a hybrid learning framework called Self Adaptive Differential Harmony Search Based Optimized  Extreme Learning Machine  (SADHS-OELM) for single hidden layer  feed forward neural network  (SLFN). The new learning paradigm seeks to take advantage of the generalization ability of extreme learning machines (ELM) along with the global learning capability of a self adaptive differential harmony search technique in order to optimize the fitting performance of SLFNs. SADHS is a variant of harmony search technique that uses the current to best mutation scheme of DE in the pitch adjustment operation for harmony improvisation process. SADHS has been used for optimal selection of the hidden layer parameters, the bias of neurons of the hidden-layer, and the  regularization  factor of robust  least squares , whereas ELM has been applied to obtain the output weights analytically using a robust least squares solution. The proposed learning algorithm is applied on two SLFNs i.e.  RBF  and a low complexity Functional link  Artificial Neural Networks  (CEFLANN) for prediction of closing price and volatility of five different stock indices. The proposed learning scheme is also compared with other learning schemes like ELM, DE-OELM, DE, SADHS and two other variants of harmony search algorithm. Performance comparison of CEFLANN and RBF with different learning schemes clearly reveals that CEFLANN model trained with SADHS-OELM outperforms other learning methods and also the RBF model for both stock index and volatility prediction.",
+    "citation_count": "85",
+    "year": "2014/12/01",
+    "authors": [
+        {
+            "name": "Rajashree Dash",
+            "country": ""
+        },
+        {
+            "name": "P.K. Dash",
+            "country": ""
+        },
+        {
+            "name": "Ranjeeta Bisoi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

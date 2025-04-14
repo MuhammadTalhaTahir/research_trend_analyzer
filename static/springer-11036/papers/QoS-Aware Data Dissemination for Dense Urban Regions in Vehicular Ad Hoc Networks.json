@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-014-0553-4",
+    "title": "QoS-Aware Data Dissemination for Dense Urban Regions in Vehicular Ad Hoc Networks",
+    "abstract": "With an evolution of 5G and related technologies, there is a need of high data rate transfer between different communication objects such as vehicles, sensor nodes, or mesh clients connected to the Internet to maintain Quality of Service (QoS) at various levels. As vehicles in Vehicular Ad Hoc Networks (VANETs) are mainly used for safety related applications, so there is a need of an efficient QoS-aware data dissemination for various applications in different regions especially in dense urban regions where congestion is one of the major issues. Hence, to address this issue, in this paper, we propose a new mechanism to maintain QoS for data dissemination among the different vehicles in VANETs. An intelligent forwarding mechanism is used by newly defined metric which assigns weights to the different routing paths from source to destination. Separate algorithms are designed for route construction, and maintenance in the proposed scheme. The performance of the proposed scheme is studied by extensive simulations with respect to various metrics such as delay incurred, percentage of active links, and load on the network. The results obtained show that the proposed scheme is better than the other state-of-the-art existing schemes in the literature.",
+    "citation_count": 19,
+    "year": "2015/12",
+    "authors": [
+        {
+            "name": "Dua, Amit",
+            "country": "India"
+        },
+        {
+            "name": "Kumar, Neeraj",
+            "country": "India"
+        },
+        {
+            "name": "Bawa, Seema",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

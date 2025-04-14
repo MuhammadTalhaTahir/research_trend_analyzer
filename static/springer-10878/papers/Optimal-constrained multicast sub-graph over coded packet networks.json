@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-013-9617-9",
+    "title": "Optimal-constrained multicast sub-graph over coded packet networks",
+    "abstract": "Network coding is a technique which can be used to improve the performance of multicast communications by performing encoding operations at intermediate nodes. In real-time multimedia communication applications, there are usually several weights associated with links, such as cost, delay, jitter, loss ratio, security, and so on. In this paper, we consider the problem of finding an optimal multicast sub-graph over coded packet networks, where the longest end-to-end weight from the source to each destination does not exceed an upper bound. First, a mixed integer programming model is proposed to formulate the problem which is NP-hard. Then, a column-generation approach is described for this problem, in which the problem is decomposed into a master linear programming problem and several integer programming sub-problems. Moreover, two methods based on linear and Lagrangian relaxation are proposed to compute a tight lower bound of the optimal solution value. Computational results show that the proposed algorithm provides an efficient way for solving the problem, even for relatively large networks.",
+    "citation_count": 23,
+    "year": "2015/05",
+    "authors": [
+        {
+            "name": "Raayatpanah, M. A.",
+            "country": "Iran"
+        },
+        {
+            "name": "Salehi Fathabadi, H.",
+            "country": "USA"
+        },
+        {
+            "name": "Bahramgiri, H.",
+            "country": "Iran"
+        },
+        {
+            "name": "Pardalos, P. M.",
+            "country": "Iran"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

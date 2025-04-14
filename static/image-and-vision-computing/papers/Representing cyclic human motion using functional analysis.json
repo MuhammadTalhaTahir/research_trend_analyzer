@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885605001526",
+    "title": "Representing cyclic human motion using functional analysis",
+    "abstract": "We present a robust automatic method for modeling cyclic 3D human motion such as walking using motion-capture data. The pose of the body is represented by a time-series of joint angles which are automatically segmented into a sequence of motion cycles. The mean and the  principal components  of these cycles are computed using a new algorithm that enforces smooth transitions between the cycles by operating in the  Fourier domain . Key to this method is its ability to automatically deal with noise and missing data. A learned walking model is then exploited for Bayesian tracking of 3D human motion.",
+    "citation_count": "56",
+    "year": "2005/12/12",
+    "authors": [
+        {
+            "name": "Dirk Ormoneit",
+            "country": ""
+        },
+        {
+            "name": "Michael J. Black",
+            "country": ""
+        },
+        {
+            "name": "Trevor Hastie",
+            "country": ""
+        },
+        {
+            "name": "Hedvig Kjellström",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885613001546",
+    "title": "Hierarchical classification of images by sparse approximation",
+    "abstract": "Using image hierarchies for visual categorization has been shown to have a number of important benefits. Doing so enables a significant gain in efficiency (e.g., logarithmic with the number of categories [16,12]) or the construction of a more meaningful distance metric for  image classification  [17]. A critical question, however, still remains controversial: would structuring data in a hierarchical sense also help  classification accuracy ? In this paper we address this question and show that the hierarchical structure of a database can be indeed successfully used to enhance  classification accuracy  using a  sparse approximation  framework. We propose a new formulation for  sparse approximation  where the goal is to discover the sparsest path within the hierarchical  data structure  that best represents the query object. Extensive quantitative and qualitative experimental evaluation on a number of branches of the Imagenet database [7] as well as on the Caltech-256 [12] demonstrate our theoretical claims and show that our approach produces better hierarchical categorization results than competing techniques.",
+    "citation_count": "8",
+    "year": "2013/12/01",
+    "authors": [
+        {
+            "name": "Byung-soo Kim",
+            "country": ""
+        },
+        {
+            "name": "Jae Young Park",
+            "country": ""
+        },
+        {
+            "name": "Anna C. Gilbert",
+            "country": ""
+        },
+        {
+            "name": "Silvio Savarese",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

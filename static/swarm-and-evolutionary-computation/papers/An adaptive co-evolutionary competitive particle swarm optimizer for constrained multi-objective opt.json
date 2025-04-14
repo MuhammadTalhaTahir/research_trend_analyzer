@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224002840",
+    "title": "An adaptive co-evolutionary competitive particle swarm optimizer for constrained multi-objective optimization problems",
+    "abstract": "In constrained multi-objective optimization problems, it is challenging to balance the convergence, diversity and feasibility of the population, especially encountering complex infeasible regions. In order to effectively balance the three indicators, from the aspects of the handling of infeasible solution and the quality of individuals, a multi-population co-evolutionary competitive particle swarm optimization algorithm hybridized with infeasible solution transfer and an adaptive technique (ACCPSO) is proposed. Firstly, the information of feasible and infeasible individuals is fully utilized and the individuals are classified by Hamming distance. Then, a novel constraint handling technique based on learning from the promising feasible direction is designed to make individuals cross large infeasible regions and explore more potential feasible regions. Moreover, aiming to provide robust search capability and consequently further generate high-quality solutions, the genetic operators and the particle swarm optimization operator with the competitive mechanism are introduced as operators with an adaptive mechanism. Finally, compared with the state-of-the-art methods, the performance of the proposed algorithm is verified on LIR-CMOP, MW and DTLZ, as well as two real-world problems. The results indicate that ACCPSO exhibits stronger competitiveness in terms of convergence, the solution quality, and distribution diversity on the feasible Pareto front.",
+    "citation_count": "1",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Xiaoding Meng",
+            "country": ""
+        },
+        {
+            "name": "Hecheng Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

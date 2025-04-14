@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-023-01204-5",
+    "title": "Unsupervised multimodal learning for image-text relation classification in tweets",
+    "abstract": "Recent studies show that the use of multimodality can effectively enhance the understanding of social media content. The relations between texts and images become an important basis for developing multimodal data and models. Some studies have attempted to label image-text relation (ITR) and build supervised learning models. However, manually labeling ITR is a challenging task and incurs many controversial labels because of disagreements among the annotators. In this paper, we present a novel unsupervised multimodal method called ITR pseudo-labeling (ITRp) that learns multimodal representations for various ITR types using different finetuning strategies. Our ITRp method generates pseudo-labels by clustering and uses them as supervision to train the classifier and encoders. We evaluate the ITRp method on the ITR dataset and the effects of the samples with incorrect labels on both the supervised and unsupervised models. The code and data are available on the website https://github.com/SuYindu/ITRp .",
+    "citation_count": 45,
+    "year": "2023/11",
+    "authors": [
+        {
+            "name": "Sun, Lin",
+            "country": "China"
+        },
+        {
+            "name": "Li, Qingyuan",
+            "country": "China"
+        },
+        {
+            "name": "Liu, Long",
+            "country": "China"
+        },
+        {
+            "name": "Su, Yindu",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

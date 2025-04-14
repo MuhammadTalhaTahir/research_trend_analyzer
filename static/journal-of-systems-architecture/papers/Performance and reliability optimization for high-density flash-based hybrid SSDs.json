@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762123000097",
+    "title": "Performance and reliability optimization for high-density flash-based hybrid SSDs",
+    "abstract": "Hybrid  SSDs  that integrate both large-capacity flash and high-performance flash have become the mainstream of the existing SSD architectures. Two or more flash modes have been supported to satisfy the complex and changeable application requirements, such as single-level-cell (SLC) mode and quad-level-cell (QLC) mode, which can be adaptively switched. However, our empirical studies show that the combination is not well-designed in existing  hybrid architectures . We conduct experiments on different scenarios to study the performance and reliability of real hybrid SSDs. Three interesting findings about performance collapse, performance fluctuation, and read disturb of QLC region can be obtained. To solve these problems, this paper proposed HyFlex, including three novel schemes. First, a velocity-based I/O scheduling (VIS) scheme is a novel data placement scheme to avoid performance corrupt. Second, a  garbage collection  aware capacity tuning (GCT) scheme is a novel flash-mode management scheme to avoid burst  performance degradation . Third, a read disturb-aware data migration (DAM) scheme is a novel data migration scheme to alleviate the read disturb of the QLC region. The experiments are conducted on an existing simulator with hybrid SSD extensions. Experimental results show that HyFlex achieves encouraging performance and  reliability optimization .",
+    "citation_count": "4",
+    "year": "2023/03/01",
+    "authors": [
+        {
+            "name": "Longfei Luo",
+            "country": ""
+        },
+        {
+            "name": "Shicheng Li",
+            "country": ""
+        },
+        {
+            "name": "Yina Lv",
+            "country": ""
+        },
+        {
+            "name": "Liang Shi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

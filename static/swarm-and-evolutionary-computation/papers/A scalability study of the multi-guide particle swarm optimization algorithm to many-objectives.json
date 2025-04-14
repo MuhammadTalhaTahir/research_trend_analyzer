@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S221065022100105X",
+    "title": "A scalability study of the multi-guide particle swarm optimization algorithm to many-objectives",
+    "abstract": "Scalability of the multi-guide particle swarm optimization (MGPSO) algorithm to many objective  optimization problems  is investigated in this paper. As a sub-objective, the effects of different archive balance  coefficient update  strategies on the scaling ability of the  MGPSO  algorithm are investigated. The results indicate that the  MGPSO algorithm  scaled to many-objectives competitively compared to other state-of-the-art many-objective optimization algorithms, without requiring any specialized modifications to the  MGPSO  algorithm. The MGPSO algorithm utilizes multiple subswarms (one per objective) as well as multiple guides (personal best, neighbourhood best, and archive guides) to help balance and promote solution accuracy and solution diversity during the search process. The investigated dynamic archive balance coefficient update strategies did not improve the scalability of the MGPSO algorithm significantly.",
+    "citation_count": "17",
+    "year": "2021/10/01",
+    "authors": [
+        {
+            "name": "Cian Steenkamp",
+            "country": ""
+        },
+        {
+            "name": "Andries P. Engelbrecht",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650214000662",
+    "title": "Adapting ant colony optimization to generate test data for software structural testing",
+    "abstract": "In general, software testing has been viewed as an effective way to improve software quality and reliability. However, the quality of test data has a significant impact on the fault-revealing ability of software testing activity. Recently, search-based test data generation has been treated as an operational approach to settle this difficulty. In the paper, the basic  ACO  algorithm is reformed into discrete version so as to generate test data for structural testing. First, the technical roadmap of combining the adapted  ACO  algorithm and test process together is introduced. In order to improve algorithm׳s searching ability and generate more diverse test inputs, some strategies such as local transfer, global transfer and pheromone update are defined and applied. The coverage for program elements is a special optimization objective, so the customized fitness function is constructed in our approach through comprehensively considering the nesting level and predicate type of branch. To validate the effectiveness of our ACO-based test data generation method, eight well-known programs are utilized to perform the comparative analysis. The experimental results show that our approach outperforms the existing simulated annealing and  genetic algorithm  in the quality of test data and stability, and is comparable to particle  swarm  optimization-based method. In addition, the sensitivity analysis on algorithm parameters is also employed to recommend the reasonable parameter settings for practical applications.",
+    "citation_count": "66",
+    "year": "2015/02/01",
+    "authors": [
+        {
+            "name": "Chengying Mao",
+            "country": ""
+        },
+        {
+            "name": "Lichuan Xiao",
+            "country": ""
+        },
+        {
+            "name": "Xinxin Yu",
+            "country": ""
+        },
+        {
+            "name": "Jinfu Chen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

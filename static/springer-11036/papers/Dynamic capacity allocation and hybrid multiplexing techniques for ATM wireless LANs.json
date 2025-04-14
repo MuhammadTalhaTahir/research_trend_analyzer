@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1019141202797",
+    "title": "Dynamic capacity allocation and hybrid multiplexing techniques for ATM wireless LANs",
+    "abstract": "We consider digital wireless multimedia LANs and time‐varying traffic rates. To deal effectively with the dynamics of the time‐varying traffic rates, a Traffic Monitoring Algorithm (TMA) is deployed to dynamically allocate channel capacities to the heterogeneous traffics. The TMA is implemented as a higher level protocol that dictates the capacity boundaries within two distinct framed transmission techniques: a Framed Time Domain‐Based (FTDB) technique and a Framed CDMA (FCDMA) technique. The performance of the TMA in the presence of the FTDB technique is compared to its performance in the presence of the FCDMA technique for some traffic scenarios. The performance metrics used for the TMA‐FTDB and TMA‐FCDMA combinations are channel capacity utilization factors, traffic rejection rates, and traffic delays. It is found that the TMA‐FTDB is superior to the TMA‐FCDMA when the speed of the transmission links is relatively low and the lengths of the transmitted messages are relatively short. As the speed of the transmission links and the length of the transmitted messages increase, the TMA‐FCDMA eventually outperforms the TMA‐FTDB.",
+    "citation_count": 24,
+    "year": "1998/09",
+    "authors": [
+        {
+            "name": "Burrell, Anthony",
+            "country": "USA"
+        },
+        {
+            "name": "Stern, Harold P.",
+            "country": "USA"
+        },
+        {
+            "name": "Papantoni‐Kazakos, P.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885620301335",
+    "title": "Depth-guided saliency detection via boundary information",
+    "abstract": "Existing efforts of  saliency detection  have achieved excellent performance in  RGB images , thus to sufficiently exploit existing RGB saliency models and further do some extensions on them, we can transfer existing RGB saliency models to the similar research field,  i.e.  RGBD saliency detection, by introducing depth cues. Here, we construct a novel RGBD saliency model upon an existing RGB saliency model. To be specific, firstly, our model deploys a depth-guided module to guide the deep features extraction, where the multi-level deep depth features obtained from depth branch are embedded into the  backbone network  and integrate with multi-level deep RGB features. Secondly, to further promote the performance of our model, we devise a boundary constraint module to elevate the detection accuracy, where the boundary information is compounded by the low-level deep RGB and depth features. Comprehensive experiments are performed on five public RGBD saliency detection datasets, and the experimental results clearly demonstrate the effectiveness and superiority of our model when compared with the state-of-the-art RGBD saliency models.",
+    "citation_count": "7",
+    "year": "2020/11/01",
+    "authors": [
+        {
+            "name": "Xiaofei Zhou",
+            "country": ""
+        },
+        {
+            "name": "Hongfa Wen",
+            "country": ""
+        },
+        {
+            "name": "Ran Shi",
+            "country": ""
+        },
+        {
+            "name": "Haibing Yin",
+            "country": ""
+        },
+        {
+            "name": "Chenggang Yan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

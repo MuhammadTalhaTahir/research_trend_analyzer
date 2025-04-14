@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624001501",
+    "title": "Non-invasive coronary artery disease identification through the iris and bio-demographic health profile features using stacking learning",
+    "abstract": "This study proposes a non-invasive method for predicting  Coronary Artery  Disease (CAD) using iris analysis, patient data, and  Machine Learning  (ML), primarily with  iris images . It involved 281 participants, comprising 155 CAD patients and 126 non-patient controls, with eye images and biodemographic  data collected  at a  Cardiology  outpatient clinic. The study explored three scenarios: Scenario-I focused on biodemographic data, Scenario-II on iris features, and Scenario-III combined iris images and data. Iris processing included location determination, normalization, and heart region selection, with image enhancement via adaptive  histogram equalization . Feature extraction through a 2-level  wavelet transform  generated 272 attributes, including statistical, Gray Level Co-occurrence Matrix, and Gray Level Run Length Matrix features for eight subcomponents. Correlation-based selection identified the best features, and classification employed  ML techniques  and incorporated stacking learning to enhance the results. Scenario-I achieved the highest accuracy at 83.57% among all evaluated algorithms. In Scenario-II, the proposed algorithm consistently outperformed others, achieving 94.88% accuracy and strong performance in other metrics, highlighting its effectiveness. In Scenario-III, the algorithm maintained superiority with 96.07% accuracy, specificity, recall, and area under the curve values. The proposed algorithm consistently outperforms other methods across scenarios, indicating its potential for CAD diagnosis, making it a promising choice for future CAD systems. The proposed algorithm presents a novel approach to the preliminary diagnosis of CAD, eliminating the necessity for  electrocardiography ,  echocardiography , or  effort tests . It also enables seamless integration into  telemedicine  systems, allowing for tele-diagnosis to conduct preliminary assessments before routine clinical practice.",
+    "citation_count": "2",
+    "year": "2024/06/01",
+    "authors": [
+        {
+            "name": "Ferdi Özbilgin",
+            "country": ""
+        },
+        {
+            "name": "Çetin Kurnaz",
+            "country": ""
+        },
+        {
+            "name": "Ertan Aydın",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

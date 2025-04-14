@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-025-10354-w",
+    "title": "Ensemble-regularized Kernel density estimation with applications to the ensemble Gaussian mixture filter",
+    "abstract": "The ensemble Gaussian mixture filter (EnGMF) is a non-linear filter suited to data assimilation of highly non-Gaussian and non-linear models that has practical utility in the case of a small number of samples, and theoretical convergence to full Bayesian inference in the ensemble limit. We aim to increase the utility of the EnGMF by introducing an ensemble-local notion of covariance into the kernel density estimation (KDE) step for the prior distribution, regularizing the local covariances by the ensemble that generated it. We prove that in the Gaussian case, our new ensemble-regularized KDE technique is exactly the same as more traditional KDE techniques. We also show an example of a non-Gaussian distribution that can fail to be approximated by canonical KDE methods, but can be approximated well by our new KDE technique. We showcase our new KDE technique on two simple bivariate problem, showing that it has nice qualitative and quantitative properties, and improves the estimate of the prior and posterior distributions across a broad range of possibilities. We additionally show the utility of the proposed methodology for sequential filtering for the Lorenz ’63 equations, achieving a significant reduction in error, and less conservative behavior in the uncertainty estimate with respect to traditional techniques. Additional experiments on the Lorenz ’96 equations show that EnGMF type filters can converge for low amounts of samples, though without significant improvement for the approach presented in this work.",
+    "citation_count": 44,
+    "year": "2025/04",
+    "authors": [
+        {
+            "name": "Popov, Andrey A.",
+            "country": "USA"
+        },
+        {
+            "name": "Zucchelli, Enrico M.",
+            "country": "USA"
+        },
+        {
+            "name": "Zanetti, Renato",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

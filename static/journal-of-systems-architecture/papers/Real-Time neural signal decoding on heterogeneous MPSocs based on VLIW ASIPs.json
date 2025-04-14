@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762116302041",
+    "title": "Real-Time neural signal decoding on heterogeneous MPSocs based on VLIW ASIPs",
+    "abstract": "An important research problem, at the basis of the development of embedded systems for  neuroprosthetic  applications, is the development of algorithms and platforms able to extract the patient’s motion intention by decoding the information encoded in neural signals. At the state of the art, no portable and reliable integrated solutions implementing such a decoding task have been identified. To this aim, in this paper, we investigate the possibility of using the  MPSoC  paradigm in this application domain. We perform a  design space exploration  that compares different custom  MPSoC  embedded architectures, implementing two versions of a on-line neural  signal decoding  algorithm, respectively targeting decoding of single and multiple acquisition channels. Each considered design points features a different application configuration, with a specific partitioning and mapping of parallel software tasks, executed on customized VLIW  ASIP  processing cores. Experimental results, obtained by means of FPGA-based prototyping and post-floorplanning power evaluation on a 40nm technology library, assess the performance and hardware-related costs of the considered configurations. The reported power figures demonstrate the usability of the MPSoC paradigm within the processing of bio-electrical signals and show the benefits achievable by the exploitation of the instruction-level  parallelism  within tasks.",
+    "citation_count": "2",
+    "year": "2017/05/01",
+    "authors": [
+        {
+            "name": "Paolo Meloni",
+            "country": ""
+        },
+        {
+            "name": "Claudio Rubattu",
+            "country": ""
+        },
+        {
+            "name": "Giuseppe Tuveri",
+            "country": ""
+        },
+        {
+            "name": "Danilo Pani",
+            "country": ""
+        },
+        {
+            "name": "Luigi Raffo",
+            "country": ""
+        },
+        {
+            "name": "Francesca Palumbo",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

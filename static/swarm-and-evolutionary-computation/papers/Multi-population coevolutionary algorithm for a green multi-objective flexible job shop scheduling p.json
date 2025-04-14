@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224003122",
+    "title": "Multi-population coevolutionary algorithm for a green multi-objective flexible job shop scheduling problem with automated guided vehicles and variable processing speed constraints",
+    "abstract": "This study focuses on addressing a multi-objective Flexible Job Shop Scheduling Problem with Automated Guided Vehicles (FJSP-AGVs) and variable processing speed constraints. First, a position-based mixed integer linear programming model (MILP) is proposed to optimize simultaneously the maximum completion time and the total energy consumption. Then, we decompose FJSP-AGVs into four interrelated subproblems and design a Multi-Population Coevolutionary Algorithm (MCEA) to solve them. In MCEA, (1) The effective encoding and decoding methods are used to accurately reflect the characteristics of the problem, and generate feasible scheduling solutions. (2) A multi-rule-based heuristic is proposed to enrich the diversity of four populations. (3) A disjunctive graph is constructed to depict and obtain the critical path(s). On this basis, (4) two cooperative evolution strategies based on critical paths are proposed to facilitate collaborative evolution between different populations and improve the global search capability of the algorithm. Furthermore, (5) a consumption reduction strategy is proposed by reducing the processing speed of operations on non-critical paths while ensuring that it does not affect the makespan. Finally, we validate the effectiveness of MCEA by GD, and IGD, and set coverage metrics on the four typical benchmark datasets. Based on the average GD (IGD) metric across 65 instances, MCEA shows reductions of 77.63% (93.60%), 95.30% (97.27%), and 96.17%(97.89%) relative to EHA, EMOEA, and mop-BRKGA, respectively. The set coverage metric, MCEA outperforms EHA, EMOEA, and mop-BRKGA in 59, 64, and 64 instances, respectively. These results clearly indicate that MCEA can solve the FJSP-AGVs with variable processing speed constraints.",
+    "citation_count": "1",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Chao Liu",
+            "country": ""
+        },
+        {
+            "name": "Yuyan Han",
+            "country": ""
+        },
+        {
+            "name": "Yuting Wang",
+            "country": ""
+        },
+        {
+            "name": "Junqing Li",
+            "country": ""
+        },
+        {
+            "name": "Yiping Liu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

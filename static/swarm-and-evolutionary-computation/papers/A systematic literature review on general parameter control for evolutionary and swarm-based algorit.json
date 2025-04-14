@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650220304302",
+    "title": "A systematic literature review on general parameter control for evolutionary and swarm-based algorithms",
+    "abstract": "This paper presents a systematic literature review on general parameter control for evolutionary and swarm-based algorithms. General methods can be applied to any algorithm, parameter or problem, in contrast to methods that are tailored to specific applications. In this literature review, a total of 4449 studies were retrieved by the search engines and only 50 of them were selected to the extraction phase. Finally, only 15 were fully analyzed and discussed. To the best of our knowledge, this is the first literature review on such a field and one of the very few systematic reviews on parameter adjustment for those algorithms.",
+    "citation_count": "43",
+    "year": "2021/02/01",
+    "authors": [
+        {
+            "name": "Marcelo Gomes Pereira de Lacerda",
+            "country": ""
+        },
+        {
+            "name": "Luis Filipe de Araujo Pessoa",
+            "country": ""
+        },
+        {
+            "name": "Fernando Buarque de Lima Neto",
+            "country": ""
+        },
+        {
+            "name": "Teresa Bernarda Ludermir",
+            "country": ""
+        },
+        {
+            "name": "Herbert Kuchen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

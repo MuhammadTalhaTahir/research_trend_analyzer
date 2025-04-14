@@ -1,0 +1,49 @@
+{
+    "url": "https://link.springer.com/article/10.1023/B:JOCO.0000017385.39168.0d",
+    "title": "Exordium for DNA Codes",
+    "abstract": "We describe how deletion-correcting codes may be enhanced to yield codes with double-strand DNA-sequence codewords. This enhancement involves abstractions of the pertinent aspects of DNA; it nevertheless ensures specificity of binding for all pairs of single strands derived from its codewords—the key desideratum of DNA codes– i.e. with binding feasible only between reverse complementary strands. We defer discussing the combinatorial-optimization superincumbencies of code construction. Generalization of deletion similarity to an optimal sequence-alignment score could readily effect advantageous improvements (Kaderali, Master's Thesis, Informatics, U. Köln, 2001) but would render the combinatorics opaque. We mention motivating applications of DNA codes.",
+    "citation_count": 24,
+    "year": "2003/12",
+    "authors": [
+        {
+            "name": "D'yachkov, Arkadii G.",
+            "country": "Moscow"
+        },
+        {
+            "name": "Erdös, Peter L.",
+            "country": "Budapest"
+        },
+        {
+            "name": "Macula, Anthony J.",
+            "country": "Geneseo"
+        },
+        {
+            "name": "Rykov, Vyacheslav V.",
+            "country": "Omaha"
+        },
+        {
+            "name": "Torney, David C.",
+            "country": "USA."
+        },
+        {
+            "name": "Tung, Chang-Shung",
+            "country": "USA."
+        },
+        {
+            "name": "Vilenkin, Pavel A.",
+            "country": "Moscow"
+        },
+        {
+            "name": "White, P. Scott",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

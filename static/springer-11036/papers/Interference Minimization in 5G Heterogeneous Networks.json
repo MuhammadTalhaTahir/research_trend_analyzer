@@ -1,0 +1,35 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-014-0564-1",
+    "title": "Interference Minimization in 5G Heterogeneous Networks",
+    "abstract": "In this paper, we focus on one of the representative 5G network scenarios, namely multi-tier heterogeneous cellular networks. User association is investigated in order to reduce the down-link co-channel interference. Firstly, in order to analyze the multi-tier heterogeneous cellular networks where the base stations in different tiers usually adopt different transmission powers, we propose a Transmission Power Normalization Model (TPNM), which is able to convert a multi-tier cellular network into a single-tier network, such that all base stations have the same normalized transmission power. Then using TPNM, the signal and interference received at any point in the complex multi-tier environment can be analyzed by considering the same point in the equivalent single-tier cellular network model, thus significantly simplifying the analysis. On this basis, we propose a new user association scheme in heterogeneous cellular networks, where the base station that leads to the smallest interference to other co-channel mobile stations is chosen from a set of candidate base stations that satisfy the quality-of-service (QoS) constraint for an intended mobile station. Numerical results show that the proposed user association scheme is able to significantly reduce the down-link interference compared with existing schemes while maintaining a reasonably good QoS.",
+    "citation_count": 15,
+    "year": "2015/12",
+    "authors": [
+        {
+            "name": "Han, Tao",
+            "country": "China"
+        },
+        {
+            "name": "Mao, Guoqiang",
+            "country": "Australia"
+        },
+        {
+            "name": "Li, Qiang",
+            "country": "China"
+        },
+        {
+            "name": "Wang, Lijun",
+            "country": "China"
+        },
+        {
+            "name": "Zhang, Jing",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

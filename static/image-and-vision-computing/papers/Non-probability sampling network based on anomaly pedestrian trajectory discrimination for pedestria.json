@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S026288562400057X",
+    "title": "Non-probability sampling network based on anomaly pedestrian trajectory discrimination for pedestrian trajectory prediction",
+    "abstract": "Pedestrian trajectory prediction in first-person view is an important support for achieving fully automated driving in cities. However, existing  pedestrian  trajectory prediction methods still have significant shortcomings in terms of pedestrian trajectory diversity, dynamic scene constraints, and dependence on long-term trajectory prediction. We proposes a non-probability sampling network based on pedestrian trajectory anomaly recognition (ADsampler) to predict multiple possible future pedestrian trajectories. First, by incorporating pose and optical flow information, ADsampler models the multi-dimensional motion characteristics of pedestrians based on  observed trajectory  information and discriminates  trajectory states . The sampling range in the Gaussian latent space is determined based on the recognition results. Next, velocity and yaw information of the car are introduced to model the car's motion state. A subtraction fusion network is employed to remove redundant  image feature  constraints in highly dynamic scenes. Finally, ADsampler utilizes a novel trajectory decoding network that combines the position encoding capability of  GRU  with the long-term dependency capturing ability of Transformer to decode and predict the fused features. we evaluate our model on crowded videos in the public datasets JAAD, PIE, ETH and UCY. Experiments demonstrate that the proposed method outperforms state-of-the-art approaches in prediction accuracy.",
+    "citation_count": "3",
+    "year": "2024/03/01",
+    "authors": [
+        {
+            "name": "Quankai Liu",
+            "country": ""
+        },
+        {
+            "name": "Haifeng Sang",
+            "country": ""
+        },
+        {
+            "name": "Jinyu Wang",
+            "country": ""
+        },
+        {
+            "name": "Wangxing Chen",
+            "country": ""
+        },
+        {
+            "name": "Yulong Liu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

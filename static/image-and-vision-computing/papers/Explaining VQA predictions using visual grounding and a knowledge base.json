@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885620301001",
+    "title": "Explaining VQA predictions using visual grounding and a knowledge base",
+    "abstract": "In this work, we focus on the  Visual Question Answering  (VQA) task, where a model must answer a question based on an image, and the VQA-Explanations task, where an explanation is produced to support the answer. We introduce an interpretable model capable of pointing out and consuming information from a novel  Knowledge Base  ( KB ) composed of real-world relationships between objects, along with labels mined from available region descriptions and object annotations. Furthermore, this model provides a visual and textual explanations to complement the  KB  visualization. The use of a  KB  brings two important consequences: enhance predictions and improve  interpretability . We achieve this by introducing a mechanism that can extract relevant information from this  KB , and can point out the relations better suited for predicting the answer. A supervised attention map is generated over the  KB  to select the relevant relationships from it for each question-image pair. Moreover, we add image attention supervision on the explanations module to generate better visual and textual explanations. We quantitatively show that the predicted answers improve when using the  KB ; similarly, explanations improve with this and when adding image attention supervision. Also, we qualitatively show that the  KB  attention helps to improve interpretability and enhance explanations. Overall, the results support the benefits of having multiple tasks to enhance the interpretability and performance of the model.",
+    "citation_count": "15",
+    "year": "2020/09/01",
+    "authors": [
+        {
+            "name": "Felipe Riquelme",
+            "country": ""
+        },
+        {
+            "name": "Alfredo De Goyeneche",
+            "country": ""
+        },
+        {
+            "name": "Yundong Zhang",
+            "country": ""
+        },
+        {
+            "name": "Juan Carlos Niebles",
+            "country": ""
+        },
+        {
+            "name": "Alvaro Soto",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

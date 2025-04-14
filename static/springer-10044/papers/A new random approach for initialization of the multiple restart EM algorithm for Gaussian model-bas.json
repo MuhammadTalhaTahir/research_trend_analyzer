@@ -1,0 +1,16 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-014-0441-3",
+    "title": "A new random approach for initialization of the multiple restart EM algorithm for Gaussian model-based clustering",
+    "abstract": "The paper proposes a new method for initialization of the multiple restart EM algorithm for Gaussian mixture model-based clustering. The method initializes randomly both the mean vector and covariance matrix of a mixture component. In particular, the mean vector is initialized by a feature vector selected deterministically from a random subset of candidate feature vectors. The selection criterion is the maximum Mahalanobis distance from the already initialized mixture component centers. The covariance matrix of a component is initialized by randomly generating its eigenvalues and eigenvectors. In computational experiments, the used approach was compared with three other random EM initialization methods. The experiments were performed on synthetic datasets generated from the Gaussian mixtures with the different overlap characteristics, as well as on four real-life datasets. The results on synthetic data indicate that, for well separated clusters, for which the maximum pairwise overlap is not excessively high, the described method yields clusterings which correspond better to the original partitions of data, as indicated by the adjusted Rand index. The experiments on real data indicate that the performance of the method is comparable to other three methods for two smaller datasets and significantly better for two larger datasets.",
+    "citation_count": 36,
+    "year": "2015/11",
+    "authors": [
+        {
+            "name": "Kwedlo, Wojciech",
+            "country": "Poland"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762118301693",
+    "title": "A survey of techniques for improving error-resilience of DRAM",
+    "abstract": "Aggressive process scaling and increasing demands of performance/cost efficiency have exacerbated the incidences and impact of errors in DRAM systems. Due to this, improvements in DRAM reliability has received significant attention in recent years from both academia and industry. In this paper, we present a survey of techniques for improving reliability of DRAM-based main memory. We classify the works based on key parameters to emphasize their similarities and differences. This paper is expected to be useful for computer architects, chip-designers and researchers in the area of memory/system-reliability.",
+    "citation_count": "22",
+    "year": "2018/11/01",
+    "authors": [
+        {
+            "name": "Sparsh Mittal",
+            "country": ""
+        },
+        {
+            "name": "Maruthi S. Inukonda",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

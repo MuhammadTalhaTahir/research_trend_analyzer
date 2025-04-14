@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S138376211730108X",
+    "title": "Synergistic design of an application-oriented sparse directory on many-core embedded systems",
+    "abstract": "As many-core embedded systems are evolving from single-memory based designs to systems-on-a-chip running on an on-chip network, implementing a cache coherence mechanism in large-scale many-core embedded systems turns out to be a  technical challenge . However, existing coherence mechanisms are difficult to scale beyond tens of cores, which require either excessive area or energy, complex hierarchical protocols, or inexact representations of sharer sets. In this paper, we present a hardware-software synergistic design of a cache coherence mechanism by considering OS-level application allocation and hardware-level coherence operations. The proposed application-oriented sparse directory (AoSD) cooperates with a  contiguous allocation  algorithm to isolate cache coherence traffic and thereby reduce interferences among applications. The proposed micro-architecture of sharer set representations is area-efficient; moreover, it can also be configured dynamically to track a flexible and exact sharer set. We verify our design by analyzing memory requirements of different  cache organizations  and implementing our design on a popular simulator Graphite to evaluate cache coherence traffic improvement. The results show that our design is both area-efficient and efficient with improvements in memory network performance by 11.74%–28.72%. It is also indicated that our design is feasible to scale up to work well in thousands-of-cores embedded systems.",
+    "citation_count": "3",
+    "year": "2017/11/01",
+    "authors": [
+        {
+            "name": "Chang Wang",
+            "country": ""
+        },
+        {
+            "name": "Yongxin Zhu",
+            "country": ""
+        },
+        {
+            "name": "Victor Chang",
+            "country": ""
+        },
+        {
+            "name": "Jiang Jiang",
+            "country": ""
+        },
+        {
+            "name": "Han Song",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

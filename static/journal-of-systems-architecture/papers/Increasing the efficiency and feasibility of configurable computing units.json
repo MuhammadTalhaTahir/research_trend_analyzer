@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762117300279",
+    "title": "Increasing the efficiency and feasibility of configurable computing units",
+    "abstract": "Multicore processors are customary within current generation computing systems. The overall concept of general purpose processing however remains a challenge as architects must provide increased performance for each advancing generation without solely relying on transistor scaling and additional cache levels. Although architects have steered towards heterogeneity to increase the performance and efficiency for a variety of workloads, the fundamental issue of how a single core's architecture may be improved and applied to the multiprocessor domain remains. This work builds upon the concept of Configurable Computing Units (CCU) - a nuanced approach to processor architectures and microarchitectures, employing reconfigurable datapaths and task-based execution. This work improves upon the efficiency of CCUs by applying various new design techniques including branch prediction, variable configuration, an OpenMP programming model, and Berkeley Dwarf testing. Experimental results using Gem5 demonstrate that a single CCU core can achieve dual-core performance, with a 1.29x decrease in area overhead and 55% of the power consumption required by a conventional CPU .",
+    "citation_count": "1",
+    "year": "2017/04/01",
+    "authors": [
+        {
+            "name": "Anita Tino",
+            "country": ""
+        },
+        {
+            "name": "Kaamran Raahemifar",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

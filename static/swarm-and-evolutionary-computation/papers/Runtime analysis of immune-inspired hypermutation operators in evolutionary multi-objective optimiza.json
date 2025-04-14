@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S221065022100095X",
+    "title": "Runtime analysis of immune-inspired hypermutation operators in evolutionary multi-objective optimization",
+    "abstract": "Immune systems  inspired algorithms with hypermutation operators have achieved great success in solving real-world single-objective as well as multi-objective optimization problems. Compared to the application, however, the theoretical analysis, particularly on understanding immune-inspired hypermutation operators, is underdeveloped. The few existing theoretical studies mainly focused on single-objective optimization. In this paper, we present a theoretical study for the effectiveness of immune-inspired hypermutation operators in solving multi-objective optimization problems. We compare the expected runtime of a simple multi-objective  evolutionary algorithm  using four typical immune-inspired hypermutation operators and two classical  mutation operators . The results on four bi-objective optimization problems widely used in theoretical analysis, namely LOTZ, COCZ, Plateau-MOP and PL, show that using immune-inspired hypermutation operators can always find the  Pareto fronts  in polynomial expected runtime, which is slower than the best known expected runtime of using classical mutation operators by at most a factor of  n . Particularly, on Plateau-MOP and PL, using immune-inspired hypermutation operators can be exponentially faster. This runtime analysis can enhance the understanding of immune-inspired hypermutation operators on solving multi-objective optimization problems, and might be helpful for designing efficient multi-objective evolutionary algorithms in practice.",
+    "citation_count": "0",
+    "year": "2021/08/01",
+    "authors": [
+        {
+            "name": "Zhengxin Huang",
+            "country": ""
+        },
+        {
+            "name": "Yuren Zhou",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

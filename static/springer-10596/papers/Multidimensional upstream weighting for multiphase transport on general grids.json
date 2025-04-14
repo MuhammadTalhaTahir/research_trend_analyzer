@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-012-9301-7",
+    "title": "Multidimensional upstream weighting for multiphase transport on general grids",
+    "abstract": "The governing equations for multiphase flow in porous media have a mixed character, with both nearly elliptic and nearly hyperbolic variables. The flux for each phase can be decomposed into two parts: (1) a geometry- and rock-dependent term that resembles a single-phase flux; and (2) a mobility term representing fluid properties and rock–fluid interactions. The first term is commonly discretized by two- or multipoint flux approximations (TPFA and MPFA, respectively). The mobility is usually treated with single-point upstream weighting (SPU), also known as dimensional or donor cell upstream weighting. It is well known that when simulating processes with adverse mobility ratios, SPU suffers from grid orientation effects. An important example of this, which will be considered in this work, is the displacement of a heavy oil by water. For these adverse mobility ratio flows, the governing equations are unstable at the modeling scale, rendering a challenging numerical problem. These challenges must be addressed in order to avoid systematic biasing of simulation results. In this work, we present a framework for multidimensional upstream weighting for multiphase flow with buoyancy on general two-dimensional grids. The methodology is based on a dual grid, and the resulting transport methods are provably monotone. The multidimensional transport methods are coupled with MPFA methods to solve the pressure equation. Both explicit and fully implicit approaches are considered for time integration of the transport equations. The results show considerable reduction of grid orientation effects compared to SPU, and the explicit multidimensional approach allows larger time steps. For the implicit method, the total number of non-linear iterations is also reduced when multidimensional upstream weighting is used.",
+    "citation_count": 37,
+    "year": "2012/09",
+    "authors": [
+        {
+            "name": "Keilegavlen, Eirik",
+            "country": "Norway"
+        },
+        {
+            "name": "Kozdon, Jeremy E.",
+            "country": "USA"
+        },
+        {
+            "name": "Mallison, Bradley T.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

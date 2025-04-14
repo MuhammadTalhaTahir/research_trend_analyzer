@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002324",
+    "title": "Modality interactive attention for cross-modality person re-identification",
+    "abstract": "The visible-infrared person re-identification (VI-ReID) task is challenging in  image retrievals  because of the modality gaps between visible and infrared images. Different from the most existing methods which either strive to capture modality invariant features or bridge the two modalities via modal data compensation, the proposed network introduces a modality interactive attention(MIA) module, which aims to establish an interactive relation between modality-shared (MSH) features and modality-specific (MSP) features to narrow down the gap. The attention-driven module explores the relevance score between MSH and MSP features, and takes the score as the modality bridge to fuse the two features, thus introducing the specific feature into the shared one. The  subnetworks  for extracting the MSP and MSH features are also introduced. Extensive experiments on benchmark datasets show that the proposed VI-ReID method outperforms other state-of-the-art methods. On the large-scale SYSU-MM01 dataset, the proposed method can achieve 83.56% and 85.67% in Rank-1 accuracy and  mAP , which is 3.26% and 2.37% higher than the baseline.",
+    "citation_count": "3",
+    "year": "2024/08/01",
+    "authors": [
+        {
+            "name": "Zilin Zou",
+            "country": ""
+        },
+        {
+            "name": "Ying Chen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

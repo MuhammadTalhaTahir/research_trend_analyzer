@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762120300941",
+    "title": "A holistic cross-layer optimization approach for mitigating stragglers in in-memory data processing",
+    "abstract": "In-memory data processing frameworks (e.g., Spark) make  big data  analysis greatly simpler and efficient. However,  stragglers  that take much longer to finish than other tasks significantly degrade performance. There exist multiple factors that cause  stragglers , either from the hardware resource layer or application layer, e.g. hardware heterogeneity, interference,  data locality  and data skew. While state-of-the-art straggler mitigation techniques have presented partial solutions on data skew and data locality, we experimentally demonstrate that the other factors can also result in serious problems. We present  Clio , a cross-layer interference-aware optimization system that can effectively mitigate stragglers for data processing frameworks.  Clio  supports the scheduling of both map and reduce tasks. It heuristically dispatches intermediate data in proportion to the actual computing ability of each worker node, which is estimated considering various straggler factors, to balance the completion times of tasks in a much finer way. We implement  Clio  in  Apache Spark , and evaluate its performance using both synthetic and real datasets. Experiment results show that,  Clio  can speed up the execution of applications by up to 67%, compared with the existing algorithms.",
+    "citation_count": "2",
+    "year": "2020/12/01",
+    "authors": [
+        {
+            "name": "Laiping Zhao",
+            "country": ""
+        },
+        {
+            "name": "Yiming Li",
+            "country": ""
+        },
+        {
+            "name": "Francoise Fogelman-Soulié",
+            "country": ""
+        },
+        {
+            "name": "Keqiu Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

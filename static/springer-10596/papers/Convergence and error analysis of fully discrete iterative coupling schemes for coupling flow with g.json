@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-017-9691-7",
+    "title": "Convergence and error analysis of fully discrete iterative coupling schemes for coupling flow with geomechanics",
+    "abstract": "In this paper, we consider an iterative coupling scheme for solving a fully discretized Biot system based on the fixed-stress split coupling algorithm. Specifically, we derive a priori error estimates for quantifying the error between the solution obtained at any iterate and the true solution. Our approach is based on studying the equations satisfied by the difference of iterates and utilizing a Banach contraction argument to show that the corresponding scheme is a fixed point iteration. Obtained contraction results are then used to derive theoretical convergence error estimates for the single rate iterative coupling scheme. We compare our numerical computations against the theoretically derived contraction estimates and show a good agreement with theory.",
+    "citation_count": 39,
+    "year": "2017/12",
+    "authors": [
+        {
+            "name": "Almani, T.",
+            "country": "USA"
+        },
+        {
+            "name": "Kumar, K.",
+            "country": "Saudi Arabia"
+        },
+        {
+            "name": "Wheeler, M. F.",
+            "country": "Norway"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

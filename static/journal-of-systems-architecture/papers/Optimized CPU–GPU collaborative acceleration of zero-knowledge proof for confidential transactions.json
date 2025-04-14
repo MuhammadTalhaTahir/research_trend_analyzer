@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122002922",
+    "title": "Optimized CPU–GPU collaborative acceleration of zero-knowledge proof for confidential transactions",
+    "abstract": "The  potential application  scope of  blockchain  is much broader than its origin of digital currencies, which may include managing  smart contract , copyrighted works, and digitization of commercial or organizational registries. Not surprisingly, the confidentiality of transaction information is desired in these various  blockchain  applications, and is unfortunately not well supported yet. Zero-knowledge proofs such as  bulletproofs  are good candidate solutions to provide transaction confidentiality in blockchain, due to the ability to verify the truth of information without revealing the information directly. However, zero-knowledge proofs still suffer from high computation overhead and low throughput, and Bulletproofs are still computationally inefficient to be applied in blockchain applications.  Edge computing  meets confidential transactions’ strong need for high performing by providing powerful  GPUs  and can be a helpful option. In this paper, we first present a CPU–GPU collaborative framework to accelerate the inner-product arguments of Bulletproofs. The experiments show that our implementation achieves an average speedup ratio of 3.7x. On this basis, this paper also proposes to build a high efficient bulletproofs based  transaction processing system  that supports both confidential and transparent transactions at GPU-enabled edge. Compared with the original bulletproofs version, a GPU accelerated implementation can obtain a speedup ratio up to 4.7x. When multiple bulletproofs are required to execute in bundle, the work focuses on memory optimization and data segmentation, which further increases the speed by 30%. Finally, the overall transaction processing system achieves a 1.5x speedup when both confidential and transparent transactions are parallelized at the edge.",
+    "citation_count": "11",
+    "year": "2023/02/01",
+    "authors": [
+        {
+            "name": "Ying Huang",
+            "country": ""
+        },
+        {
+            "name": "Xiaoying Zheng",
+            "country": ""
+        },
+        {
+            "name": "Yongxin Zhu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-023-10242-1",
+    "title": "Marginalized iterative ensemble smoothers for data assimilation",
+    "abstract": "Data assimilation is an important tool in many geophysical applications. One of many key elements of data assimilation algorithms is the measurement error that determines the weighting of the data in the cost function to be minimized. Although the algorithms used for data assimilation treat the measurement uncertainty as known, it is in many cases estimated or set based on some expert opinion. Here we treat the measurement uncertainty as a hyperparameter in a fully Bayesian hierarchical model and derive a new class of iterative ensemble methods for data assimilation where the measurement uncertainty is integrated out. The proposed algorithms are compared with the standard iterative ensemble smoother on a 2D synthetic reservoir model.",
+    "citation_count": 26,
+    "year": "2023/12",
+    "authors": [
+        {
+            "name": "Stordal, Andreas S.",
+            "country": "Norway"
+        },
+        {
+            "name": "Lorentzen, Rolf J.",
+            "country": "Norway"
+        },
+        {
+            "name": "Fossum, Kristian",
+            "country": "Norway"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

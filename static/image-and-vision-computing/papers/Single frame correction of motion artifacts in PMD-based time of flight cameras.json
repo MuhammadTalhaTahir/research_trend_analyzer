@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885614001450",
+    "title": "Single frame correction of motion artifacts in PMD-based time of flight cameras",
+    "abstract": "One of the leading  time of flight  imaging technologies for depth sensing is based on  Photonic   Mixer  Devices (PMD). In PMD sensors each pixel samples the correlation between emitted and received light signals. Current PMD cameras compute eight correlation samples per pixel in four sequential stages to obtain depth with invariance to  signal amplitude  and offset variations. With motion, PMD pixels capture different depths at each stage. As a result, correlation samples are not coherent with a single depth, producing artifacts. We propose to detect and remove motion artifacts from a single frame taken by a PMD camera. The algorithm we propose is very fast, simple and can be easily included in camera hardware. We recover depth of each pixel by exploiting consistency of the correlation samples and local neighbors of the pixel. In addition, our method obtains the motion flow of occluding contours in the image from a single frame. The system has been validated in real scenes using a commercial low-cost PMD camera and high speed dynamics. In all cases our method produces accurate results and it highly reduces motion artifacts.",
+    "citation_count": "11",
+    "year": "2014/12/01",
+    "authors": [
+        {
+            "name": "David Jimenez",
+            "country": ""
+        },
+        {
+            "name": "Daniel Pizarro",
+            "country": ""
+        },
+        {
+            "name": "Manuel Mazo",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

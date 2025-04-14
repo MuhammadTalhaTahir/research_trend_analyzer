@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-022-00867-w",
+    "title": "Convex-Concave fitting to successively updated data and its application to covid-19 analysis",
+    "abstract": "Let $${ n}$$ measurements of a process be provided sequentially, where the process follows a sigmoid shape, but the data have lost sigmoidicity due to measuring errors. If we smooth the data by making least the sum of squares of errors subject to one sign change in the second divided differences, then we obtain a sigmoid approximation. It is known that the optimal fit of this calculation is composed of two separate sections, one best convex and one best concave. We propose a method that starts at the beginning of the data and proceeds systematically to construct the two sections of the fit for the current data, step by step as n is increased. Although the minimization calculation at each step may have many local minima, it can be solved in about $${\\mathcal {O}}(n^2)$$ operations, because of properties of the join between the convex and the concave section. We apply this method to data of daily Covid-19 cases and deaths of Greece, the United States of America and the United Kingdom. These data provide substantial differences in the final approximations. Thus, we evaluate the performance of the method in terms of its capabilities as both constructing a sigmoid-type approximant to the data and a trend detector. Our results clarify the optimization calculation both in a systematic manner and to a good extent. At the same time, they reveal some features of the method to be considered in scenaria that may involve predictions, and as a tool to support policy-making. The results also expose some limitations of the method that may be useful to future research on convex-concave data fitting.",
+    "citation_count": 22,
+    "year": "2022/12",
+    "authors": [
+        {
+            "name": "Davos, Demetrius E.",
+            "country": "Greece"
+        },
+        {
+            "name": "Demetriou, Ioannis C.",
+            "country": "Greece"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124001231",
+    "title": "Parallel GEMM-based convolutions for deep learning on multicore ARM and RISC-V architectures",
+    "abstract": "We present high performance, multi-threaded implementations of three GEMM-based convolution algorithms for  multicore processors  with ARM and RISC-V architectures. The codes are integrated into CONVLIB, a library that has the following unique features: (1) scripts to automatically generate a key component of GEMM, known as the micro-kernel, which is typically written in  assembly language ; (2) a modified analytical model to automatically tune the algorithms to the underlying cache architecture; (3) the ability to select four hyper-parameters: micro-kernel, cache parameters, parallel loop, and GEMM algorithm dynamically between calls to the library, without recompiling it; and (4) a driver to identify the best hyper-parameters. In addition, we provide a detailed performance evaluation of the convolution algorithms, on five ARM and RISC-V processors, and we publicly release the codes.",
+    "citation_count": "2",
+    "year": "2024/08/01",
+    "authors": [
+        {
+            "name": "Héctor Martínez",
+            "country": ""
+        },
+        {
+            "name": "Sandra Catalán",
+            "country": ""
+        },
+        {
+            "name": "Adrián Castelló",
+            "country": ""
+        },
+        {
+            "name": "Enrique S. Quintana-Ortí",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

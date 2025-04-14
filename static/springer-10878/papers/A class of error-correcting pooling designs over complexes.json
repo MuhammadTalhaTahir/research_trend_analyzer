@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-008-9179-4",
+    "title": "A class of error-correcting pooling designs over complexes",
+    "abstract": "As a generalization of d e -disjunct matrices and (w,r;d)-cover-free-families, the notion of (s,l) e -disjunct matrices is introduced for error-correcting pooling designs over complexes (or set pooling designs). We show that (w,r,d)-cover-free-families form a class of (s,l) e -disjunct matrices. Moreover, a decoding algorithm for pooling designs based on (s,l) e -disjunct matrices is considered.",
+    "citation_count": 13,
+    "year": "2010/05",
+    "authors": [
+        {
+            "name": "Huang, Tayuan",
+            "country": "Taiwan"
+        },
+        {
+            "name": "Wang, Kaishun",
+            "country": "China"
+        },
+        {
+            "name": "Weng, Chih-Wen",
+            "country": "Taiwan"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1009881326671",
+    "title": "Generalized Steiner Problems and Other Variants",
+    "abstract": "In this paper, we examine combinatorial optimization problems by considering the case where the set N (the ground set of elements) is expressed as a union of a finite number of m nonempty distinct subsets N 1,...,N m. The term we use is the generalized Steiner problems coined after the Generalized Traveling Salesman Problem. We have collected a short list of classical combinatorial optimization problems and we have recast each of these problems in this broader framework in an attempt to identify a linkage between these “generalized” problems. In the literature one finds generalized problems such as the Generalized Minimum Spanning Tree (GMST), Generalized Traveling Salesman Problem (GTSP) and Subset Bin-packing (SBP). Casting these problems into the new problem setting has important implications in terms of the time effort required to compute an optimal solution or a “good” solution to a problem. We examine questions like “is the GTSP “harder” than the TSP?” for a number of paradigmatic problems starting with “easy” problems such as the Minimal Spanning Tree, Assignment Problem, Chinese Postman, Two-machine Flow Shop, and followed by “hard” problems such as the Bin-packing, and the TSP.",
+    "citation_count": 28,
+    "year": "2000/12",
+    "authors": [
+        {
+            "name": "Dror, Moshe",
+            "country": "USA"
+        },
+        {
+            "name": "Haouari, Mohamed",
+            "country": "Tunisia"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

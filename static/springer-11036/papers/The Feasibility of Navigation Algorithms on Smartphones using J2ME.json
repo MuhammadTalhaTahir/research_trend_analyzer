@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-010-0236-8",
+    "title": "The Feasibility of Navigation Algorithms on Smartphones using J2ME",
+    "abstract": "Embedded systems are considered one of the areas with more potential for future innovations. Two embedded fields that will most certainly take a primary role in future innovations are mobile robotics and mobile computing. Mobile robots and smartphones are growing in number and functionalities, becoming a presence in our daily life. In this paper, we study the current feasibility of a smartphone to execute navigation algorithms and provide autonomous control, e.g., for a mobile robot. We tested four navigation problems: Mapping, Localization, Simultaneous Localization and Mapping, and Path Planning. We selected representative algorithms for the navigation problems, developed them in J2ME, and performed tests on the field. Results show the current mobile Java capacity for executing computationally demanding algorithms and reveal the real possibility of using smartphones for autonomous navigation.",
+    "citation_count": 28,
+    "year": "2010/12",
+    "authors": [
+        {
+            "name": "Santos, André C.",
+            "country": "Portugal"
+        },
+        {
+            "name": "Tarrataca, Luís",
+            "country": "Portugal"
+        },
+        {
+            "name": "Cardoso, João M. P.",
+            "country": "Portugal"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

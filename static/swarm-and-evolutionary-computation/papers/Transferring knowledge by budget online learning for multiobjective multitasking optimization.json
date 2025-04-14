@@ -1,0 +1,38 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224003031",
+    "title": "Transferring knowledge by budget online learning for multiobjective multitasking optimization",
+    "abstract": "Multiobjective multitasking optimization (MO-MTO) has attracted increasing attention in the evolutionary computation field. Evolutionary multitasking (EMT) algorithms can improve the overall performance of multiple multiobjective optimization tasks through transferring knowledge among tasks. Negative transfer resulting from the indeterminacy of the transferred knowledge may bring about the degradation of the algorithm performance. Identifying the valuable knowledge to transfer by learning the historical samples is a feasible way to reduce negative transfer. Taking this into account, this paper proposes a budget online learning based EMT algorithm for MO-MTO problems. Specifically, by regarding the historical transferred solutions as samples, a classifier would be trained to identified the valuable knowledge. The solutions which are considered containing valuable knowledge will have more opportunity to be transfer. For the samples arrive in the form of streaming data, the classifier would be updated in a budget online learning way during the evolution process to address the concept drift problem. Furthermore, the exceptional case that the classifier fails to identify the valuable knowledge is considered. Experimental results on two MO-MTO test suits show that the proposed algorithm achieves highly competitive performance compared with several traditional and state-of-the-art EMT methods.",
+    "citation_count": "0",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Fuhao Gao",
+            "country": ""
+        },
+        {
+            "name": "Lingling Huang",
+            "country": ""
+        },
+        {
+            "name": "Weifeng Gao",
+            "country": ""
+        },
+        {
+            "name": "Longyue Li",
+            "country": ""
+        },
+        {
+            "name": "Shuqi Wang",
+            "country": ""
+        },
+        {
+            "name": "Maoguo Gong",
+            "country": ""
+        },
+        {
+            "name": "Ling Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

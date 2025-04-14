@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-012-0296-4",
+    "title": "Detecting unknown computer worm activity via support vector machines and active learning",
+    "abstract": "To detect the presence of unknown worms, we propose a technique based on computer measurements extracted from the operating system. We designed a series of experiments to test the new technique by employing several computer configurations and background application activities. In the course of the experiments, 323 computer features were monitored. Four feature-ranking measures were used to reduce the number of features required for classification. We applied support vector machines to the resulting feature subsets. In addition, we used active learning as a selective sampling method to increase the performance of the classifier and improve its robustness in the presence of misleading instances in the data. Our results indicate a mean detection accuracy in excess of 90&nbsp;%, and an accuracy above 94&nbsp;% for specific unknown worms using just 20 features, while maintaining a low false-positive rate when the active learning approach is applied.",
+    "citation_count": 49,
+    "year": "2012/11",
+    "authors": [
+        {
+            "name": "Nissim, Nir",
+            "country": "Israel"
+        },
+        {
+            "name": "Moskovitch, Robert",
+            "country": "Israel"
+        },
+        {
+            "name": "Rokach, Lior",
+            "country": "Israel"
+        },
+        {
+            "name": "Elovici, Yuval",
+            "country": "Israel"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

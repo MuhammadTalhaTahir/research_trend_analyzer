@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885625000332",
+    "title": "Two-modal multiscale feature cross fusion for hyperspectral unmixing",
+    "abstract": "Hyperspectral images (HSI) possess rich spectral characteristics but suffer from low spatial resolution, which has led many methods to focus on extracting more spatial information from HSI. However, the spatial information that can be extracted from a single HSI is limited, making it difficult to distinguish objects with similar materials. To address this issue, we propose a multimodal unmixing network called MSFF-Net. This network enhances unmixing performance by integrating the spatial information from light detection and ranging (LiDAR) data into the unmixing process. To ensure a more comprehensive fusion of features from the two modalities, we introduce a multi-scale cross-fusion method, providing a new approach to multimodal data fusion. Additionally, the network employs attention mechanisms to enhance channel-wise and spatial features, boosting the model's representational capacity. Our proposed model effectively consolidates multimodal information, significantly improving its unmixing capability, especially in complex environments, leading to more accurate unmixing results and facilitating further analysis of HSI. We evaluate our method using two real-world datasets. Experimental results demonstrate that our proposed approach outperforms other state-of-the-art methods in terms of both stability and effectiveness.",
+    "citation_count": "0",
+    "year": "2025/03/01",
+    "authors": [
+        {
+            "name": "Senlong Qin",
+            "country": ""
+        },
+        {
+            "name": "Yuqi Hao",
+            "country": ""
+        },
+        {
+            "name": "Minghui Chu",
+            "country": ""
+        },
+        {
+            "name": "Xiaodong Yu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

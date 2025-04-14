@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623000951",
+    "title": "A multi-view human gait recognition using hybrid whale and gray wolf optimization algorithm with a random forest classifier",
+    "abstract": "Gait recognition  has become one of the furthest promising behavioral  biometric  techniques for identifying individuals. Gait recognition models are capable of identifying humans at a distance based on their walking manner without their permission or interference. However, it is usually noted that the performance of a gait recognition approach will drop drastically in the presence of covariates such as carrying conditions, clothing conditions, and variations in the view angle. Therefore, it is necessary to develop a robust gait recognition system in order to identify the most significant gait features. In this paper, we introduced a recently developed hybrid whale and  gray wolf  optimization algorithm (WGWOA) for determining the optimal subset of gait features by combining the advantages of whale optimization and  gray wolf  optimization techniques. Moreover, we employed  principal component  analysis (PCA) to extract the essential gait features from the gradient gait energy image (GGEI) and random forest (RF) approach to classify the optimal gait features. The proposed method has been assessed on the publicly available largest multi-view CASIA-B and OU-MVLP benchmark datasets. Experimental results indicate that the proposed model achieved an accuracy of 99.25%, 98.39%, and 97.97% under normal, carrying a bag and wearing coat walking conditions, respectively on the CASIA-B dataset. Furthermore, the proposed model achieved an accuracy of 97.63% under normal conditions on the OU-MVLP dataset. The comparative results also confirm that the proposed algorithm is superior to the contemporary approaches.",
+    "citation_count": "11",
+    "year": "2023/08/01",
+    "authors": [
+        {
+            "name": "P. Sankara Rao",
+            "country": ""
+        },
+        {
+            "name": "Priyadarsan Parida",
+            "country": ""
+        },
+        {
+            "name": "Gupteswar Sahu",
+            "country": ""
+        },
+        {
+            "name": "Sonali Dash",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

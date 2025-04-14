@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S138376212400153X",
+    "title": "Integrated analysis of reliability, power, and performance for IoT devices and servers",
+    "abstract": "The  Internet of Things  (IoT) is currently widely used in various sectors and spaces. IoT devices are becoming small yet powerful servers and perform server-like functions. Reliability is a critical aspect in both IoT devices and servers, as they work together to create a robust and dependable IoT ecosystem. Power and performance are two other major considerations of an IoT system. Modeling, analysis, evaluation, and optimization of reliability, power, and performance for IoT devices and servers are major components in IoT systems development and deployment. In this paper, we conduct an integrated study of reliability, power, and performance for IoT devices and servers by mathematically rigorous modeling and analysis. The contributions of the paper can be summarized as follows. We establish a continuous-time  Markov chain  (CTMC) model that incorporates server failure rate, server repair rate, task arrival rate, and task processing rate. Using such an analytical model, we can calculate the server availability, the average task  response time , and the average  power consumption . We point out that there is an optimal server speed that minimizes the power-time product and a combined cost-performance metric of power, performance, and reliability. We show the impact of server reliability on response time, power consumption, server utilization, and the power-performance tradeoff. To the best of the author’s knowledge, this is the first paper that takes a combined approach to modeling and analysis of reliability, power, and performance for IoT devices and servers. It has been noticed that there has been little such theoretically solid investigation in the existing literature. Therefore, this paper has made tangible contributions and significant advances in the  joint  understanding of reliability, power, performance, and their interplay in IoT devices and servers quantitatively and mathematically.",
+    "citation_count": "2",
+    "year": "2024/09/01",
+    "authors": [
+        {
+            "name": "Keqin Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

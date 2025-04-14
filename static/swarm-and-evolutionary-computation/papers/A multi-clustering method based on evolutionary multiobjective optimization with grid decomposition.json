@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650219304225",
+    "title": "A multi-clustering method based on evolutionary multiobjective optimization with grid decomposition",
+    "abstract": "At present, it is a challenging task to determine the number of clusters ( k ), which has a great impact on the quality of major  clustering methods . Multi-objective  evolutionary algorithms  (MOEAs), which determines  k  value adaptively, have been widely adopted for clustering. However, when the range of  k  becomes increasingly large,  Pareto Front  (PF)  approximations  obtained by an MOEA may not be uniformly distributed, leading to the difficulty of obtaining the optimal  k  value for clustering. For this reason, an MOEA  base  on constrained decomposition with grids (CCDG-K) is designed for clustering and better identify the optimal  k  value. CCDG-K adopts a  grid system  for decomposition. The  grid system  has an inherent property of reserving diversely populated solutions, which is very desirable for clustering. The experimental studies show that CCDG-K can deliver solutions of all  k  values which is of great help for obtaining the optimal  k  value. The experimental results also indicate that CCDG-K outperforms other algorithms in clustering.",
+    "citation_count": "9",
+    "year": "2020/06/01",
+    "authors": [
+        {
+            "name": "Lisong Wang",
+            "country": ""
+        },
+        {
+            "name": "Guonan Cui",
+            "country": ""
+        },
+        {
+            "name": "Qing Zhou",
+            "country": ""
+        },
+        {
+            "name": "Kui Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

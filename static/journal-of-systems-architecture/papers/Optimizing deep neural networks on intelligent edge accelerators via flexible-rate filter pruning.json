@@ -1,0 +1,42 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122000303",
+    "title": "Optimizing deep neural networks on intelligent edge accelerators via flexible-rate filter pruning",
+    "abstract": "While  deep learning  has shown superior performance in various intelligent tasks, it is still a challenging problem to deploy sophisticated models on resource-limited edge devices. Filter pruning performs a system-independent optimization, which shrinks a  neural network  model into a thinner one, providing an attractive solution for efficient on-device inference. Prevailing approaches usually utilize fixed pruning rates for the whole  neural network model  to reduce the  optimization space  of filter pruning. However, the filters of different layers may have different sensitivities for model inference and therefore a flexible rate setting of pruning can potentially further increase the accuracy of compressed models. In this paper, we propose FlexPruner, a novel approach for compressing and accelerating  neural network  models via flexible-rate filter pruning. Our approach follows a greedy-based strategy to select the filters to be pruned and performs an iterative loss-aware pruning process, thereby achieving a remarkable accuracy improvement over existing methods when numerous filters are pruned. Evaluation with state-of-the-art  residual neural networks  on six representative intelligent edge accelerators demonstrates the effectiveness of FlexPruner, which decreases the accuracy degradation of pruned models by leveraging flexible pruning rates and achieves practical speedups for on-device inference.",
+    "citation_count": "39",
+    "year": "2022/03/01",
+    "authors": [
+        {
+            "name": "Guangli Li",
+            "country": ""
+        },
+        {
+            "name": "Xiu Ma",
+            "country": ""
+        },
+        {
+            "name": "Xueying Wang",
+            "country": ""
+        },
+        {
+            "name": "Hengshan Yue",
+            "country": ""
+        },
+        {
+            "name": "Jiansong Li",
+            "country": ""
+        },
+        {
+            "name": "Lei Liu",
+            "country": ""
+        },
+        {
+            "name": "Xiaobing Feng",
+            "country": ""
+        },
+        {
+            "name": "Jingling Xue",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

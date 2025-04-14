@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-008-0053-5",
+    "title": "Interworking Architectures for IP Multimedia Subsystems",
+    "abstract": "The future fourth generation wireless heterogeneous networks aim to integrate various wireless access technologies and to support the IMS (IP multimedia subsystem) sessions. In this paper, we propose the Loosely Coupled Satellite-Cellular-WiMAX-WLAN (LCSCW2) and the Tightly Coupled Satellite- Cellular-WiMAX-WLAN (TCSCW2) interworking architectures. The LCSCW2 and TCSCW2 architectures use the loosely coupling and tightly coupling approach, respectively. Both of them integrate the satellite networks, third generation (3G) wireless networks, worldwide interoperability for microwave access (WiMAX), and wireless local area networks (WLANs). They can support IMS sessions and provide global coverage. The LCSCW2 architecture facilitates independent deployment and traffic engineering of various access networks. The TCSCW2 architecture can provide quality of service (QoS) guarantee. We also propose an analytical model to determine the associate cost for the signaling and data traffic for inter-system communication in these architectures. The cost analysis includes the transmission, processing, and queueing costs at various entities. Numerical results are presented for different arrival rates and session lengths.",
+    "citation_count": 28,
+    "year": "2007/12",
+    "authors": [
+        {
+            "name": "Munir, Arslan",
+            "country": "Canada"
+        },
+        {
+            "name": "Wong, Vincent W. S.",
+            "country": "Canada"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

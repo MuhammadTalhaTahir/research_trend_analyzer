@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623000239",
+    "title": "Real-time 3D human pose estimation without skeletal a priori structures",
+    "abstract": "This study is about real-time 2D-3D human pose estimation without using the a priori structure of the skeleton and with a low number of parameters for regression tasks. Current graph convolution-based 3D human pose tasks require structural knowledge of the skeleton, which limits the exploration of pose estimation for unknown structures. Inspired by tyre rotation and  circular convolution , weights rotation is used to fully learn the potential connections between the human joints. We refer to this process as the weight cyclic sharing mechanism, a novel method for updating features. It does not require knowledge of the structure of the human skeleton and learns different constraints between joints with a low number of parameters. We propose an end-to-end weight circular sharing network (WCirSNet) based on the weight circular sharing mechanism. We propose a simple and efficient weighted residual block in this WCirSNet. The superiorities of the weight circular sharing mechanism and weighted residual block were verified by abundant ablation studies. Extensive evaluations on two challenging benchmark datasets (Human 3.6 M, MPI-INF-3DHP) show that the performance and generalization capabilities of our framework are superior to the results of many previously advanced methods.",
+    "citation_count": "6",
+    "year": "2023/04/01",
+    "authors": [
+        {
+            "name": "Guihu Bai",
+            "country": ""
+        },
+        {
+            "name": "Yanmin Luo",
+            "country": ""
+        },
+        {
+            "name": "Xueliang Pan",
+            "country": ""
+        },
+        {
+            "name": "Jia Wang",
+            "country": ""
+        },
+        {
+            "name": "Jing-Ming Guo",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

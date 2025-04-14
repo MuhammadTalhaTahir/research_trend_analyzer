@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-003-0198-6",
+    "title": "Comparing and evaluating HMM ensemble training algorithms using train and test and condition number criteria",
+    "abstract": "Hidden Markov Models have many applications in signal processing and pattern recognition, but their convergence-based training algorithms are known to suffer from over-sensitivity to the initial random model choice. This paper describes the boundary between regions in which ensemble learning is superior to Rabiner’s multiple-sequence Baum-Welch training method, and proposes techniques for determining the best method in any arbitrary situation. It also studies the suitability of the training methods using the condition number, a recently proposed diagnostic tool for testing the quality of the model. A new method for training Hidden Markov Models called the Viterbi Path Counting algorithm is introduced and is found to produce significantly better performance than current methods in a range of trials.",
+    "citation_count": 0,
+    "year": "2004/02",
+    "authors": [
+        {
+            "name": "Davis, R. I. A.",
+            "country": "Australia"
+        },
+        {
+            "name": "Lovell, B. C.",
+            "country": "Australia"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

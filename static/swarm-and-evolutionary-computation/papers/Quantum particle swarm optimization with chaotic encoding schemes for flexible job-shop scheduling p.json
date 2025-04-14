@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224003742",
+    "title": "Quantum particle swarm optimization with chaotic encoding schemes for flexible job-shop scheduling problem",
+    "abstract": "Effective scheduling in flexible job-shop environments is crucial for improving production efficiency, reducing costs, and minimizing energy consumption. Quantum particle swarm optimization (QPSO) is an advanced optimization technique inspired by quantum mechanics and particle swarm optimization (PSO). It enhances the exploration and exploitation capabilities of PSO by incorporating quantum principles. The encoding schemes in flexible job-shop scheduling problem (FJSP) significantly influence the quality of scheduling solutions. This study presents a comprehensive investigation on the application of QPSO enhanced with chaotic encoding schemes to solve FJSP. Although recent research has demonstrated the potential of QPSO in the context of FJSP, there remains a gap in understanding the effectiveness of various chaotic encoding schemes. This study addresses this gap by systematically evaluating fourteen chaotic maps and incorporating them as encoding schemes within the QPSO framework for FJSP. Through comprehensive experiments on benchmark datasets and industrial case studies, we demonstrate that QPSO with chaotic encoding schemes not only significantly improves solution quality but also accelerates convergence compared to traditional two-layer encoding scheme. The findings indicate that the integration of chaotic encoding schemes into QPSO represents a promising approach for effectively solving complex FJSP. These results provide valuable insights for both researchers and practitioners in the field of scheduling optimization, highlighting the potential of combining quantum theory and chaos theory to advance the state-of-the-art in scheduling algorithms.",
+    "citation_count": "1",
+    "year": "2025/03/01",
+    "authors": [
+        {
+            "name": "Yuanxing Xu",
+            "country": ""
+        },
+        {
+            "name": "Deguang Wang",
+            "country": ""
+        },
+        {
+            "name": "Mengjian Zhang",
+            "country": ""
+        },
+        {
+            "name": "Ming Yang",
+            "country": ""
+        },
+        {
+            "name": "Chengbin Liang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

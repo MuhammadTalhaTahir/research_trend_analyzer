@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122002193",
+    "title": "Enabling PIM-based AES encryption for online video streaming",
+    "abstract": "Encryption of streaming video is becoming critical to the success of commercial enterprise and to consumers alike. To meet copyright and privacy requirements, encrypting video data on-the-fly during transmission is necessary. In this work we employ  Advanced Encryption Standard  (AES) due to its security and flexibility. However, it is compute and memory-intensive. Increasing the number of concurrent streamers only exacerbates the problem. To ameliorate this situation, we propose a Processing-In Memory (PIM) architecture  AESPIM  to offload AES encryption computation to the memory side. Based on our experimental results,  AES performance  can be improved up to 42% with compared with the traditional CPU based implementation by significantly reducing data movement and increased  memory bandwidth . We further study the data-level and user-level  parallelism  of the video streaming environment in our base design AESPIM architecture, and propose an advanced design based on user-level parallelism to achieve additional 34%  performance improvement . Furthermore, we implement a QoS-aware scheduler to solve its potential workload imbalance bottleneck. Based on evaluation results, performance can be further optimized by up to 6% on average.",
+    "citation_count": "7",
+    "year": "2022/11/01",
+    "authors": [
+        {
+            "name": "Yiding Liu",
+            "country": ""
+        },
+        {
+            "name": "Lening Wang",
+            "country": ""
+        },
+        {
+            "name": "Amer Qouneh",
+            "country": ""
+        },
+        {
+            "name": "Xin Fu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

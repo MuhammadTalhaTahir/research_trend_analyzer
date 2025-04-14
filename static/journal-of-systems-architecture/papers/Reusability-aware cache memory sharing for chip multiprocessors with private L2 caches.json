@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762109000599",
+    "title": "Reusability-aware cache memory sharing for chip multiprocessors with private L2 caches",
+    "abstract": "In this paper, we propose a novel on-chip  L2 cache  organization for  chip multiprocessors  (CMPs) with private L2 caches. The proposed approach, called reusability-aware cache sharing (RACS), combines the advantages of both a private L2 cache and a shared L2 cache. Since a private L2  cache organization  has a short access latency, the RACS scheme employs a private L2 cache organization. However, when a cache block in a private L2 cache is selected for eviction, RACS first evaluates its reusability. If the block is likely to be reused in the near future, it may be saved to a peer L2 cache which has space available. In this way, the RACS scheme effectively simulates the larger capacity of a shared L2 cache. Simulation results show that RACS reduced the number of off-chip memory accesses by 24% compared to a pure private L2 cache organization on average for the SPLASH 2 multi-threaded benchmarks, and by 16% for multi-programmed benchmarks.",
+    "citation_count": "1",
+    "year": "2009/10/01",
+    "authors": [
+        {
+            "name": "Hyunhee Kim",
+            "country": ""
+        },
+        {
+            "name": "Sungjun Youn",
+            "country": ""
+        },
+        {
+            "name": "Jihong Kim",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

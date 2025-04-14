@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762123001157",
+    "title": "A memory footprint optimization framework for Python applications targeting edge devices",
+    "abstract": "The advantages of processing data at the source motivate developers to offload computations at the edges of  IoT  networks. However, the computational  resource constraints  of  edge computing  devices limit the opportunities for deploying applications developed in high-level languages at the edge. In contrast to C/C++, applications developed in Python and other dynamic high-level languages, often require an increased amount of memory size, due to their inherent  static memory  management approach. Therefore, developers targeting the deployment of applications in dynamic high-level languages at the edge need support by methodologies and tools, which will allow these applications to exploit the limited memory resources efficiently. This work presents a memory optimization framework for applications developed in the Python programming language targeting edge devices. Aiming to avoid the inherent pitfalls of static  memory management  that Python’s integrated memory manager imposes, the framework targets the reduction of the required  memory footprint , by integrating a set of static and  dynamic optimizations . The evaluation results, based on a set of representative real-life benchmark suites and applications, show 64% average memory footprint reduction, over the CPython’s minimum baseline of 24 MB. Additionally, we investigate the impact of memory size reduction on execution time and energy consumption. The results show 51% lower execution time and 47.3% reduction in the energy consumed.",
+    "citation_count": "1",
+    "year": "2023/09/01",
+    "authors": [
+        {
+            "name": "Manolis Katsaragakis",
+            "country": ""
+        },
+        {
+            "name": "Lazaros Papadopoulos",
+            "country": ""
+        },
+        {
+            "name": "Mario Konijnenburg",
+            "country": ""
+        },
+        {
+            "name": "Francky Catthoor",
+            "country": ""
+        },
+        {
+            "name": "Dimitrios Soudris",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

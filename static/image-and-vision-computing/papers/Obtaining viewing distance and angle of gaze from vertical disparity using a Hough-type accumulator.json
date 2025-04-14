@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/0262885684900210",
+    "title": "Obtaining viewing distance and angle of gaze from vertical disparity using a Hough-type accumulator",
+    "abstract": "Differences between stereo images (binocular disparities) can be interpreted to recover the orientation and distances of surfaces in the scene as long as the viewing system parameters of distance to fixation point  (d)  and angle of gaze  (g)  are known. A method of recovering these parameters from vertical disparity information is considered, and an implementation of the method using a Hough transform type of accumulator is described and evaluated. The implementation was successful in estimating  d  and  g  to within 4 cm and 0.5° respectively (for a range of true distances of 20–100 cm and gaze angles of O°–10°) even when small errors in the disparity values were introduced .",
+    "citation_count": "8",
+    "year": "1984/11/01",
+    "authors": [
+        {
+            "name": "SA Peek",
+            "country": ""
+        },
+        {
+            "name": "JEW Mayhew",
+            "country": ""
+        },
+        {
+            "name": "JP Frisby",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

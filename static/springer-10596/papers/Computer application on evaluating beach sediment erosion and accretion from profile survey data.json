@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-009-9172-8",
+    "title": "Computer application on evaluating beach sediment erosion and accretion from profile survey data",
+    "abstract": "Handling and visualizing of beach profile data using visual programming provides better and more user-friendly effects to geologists, environmentalists, and policy makers. Several computer programs are available to visualize beach profile data. But in all programs, the raw field data cannot be used to calculate the sediment erosion and accretion. In this report, we describe the development of a simple piece of software BEACH using Visual Basic 6.0 that can store and analyze large volumes of profile survey data obtained from graduated pole or level surveys. The program precisely calculates the beach width, slope, and sediment volume above any user-specified datum. It also estimates the erosion and accretion made in a beach. This program is very useful for coastal zone management and environmental impact assessment studies.",
+    "citation_count": 9,
+    "year": "2010/09",
+    "authors": [
+        {
+            "name": "Chandrasekar, N.",
+            "country": "India"
+        },
+        {
+            "name": "Mujabar, P. Sheik",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624000581",
+    "title": "Audio-visual saliency prediction with multisensory perception and integration",
+    "abstract": "Audio-visual saliency prediction (AVSP) is a task that aims to model human attention patterns in the perception of auditory and visual scenes. Given the challenges associated with perceiving and combining multi-modal saliency features from videos, this paper presents a multi-sensory framework for AVSP. This framework is designed to extract audio, motion and image saliency features and integrate them effectively, which can then serve as a general architecture for the AVSP task. To obtain multi-sensory information, we develop a three-stream encoder that extracts audio, motion and image saliency features. In particular, we utilize a pre-trained encoder with knowledge related to image saliency to extract saliency features for each frame. The image saliency features are then incorporated with motion features using a  spatial attention  module. For motion features,  3D convolutional neural networks  (CNNs) like S3D are commonly used in AVSP models. However, these networks are unable to effectively capture the global motion relationship in videos. To tackle this problem, we incorporate Transformer- and MLP-based motion encoders into the AVSP models. To learn  joint  audio-visual representations, an audio-visual fusion block is exploited to enhance the correlation between audio and visual motion features under the supervision of a  cosine similarity  loss in a self-supervised manner. Finally, a multi-stage decoder integrates audio, motion and image saliency features to generate the final saliency map. We evaluate our methods on six audio-visual eye-tracking datasets. Experimental results demonstrate that our method achieves compelling performance compared to the state-of-the-art methods. The  source code  is available at  https://github.com/oraclefina/MSPI .",
+    "citation_count": "1",
+    "year": "2024/03/01",
+    "authors": [
+        {
+            "name": "Jiawei Xie",
+            "country": ""
+        },
+        {
+            "name": "Zhi Liu",
+            "country": ""
+        },
+        {
+            "name": "Gongyang Li",
+            "country": ""
+        },
+        {
+            "name": "Yingjie Song",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

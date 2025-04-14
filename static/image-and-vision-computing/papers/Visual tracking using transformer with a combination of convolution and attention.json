@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001348",
+    "title": "Visual tracking using transformer with a combination of convolution and attention",
+    "abstract": "For Siamese-based trackers in the field of single object tracking, cross-correlation operation plays an important role. However, the cross-correlation essentially uses target feature to locally linearly match the search region, which leads to insufficient utilization or even loss of feature information. To effectively employ global context and sufficiently explore the relevance of template and search region, a novel matching operator is designed inspired by Transformer, which uses multi-head attention and embed a designed modulation module across the inputs of operator. Meanwhile, we equip our tracker with a multi-scale encoder/decoder strategy to gradually make more precise tracking. Finally, a complete tracking framework is presented named VTTR. The tracker consists of a feature extractor, a multi-scale encoder based on depth-wise convolution, a modified decoder as the matching operator and a prediction head. The proposed tracker is tested on many benchmarks and achieve excellent performance while running with fast speed.",
+    "citation_count": "4",
+    "year": "2023/09/01",
+    "authors": [
+        {
+            "name": "Yuxuan Wang",
+            "country": ""
+        },
+        {
+            "name": "Liping Yan",
+            "country": ""
+        },
+        {
+            "name": "Zihang Feng",
+            "country": ""
+        },
+        {
+            "name": "Yuanqing Xia",
+            "country": ""
+        },
+        {
+            "name": "Bo Xiao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

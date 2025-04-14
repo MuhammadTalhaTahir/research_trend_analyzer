@@ -1,0 +1,38 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000801",
+    "title": "Hybrid short-term traffic forecasting architecture and mechanisms for reservation-based Cooperative ITS",
+    "abstract": "Traffic forecasting is a critical challenge for  Intelligent Transportation Systems  (ITS), increasingly enabled by the deepening interconnectedness of  intelligent vehicles  and  traffic infrastructures . In this study, we propose a hybrid short-term forecasting architecture based on the careful consideration and analysis of reservation-based behavior cooperation and the characteristics of Cooperative ITS (C-ITS), especially its future application mode of Service-oriented C-ITS (SoC-ITS). We design several novel models and mechanisms to forecast the behavioral parameters of road vehicles in this architecture, combining a developed artificial  neural network  method and a statistical technique. Considering the lack of large-scale deployment of C-ITS at present, a new simulator (SoC-ITSS v2.1) is independently designed with two main aims. The first is to establish a massive dataset that is unavailable for current transportation systems, but necessary for  back propagation  neural network-based forecasting and statistics models. Our second aim is to provide an effective visual verification environment for this proposed mechanism. Using our newly developed simulator, these proposed models and methods are verified under two typical authorization policies (First-Arrival-First-Pass-Multi-Queue for ordinary C-ITS and Highest-Weight-First-Pass-Multi-Queue for SoC-ITS). The experimental results show that this forecasting mechanism can adaptively model traffic situations of both ordinary C-ITS and SoC-ITS, and provide good performance.",
+    "citation_count": "9",
+    "year": "2021/08/01",
+    "authors": [
+        {
+            "name": "Kailong Zhang",
+            "country": ""
+        },
+        {
+            "name": "Chenyu Xie",
+            "country": ""
+        },
+        {
+            "name": "Yujia Wang",
+            "country": ""
+        },
+        {
+            "name": "Sotelo Miguel Ángel",
+            "country": ""
+        },
+        {
+            "name": "Thi Mai Trang Nguyen",
+            "country": ""
+        },
+        {
+            "name": "Qidi Zhao",
+            "country": ""
+        },
+        {
+            "name": "Qiang Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

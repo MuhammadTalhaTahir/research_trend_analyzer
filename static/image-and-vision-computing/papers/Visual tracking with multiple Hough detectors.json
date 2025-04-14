@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885617301178",
+    "title": "Visual tracking with multiple Hough detectors",
+    "abstract": "We propose a  visual tracking  method using multiple Hough detectors to address the problem of long-term robust object tracking in unconstrained environments. The method constructs the detectors based on the feature selection by the  mutual information . These detectors serve to learn the partial appearances of target and synchronously evaluate image locations via the voting based detection with the generalized  Hough transform . According to the result of detections, the best detector is selected by the minimum entropy criterion and delivers the final hypotheses for target location. The feature selection allows our tracker to be able to obtain and use the most discriminative parts of target and thus more robust to its changes, e.g. occlusion and deformation. The detector selection can correct undesirable model updates and restore the tracker after tracking failure. Meanwhile, the Hough-based detection can reduce the amount of noise introduced during online self-training and thus effectively prevent the tracker from drifting. The method is evaluated on the CVPR2013 Visual Tracker Benchmark and the experimental results demonstrate our method outperforms other tracking algorithms in terms of both success rate and precision.",
+    "citation_count": "1",
+    "year": "2017/10/01",
+    "authors": [
+        {
+            "name": "Wei Quan",
+            "country": ""
+        },
+        {
+            "name": "Tianrui Li",
+            "country": ""
+        },
+        {
+            "name": "Shibin Gao",
+            "country": ""
+        },
+        {
+            "name": "Jim X. Chen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

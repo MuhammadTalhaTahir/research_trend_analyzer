@@ -1,0 +1,30 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1020307222052",
+    "title": "Intermediate Representations for Design Automation of Multiprocessor DSP Systems",
+    "abstract": "Self-timed scheduling is an attractive implementation style for multiprocessor DSP systems due to its ability to exploit predictability in application behavior, its avoidanceof over-constrained synchronization, and its simplified clocking requirements.However, analysis and optimization of self-timed systems under real-time constraintsis challenging due to the complex, irregular dynamics of self-timed operation.In this paper, we review a number of high-level intermediate representationsfor compiling dataflow programs onto self-timed DSP platforms, including representationsfor modeling the placement of interprocessor communication (IPC) operations;separating synchronization from data transfer during IPC; modeling and optimizinglinear orderings of communication operations; performing accurate design spaceexploration under communication resource contention; and exploring alternativeprocessor assignments during the synthesis process. We review the structureof these representations, and discuss efficient techniques that operate onthem to streamline scheduling, communication synthesis, and power managementof multiprocessor DSP implementations.",
+    "citation_count": 19,
+    "year": "2002/11",
+    "authors": [
+        {
+            "name": "Bambha, Neal",
+            "country": "USA"
+        },
+        {
+            "name": "Kianzad, Vida",
+            "country": "USA"
+        },
+        {
+            "name": "Khandelia, Mukul",
+            "country": "USA"
+        },
+        {
+            "name": "Bhattacharyya, Shuvra S.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

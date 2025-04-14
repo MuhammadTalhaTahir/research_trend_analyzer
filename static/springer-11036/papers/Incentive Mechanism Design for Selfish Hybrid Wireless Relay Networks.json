@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-005-4449-1",
+    "title": "Incentive Mechanism Design for Selfish Hybrid Wireless Relay Networks",
+    "abstract": "Non-cooperative behaviors in communication networks can significantly adversely affect the entire network. Recently, researchers have begun to study such non-cooperative communication systems within a game theory framework and strive to engineer the system to prevent performance degradation under non-cooperative behaviors. The WWAN/WLAN two-hop-relay system described in [1] integrates two types of wireless technologies to improve wireless access throughput and coverage. The relay nodes in the two-hop-relay system can be wireless relay routers deployed by wireless service providers, or dual-mode users who voluntarily relay traffic for other users. However, it is reasonable to assume that all dual-mode terminals are selfish and are not willing to relay for other users without an incentive. In this paper, we will use the basic concepts of game theory, especially the concept of the Nash Equilibrium, to design our scheduling algorithms. Several scheduling algorithms, including the maximum rate C/I scheduler, the proportional fair scheduler, and the round robin scheduler, are examined to understand performance while operating under the assumption that all users are selfish. Under the C/I scheduler or the proportional fair scheduler, Nash Equilibriums exist at the operating points where no user will relay for other users—an undesirable situation. Under the round robin scheduler, selfish users are indifferent on relaying voluntarily or not relaying. Therefore, we are inspired to design a novel incentive scheduler. By applying the proposed incentive scheduler, all selfish users relay cooperatively at the Nash Equilibrium.",
+    "citation_count": 13,
+    "year": "2005/12",
+    "authors": [
+        {
+            "name": "Wei, Hung-yu",
+            "country": "Taiwan"
+        },
+        {
+            "name": "Gitlin, Richard D.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

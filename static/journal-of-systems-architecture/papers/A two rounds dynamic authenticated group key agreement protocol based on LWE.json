@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122002417",
+    "title": "A two rounds dynamic authenticated group key agreement protocol based on LWE",
+    "abstract": "The goal of a group key agreement (GKA) protocol is to enable multiple users to compute and share a same session key over an open channel. Some GKA protocols based on the discrete logarithm problem also consider the authentication, forward security and dynamic. However, these protocols cannot satisfy post-quantum security. The existing lattice-based post-quantum  dynamic GKA  protocols cannot resist the known session key attacking. In this paper, we propose a two-round lattice-based dynamic authenticated GKA protocol based on the learning with errors (LWE) problem. We use random oracle prove that our protocol is secure under the standard corruption model. Our protocol requires only two rounds of communication and does not limit the number of members involved.",
+    "citation_count": "3",
+    "year": "2022/12/01",
+    "authors": [
+        {
+            "name": "Ziqing Wang",
+            "country": ""
+        },
+        {
+            "name": "Zeyu Yang",
+            "country": ""
+        },
+        {
+            "name": "Fagen Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

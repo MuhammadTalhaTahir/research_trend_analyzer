@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218301585",
+    "title": "Speed up differential evolution for computationally expensive protein structure prediction problems",
+    "abstract": "Protein structure prediction  (PSP) plays an important role in the field of computational  molecular biology . Although powerful optimization algorithms have been proven effective to tackle the PSP, researchers are faced with the challenge of time consuming simulations. This paper introduces a new modification of differential evolution (DE) which makes use of the computationally cheap  surrogate models  and gene expression programming (GEP) in order to address the aforementioned issue. The incorporated GEP is used to generate a diversified set of configurations, while  radial basis function  (RBF) surrogate model helps DE to find the best set of configurations. In addition to this,  covariance matrix  adaptation evolution strategy (CMAES) is also adopted to explore the  search space  more efficiently. The introduced algorithm, called SGDE, is tested on real-world proteins from the  Protein data bank  (PDB) using both a simplified and an all-atom model. The experiments show that SGDE performs better than the state-of-the-art algorithms on the PSP problems in both terms of the convergence rate and accuracy. In the case of run time complexity, SGDE significantly outperforms the other competitive algorithms for the adopted all-atom model.",
+    "citation_count": "25",
+    "year": "2019/11/01",
+    "authors": [
+        {
+            "name": "Hojjat Rakhshani",
+            "country": ""
+        },
+        {
+            "name": "Lhassane Idoumghar",
+            "country": ""
+        },
+        {
+            "name": "Julien Lepagnot",
+            "country": ""
+        },
+        {
+            "name": "Mathieu Brévilliers",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

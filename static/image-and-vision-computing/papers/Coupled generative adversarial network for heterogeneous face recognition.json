@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885619304548",
+    "title": "Coupled generative adversarial network for heterogeneous face recognition",
+    "abstract": "The large modality gap between faces captured in different spectra makes heterogeneous face recognition (HFR) a challenging problem. In this paper, we present a coupled  generative adversarial network  (CpGAN) to address the problem of matching non-visible facial imagery against a gallery of visible faces. Our  CpGAN architecture  consists of two sub-networks one dedicated to the visible spectrum and the other sub-network dedicated to the non-visible spectrum. Each sub-network consists of a generative adversarial network (GAN) architecture. Inspired by a  dense network  which is capable of maximizing the information flow among features at different levels, we utilize a densely connected encoder-decoder structure as the generator in each GAN sub-network. The proposed CpGAN framework uses multiple loss functions to force the features from each sub-network to be as close as possible for the same identities in a common latent subspace. To achieve a realistic photo reconstruction while preserving the discriminative information, we also added a perceptual loss function to the coupling loss function. An ablation study is performed to show the effectiveness of different loss functions in optimizing the proposed method. Moreover, the superiority of the model compared to the state-of-the-art models in HFR is demonstrated using multiple datasets.",
+    "citation_count": "22",
+    "year": "2020/02/01",
+    "authors": [
+        {
+            "name": "Seyed Mehdi Iranmanesh",
+            "country": ""
+        },
+        {
+            "name": "Benjamin Riggan",
+            "country": ""
+        },
+        {
+            "name": "Shuowen Hu",
+            "country": ""
+        },
+        {
+            "name": "Nasser M. Nasrabadi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

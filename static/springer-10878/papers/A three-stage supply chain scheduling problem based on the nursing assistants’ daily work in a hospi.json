@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-019-00500-3",
+    "title": "A three-stage supply chain scheduling problem based on the nursing assistants’ daily work in a hospital",
+    "abstract": "In a hospital, the nursing assistants in wards are always responsible for delivering patients to do some medical examinations, and the nursing assistants in the medical departments need take these patients back to the corresponding wards after examinations. We transform this actual problem about nursing assistants’ daily work into a three-stage supply chain scheduling problem if patients are regarded as jobs, the ward as the customer, the nursing assistants as vehicles and the medical department as the processing machine in the factory. The capacity of each vehicle is limited because the nursing assistant only can deliver several patients once. And the transportation schedule back and forth between the customer and the factory are the same in view of the actual arrangement. In order to reduce the average consumption time of patients, the objective is to minimize the total flowtime, that is, the sum of arrival time of every completed job back to the customer. We show that the problem is NP-hard in the strong sense, and provide an approximation algorithm with the performance ratio of 2. Moreover, we study some polynomially solvable cases of the problem.",
+    "citation_count": 22,
+    "year": "2021/11",
+    "authors": [
+        {
+            "name": "Fan, Jing",
+            "country": "China"
+        },
+        {
+            "name": "Shi, Hui",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

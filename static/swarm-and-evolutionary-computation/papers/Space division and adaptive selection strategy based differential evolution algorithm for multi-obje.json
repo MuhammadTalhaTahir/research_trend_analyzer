@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223001694",
+    "title": "Space division and adaptive selection strategy based differential evolution algorithm for multi-objective satellite range scheduling problem",
+    "abstract": "Satellite range scheduling always plays a crucial role in tracking,  telemetry , and control of the spacecraft. With the significant increase in the number and type of satellites in orbit, the demands of users for satellite range scheduling are becoming more and more diverse. However, existing studies for the satellite range scheduling problem (SRSP) rarely consider multiple optimization objectives, which is quite significant in practice. Hence, this paper investigates a multi-objective satellite range scheduling problem (MO-SRSP) that optimizes three objectives simultaneously: the overall profits of tasks, load-balance of antennas, and completion timeliness of tasks. To address MO-SRSP, this paper establishes a mathematical model on the basis of analysis of MO-SRSP and proposes a multi-objective evolutionary algorithm, which is called multi-objective  differential evolution algorithm  based on space division and adaptive selection strategy (MODE-SDAS). The space division strategy will uniformly divide the  objective space  into a set of subspaces and preserve a set of non-dominated solutions in each subspace during the environmental selection even if some of these solutions are dominated by other solutions in other subspaces, so as to maintain the diversity of the algorithm. The adaptive selection strategy will adaptively allocate  computational resources  to different subspaces to improve the convergence of the population. Besides, problem-specific designs such as coding and encoding methods, the discrete differential evolution operator, as well as objective-specific individual  variation operators  are incorporated into the algorithm to enhance the search capability. Finally, extensive experiments based on simulation test cases are carried out to verify the effectiveness and efficiency of MODE-SDAS. The comparison results show that MODE-SDAS significantly outperforms its competitors in terms of three metrics. Meanwhile, knee point analysis, sensitivity analysis, and application insights are presented.",
+    "citation_count": "20",
+    "year": "2023/12/01",
+    "authors": [
+        {
+            "name": "Tianyu Wang",
+            "country": ""
+        },
+        {
+            "name": "Qizhang Luo",
+            "country": ""
+        },
+        {
+            "name": "Ling Zhou",
+            "country": ""
+        },
+        {
+            "name": "Guohua Wu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

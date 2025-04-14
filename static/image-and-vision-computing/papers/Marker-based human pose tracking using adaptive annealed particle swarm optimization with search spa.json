@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885617300653",
+    "title": "Marker-based human pose tracking using adaptive annealed particle swarm optimization with search space partitioning",
+    "abstract": "Pose estimation and tracking of an  articulated structure  based on data from multiple cameras has seen numerous applications in recent years. In this paper, a marker-based human pose tracking algorithm from  multi view video  sequences is proposed. The purpose of the proposed algorithm is to present a low cost motion capture system that can be used as an alternative to high cost available commercial human motion capture systems. The problem is defined as the optimization of 45 parameters which define body pose model and is solved using a modified version of  particle swarm optimization  (PSO) algorithm. The objective of this optimization is to maximize a fitness function which formulates how much the body model matches with  2D  marker coordinates in video frames. A sampling  covariance matrix  is used in the first part of the velocity equation of PSO and is annealed with iterations. The sampling covariance matrix is computed adaptively, based on variance of parameters in the swarm. One of the concerns in this algorithm is the high number of parameters to define the model of body pose. To tackle this problem, we partition the optimization state space into six stages that exploit the hierarchical structure of the skeletal model. The first stage optimizes the six parameters that define the global orientation and position of the body. Other stages relate to optimization of right and left hand, right and left leg and head orientation. In the proposed partitioning method previously optimized parameters are allowed some variation in each step that is called soft partitioning. Experimental results on Pose Estimation and Action Recognition (PEAR) database indicate that the proposed algorithm achieves lower estimation error in tracking human motion compared with Annealed Particle Filter (APF) and Parametric Annealing (PA) methods.",
+    "citation_count": "8",
+    "year": "2017/06/01",
+    "authors": [
+        {
+            "name": "Ashraf Sharifi",
+            "country": ""
+        },
+        {
+            "name": "Ahad Harati",
+            "country": ""
+        },
+        {
+            "name": "Abedin Vahedian",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

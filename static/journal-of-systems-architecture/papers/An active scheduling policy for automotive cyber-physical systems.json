@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762118303564",
+    "title": "An active scheduling policy for automotive cyber-physical systems",
+    "abstract": "The multi-functional mixed-criticality automotive cyber-physical systems (ACPS) refer to multiple functions with several levels of  criticality  that can be run on a same platform, in which heterogeneous  electronic control units  (ECU) that are distributed on multiple network buses. Well-designed schedule policy for the system criticality of these systems can improve the  system performance  and reduce the deadline miss ratio. In this paper, we propose a  scheduling algorithm  called fairness and active multiple heterogeneous earliest finish time (FA_MHEFT) to meet the deadlines of high-criticality functions as soon as possible. FA_MHEFT actively adjusts the criticality of the system at the task level and reduces the delay of tasks in low-criticality functions when high-criticality scheduling is performed. With a more active scheduling policy, FA_MHEFT can reduce the overall makespan of the system and the deadline miss ratio (DMR) of the functions. Our experiments validate that FA_MHEFT can reduce the DMR of a high-criticality level function and improve system performance compared with other existing scheduling methods.",
+    "citation_count": "17",
+    "year": "2019/08/01",
+    "authors": [
+        {
+            "name": "Yan Liu",
+            "country": ""
+        },
+        {
+            "name": "Guoqi Xie",
+            "country": ""
+        },
+        {
+            "name": "Xiaoming Chen",
+            "country": ""
+        },
+        {
+            "name": "Linlin Jin",
+            "country": ""
+        },
+        {
+            "name": "Yuqing Tang",
+            "country": ""
+        },
+        {
+            "name": "Renfa Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

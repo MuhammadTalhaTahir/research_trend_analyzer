@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218301718",
+    "title": "A sequential algorithm portfolio approach for black box optimization",
+    "abstract": "A large number of  optimization algorithms  have been proposed. However, the  no free lunch  (NFL) theorems inform us that no algorithm can solve all types of  optimization problems . An approach, which can suggest the most  suitable algorithm  for different types of problems, is valuable. In this paper, we propose an approach called sequential algorithm portfolio (SAP) which belongs to the inter-disciplinary fields of algorithm portfolio and  algorithm selection . It uses a pre-trained predictor to predict the most suitable algorithm and a termination mechanism to automatically stop the optimization algorithms. The SAP is easy to implement and can incorporate any optimization algorithm. We experimentally compare SAP with two state-of-the-art algorithm portfolio approaches and single optimization algorithms. The result shows that SAP is a well-performing algorithm portfolio approach.",
+    "citation_count": "11",
+    "year": "2019/02/01",
+    "authors": [
+        {
+            "name": "Yaodong He",
+            "country": ""
+        },
+        {
+            "name": "Shiu Yin Yuen",
+            "country": ""
+        },
+        {
+            "name": "Yang Lou",
+            "country": ""
+        },
+        {
+            "name": "Xin Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

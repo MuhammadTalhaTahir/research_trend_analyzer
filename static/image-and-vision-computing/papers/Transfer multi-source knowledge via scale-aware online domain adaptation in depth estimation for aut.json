@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623002457",
+    "title": "Transfer multi-source knowledge via scale-aware online domain adaptation in depth estimation for autonomous driving",
+    "abstract": "This paper deals with the challenging online monocular depth adaptation task that aims to train an initial depth estimation model in a source domain and continuously adapt the model against a constantly changing target domain. Due to the high cost of real-world data collection and the camera-dependent nature of the depth estimation, previous works tend to simulate the environment using a virtual-world dataset for training (e.g. Virtual KITTI), and employ a real-world dataset for testing (e.g. KITTI, which shares the same camera settings) and are therefore vulnerable to novel domains with unknown statistics. We propose a meta-learning-based online  domain adaptation  framework that can leverage multi-source domain to transfer the learned knowledge from the virtual world to the real world better with the metrically accurate scale. Our learn-to-adapt algorithm mimics domain shifts during training by creating fictitious testing domains and incorporating a meta-optimization objective for optimizing the performance of the testing domains after updating the training domains in each mini-batch step. The algorithm is augmented with gradient surgery to alleviate unreliable optimization of inconsistent regions. To facilitate multi-source domain training and testing, we introduce a camera conversion technique for transforming images and depth cues from different camera settings to a unified one. During online adaptation, we also apply the exact statistics of the test-time input to the network's normalization layers to ensure a more robust adaptation. Extensive experiments demonstrate that our method can robustly adapt and outperform the virtual-to-real state-of-the-art methods on the standard KITTI Eigen benchmark of  both  full-length videos and isolated frames, a feat never attempted before, as well as generalizing to other real-world datasets without retraining.",
+    "citation_count": "7",
+    "year": "2024/01/01",
+    "authors": [
+        {
+            "name": "Phan Thi Huyen Thanh",
+            "country": ""
+        },
+        {
+            "name": "Minh Quan Viet Bui",
+            "country": ""
+        },
+        {
+            "name": "Duc Dung Nguyen",
+            "country": ""
+        },
+        {
+            "name": "Tran Vu Pham",
+            "country": ""
+        },
+        {
+            "name": "Truong Vinh Truong Duy",
+            "country": ""
+        },
+        {
+            "name": "Natori Naotake",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

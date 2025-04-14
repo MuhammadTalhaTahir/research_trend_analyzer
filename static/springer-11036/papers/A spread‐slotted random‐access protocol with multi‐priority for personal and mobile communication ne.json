@@ -1,0 +1,31 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1013605405581",
+    "title": "A spread‐slotted random‐access protocol with multi‐priority for personal and mobile communication networks carrying integrated traffic",
+    "abstract": "This paper describes and analyzes a medium access protocol for wireless personal communication networks serving integrated traffic. A multi‐priority mechanism, which is implemented and controlled explicitly by the users and without any involvement from the network is incorporated into the protocol. We examine the proposed protocol under reservation and non‐reservation policies and evaluate its performance when handling integrated voice and data traffic. The proposed protocol is suitable to be used in Personal Communication Systems aiming to provide integrated (voice/data) services.",
+    "citation_count": 14,
+    "year": "1997/12",
+    "authors": [
+        {
+            "name": "Makrakis, Dimitrios",
+            "country": "Canada"
+        },
+        {
+            "name": "Mander, Ranjeet S.",
+            "country": "Canada"
+        },
+        {
+            "name": "Orozco‐Barbosa, Luis",
+            "country": "Canada"
+        },
+        {
+            "name": "Papantoni‐Kazakos, P.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

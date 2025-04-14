@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885619304524",
+    "title": "Skin detection and lightweight encryption for privacy protection in real-time surveillance applications",
+    "abstract": "An individual's privacy is a significant concern in  surveillance videos . Existing  research work  into the location of individuals on the basis of detecting their skin is focused either on different techniques for detecting human skin on protecting individuals from the consequences of applying such techniques. This paper considers both lines of research and proposes a hybrid scheme for human skin detection and subsequent privacy protection by utilizing color information in dynamically  varying illumination  and environmental conditions. For those purposes, dynamic and explicit skin-detection approaches are implemented, simultaneously considering multiple color-spaces, i.e. RGB, perceptual (HSV) and orthogonal (YCbCr) color-spaces, and then detecting the human skin by the proposed Combined Threshold Rule (CTR)-based segmentation. Comparative qualitative and quantitative detection results with an average 93.73% accuracy, imply that the proposed scheme achieves considerable accuracy without incurring a training cost. Once skin detection has been performed, the detected skin pixels (including false positives) are encrypted, when standard AES-CFB encryption of skin pixels is shown to be preferable compared to  selective encryption  of a whole video frame. The scheme preserves the behavior of the subjects within the video. Hence, subsequent  image processing  and behavior analysis, if required, can be performed by an authorized user. The experimental results are encouraging, as they show that the average encryption time is 8.268 s and the Encryption Space Ratio (ESR) is an average 7.25% for a  high definition video  (1280 × 720 pixels/frame). A performance comparison in terms of Correct Detection Rate (CDR) showed an average 91.5% for CTB-based segmentation compared to using only one color space for segmentation, such as using RGB with 85.86%, HSV with 80.93% and YCbCr with an average 84.8%, which implies that the proposed method of combining color-space skin identifications has a higher ability to detect skin accurately. Security analysis confirmed that the proposed scheme could be a suitable choice for real-time surveillance applications operating on resource-constrained devices.",
+    "citation_count": "24",
+    "year": "2020/02/01",
+    "authors": [
+        {
+            "name": "Amna Shifa",
+            "country": ""
+        },
+        {
+            "name": "Muhammad Babar Imtiaz",
+            "country": ""
+        },
+        {
+            "name": "Mamoona Naveed Asghar",
+            "country": ""
+        },
+        {
+            "name": "Martin Fleury",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

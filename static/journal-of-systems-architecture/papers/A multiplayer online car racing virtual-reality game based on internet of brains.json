@@ -1,0 +1,42 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762118301619",
+    "title": "A multiplayer online car racing virtual-reality game based on internet of brains",
+    "abstract": "Development of brain-computer interface (BCI)-controlled virtual reality (VR) games has received increasing attention. Yet, the up-to-date BCI-VR systems were still based on one single BCI and a virtual environment (VE). In this paper, we propose and implement a novel BCI-controlled VR (BCI-VR) game based on a structure of internet of brains (IoB) allowing multiple players from different sites to play a car racing game online. Electroencephalographic (EEG) and electromyographic (EMG) signals from different sites’ BCIs are uploaded to a high-performance cloud server where the car-controlled algorithms are performed. During the online car racing period, the players mentally control the speeds of their chosen cars by means of concentration, and the concentration level can be adjusted by performing a mental arithmetic (MA) task with different levels of difficulty. Two linear and two nonlinear EEG features, including theta band power (BP), beta BP, Higuchi's  fractal dimension  (HFD), and Katz's FD (KFD), are used to transform the concentration level to speeds of four different cars. The players can also sensitively trigger the car in the VE to jump by performing a slight teeth-gritting task to generate easy-to-detect EMG signals. Six subjects participated in this study to test the performance of the proposed hybrid (EEG plus EMG) BCI-VR car racing game. The results indicate that theta BP and HFD are more sensitive to the MA-induced concentration in comparison with beta BP and KFD. Through the test of online car racing game, the results also demonstrated the feasibility that different players play the game in the same VE through multiple BCI control at different sites. More importantly, our BCI-VR implementation has a high usability (only two electrodes are required; calibration needs only 64 s) and high feasibility (high average scores of the control, sensory, and distraction factors in a 30-item post-experimental presence questionnaire).",
+    "citation_count": "24",
+    "year": "2018/09/01",
+    "authors": [
+        {
+            "name": "Shih-Ching Yeh",
+            "country": ""
+        },
+        {
+            "name": "Chung-Lin Hou",
+            "country": ""
+        },
+        {
+            "name": "Wei-Hao Peng",
+            "country": ""
+        },
+        {
+            "name": "Zhen-Zhan Wei",
+            "country": ""
+        },
+        {
+            "name": "Shiuan Huang",
+            "country": ""
+        },
+        {
+            "name": "Edward Yu-Chen Kung",
+            "country": ""
+        },
+        {
+            "name": "Longsong Lin",
+            "country": ""
+        },
+        {
+            "name": "Yi-Hung Liu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

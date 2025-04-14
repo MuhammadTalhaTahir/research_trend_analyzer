@@ -1,0 +1,31 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-022-02078-3",
+    "title": "Multi-view Robust Discriminative Feature Learning for Remote Sensing Image with Noisy Labels",
+    "abstract": "One important method for classifying images from remote sensing is discriminative feature learning. On the other hand, the majority of the methods that are currently in use do not take into account that the image labels will be tainted and that their performance will suffer as a result of noisy supervised information. However, single-view based feature learning is unable to present the image in its entirety. A multi-view robust discriminative feature learning approach for remote sensing images with noisy labels is proposed in this paper to address these issues. First, the local neighborhood division is carried out with the help of the entropy rate superpixel segmentation. Second, a graph-based multi-view propagation model is used to recover noisy labels in these specific locations. Finally, a multi-view discriminative feature learning model for remote sensing image classification is proposed using recovery labels as supervised information. Extensive testing on three remote sensing image datasets shows that our proposed method outperforms seven other excellent methods and has some advantages in terms of robustness and a number of objective indicators.",
+    "citation_count": 25,
+    "year": "2022/12",
+    "authors": [
+        {
+            "name": "Chen, Jinyong",
+            "country": "China"
+        },
+        {
+            "name": "Yin, Guisheng",
+            "country": "China"
+        },
+        {
+            "name": "Sun, Kang",
+            "country": "China"
+        },
+        {
+            "name": "Dong, Yuxin",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623002081",
+    "title": "Cross-domain car detection model with integrated convolutional block attention mechanism",
+    "abstract": "Car detection, especially through camera vision, has become a major focus in the field of  computer vision  and has gained widespread adoption. While current car detection systems are capable of achieving good detection performance, reliable detection can still be challenging due to factors such as car proximity, varying light conditions, and environmental visibility. To address these issues, we propose  C ross- D omain  C ar  D etection  M odel with integrated convolutional block  A ttention mechanism(CDCDMA) that is specifically designed for car recognition in  autonomous driving  and related domains. CDCDMA includes several novelties: 1)Building a complete cross-domain target detection framework. 2)Developing an unpaired target domain picture generation module with an integrated convolutional  attention mechanism  which specifically emphasizes the car headlights feature. 3)Adopting Generalized Intersection over Union (GIOU) as the loss function of the target detection framework. 4)Designing an object detection model integrated with two-headed  Convolutional Block Attention  Module(CBAM). To evaluate the model's effectiveness, we performed experiments on the SODA 10 M and BDD100K datasets by applying a reduced resolution process to the data, which served as our benchmark dataset for the task. The experimental results demonstrate that the performance of the cross-domain car target detection model improves by 40% compared to the model without our CDCDMA framework. Moreover, our improvements have a significant impact on cross-domain car recognition, surpassing the performance of most advanced cross-domain models.",
+    "citation_count": "12",
+    "year": "2023/12/01",
+    "authors": [
+        {
+            "name": "Haoxuan Xu",
+            "country": ""
+        },
+        {
+            "name": "Songning Lai",
+            "country": ""
+        },
+        {
+            "name": "Xianyang Li",
+            "country": ""
+        },
+        {
+            "name": "Yang Yang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

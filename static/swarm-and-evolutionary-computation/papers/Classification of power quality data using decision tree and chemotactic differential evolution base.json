@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650212000028",
+    "title": "Classification of power quality data using decision tree and chemotactic differential evolution based fuzzy clustering",
+    "abstract": "This paper presents a new approach for processing various non-stationary power quality waveforms through a Fast S-Transform with modified  Gaussian window  to generate time–frequency contours for extracting relevant feature vectors for automatic disturbance pattern classification. The extracted features are then clustered using Bacterial Foraging Optimization Algorithm (BFOA) based  Fuzzy decision tree  to give improved  classification accuracy  in comparison to the Fuzzy decision tree alone. To circumvent the problem of premature convergence of BFOA and to improve classification accuracy further, a hybridization of BFOA (Bacterial Foraging Optimization Algorithm) with another very popular optimization technique of current interest called Differential Evolution (DE) is presented in this paper. For robustness the mutation loop of the DE algorithm has been made variable in a stochastic fashion. This hybrid algorithm (Chemotactic Differential Evolution Algorithm (CDEA)) is shown to overcome the problems of slow and premature convergence of BFOA and provide significant improvement in power signal pattern classification.",
+    "citation_count": "51",
+    "year": "2012/06/01",
+    "authors": [
+        {
+            "name": "B. Biswal",
+            "country": ""
+        },
+        {
+            "name": "H.S. Behera",
+            "country": ""
+        },
+        {
+            "name": "R. Bisoi",
+            "country": ""
+        },
+        {
+            "name": "P.K. Dash",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

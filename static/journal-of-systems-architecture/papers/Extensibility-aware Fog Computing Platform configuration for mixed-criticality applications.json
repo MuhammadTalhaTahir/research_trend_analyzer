@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122002612",
+    "title": "Extensibility-aware Fog Computing Platform configuration for mixed-criticality applications",
+    "abstract": "In this paper, we consider that critical control applications and Fog applications share a Fog Computing Platform (FCP). Critical control applications are implemented as periodic hard real-time tasks and messages and have stringent timing and safety requirements, and require safety certification. Fog applications are implemented as aperiodic tasks and messages and are not critical. Such applications need different approaches to guarantee their timing and dependability requirements. We formulate an optimization problem for the joint configuration of critical control and Fog applications, such that (i) the deadlines and Quality-of-Control (QoC) of control applications are guaranteed at design-time, (ii) the configuration is extensible and supports the addition of future new control applications without requiring costly re-certification, and (iii) the design-time configuration together with the runtime Fog resource management mechanisms, can successfully accommodate multiple dynamic responsive Fog applications. We evaluate our approach on several test cases assuming scenarios for hosting both Fog applications and future critical control applications. The results show that our approach generates extensible schedules which enables Fog nodes to handle Fog applications with a shorter response time and a larger number of future control applications.",
+    "citation_count": "0",
+    "year": "2022/12/01",
+    "authors": [
+        {
+            "name": "Mohammadreza Barzegaran",
+            "country": ""
+        },
+        {
+            "name": "Paul Pop",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

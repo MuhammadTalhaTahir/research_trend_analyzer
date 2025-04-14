@@ -1,0 +1,9 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650213000771",
+    "title": "Optimal size and siting of multiple distributed generators in distribution system using bacterial foraging optimization",
+    "abstract": "Optimal location and size of  distributed generation  (DG) in the distribution system play a significant role in minimizing power losses, operational cost and improving voltage stability. This paper presents a new approach to find the optimal location and size of DG with an objective of minimizing network power losses, operational costs and improving voltage stability. Loss sensitivity factor is used to identify the optimal locations for installation of DG units. Bacterial Foraging Optimization Algorithm (BFOA) is used to find the optimal size of DG. BFOA is a  swarm intelligence  technique which models the individual and group foraging policies of the  Escherichia coli  bacteria as a distributed optimization process. The technical constraints of voltage and branch  current carrying capacity  are included in the assessment of the objective function. The proposed method has been tested on IEEE 33-bus and 69-bus  radial distribution  systems with various load models at different load levels to demonstrate the performance and effectiveness of the technique.",
+    "citation_count": "276",
+    "year": "2014/04/01",
+    "authors": [],
+    "keywords": []
+}

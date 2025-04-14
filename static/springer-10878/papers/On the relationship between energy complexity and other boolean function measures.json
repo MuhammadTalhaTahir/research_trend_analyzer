@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-020-00689-8",
+    "title": "On the relationship between energy complexity and other boolean function measures",
+    "abstract": "We focus on energy complexity, a Boolean function measure related closely to Boolean circuit design. Given a circuit $$\\mathcal {C}$$ over the standard basis $$\\{\\vee _2,\\wedge _2,\\lnot \\}$$ , the energy complexity of $$\\mathcal {C}$$ , denoted by $${{\\,\\mathrm{EC}\\,}}(\\mathcal {C})$$ , is the maximum number of its activated inner gates over all inputs. The energy complexity of a Boolean function f, denoted by $${{\\,\\mathrm{EC}\\,}}(f)$$ , is the minimum of $${{\\,\\mathrm{EC}\\,}}(\\mathcal {C})$$ over all circuits $$\\mathcal {C}$$ computing f. Recently, K. Dinesh et al. (International computing and combinatorics conference, Springer, Berlin, 738–750, 2018) gave $${{\\,\\mathrm{EC}\\,}}(f)$$ an upper bound by the decision tree complexity, $${{\\,\\mathrm{EC}\\,}}(f)=O({{\\,\\mathrm{D}\\,}}(f)^3)$$ . On the input size n, They also showed that $${{\\,\\mathrm{EC}\\,}}(f)$$ is at most $$3n-1$$ . For the lower bound side, they showed that $${{\\,\\mathrm{EC}\\,}}(f)\\ge \\frac{1}{3}{{\\,\\mathrm{psens}\\,}}(f)$$ , where $${{\\,\\mathrm{psens}\\,}}(f)$$ is called positive sensitivity. A remained open problem is whether the energy complexity of a Boolean function has a polynomial relationship with its decision tree complexity. Our results for energy complexity can be listed below.",
+    "citation_count": 30,
+    "year": "2022/07",
+    "authors": [
+        {
+            "name": "Sun, Xiaoming",
+            "country": "China"
+        },
+        {
+            "name": "Sun, Yuan",
+            "country": "China"
+        },
+        {
+            "name": "Wu, Kewen",
+            "country": "China"
+        },
+        {
+            "name": "Xia, Zhiyu",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

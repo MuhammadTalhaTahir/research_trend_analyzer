@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-018-0708-1",
+    "title": "Batch-based activity recognition from egocentric photo-streams revisited",
+    "abstract": "Wearable cameras can gather large amounts of image data that provide rich visual information about the daily activities of the wearer. Motivated by the large number of health applications that could be enabled by the automatic recognition of daily activities, such as lifestyle characterization for habit improvement, context-aware personal assistance and tele-rehabilitation services, we propose a system to classify 21 daily activities from photo-streams acquired by a wearable photo-camera. Our approach combines the advantages of a late fusion ensemble strategy relying on convolutional neural networks at image level with the ability of recurrent neural networks to account for the temporal evolution of high-level features in photo-streams without relying on event boundaries. The proposed batch-based approach achieved an overall accuracy of 89.85%, outperforming state-of-the-art end-to-end methodologies. These results were achieved on a dataset consists of 44,902 egocentric pictures from three persons captured during 26 days in average.",
+    "citation_count": 25,
+    "year": "2018/11",
+    "authors": [
+        {
+            "name": "Cartas, Alejandro",
+            "country": "Spain"
+        },
+        {
+            "name": "Marín, Juan",
+            "country": "Spain"
+        },
+        {
+            "name": "Radeva, Petia",
+            "country": "Spain"
+        },
+        {
+            "name": "Dimiccoli, Mariella",
+            "country": "Spain"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

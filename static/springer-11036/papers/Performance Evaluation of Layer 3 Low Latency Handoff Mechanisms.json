@@ -1,0 +1,35 @@
+{
+    "url": "https://link.springer.com/article/10.1023/B:MONE.0000042502.65518.b5",
+    "title": "Performance Evaluation of Layer 3 Low Latency Handoff Mechanisms",
+    "abstract": "This paper investigates the performance of two Layer 3 low latency handoff mechanisms proposed by the IETF, namely Pre- and Post-Registration. These protocols use Layer 2 triggers to reduce the built-in delay components of Mobile IP. We propose a simple analytical model that allows assessing the packet loss and the delay characteristics of these mechanisms. We describe several handoff implementations over a wireless access based on the IEEE 802.11 standard and analyze several implementation issues. Finally we study the scalability of the protocols using an OPNET simulation.",
+    "citation_count": 28,
+    "year": "2004/12",
+    "authors": [
+        {
+            "name": "Blondia, C.",
+            "country": "Belgium"
+        },
+        {
+            "name": "Casals, O.",
+            "country": "Spain"
+        },
+        {
+            "name": "Cerdà, Ll.",
+            "country": "Spain"
+        },
+        {
+            "name": "Van den Wijngaert, N.",
+            "country": "Belgium"
+        },
+        {
+            "name": "Willems, G.",
+            "country": "Belgium"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

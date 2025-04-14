@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-020-00690-1",
+    "title": "Optimal Steiner trees under node and edge privacy conflicts",
+    "abstract": "In this work, we suggest concepts and solution methodologies for a series of strategic network design problems that find application in highly data-sensitive industries, such as, for instance, the high-tech, governmental, or military sector. Our focus is on the installation of widely used cost-efficient tree-structured communication infrastructure. As base model we use the well-known Steiner tree problem, in which we are given terminal nodes, optional Steiner nodes, and potential network links between nodes. Its objective is to connect all terminals to a distributor node using a tree of minimum total edge costs. The novel, practically relevant side constraints are related to privacy concerns of customers, represented by terminals. In order to account for these, we study four privacy models that restrict the eligible infrastructure for the customer-distributor data exchange: (I) Selected pairs of terminals mutually exclude themselves as intermediate data-transmission nodes; (II) some pairs of terminals require disjoint paths to the distributor; (III) individual terminals forbid routing their data through allegedly untrustworthy links; and (IV) certain terminals do not allow the usage of doubtful links on their entire network branch. These topological data-privacy requirements significantly complicate the notoriously hard optimization problem. We clarify the model relationships by establishing dominance results, point out potential extensions and derive reduction tests. We present corresponding, strong non-compact integer programming (IP) formulations and embed these in efficient cutting plane methods. In addition, we develop constraint programming formulations that are used complementally to derive primal solutions. In a computational study, we analyze the performance of our methods on a diverse set of literature-based test instances.",
+    "citation_count": 24,
+    "year": "2022/07",
+    "authors": [
+        {
+            "name": "Hill, Alessandro",
+            "country": "USA"
+        },
+        {
+            "name": "Baldacci, Roberto",
+            "country": "Italy"
+        },
+        {
+            "name": "Voß, Stefan",
+            "country": "Germany"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

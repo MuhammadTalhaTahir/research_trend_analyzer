@@ -1,0 +1,30 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10617-015-9159-8",
+    "title": "A multiple-ISA reconfigurable architecture",
+    "abstract": "In these days, every newly added hardware feature must not change the underlying instruction set architecture (ISA), in order to avoid adaptation or recompilation of existing code. Nevertheless, this need for compatibility imposes a great number of restrictions to the designers, because it keeps them tied to a specific ISA and all its legacy hardware issues. Considering that the market is mainly dominated by three different ISAs (and, very likely, more to come): $$\\times $$ 86, used in the general purpose field; ARM, used in embedded systems, and PowerPC which covers a wide gamut of solutions, the need for another level (at the ISA) of adaptability is evident. Binary translation (BT) appears as a solution for that, since it is capable of transforming binary code so it can be executed on another target architecture. However, BT adds another layer between code and actual execution, therefore bringing huge performance penalties. To overcome this drawback, we propose a new mechanism based on a dynamic two-level binary translation system. The first level can translate from multiple architectures into an intermediate-level code, which will be optimized by the second level for execution on a dynamic reconfigurable array. In this way, the designer can take advantage of a BT system and program for multiple fields of application, without worrying about the underlying architecture. We present three case studies, along with a discussion as to how the first BT level is easily expandable to other ISAs.",
+    "citation_count": 23,
+    "year": "2015/12",
+    "authors": [
+        {
+            "name": "Capella, Fernanda M.",
+            "country": "Brazil"
+        },
+        {
+            "name": "Brandalero, Marcelo",
+            "country": "Brazil"
+        },
+        {
+            "name": "Carro, Luigi",
+            "country": "Brazil"
+        },
+        {
+            "name": "Beck, Antonio C. S.",
+            "country": "Brazil"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

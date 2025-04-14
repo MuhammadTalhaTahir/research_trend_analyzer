@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-024-01175-1",
+    "title": "A novel local search approach with connected dominating degree-based incremental neighborhood evaluation for the minimum 2-connected dominating set problem",
+    "abstract": "The minimum connected dominating set problem is widely studied due to its applicability to mobile ad-hoc networks and sensor grids. Its variant the minimum 2-connected dominating set (M-2CDS) problem has become increasingly important because its critical role in designing fault-tolerant network. This paper presents a connected dominating degree-based local search (CDD-LS) tailored for solving the M-2CDS. The proposed algorithm implements an improved swap-based neighborhood structure as well as the corresponding fast neighborhood evaluation method using connected dominating degree data structure. The diversification techniques including tabu strategy and perturbaistion help the search jump out of the local optima improving the efficiency. This study investigates the performance of the CDD-LS algorithm on 38 publicly available benchmark datasets. The results demonstrate that the CDD-LS algorithm significantly improves the best runtime in 19 instances, while providing the equivalent performance in 8 instances. Furthermore, the CDD-LS is tested on 18 newly generated instances to check its capability on large-scale scenarios. To gain a deeper understanding of the algorithm’s effectiveness, an investigation into the key components of the CDD-LS algorithm is conducted.",
+    "citation_count": 27,
+    "year": "2024/07",
+    "authors": [
+        {
+            "name": "Luo, Mao",
+            "country": "China"
+        },
+        {
+            "name": "Qin, Huigang",
+            "country": "China"
+        },
+        {
+            "name": "Wu, Xinyun",
+            "country": "China"
+        },
+        {
+            "name": "Xiong, Caiquan",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

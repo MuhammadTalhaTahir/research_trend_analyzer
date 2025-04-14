@@ -1,0 +1,51 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-020-01661-w",
+    "title": "Service Function Chain Placement for Joint Cost and Latency Optimization",
+    "abstract": "Network Function Virtualization (NFV) is an emerging technology to consolidate network functions onto high volume storages, servers and switches located anywhere in the network. Virtual Network Functions (VNFs) are chained together to provide a specific network service, called Service Function Chains (SFCs). Regarding to Quality of Service (QoS) requirements and network features and states, SFCs are served through performing two tasks: VNF placement and link embedding on the substrate networks. Reducing deployment cost is a desired objective for all service providers in cloud/edge environments to increase their profit form demanded services. However, increasing resource utilization in order to decrease deployment cost may lead to increase the service latency and consequently increase SLA violation and decrease user satisfaction. To this end, we formulate a multi-objective optimization model to joint VNF placement and link embedding in order to reduce deployment cost and service latency with respect to a variety of constraints. We, then solve the optimization problem using two heuristic-based algorithms that perform close to optimum for large scale cloud/edge environments. Since the optimization model involves conflicting objectives, we also investigate pareto optimal solution so that it optimizes multiple objectives as much as possible. The efficiency of proposed algorithms is evaluated using both simulation and emulation. The evaluation results show that the proposed optimization approach succeed in minimizing both cost and latency while the results are as accurate as optimal solution obtained by Gurobi (5%).",
+    "citation_count": 37,
+    "year": "2020/12",
+    "authors": [
+        {
+            "name": "Khoshkholghi, Mohammad Ali",
+            "country": "Sweden"
+        },
+        {
+            "name": "Gokan Khan, Michel",
+            "country": "Sweden"
+        },
+        {
+            "name": "Alizadeh Noghani, Kyoomars",
+            "country": "Sweden"
+        },
+        {
+            "name": "Taheri, Javid",
+            "country": "Sweden"
+        },
+        {
+            "name": "Bhamare, Deval",
+            "country": "Sweden"
+        },
+        {
+            "name": "Kassler, Andreas",
+            "country": "Sweden"
+        },
+        {
+            "name": "Xiang, Zhengzhe",
+            "country": "China"
+        },
+        {
+            "name": "Deng, Shuiguang",
+            "country": "China"
+        },
+        {
+            "name": "Yang, Xiaoxian",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

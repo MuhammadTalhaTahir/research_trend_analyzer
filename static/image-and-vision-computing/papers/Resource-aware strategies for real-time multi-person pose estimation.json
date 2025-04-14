@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885625000290",
+    "title": "Resource-aware strategies for real-time multi-person pose estimation",
+    "abstract": "When using deep learning applications for human posture estimation (HPE), especially on devices with limited resources, accuracy and efficiency must be balanced. Common deep-learning architectures have a propensity to use a large amount of processing power while yielding low accuracy. This work proposes the implementation of Efficient YoloPose, a new architecture based on You Only Look Once version 8 (YOLOv8)-Pose, in an attempt to address these issues. Advanced lightweight methods like Depthwise Convolution, Ghost Convolution, and the C3Ghost module are used by Efficient YoloPose to replace traditional convolution and C2f (a quicker implementation of the Cross Stage Partial Bottleneck). This approach greatly decreases the inference, parameter count, and computing complexity. To improve posture estimation even further, Efficient YoloPose integrates the Squeeze Excitation (SE) attention method into the network. The main focus of this process during posture estimation is the significant areas of an image. Experimental results show that the suggested model performs better than the current models on the COCO and OCHuman datasets. The proposed model lowers the inference time from 1.1 milliseconds (ms) to 0.9 ms, the computational complexity from 9.2 Giga Floating-point operations (GFlops) to 4.8 GFlops and the parameter count from 3.3 million to 1.3 million when compared to YOLOv8-Pose. In addition, this model maintains an average precision (AP) score of 78.8 on the COCO dataset. The source code for Efficient YoloPose has been made publicly available at [ https://github.com/malareeqi/Efficient-YoloPose ].",
+    "citation_count": "0",
+    "year": "2025/03/01",
+    "authors": [
+        {
+            "name": "Mohammed A. Esmail",
+            "country": ""
+        },
+        {
+            "name": "Jinlei Wang",
+            "country": ""
+        },
+        {
+            "name": "Yihao Wang",
+            "country": ""
+        },
+        {
+            "name": "Li Sun",
+            "country": ""
+        },
+        {
+            "name": "Guoliang Zhu",
+            "country": ""
+        },
+        {
+            "name": "Guohe Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

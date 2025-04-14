@@ -1,0 +1,34 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10617-019-09229-y",
+    "title": "A model-driven framework for design and verification of embedded systems through SystemVerilog",
+    "abstract": "The demands of system complexity and design productivity for embedded systems can be managed by simplifying and reusing the design. Furthermore, these systems should be verified as early as possible in the development process to reduce the cost and effort. The rationale of the proposed framework in this article is to simplify the design and verification process of embedded systems in the context of Model Based System Engineering (MBSE). To achieve this, UML profile for SystemVerilog (UMLSV) is proposed to model the design and verification requirements. Particularly, we introduce various UMLSV stereotypes to model the system design (structure and behavior). Furthermore, a temporal extension of Object Constraint Language is used to capture the verification requirements (properties/constraints) in UMLSV. Consequently, the proposed framework allows the modeling of system design (structure and behavior) along with the verification aspects at higher abstraction level. Following the MBSE process, the high-level models and the verification constraints are transformed into synthesizable SystemVerilog Register Transfer Level and SystemVerilog Assertions code. This leads to perform the Assertions Based Verification of system design in the early development phases by using state-of-the-art simulators. The effectiveness of the proposed framework is demonstrated with the help of multiple case studies including Traffic Lights Controller, Unmanned Aerial Vehicle, Elevator and Car Collision Avoidance System.",
+    "citation_count": 56,
+    "year": "2019/12",
+    "authors": [
+        {
+            "name": "Anwar, Muhammad Waseem",
+            "country": "Pakistan"
+        },
+        {
+            "name": "Rashid, Muhammad",
+            "country": "Saudi Arabia"
+        },
+        {
+            "name": "Azam, Farooque",
+            "country": "Pakistan"
+        },
+        {
+            "name": "Kashif, Muhammad",
+            "country": "Turkey"
+        },
+        {
+            "name": "Butt, Wasi Haider",
+            "country": "Pakistan"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

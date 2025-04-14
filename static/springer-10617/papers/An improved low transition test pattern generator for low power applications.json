@@ -1,0 +1,22 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10617-017-9188-6",
+    "title": "An improved low transition test pattern generator for low power applications",
+    "abstract": "VLSI circuits are perceived to dissipate extra power during testing when compared with that of the normal function. Drastic heat may reduce circuit consistency, shoot up package cost, and even cause permanent damage to the circuit under test. Thus minimization of test power has gained increased significance. This paper explores the avenues in power minimization during test application in CMOS VLSI circuits since power consumption during testing is high when compared to normal operation. Design of low transition Test Pattern Generators is one usual method adopted to reduce power consumption. In the Proposed Modified Low Transition Linear Feedback Shift Register, power dissipation during testing is reduced by minimizing the switching activity between successive test vectors by comparing the two consecutive test vectors and inserting random bit such that total number of transitions is reduced without affecting the randomness. Significant advantage of this method is reduced power consumption with reduced complexity when compared to other existing methods. Considering experimental results there is a significant reduction in power consumption up to 36.2% for ISCAS’85 combinational bench mark circuits and up to 10% for ISCAS’89 Benchmark sequential circuit with marginal increase in area overhead.",
+    "citation_count": 23,
+    "year": "2017/12",
+    "authors": [
+        {
+            "name": "Vellingiri, Govindaraj",
+            "country": "India"
+        },
+        {
+            "name": "Jayabalan, Ramesh",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

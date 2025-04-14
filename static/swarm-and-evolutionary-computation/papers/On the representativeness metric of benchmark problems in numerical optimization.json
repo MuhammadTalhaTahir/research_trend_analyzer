@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224002542",
+    "title": "On the representativeness metric of benchmark problems in numerical optimization",
+    "abstract": "Numerical comparison on benchmark problems is often necessary in evaluating optimization algorithms with or without theoretical analysis. An implicit assumption is that the adopted set of benchmark problems is representative. However, to our knowledge, there are few results about how to evaluate the representativeness of a test suite, partly due to the difficulty of this issue. In this paper, we first define three different levels of representativeness, and open up a window for addressing step by step the issue of representativeness-measuring. Then we turn to address the Type-III representativeness-measuring problem, and provide a metric for this problem. To illustrate how to use the proposed metric, the representativeness-measuring problem of benchmark problems for single-objective unconstrained continuous optimization is examined. The analysis covers as many as 1141 single-objective unconstrained continuous benchmark problems, primarily focusing on existing benchmark problems. Based on the defined representativeness metric, some classical features and calculations are used to assess the representativeness of the benchmark problems. Assessment results show that most of the benchmark problems of high representativeness are non-separable problems from the CEC and BBOB test suites. We select the top 5% of most representative problems to build a new test suite, providing a more representative and rigorous reference in verifying the overall performance of the optimization algorithms.",
+    "citation_count": "0",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Caifeng Chen",
+            "country": ""
+        },
+        {
+            "name": "Qunfeng Liu",
+            "country": ""
+        },
+        {
+            "name": "Yunpeng Jing",
+            "country": ""
+        },
+        {
+            "name": "Mingming Zhang",
+            "country": ""
+        },
+        {
+            "name": "Shi Cheng",
+            "country": ""
+        },
+        {
+            "name": "Yun Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

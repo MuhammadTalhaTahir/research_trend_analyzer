@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885620301062",
+    "title": "Adversarial sliced Wasserstein domain adaptation networks",
+    "abstract": "Domain adaptation  has become a resounding success in learning a domain agnostic model that performs well on target dataset by leveraging  source dataset  which has related  data distribution . Most of existing works aim at learning domain-invariant features across different domains, but they ignore the  discriminability  of learned features although it is import to improve the model's performance. This paper proposes a novel adversarial sliced Wasserstein domain adaptation network (AWDAN) that uses a shared encoder and classifier along with a domain classifier to enhance the discriminability of the domain-invariant features. AWDAN utilizes adversarial learning to learn domain-invariant features in  feature space  and simultaneously minimizes sliced Wasserstein distance in label space to enforce the generated features to be discriminative that guarantees the transfer performance. Meanwhile, we propose to fix the weights of the pre-trained  CNN  backbone to guarantee its adaptability. We provide theoretical analysis to demonstrate the efficacy of AWDAN. Experimental results show that the proposed AWDAN significantly outperforms existing domain adaptation methods on three visual domain adaptation tasks. Feature visualizations verify that AWDAN learns both domain-invariant and  discriminative features , and can achieve domain agnostic  feature learning .",
+    "citation_count": "11",
+    "year": "2020/10/01",
+    "authors": [
+        {
+            "name": "Yun Zhang",
+            "country": ""
+        },
+        {
+            "name": "Nianbin Wang",
+            "country": ""
+        },
+        {
+            "name": "Shaobin Cai",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

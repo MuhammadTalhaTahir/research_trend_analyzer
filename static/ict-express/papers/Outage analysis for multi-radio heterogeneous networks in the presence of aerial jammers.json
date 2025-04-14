@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959523000486",
+    "title": "Outage analysis for multi-radio heterogeneous networks in the presence of aerial jammers",
+    "abstract": "Recently, aerial jammers (AJs) have been actively considered because of their swiftness and adaptability to maximize the impact of jammers. The previous studies mainly focused on the optimization of a single AJ (transmit power, location, etc.) consisting of intended users and eavesdroppers in single-cell environment. In this paper, macroscopic impact of multiple randomly deployed AJs to multiple radio access technologies (multi-RATs) is analyzed, which have been actively studied for future cellular systems. In particular, multi-radio heterogeneous networks consisting of WiFi-enabled small base stations (SBSs) and 5G-enabled macro/micro base stations (MBSs) are considered. An integrated framework is developed and evaluated for multi-RATs in the presence of both co-channel interference and AJ interference based on tools from stochastic geometry. The main challenge is to analyze the optimal control of portion of AJs to interfere two different RATs to maximize the outage probability. Both analytical and simulation results are presented to demonstrate the impacts of various network parameters to the overall outage probability.",
+    "citation_count": "0",
+    "year": "2023/12/01",
+    "authors": [
+        {
+            "name": "Muhammad Sajid Haroon",
+            "country": ""
+        },
+        {
+            "name": "Seong Ho Chae",
+            "country": ""
+        },
+        {
+            "name": "Sang-Woon Jeon",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762103000407",
+    "title": "Highly accurate and efficient evaluation of randomising set index functions",
+    "abstract": "Randomising set index functions can reduce the number of conflict misses in data caches by spreading the cache blocks uniformly over all sets. Typically, the  randomisation  functions compute the exclusive ors of several address bits. Not all randomising set index functions perform equally well, which calls for the evaluation of many set index functions. This paper discusses and improves a technique that tackles this problem by predicting the miss rate incurred by a randomisation function, based on profiling information. A new way of looking at randomisation functions is used, namely the null space of the randomisation function. The members of the null space describe pairs of cache blocks that are mapped to the same set. This paper presents an analytical model of the error made by the technique and uses this to propose several optimisations to the technique. The technique is then applied to generate a conflict-free randomisation function for the SPEC benchmarks.",
+    "citation_count": "3",
+    "year": "2003/05/01",
+    "authors": [
+        {
+            "name": "Hans Vandierendonck",
+            "country": ""
+        },
+        {
+            "name": "Koen De Bosschere",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,50 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124000584",
+    "title": "A quantitative blind area risks assessment method for safe driving assistance",
+    "abstract": "The task of driving in complex and occluded environments presents significant challenges, as it requires the perception and prediction of one’s surrounding environment. This is especially important as blind spots, or areas that are difficult to directly detect due to occlusion by surrounding vehicles or obstacles, which can pose a serious risk of accidents. To address this issue, this study proposes a method called “Uncertainty Shadow Safety”, which aims to evaluate the potential risk of invisible areas surrounding the ego vehicle based on the combination of static road information and the presence of traffic participants. The proposed system calculates the “shadow uncertainty” of a non-visible road area based on its physical properties and the probabilities of various traffic participants being present in that area. It then performs a quantitative assessment of the potential risk from various directions, taking into account the surrounding anomalous movement states. Simulation tests were conducted in various scenarios to demonstrate the feasibility and effectiveness of the Uncertainty Shadow Safety system. The advanced warning provided by the system to potential risks in invisible areas can help to reduce the likelihood of collisions and improve driving safety for both human drivers and autonomous vehicles.",
+    "citation_count": "0",
+    "year": "2024/05/01",
+    "authors": [
+        {
+            "name": "Jiayi Lu",
+            "country": ""
+        },
+        {
+            "name": "Zhaoxia Peng",
+            "country": ""
+        },
+        {
+            "name": "Runwu Shi",
+            "country": ""
+        },
+        {
+            "name": "Shichun Yang",
+            "country": ""
+        },
+        {
+            "name": "Lingfei Gao",
+            "country": ""
+        },
+        {
+            "name": "Boao Zhang",
+            "country": ""
+        },
+        {
+            "name": "Rui Wang",
+            "country": ""
+        },
+        {
+            "name": "Zhaowen Pang",
+            "country": ""
+        },
+        {
+            "name": "Qunli Zhang",
+            "country": ""
+        },
+        {
+            "name": "Yaoguang Cao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

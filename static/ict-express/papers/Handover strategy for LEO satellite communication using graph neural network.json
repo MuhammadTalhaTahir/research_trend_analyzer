@@ -1,0 +1,38 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959525000098",
+    "title": "Handover strategy for LEO satellite communication using graph neural network",
+    "abstract": "Distributed handover (HO) strategy with low complexity can provide seamless communication in low earth orbit (LEO) satellite networks. However, it is difficult to consider load balancing in distributed HO strategy, which may results in HO failures. In this paper, we propose a graph neural network (GNN) based distributed HO strategy for LEO satellite communication to maximize sum rate by considering load balancing. We first propose target satellite selection method with GNN where each user equipment (UE) selects target satellite and requests HO to it. We then employ ACK decision policy to strictly satisfy load balancing of satellites where each satellite decides HO requests from UEs depending on its load condition. To validate the proposed GNN based HO, we use the System Tool Kit (STK) for modeling LEO satellites with 22 orbits and 72 satellites are in each orbit, and evaluate the HO process during 2400 s. From this constellation, we generate 9,600 samples by randomly deploying UEs on the ground and use them as dataset. Simulation results show that the proposed GNN based HO strategy outperforms conventional HO strategies by selecting an appropriate target satellite. We also demonstrate that load balancing is satisfied due to ACK decision policy and the scalability of proposed GNN architecture is ensured with different network sizes.",
+    "citation_count": "0",
+    "year": "2025/04/01",
+    "authors": [
+        {
+            "name": "Ji-Woon Lee",
+            "country": ""
+        },
+        {
+            "name": "Byungju Lim",
+            "country": ""
+        },
+        {
+            "name": "Ki-Hun Kim",
+            "country": ""
+        },
+        {
+            "name": "Jong-Man Lee",
+            "country": ""
+        },
+        {
+            "name": "Young-Seok Ha",
+            "country": ""
+        },
+        {
+            "name": "Young-Jin Han",
+            "country": ""
+        },
+        {
+            "name": "Young-Chai Ko",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

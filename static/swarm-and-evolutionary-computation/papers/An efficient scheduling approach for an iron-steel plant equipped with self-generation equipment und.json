@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S221065022030417X",
+    "title": "An efficient scheduling approach for an iron-steel plant equipped with self-generation equipment under time-of-use electricity tariffs",
+    "abstract": "Production scheduling under time-of-use electricity tariffs has become an efficient way for energy-intensive industries to decrease energy costs. However, when production tasks are over-concentrated in one scheduling cycle, the effectiveness of time-of-use electricity tariffs is no longer significant. This makes the introduction of self-generation power plant appealing for energy-intensive industries. This paper addresses an integrated scheduling problem from an iron-steel plant equipped with self-generation equipment under time-of-use electricity tariffs. In this problem, time-of-use electricity tariffs, the self-generation cost, and the on-grid electrovalence influence the total electricity cost simultaneously. A multi-objective mathematical model with energy-awareness is developed to optimize the production schedules and electricity cost jointly. An improved SPEA2 based on the relationship propagation chain is tailored for the problem, including scheduling solution encoding, crossover and mutation. A real-life case study from a Chinese iron-steel plant equipped with self-generation equipment demonstrates that the proposed methods can provide a high-quality scheduling scheme and the total electricity cost can be significantly reduced.",
+    "citation_count": "38",
+    "year": "2021/02/01",
+    "authors": [
+        {
+            "name": "Jianhua Cao",
+            "country": ""
+        },
+        {
+            "name": "Ruilin Pan",
+            "country": ""
+        },
+        {
+            "name": "Xue Xia",
+            "country": ""
+        },
+        {
+            "name": "Xuemei Shao",
+            "country": ""
+        },
+        {
+            "name": "Xuemin Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

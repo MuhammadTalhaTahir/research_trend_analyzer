@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217306454",
+    "title": "Improved Raven Roosting Optimization algorithm (IRRO)",
+    "abstract": "Optimization means finding the best solution from among an infinite number of possible solutions to a complex problem. Several methods are generally used for solving complex problems, such as meta-heuristic algorithms that are inspired from living organisms. Raven Roosting Optimization (RRO) is an algorithm inspired by the mimicking behavior of ravens but it has the problem of premature convergence. This paper provides an expansion of RRO algorithm namely IRRO to resolve the problem. It focuses on a population that follows the leader and divides the population into groups of weak ravens and greedy ravens. It also uses a parameter to control the amount of food remaining for the ravens. This is then extended by comparison of the proposed algorithm to RRO,  Particle Swarm Optimization  (PSO) approach Bat algorithm (BA), Chicken Swarm Optimization (CSO),  Grey Wolf  Optimization (GWO), Whale Optimization Algorithm (WOA). The experimental results on 30 standard benchmark functions how the improvement of the proposed algorithm compared to RRO, PSO, BA, CSO, GWO and WOA algorithms.",
+    "citation_count": "29",
+    "year": "2018/06/01",
+    "authors": [
+        {
+            "name": "Shadi Torabi",
+            "country": ""
+        },
+        {
+            "name": "Faramarz Safi-Esfahani",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

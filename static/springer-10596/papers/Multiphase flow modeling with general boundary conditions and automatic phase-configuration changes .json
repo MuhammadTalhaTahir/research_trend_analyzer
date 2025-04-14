@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-008-9094-x",
+    "title": "Multiphase flow modeling with general boundary conditions and automatic phase-configuration changes using a fractional-flow approach",
+    "abstract": "The multiphase flow simulator moving particle semi-implicit (MPS) method is developed based on the fractional-flow approach, originated in the petroleum engineering literature, considering the fully three-phase flow with general boundary conditions. The fractional flow approach employs water saturation, total liquid saturation, and total pressure as primary variables. Most existing models based upon fractional flow are limited to two-phase flow and specific boundary conditions. Although there appear a number of three-phase flow models, they were mostly developed using pressure-based approaches, which require variable-switch techniques to deal with phase appearance and disappearance. The use of fractional flow-based approaches in MPS makes it unnecessary to use variable-switching to handle the change of phase configurations because the water saturation, total liquid saturation, and total pressure exist throughout the solution domain regardless of whether certain phases are present or not. Furthermore, most existing fractional flow-based models consider only specific boundary conditions, usually Dirichlet-type pressure for water phase and flux-type boundary for nonaqueous phase liquid or particular combinations for individual phase. However, the present model considers general boundary conditions of ten most possible and plausible cases. The first eight cases are the combinations of the phase pressure or the phase flux of each of the three individual phases. The other two cases are the variable boundary conditions: one for water-medium interface and the other for the air-medium interface when the directions of fluxes are not known a priori. Thus, the model’s capabilities of handling general boundary conditions extend the simulators’ usefulness in the field system.",
+    "citation_count": 23,
+    "year": "2008/12",
+    "authors": [
+        {
+            "name": "Suk, Heejun",
+            "country": "South Korea"
+        },
+        {
+            "name": "Yeh, Gour-Tsyh",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

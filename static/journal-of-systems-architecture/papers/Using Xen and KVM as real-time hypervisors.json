@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762120300035",
+    "title": "Using Xen and KVM as real-time hypervisors",
+    "abstract": "The recent developments in  virtualisation technologies  have made feasible the execution of complex and performance-critical applications in virtual machines. Some of such applications are characterised by real-time constraints and require a predictable scheduling of virtual machines on physical cores, hence several works in real-time literature have proposed advanced scheduling and design techniques to respect the application constraints. This paper complements those works, investigating the latencies introduced by two of the most widely used open-source  hypervisors , Xen and KVM. Some guidelines for properly configuring the VMs in order to reduce the introduced latencies (so that previous theoretical analysis and algorithms can be used in practice) are also provided, showing that both KVM and Xen are usable as real-time hypervisors.",
+    "citation_count": "45",
+    "year": "2020/06/01",
+    "authors": [
+        {
+            "name": "Luca Abeni",
+            "country": ""
+        },
+        {
+            "name": "Dario Faggioli",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-012-9588-2",
+    "title": "Efficient polynomial-time algorithms for the constrained LCS problem with strings exclusion",
+    "abstract": "In this paper, we revisit a recent variant of the longest common subsequence (LCS) problem, the string-excluding constrained LCS (STR-EC-LCS) problem, which was first addressed by Chen and Chao (J Comb Optim 21(3):383–392, 2011). Given two sequences $$X$$ and $$Y$$ of lengths $$m$$ and $$n,$$ respectively, and a constraint string $$P$$ of length $$r,$$ we are to find a common subsequence $$Z$$ of $$X$$ and $$Y$$ which excludes $$P$$ as a substring and the length of $$Z$$ is maximized. In fact, this problem cannot be correctly solved by the previously proposed algorithm. Thus, we give a correct algorithm with $$O(mnr)$$ time to solve it. Then, we revisit the STR-EC-LCS problem with multiple constraints $$\\{ P_1, P_2, \\ldots , P_k \\}.$$ We propose a polynomial-time algorithm which runs in $$O(mnR)$$ time, where $$R = \\sum _{i=1}^{k} |P_i|,$$ and thus it overthrows the previous claim of NP-hardness.",
+    "citation_count": 32,
+    "year": "2014/11",
+    "authors": [
+        {
+            "name": "Ann, Hsing-Yen",
+            "country": "Taiwan"
+        },
+        {
+            "name": "Yang, Chang-Biau",
+            "country": "Taiwan"
+        },
+        {
+            "name": "Tseng, Chiou-Ting",
+            "country": "Taiwan"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

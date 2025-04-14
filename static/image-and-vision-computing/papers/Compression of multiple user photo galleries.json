@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885615001407",
+    "title": "Compression of multiple user photo galleries",
+    "abstract": "The possibility of sharing  multimedia contents  in easy and ubiquitous way has brought to the creation of  multiuser  photo albums. Pictures and video sequences taken by different people attending common social events (e.g., concerts and sport competitions) are gathered together into huge sets of heterogeneous multimedia data. These databases require effective compression strategies that exploit the common visual information related to the scene but compensate effectively the differences depending on the acquiring viewpoints, camera models, and  acquisition time  instants. The paper presents a  predictive coding  strategy for multi-user photo gallery, which initially localizes each picture in terms of viewpoint, orientation, time, and acquired elements. This information permits ordering all the images in a prediction tree and associates to each of them a  reference picture . From this structure, it is possible to build a predictive coding strategy that exploits the redundant elements between the image to be coded and its reference. Experimental results show an  average bit rate  reduction up to 75% with respect to HEVC Intra low complexity coding.",
+    "citation_count": "7",
+    "year": "2016/09/01",
+    "authors": [
+        {
+            "name": "Simone Milani",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

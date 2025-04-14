@@ -1,0 +1,39 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-021-01835-0",
+    "title": "A Deep Neural Network Combined with Radial Basis Function for Abnormality Classification",
+    "abstract": "Researchers working on cancer datasets often encounter two major challenges in their data science tasks. First, the numbers of samples are often low while the numbers of features needed for extraction are high. Secondly, the existence of noise and uncertainties in datasets can cause issues with any data science related tasks. Addressing such issues is of paramount importance to researchers and consequently to society as well. In this paper, making use of Principal Component Analysis (PCA) we remove irrelevant and redundant features from known cancer datasets. We then implement a novel internal structure using a deep neural network, which is based on the radial basis function (RBF) for feature extraction. This task is followed with the selection of the most informative features, which are prepared for an adaptive neuro-fuzzy inference system (ANFIS) based on Takagi-Sugeno-Kang (TSK). The entire process considers different values of thresholds which may cause a deficient number of features for classification. As a result, in the fuzzy classifier, the number of rules will not be substantial. Finally, our proposed approach is evaluated in three cancer datasets which are COLON, ALL-AML, and LEUKEMIA. We also apply two classifiers: 1) neuro-fuzzy inference system with different types of membership functions and 2) multi-layer perceptron to classify those cancer datasets into two groups. Our strong experimental results show that our method leads to a higher accuracy when compared to a multi-layer perceptron classifier.",
+    "citation_count": 47,
+    "year": "2021/12",
+    "authors": [
+        {
+            "name": "Jafarpisheh, Noushin",
+            "country": "Canada"
+        },
+        {
+            "name": "Zaferani, Effat J.",
+            "country": "Iran"
+        },
+        {
+            "name": "Teshnehlab, Mohammad",
+            "country": "Iran"
+        },
+        {
+            "name": "Karimipour, Hadis",
+            "country": "Canada"
+        },
+        {
+            "name": "Parizi, Reza M.",
+            "country": "USA"
+        },
+        {
+            "name": "Srivastava, Gautam",
+            "country": "Canada"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-013-0459-6",
+    "title": "A Sequential Patterns Data Mining Approach Towards Vehicular Route Prediction in VANETs",
+    "abstract": "Behavioral patterns prediction in the context of Vehicular Ad hoc Networks (VANETs) has been receiving increasing attention due to the enabling of on-demand, intelligent traffic analysis and real-time responses to traffic issues. One of these patterns, sequential patterns, is a type of behavioral pattern that describes the occurrence of events in a timely and ordered fashion. In the context of VANETs, these events are defined as an ordered list of road segments traversed by vehicles during their trips from a starting point to their final intended destination. In this paper, a new set of formal definitions depicting vehicular paths as sequential patterns is described. Also, five novel communication schemes have been designed and implemented under a simulated environment to collect vehicular paths; such schemes are classified under two categories: RSU (Road Side Unit)-based and Vehicle-based. After collection, extracted frequent paths are obtained through data mining, and the probability of these frequent paths is measured. In order to evaluate the effectiveness and efficiency of the proposed schemes, extensive experimental analysis has been realized.",
+    "citation_count": 29,
+    "year": "2013/12",
+    "authors": [
+        {
+            "name": "Merah, Amar Farouk",
+            "country": "Canada"
+        },
+        {
+            "name": "Samarah, Samer",
+            "country": "Jordan"
+        },
+        {
+            "name": "Boukerche, Azzedine",
+            "country": "Canada"
+        },
+        {
+            "name": "Mammeri, Abdelhamid",
+            "country": "Canada"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224000579",
+    "title": "A systematic review on the potency of swarm intelligent nanorobots in the medical field",
+    "abstract": "The field of robotics is emerging quickly, and the miniaturization of robots to the nanoscale has opened up new possibilities for healthcare. Swarm nanorobotics, as a research area, has attracted interest in recent years. It is viewed as a promising option for various medical applications due to its high drug delivery efficiency and low invasiveness. This survey article focuses on the challenges associated with swarm nanorobotics in the medical field, as well as the classification of nanorobotic systems. Additionally, recent progress in swarm nanorobots in medical applications is discussed in detail, including their use in oncology, drug delivery, surgery (such as for the eye, heart, neuro, biofilm, and intracellular), diabetes, thrombolysis, and dentistry. The article also reviews and summarizes swarm nanorobotics algorithms to overcome various issues, such as obstacle avoidance, path planning, control, and motion. Moreover, an assessment of the future direction of swarm nanorobotics in the medical field is provided.",
+    "citation_count": "5",
+    "year": "2024/04/01",
+    "authors": [
+        {
+            "name": "Mahvish Khurshid Bijli",
+            "country": ""
+        },
+        {
+            "name": "Prabal Verma",
+            "country": ""
+        },
+        {
+            "name": "Amrit Pal Singh",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

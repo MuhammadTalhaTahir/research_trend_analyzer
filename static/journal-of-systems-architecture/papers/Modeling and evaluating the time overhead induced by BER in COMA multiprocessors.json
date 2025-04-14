@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762103000249",
+    "title": "Modeling and evaluating the time overhead induced by BER in COMA multiprocessors",
+    "abstract": "Designing  multiprocessors  based on distributed shared memory (DSM) architecture considerably increases their scalability. But as the number of nodes in a multiprocessor increases, the probability of encountering failures in one or more nodes of the system raises as a serious problem. Thus, every large-scale multiprocessor should be equipped with mechanisms that tolerate node failures.  Backward error  recovery (BER) is one of the most feasible strategies to build fault tolerant multiprocessors and it can be shown that among various DSM-based architectures, cache only memory architecture (COMA) is the most suitable for implementing BER. The main reason is the existence of built-in mechanisms for  data replication  in COMA memory system. BER is applicable to COMA multiprocessors with minor  hardware redundancy , but it will obviously cause some other kinds of overheads. The most important overhead induced by BER is the time required to produce and store recovery data. This paper introduces an analytical model for predicting the amount of this time overhead and then verifies the correctness of the model through comparing the results predicted from this model with the previously published simulation results. Both the analytical model and simulation results show that the overhead is nearly independent of the number of nodes. The immediate result is that BER is a cost-effective strategy for tolerating node failures in large-scale COMA multiprocessors with large numbers of nodes.",
+    "citation_count": "1",
+    "year": "2003/05/01",
+    "authors": [
+        {
+            "name": "Mohsen Sharifi",
+            "country": ""
+        },
+        {
+            "name": "Behrouz Zolfaghari",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

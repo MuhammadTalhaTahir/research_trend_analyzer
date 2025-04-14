@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122000807",
+    "title": "Privacy-preserving statistical analysis over multi-dimensional aggregated data in edge computing-based smart grid systems",
+    "abstract": "Smart grid systems  enable bidirectional data communication between users and a smart grid control center (CC), by utilizing various communication infrastructures and embedded devices. To extract valuable information from users’  power consumption  data efficiently, multi-dimensional data of users are required to be analyzed deeply. To protect users’ privacy, power consumption data are usually encrypted before transmission, which simultaneously makes it difficult to conduct statistical analysis. In this paper, we propose a scheme which enables privacy-preserving statistical analysis over multi-dimensional  aggregated data  (SA-MAD) in smart  grid systems  equipped with  edge computing . We modify Boneh–Goh–Nissim (BGN) public key  cryptosystem  to a dual-message encryption mode, combining with two special superincreasing sequences to deal with multi-dimensional  encrypted data  aggregation. Besides, we design an identity-based aggregate signature to ensure encrypted data integrity in smart grid systems, and employ shamir secret sharing technique to support transmission fault-tolerance mechanism from smart meters to corresponding edge servers. SA-MAD enables CC to flexibly conduct privacy-preserving statistical analysis (e.g., sum, average, and variance) over aggregated data, and it could be easily extended to support covariance and linear regression computation. The performance evaluation demonstrates the feasibility of SA-MAD in edge computing-based smart grid systems.",
+    "citation_count": "19",
+    "year": "2022/06/01",
+    "authors": [
+        {
+            "name": "Xiaojun Zhang",
+            "country": ""
+        },
+        {
+            "name": "Chao Huang",
+            "country": ""
+        },
+        {
+            "name": "Dawu Gu",
+            "country": ""
+        },
+        {
+            "name": "Jingwei Zhang",
+            "country": ""
+        },
+        {
+            "name": "Jingting Xue",
+            "country": ""
+        },
+        {
+            "name": "Huaxiong Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

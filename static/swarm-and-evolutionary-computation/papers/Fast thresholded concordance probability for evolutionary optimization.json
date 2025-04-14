@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223000342",
+    "title": "Fast thresholded concordance probability for evolutionary optimization",
+    "abstract": "The concordance  probability  is an extension of the popular area under the curve (AUC) which is commonly used to measure the accuracy of a  predictive model . It can be extended to the thresholded and weighted concordance probability which are more appropriate for some applications. The naive way of estimating this measure requires a quadratic computation time, which is prohibitive for large data sets. We propose a new algorithm that computes the weighted thresholded concordance probability in linearithmic time, which is proven and empirically confirmed. This unlocks the possibility of calculating the thresholded concordance probability in a  big data  world, and makes it possible to base the fitness function of a  machine learning algorithm  on the concordance probability. These applications are successfully illustrated by two real examples from the insurance sector. The first one focuses on feature selection based on the concordance probability using a binary  particle swarm optimization . In the second application, we use a  genetic algorithm  to optimize a loss function based on the concordance probability. Since both of these applications require evaluating the concordance probability a very high number of times, a huge decrease in computation time is obtained using our fast algorithm. Moreover, it is shown that the  neural network  optimized for the concordance probability with the genetic algorithm outperforms the traditional benchmark methodology, i.e. a classical  neural network  optimized for the deviance. The applicability of our fast algorithm extends beyond these illustrations and unlocks various new uses of the thresholded and weighted concordance probability.",
+    "citation_count": "0",
+    "year": "2023/04/01",
+    "authors": [
+        {
+            "name": "Jolien Ponnet",
+            "country": ""
+        },
+        {
+            "name": "Jakob Raymaekers",
+            "country": ""
+        },
+        {
+            "name": "Tim Verdonck",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

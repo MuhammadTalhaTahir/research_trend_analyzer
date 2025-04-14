@@ -1,0 +1,35 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-018-1106-z",
+    "title": "Fine-grained Trust-based Routing Algorithm for Wireless Sensor Networks",
+    "abstract": "The trust routing protocol is an important way to solve the security of wireless sensor networks. In previous work, nodes’ trust evaluation granularity is coarse, and routing trust evaluation model is relatively insufficient. In this paper, we propose a high-reliability trust evaluation model for secure routing based on combination inside states of a node with outside interaction behaviors between nodes. Firstly, we leverage a Markov chain prediction model with inside four states to assess trust degree of a routing node. The abnormal node could be found through changes of node power, traffic, response time and network delay. However, a compromised routing node self can change its inside states, so we explore the interaction behaviors between nodes to find abnormal nodes and use an improved Bayesian model to calculate the trust degree of nodes. Finally, this paper proposes a novel trust routing working principle based on a fine-grained trust model. NS2 (Network Simulator version 2) results show that our routing trust evaluation scheme can effectively identify the abnormal and malicious nodes, and reduce the harm caused by malicious nodes to wireless sensor networks.",
+    "citation_count": 36,
+    "year": "2021/12",
+    "authors": [
+        {
+            "name": "Gong, Liangyi",
+            "country": "China"
+        },
+        {
+            "name": "Wang, Chundong",
+            "country": "China"
+        },
+        {
+            "name": "Yang, Hong",
+            "country": "China"
+        },
+        {
+            "name": "Li, Zhiyuan",
+            "country": "China"
+        },
+        {
+            "name": "Zhao, Zhentang",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

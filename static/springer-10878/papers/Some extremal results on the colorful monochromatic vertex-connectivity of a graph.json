@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-018-0258-x",
+    "title": "Some extremal results on the colorful monochromatic vertex-connectivity of a graph",
+    "abstract": "A path in a vertex-colored graph is called a vertex-monochromatic path if its internal vertices have the same color. A vertex-coloring of a graph is a monochromatic vertex-connection coloring (MVC-coloring for short), if there is a vertex-monochromatic path joining any two vertices in the graph. For a connected graph G, the monochromatic vertex-connection number, denoted by mvc(G), is defined to be the maximum number of colors used in an MVC-coloring of G. These concepts of vertex-version are natural generalizations of the colorful monochromatic connectivity of edge-version, introduced by Caro and Yuster (Discrete Math 311:1786–1792, 2011). In this paper, we mainly investigate the Erdős–Gallai-type problems for the monochromatic vertex-connection number mvc(G) and completely determine the exact value. Moreover, the Nordhaus–Gaddum-type inequality for mvc(G) is also given.",
+    "citation_count": 23,
+    "year": "2018/05",
+    "authors": [
+        {
+            "name": "Cai, Qingqiong",
+            "country": "China"
+        },
+        {
+            "name": "Li, Xueliang",
+            "country": "China"
+        },
+        {
+            "name": "Wu, Di",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

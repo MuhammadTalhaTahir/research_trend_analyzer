@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-007-0070-1",
+    "title": "Understanding people motion in video sequences using Voronoi diagrams",
+    "abstract": "This work describes a model for understanding people motion in video sequences using Voronoi diagrams, focusing on group detection and classification. We use the position of each individual as a site for the Voronoi diagram at each frame, and determine the temporal evolution of some sociological and psychological parameters, such as distance to neighbors and personal spaces. These parameters are used to compute individual characteristics (such as perceived personal space and comfort levels), that are analyzed to detect the formation of groups and their classification as voluntary or involuntary. Experimental results based on videos obtained from real life as well as from a crowd simulator were analyzed and discussed.",
+    "citation_count": 33,
+    "year": "2007/10",
+    "authors": [
+        {
+            "name": "Jacques, Julio Cezar Silveira",
+            "country": "Brazil"
+        },
+        {
+            "name": "Braun, Adriana",
+            "country": "Brazil"
+        },
+        {
+            "name": "Soldera, John",
+            "country": "Brazil"
+        },
+        {
+            "name": "Musse, Soraia Raupp",
+            "country": "Brazil"
+        },
+        {
+            "name": "Jung, Cláudio Rosito",
+            "country": "Brazil"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

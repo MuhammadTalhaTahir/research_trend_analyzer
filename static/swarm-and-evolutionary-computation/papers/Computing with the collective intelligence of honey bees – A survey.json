@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S221065021630027X",
+    "title": "Computing with the collective intelligence of honey bees – A survey",
+    "abstract": "Over past few decades, families of algorithms based on the intelligent group behaviors of social creatures like ants, birds, fishes, and bacteria have been extensively studied and applied for computer-aided optimization. Recently there has been a surge of interest in developing algorithms for search, optimization, and communication by simulating different aspects of the social life of a very well-known creature: the  honey bee . Several articles reporting the success of the heuristics based on  swarming , mating, and  foraging behaviors  of the honey bees are being published on a  regular basis . In this paper we provide a brief but comprehensive survey of the entire horizon of research so far undertaken on the algorithms inspired by the honey bees. Starting with the biological perspectives and motivations, we outline the major bees-inspired algorithms, their prospects in the respective problem domains and their similarities and dissimilarities with the other  swarm intelligence algorithms . We also provide an account of the  engineering applications  of these algorithms. Finally we identify some  open research  issues and promising  application areas  for the bees-inspired computing techniques.",
+    "citation_count": "114",
+    "year": "2017/02/01",
+    "authors": [
+        {
+            "name": "Anguluri Rajasekhar",
+            "country": ""
+        },
+        {
+            "name": "Nandar Lynn",
+            "country": ""
+        },
+        {
+            "name": "Swagatam Das",
+            "country": ""
+        },
+        {
+            "name": "P.N. Suganthan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

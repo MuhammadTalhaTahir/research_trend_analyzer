@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S138376210800088X",
+    "title": "A recursive method for synthesizing quantum/reversible quaternary parallel adder/subtractor with look-ahead carry",
+    "abstract": "Multiple-valued  quantum logic  circuits are a promising choice for future  quantum computing  technology since they have several advantages over binary quantum logic circuits. Adder/subtractor is the major component of the ALU of a computer and is also used in quantum oracles. In this paper, we propose a recursive method of hand synthesis of reversible quaternary full-adder circuit using macro-level quaternary controlled gates built on the top of ion-trap realizable 1-qudit  quantum gates  and 2-qudit Muthukrishnan–Stroud quantum gates. Based on this quaternary full-adder circuit we propose a reversible circuit realizing quaternary parallel adder/subtractor with look-ahead carry. We also show the way of adapting the quaternary parallel adder/subtractor circuit to an encoded binary parallel adder/subtractor circuit by grouping two  qubits  together into quaternary qudit values.",
+    "citation_count": "29",
+    "year": "2008/12/01",
+    "authors": [
+        {
+            "name": "Mozammel H.A. Khan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

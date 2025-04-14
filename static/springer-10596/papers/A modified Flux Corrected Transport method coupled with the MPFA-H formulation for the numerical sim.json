@@ -1,0 +1,44 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-024-10306-w",
+    "title": "A modified Flux Corrected Transport method coupled with the MPFA-H formulation for the numerical simulation of two-phase flows in petroleum reservoirs using 2D unstructured meshes",
+    "abstract": "The numerical simulation of multiphase and multicomponent flows in oil reservoirs is a significant challenge, demanding robust and computationally efficient numerical formulations. Particularly, scenarios with high mobility ratios between injected and resident fluids can lead to Grid Orientation Effects (GOE), where numerical solutions strongly depend on the alignment between flow and computational grid and mobility ratio. This phenomenon relates to an anisotropic distribution in truncation error tied to the numerical approximation of the transport term. Although the oil industry commonly uses linear Two Point Flux Approximation (TPFA) for diffusive fluxes and the First Order Upwind (FOU) method for advective fluxes, both lack rotational invariance and TPFA struggles with non-k-orthogonal grids. This paper proposes a comprehensive cell-centered finite-volume formulation to simulate reservoir oil-water displacements, integrating the classical IMPES (Implicit Pressure Explicit Saturation) segregate approach with unstructured, non-k-orthogonal meshes. Diffusive flux discretization employs a Multipoint Flux Approximation with Harmonic Points (MPFA-H), capable of handling heterogeneous and strongly anisotropic media. A modified second-order Flux Corrected Transport (FCT) approach curbs artificial numerical diffusion for transport term discretization. Additionally, we incorporate a Flow-Oriented Scheme (FOS) for computing low-order and high-order approximations of the numerical fluxes to enhance multidimensional approximation and reduce GOE. The proposed strategy is validated through benchmark problems, yielding precise outcomes with reduced numerical diffusion and GOE effects, underscoring its efficiency for complex reservoir flow simulations.",
+    "citation_count": 53,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "da Silva, Phillipe C. G.",
+            "country": "Brazil"
+        },
+        {
+            "name": "Pacheco, Gustavo L. S. S.",
+            "country": "Brazil"
+        },
+        {
+            "name": "Albuquerque, Pedro V. P.",
+            "country": "Brazil"
+        },
+        {
+            "name": "Souza, Márcio R. A.",
+            "country": "Brazil"
+        },
+        {
+            "name": "Contreras, Fernando R. L.",
+            "country": "Brazil"
+        },
+        {
+            "name": "Lyra, Paulo R. M.",
+            "country": "Brazil"
+        },
+        {
+            "name": "Carvalho, Darlan K. E.",
+            "country": "Brazil"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

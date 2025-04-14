@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001187",
+    "title": "Blockchain-enabled multi-authorization and multi-cloud attribute-based keyword search over encrypted data in the cloud",
+    "abstract": "With the arrival of the 5G era, fast and secure data sharing is attracting increased attention. Among of the presented solutions,  keyword search  plays an important role since it can identify users and search  ciphertext  without decryption. However, the existing searchable algorithms have many limitations, such as powerful central authority, match processes being only carried out on the cloud server, and center corruption and  single point of failure  being easy to cause. Presently, the fairness of the keyword search is still a challenge. To solve these problems, we present a multi-authority and multi-cloud keyword search scheme based on the  consortium blockchain  and attribute-based encryption. Under this framework, multi-cloud block storage technique is used to address the unreliability of cloud servers, where at least two ciphertext files are stored in blocks on multiple cloud servers. It can resist malicious leaks, ciphertext tampering, and deletion of ciphertext by cloud servers.  Blockchain  allows the proposed scheme to achieve the integrity and correctness of the  encrypted data , which also solves the fairness of search results. Furthermore, the scheme realizes privacy protection by hiding the keyword and the access policy in the trapdoor  matching process . Finally, the security analyses and performance comparisons show the advantages of the proposed scheme over the existing work.",
+    "citation_count": "20",
+    "year": "2022/08/01",
+    "authors": [
+        {
+            "name": "Qing Wu",
+            "country": ""
+        },
+        {
+            "name": "Taotao Lai",
+            "country": ""
+        },
+        {
+            "name": "Leyou Zhang",
+            "country": ""
+        },
+        {
+            "name": "Yi Mu",
+            "country": ""
+        },
+        {
+            "name": "Fatemeh Rezaeibagha",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

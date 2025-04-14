@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885615001146",
+    "title": "Boosting Fisher vector based scoring functions for person re-identification",
+    "abstract": "In recent years, much effort has been put into the development of novel algorithms to solve the person re-identification problem. The goal is to match a given person's image against a gallery of people. In this paper, we propose a single-shot supervised method to compute a scoring function that, when applied to a pair of images, provides a score expressing the likelihood that they depict the same individual. The method is characterized by: (i) the usage of a set of local image descriptors based on  Fisher vectors , (ii) the training of a pool of scoring functions based on the  local descriptors , and (iii) the construction of a strong scoring function by means of an  adaptive boosting  procedure. The method has been tested on four data-sets and results have been compared with state-of-the-art methods clearly showing superior performance.",
+    "citation_count": "11",
+    "year": "2015/12/01",
+    "authors": [
+        {
+            "name": "Stefano Messelodi",
+            "country": ""
+        },
+        {
+            "name": "Carla Maria Modena",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

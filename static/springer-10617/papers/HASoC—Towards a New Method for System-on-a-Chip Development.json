@@ -1,0 +1,26 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1016599225218",
+    "title": "HASoC—Towards a New Method for System-on-a-Chip Development",
+    "abstract": "We present a novel method (HASoC) for developing embedded systems that are targeted at system-on-a-chip implementations. The object-oriented development method is based on the experiences of using our existing MOOSE technique and supports a lifecycle that explicitly separates the behavior of a system from its implementation technology. The design process, whichuses a notation based on extensions to UML-RT, begins with the incremental development and validation of an abstract executable model of a system. Subsequently, this model is partitioned into hardware and software sub-systems to create a committed model, which is mapped onto a system platform that defines the implementation environment. The methodology emphasizes the reuse of pre-existing hardware and software platforms to ease the development process. A partial example application is presented in order to illustrate the main concepts in our methodology.",
+    "citation_count": 31,
+    "year": "2002/07",
+    "authors": [
+        {
+            "name": "Green, Peter",
+            "country": "United Kingdom"
+        },
+        {
+            "name": "Edwards, Martyn",
+            "country": "United Kingdom"
+        },
+        {
+            "name": "Essa, Salah",
+            "country": "United Kingdom"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

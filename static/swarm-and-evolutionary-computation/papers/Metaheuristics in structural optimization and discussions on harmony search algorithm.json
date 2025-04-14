@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650216000158",
+    "title": "Metaheuristics in structural optimization and discussions on harmony search algorithm",
+    "abstract": "Metaheuristic algorithms  have provided efficient tools to engineering designers by which it became possible to determine the optimum solutions of engineering design  optimization problems  encountered in every day practice. Generally  metaheuristics  are based on metaphors that are taken from nature or some other processes. Because of their success of providing solutions to complex engineering design optimization problems the recent literature has flourished with a large number of new metaheuristics based on a variety of metaphors. Despite the fact that most of these techniques have numerically proven themselves as reliable and strong tools for solutions of design optimization problems in many different disciplines, some argue against these methods on account of not having mathematical background and making use of irrelevant and odd metaphors. However, so long as these efforts bring about computationally efficient and robust optimum structural tools for designers what type of metaphors they are based on becomes insignificant. After a brief historical review of structural optimization this article opens this issue up for discussion of the readers and attempts to answer some of the criticisms asserted in some recent publications related with the novelty of metaheuristics.",
+    "citation_count": "142",
+    "year": "2016/06/01",
+    "authors": [
+        {
+            "name": "M.P. Saka",
+            "country": ""
+        },
+        {
+            "name": "O. Hasançebi",
+            "country": ""
+        },
+        {
+            "name": "Z.W. Geem",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

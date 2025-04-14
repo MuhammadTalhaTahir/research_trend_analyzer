@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218307533",
+    "title": "Self-adaptive differential artificial bee colony algorithm for global optimization problems",
+    "abstract": "Artificial bee colony algorithm (ABC) has attracted wide attention in the recent decade. Although ABC algorithms can achieve good performance on separable problems by optimizing each variable independently, their performances on complex non-separable problems are still unsatisfactory. In this paper, through incorporating multiple differential search strategies and a self-adaptive mechanism into the framework of ABC, we propose a new ABC algorithm, called self-adaptive differential artificial bee colony (sdABC) algorithm. By means of differential search strategies, more variables will be updated each time based on the combination of mutation and crossover. Thus, sdABC has much enhanced ability for solving complex non-separable problems. Our proposed sdABC algorithm is evaluated on 28 benchmarks functions, including both common separable problems and complex non-separable CEC2015 functions. The experimental results show that sdABC can achieve much more desirable performances than the previous ABC algorithms on both separable and non-separable functions, and is also very competitive compared with well-established differential evolution and other meta-heuristic algorithms.",
+    "citation_count": "79",
+    "year": "2019/03/01",
+    "authors": [
+        {
+            "name": "Xu Chen",
+            "country": ""
+        },
+        {
+            "name": "Huaglory Tianfield",
+            "country": ""
+        },
+        {
+            "name": "Kangji Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

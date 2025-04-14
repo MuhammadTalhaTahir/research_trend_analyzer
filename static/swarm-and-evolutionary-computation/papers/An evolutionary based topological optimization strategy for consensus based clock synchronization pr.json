@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650215000164",
+    "title": "An evolutionary based topological optimization strategy for consensus based clock synchronization protocols in wireless sensor network",
+    "abstract": "Recently, Consensus based  Clock Synchronization  (CCS) algorithms have gained much attention in  wireless sensor networks  due to its simplicity, distributed nature and robustness. But, most of the algorithms are “all node based”, i.e., every node iterates the  consensus algorithm  to reach the synchronized state. This increases the overall message complexity, imposes congestion and delay in the network and high consumption of energy. In an energy constraint environment, it is desirable that a subset of sensors along with a limited number of neighboring sensors should be selected a priori such that the message complexity will be minimized and energy can be saved. Further, the selection of “subset” sensors must ensure connectivity for consensus propagation to achieve network wide synchronization and the neighboring sensors must be assigned in such a way that the delay must be minimized and balanced for faster consensus convergence. The overall problem is formulated as a Connected Dominating Set based Delay Balanced Topology (CDSDBT) problem and is shown to be NP-complete. To make the problem tractable, a Random Weighted  Genetic Algorithm  (RWGA) based strategy is proposed to handle the trade-off between the objective functions and to select the  Pareto optimal solution  (topology). Simulation results show that using the proposed strategy, the performance of some state-of-the-art CCS protocols have been improved significantly over their “all node based” counterpart. A comparative analysis is also carried out with recent and state-of-the-art GA based Minimum Connected Dominating Set (GAMCDS) strategy and GA based  Load Balanced  Connected Dominating Set (GALBCDS) strategy for the test CCS protocols which are used as topological backbone for other protocols and applications.",
+    "citation_count": "12",
+    "year": "2015/06/01",
+    "authors": [
+        {
+            "name": "Niranjan Panigrahi",
+            "country": ""
+        },
+        {
+            "name": "Pabitra Mohan Khilar",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

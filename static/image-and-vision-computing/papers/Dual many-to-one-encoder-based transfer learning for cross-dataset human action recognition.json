@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885616000020",
+    "title": "Dual many-to-one-encoder-based transfer learning for cross-dataset human action recognition",
+    "abstract": "The emergence of large-scale human action datasets poses a challenge to efficient action labeling. Hand labeling large-scale datasets is tedious and time consuming; thus a more efficient labeling method would be beneficial. One possible solution is to make use of the knowledge of a known dataset to aid the labeling of a new dataset. To this end, we propose a new  transfer learning  method for cross-dataset  human action recognition . Our method aims at learning generalized feature representation for effective cross-dataset classification. We propose a novel dual many-to-one encoder architecture to extract generalized features by mapping raw features from source and target datasets to the same  feature space . Benefiting from the favorable property of the proposed many-to-one encoder, cross-dataset action data are encouraged to possess identical encoded features if the actions share the same class labels. Experiments on pairs of benchmark human action datasets achieved state-of-the-art accuracy, proving the efficacy of the proposed method.",
+    "citation_count": "32",
+    "year": "2016/11/01",
+    "authors": [
+        {
+            "name": "Tiantian Xu",
+            "country": ""
+        },
+        {
+            "name": "Fan Zhu",
+            "country": ""
+        },
+        {
+            "name": "Edward K. Wong",
+            "country": ""
+        },
+        {
+            "name": "Yi Fang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

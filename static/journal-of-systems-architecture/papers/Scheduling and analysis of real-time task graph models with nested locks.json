@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762120302150",
+    "title": "Scheduling and analysis of real-time task graph models with nested locks",
+    "abstract": "Locking protocol is a crucial component in scheduling of real-time systems. The  digraph  real-time task model (DRT) is the state-of-the-art graph-based task model, which is a generalization of most previous real-time task models. To our best knowledge, the only work addressing resource sharing problem in DRT task model proposes a resource sharing protocol, called ACP, as well as a scheduling strategy EDF+ACP. Although EDF+ACP is optimal for scheduling DRT tasks with non-nested resource access, it cannot handle the situation of nested resource accesses. In this paper, we propose a new protocol, called N-ACP, by modifying ACP to manage nested resource accesses in task graph models. We apply N-ACP to EDF scheduling to obtain a new scheduling strategy EDF+N-ACP. We develop  schedulability analysis  techniques for EDF+N-ACP and evaluate its performance by a widely-used quantitative metrics speedup factor. We derive its speedup factor as a function of the maximal nesting level of resource accesses in the system.",
+    "citation_count": "0",
+    "year": "2021/03/01",
+    "authors": [
+        {
+            "name": "He Du",
+            "country": ""
+        },
+        {
+            "name": "Xu Jiang",
+            "country": ""
+        },
+        {
+            "name": "Mingsong Lv",
+            "country": ""
+        },
+        {
+            "name": "Tao Yang",
+            "country": ""
+        },
+        {
+            "name": "Wang Yi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

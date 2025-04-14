@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885620301281",
+    "title": "Generalizable deep features for ocular biometrics",
+    "abstract": "There has been a continued interest in  learning features  that are generalizable across sensors and spectra for ocular  biometrics . This is usually facilitated through a model that can learn features that are robust across pose,  lighting conditions , spectra, and device sensor variations. In this paper, we propose an efficient deep learning-based feature extraction pipeline for learning the aforementioned generalizable features for ocular recognition. The proposed pipeline uses a relatively small  Convolutional Neural Network  (CNN) based feature extraction model along with a region of interest (ROI) detector and data augmenter. Our proposed  CNN model  has 36 times fewer parameters compared to the popular ResNet-50. Cross dataset experiments on five benchmark datasets suggest that the proposed feature extraction model, trained only on 200 subjects from the VISOB dataset, reduces the error rate up to 7   × when compared to the existing models.",
+    "citation_count": "23",
+    "year": "2020/11/01",
+    "authors": [
+        {
+            "name": "Narsi Reddy",
+            "country": ""
+        },
+        {
+            "name": "Ajita Rattani",
+            "country": ""
+        },
+        {
+            "name": "Reza Derakhshani",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

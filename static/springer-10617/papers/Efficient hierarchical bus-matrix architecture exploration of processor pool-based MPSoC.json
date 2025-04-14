@@ -1,0 +1,26 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10617-013-9110-9",
+    "title": "Efficient hierarchical bus-matrix architecture exploration of processor pool-based MPSoC",
+    "abstract": "Multiprocessor System-on-Chip (MPSoC) systems are evolving towards a processor pool-based architecture that employs hierarchical on-chip networks for inter- and intra-processor pool communication. Since the design space of processor pool-based MPSoCs is extremely wide, the application-specific optimization of on-chip communication architecture is a nontrivial task. This paper presents a systematic methodology for a cascaded bus matrix-based on-chip network design for processor pool-based MPSoCs. Our approach finds sub-optimal architectures in terms of energy consumption and on-chip area while satisfying given performance constraints. The proposed approach allows for independent configurations of processor pools, which leads to better solutions than seen in previous work. Since a simulation is too time-consuming to evaluate the performance of complex on-chip networks, we propose to prune the designs space efficiently by two static analysis techniques to minimize the use of simulations. Thanks to the static analysis techniques, our approach achieves an order of magnitude speed improvement for architecture exploration without performance loss, compared with simulation-based approaches.",
+    "citation_count": 34,
+    "year": "2012/11",
+    "authors": [
+        {
+            "name": "Joo, Young-Pyo",
+            "country": "Korea"
+        },
+        {
+            "name": "Kim, Sungchan",
+            "country": "Korea"
+        },
+        {
+            "name": "Ha, Soonhoi",
+            "country": "Korea"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

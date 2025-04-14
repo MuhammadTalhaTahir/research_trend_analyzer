@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-012-9462-2",
+    "title": "Finding paths with minimum shared edges",
+    "abstract": "Motivated by a security problem in geographic information systems, we study the following graph theoretical problem: given a graph G, two special nodes s and t in G, and a number k, find k paths from s to t in G so as to minimize the number of edges shared among the paths. This is a generalization of the well-known disjoint paths problem. While disjoint paths can be computed efficiently, we show that finding paths with minimum shared edges is NP-hard. Moreover, we show that it is even hard to approximate the minimum number of shared edges within a factor of $2^{\\log^{1-\\varepsilon}n}$ , for any constant ε&gt;0. On the positive side, we show that there exists a (k−1)-approximation algorithm for the problem, using an adaption of a network flow algorithm. We design some heuristics to improve the quality of the output, and provide empirical results.",
+    "citation_count": 17,
+    "year": "2013/11",
+    "authors": [
+        {
+            "name": "Omran, Masoud T.",
+            "country": "Canada"
+        },
+        {
+            "name": "Sack, Jörg-Rüdiger",
+            "country": "Canada"
+        },
+        {
+            "name": "Zarrabi-Zadeh, Hamid",
+            "country": "Iran"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

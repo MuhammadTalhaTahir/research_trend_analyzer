@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650225000872",
+    "title": "Adaptive knowledge-based multi-objective evolutionary algorithm for hybrid flow shop scheduling problems with multiple parallel batch processing stages",
+    "abstract": "Parallel batch processing machines have extensive applications in the semiconductor manufacturing process. However, the problem models in previous studies regard parallel batch processing as a fixed processing stage in the machining process. This study generalizes the problem model, in which users can arbitrarily set certain stages as parallel batch processing stages according to their needs. A Hybrid Flow Shop Scheduling Problem with Parallel Batch Processing Machines (PBHFSP) is solved in this paper. Furthermore, an Adaptive Knowledge-based Multi-Objective Evolutionary Algorithm (AMOEA/D) is designed to simultaneously optimize both makespan and Total Energy Consumption (TEC). Firstly, a hybrid initialization strategy with heuristic rules based on knowledge of PBHFSP is proposed to generate promising solutions. Secondly, the disjunctive graph model has been established based on the knowledge to find the critical-path of PBHFS. Then, a critical-path based neighborhood search is proposed to enhance the exploitation ability of AMOEA/D. Moreover, the search time is adaptively adjusted based on learning experience from Q-learning and Decay Law. Afterward, to enhance the exploration capability of the algorithm, AMOEA/D designs an improved population updating strategy with a weight vector updating strategy. These strategies rematch individuals with weight vectors, thereby maintaining the diversity of the population. Finally, the proposed algorithm is compared with state-of-the-art algorithms. The experimental results show that the AMOEA/D is superior to the comparison algorithms in solving the PBHFSP.",
+    "citation_count": "0",
+    "year": "2025/06/01",
+    "authors": [
+        {
+            "name": "Feige Liu",
+            "country": ""
+        },
+        {
+            "name": "Xin Li",
+            "country": ""
+        },
+        {
+            "name": "Chao Lu",
+            "country": ""
+        },
+        {
+            "name": "Wenyin Gong",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

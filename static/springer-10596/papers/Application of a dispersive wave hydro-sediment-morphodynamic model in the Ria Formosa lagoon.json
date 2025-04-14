@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-024-10305-x",
+    "title": "Application of a dispersive wave hydro-sediment-morphodynamic model in the Ria Formosa lagoon",
+    "abstract": "Results of an application of a dispersive wave hydro-sediment-morphodynamic model in the western circulation cell of the Ria Formosa lagoon located in the Algarve region of the southern Portugal are presented. This area of interest has a couple of features that complicate the application of the dispersive wave model: (1) the area has a complex irregular geometry with a number of barrier islands that separate the lagoon from the Atlantic Ocean, artificial and naturally occurring tidal inlets, and a number of curling channels inside the lagoon that interconnect the inlets and serve as waterways between the lagoon settlements; (2) the tidal range in the area can reach up to 3.5 m; therefore, the terrain inside the lagoon is characterized by vast salt marshes and tidal flats, and the wetting-drying process is a key component of any hydrodynamic simulation in this area. A model representation of the area has been developed by generating an unstructured finite element mesh of the circulation cell, and collecting data on parameters that characterize the tidal waves in the area, and bottom friction and sediment transport models used in the simulations. The results of the simulations indicate that the dispersive wave model can be applied in coastal areas with nontrivial underlying physical processes, and complex irregular geometries. Moreover, the dispersive term of the model is capable of capturing additional flow characteristics that are otherwise not present in hydrodynamic simulations that involve the nonlinear shallow water equations; and these additional flow features can, in their turn, affect the resulting sediment transport and bed morphodynamic process simulations.",
+    "citation_count": 44,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "Kazhyken, Kazbek",
+            "country": "USA"
+        },
+        {
+            "name": "Valseth, Eirik",
+            "country": "USA"
+        },
+        {
+            "name": "Videman, Juha",
+            "country": "Norway"
+        },
+        {
+            "name": "Dawson, Clint",
+            "country": "Norway"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

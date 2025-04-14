@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S221065021630298X",
+    "title": "Multi-objective genetic algorithm with variable neighbourhood search for the electoral redistricting problem",
+    "abstract": "In a political redistricting problem, the aim is to partition a  territory  into electoral districts or clusters, subject to some constraints. The most common of these constraints include contiguity, population equality, and compactness. We propose an algorithm to address this problem based on multi-objective optimization. The hybrid algorithm we propose combines the use of the well-known Pareto-based NSGA-II technique with a novel  variable neighbourhood search  strategy. A new ad-hoc  initialization method  is also proposed. Finally, new specific  genetic  operators that ensure the compliance of the contiguity constraint are introduced. The experimental results we present, which are performed considering five US states, clearly show the appropriateness of the proposed hybrid algorithm for the redistricting problem. We give evidence of the fact that our method produces better and more reliable solutions with respect to those returned by the state-of-the-art methods.",
+    "citation_count": "35",
+    "year": "2017/10/01",
+    "authors": [
+        {
+            "name": "Leonardo Vanneschi",
+            "country": ""
+        },
+        {
+            "name": "Roberto Henriques",
+            "country": ""
+        },
+        {
+            "name": "Mauro Castelli",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

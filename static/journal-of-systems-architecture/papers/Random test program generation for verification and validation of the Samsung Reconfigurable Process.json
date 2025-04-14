@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762118306209",
+    "title": "Random test program generation for verification and validation of the Samsung Reconfigurable Processor",
+    "abstract": "This paper describes a framework to verify the functional correctness of the Samsung Reconfigurable Processor, a dual-mode very-long instruction word (VLIW) and coarse-grained reconfigurable array (CGRA) processor integrated in smartphones, cameras, printers, and SmartTVs. Reflecting the reconfigurable nature of the processor, the test generator constructs an  architectural model  directly from the processor’s high-level hardware description files. Test programs are specified in a custom Constraint Specification Language that allows full coverage tests as well as verification of corner cases. Operations and operands are mapped to the heterogeneous processing elements of the CGRA using a guided place-and-routing algorithm. Requiring no explicit knowledge about the semantics of operations, the presented framework seamlessly supports custom ISA extensions. Experiments demonstrate that the framework is versatile, efficient, and quickly achieves a high coverage. In addition to detecting all randomly inserted faults, the generated test programs also exposed two yet unknown actual faults in the architecture.",
+    "citation_count": "2",
+    "year": "2019/08/01",
+    "authors": [
+        {
+            "name": "Bernhard Egger",
+            "country": ""
+        },
+        {
+            "name": "Eunjin Song",
+            "country": ""
+        },
+        {
+            "name": "Hochan Lee",
+            "country": ""
+        },
+        {
+            "name": "Daeyong Shin",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

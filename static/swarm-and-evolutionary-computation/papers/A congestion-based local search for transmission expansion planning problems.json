@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223001955",
+    "title": "A congestion-based local search for transmission expansion planning problems",
+    "abstract": "Transmission Expansion Planning (TEP) is a challenging task that takes into consideration future representations of electricity consumption behavior and generation capacity/technology. Besides, the investment in new transmission assets is a capital-intensive task, which motivates a clear and well-justified decision-making process. As the most frequent industry practice relies on cost–benefit analysis with the evaluation of individual reinforcements, Metaheuristic Algorithms (MAs) are the most suitable techniques to evaluate candidate projects efficiently. Likewise, the intrinsic features of the problem can be incorporated into these methods taking advantage of the stochastic knowledge, to build more efficient heuristics instead of considering the solver just as a black box. In this way, this paper proposes a congestion-based local search to improve the performance of metaheuristics when solving the TEP problem. The novelty of the method lies in the utilization of the congestion level of the transmission assets to guide the search procedure. Further, this work also presents an up-to-date comparison between five MAs in solving the TEP problem. The experimental experience is conducted using the mentioned MAs in different test systems, and the results confirm that the novel approach is successful in improving the performance of the solution technique while obtaining better solutions in all test cases.",
+    "citation_count": "0",
+    "year": "2023/12/01",
+    "authors": [
+        {
+            "name": "Phillipe Vilaça",
+            "country": ""
+        },
+        {
+            "name": "Luiz Oliveira",
+            "country": ""
+        },
+        {
+            "name": "João Saraiva",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

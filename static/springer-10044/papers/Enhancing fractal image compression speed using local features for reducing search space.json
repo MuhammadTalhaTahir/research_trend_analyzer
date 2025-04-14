@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-016-0551-1",
+    "title": "Enhancing fractal image compression speed using local features for reducing search space",
+    "abstract": "The encoding step in full-search fractal image compression is time intensive because a sequential search through a massive domain pool has to be executed to find the best-matched domain for every range block. To afford a fair encoding time, immaterial domain–range block comparisons should be prevented. In this paper, a new local binary feature resemble to local binary patterns method is introduced. This single local feature is robust to noise and can exploit the general structure of the block. Concerning similarity between range–domain blocks, a criterion is allocated dynamically by measuring the pixel diversity among the range block pixels. To avoid redundant calculations, the distance of the general pattern is assessed by the Hamming distance utilizing a pre-computed table. Experimental results show that the presented approach can make FIC a lot faster as opposed to the full-search method and outperform some other identical methods while preserving the quality of the decoded images. Indeed, the proposed method can be utilized inside identical applications that want a specific block size or blocks comparing.",
+    "citation_count": 30,
+    "year": "2017/11",
+    "authors": [
+        {
+            "name": "Jaferzadeh, Keyvan",
+            "country": "South Korea"
+        },
+        {
+            "name": "Moon, Inkyu",
+            "country": "South Korea"
+        },
+        {
+            "name": "Gholami, Samaneh",
+            "country": "South Korea"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

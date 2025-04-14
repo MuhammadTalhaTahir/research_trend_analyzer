@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S138376212200114X",
+    "title": "Feature pyramid-based graph convolutional neural network for graph classification",
+    "abstract": "As an important task of  Graph Neural Networks  (GNN), graph classification has received increasing attention, as it can be widely used in numerous fields, such as protein prediction and community prediction. The  GNN models  for graph classification usually require aggregating the structure and feature information of an input graph into a hidden  representation vector . Such a technique can be generally referred as graph pooling, which intends to maximize the removal of noise while minimize the loss of important features. Therefore, there exists a trade-off between the noise reduction and information maximization that needs to be balanced for better performance. However, the existing pooling-based GNNs for graph classification depends on the manual setting of the graph-pooling degree, making it difficult to balance the trade-off. To this end, we propose a Feature Pyramid-based  Graph Convolutional Neural network  for Graph Classification (FPGCN-GC), which constructs multi-scale hierarchical information fusion to reduce information loss, and achieves an adaptive  feature fusion  through a learnable weighted residual connection and self-attention mechanism. The superior performance of the proposed method is verified on multiple graph classification datasets, thus illustrating the effectiveness and superiority of FPGCN-GC. In addition, we visualize FPGCN-GC by T-SNE to further analyze the underlying reason for its effectiveness.",
+    "citation_count": "10",
+    "year": "2022/07/01",
+    "authors": [
+        {
+            "name": "Mingming Lu",
+            "country": ""
+        },
+        {
+            "name": "Zhixiang Xiao",
+            "country": ""
+        },
+        {
+            "name": "Haifeng Li",
+            "country": ""
+        },
+        {
+            "name": "Ya Zhang",
+            "country": ""
+        },
+        {
+            "name": "Neal N. Xiong",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885614001462",
+    "title": "A local approach for 3D object recognition through a set of size functions",
+    "abstract": "In this paper, a local approach for 3 D  object recognition is presented. It is based on the topological invariants provided by the  critical points  of the 3 D  object. The  critical points  and the links between them are represented by a set of size functions obtained after splitting the 3 D  object into portions. A suitable similarity measure is used to compare the sets of size functions associated with the 3 D  objects. In order to validate our approach's recognition performance, we used different collections of 3 D  objects. The obtained scores are favourably comparable to the related work.",
+    "citation_count": "7",
+    "year": "2014/12/01",
+    "authors": [
+        {
+            "name": "Mohammed Ayoub Alaoui Mhamdi",
+            "country": ""
+        },
+        {
+            "name": "Djemel Ziou",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

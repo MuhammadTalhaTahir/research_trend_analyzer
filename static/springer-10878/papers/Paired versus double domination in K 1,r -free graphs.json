@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-012-9547-y",
+    "title": "Paired versus double domination in K 1,r -free graphs",
+    "abstract": "A vertex in G is said to dominate itself and its neighbors. A subset S of vertices is a dominating set if S dominates every vertex of G. A paired-dominating set is a dominating set whose induced subgraph contains a perfect matching. The paired-domination number of a graph G, denoted by γ pr(G), is the minimum cardinality of a paired-dominating set in G. A subset S⊆V(G) is a double dominating set of G if S dominates every vertex of G at least twice. The minimum cardinality of a double dominating set of G is the double domination number γ ×2(G). A claw-free graph is a graph that does not contain K 1,3 as an induced subgraph. Chellali and Haynes (Util. Math. 67:161–171, 2005) showed that for every claw-free graph G, we have γ pr(G)≤γ ×2(G). In this paper we extend this result by showing that for r≥2, if G is a connected graph that does not contain K 1,r as an induced subgraph, then $\\gamma_{\\mathrm{pr}}(G)\\le ( \\frac{2r^{2}-6r+6}{r(r-1)} )\\gamma_{\\times2}(G)$ .",
+    "citation_count": 15,
+    "year": "2014/05",
+    "authors": [
+        {
+            "name": "Dorbec, Paul",
+            "country": "France"
+        },
+        {
+            "name": "Hartnell, Bert",
+            "country": "Canada"
+        },
+        {
+            "name": "Henning, Michael A.",
+            "country": "South Africa"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650225000483",
+    "title": "Adaptive distance-based multi-objective particle swarm optimization algorithm with simple position update",
+    "abstract": "In recent years, multi-objective particle swarm optimization algorithms have been widely used in science and engineering due to their advantages of fast convergence speed and easy implementation. However, the selection of globally optimal particle is an important and challenging problem in the design of multi-objective particle swarm optimization algorithms. In this regard, this paper proposes an adaptive distance-based multi-objective particle swarm optimization algorithm with simple position update, named ADMOPSO. First, an adaptive penalty-based boundary intersection (PBI) distance strategy is designed to select the globally optimal particle from two elite particles which are randomly chosen from an elite particle set. This strategy better balances the diversity and convergence requirements of particle swarm optimization algorithm in the optimization process. Second, a simple position probabilistic update strategy is constructed to rewrite the velocity update method with the weight and use the learning rate to control the scale of the updated velocity in the position update equation to avoid particle swarm falling into the local optimum. Finally, an extensive experimental study is conducted to test the performance of several selected multi-objective optimization algorithms on ZDT, WFG and DTLZ benchmark problems, as well as 7 real-world problems were conducted to test the proposed algorithm. Comparative experimental results show that the algorithm proposed in this paper has significant advantages over other algorithms. This shows that the ADMOPSO algorithm is competitive in dealing with multi-objective problems.",
+    "citation_count": "0",
+    "year": "2025/04/01",
+    "authors": [
+        {
+            "name": "Liangying Wang",
+            "country": ""
+        },
+        {
+            "name": "Lihuan Hong",
+            "country": ""
+        },
+        {
+            "name": "Haoxuan Fu",
+            "country": ""
+        },
+        {
+            "name": "Zhiling Cai",
+            "country": ""
+        },
+        {
+            "name": "Yiwen Zhong",
+            "country": ""
+        },
+        {
+            "name": "Lijin Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

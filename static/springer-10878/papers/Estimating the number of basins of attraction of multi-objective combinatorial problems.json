@@ -1,0 +1,21 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-018-0357-8",
+    "title": "Estimating the number of basins of attraction of multi-objective combinatorial problems",
+    "abstract": "The efficiency of local search is proportional to the number and the distribution of basins of attraction. Often combinatorial optimisation problems have a large number of local optima, uncountable with available computational resources. Approximating the number of basins of attraction and the minimal number of samples for visiting all basins at least once are complex problems for which we assume specific distributions of basins of attraction. We define two types of basins of attraction of multi-objective combinatorial optimisation problems with complementary properties. Acknowledging that each local search run generates a Pareto front of solutions, either each Pareto local solution corresponds to a basin of attraction, or a Pareto basin matches an entire Pareto local front. Simulations compare parametric and non-parametric estimators on bi-objective quadratic assignment problem instances.",
+    "citation_count": 25,
+    "year": "2019/05",
+    "authors": [
+        {
+            "name": "Drugan, Madalina M.",
+            "country": "The Netherlands"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

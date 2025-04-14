@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-012-9545-0",
+    "title": "Algorithms with limited number of preemptions for scheduling on parallel machines",
+    "abstract": "In previous study on comparing the makespan of the schedule allowed to be preempted at most i times and that of the optimal schedule with unlimited number of preemptions, the worst case ratio was usually obtained by analyzing the structures of the optimal schedules. For m identical machines case, the worst case ratio was shown to be 2m/(m+i+1) for any 0≤i≤m−1 (Braun and Schmidt in SIAM J. Comput. 32(3):671–680, 2003), and they showed that LPT algorithm is an exact algorithm which can guarantee the worst case ratio for i=0. In this paper, we propose a simpler method which is based on the design and analysis of the algorithm and finding an instance in the worst case. It can not only obtain the worst case ratio but also give a linear algorithm which can guarantee this ratio for any 0≤i≤m−1, and thus we generalize the previous results. We also make a discussion on the trade-off between the objective value and the number of preemptions. In addition, we consider the i-preemptive scheduling on two uniform machines. For both i=0 and i=1, we give two linear algorithms and present the worst-case ratios with respect to s, i.e., the ratio of the speeds of two machines.",
+    "citation_count": 14,
+    "year": "2014/05",
+    "authors": [
+        {
+            "name": "Jiang, Yiwei",
+            "country": "China"
+        },
+        {
+            "name": "Weng, Zewei",
+            "country": "China"
+        },
+        {
+            "name": "Hu, Jueliang",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

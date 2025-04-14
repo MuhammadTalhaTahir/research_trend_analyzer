@@ -1,0 +1,42 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10617-024-09288-w",
+    "title": "Deploying human activity recognition in embedded RISC-V processors",
+    "abstract": "Human Activity Recognition (HAR) is an important area of research due to its applications in health monitoring, elderly care, and personal fitness tracking. The challenge is deploying efficient and accurate HAR systems on resource-constrained and/or battery-powered embedded devices, which require low power consumption and processing efficiency. This work optimizes a Convolutional Neural Network (CNN) model for HAR, targeting resource-constrained and battery-powered processors. This CNN model uses accelerometer and gyroscope data from 6 people performing five actions, with sensor readings taken from four positions. The goal is to balance accuracy, performance, and power consumption for real-world deployment in wearable devices. Key contributions include introducing an Extended 1D CNN model that enhances temporal awareness and accuracy without the overhead of floating-point computations, evaluating and applying quantization methods to minimize model size with minimal accuracy loss, and assessing the model’s performance on a RISC-V processor. Results show an accuracy increase from 74% (baseline model) to 87.2% (optimized model). Memory optimization using Lookup Table quantization reduces the memory required for model parameters by 57% (baseline versus optimized models). This research underscores the potential for CNN models on low-power RISC-V processors in real-time HAR, with significant implications for health monitoring and smart environments.",
+    "citation_count": 62,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "Nunes, Willian Analdo",
+            "country": "Brazil"
+        },
+        {
+            "name": "Reusch, Rafael Schild",
+            "country": "Brazil"
+        },
+        {
+            "name": "Luza, Lucas",
+            "country": "Brazil"
+        },
+        {
+            "name": "Bernardon, Eduardo",
+            "country": "Brazil"
+        },
+        {
+            "name": "Dal Zotto, Angelo Elias",
+            "country": "Brazil"
+        },
+        {
+            "name": "Juracy, Leonardo Rezende",
+            "country": "Brazil"
+        },
+        {
+            "name": "Moraes, Fernando Gehm",
+            "country": "Brazil"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

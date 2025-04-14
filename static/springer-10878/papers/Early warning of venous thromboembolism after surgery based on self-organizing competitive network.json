@@ -1,0 +1,37 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-019-00504-z",
+    "title": "Early warning of venous thromboembolism after surgery based on self-organizing competitive network",
+    "abstract": "Postoperative early warning of venous thromboembolism (VTE) has long been determined by the clinical observations of the patient by the attending doctor. To further investigate preoperative and postoperative pathological VTE data, in this paper, we propose an improved self-organising competitive network (WSOM) algorithm based on the weighted selection of the initial connection. An early-warning model is established based on 14 factors before and after surgery for VTE patients. To verify its validity, the model was further tested on sample data. The results show that the prediction of VTE based on the WSOM algorithm and the 14 factors achieved high accuracy. The proposed WSOM can effectively screen explanatory variables for postoperative early warning of VTE, while also improving the accuracy of the postoperative early warning of VTE.",
+    "citation_count": 16,
+    "year": "2021/11",
+    "authors": [
+        {
+            "name": "Yin, Shi",
+            "country": "China"
+        },
+        {
+            "name": "Chang, Jian",
+            "country": "China"
+        },
+        {
+            "name": "Pan, Hailan",
+            "country": "China"
+        },
+        {
+            "name": "Mao, Haizhou",
+            "country": "China"
+        },
+        {
+            "name": "Wang, Mei",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-021-10078-7",
+    "title": "Numerical simulation for a incompressible miscible displacement problem using a reduced-order finite element method based on POD technique",
+    "abstract": "This paper presents a reduced-order finite element (ROFE) method with seldom degrees of freedom for the incompressible miscible displacement problem, where the proper orthogonal decomposition (POD) technique is used. The algorithm process for the ROFE method is provided. Some numerical experiments are presented to help us understand this method and verify the accuracy and efficiency of this method. Meanwhile, numerical results reflect the robustness of the ROFE method in the face of anisotropic and heterogeneous oil reservoir problems.",
+    "citation_count": 32,
+    "year": "2021/12",
+    "authors": [
+        {
+            "name": "Song, Junpeng",
+            "country": "China"
+        },
+        {
+            "name": "Rui, Hongxing",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

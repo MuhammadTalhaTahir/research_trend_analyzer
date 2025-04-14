@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003068",
+    "title": "Visible thermal person re-identification via multi-branch modality residual complementary learning",
+    "abstract": "Visible-thermal Person Re-identification (VT Re-ID) is a challenging task in all-weather surveillance system. Existing methods concentrate on extracting the modality-shared features, ignoring the discriminative inter-modality complementary features. To tackle this issue, we propose a multi-branch modality residual complementary learning method which consists of the modality residual complementary learning (MRCL) module and the multi-branch feature learning (MBFL) module. The MRCL module can be easily integrated into existing CNN baselines and drive the network to focus on both intra-modality and inter-modality information. On one hand, we adopt the basic two-stream network to obtain the intra-modality features, on the other hand, we capture the inter-modality complementary features within the residual image obtained by cross-modality correlation saliency erasing operation. To handle the intra-modality variations, we employ the MBFL module to capture local spatial features and local channel features, then integrate them with global features to achieve part-to-part and high-level semantic information matching. Finally, the discriminability and robustness of the ultimate representations are enhanced by multi-branch constraint loss learning. Extensive experiments on RegDB and SYSU-MM01 datasets demonstrate the superiority of our proposed method compared with state-of-the-art methods.",
+    "citation_count": "2",
+    "year": "2024/10/01",
+    "authors": [
+        {
+            "name": "Long Chen",
+            "country": ""
+        },
+        {
+            "name": "Rui Sun",
+            "country": ""
+        },
+        {
+            "name": "Yiheng Yu",
+            "country": ""
+        },
+        {
+            "name": "Yun Du",
+            "country": ""
+        },
+        {
+            "name": "Xudong Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

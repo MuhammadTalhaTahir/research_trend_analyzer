@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-005-1775-y",
+    "title": "A Combinatorial Algorithm for Minimum Weighted Colorings of Claw-Free Perfect Graphs",
+    "abstract": "We present an O(n5) combinatorial algorithm for the minimum weighted coloring problem on claw-free perfect graphs, which was posed by Hsu and Nemhauser in 1984. Our algorithm heavily relies on the structural descriptions of claw-free perfect graphs given by Chavátal and Sbihi and by Maffray and Reed.",
+    "citation_count": 27,
+    "year": "2005/06",
+    "authors": [
+        {
+            "name": "Li, Xueliang",
+            "country": "China"
+        },
+        {
+            "name": "Zang, Wenan",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

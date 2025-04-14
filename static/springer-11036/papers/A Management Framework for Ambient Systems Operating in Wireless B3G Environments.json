@@ -1,0 +1,47 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-008-0090-0",
+    "title": "A Management Framework for Ambient Systems Operating in Wireless B3G Environments",
+    "abstract": "As the wireless world is rapidly evolving towards the “Beyond the 3rd Generation” (B3G) era, communication infrastructures need to tackle external conditions that are continuously changing, and thus become less predictable in terms of quality of service (QoS) provision. On the contrary, the B3G era, through the coexistence and complementary use of a multitude of Radio Access Technologies (RATs), offers additional capabilities for providing users with advanced levels of convenience and flexibility for living and working. Those advances in communications and networking technology are making it possible to devise ‘ambient’ systems, i.e. systems that realize the vision of an all-encompassing multimedia networking environment, which is aware of the users’ presence and context, and is sensitive, adaptive, and responsive to their needs, habits, gestures and emotions. All above pose significant challenges regarding the intelligent management of heterogeneous wireless infrastructures. In the light of the above, this paper presents such an advanced management framework, as an enabling technology for designing and developing ambient, wireless systems in B3G environments. The paper focuses on the main components of the proposed framework, as well as on their functionality and interactions. Additionally, indicative simulation results showcase the efficiency of the proposed framework.",
+    "citation_count": 27,
+    "year": "2008/12",
+    "authors": [
+        {
+            "name": "Dimitrakopoulos, G.",
+            "country": "Greece"
+        },
+        {
+            "name": "Tsagkaris, K.",
+            "country": "Greece"
+        },
+        {
+            "name": "Stavroulaki, V.",
+            "country": "Greece"
+        },
+        {
+            "name": "Katidiotis, A.",
+            "country": "Greece"
+        },
+        {
+            "name": "Koutsouris, N.",
+            "country": "Greece"
+        },
+        {
+            "name": "Demestichas, P.",
+            "country": "Greece"
+        },
+        {
+            "name": "Merat, V.",
+            "country": "France"
+        },
+        {
+            "name": "Walter, S.",
+            "country": "Germany"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

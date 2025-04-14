@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-024-01353-1",
+    "title": "Improved multi object tracking with locality sensitive hashing",
+    "abstract": "Object tracking is one of the most advanced applications of computer vision algorithms. While various tracking approaches have been previously developed, they often use many approximations and assumptions to enable real-time performance within the resource constraints in terms of memory, time and computational requirements. In order to address these limitations, we investigate the bottlenecks of existing tracking frameworks and propose a solution to enhance tracking efficiency. The proposed method uses Locality Sensitive Hashing (LSH) to efficiently store and retrieve nearest neighbours and then utilizes a bipartite cost matching based on the predicted positions, size, aspect ratio, appearance description, and uncertainty in motion estimation. The LSH algorithm helps reduce the dimensionality of the data while preserving their relative distances. LSH hashes the features in constant time and facilitates rapid nearest neighbour retrieval by considering features falling into the same hash buckets as similar. The effectiveness of the method was evaluated on the MOT benchmark dataset and achieved Multiple Object Tracker Accuracy (MOTA) of 67.1% (train) and 62.7% (test). Furthermore, our framework exhibits the highest Multiple Object Tracker Precision (MOTP), mostly tracked objects, and the lowest values for mostly lost objects and identity switches among the state-of-the-art trackers. The incorporation of LSH implementation reduced identity switches by approximately 7% and fragmentation by around 13%. We used the framework for real-time tracking applications on edge devices for an industry partner. We found that the LSH integration resulted in a notable reduction in track ID switching, with only a marginal increase in computation.",
+    "citation_count": 41,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "Chemmanam, Ajai John",
+            "country": "India"
+        },
+        {
+            "name": "Jose, Bijoy",
+            "country": "India"
+        },
+        {
+            "name": "Moopan, Asif",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

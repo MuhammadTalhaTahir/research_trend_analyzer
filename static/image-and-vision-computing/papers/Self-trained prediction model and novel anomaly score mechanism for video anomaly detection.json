@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885622000208",
+    "title": "Self-trained prediction model and novel anomaly score mechanism for video anomaly detection",
+    "abstract": "Video  anomaly detection  is important in various practical applications. This paper proposes an  unsupervised method  for video anomaly detection. In the core of the method lies a new prediction model for anomaly detection with novel anomaly score mechanism and self-training mechanism combined with prediction model. In the first stage, we use two conventional unsupervised anomaly detection methods to obtain pseudo normal and anomalous frames from the original  unlabeled data . In the second stage, we train the prediction model with the pseudo normal frames to learn normal patterns. In the last stage, a three-branch decision module is constructed using prediction model and decision function to calculate the anomaly score of frames and update the pseudo frames for subsequent iterative training. The model then enters the second stage, until the last iterative training is completed. After several iterative training and evaluations, the optimal anomaly scores of the original unlabeled data are finally obtained, and a  stable model  is generated at the same time. Experimental results on four real-world video datasets demonstrate that the proposed method outperforms state-of-the-art methods without labeled data by a significant margin.",
+    "citation_count": "28",
+    "year": "2022/03/01",
+    "authors": [
+        {
+            "name": "Aibin Guo",
+            "country": ""
+        },
+        {
+            "name": "Lijun Guo",
+            "country": ""
+        },
+        {
+            "name": "Rong Zhang",
+            "country": ""
+        },
+        {
+            "name": "Yirui Wang",
+            "country": ""
+        },
+        {
+            "name": "Shangce Gao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

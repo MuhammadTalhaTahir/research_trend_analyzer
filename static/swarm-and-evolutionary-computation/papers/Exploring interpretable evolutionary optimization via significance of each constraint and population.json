@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224002177",
+    "title": "Exploring interpretable evolutionary optimization via significance of each constraint and population diversity",
+    "abstract": "Evolutionary algorithms (EAs) have been widely employed to solve complex constrained optimization problems (COPs). However, numerous EAs treat constraints as a collective black box, employing a uniform processing technique for all constraints. Generally, there exists variability in the significance of each constraint within COPs. To address this issue, this paper is the first attempt to investigate the significance of each constraint spontaneously during the evolution process, and then proposes a co-directed evolutionary algorithm (CdEA-SCPD) for exploring interpretable COPs. First, CdEA-SCPD develops an adaptive penalty function designed to assign different weights to constraints based on their violation severity, thereby varying the significance of each constraint to enhance interpretability and facilitate the algorithm to converge more rapidly toward the global optimum. In addition, a dynamic archiving strategy and a shared replacement mechanism are developed to improve the population diversity of CdEA-SCPD. Extensive experiments on benchmark functions from IEEE CEC2006, CEC2010, and CEC2017 and three engineering problems demonstrate the superiority of the proposed CdEA-SCPD compared to existing competitive EAs. Specifically, on the benchmark functions from IEEE CEC2010, the proposed method yields  ρ  values lower than 0.05 in the multiple-problem Wilcoxon's signed rank test and ranks first in the Friedman's test. Furthermore, ablation analysis and parameter analysis have demonstrated the beneficial effects of the proposed strategies.",
+    "citation_count": "3",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Yalin Wang",
+            "country": ""
+        },
+        {
+            "name": "Xujie Tan",
+            "country": ""
+        },
+        {
+            "name": "Chenliang Liu",
+            "country": ""
+        },
+        {
+            "name": "Pei-Qiu Huang",
+            "country": ""
+        },
+        {
+            "name": "Qingfu Zhang",
+            "country": ""
+        },
+        {
+            "name": "Chunhua Yang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

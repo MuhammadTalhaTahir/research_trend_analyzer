@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1026082628602",
+    "title": "A Novel Scatternet Scheme with IPv6 Compatibility",
+    "abstract": "Some market analysts predict that there will be some 1.4 billion Bluetooth devices in operation by the year 2005 [8]. However, the current specification1.1 does not describe the algorithms or mechanisms to create a scatternet due to a variety of unsolved issues [3,12]. Since the upper layers are not defined in Bluetooth, it is not possible to implement the scatternet in current specification. Hence in this research, we need make some modifications to Bluetooth protocol in order to support the transmissions of packets in the scatternet. In this paper we describe a novel scatternet architecture, and present link performance of the proposed architecture. The issues of the routing algorithm, handoffs, and communications with other networks are also discussed.",
+    "citation_count": 14,
+    "year": "2003/12",
+    "authors": [
+        {
+            "name": "Lai, Wei Kuang",
+            "country": "Taiwan"
+        },
+        {
+            "name": "Tan, Der Hwa",
+            "country": "Taiwan"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

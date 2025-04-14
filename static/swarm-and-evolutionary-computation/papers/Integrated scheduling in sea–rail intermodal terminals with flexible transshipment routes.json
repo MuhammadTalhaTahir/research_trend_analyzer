@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650225000100",
+    "title": "Integrated scheduling in sea–rail intermodal terminals with flexible transshipment routes",
+    "abstract": "The efficient transshipment of containers in sea–rail intermodal terminals has become increasingly crucial. Therefore, the integrated scheduling of quay cranes, automatic guided vehicles, yard cranes, and rail cranes considering sea–rail transshipment operations needs to be addressed urgently. As a critical feature of intermodal terminals, transshipment flexibility plays a key role in improving the utilization of limited resources. While most of the studies on integrated scheduling in terminals in the literature consider containers with fixed transshipment routes, this paper considers flexible transshipment routes. A multi-objective mathematical model for the optimization of sea–rail transshipment operations considering the features of multiple parallel machines with reentrant internal trucks, multiple stages, multiple routes, and flexible modes is constructed, aiming to minimize the maximum completion time, the total waiting time of automatic guided vehicles, and the total energy consumption of handling cranes. We design an improved non-dominated sorting genetic algorithm II to solve the problem. A following rule is designed for transshipment routes. An external archive technology and a variable neighborhood local search strategy are developed to improve the exploitation ability. Extensive numerical experiments are designed to validate the efficiency of the proposed model and algorithm.",
+    "citation_count": "0",
+    "year": "2025/03/01",
+    "authors": [
+        {
+            "name": "Wenfeng Li",
+            "country": ""
+        },
+        {
+            "name": "Lingchong Zhong",
+            "country": ""
+        },
+        {
+            "name": "Lijun He",
+            "country": ""
+        },
+        {
+            "name": "Wenjing Guo",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

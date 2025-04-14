@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650213000412",
+    "title": "Modeling and seeker optimization based simulation for intelligent reactive power control of an isolated hybrid power system",
+    "abstract": "Seeker optimization algorithm (SOA) is a novel heuristic population-based search algorithm based on the concept of simulating the act of human searching. In SOA, the acts of human searching capability and understanding are exploited for the purpose of optimization. In this algorithm, search direction is based on empirical gradient by evaluating the response to the position changes and the step length is based on uncertainty reasoning by using a simple  fuzzy rule . In this paper, effectiveness of the SOA has been tested for optimized reactive power control of an isolated wind–diesel hybrid  power system  model. In the studied power system model, a  diesel  engine based  synchronous generator  (SG) and a  wind turbine  based induction generator (IG) are used for the purpose of  power generation . IG offers many advantages over the SG but it requires reactive power support for its operation. So, there is a gap between reactive power demand and its supply. To minimize this gap between reactive power generation and its demand, a variable source of reactive power such as static VAR compensator (SVC) is used. The SG is equipped with IEEE type-I excitation system and dual input power system  stabilizer  (PSS) like IEEE-PSS3B. The performance analysis of a Takagi–Sugeno fuzzy logic (TSFL)-based controller for the studied isolated  hybrid power  system model is also carried out which tracks the degree of reactive power compensation for any sort of input perturbation in real-time. In time-domain simulation of the investigated power system model, the proposed SOA–TSFL yields on-line, off-nominal coordinated optimal SVC and PSS parameters resulting in on-line optimal reactive power control and terminal voltage response. The performance of the proposed controller, with the influence of  signal transmission  delay, has also been investigated.",
+    "citation_count": "43",
+    "year": "2013/12/01",
+    "authors": [
+        {
+            "name": "Abhik Banerjee",
+            "country": ""
+        },
+        {
+            "name": "V. Mukherjee",
+            "country": ""
+        },
+        {
+            "name": "S.P. Ghoshal",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

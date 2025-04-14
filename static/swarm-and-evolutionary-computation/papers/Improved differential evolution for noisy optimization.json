@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218308265",
+    "title": "Improved differential evolution for noisy optimization",
+    "abstract": "A novel approach is proposed in this paper to improve the optimization proficiency of the differential evolution (DE) algorithm in the presence of stochastic noise in the objective surface by utilizing the composite benefit of four strategies. The first strategy is devised with an aim to employ reinforcement learning scheme of stochastic learning automata for autonomous selection of the  sample size  of a trial solution (for its repeated fitness evaluation) based on the characteristics of the fitness landscape in its local neighborhood. The second stratagem is proposed to estimate the effective fitness measure from multiple fitness samples of a trial solution, resulting from sampling. The novelty of the second policy lies in considering the distribution of noisy samples during effective fitness evaluation, instead of their direct averaging. The third strategy deals with amelioration of the DE/current-to-best/1 mutation scheme to judiciously direct the search in promising region, even in prevailing existence of noise in the objective surface. Finally, the greedy selection policy of the traditional DE is modified by introducing the principle of probabilistic crowding induced niching to ensure both the population quality and the population diversity. Comparative analysis performed on simulation results for diverse noisy benchmark functions reveal the statistically significant superiority of the proposed algorithm to its contenders with respect to function error value.",
+    "citation_count": "20",
+    "year": "2020/02/01",
+    "authors": [
+        {
+            "name": "Pratyusha Rakshit",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

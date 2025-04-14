@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650215000176",
+    "title": "Improved sampling using loopy belief propagation for probabilistic model building genetic programming",
+    "abstract": "In recent years,  probabilistic model  building  genetic programming  (PMBGP) for program optimization has attracted considerable interest. PMBGPs generally use probabilistic logic sampling (PLS) to generate new individuals. However, the generation of the most probable solutions (MPSs), i.e., solutions with the highest probability, is not guaranteed. In the present paper, we introduce loopy belief propagation (LBP) for PMBGPs to generate MPSs during the sampling process. We selected program optimization with linkage estimation (POLE) as the foundation of our approach and we refer to our proposed method as POLE-BP. We apply POLE-BP and existing methods to three benchmark problems to investigate the effectiveness of LBP in the context of PMBGPs, and we describe detailed examinations of the behaviors of LBP. We find that POLE-BP shows better search performance with some problems because LBP boosts the generation of  building blocks .",
+    "citation_count": "4",
+    "year": "2015/08/01",
+    "authors": [
+        {
+            "name": "Hiroyuki Sato",
+            "country": ""
+        },
+        {
+            "name": "Yoshihiko Hasegawa",
+            "country": ""
+        },
+        {
+            "name": "Danushka Bollegala",
+            "country": ""
+        },
+        {
+            "name": "Hitoshi Iba",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

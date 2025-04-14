@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-012-9298-y",
+    "title": "Signature of the upper mantle density structure in the refined gravity data",
+    "abstract": "The gravitational signal of the upper mantle density structures is investigated in the refined gravity data which are corrected for the gravitational contributions of the crust density structures and the Moho geometry. The gravimetric forward modeling is applied to compute these refined gravity data globally on a 1 × 1 arcdeg grid using the global geopotential model (EGM2008), the global topographic/bathymetric model (DTM2006.0) including the ice-thickness data, and the global crustal model (CRUST2.0). The characteristics of the upper mantle density structures are further analyzed in association with the Moho parameters (i.e., Moho depths and density contrast). The 1 × 1 arcdeg global data of the Moho parameters are estimated by applying the combined least-squares approach based on solving Moritz’s generalization of the Vening–Meinesz inverse problem of isostasy. The refined gravity data exhibit mainly the mantle lithosphere structures attributed to the global mantle convection. A significant correlation found over oceans between the refined gravity data and the Moho density contrast is explained by the increasing density of the oceanic lithosphere with age. Despite the lithosphere structures attributed to the global mantle convection are confirmed also in the refined gravity data over continents, the significant correlation between the refined gravity data and the Moho parameters is in this case absent. Instead, the significant proportion of lateral variations of the Moho density contrast within the continental lithosphere is attributed to the depth-dependant density changes due to pressure and thermal gradient.",
+    "citation_count": 22,
+    "year": "2012/09",
+    "authors": [
+        {
+            "name": "Tenzer, Robert",
+            "country": "New Zealand"
+        },
+        {
+            "name": "Bagherbandi, Mohammad",
+            "country": "New Zealand"
+        },
+        {
+            "name": "Gladkikh, Vladislav",
+            "country": "Sweden"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

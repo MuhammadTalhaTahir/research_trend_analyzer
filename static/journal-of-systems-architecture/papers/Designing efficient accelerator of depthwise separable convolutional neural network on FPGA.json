@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762118304612",
+    "title": "Designing efficient accelerator of depthwise separable convolutional neural network on FPGA",
+    "abstract": "In recent years,  convolutional neural networks  (CNNs) have achieved state-of-the-art results for many  computer vision tasks . However, the traditional CNNs are computational-intensive and memory-intensive, hence they are unsuitable for the application in  mobile edge computing  scenarios with limited computing resources and  low power consumption . The depthwise separable CNNs can significantly reduce the number of model parameters and improve the calculation speed, so it is naturally suitable for  mobile edge computing  applications. In this paper, we propose a  Field Programmable Gate Array  (FPGA)-based depthwise separable CNN accelerator with all the layers working concurrently in a pipelined fashion to improve the system throughput and performance. To implement the accelerator, we present a custom computing engine architecture to handle the dataflow between  adjacent layers  by using double-buffering-based memory channels. Besides, in fully connected layers, data titling technique is adopted to divide matrix multiplication from large dimension into small matrix. Finally, our proposed accelerator for depthwise separable CNN has been implemented and evaluated on Intel Arria 10 FPGA. The results of experiment indicate that the proposed depthwise separable CNN accelerator has a performance of 98.9 GOP/s and achieve up to 17.6× speed up and 29.4× low power than CPU and  GPU  implementations respectively.",
+    "citation_count": "65",
+    "year": "2019/08/01",
+    "authors": [
+        {
+            "name": "Wei Ding",
+            "country": ""
+        },
+        {
+            "name": "Zeyu Huang",
+            "country": ""
+        },
+        {
+            "name": "Zunkai Huang",
+            "country": ""
+        },
+        {
+            "name": "Li Tian",
+            "country": ""
+        },
+        {
+            "name": "Hui Wang",
+            "country": ""
+        },
+        {
+            "name": "Songlin Feng",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

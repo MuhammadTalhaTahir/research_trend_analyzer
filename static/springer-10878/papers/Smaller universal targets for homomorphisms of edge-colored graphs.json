@@ -1,0 +1,21 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-020-00680-3",
+    "title": "Smaller universal targets for homomorphisms of edge-colored graphs",
+    "abstract": "For a graph G, the density of G, denoted D(G), is the maximum ratio of the number of edges to the number of vertices ranging over all subgraphs of G. For a class $$\\mathcal {F}$$ of graphs, the value $$D(\\mathcal {F})$$ is the supremum of densities of graphs in&nbsp; $$\\mathcal {F}$$ . A k-edge-colored graph is a finite, simple graph with edges labeled by numbers $$1,\\ldots ,k$$ . A function from the vertex set of one k-edge-colored graph to another is a homomorphism if the endpoints of any edge are mapped to two different vertices connected by an edge of the same color. Given a class $$\\mathcal {F}$$ of graphs, a&nbsp;k-edge-colored graph $$\\mathbb {H}$$ (not necessarily with the underlying graph in&nbsp; $$\\mathcal {F}$$ ) is k-universal for $$\\mathcal {F}$$ when any k-edge-colored graph with the underlying graph in $$\\mathcal {F}$$ admits a homomorphism to $$\\mathbb {H}$$ . Such graphs are known to exist exactly for classes $$\\mathcal {F}$$ of graphs with acyclic chromatic number bounded by a constant. The minimum number of vertices in a k-uniform graph for a class $$\\mathcal {F}$$ is known to be $$\\Omega (k^{D(\\mathcal {F})})$$ and $$O(k^{{\\left\\lceil D(\\mathcal {F}) \\right\\rceil }})$$ . In this paper we close the gap by improving the upper bound to $$O(k^{D(\\mathcal {F})})$$ for any rational $$D(\\mathcal {F})$$ .",
+    "citation_count": 14,
+    "year": "2022/07",
+    "authors": [
+        {
+            "name": "Guśpiel, Grzegorz",
+            "country": "Poland"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762120302095",
+    "title": "Cross-domain access control based on trusted third-party and attribute mapping center",
+    "abstract": "With the development of informatization, smart city has become a new concept for the next generation of urbanization globally. In the face of intensive data requests and constrained resources, it is particularly important to design a safe and energy-efficient computing system.In this paper, we propose a multi-domain  access control scheme  suitable for smart city construction. We divide the huge equipment group into multiple domains for parallel distributed management to improve data processing efficiency. Based on  attribute mapping , we show a safe and efficient cross-domain access  control method . We introduce a trusted third-party (TTP) and an attribute mapping center (MC), using attribute certificates, digital mapping tables, B+  tree  index, and buffer to improve mapping efficiency. In the complex one-to-many data transmission process, the outsourced ciphertext-policy attribute-based encryption (CP-ABE) is used to provide users with  personalized services  while reducing the computing burden. Finally, through analysis and simulation, it is found that this scheme has higher safety and efficiency.",
+    "citation_count": "11",
+    "year": "2021/06/01",
+    "authors": [
+        {
+            "name": "Liyang Bai",
+            "country": ""
+        },
+        {
+            "name": "Kai Fan",
+            "country": ""
+        },
+        {
+            "name": "Yuhan Bai",
+            "country": ""
+        },
+        {
+            "name": "Xiaochun Cheng",
+            "country": ""
+        },
+        {
+            "name": "Hui Li",
+            "country": ""
+        },
+        {
+            "name": "Yintang Yang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

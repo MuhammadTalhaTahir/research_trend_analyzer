@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-014-0433-3",
+    "title": "A deep HMM model for multiple keywords spotting in handwritten documents",
+    "abstract": "In this paper, we propose a query by string word spotting system able to extract arbitrary keywords in handwritten documents, taking both segmentation and recognition decisions at the line level. The system relies on the combination of a HMM line model made of keyword and non-keyword (filler) models, with a deep neural network that estimates the state-dependent observation probabilities. Experiments are carried out on RIMES database, an unconstrained handwritten document database that is used for benchmarking different handwriting recognition tasks. The obtained results show the superiority of the proposed framework over the classical GMM–HMM and standard HMM hybrid architectures.",
+    "citation_count": 46,
+    "year": "2015/11",
+    "authors": [
+        {
+            "name": "Thomas, Simon",
+            "country": "France"
+        },
+        {
+            "name": "Chatelain, Clément",
+            "country": "France"
+        },
+        {
+            "name": "Heutte, Laurent",
+            "country": "France"
+        },
+        {
+            "name": "Paquet, Thierry",
+            "country": "France"
+        },
+        {
+            "name": "Kessentini, Yousri",
+            "country": "France"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

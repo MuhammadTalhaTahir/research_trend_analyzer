@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762123000152",
+    "title": "Efficient heterogeneous signcryption scheme based on Edge Computing for Industrial Internet of Things",
+    "abstract": "In recent years, the Industrial  Internet of Things  (IIoT) has played an indispensable role in the age of intelligence. The data of IIoT is extremely private and valuable. Therefore, privacy protection and secure communication in the IIoT have been the focus of attention. Since terminal devices in the IIoT collect massive amounts of sensitive data in real time, traditional cloud  computing architectures  cannot satisfy the requirements of the IIoT.  Edge computing  is an emerging  computing paradigm  to solve the problems of delay and bandwidth in traditional  cloud computing  architectures. In edge computing architecture, one-to-many communication is a secure and highly efficient communication method. Due to the complex heterogeneity of the IIoT, it faces various potential threats. In order to solve the dilemma mentioned above, we propose an efficient heterogeneous signcryption scheme based on edge computing for IIoT to achieve multi-message and multi-receiver communication between edge servers and data users, where the edge server belongs to identity-based cryptography while data users belong to certificateless cryptography. In the  random oracle model , our proposed scheme is proved to satisfy confidentiality and unforgeability based on the  discrete logarithm  assumption and the computational Diffie–Hellman assumption. Experimental results indicate that our proposal achieves better performance than existing schemes. Hence, our scheme has more advantages for IIoT.",
+    "citation_count": "18",
+    "year": "2023/03/01",
+    "authors": [
+        {
+            "name": "Shufen Niu",
+            "country": ""
+        },
+        {
+            "name": "Honglin Shao",
+            "country": ""
+        },
+        {
+            "name": "Yun Su",
+            "country": ""
+        },
+        {
+            "name": "Caifen Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

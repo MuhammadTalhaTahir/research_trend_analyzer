@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S240595952400136X",
+    "title": "A survey on monitoring and management techniques for road traffic congestion in vehicular networks",
+    "abstract": "Nowadays, the rise in traffic density derived from the population growth in urban areas, has resulted in more traffic congestion. Despite advancements in Intelligent Transportation Systems (ITS), this still remains a considerable challenge. In this study, we provide a comprehensive survey of monitoring and management of traffic systems (MMTS) techniques. At first, we split the whole scope of research into four phases: (i) traffic data gathering, (ii) traffic data transmission, (iii) traffic data analysis, and finally (iv) traffic data dissemination. Furthermore, we discuss the security aspects of traffic monitoring and management, and discuss emerging research challenges and opportunities.",
+    "citation_count": "0",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Amenah S.M. Thabit",
+            "country": ""
+        },
+        {
+            "name": "Chaker Abdelaziz Kerrache",
+            "country": ""
+        },
+        {
+            "name": "Carlos T. Calafate",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

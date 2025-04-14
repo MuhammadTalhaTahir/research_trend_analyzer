@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650212000247",
+    "title": "Efficient constraint handling for optimal reactive power dispatch problems",
+    "abstract": "In  power engineering , minimizing the power loss in the transmission lines and/or minimizing the voltage deviation at the load buses by controlling the reactive power is referred to as optimal reactive power dispatch (ORPD). Recently, the use of evolutionary algorithms (EAs) such as differential evolution (DE),  particle swarm optimization  (PSO), evolutionary programming (EP), and evolution strategies (ES) to solve ORPD is gaining more importance due to their effectiveness in handling the  inequality constraints  and discrete values compared to that of conventional gradient-based methods. EAs generally perform unconstrained searches, and they require some additional mechanism to handle constraints. In the literature, various constraint handling techniques have been proposed. However, to solve ORPD the penalty function approach has been commonly used, while the other constraint handling methods remain untested. In this paper, we evaluate the performance of different constraint handling methods such as superiority of  feasible solutions  (SF), self-adaptive penalty (SP),  ε -constraint (EC), stochastic ranking (SR), and the ensemble of constraint handling techniques (ECHT) on ORPD. The proposed methods have been tested on IEEE 30-bus, 57-bus, and 118-bus systems. Simulation results clearly demonstrate the importance of employing an efficient constraint handling method to solve the ORPD problem effectively.",
+    "citation_count": "120",
+    "year": "2012/08/01",
+    "authors": [
+        {
+            "name": "R. Mallipeddi",
+            "country": ""
+        },
+        {
+            "name": "S. Jeyadevi",
+            "country": ""
+        },
+        {
+            "name": "P.N. Suganthan",
+            "country": ""
+        },
+        {
+            "name": "S. Baskar",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

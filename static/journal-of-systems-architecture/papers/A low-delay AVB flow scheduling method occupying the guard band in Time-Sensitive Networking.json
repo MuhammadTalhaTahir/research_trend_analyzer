@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001308",
+    "title": "A low-delay AVB flow scheduling method occupying the guard band in Time-Sensitive Networking",
+    "abstract": "Time-Sensitive Networking (TSN) is used in time-critical systems because of its high-bandwidth and time determinization. To ensure the deterministic transmission of Time-Triggered (TT) flows, TSN adopts the guard band mechanism to control the next pending frame not be transmitted on the link before transmitting TT flows, thereby preventing interference from Audio-Video-Bridging (AVB) and Best-Effort (BE) flows. However, this mechanism causes the transmission delay of AVB flows and the waste of bandwidth. To reduce the above negative impacts, the state-of-the-art method selects BE flows at the head of each queue to occupy the guard band, but the acceptance rate of flows and  bandwidth utilization  are still low. This paper proposes a low-delay AVB flow scheduling method occupying the guard band to improve the acceptance rate of AVB flows and bandwidth utilization. The method selects AVB flows from all flows in the queue to occupy the guard band, and it includes the Maximum Transmission for AVB Flows (MTAF) algorithm and the Maximum Bandwidth Utilization (MBU) algorithm. MTAF algorithm fills AVB flows with the earliest deadline into the guard band to increase the acceptance rate, and the MBU algorithm maximizes the size of AVB flows occupying the guard band to improve bandwidth utilization. Experiments show that the proposed algorithms improve the acceptance rate of AVB flows and bandwidth utilization compared to the state-of-the-art method.",
+    "citation_count": "16",
+    "year": "2022/08/01",
+    "authors": [
+        {
+            "name": "Libing Deng",
+            "country": ""
+        },
+        {
+            "name": "Xiongren Xiao",
+            "country": ""
+        },
+        {
+            "name": "Hong Liu",
+            "country": ""
+        },
+        {
+            "name": "Renfa Li",
+            "country": ""
+        },
+        {
+            "name": "Guoqi Xie",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

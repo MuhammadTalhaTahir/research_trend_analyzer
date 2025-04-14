@@ -1,0 +1,38 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003020",
+    "title": "Noise-robust re-identification with triple-consistency perception",
+    "abstract": "Traditional re-identification (ReID) methods heavily rely on clean and accurately annotated training data, rendering them susceptible to label noise in real-world scenarios. Although some noise-robust learning methods have been proposed and achieved promising recognition performance, however, most of these methods are designed for the image classification task and they are not suitable in ReID (engaging in the association and matching of objects rather than solely focusing on their identification). To address this problem, in this paper, we propose a Triple-consistency Perception based Noise-robust Re-identification Model (TcP-ReID), in which we make the model mine and focus more on the clean samples and reliable relationships among samples from different perspectives. Specifically, the self-consistency strategy guides the model to emphasize and prioritize clean samples, thereby preventing overfitting to noise labels during the initial stages of model training. Rather than focusing solely on individual samples, the context-consistency loss exploits similarities between samples in the feature space, promoting predictions for each sample to align with those of its nearest neighbors. Moreover, to further enforce the robustness of our model, a Jensen-Shannon divergence based cross-view consistency loss is introduced by encouraging the consistency of samples across different views. Extensive experiments demonstrate the superiority of the proposed TcP-ReID over the competing methods under instance-dependent noise and instance-independent noise. For instance, on the Market1501 dataset, our method achieves 85.8% in rank-1 accuracy and 56.3% in mAP score (5.6% and 8.7% improvements) under instance-independent noise with  noise ratio 50% , and similarly 5.7% and 1.4% under instance-dependent label noise.",
+    "citation_count": "0",
+    "year": "2024/10/01",
+    "authors": [
+        {
+            "name": "Xueping Wang",
+            "country": ""
+        },
+        {
+            "name": "Zhanpeng Shao",
+            "country": ""
+        },
+        {
+            "name": "Shixi Luo",
+            "country": ""
+        },
+        {
+            "name": "Jiazheng Wang",
+            "country": ""
+        },
+        {
+            "name": "Min Liu",
+            "country": ""
+        },
+        {
+            "name": "Jianhua Dai",
+            "country": ""
+        },
+        {
+            "name": "Jun Cheng",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

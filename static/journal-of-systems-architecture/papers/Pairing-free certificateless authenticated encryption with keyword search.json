@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002678",
+    "title": "Pairing-free certificateless authenticated encryption with keyword search",
+    "abstract": "Public key authenticated encryption with keyword search (PAEKS) is a cryptographic primitive which ensures privacy of user’s sensitive data while preserving the search ability over them. Of particular interest are certificateless PAEKS (CLAEKS) schemes which can further circumvent challenges such as certificate management and key escrow problem. Our goal in this paper is advancing existing literature on certificateless PAEKS schemes in two aspects. First, we notice that published security model of CLAEKS schemes assumes the existence of a single key generation center (KGC) to manage all the keys. Considering multiple KGCs can lead to enhancements in trust-related issues and appears more in line with reality, so we formulate the security model to cover CLAEKS with multiple KGCs. Second, as far as we know, all existing secure CLAEKS schemes are based on the time-consuming bilinear pairing operation which dramatically increases the computational cost. We construct an efficient pairing-free CLAEKS scheme and prove its security in our multiple-KGC security model. Our construction achieves security against keyword guessing attacks performed by both inside and outside adversaries. A comparison between our proposed scheme and other related schemes is also provided to assert the overall superiority of the proposed scheme.",
+    "citation_count": "33",
+    "year": "2022/03/01",
+    "authors": [
+        {
+            "name": "Danial Shiraly",
+            "country": ""
+        },
+        {
+            "name": "Nasrollah Pakniat",
+            "country": ""
+        },
+        {
+            "name": "Mahnaz Noroozi",
+            "country": ""
+        },
+        {
+            "name": "Ziba Eslami",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

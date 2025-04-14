@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-025-01268-5",
+    "title": "Some results on the total (zero) forcing number of a graph",
+    "abstract": "Let F(G) and $$F_t(G)$$ be the zero forcing number and the total forcing number of a graph G, respectively. In this paper, we study the relationship between the total forcing number of a graph and its vertex covering number (or independence number), and prove that $$F_t(G) \\le \\Delta \\alpha (G)$$ and $$F_t(G) \\le (\\Delta - 1)\\beta (G) + 1$$ for any connected graph G with the maximum degree $$\\Delta $$ , where $$\\alpha (G)$$ and $$\\beta (G)$$ are the independence number and the vertex covering number of G. In particular, we prove that $$F_t(T) \\le F(T) + \\beta (T)$$ for any tree T and characterize all trees T with $$F_t(T) = F(T) + \\beta (T)$$ . At the same time, all trees T with $$F_t(T) = (\\Delta - 1)\\beta (T) + 1$$ are completely characterized. In addition, we explore trees, unicycle graphs and Halin graphs satisfying $$F(G) \\le \\alpha (G)+1$$ .",
+    "citation_count": 26,
+    "year": "2025/04",
+    "authors": [
+        {
+            "name": "Li, Jianxi",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Tu, Dongxin",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Shiu, Wai Chee",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

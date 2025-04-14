@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885696010852",
+    "title": "Vision based navigation system for an endoscope",
+    "abstract": "A vision based navigation system to guide an endoscope inside a human colon has been designed and tested. It uses low level vision techniques to extract two types of navigational landmarks, dark regions and curved contours. Dark regions correspond to the distant inner space of the colon, called the lumen. The curved contours represent occlusions due to the inner colon muscles. A hierarchical search space and environment representation, called the QL-tree, was developed to integrate the visual features and implement the navigation system. It uses multiple quadtrees which are linked at all hierarchical levels. A multiprocessor system was employed to achieve real-time performance. The endoscope navigation system has been used successfully in artificial colon models.",
+    "citation_count": "37",
+    "year": "1996/12/01",
+    "authors": [
+        {
+            "name": "Gul N. Khan",
+            "country": ""
+        },
+        {
+            "name": "Duncan F. Gillies",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

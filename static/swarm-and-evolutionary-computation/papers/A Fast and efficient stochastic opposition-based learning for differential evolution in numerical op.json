@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650220304211",
+    "title": "A Fast and efficient stochastic opposition-based learning for differential evolution in numerical optimization",
+    "abstract": "A fast and efficient stochastic opposition-based learning (OBL) variant is proposed in this paper. OBL is a machine learning concept to accelerate the convergence of soft computing algorithms, which consists of simultaneously calculating an original solution and its opposite. Recently, a stochastic OBL variant called BetaCOBL was proposed, which is capable of controlling the degree of opposite solutions, preserving useful information held by original solutions, and preventing the waste of fitness evaluations. While it has shown outstanding performance compared to several state-of-the-art OBL variants, the high computational cost of BetaCOBL may hinder it from cost-sensitive optimization problems. Also, as it assumes that the decision variables of a given problem are independent, BetaCOBL may be ineffective for optimizing inseparable problems. In this paper, we propose an improved BetaCOBL that mitigates all the limitations. The proposed algorithm called iBetaCOBL reduces the computational cost from  O ( NP 2  ·  D ) to  O ( NP  ·  D ) ( NP  and  D  stand for population size and a dimension, respectively) using a linear time diversity measure. Also, the proposed algorithm preserves strongly dependent variables that are adjacent to each other using multiple exponential crossover. We used differential evolution (DE) variants to evaluate the performance of the proposed algorithm. The results of the performance evaluations on a set of 58 test functions show the excellent performance of iBetaCOBL compared to ten state-of-the-art OBL variants, including BetaCOBL.",
+    "citation_count": "31",
+    "year": "2021/02/01",
+    "authors": [
+        {
+            "name": "Tae Jong Choi",
+            "country": ""
+        },
+        {
+            "name": "Julian Togelius",
+            "country": ""
+        },
+        {
+            "name": "Yun-Gyung Cheong",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

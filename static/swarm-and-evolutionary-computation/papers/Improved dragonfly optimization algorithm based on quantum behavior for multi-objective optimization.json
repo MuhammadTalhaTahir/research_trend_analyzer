@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224001457",
+    "title": "Improved dragonfly optimization algorithm based on quantum behavior for multi-objective optimization of ethylene cracking furnace",
+    "abstract": "Ethylene is one of the important basic raw materials for the modern chemical production, accounting for over 75 % of petrochemical products. And the ethylene cracking furnace is subject to coking problems that can impede the thermal conductivity of the reaction tube. Therefore, an improved multi-objective dragonfly optimization algorithm based on quantum behavior is proposed. The particle evolutionary model introduces the quantum bound state δ-potential well model, which improves the global convergence ability and the convergence speed of the dragonfly optimization algorithm. In addition, the calculation formulas for parameters are improved by introducing natural logarithm and the iterative search method is changed to a triple search. Moreover, the global convergence and local search ability of the quantum behavior enhancement algorithm is assisted by adaptively selecting the search strategy according to the current number of iterations of the improved dragonfly algorithm. Compared with other multi-objective optimization algorithms on the ZDT and CEC test functions, the proposed algorithm has good global convergence and local search capabilities in terms of the inverted general distance. Finally, the proposed algorithm is applied in the multi-objective optimization of an ethylene cracking furnace, with the ethylene yield and the  propylene  yield as optimization objectives. The experimental results show that the ethylene yield can be increased by 1.5498 %, while the propylene yield decreases by only 0.0081 %, which proves that the proposed algorithm achieves better effect in optimizing the main product yield under fixed cycle adjustment operating conditions compared to original operating conditions.",
+    "citation_count": "5",
+    "year": "2024/07/01",
+    "authors": [
+        {
+            "name": "Xintian Wang",
+            "country": ""
+        },
+        {
+            "name": "Zhiqiang Geng",
+            "country": ""
+        },
+        {
+            "name": "Liangchao Chen",
+            "country": ""
+        },
+        {
+            "name": "Yongming Han",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

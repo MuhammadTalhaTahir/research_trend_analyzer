@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762116300844",
+    "title": "An efficient approach for the multiprocessor non-preemptive strictly periodic task scheduling problem",
+    "abstract": "Strict periodicity constraint is of great importance since it concerns some hard real-time systems where missing deadlines leads to catastrophic situations. However, the problem of schedulability analysis for non-preemptive strictly periodic tasks on a multiprocessor platform is even more intractable than the one with the common periodicity. In order to implement such systems, designers need effective tools based on fast and near-optimal solutions. This paper presents a schedulability analysis which results mainly in a, two versions, task assignment and start-time calculation algorithm. The first one targets the harmonic task periods case while the second one targets the non-harmonic task periods case. Each version is based on a sufficient uniprocessor schedulability test. In addition, for the non-harmonic case which is the most intractable, the uniprocessor sufficient schedulability test uses the strictly periodic task  utilization factor . This factor stands for the fraction of time spent to execute a task while its strict periodicity and the ones of the already scheduled tasks are met. As a result, an efficient and easily implementable scheduling algorithm is proposed which begins by assigning tasks to processors then attributes a start-time to every task in such a way that strict periodicity and deadline constraints are met. The effectiveness of the proposed scheduling algorithm, in both versions, has been shown by a performance evaluation and comparisons with an optimal and a similar suboptimal solution.",
+    "citation_count": "8",
+    "year": "2017/09/01",
+    "authors": [
+        {
+            "name": "Omar Kermia",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

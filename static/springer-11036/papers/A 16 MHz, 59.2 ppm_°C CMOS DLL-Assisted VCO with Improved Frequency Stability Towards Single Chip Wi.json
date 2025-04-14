@@ -1,0 +1,35 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-016-0716-6",
+    "title": "A 16 MHz, 59.2 ppm/°C CMOS DLL-Assisted VCO with Improved Frequency Stability Towards Single Chip Wireless IOT",
+    "abstract": "A 16&nbsp;MHz, highly stable voltage controlled oscillator (VCO) is reported in this paper. The proposed VCO consists of three cross-coupled RC stages, and is fully compatible with standard CMOS process. A positively biased PN junction with negative temperature coefficient is incorporated in the design to compensate frequency drift. In addition, a delay locked loop (DLL) directly following the VCO is utilized to further improve the output stability caused by temperature variations. The designed circuit was implemented using CMOS 0.18&nbsp;μm technology, and was validated through experiments. Measurement results show that the DLL-assisted VCO output variation across the 25~120&nbsp;°C temperature range is less than 0.56&nbsp;%, corresponding to 59.2&nbsp;ppm/°C. It also shows that the output standard deviation of the DLL-assisted VCO is only 6.816 KHz, ~ 16.6&nbsp;% better compared with the same VCO without DLL’s assistance.",
+    "citation_count": 25,
+    "year": "2016/12",
+    "authors": [
+        {
+            "name": "Li, Yan",
+            "country": "China"
+        },
+        {
+            "name": "Zhen, Cao",
+            "country": "China"
+        },
+        {
+            "name": "Liu, Shaohua",
+            "country": "China"
+        },
+        {
+            "name": "Jiang, Lai",
+            "country": "China"
+        },
+        {
+            "name": "Yu, Hang",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

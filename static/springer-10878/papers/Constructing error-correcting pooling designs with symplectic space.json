@@ -1,0 +1,37 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-009-9217-x",
+    "title": "Constructing error-correcting pooling designs with symplectic space",
+    "abstract": "We construct a family of error-correcting pooling designs with the incidence matrix of two types of subspaces of symplectic spaces over finite fields. We show that the new construction gives better ratio of efficiency compared with previously known three constructions associated with subsets of a set, its analogue over a vector space, and the dual spaces of a symplectic space.",
+    "citation_count": 16,
+    "year": "2010/11",
+    "authors": [
+        {
+            "name": "Guo, Jun",
+            "country": "China"
+        },
+        {
+            "name": "Wang, Yuexuan",
+            "country": "China"
+        },
+        {
+            "name": "Gao, Suogang",
+            "country": "China"
+        },
+        {
+            "name": "Yu, Jiangchen",
+            "country": "USA"
+        },
+        {
+            "name": "Wu, Weili",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

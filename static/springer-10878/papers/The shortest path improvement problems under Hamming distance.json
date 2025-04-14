@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-006-9000-1",
+    "title": "The shortest path improvement problems under Hamming distance",
+    "abstract": "In this paper, we consider the shortest path improvement problems under Hamming distance (SPIH), where the weights of edges can be modified only within given intervals. Two models are considered: the general SPIH problem and the SPIH problem with a single pair of required vertices. For the first problem, we show that it is strongly NP-hard. For the second problem, we show that even if the network is a chain network, it is still NP-hard.",
+    "citation_count": 8,
+    "year": "2006/12",
+    "authors": [
+        {
+            "name": "Zhang, Binwu",
+            "country": "China"
+        },
+        {
+            "name": "Zhang, Jianzhong",
+            "country": "China"
+        },
+        {
+            "name": "Qi, Liqun",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

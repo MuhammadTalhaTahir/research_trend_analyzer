@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218305571",
+    "title": "A novel multi-objective evolutionary algorithm with dynamic decomposition strategy",
+    "abstract": "In this paper, a novel multi-objective  evolutionary algorithm  (MOEA) is proposed with dynamic decomposition strategy, called MOEA/D-DDS. After the recombination, all the parents and  offspring  populations both with the size  N  are combined as a union population in environmental selection, which is then associated to the preset  N   weight vectors  using the constrained decomposition approach. By counting the number of solutions that fall within the  feasible region  of each  subproblem , the number of subproblems that are not associated to any solution can be calculated and recorded by  T max , which somehow shows the distribution of union population and also indicates the number of  weight vectors  (i.e., subproblems) to be regenerated. Then, the subproblem associated with the largest number of solutions will be found and then further divided into two new subproblems using the proposed dynamic decomposition strategy. This process of dynamic decomposition will be run  T max  times in order to have  N  subproblems associated with at least one solution. At last, a simple convergence indicator is used to select one solution showing the best convergence for each of these  N  subproblems. Twenty-six well-known test problems are employed to challenge the performance of MOEA/D-DDS and the experiments validate the superiority of MOEA/D-DDS over six recently proposed MOEAs.",
+    "citation_count": "33",
+    "year": "2019/08/01",
+    "authors": [
+        {
+            "name": "Songbai Liu",
+            "country": ""
+        },
+        {
+            "name": "Qiuzhen Lin",
+            "country": ""
+        },
+        {
+            "name": "Ka-Chun Wong",
+            "country": ""
+        },
+        {
+            "name": "Lijia Ma",
+            "country": ""
+        },
+        {
+            "name": "Carlos A. Coello Coello",
+            "country": ""
+        },
+        {
+            "name": "Dunwei Gong",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

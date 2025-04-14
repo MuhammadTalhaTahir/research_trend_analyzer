@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217306107",
+    "title": "Solving systems of nonlinear equations using a modified firefly algorithm (MODFA)",
+    "abstract": "Most  numerical methods  that are being used to solve systems of  nonlinear equations  require the  differentiability  of the functions and acceptable  initial guesses . However, some optimization techniques have overcome these problems, but they are unable to provide more than one root approximation simultaneously. In this paper, we present a modified  firefly algorithm  treating the problem as an optimization problem, which is capable of giving multiple root approximations simultaneously within a reasonable state space. The new method does not concern initial guesses, differentiability and even the continuity of the functions. Results obtained are encouraging, giving sufficient evidence that the algorithm works well. We further illustrate the viability of our method using benchmark systems found in the literature.",
+    "citation_count": "49",
+    "year": "2019/08/01",
+    "authors": [
+        {
+            "name": "M.K.A. Ariyaratne",
+            "country": ""
+        },
+        {
+            "name": "T.G.I. Fernando",
+            "country": ""
+        },
+        {
+            "name": "S. Weerakoon",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

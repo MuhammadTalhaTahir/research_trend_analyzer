@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1023/B:MONE.0000042498.60917.e8",
+    "title": "Integrated Routing and Storage for Messaging Applications in Mobile Ad Hoc Networks",
+    "abstract": "This paper is motivated by the observation that traditional ad hoc routing protocols are not an adequate solution for messaging applications (e.g., e-mail) in mobile ad hoc networks. Routing in ad hoc mobile networks is challenging mainly because of node mobility – the more rapid the rate of movement, the greater the fraction of bad routes and undelivered messages. For applications that can tolerate delays beyond conventional forwarding delays, we advocate a relay-based approach to be used in conjunction with traditional ad hoc routing protocols. This approach takes advantage of node mobility to disseminate messages to mobile nodes. The result is the Mobile Relay Protocol (MRP), which integrates message routing and storage in the network; the basic idea is that if a route to a destination is unavailable, a node performs a controlled local broadcast (a relay) to its immediate neighbors. In a network with sufficient mobility – precisely the situation when conventional routes are likely to be non-existent or broken – it is quite likely that one of the relay nodes to which the packet has been relayed will encounter a node that has a valid, short (conventional) route to the eventual destination, thereby increasing the likelihood that the message will be successfully delivered. Our simulation results under a variety of node movement models demonstrate that this idea can work well for applications that prefer reliability over latency.",
+    "citation_count": 10,
+    "year": "2004/12",
+    "authors": [
+        {
+            "name": "Nain, Delphine",
+            "country": "USA"
+        },
+        {
+            "name": "Petigara, Noshirwan",
+            "country": "USA"
+        },
+        {
+            "name": "Balakrishnan, Hari",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

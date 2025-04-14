@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623002445",
+    "title": "The triple refinement of self-paced learning style for unsupervised cross-domain person re-identification",
+    "abstract": "Unsupervised cross-domain person re-identification based on clustering typically involves generating pseudo-labels for all  training data . However, some data are prone to generating incorrect pseudo-labels in the early stages of training, which leads to a decrease in the accuracy of the model. Based on the idea of self-paced learning, from easy to difficult and from a few to many samples, we propose the Triple Refinement of Self-paced Learning style (TRSL) method to solve this problem. Firstly, we use the density-based  clustering algorithm  DBSCAN to perform the first data refinement on the  unlabeled data . Then, in the second refinement step, we calculate the challenge value by exploring the distance distribution between the  clustering data  and the  centroids  to refine the data. In the third refinement step, we calculate the credibility value of the data by comparing the k-nearest neighbor ranking lists of the local and global features of the images, use the credibility value to recall the discarded data from the dual refinement process, and perform a third filtering on the retained data. Finally, the processed data is input into a pair of mutually beneficial learning models for training. On top of a strong baseline, our method performs better than the recent state-of-the-art methods in some  evaluation metrics .",
+    "citation_count": "3",
+    "year": "2024/01/01",
+    "authors": [
+        {
+            "name": "Shuren Zhou",
+            "country": ""
+        },
+        {
+            "name": "Nanfang Lei",
+            "country": ""
+        },
+        {
+            "name": "Jiarui Zhou",
+            "country": ""
+        },
+        {
+            "name": "Jiasi Xiong",
+            "country": ""
+        },
+        {
+            "name": "Jianming Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

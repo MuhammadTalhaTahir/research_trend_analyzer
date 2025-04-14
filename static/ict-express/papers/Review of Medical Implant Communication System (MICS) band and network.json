@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959516301035",
+    "title": "Review of Medical Implant Communication System (MICS) band and network",
+    "abstract": "The Medical Implant Communication System (MICS) is a low-power, short-range (2 m), high-data-rate, 401–406 MHz (the core band is 402–405 MHz) communication network that has been accepted worldwide for transmitting data to support the diagnostic or therapeutic functions associated with medical implant devices. The frequency band is explored to design mobile and comfortable communication systems to support human life. This paper reviews the present situation of MICS devices and summarizes the technical requirements for successful MICS network implementation based on the recommendations published by different frequency management authorities around the world.",
+    "citation_count": "0",
+    "year": "2016/12/01",
+    "authors": [
+        {
+            "name": "Mohd Noor Islam",
+            "country": ""
+        },
+        {
+            "name": "Mehmet R. Yuce",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

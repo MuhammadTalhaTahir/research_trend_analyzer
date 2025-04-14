@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959522000650",
+    "title": "Physical-layer security enhancement using artificial noise for D2D communication in vehicular platooning networks",
+    "abstract": "In this article, we introduce physical-layer security enhancement technique based on artificial noise for secure device-to-device (D2D) communications within a platoon in vehicular platooning networks. In particular, we consider a scenario that two D2D-enabled platoons are on the same way. All the vehicles in one platoon are used to generate artificial noise to enhance the secrecy of D2D communications within the other platoon against information leakage to a potential eavesdropping vehicle. We propose artificial noise generation strategies by the platoon according to the assumption on channel state information (CSI): full-CSI and partial CSI assumptions. We further analyze the effect of artificial noise depending on the relationship between the number of vehicles in two platoons. We finally evaluate the performance of our proposed schemes in terms of secrecy rate through extensive simulations and provide useful intuitions for secure platooning.",
+    "citation_count": "0",
+    "year": "2022/12/01",
+    "authors": [
+        {
+            "name": "Inkyu Bang",
+            "country": ""
+        },
+        {
+            "name": "Jong-Hyun Kim",
+            "country": ""
+        },
+        {
+            "name": "Taehoon Kim",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

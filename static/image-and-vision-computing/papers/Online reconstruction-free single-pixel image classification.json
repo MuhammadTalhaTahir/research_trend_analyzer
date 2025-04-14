@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885619300356",
+    "title": "Online reconstruction-free single-pixel image classification",
+    "abstract": "In single-pixel imaging, a series of illumination patterns are projected onto an object and the reflected or transmitted light from the object is integrated by a  photodetector  (the single-pixel detector). Then, from the set of received photodetector signals, the image of the object can ultimately be reconstructed. However, this reconstruction is not only computationally expensive, but also unnecessary for purposes such as  image classification  tasks. This work proposes a reconstruction-free multi-class  image classification  framework that, unlike most of the existing approaches, exploits the sequential nature of the problem. Indeed, by accumulating evidence of the sequence of scalar values, a decision is made after each measurement on whether already classifying the object being imaged, or waiting for more measurements. This online decision relies on a mechanism to achieve a recognition-delay trade-off that induces behaviours within the conservative-to-aggressive spectrum, which suit distinct requirements in different applications. Additionally, the presentation order of the illumination patterns makes a difference in terms of the reconstruction quality (if required) and classification performance when a limited number of patterns is used. Nevertheless, in many cases, simple data- and task-agnostic orders, such as random or frequency-based orders, are commonly used. To address this, a novel sparse-representation-based strategy is presented that sorts the patterns according to their general and  discriminability  utilities. Both, the online classification framework including the recognition-delay trade-off mechanism, and the data- and task-aware pattern ordering proposed, are experimentally assessed, with encouraging results, on the MNIST digits and CalTech 101 Silhouettes datasets.",
+    "citation_count": "34",
+    "year": "2019/06/01",
+    "authors": [
+        {
+            "name": "Pedro Latorre-Carmona",
+            "country": ""
+        },
+        {
+            "name": "V. Javier Traver",
+            "country": ""
+        },
+        {
+            "name": "J. Salvador Sánchez",
+            "country": ""
+        },
+        {
+            "name": "Enrique Tajahuerce",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

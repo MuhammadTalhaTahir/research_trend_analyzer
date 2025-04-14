@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624004438",
+    "title": "Machine learning applications in breast cancer prediction using mammography",
+    "abstract": "Breast cancer is the second leading cause of cancer-related deaths among women. Early detection of lumps and subsequent risk assessment significantly improves prognosis. In screening mammography, radiologist interpretation of mammograms is prone to high error rates and requires extensive manual effort. To this end, several computer-aided diagnosis methods using machine learning have been proposed for automatic detection of breast cancer in mammography. In this paper, we provide a comprehensive review and analysis of these methods and discuss practical issues associated with their reproducibility. We aim to aid the readers in choosing the appropriate method to implement and we guide them towards this purpose. Moreover, an effort is made to re-implement a sample of the presented methods in order to highlight the importance of providing technical details associated with those methods. Advancing the domain of breast cancer pathology classification using machine learning involves the availability of public databases and development of innovative methods. Although there is significant progress in both areas, more transparency in the latter would boost the domain progress.",
+    "citation_count": "0",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "G.M. Harshvardhan",
+            "country": ""
+        },
+        {
+            "name": "Kei Mori",
+            "country": ""
+        },
+        {
+            "name": "Sarika Verma",
+            "country": ""
+        },
+        {
+            "name": "Lambros Athanasiou",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

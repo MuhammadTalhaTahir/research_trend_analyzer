@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-022-00897-4",
+    "title": "Algorithms for maximum internal spanning tree problem for some graph classes",
+    "abstract": "For a given graph G, a maximum internal spanning tree of G is a spanning tree of G with maximum number of internal vertices. The Maximum Internal Spanning Tree (MIST) problem is to find a maximum internal spanning tree of the given graph. The MIST problem is a generalization of the Hamiltonian path problem. Since the Hamiltonian path problem is NP-hard, even for bipartite and chordal graphs, two important subclasses of graphs, the MIST problem also remains NP-hard for these graph classes. In this paper, we propose linear-time algorithms to compute a maximum internal spanning tree of cographs, block graphs, cactus graphs, chain graphs and bipartite permutation graphs. The optimal path cover problem, which asks to find a path cover of the given graph with maximum number of edges, is also a well studied problem. In this paper, we also study the relationship between the number of internal vertices in maximum internal spanning tree and number of edges in optimal path cover for the special graph classes mentioned above.",
+    "citation_count": 28,
+    "year": "2022/12",
+    "authors": [
+        {
+            "name": "Sharma, Gopika",
+            "country": "India"
+        },
+        {
+            "name": "Pandey, Arti",
+            "country": "India"
+        },
+        {
+            "name": "Wigal, Michael C.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

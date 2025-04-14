@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650219301580",
+    "title": "Analysis of high-dimensional biomedical data using an evolutionary multi-objective emperor penguin optimizer",
+    "abstract": "Over the last two decades, there has been an expeditious expansion in the generation and exploration of high-dimensional  biomedical data . Identification of biomarkers from the genomics data poses a significant challenge in  microarray data analysis . Therefore, for the methodical analysis of the genomics dataset, it is paramount to develop some effective algorithms. In this work, a multi-objective version of the emperor penguin optimization (EPO) algorithm with chaos, namely, multi-objective chaotic EPO (MOCEPO) is proposed. The suggested approach extends the original continuous single objective EPO to a competent binary multi-objective model. The objectives are to minimize the number of selected genes (NSG) and to maximize the  classification accuracy  (CA). In this work, Fisher score and  minimum redundancy  maximum relevance (mRMR) are independently used as initial filters. Further, the proposed MOCEPO is employed for the simultaneous optimal feature selection and  cancer classification . The proposed algorithm is successfully experimented on seven well-known high-dimensional binary-class as well as multi-class datasets. To evaluate the effectiveness, the proposed method is compared with non-dominated sorting  genetic algorithm  (NSGA-II), multi-objective  particle swarm optimization  (MOPSO), chaotic version of GA for multi-objective optimization (CGAMO), and chaotic MOPSO methods. The experimental results show that the proposed framework achieves better CA with minimum NSG compared to the existing schemes. The presented approach exhibits its efficacy with regard to NSG, accuracy, sensitivity, specificity, and F-measure.",
+    "citation_count": "54",
+    "year": "2019/08/01",
+    "authors": [
+        {
+            "name": "Santos Kumar Baliarsingh",
+            "country": ""
+        },
+        {
+            "name": "Swati Vipsita",
+            "country": ""
+        },
+        {
+            "name": "Khan Muhammad",
+            "country": ""
+        },
+        {
+            "name": "Sambit Bakshi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

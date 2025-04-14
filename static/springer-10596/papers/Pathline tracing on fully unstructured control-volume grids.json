@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-012-9307-1",
+    "title": "Pathline tracing on fully unstructured control-volume grids",
+    "abstract": "The trend toward unstructured grids in subsurface flow modeling has prompted interest in the issue of streamline or pathline tracing on unstructured grids. Streamline tracing on unstructured grids is problematic because a continuous velocity field is required for the calculation, while numerical solutions to the groundwater flow equations provide velocity in discretized form only. A method for calculating flow streamlines or pathlines from a finite-volume flow solution is presented. The method uses an unconstrained least squares method on interior cells and a constrained least squares method on boundary cells to approximate cell-centered velocities, which can then be continuously interpolated to any point in the domain of interest. Two-dimensional tests demonstrate that the method correctly reproduces uniform and corner-to-corner flow on fully unstructured grids. In three dimensions using regular hexahedral grids, the method agrees well with established semianalytical methods. Tests also demonstrate that the method produces physically realistic results on fully unstructured three-dimensional grids.",
+    "citation_count": 24,
+    "year": "2012/09",
+    "authors": [
+        {
+            "name": "Painter, S. L.",
+            "country": "USA"
+        },
+        {
+            "name": "Gable, C. W.",
+            "country": "USA"
+        },
+        {
+            "name": "Kelkar, S.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

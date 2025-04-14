@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621000317",
+    "title": "Image captioning via proximal policy optimization",
+    "abstract": "Image captioning  is the task of generating captions of images in natural language. The training typically consists of two phases, first minimizing the XE (cross-entropy) loss, and then with RL (reinforcement learning) over CIDEr scores. Although there are many innovations in neural architectures, fewer works are proposed for the RL phase. Motivated by one recent state-of-the-art architecture X-Transformer [Pan et al., CVPR 2020], we apply PPO (Proximal Policy Optimization) to it to establish a further improvement. However, trivially applying a vanilla policy gradient objective function with the clipping form of PPO would not improve the result. Therefore, we introduce certain modifications. We show that PPO is capable of enforcing trust-region constraints effectively. Also, experimentally performance decreases when PPO is combined with the  regularization  technique dropout. We analyze the possible reason in terms of KL-divergence of RL policies. As to the baseline adopted in the policy gradient estimator of RL, it is generally sentence-level. So all words in the same sentence use the same baseline in the gradient estimator. We instead use a word-level baseline via Monte-Carlo estimation. Thus, different words can have different baseline values. With all these, by fine-tuning a pre-trained X-Transformer, we train a single model achieving a competitive result of 133.3% on the MSCOCO Karpathy test set.  Source code  is available at  https://github.com/lezhang-thu/xtransformer-ppo .",
+    "citation_count": "13",
+    "year": "2021/04/01",
+    "authors": [
+        {
+            "name": "Le Zhang",
+            "country": ""
+        },
+        {
+            "name": "Yanshuo Zhang",
+            "country": ""
+        },
+        {
+            "name": "Xin Zhao",
+            "country": ""
+        },
+        {
+            "name": "Zexiao Zou",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

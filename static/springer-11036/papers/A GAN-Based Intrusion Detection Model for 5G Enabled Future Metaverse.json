@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-022-02075-6",
+    "title": "A GAN-Based Intrusion Detection Model for 5G Enabled Future Metaverse",
+    "abstract": "Metaverse is a future virtual reality technology, and Internet of Things(Iot)is one of its important components. For the metaverse security problem under the future 5G mobile network, this paper proposes a metaverse network intrusion detection model based on the underlying technology of metaverse, the Internet of Things. The model is a hybrid intrusion detection model based on Generative Adversarial Network (GAN). The GAN generator and discriminator are alternately trained based on gradient penalty Wasserstein distance to achieve Nash equilibrium, and the generator learns the real sample distribution features and generate data indistinguishable by the discriminator to enrich the dataset and improve its imbalance. At the same time, this paper combines the deep autoencoder (DAE) and random forest (RF) algorithms on the basis of GAN to construct a hybrid abnormal traffic detection model. DAE optimizes parameters through Back Propagation(BP) algorithm to obtain optimal dimensionality reduction data, which is used to optimize the model training process and improve training efficiency. Random forest constructs nodes by calculating Gini coefficient and random sampling with replacement, and synthesizes the judgment results of multiple sub-decision trees to determine the final classification result. The accuracy of the model proposed in this paper reaches 99.8% and 99.6% in the binary classification and multiple classification experiments.",
+    "citation_count": 40,
+    "year": "2022/12",
+    "authors": [
+        {
+            "name": "Ding, Shanshuo",
+            "country": "China"
+        },
+        {
+            "name": "Kou, Liang",
+            "country": "China"
+        },
+        {
+            "name": "Wu, Ting",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

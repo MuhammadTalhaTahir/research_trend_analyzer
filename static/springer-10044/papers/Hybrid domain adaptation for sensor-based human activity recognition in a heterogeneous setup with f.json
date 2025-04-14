@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-021-00995-9",
+    "title": "Hybrid domain adaptation for sensor-based human activity recognition in a heterogeneous setup with feature commonalities",
+    "abstract": "Common approaches in the cross-domain sensor-based human activity recognition are based on the homogeneous domain adaptation which relies on the assumption that the training and testing data are of homogeneous feature space. In reality, such an assumption does not always hold. For example, although two devices may share common sensors, it is possible that each of them has its own specific sensors. In this case, the homogeneous domain adaptation approaches cannot be used directly. Although heterogeneous domain adaptation approaches have been proposed to handle such feature space heterogeneity, most of them require some label information in the target domain, which is often difficult to obtain. As a compromise, the hybrid domain adaptation has been recently proposed to address feature space heterogeneity. Instead of using the target domain label information, it exploits the common features between domains as additional information, so the adaptation can be performed in an unsupervised manner. However, it still neglects the possibility of the common features between domains having different distribution, which may lead to the negative transfer of the domain-specific features. In this work, we introduce a domain-invariant latent representation of the common features to enhance the specific feature transfer in the hybrid domain adaptation approach. The latent representation learning and the domain-specific feature transfer are performed jointly using an autoencoder-based framework. The experimental result shows that the performance improves when the common features are furthermore aligned in the latent space. It is also shown that, in overall, our model outperforms existing approaches, yielding up to 9.48% accuracy improvement.",
+    "citation_count": 29,
+    "year": "2021/11",
+    "authors": [
+        {
+            "name": "Prabono, Aria Ghora",
+            "country": "South Korea"
+        },
+        {
+            "name": "Yahya, Bernardo Nugroho",
+            "country": "South Korea"
+        },
+        {
+            "name": "Lee, Seok-Lyong",
+            "country": "South Korea"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

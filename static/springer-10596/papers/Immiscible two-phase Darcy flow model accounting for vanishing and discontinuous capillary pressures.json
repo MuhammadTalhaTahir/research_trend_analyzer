@@ -1,0 +1,36 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-017-9675-7",
+    "title": "Immiscible two-phase Darcy flow model accounting for vanishing and discontinuous capillary pressures: application to the flow in fractured porous media",
+    "abstract": "Fully implicit time-space discretizations applied to the two-phase Darcy flow problem leads to the systems of nonlinear equations, which are traditionally solved by some variant of Newton’s method. The efficiency of the resulting algorithms heavily depends on the choice of the primary unknowns since Newton’s method is not invariant with respect to a nonlinear change of variable. In this regard, the role of capillary pressure/saturation relation is paramount because the choice of primary unknowns is restricted by its shape. We propose an elegant mathematical framework for two-phase flow in heterogeneous porous media resulting in a family of formulations, which apply to general monotone capillary pressure/saturation relations and handle the saturation jumps at rocktype interfaces. The presented approach is applied to the hybrid dimensional model of two-phase water-gas Darcy flow in fractured porous media for which the fractures are modelled as interfaces of co-dimension one. The problem is discretized using an extension of vertex approximate gradient scheme. As for the phase pressure formulation, the discrete model requires only two unknowns by degree of freedom.",
+    "citation_count": 20,
+    "year": "2017/12",
+    "authors": [
+        {
+            "name": "Brenner, Konstantin",
+            "country": "France"
+        },
+        {
+            "name": "Groza, Mayya",
+            "country": "France"
+        },
+        {
+            "name": "Jeannin, Laurent",
+            "country": "France"
+        },
+        {
+            "name": "Masson, Roland",
+            "country": "France"
+        },
+        {
+            "name": "Pellerin, Jeanne",
+            "country": "France"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

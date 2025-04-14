@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223000585",
+    "title": "Multi-generation multi-criteria feature construction using Genetic Programming",
+    "abstract": "The purpose of  feature construction  is to create new high level features from the original features. When  Genetic Programming  (GP) is applied to wrapper-based feature construction, especially when the  samples size  is small, GP generally overfits the training set and generalizes poorly with the deepening of evolution. Overfitting has attracted wide attention in some  classification models , however, it is not commonly studied in the field of feature construction. In this paper, a Multi-Generation feature construction method (MG) is developed to preserve the solutions produced by multiple generations of GP. A Multi-Criteria feature construction method (MC) is introduced to use a multi-criteria evaluation function to evaluate GP individuals. Combining the above two methods, a Multi-Generation Multi-Criteria feature construction method (MGMC) is proposed. Experiments on fourteen datasets show that the proposed MG and MC methods can improve the classification performance and overcome overfitting problems of traditional feature construction methods in most cases. The combined MGMC method further improves the classification performance and achieves the best results.",
+    "citation_count": "7",
+    "year": "2023/04/01",
+    "authors": [
+        {
+            "name": "Jianbin Ma",
+            "country": ""
+        },
+        {
+            "name": "Xiaoying Gao",
+            "country": ""
+        },
+        {
+            "name": "Ying Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

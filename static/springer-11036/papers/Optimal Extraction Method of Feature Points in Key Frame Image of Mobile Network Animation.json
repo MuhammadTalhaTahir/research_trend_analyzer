@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-022-02070-x",
+    "title": "Optimal Extraction Method of Feature Points in Key Frame Image of Mobile Network Animation",
+    "abstract": "In order to effectively extract the feature points of mobile network animation images and accurately reflect the main content of the video, an optimization method to extract the feature points of key frame images of mobile network animation is proposed. Firstly, the key frames are selected according to the content change degree of the animation video. The scale invariant feature transformation algorithm is used to describe the feature points of the key frame image of the animation video. The local feature points of the image are estimated by the constraint optimization method to realize the optimization extraction of the feature points of the key frame image of the mobile network animation. The efficiency of feature points extraction is analyzed from the number and effectiveness of feature points extraction, time-consuming and similarity invariance of feature points. The experimental results show that the proposed method has excellent adaptability, and can effectively extract feature points of mobile network animation image.",
+    "citation_count": 20,
+    "year": "2022/12",
+    "authors": [
+        {
+            "name": "Yin, Tao",
+            "country": "China"
+        },
+        {
+            "name": "Lv, Zhihan",
+            "country": "Sweden"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

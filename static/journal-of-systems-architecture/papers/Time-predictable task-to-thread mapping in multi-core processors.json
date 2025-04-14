@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124000055",
+    "title": "Time-predictable task-to-thread mapping in multi-core processors",
+    "abstract": "The performance of time-predictable systems can be improved in multi-core processors using parallel programming models (e.g., OpenMP). However, schedulability analysis of parallel applications is a big challenge due to their sophisticated structure. The common drawbacks of current task-to-thread mapping approaches in OpenMP are that they (i) utilize a global queue in the mapping process, which may increase contention, (ii) do not apply heuristic techniques, which may reduce the predictability and performance of the system, and (iii) use basic analytical techniques, which may cause notable pessimism in the temporal conditions. Accordingly, this paper proposes a task-to-thread mapping method in multi-core processors based on the OpenMP framework. The mapping process is carried out through two phases:  allocation  and  dispatching . Each thread has an allocation queue in order to minimize contention, and the allocation and dispatching processes are performed using several heuristic algorithms to enhance predictability. In the allocation phase, each task-part from the OpenMP DAG is allocated to one of the allocation queues, which includes both sibling and child task-parts. A suitable thread (i.e., allocation queue) is selected using one of the suggested heuristic allocation algorithms. In the dispatching phase, when a thread is idle, a task-part is selected from its allocation queue using one of the suggested heuristic dispatching algorithms and then dispatched to and executed by the thread. The performance of the proposed method is evaluated under different conditions (e.g., varying the number of tasks and the number of threads) in terms of application response time and overhead of the mapping process. The simulation results show that the proposed method surpasses the other methods, especially in the scenario that includes overhead of the mapping. In addition, a prototype implementation of the main heuristics is evaluated using two kernels from real-world applications, showing that the methods work better than LLVM's default scheduler in most of the configurations.",
+    "citation_count": "0",
+    "year": "2024/03/01",
+    "authors": [
+        {
+            "name": "Mohammad Samadi",
+            "country": ""
+        },
+        {
+            "name": "Sara Royuela",
+            "country": ""
+        },
+        {
+            "name": "Luis Miguel Pinho",
+            "country": ""
+        },
+        {
+            "name": "Tiago Carvalho",
+            "country": ""
+        },
+        {
+            "name": "Eduardo Quiñones",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

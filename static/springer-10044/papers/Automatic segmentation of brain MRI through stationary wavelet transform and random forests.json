@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-014-0373-y",
+    "title": "Automatic segmentation of brain MRI through stationary wavelet transform and random forests",
+    "abstract": "This paper introduces a new brain Magnetic Resonance Imaging segmentation framework that combines a powerful multiresolution/multiscale image analysis technique with a robust weakly used ensemble learning paradigm. Firstly, the image is proceeded with the anisotropic diffusion filter to reduce the noise. Then, Stationary Wavelet Transform (SWT) is applied to get multiresolution/multiscale texture information. During the SWT stage, three levels of decomposition are used and four statistical features are computed around every voxel of each resulting sub-band. The feature extraction step allows to describe each voxel through a feature vector of 60 dimensions. Finally, the extracted features are used to feed a Random Forest classifier. To train and test this classifier, we make use of the Internet Brain Segmentation Repository database. The achieved results showed that our system outperforms other state of art methods for the segmentation of Gray Matter, White Matter, and Cerebrospinal Fluid.",
+    "citation_count": 88,
+    "year": "2015/11",
+    "authors": [
+        {
+            "name": "Bendib, Mohamed Mokhtar",
+            "country": "Algeria"
+        },
+        {
+            "name": "Merouani, Hayet Farida",
+            "country": "Algeria"
+        },
+        {
+            "name": "Diaba, Fatma",
+            "country": "Algeria"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002440",
+    "title": "Multi-branch progressive embedding network for crowd counting",
+    "abstract": "Crowd counting is essential for video surveillance and public safety. The performance of counting models has been greatly improved with the rapid development of Convolution  neural networks  (CNN), while it still suffers interference from complex background and large-scale variation. To relieve the above challenges, this paper proposes a novel Multi-branch Progressive Embedding Network (MPENet) for crowd counting. Specifically, the proposed network mainly consists of two modules named Background Area Filter (BAF) and Sequential Multi-scale Modules (SMM), which are embedded with each other to generate higher-quality density maps. Firstly, the BAF model base on  attention mechanism  is proposed to distinguish crowd from background, which effectively avoids the model outputting positive predictions in the  background region . Meanwhile, a multi-level supervision mechanism is proposed to generate more accurate attention maps. Besides, the SMM module is designed to be progressively embedded with scale context information so that the scale feature will be smooth and continuous. Finally, a novel multi-scale consistency structural loss is proposed to avoid pixel-level isolation due to Euclidean loss. The proposed method significantly improves counting accuracy, achieving  Mean Absolute Error  (MAE) of 57.6 and 6.9 on ShanghaiTechA and ShanghaiTechB respectively.",
+    "citation_count": "3",
+    "year": "2024/08/01",
+    "authors": [
+        {
+            "name": "Lifang Zhou",
+            "country": ""
+        },
+        {
+            "name": "Songlin Rao",
+            "country": ""
+        },
+        {
+            "name": "Weisheng Li",
+            "country": ""
+        },
+        {
+            "name": "Bo Hu",
+            "country": ""
+        },
+        {
+            "name": "Bo Sun",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

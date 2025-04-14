@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S026288561000079X",
+    "title": "Iris segmentation in non-ideal images using graph cuts",
+    "abstract": "A non-ideal  iris image   segmentation approach  based on  graph cuts  is presented that uses both the appearance and eye geometry information. A texture measure based on gradients is computed to discriminate between eyelash and non-eyelash regions, combined with image intensity differences between the iris, pupil, and the background (region surrounding the iris) are utilized as cues for segmentation. The texture and intensity distributions for the various regions are learned from histogramming and explicit sampling of the pixels estimated to belong to the corresponding regions. The image is modeled as a Markov Random Field and the  energy minimization  is achieved via  graph cuts  to assign each image pixel one of the four possible labels: iris, pupil, background, and eyelash. Furthermore, the iris region is modeled as an ellipse, and the best  fitting ellipse  to the initial pixel based iris segmentation is computed to further refine the segmented region. As a result, the iris region mask and the parameterized iris shape form the outputs of the proposed approach that allow subsequent  iris recognition  steps to be performed for the segmented irises. The algorithm is unsupervised and can deal with non-ideality in the iris images due to out-of-plane rotation of the eye, iris occlusion by the eyelids and the eyelashes, multi-modal iris  grayscale  intensity distribution, and various  illumination effects . The proposed segmentation approach is tested on several publicly available non-ideal near infra red (NIR) iris image databases. We compare both the segmentation error and the resulting recognition error with several leading techniques, demonstrating significantly improved results with the proposed technique.",
+    "citation_count": "30",
+    "year": "2010/12/01",
+    "authors": [
+        {
+            "name": "Shrinivas Pundlik",
+            "country": ""
+        },
+        {
+            "name": "Damon Woodard",
+            "country": ""
+        },
+        {
+            "name": "Stan Birchfield",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

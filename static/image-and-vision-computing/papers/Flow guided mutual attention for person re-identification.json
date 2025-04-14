@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621001517",
+    "title": "Flow guided mutual attention for person re-identification",
+    "abstract": "Person Re-Identification (ReID) is a challenging problem in many  video analytics  and surveillance applications, where a person's identity must be associated across a distributed non-overlapping network of cameras. Video-based person  ReID  has recently gained much interest given the potential for capturing discriminant spatio-temporal information from video clips that is unavailable for image-based ReID. Despite recent advances, deep learning (DL) models for video ReID often fail to leverage this information to improve the robustness of feature representations. In this paper, the motion pattern of a person is explored as an additional cue for ReID. In particular, a flow-guided Mutual  Attention network  is proposed for fusion of bounding box and optical flow sequences over tracklets using any 2D-CNN backbone, allowing to encode temporal information along with spatial appearance information. Our Mutual Attention network relies on the joint spatial attention between image and optical flow feature maps to activate a common set of salient features. In addition to flow-guided attention, we introduce a method to aggregate features from longer input streams for better video sequence-level representation. Our extensive experiments on three challenging video ReID datasets indicate that using the proposed approach allows to improve  recognition accuracy  considerably with respect to conventional gated-attention networks, and state-of-the-art methods for video-based person ReID.",
+    "citation_count": "8",
+    "year": "2021/09/01",
+    "authors": [
+        {
+            "name": "Madhu Kiran",
+            "country": ""
+        },
+        {
+            "name": "Amran Bhuiyan",
+            "country": ""
+        },
+        {
+            "name": "Le Thanh Nguyen-Meidine",
+            "country": ""
+        },
+        {
+            "name": "Louis-Antoine Blais-Morin",
+            "country": ""
+        },
+        {
+            "name": "Ismail Ben Ayed",
+            "country": ""
+        },
+        {
+            "name": "Eric Granger",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

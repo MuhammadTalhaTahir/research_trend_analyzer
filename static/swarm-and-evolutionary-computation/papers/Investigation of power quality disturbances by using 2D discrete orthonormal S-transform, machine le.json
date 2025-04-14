@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218300105",
+    "title": "Investigation of power quality disturbances by using 2D discrete orthonormal S-transform, machine learning and multi-objective evolutionary algorithms",
+    "abstract": "The aim of this paper is to investigate the power quality analysis by using 2D discrete orthonormal S-transform, machine learning and multi-objective  evolutionary algorithms . The fact that PQ signals are one-dimensional (1D) signals due to their nature leads to the search for feature extraction approaches based on 1D signal processing methods. Due to the electric network is getting more and more complicated day by day, it is necessary to determine effectively the disturbances events. In the proposed method, extraction of a new feature based on two-dimensional (2D) signal processing by 2D Fast Discrete Orthonormal Stockwell Transform (2D-FDOST) method and determination of the most suitable feature group by Non-dominated Sorting Genetic Algorithm II (NSGA-II) method are performed. Eleven different PQ events are synthetically produced based on  mathematical modelling . 1D signals are transformed into 2D signals with equal row and column numbers. Statistical and image-based features are created on the amplitude and  phase matrices  obtained by 2D-FDOST method from 2D signals. The NSGA-II method, which is one of the multi-objective evolutionary optimization methods, is used to convert a large number of feature vectors into a small number of useful feature groups. NSGA-II produces the optimal solution for two different fitness functions that calculate the number of features and classifier performance. By using different machine learning classifiers for selected features, a model classifying PQ disturbances with high performance and robust structure against noisy situations is created.",
+    "citation_count": "36",
+    "year": "2019/02/01",
+    "authors": [
+        {
+            "name": "Seçkin Karasu",
+            "country": ""
+        },
+        {
+            "name": "Zehra Saraç",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

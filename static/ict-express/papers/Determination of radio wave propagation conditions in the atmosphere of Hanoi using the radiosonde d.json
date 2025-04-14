@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959522000972",
+    "title": "Determination of radio wave propagation conditions in the atmosphere of Hanoi using the radiosonde data of balloons",
+    "abstract": "This article uses radiosonde data of balloons in Hanoi to determine the radio refractive index and the conditions of radio wave propagation in the atmosphere. The research results in the three years 2016–2018 show the highest average radio refractivity, the maximum radio refractivity difference between the years. Secondly, radiosonde data are used to estimate the accuracy of global ITU models, and showed that the radio refractivity’s difference between the ITU-R model and the observed value by radiosonde method is up to 60 N-units at a lower altitude of atmosphere. In conclusion, it is recommended to use radiosonde data instead of the ITU model (where available) to obtain refractive index when studying wave propagation conditions in the atmosphere.",
+    "citation_count": "0",
+    "year": "2022/12/01",
+    "authors": [
+        {
+            "name": "Chi Cong Pham",
+            "country": ""
+        },
+        {
+            "name": "Xuan Anh Nguyen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S221065022300175X",
+    "title": "Interactive niching-based two-stage evolutionary algorithm for constrained multiobjective optimization",
+    "abstract": "When solving constrained  multiobjective optimization problems  (CMOPs), how to maintain diversity without losing convergence is a major challenge, because some small discrete  feasible regions  make the population hard to find a complete feasible  Pareto Front . To this end, an interactive niching-based two-stage  evolutionary algorithm  for constrained  multiobjective optimization , named INCMO, is proposed in this study. At each stage of INCMO, both two populations are employed to focus on different evolution purposes. Specifically, the main population optimizes the original CMOP, while the  auxiliary  population only considers the objectives by ignoring all constraints. INCMO uses two different niching mechanisms in two stages. In the early stage, each population independently uses the niching technique to generate  offspring , to maintain diversity. In addition, two offspring populations are shared to realize migration between two populations. In the later stage, two populations cooperate to generate offspring based on an interactive niching technique. To be specific, two populations are merged and then divided into different niches. In this case, individuals from two populations will be assigned to the same niche. After that, individuals in the niche produce offspring through crossover and mutation. The process of generating offspring also promotes more effective migration between the two populations on the basis of increasing the diversity of population. Compared with other well-established methods, the proposed method in this study shows better performance on four test suites including 47 benchmark problems.",
+    "citation_count": "6",
+    "year": "2023/12/01",
+    "authors": [
+        {
+            "name": "Jing Liang",
+            "country": ""
+        },
+        {
+            "name": "Leiyu Zhang",
+            "country": ""
+        },
+        {
+            "name": "Kunjie Yu",
+            "country": ""
+        },
+        {
+            "name": "Boyang Qu",
+            "country": ""
+        },
+        {
+            "name": "Fuxing Shang",
+            "country": ""
+        },
+        {
+            "name": "Kangjia Qiao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

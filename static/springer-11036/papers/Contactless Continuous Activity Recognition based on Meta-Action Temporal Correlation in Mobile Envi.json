@@ -1,0 +1,31 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-020-01658-5",
+    "title": "Contactless Continuous Activity Recognition based on Meta-Action Temporal Correlation in Mobile Environments",
+    "abstract": "Continuous activity recognition (CAR) plays an important role in human daily indoor activity monitoring and can be widely used in smart home, human-computer interaction and user authentication. Due to the privacy issue and limited coverage of video signals, RF-based CAR has attracted more and more attention in recent years. This paper focuses on three key problems in RF-based CAR: denoising, segmentation and recognition. We present the design and implementation of a contactless and sensorless continuous activity recognition system, namely WiCheck. Our basic idea is to utilize the temporal correlation between two adjacent actions in continuous activity to eliminate the cumulative error in continuous activity segmentation. Firstly, the multi-layer optimized noise elimination method is used to decrease the environment interference. Secondly, a method based on dual-swing window is proposed to reduce the cumulative error of continuous activity segmentation. Finally, WiCheck is implemented in different indoor environments, and 6 continuous activity sequences are designed to evaluate and analyze the influencing factors. The continuous activity recognition accuracy of WiCheck to two actions and three actions can approach 90% and 75%, respectively.",
+    "citation_count": 40,
+    "year": "2020/12",
+    "authors": [
+        {
+            "name": "Wang, Lin",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Su, Xing",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Su, Hecheng",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Jing, Nan",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

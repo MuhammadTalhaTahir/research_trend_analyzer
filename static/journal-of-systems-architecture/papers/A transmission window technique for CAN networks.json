@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762116300765",
+    "title": "A transmission window technique for CAN networks",
+    "abstract": "The Controller Area Network (CAN) has become a de-facto communication protocol in automation systems over the last three decades. Some  CAN  networks now employ TDMA-based communication in order to help meet real-time constraints. Whilst this form of media access control brings several timeliness benefits, studies have also illustrated negative effects on transmission reliability; duplicated message instances can help to increase this reliability. In this paper a transmission window technique for CAN is proposed. A bounded amount of re-transmission is allowed for each message within this window, which can in many cases provides increased reliability in the presence of errors or bursts of errors. A probabilistic analysis of transmission windows is presented and used to develop a simple algorithm for calculating the optimal window size to achieve a specified statistical guarantee of message delivery. Stochastic simulations along with computational and empirical results are presented which validate the analysis, and indicate that in many circumstances the technique can potentially reduce the amount of bandwidth needed for specified reliability levels when compared to the use of message duplicates. Suggestions are also made to help increase the reliability of message duplications in error burst environments.",
+    "citation_count": "4",
+    "year": "2016/09/01",
+    "authors": [
+        {
+            "name": "Michael Short",
+            "country": ""
+        },
+        {
+            "name": "Imran Sheikh",
+            "country": ""
+        },
+        {
+            "name": "Syed Aley Imran Rizvi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

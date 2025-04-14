@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762119301511",
+    "title": "Scheduling optimization with partitioning for mixed-criticality systems",
+    "abstract": "Modern real-time embedded and cyber-physical systems comprise a large number of applications, often of different  criticalities , executing on the same computing platform. Partitioned scheduling is used to provide temporal isolation among tasks with different criticalities. Isolation is often a requirement, for example, in order to avoid the case when a low criticality task overruns or fails in such a way that causes a failure in a high criticality task. When the number of partitions increases in mixed criticality systems, the size of the schedule table can become extremely large, which becomes a critical bottleneck due to design time and memory constraints of embedded systems. In addition, switching between partitions causes CPU overhead due to preemption. In this paper, we propose a design framework comprising the trade-off between schedule table size and system utilization, as well as a re-scheduling algorithm to reduce the effect of preemptions on utilization. Extensive experiments demonstrate the effectiveness of the proposed algorithms and design framework.",
+    "citation_count": "9",
+    "year": "2019/09/01",
+    "authors": [
+        {
+            "name": "Yuanbin Zhou",
+            "country": ""
+        },
+        {
+            "name": "Soheil Samii",
+            "country": ""
+        },
+        {
+            "name": "Petru Eles",
+            "country": ""
+        },
+        {
+            "name": "Zebo Peng",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218309672",
+    "title": "Evolving rollout-justification based heuristics for resource constrained project scheduling problems",
+    "abstract": "Resource constrained project scheduling is critical in logistic and planning operations across a range of industries. An interesting heuristic for solving this problem is the Rollout-Justification (RJ) procedure. This procedure, which has conceptual similarities with  dynamic programming , incrementally builds a solution by identifying the next activity to schedule based on the projections made using a guiding priority rule (heuristic) coupled with forward-backward local search. A critical component that affects the performance of RJ procedure is the guiding priority rule (or a set of rules). In this study, instead of using existing rules from literature, we aim to  evolve  new priority rules using  genetic programming , and systematically investigate their use with the RJ procedure. Apart from evolving new rules, we also investigate new ways of integrating/utilizing the rules within RJ procedure. To this end we consider the use of both forward and backward scheduling, independent and cohesive ensemble rule approaches, limited and unlimited number of  function evaluations , among others. We use data from the project scheduling library (PSPLib) to train and test the evolved rules and their integration with RJ. A comprehensive set of numerical experiments are performed to benchmark the rules evolved using the proposed approach against a range of existing rules. The results demonstrate the competence and potential of the proposed approach, both in terms of accuracy and complexity.",
+    "citation_count": "21",
+    "year": "2019/11/01",
+    "authors": [
+        {
+            "name": "Shelvin Chand",
+            "country": ""
+        },
+        {
+            "name": "Hemant Singh",
+            "country": ""
+        },
+        {
+            "name": "Tapabrata Ray",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

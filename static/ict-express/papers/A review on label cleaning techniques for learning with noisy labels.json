@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959524001103",
+    "title": "A review on label cleaning techniques for learning with noisy labels",
+    "abstract": "Classification models categorize objects into given classes, guided by training samples with input features and labels. In practice, however, labels can be corrupted by human error or mistakes, known as label noise, which degrades classification accuracy. To address this issue, recently, various works propose the algorithms to clean datasets with label noise. We categorize the algorithms in granular ways, and review the algorithms, such as sample selection, label correction, and select-and-correct algorithms, based on the categorization. In addition, we provide future research directions for cleaning datasets, considering practical challenges, such as class imbalance, class incremental learning, and corrupted input features.",
+    "citation_count": "0",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Jongmin Shin",
+            "country": ""
+        },
+        {
+            "name": "Jonghyeon Won",
+            "country": ""
+        },
+        {
+            "name": "Hyun-Suk Lee",
+            "country": ""
+        },
+        {
+            "name": "Jang-Won Lee",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650219305346",
+    "title": "Solving the multi-objective flexible job shop scheduling problem with a novel parallel branch and bound algorithm",
+    "abstract": "This work presents a novel parallel  branch and bound algorithm  to efficiently solve to  optimality  a set of instances of the multi-objective flexible  job shop scheduling problem  for the first time, to the very best of our knowledge. It makes use of the well-known NSGA-II algorithm to initialize its upper bound. The algorithm is implemented for shared-memory architectures, and among its main features, it incorporates a  grid representation  of the  solution space , and a concurrent priority queue to store and dispatch the pending sub-problems to be solved. We report the  optimal Pareto front  of thirteen well-known instances from the literature, which were unknown before. They will be very useful for the scientific community to provide more accuracy in the performance measurement of their algorithms. Indeed, we carefully analyze the performance of NSGA-II on these instances, comparing the results against the optimal ones computed in this work. Extensive computational experiments show that the proposed algorithm using 24 cores achieves a speedup of 15.64x with an efficiency of 65.20%.",
+    "citation_count": "52",
+    "year": "2020/03/01",
+    "authors": [
+        {
+            "name": "Carlos Soto",
+            "country": ""
+        },
+        {
+            "name": "Bernabé Dorronsoro",
+            "country": ""
+        },
+        {
+            "name": "Héctor Fraire",
+            "country": ""
+        },
+        {
+            "name": "Laura Cruz-Reyes",
+            "country": ""
+        },
+        {
+            "name": "Claudia Gomez-Santillan",
+            "country": ""
+        },
+        {
+            "name": "Nelson Rangel",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-012-0401-3",
+    "title": "Information Propagation through Opportunistic Communication in Mobile Social Networks",
+    "abstract": "At present, people can communicate with each other through short range communication technologies (Bluetooth, WiFi, etc.) installed in their smart terminals. Due to limited communication range, communication is opportunistic, and mobile social networks formed by such technologies can be seen as delay tolerant networks (DTN). This paper presents a theoretical framework to evaluate the performance of information propagation in such network based on ODE equations. This framework can evaluate the impact of peoples’ many behaviors. For example, people may not want to help others because of their selfish nature. In addition, peoples who are not interested in the message may not receive the message at all, but they become to be interested in the message later. On the other hand, people may discard the message after they used it. We check the accuracy of our model through simulations based on both synthetic and real motion traces (the average deviation is not bigger than 5.09&nbsp;%). Numerical results show that peoples’ behaviors really have certain impact on the performance of information propagation. For example, if the selfish level is bigger, some persons cannot obtain message at all. If peoples discard message with bigger probability, above result may also appear.",
+    "citation_count": 43,
+    "year": "2012/12",
+    "authors": [
+        {
+            "name": "Wu, Yahui",
+            "country": "China"
+        },
+        {
+            "name": "Deng, Su",
+            "country": "China"
+        },
+        {
+            "name": "Huang, Hongbin",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

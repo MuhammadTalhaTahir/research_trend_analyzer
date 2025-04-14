@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650214000273",
+    "title": "Directed Bee Colony Optimization Algorithm",
+    "abstract": "The paper presents a new optimization algorithm inspired by group decision-making process of honey bees. The honeybees search for the best nest site among many possible sites taking care of both speed and accuracy. The nest  site selection  is analogous to finding the  optimality  in an optimization process. Such similarities between two processes have been used to cultivate a new algorithm by learning from each other. Various experiments have been conducted for better understanding of the algorithm. A comprehensive experimental investigation on the choice of various parameters such as number of bees, starting point for exploration, choice of decision process etc. has been made, discussed and used to formulate a more accurate and robust algorithm. The proposed Directed Bee Colony algorithm (DBC) has been tested on various benchmark optimization problems. To investigate the robustness of DBC, the scalability study is also conducted. The experiments conducted clearly show that the DBC generally outperformed the other approaches. The proposed algorithm has exceptional property of generating a unique optimal solution in comparison to earlier nature inspired approaches and therefore, can be a better option for real-time online optimization problems.",
+    "citation_count": "21",
+    "year": "2014/08/01",
+    "authors": [
+        {
+            "name": "Rajesh Kumar",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

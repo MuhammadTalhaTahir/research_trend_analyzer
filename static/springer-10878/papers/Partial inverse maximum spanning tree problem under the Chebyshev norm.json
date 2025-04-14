@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-022-00903-9",
+    "title": "Partial inverse maximum spanning tree problem under the Chebyshev norm",
+    "abstract": "Given an edge weighted graph, and an acyclic edge set, the target of the partial inverse maximum spanning tree problem (PIMST) is to get a new weight function such that the given set is included in some maximum spanning tree associated with the new function, and the difference between the two functions is minimum. In this paper, we research PIMST under the Chebyshev norm. Firstly, the definition of extreme optimal solution is introduced, and its some properties are gained. Based on these properties, a polynomial scale optimal value candidate set is obtained. Finally, strongly polynomial-time algorithms for solving this problem are proposed. Thus, the computational complexity of PIMST is completely solved.",
+    "citation_count": 28,
+    "year": "2022/12",
+    "authors": [
+        {
+            "name": "Li, Xianyue",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Yang, Ruowang",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Zhang, Heping",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Zhang, Zhao",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

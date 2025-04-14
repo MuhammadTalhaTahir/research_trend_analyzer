@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002368",
+    "title": "Complex event models for automotive embedded systems",
+    "abstract": "The adherent need for computational power in highly automated driving will lead to fewer  control units  with larger computational power, eventually replacing a large number of a vehicle’s electric control units by so-called vehicle control computers. As a result, high-level functionality will no longer be realized by co-designing software and hardware, but instead by integrating software from different suppliers onto a shared hardware platform. In order to ensure that this functionality will operate according to system specifications, the integrator will need to ensure that requirements related to performance and timing are fulfilled. However, solely relying on e.g. periodical or event triggered activation patterns when integrating third-party software without taking into account external triggering information may lead to overly pessimistic estimations, thus leading to unnecessarily expensive hardware or even preventing feasible configurations. In this work, we provide a comprehensive overview of activation patterns that are employed in the automotive industry and a detailed description of their semantics. We also propose novel event models corresponding to these activation patterns in order to enable the application of performance analysis techniques. We demonstrate the usage of these models on a case study in the context of compositional performance analysis, and quantify the improvement when bounding  response times  in comparison to the usage of chained task sets. Our experimental results show that the accurate representation of occurrence schemes using specialized event models allows to reduce the  pessimism  by up to 32.3% compared to using traditional modeling techniques. Finally, we discuss the results along with the impact on the determinism of an application’s temporal behavior.",
+    "citation_count": "4",
+    "year": "2022/02/01",
+    "authors": [
+        {
+            "name": "Lukas Krawczyk",
+            "country": ""
+        },
+        {
+            "name": "Mahmoud Bazzal",
+            "country": ""
+        },
+        {
+            "name": "Harald Mackamul",
+            "country": ""
+        },
+        {
+            "name": "Raphael Weber",
+            "country": ""
+        },
+        {
+            "name": "Carsten Wolff",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

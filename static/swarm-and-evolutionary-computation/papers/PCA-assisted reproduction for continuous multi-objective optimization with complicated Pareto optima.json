@@ -1,0 +1,38 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S221065022030448X",
+    "title": "PCA-assisted reproduction for continuous multi-objective optimization with complicated Pareto optimal set",
+    "abstract": "In terms of generating  offspring  solutions, simulated binary crossover (SBX) and differential evolution (DE) are two of the most representative reproduction operators in evolutionary multi-objective algorithms (EMOAs). However, they are found as less effective on multi-objective problems (MOPs) with complicated  Pareto optimal set  (PS). Under mild conditions, the PS of an MOP is an  ( m − 1 ) -dimensional piecewise continuous manifolds where  m  is the number of objectives. Inspired from this regularity property, this study proposes a simple yet effective reproduction operator, namely, PCA-assisted reproduction (PCA-ar). Specifically, the PCA-ar first applies principal component analysis (PCA) method to construct a new decision space with reduced number of dimensions based on the information extracted from several well converged solutions. The PS is then estimated by a  hyperplane  in the new decision space. To this end, new offspring are sampled from the estimated PS, and then re-converted to the original decision space for fitness calculation. In order to systematically examine the effectiveness of the PCA-ar operator, we integrate it into NSGA-II and MOEA/D, and compare the derived algorithms, nNSGA-II and nMOEA/D, with their original versions (NSGA-II with SBX operator and MOEA/D with DE operator) as well as the regularity model based multi-objective estimated distribution algorithm (RM-MEDA) on the modified DTLZ benchmarks with up to 8 objectives. Experimental results show that nNSGA-II and nMOEA/D outperform the competitor EMOAs for most of problems, which indicate that the PCA-ar is effective. Lastly, the PCA-ar is also demonstrated to have good scalability to the number of decision variables.",
+    "citation_count": "9",
+    "year": "2021/02/01",
+    "authors": [
+        {
+            "name": "Rui Wang",
+            "country": ""
+        },
+        {
+            "name": "Nan-Jiang Dong",
+            "country": ""
+        },
+        {
+            "name": "Dun-Wei Gong",
+            "country": ""
+        },
+        {
+            "name": "Zhong-Bao Zhou",
+            "country": ""
+        },
+        {
+            "name": "Shi Cheng",
+            "country": ""
+        },
+        {
+            "name": "Guo-Hua Wu",
+            "country": ""
+        },
+        {
+            "name": "Ling Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

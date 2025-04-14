@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003664",
+    "title": "Automatic segmentation of deep endometriosis in the rectosigmoid using deep learning",
+    "abstract": "Endometriosis is an inflammatory disease that causes several symptoms, such as infertility and constant pain. While biopsy remains the gold standard for diagnosing endometriosis, imaging tests, particularly magnetic resonance, are becoming increasingly prominent, especially in cases of deep infiltrating disease. However, precise and accurate MRI results require a skilled radiologist. In this study, we employ our built dataset to propose an automated method for classifying patients with endometriosis and segmenting the endometriosis lesion in magnetic resonance images of the rectum and sigmoid colon using image processing and deep learning techniques. Our goals are to assist in the diagnosis, to map the extent of the disease before a surgical procedure, and to help reduce the need for invasive diagnostic methods. This method consists of the following steps: rectosigmoid ROI extraction, image classification, initial lesion segmentation, lesion ROI extraction, and final lesion segmentation. ROI extraction is employed to limit the area while searching for lesions. Using an ensemble of networks, classification of images and patients, with or without endometriosis, achieved accuracies of 87.46% and 96.67%, respectively. One of these networks is a proposed modification of VGG-16. The initial segmentation step produces candidate regions for lesions using TransUnet, achieving a Dice index of 51%. These regions serve as the basis for extracting a new ROI. In the final lesion segmentation, and also using TransUnet, we obtain a Dice index of 65.44%.",
+    "citation_count": "1",
+    "year": "2024/11/01",
+    "authors": [
+        {
+            "name": "Weslley Kelson Ribeiro Figueredo",
+            "country": ""
+        },
+        {
+            "name": "Aristófanes Corrêa Silva",
+            "country": ""
+        },
+        {
+            "name": "Anselmo Cardoso de Paiva",
+            "country": ""
+        },
+        {
+            "name": "João Otávio Bandeira Diniz",
+            "country": ""
+        },
+        {
+            "name": "Alice Brandão",
+            "country": ""
+        },
+        {
+            "name": "Marco Aurelio Pinho Oliveira",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

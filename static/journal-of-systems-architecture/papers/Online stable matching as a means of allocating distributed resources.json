@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762198000721",
+    "title": "Online stable matching as a means of allocating distributed resources",
+    "abstract": "In heterogeneous distributed systems, achieving  optimality  in both effective use of  computational resources  (e.g. throughput) and user satisfaction (e.g. response time) is an important unresolved problem. If the users of the system participate dynamically as consumers as well as donors of computational resources, the task of optimizing the exchange of these computational resources leads to a  combinatorial problem . As a solution, we propose a novel algorithm, adaptive online stable matching (AOSM). We present experimental data which compare the performance of AOSM with the performance of two alternative algorithms, first-come first-served (FCFS) and fixed- k  online.",
+    "citation_count": "7",
+    "year": "1999/09/01",
+    "authors": [
+        {
+            "name": "Hyunyoung Lee",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885625000769",
+    "title": "Object tracking based on temporal and spatial context information",
+    "abstract": "Currently, numerous advanced trackers improve stability by optimizing the target visual appearance models or by improving interactions between templates and search areas. Despite these advancements, appearance-based trackers still primarily depend on the visual information of targets without adequately integrating spatio-temporal context information, thus limiting their effectiveness in handling similar objects around the target. To address this challenge, a novel object tracking method, TSCTrack, which leverages spatio-temporal context information, has been introduced. TSCTrack overcomes the shortcomings of traditional center-cropping preprocessing techniques by introducing Global Spatial Position Embedding, effectively preserving spatial information and capturing motion data of targets. Additionally, TSCTrack incorporates a Spatial Relationship Aggregation module and a Temporal Relationship Aggregation module—the former captures static spatial context information per frame, while the latter integrates dynamic temporal context information. This sophisticated integration allows the Dynamic Tracking Prediction module to generate precise target coordinates effectively, greatly reducing the impact of target deformations and scale changes on tracking performance. Demonstrated across multiple public tracking datasets including LaSOT, TrackingNet, UAV123, GOT-10k, and OTB, TSCTrack showcases superior performance and validates its exceptional tracking capabilities in diverse scenarios.",
+    "citation_count": "0",
+    "year": "2025/05/01",
+    "authors": [
+        {
+            "name": "Yan Chen",
+            "country": ""
+        },
+        {
+            "name": "Tao Lin",
+            "country": ""
+        },
+        {
+            "name": "Jixiang Du",
+            "country": ""
+        },
+        {
+            "name": "Hongbo Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

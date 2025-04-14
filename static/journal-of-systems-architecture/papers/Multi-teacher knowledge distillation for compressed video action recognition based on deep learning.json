@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762119305028",
+    "title": "Multi-teacher knowledge distillation for compressed video action recognition based on deep learning",
+    "abstract": "Recently,  Convolutional Networks  have great progress in classifying images. While action recognition is different from still  image classification ,  video data  contains temporal information which plays an important role in  video understanding . Currently most CNN-based approaches for action recognition has excessive computational costs, an explosion of parameters and  computation time . The most efficient method currently trained a deep network directly on the compressed video contains the motion information. However, this method has a large number of parameters. We propose a multi-teacher  knowledge distillation  framework for compressed  video action recognition  to compress this model. With this framework, the model is compressed by  transferring  the knowledge from multiple teachers to a single small student model. With multi-teacher knowledge distillation, students learn better than single-teacher knowledge distillation. Experiments show that we can reach a 2.4 ×  compression rate in number of parameters and 1.2 ×  computation reduction with 1.79% loss of accuracy on the UCF-101 dataset and 0.35% loss of accuracy on the HMDB51 dataset.",
+    "citation_count": "28",
+    "year": "2020/02/01",
+    "authors": [
+        {
+            "name": "Meng-Chieh Wu",
+            "country": ""
+        },
+        {
+            "name": "Ching-Te Chiu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

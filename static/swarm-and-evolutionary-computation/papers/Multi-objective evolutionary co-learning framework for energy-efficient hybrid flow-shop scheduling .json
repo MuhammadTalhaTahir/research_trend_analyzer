@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650225000902",
+    "title": "Multi-objective evolutionary co-learning framework for energy-efficient hybrid flow-shop scheduling problem with human-machine collaboration",
+    "abstract": "The hybrid flow-shop scheduling problem (HFSP) has been extensively studied in modern flexible manufacturing systems. With the advent of Industry 5.0, incorporating energy efficiency and human-machine collaboration into scheduling decisions presents significant challenges. This study introduces a mathematical model for the energy-efficient HFSP with human-machine collaboration (EHFSP-HMC), aiming to minimize both makespan and total energy consumption. To tackle this strongly NP-hard problem, we propose a multi-objective evolutionary co-learning framework (MOECLF) that combines reinforcement learning with evolutionary algorithms. The framework integrates two proximal policy optimization (PPO) agents and a Q-learning agent for multi-agent hyper-heuristic search. The methodology consists of three key components: (1) problem-specific heuristic rules and low-level heuristics derived from identified problem properties, (2) a multi-strategy initialization mechanism for generating high-quality initial solutions, and (3) a hybrid learning approach where PPO agents, equipped with MobileNetV2 and efficient channel attention, identify feasible solution matrices for Pareto-optimal boundary solutions, while Q-learning directs the search for remaining solutions. Both learning mechanisms share a unified action space and reward function based on dominance judgment. Comprehensive computational experiments demonstrate that MOECLF significantly outperforms three state-of-the-art multi-objective evolutionary algorithms in solving the EHFSP-HMC and achieves superior dominance, convergence, and diversity in Pareto solutions. Additionally, an impact analysis of worker fatigue and a real-world case study validate the practical applicability and effectiveness of the proposed model and framework.",
+    "citation_count": "0",
+    "year": "2025/06/01",
+    "authors": [
+        {
+            "name": "Jiawei Wu",
+            "country": ""
+        },
+        {
+            "name": "Yong Liu",
+            "country": ""
+        },
+        {
+            "name": "Yani Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623002342",
+    "title": "Improving metric-based few-shot learning with dynamically scaled softmax loss",
+    "abstract": "The metric-based learning framework has been widely used in data-scarce few-shot visual classification. However, the current loss function limits the effectiveness of metric learning. One issue is that the  nearest neighbor classification  technique used greatly narrows the value range of similarity between the query and class prototypes, which limits the guiding ability of the loss function. The other issue is that the episode-based training setting randomizes the class combination in each iteration, which reduces the perception of the traditional softmax losses for effective learning from episodes with various  data distributions .To solve these problems, we first review some variants of the softmax loss from a unified perspective, and then propose a novel Dynamically-Scaled Softmax Loss (DSSL). By adding a probability regulator (for scaling probabilities) and a loss regulator (for scaling losses), the loss function can adaptively adjust the prediction distribution and the training weights of the samples, which forces the model to focus on more informative samples. Finally, we found the proposed DSSL strategy for few-shot classifiers can achieve competitive results on four generic benchmarks and a fine-grained benchmark, demonstrating the effectiveness of improving the distinguishability (for base classes) and  generalizability  (for novel classes) of the learned  feature space .",
+    "citation_count": "7",
+    "year": "2023/12/01",
+    "authors": [
+        {
+            "name": "Yu Zhang",
+            "country": ""
+        },
+        {
+            "name": "Xin Zuo",
+            "country": ""
+        },
+        {
+            "name": "Xuxu Zheng",
+            "country": ""
+        },
+        {
+            "name": "Xiaoyong Gao",
+            "country": ""
+        },
+        {
+            "name": "Bo Wang",
+            "country": ""
+        },
+        {
+            "name": "Weiming Hu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

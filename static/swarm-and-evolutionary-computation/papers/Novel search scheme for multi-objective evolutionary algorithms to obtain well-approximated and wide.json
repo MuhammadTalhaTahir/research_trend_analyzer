@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650215000140",
+    "title": "Novel search scheme for multi-objective evolutionary algorithms to obtain well-approximated and widely spread Pareto solutions",
+    "abstract": "In multi-objective optimization, the quality of Pareto-optimal solutions is evaluated by the efficiency of the optimal front (proximity), uniformity, and spread. This paper introduces a novel search scheme for multi-objective  evolutionary algorithms  (MOEAs), whose solutions demonstrate improved proximity and spread metrics. Our proposed scheme comprises two search phases with different search objectives. The first phase uses a reference-point-based approach to improve proximity; the second phase adopts a distributed-cooperation scheme (DC-scheme) to broaden the range of solutions. We experimentally investigate the effectiveness of our proposed scheme on the walking fish group (WFG) test suite of scalable multi-objective problems. Finally, we show the applicability of the proposed scheme to various types of MOEAs.",
+    "citation_count": "11",
+    "year": "2015/06/01",
+    "authors": [
+        {
+            "name": "Satoru Hiwa",
+            "country": ""
+        },
+        {
+            "name": "Masashi Nishioka",
+            "country": ""
+        },
+        {
+            "name": "Tomoyuki Hiroyasu",
+            "country": ""
+        },
+        {
+            "name": "Mitsunori Miki",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

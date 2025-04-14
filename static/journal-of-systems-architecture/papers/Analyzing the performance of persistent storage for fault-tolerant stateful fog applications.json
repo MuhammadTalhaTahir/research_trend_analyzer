@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762123001832",
+    "title": "Analyzing the performance of persistent storage for fault-tolerant stateful fog applications",
+    "abstract": "In this paper, we analyze the scalability and performance of a persistent, fault-tolerant storage approach that provides data availability and consistency in a distributed container-based architecture with intended use in industrial control applications. We use simulation to evaluate the performance of this storage system in terms of scalability and failures. As the industrial applications considered have timing constraints, the simulation results show that for certain failure patterns, it is possible to determine whether the storage solution can meet critical deadlines. The presented approach is applicable for evaluating timing constraints also of other container-based critical applications that require persistent storage.",
+    "citation_count": "0",
+    "year": "2023/11/01",
+    "authors": [
+        {
+            "name": "Zeinab Bakhshi",
+            "country": ""
+        },
+        {
+            "name": "Guillermo Rodriguez-Navas",
+            "country": ""
+        },
+        {
+            "name": "Hans Hansson",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

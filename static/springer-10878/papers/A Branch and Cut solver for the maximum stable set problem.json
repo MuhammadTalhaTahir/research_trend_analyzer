@@ -1,0 +1,41 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-009-9264-3",
+    "title": "A Branch and Cut solver for the maximum stable set problem",
+    "abstract": "This paper deals with the cutting-plane approach to the maximum stable set problem. We provide theoretical results regarding the facet-defining property of inequalities obtained by a known project-and-lift-style separation method called edge-projection, and its variants. An implementation of a Branch and Cut algorithm is described, which uses edge-projection and two other separation tools which have been discussed for other problems: local cuts (pioneered by Applegate, Bixby, Chvátal and Cook) and mod-k cuts. We compare the performance of this approach to another one by Rossi and Smiriglio (Oper. Res. Lett. 28:63–74, 2001) and discuss the value of the tools we have tested.",
+    "citation_count": 32,
+    "year": "2011/05",
+    "authors": [
+        {
+            "name": "Rebennack, Steffen",
+            "country": "USA"
+        },
+        {
+            "name": "Oswald, Marcus",
+            "country": "Germany"
+        },
+        {
+            "name": "Theis, Dirk Oliver",
+            "country": "Germany"
+        },
+        {
+            "name": "Seitz, Hanna",
+            "country": "Germany"
+        },
+        {
+            "name": "Reinelt, Gerhard",
+            "country": "Germany"
+        },
+        {
+            "name": "Pardalos, Panos M.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

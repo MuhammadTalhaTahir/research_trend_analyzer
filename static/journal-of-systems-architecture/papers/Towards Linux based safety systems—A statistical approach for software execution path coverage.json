@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000436",
+    "title": "Towards Linux based safety systems—A statistical approach for software execution path coverage",
+    "abstract": "Several industrial domains are currently developing innovative safety-related autonomous systems characterized by increasing software complexity and high-performance requirements. Due to these features, different research initiatives aim to pave the way towards the usage of Linux for the development of such complex safety-related systems. However, the high execution path variability of the Linux kernel challenges test coverage-based verification, Highly Recommended (HR) technique by safety standards. This research describes a novel statistical analysis method for Linux kernel execution path coverage quantification, which includes the uncertainty estimation of the software execution. The method is applied to a simple, but reproducible case study, and the results of which are analyzed and explained.",
+    "citation_count": "0",
+    "year": "2021/06/01",
+    "authors": [
+        {
+            "name": "Imanol Allende",
+            "country": ""
+        },
+        {
+            "name": "Nicholas Mc Guire",
+            "country": ""
+        },
+        {
+            "name": "Jon Perez",
+            "country": ""
+        },
+        {
+            "name": "Lisandro G. Monsalve",
+            "country": ""
+        },
+        {
+            "name": "Roman Obermaisser",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

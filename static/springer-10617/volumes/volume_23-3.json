@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Control-schedule co-design for fast stabilization in real time systems facing repeated reconfigurations",
+    "url": "https://link.springer.com/article/10.1007/s10617-019-09221-6"
+  },
+  {
+    "title": "Memphis: a framework for heterogeneous many-core SoCs generation and validation",
+    "url": "https://link.springer.com/article/10.1007/s10617-019-09223-4"
+  },
+  {
+    "title": "On embedding a hardware description language in Isabelle/HOL",
+    "url": "https://link.springer.com/article/10.1007/s10617-019-09226-1"
+  },
+  {
+    "title": "Code generation for distributed embedded systems with VDM-RT",
+    "url": "https://link.springer.com/article/10.1007/s10617-019-09227-0"
+  },
+  {
+    "title": "A model-driven framework for design and verification of embedded systems through SystemVerilog",
+    "url": "https://link.springer.com/article/10.1007/s10617-019-09229-y"
+  }
+]

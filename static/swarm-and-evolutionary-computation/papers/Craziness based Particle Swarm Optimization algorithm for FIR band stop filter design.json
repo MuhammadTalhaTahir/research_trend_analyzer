@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650212000375",
+    "title": "Craziness based Particle Swarm Optimization algorithm for FIR band stop filter design",
+    "abstract": "In this paper, an improved  particle swarm optimization  technique called Craziness based Particle Swarm Optimization (CRPSO) is proposed and employed for digital  finite impulse response  (FIR) band stop filter design. The design of  FIR filter  is generally nonlinear and multimodal. Hence gradient based classical optimization methods are not suitable for digital filter design due to sub-optimality problem. So, global optimization techniques are required to avoid  local minima  problem. Several heuristic approaches are available in the literatures. The Particle Swarm Optimization (PSO) algorithm is a heuristic approach with two main advantages: it has fast convergence, and it uses only a few control parameters. But the performance of PSO depends on its parameters and may be influenced by premature convergence and stagnation problem. To overcome these problems the PSO algorithm has been modified in this paper and is used for  FIR filter  design. In birds' flocking or fish schooling, a bird or a fish often changes directions suddenly. This is described by using a “craziness” factor and is modelled in the technique by using a craziness variable. A craziness operator is introduced in the proposed technique to ensure that the particle would have a predefined craziness probability to maintain the diversity of the particles. The algorithm's performance is studied with the comparison of real coded  genetic algorithm  (RGA), conventional PSO, comprehensive learning  particle swarm optimization  (CLPSO) and Parks and McClellan (PM) Algorithm. The simulation results show that the CRPSO is superior or comparable to the other algorithms for the employed examples and can be efficiently used for FIR filter design.",
+    "citation_count": "73",
+    "year": "2012/12/01",
+    "authors": [
+        {
+            "name": "Rajib Kar",
+            "country": ""
+        },
+        {
+            "name": "Durbadal Mandal",
+            "country": ""
+        },
+        {
+            "name": "Sangeeta Mondal",
+            "country": ""
+        },
+        {
+            "name": "Sakti Prasad Ghoshal",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

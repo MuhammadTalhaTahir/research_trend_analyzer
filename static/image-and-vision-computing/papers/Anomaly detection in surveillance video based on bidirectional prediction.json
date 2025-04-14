@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885620300470",
+    "title": "Anomaly detection in surveillance video based on bidirectional prediction",
+    "abstract": "With the development of information technology and the popularization of monitoring network, how to quickly and automatically detect abnormal behaviors in  surveillance video  is becoming more and more important for public security and smart city. The emergence of  deep learning  has greatly promoted the development of  anomaly detection  and much remarkable work has been presented on this topic. However, the existing approaches for  anomaly detection  generally encounter problems such as insufficient utilization of motion patterns and instability on different datasets. To improve the performance of anomaly detection in surveillance video, we propose a framework based on  bidirectional prediction , which predicts the same target frame by the forward and the  backward prediction   subnetworks , respectively. Then the loss function is constructed based on the real target frame and its bidirectional prediction frame. Furthermore, we also propose an anomaly score estimation method based on the sliding window scheme which focuses on the foregrounds of the prediction error map. The comparison with the state-of-the-art shows that the proposed model outperforms most competing models on different video surveillance datasets.",
+    "citation_count": "84",
+    "year": "2020/06/01",
+    "authors": [
+        {
+            "name": "Dongyue Chen",
+            "country": ""
+        },
+        {
+            "name": "Pengtao Wang",
+            "country": ""
+        },
+        {
+            "name": "Lingyi Yue",
+            "country": ""
+        },
+        {
+            "name": "Yuxin Zhang",
+            "country": ""
+        },
+        {
+            "name": "Tong Jia",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

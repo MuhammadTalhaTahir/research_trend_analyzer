@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959523000954",
+    "title": "DRL-based intersection traffic efficiency enhancement utilizing 5G-NR-V2I data",
+    "abstract": "Recent research on reinforcement learning (RL) based traffic management shows promising results, yet it is a significant issue due to increasing volume of traffic and lack of real time traffic information. Improvements of RL algorithms and vehicle-to-everything (V2X) communications technologies are creating new prospects to achieve better traffic efficiency. This paper proposes a new method, namely Vehicle-to-Infrastructure based Traffic Signal Control (V2I-TSC), to capture realistic traffic state using vehicle-to-infrastructure (V2I) communications under 5G-NR-V2X paradigm. It uses single agent RL framework to optimize a traffic signal control which is trained and evaluated through Simulation of Urban MObility (SUMO) simulator. The experimental results show that our proposed method enhances traffic efficiency at the intersection compared to the general traffic control method.",
+    "citation_count": "0",
+    "year": "2023/12/01",
+    "authors": [
+        {
+            "name": "Mohammad Sajid Shahriar",
+            "country": ""
+        },
+        {
+            "name": "Arati K. Kale",
+            "country": ""
+        },
+        {
+            "name": "KyungHi Chang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

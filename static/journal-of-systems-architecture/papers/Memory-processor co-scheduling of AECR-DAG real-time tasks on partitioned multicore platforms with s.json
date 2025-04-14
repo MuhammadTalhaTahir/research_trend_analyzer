@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124000547",
+    "title": "Memory-processor co-scheduling of AECR-DAG real-time tasks on partitioned multicore platforms with scratchpads",
+    "abstract": "Multicore systems  with core-level  scratchpad memories  offer appealing architectures for constructing efficient and predictable real-time systems. In this work, we aim to improve the usability of scratchpad memories and exploit their predictability to hide access latency to  shared resources . We use a  genetic algorithm  to derive  scheduling parameters  for a set of directed acyclic task-graphs (DAGs). DAGs consist of dependent subtasks and their respective communications, following the Acquisition Execution  Restitution  (AER) model. Subtasks are partitioned onto the  multicore platform  while scheduling their memory requests and relative communications onto the shared buses, in order to prevent interference and ensure predictability. Specifically, all subtasks and communications are assigned appropriate intermediate offsets and deadlines to guarantee that they comply with the system’s timing constraints. We conducted a large set of synthetic experiments to demonstrate the effectiveness of the proposed technique.",
+    "citation_count": "1",
+    "year": "2024/05/01",
+    "authors": [
+        {
+            "name": "Ikram Senoussaoui",
+            "country": ""
+        },
+        {
+            "name": "Giuseppe Lipari",
+            "country": ""
+        },
+        {
+            "name": "Houssam-Eddine Zahaf",
+            "country": ""
+        },
+        {
+            "name": "Mohammed Kamal Benhaoua",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

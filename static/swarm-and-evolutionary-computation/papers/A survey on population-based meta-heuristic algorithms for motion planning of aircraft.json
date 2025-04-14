@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650221000055",
+    "title": "A survey on population-based meta-heuristic algorithms for motion planning of aircraft",
+    "abstract": "Meta-heuristic algorithms have turned out to be good methods to address optimization problems with complicated constraints, and those algorithms have been widely applied to many aircraft motion planning problems. An optimal flight path is crucial for the aircraft to complete the specific task safely and efficiently. The existing surveys lack a broad review on the population-based meta-heuristic algorithms focusing on the aircraft motion planning problem, which fails to summarize the latest progress in this field. Therefore, a comprehensive survey on this topic is carried out from new perspectives. The mathematical model, the population-based meta-heuristic algorithms and their modifications regarding the aircraft motion planning problem are all included. Discussion is also made based on the statistical data from the collected literatures. It is anticipated that this survey will provide the researchers with some suggestions on how to select appropriate population-based meta-heuristic algorithms for a particular aircraft motion planning problem.",
+    "citation_count": "63",
+    "year": "2021/04/01",
+    "authors": [
+        {
+            "name": "Yu Wu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,21 @@
+{
+    "url": "https://link.springer.com/article/10.1023/B:JOCO.0000017384.94868.45",
+    "title": "Trivial Two-Stage Group Testing with High Error Rates",
+    "abstract": "Given a population of cardinality q r that contains a positive subset P of cardinality p, we give a trivial two-stage method that has $${\\text{(}}_2^{{\\text{(}}r{\\text{ + 1)}}q} ) - r(_2^q )$$ first stage pools each of which contains q r − 2 objects. We assume that errors occur in the first stage. We give an algorithm that uses the results of first stage to generate a set CP of candidate positives with |CP| ≤ (r + 1)q. We give the expected value of |CP∩P|. At most (r + 1)q trivial second stage tests are needed to identify all the positives in CP. We assume that the second stage tests are error free.",
+    "citation_count": 13,
+    "year": "2003/12",
+    "authors": [
+        {
+            "name": "Macula, Anthony J.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

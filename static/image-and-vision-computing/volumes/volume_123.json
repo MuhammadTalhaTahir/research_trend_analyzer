@@ -1,0 +1,70 @@
+[
+    {
+        "title": "Editorial Board",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622001287"
+    },
+    {
+        "title": "Consistent camera-invariant and noise-tolerant learning for unsupervised person re-identification",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622000919"
+    },
+    {
+        "title": "Feature fusion for object detection at one map",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622000956"
+    },
+    {
+        "title": "Multi–feature fusion tracking algorithm based on peak–context learning",
+        "url": "https://www.sciencedirect.com/science/article/pii/S026288562200097X"
+    },
+    {
+        "title": "Double chain networks for monocular 3D human pose estimation",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622000816"
+    },
+    {
+        "title": "Handcrafted localized phase features for human action recognition",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622000944"
+    },
+    {
+        "title": "Real-time semantic segmentation with local spatial pixel adjustment",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622000993"
+    },
+    {
+        "title": "LocalFace: Learning significant local features for deep face recognition",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622001135"
+    },
+    {
+        "title": "STCA: Utilizing a spatio-temporal cross-attention network for enhancing video person re-identification",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622001032"
+    },
+    {
+        "title": "Deep learning-based detection from the perspective of small or tiny objects: A survey",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622001007"
+    },
+    {
+        "title": "Deep Isometric Maps",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622000907"
+    },
+    {
+        "title": "Improving neural network robustness through neighborhood preserving layers",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622000981"
+    },
+    {
+        "title": "Person Re-ID through unsupervised hypergraph rank selection and fusion",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622001020"
+    },
+    {
+        "title": "Facial expression recognition system based on variational mode decomposition and whale optimized KELM",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622000749"
+    },
+    {
+        "title": "MEmoR: A Multimodal Emotion Recognition using affective biomarkers for smart prediction of emotional health for people analytics in smart industries",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622001123"
+    },
+    {
+        "title": "Gradual adaption with memory mechanism for image-based 3D model retrieval",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622001111"
+    },
+    {
+        "title": "E2E-VSDL: End-to-end video surveillance-based deep learning model to detect and prevent criminal activities",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622000968"
+    }
+]

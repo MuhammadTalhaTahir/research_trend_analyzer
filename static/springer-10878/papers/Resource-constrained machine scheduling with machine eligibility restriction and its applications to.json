@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-015-9860-3",
+    "title": "Resource-constrained machine scheduling with machine eligibility restriction and its applications to surgical operations scheduling",
+    "abstract": "We study a problem arising from surgical operations scheduling and model it as a resource-constrained machine scheduling problem with machine eligibility restriction to minimize the makespan. By decomposing the problem into two sub-problems, we develop effective heuristic algorithms to solve the problem. We test the proposed algorithms on randomly generated instances as well as real data set from a large hospital. The numerical results show the effectiveness and potential practical value of the models and the algorithms.",
+    "citation_count": 29,
+    "year": "2015/11",
+    "authors": [
+        {
+            "name": "Wang, Shan",
+            "country": "China"
+        },
+        {
+            "name": "Su, Huiqiao",
+            "country": "China"
+        },
+        {
+            "name": "Wan, Guohua",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

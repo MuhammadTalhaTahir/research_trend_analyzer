@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762123000772",
+    "title": "Enabling blockchain-assisted certificateless public integrity checking for industrial cloud storage systems",
+    "abstract": "Due to the sharp increase in industrial data,  cloud computing  has been integrated into intelligent Industrial  Internet of Things  systems to store and process massive data. Since core data are key factors in the industrial production process, any intercepted or altered data may cause severe consequences, and the integrity and confidentiality of outsourced industrial data have become extremely concerning security issues. In this paper, we focus on devising an enhanced blockchain-assisted certificateless public integrity checking (BA-CPIC) mechanism for industrial  cloud storage systems . BA-CPIC contributes to checking outsourced industrial  encrypted data , and exploits the  smart contract  in the  Ethereum   blockchain  to provide assistance to users for checking  malicious behaviors  of auditors (e.g., colluding with industrial cloud servers or lazing checking). Besides, BA-CPIC preserves the identity privacy of users enjoying outsourced storage and blockchain-assisted integrity checking services. By contrast, some misbehaved users in industrial cloud storage systems could also be traced and revoked in due course. BA-CPIC avoids both inherent drawbacks of key escrow and complex certificate management, it is provided corresponding security analysis under the certificateless security model. The performance evaluation demonstrates the feasibility of BA-CPIC in the deployment of industrial cloud storage systems.",
+    "citation_count": "9",
+    "year": "2023/07/01",
+    "authors": [
+        {
+            "name": "Qing Liu",
+            "country": ""
+        },
+        {
+            "name": "Xiaojun Zhang",
+            "country": ""
+        },
+        {
+            "name": "Jingting Xue",
+            "country": ""
+        },
+        {
+            "name": "Rang Zhou",
+            "country": ""
+        },
+        {
+            "name": "Xin Wang",
+            "country": ""
+        },
+        {
+            "name": "Wei Tang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

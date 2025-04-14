@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-024-01383-9",
+    "title": "Novel construction methods for picture fuzzy divergence measures with applications in pattern recognition, MADM, and clustering analysis",
+    "abstract": "Divergence measure of picture fuzzy sets is a valuable tool to study the problems related to decision-making, pattern classification, and clustering analysis. However, existing divergence/distance measures are sometimes ineffective in capturing the intricacies of uncertainty and imprecision inherent in picture fuzzy sets. In view of the theoretical and experimental weaknesses of existing picture fuzzy divergence/distance measures, this article introduces novel construction methods for deriving picture fuzzy divergence measures. The first one is inductive which utilizes existing intuitionistic fuzzy divergence and the second is based on forming picture fuzzy divergence measures from existing picture fuzzy divergence measures. Additionally, we have shown that restriction on the neutrality degree in picture fuzzy divergence is an intuitionistic fuzzy divergence. Moreover, we suggested a new picture fuzzy divergence measure utilizing the proposed approach and applied it to solve practical problems concerned with decision-making, pattern classification, and clustering analysis. The performance indices “Degree of Confidence” and “Cluster Validity Index” in the picture fuzzy framework further appreciated the advantages of the proposed measures. Comparative studies with existing picture fuzzy distance/divergence measures demonstrated the effectiveness and superiority of the proposed divergence measures.",
+    "citation_count": 63,
+    "year": "2025/06",
+    "authors": [
+        {
+            "name": "Singh, Surender",
+            "country": "India"
+        },
+        {
+            "name": "Singh, Koushal",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762118302303",
+    "title": "Early prediction of reliability and availability of combined hardware-software systems based on functional failures",
+    "abstract": "Interactions among software and hardware components play an important role in successful operation of a system. Researchers have identified two types of interaction failures: software failure influenced by hardware breakdown (hardware-driven software failure) and hardware failure influenced by software malfunction (software-driven hardware failure). The existing research in this domain either has not considered the entire spectrum of interaction failures or limited their work to mere failure analysis rather than reliability/availability modeling. In this paper, we are proposing a unified model to predict the worst case achievable reliability/availability of hardware-software combined system at early design phases. The proposed model identifies system functions from the requirements specification document. Then, these functions are mapped to corresponding conceptual design components. Subsequently, the functional design is simulated for sets of input data that have been randomly generated for different operation modes (failure/working) of the components. We also simulate system  state transition  due to the component operation modes. Finally, reliability and availability is predicted from simulation results. In this context, we address four important aspects: i) proposing a conceptual design based early reliability/availability prediction model, ii) apart from individual hardware-software component failure, the proposed model addresses different interaction failures such as, hardware-driven software and software-driven hardware failures, iii) implementing the proposed model through a  case study , and iv) validating the model by comparing the obtained reliability/availability value using the proposed approach with an established method.",
+    "citation_count": "24",
+    "year": "2019/01/01",
+    "authors": [
+        {
+            "name": "Sourav Sinha",
+            "country": ""
+        },
+        {
+            "name": "Neeraj Kumar Goyal",
+            "country": ""
+        },
+        {
+            "name": "Rajib Mall",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

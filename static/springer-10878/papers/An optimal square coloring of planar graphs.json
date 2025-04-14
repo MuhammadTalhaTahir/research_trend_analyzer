@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-011-9409-z",
+    "title": "An optimal square coloring of planar graphs",
+    "abstract": "The square coloring of a graph is to color the vertices of a graph at distance at most 2 with different colors. In 1977, Wegner posed a conjecture on square coloring of planar graphs. The conjecture is still open. In this paper, we prove that Wegner’s conjecture is true for planar graphs with girth at least&nbsp;6.",
+    "citation_count": 15,
+    "year": "2012/11",
+    "authors": [
+        {
+            "name": "Bu, Yuehua",
+            "country": "China"
+        },
+        {
+            "name": "Zhu, Xubo",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

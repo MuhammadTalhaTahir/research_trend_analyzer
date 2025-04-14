@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762118302340",
+    "title": "Filter-based deep-compression with global average pooling for convolutional networks",
+    "abstract": "Deep neural networks  are powerful, but using these networks is both memory and time consuming due to their numerous parameters and large amounts of computation. Many studies have been conducted on compressing the models on the parameter-level as well as on the bit-level. Here, we propose an efficient strategy to compress on the layers that are computation or memory consuming. We compress the model by introducing global  average pooling , performing iterative pruning on the filters with the proposed order-deciding scheme in order to prune more efficiently, applying truncated SVD to the fully-connected layer, and performing quantization. Experiments on the VGG16 model show that our approach achieves a 60.9 ×  compression ratio in off-line storage with about 0.848% and 0.1378% loss of accuracy in the top-1 and top-5  classification results , respectively, with the  validation dataset  of ILSVRC2012. Our approach also shows good compression results on AlexNet and faster R-CNN.",
+    "citation_count": "108",
+    "year": "2019/05/01",
+    "authors": [
+        {
+            "name": "Ting-Yun Hsiao",
+            "country": ""
+        },
+        {
+            "name": "Yung-Chang Chang",
+            "country": ""
+        },
+        {
+            "name": "Hsin-Hung Chou",
+            "country": ""
+        },
+        {
+            "name": "Ching-Te Chiu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

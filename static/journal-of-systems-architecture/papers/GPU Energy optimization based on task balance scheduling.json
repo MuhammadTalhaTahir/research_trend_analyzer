@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762120301004",
+    "title": "GPU Energy optimization based on task balance scheduling",
+    "abstract": "Graphics processing units  (GPUs) can process massive amounts of data efficiently, but the complex computational demands of smart technologies have caused GPUs to consume increasing amounts of power. Moreover, current  task scheduling  strategies do not consider the loss of energy consumption due to  task migration . To reduce GPU power usage, we proposed a dynamic GPU task balance scheduling called coefficient of balance and equipment history ratio value (CB-HRV) task scheduling. The CB-HRV task scheduling method was developed to reduce system energy consumption during task execution by allocating tasks based on workload balance, thereby achieving improved GPU energy use. The CB-HRV algorithm was shown to be more balanced, and it allowed the computing device to be utilized more reasonably and efficiently. To demonstrate the effectiveness of the proposed approach, we compared the energy consumption of the CB-HRV method with that of some common scheduling methods. The results showed that the CB-HRV task  scheduling algorithm  yielded an  energy savings  of 7.84%12.92% over existing methods.",
+    "citation_count": "6",
+    "year": "2020/08/01",
+    "authors": [
+        {
+            "name": "Yanhui Huang",
+            "country": ""
+        },
+        {
+            "name": "Bing Guo",
+            "country": ""
+        },
+        {
+            "name": "Yan Shen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-023-01051-4",
+    "title": "Balanced graph partitioning based on mixed 0-1 linear programming and iteration vertex relocation algorithm",
+    "abstract": "Graph partitioning is a classical NP problem. The goal of graphing partition is to have as few cut edges in the graph as possible. Meanwhile, the capacity limit of the shard should be satisfied. In this paper, a model for graph partitioning is proposed. Then the model is converted into a mixed 0-1 linear programming by introducing variables. In order to solve this model, we select some variables to design the vertex relocation model. This work designs a variable selection strategy according to the effect of vertex relocation on the number of local edges. For purpose of implementing graph partitioning on large scale graph, we design an iterative algorithm to solve the model by selecting some variables in each iteration. The algorithm relocates the shard of the vertex according to the solution of the model. In the experiment, the method in this paper is simulated and compared with BLP and its related methods in the different shard sizes on the five social network datasets. The simulation results show that the method of this paper works well. In addition, we compare the effects of different parameter values and variables selection strategies on the partitioning effect.",
+    "citation_count": 27,
+    "year": "2023/07",
+    "authors": [
+        {
+            "name": "Yang, Zhengxi",
+            "country": "China"
+        },
+        {
+            "name": "Jiang, Zhipeng",
+            "country": "China"
+        },
+        {
+            "name": "Yang, Wenguo",
+            "country": "China"
+        },
+        {
+            "name": "Gao, Suixiang",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

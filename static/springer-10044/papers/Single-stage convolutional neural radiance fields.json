@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-025-01427-8",
+    "title": "Single-stage convolutional neural radiance fields",
+    "abstract": "Novel view synthesis captured from multiple images is a critical research topic in computer vision and computational photography due to its wide range of applications. Neural radiance fields significantly improve performance by optimizing continuous volumetric scene functions using a multi-layer perceptron. Although neural radiance fields and their modifications provide high-quality scenes, they have limitation in optimizing exact radiance fields due to their hierarchical architecture comprising coarse and fine networks. They also require numerous parameters and generally do not consider local and global relationships between samples on a ray. This paper proposes a unified single-stage paradigm that jointly learns the relative position of three-dimensional rays and their relative color and density for complex scenes using a convolutional neural network to reduce noise and irrelevant features and prevent overfitting. Experimental results including ablation tests verify the proposed approach’s superior robustness to current state-of-the-art models for synthesizing novel views. The code is available at https://github.com/xkdytk/scorf .",
+    "citation_count": 24,
+    "year": "2025/06",
+    "authors": [
+        {
+            "name": "Lee, Yoonjae",
+            "country": "Korea"
+        },
+        {
+            "name": "Yoon, Gang-Joon",
+            "country": "Korea"
+        },
+        {
+            "name": "Song, Jinjoo",
+            "country": "Korea"
+        },
+        {
+            "name": "Yoon, Sang Min",
+            "country": "Korea"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

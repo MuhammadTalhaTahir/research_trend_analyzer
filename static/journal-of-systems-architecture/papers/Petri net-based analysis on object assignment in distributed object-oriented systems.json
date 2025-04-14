@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762197000490",
+    "title": "Petri net-based analysis on object assignment in distributed object-oriented systems",
+    "abstract": "Object-oriented programming  [9] , which treats objects as processes in execution, has shown significant effectiveness in distributed systems. This effectiveness is greatly influenced by how objects are assigned to nodes. In this paper, we present a colored generalized stochastic Petri net (CGSPN) model to analyze the behavior of object invocations when an assignment strategy is applied. The effectiveness of an object assignment is also analyzed by our CGSPN model. Moreover, this analysis provides guidelines to develop an efficient object assignment strategy.  [4–8]",
+    "citation_count": "2",
+    "year": "1998/09/01",
+    "authors": [
+        {
+            "name": "Wen-Tsung Chang",
+            "country": ""
+        },
+        {
+            "name": "Chien-Chao Tseng",
+            "country": ""
+        },
+        {
+            "name": "Wen-Kuang Chou",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885622001755",
+    "title": "Rotation-aware dynamic temporal consistency with spatial sparsity correlation tracking",
+    "abstract": "Recently, discriminative correlation filter (DCF)-based trackers have been widely applied to  visual tracking . However, a significant problem of DCF-based trackers is that the model uses the fixed patterns of  temporal modeling  and fails to suppress the distractive features. To obviate the issue, we propose the dynamic temporal consistency with spatial  sparsity  correlation filter. The dynamics refers to the adaptive temporal consistency hidden in the response maps and dynamic lasso constraint moderated by the prior knowledge. Unlike the classical temporal modeling method applied to filter model, we exploit the consistency of the response maps to perceive adaptive  temporal continuity  modeling to enable the filter to have self-regularized ability. Temporal modeling and  spatial sparsity  are incorporated in a unified optimization learning model and optimized together with ADMM algorithm and Sherman-Morrison formula. In particular, the tracking performance is hindered by the weak capacity to rotation variation. For the sake of estimating the  rotation angle  accurately to maintain rotation invariance, we explore the coarse-to-fine rotation estimation module. The coarse rotation is supported by the angle pool and the part-based tracker. By introducing the connected hyper  ellipse fitting  strategy to eliminate fake distractors to ensure a pure target region, the fine level attempts to achieve the  optimal rotation  angle with the minimum second order statistical bias. The design enables the filter to train with the recovered rotated image instead of axis-aligned  bounding box , which attributes to alleviating the impact of ambiguous region and concentrating on the interested target. Extensive experimental results validate the superiority of the proposed method against other state-of-the art trackers and exhibit a remarkable generality in the rotated challenging scenarios.",
+    "citation_count": "4",
+    "year": "2022/10/01",
+    "authors": [
+        {
+            "name": "Mingxin Yu",
+            "country": ""
+        },
+        {
+            "name": "Changlong Wang",
+            "country": ""
+        },
+        {
+            "name": "Yuhua Zhang",
+            "country": ""
+        },
+        {
+            "name": "Zhilong Lin",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

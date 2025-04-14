@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885620301372",
+    "title": "Spectral regularization for combating mode collapse in GANs",
+    "abstract": "Generative adversarial networks (GANs) have been enjoying considerable success in recent years. However, mode collapse remains a major unsolved problem in training GANs and is one of the main obstacles hindering progress. In this paper, we present spectral  regularization  for GANs (SR-GANs), a new and robust method for combating the mode collapse problem in GANs. We first perform theoretical analysis to show that the  spectral distributions  of the weight matrix in the  discriminator  affect how the equality of Lipschitz constraint can be fulfilled, thus will have an impact on the performance of the  discriminator . Prompted by these analysis, we set out to monitor the spectral distributions in the discriminators of spectral normalized GANs (SN-GANs), and discover a phenomenon which we refer to as spectral collapse, where a large number of  singular values  of the weight matrices drop dramatically when mode collapse occurs. We show that there are strong evidences linking mode collapse to spectral collapse; and based on this link, we set out to tackle spectral collapse as a surrogate of mode collapse. We have developed a spectral  regularization method  where we introduce two schemes, one static and one dynamic, to compensate the spectral distributions of the weight matrices to prevent them from collapsing, which in turn successfully prevents mode collapse in GANs. Through gradient analysis, we provide theoretical explanations for why SR-GANs are more stable and can provide better performances than SN-GANs. We also present extensive experimental results and analysis to show that SR-GANs not only always outperform SN-GANs but also always succeed in combating mode collapse where SN-GANs fail. The code is available at  https://github.com/max-liu-112/SRGANs-Spectral-Regularization-GANs-",
+    "citation_count": "5",
+    "year": "2020/12/01",
+    "authors": [
+        {
+            "name": "Kanglin Liu",
+            "country": ""
+        },
+        {
+            "name": "Guoping Qiu",
+            "country": ""
+        },
+        {
+            "name": "Wenming Tang",
+            "country": ""
+        },
+        {
+            "name": "Fei Zhou",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

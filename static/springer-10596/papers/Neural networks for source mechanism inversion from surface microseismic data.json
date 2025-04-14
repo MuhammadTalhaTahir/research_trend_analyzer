@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-024-10323-9",
+    "title": "Neural networks for source mechanism inversion from surface microseismic data",
+    "abstract": "Surface microseismic is a technique aimed at characterizing hydraulic fracturing or reservoir behavior by assessing mechanisms and locating micro-earthquakes related to the operations. Typically, a large number of receivers are used for observations, and migration operators are employed for surface microseismic data processing, which can be time-consuming. Inversion for source mechanism further adds to the computational burden as it involves scanning the space of source mechanism parameters through numerous summations. In this paper, we propose a two-step approach to microseismic data processing. Firstly, we apply a migration operator corresponding to the isotropic mechanism. Next, we utilize a neural network to process the migrated image and estimate the microseismic event location as well as the source mechanism. Our suggestion is to train the neural network using data transformations obtained through migration-based summation, resulting in images that capture specific patterns influenced by the location and source mechanism. To generate the training dataset, we compute surface gathers from sources with various locations and mechanisms, introduce Gaussian noise to distort them, and produce corresponding images. We evaluate the neural network using synthetic data distorted by real recorded noise and demonstrate its effectiveness in locating microseismic events and determining their mechanisms. Additionally, we analyze the limitations of this approach, including its sensitivity to noise and insensitivity to certain mechanisms’ orientations, such as ideal normal faults.",
+    "citation_count": 44,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "Konyukhov, Grigory",
+            "country": "Russia"
+        },
+        {
+            "name": "Yaskevich, Sergey",
+            "country": "Russia"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-010-0235-9",
+    "title": "Supporting Context-Aware Multiparty Sessions in Heterogeneous Mobile Networks",
+    "abstract": "The article addresses context-aware, adaptive multiparty sessions in a heterogeneous system through such elements as adaptivity and context-awareness. The effective usage of context information can lead to context-aware content casting, especially context-aware, adaptive multicasting. Therefore, regarding the multicast service, the key functionality of an enhanced Session Management is to motivate the creation of user subgroups, subsets of the same content group based on network, user and environment context to the extent that these are necessary for efficiency. Their characteristics in the form of content descriptions are communicated to the media delivery to obtain the appropriate content for each session. The article presents in detail the initiation, modification, termination and mobility of an adaptive, context-aware multicast session.",
+    "citation_count": 17,
+    "year": "2010/12",
+    "authors": [
+        {
+            "name": "Antoniou, Josephine",
+            "country": "Cyprus"
+        },
+        {
+            "name": "Pinto, Filipe Cabral",
+            "country": "Portugal"
+        },
+        {
+            "name": "Simoes, Jose",
+            "country": "Germany"
+        },
+        {
+            "name": "Pitsillides, Andreas",
+            "country": "Cyprus"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

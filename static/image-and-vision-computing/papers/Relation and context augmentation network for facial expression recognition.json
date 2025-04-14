@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885622001858",
+    "title": "Relation and context augmentation network for facial expression recognition",
+    "abstract": "Facial Expression Recognition  (FER) is a challenging task due to the complex properties of human facial expression. Recently,  convolutional neural networks  (CNNs) have been widely adopted by most FER approaches. However, CNN-models extract features by using convolutional and pooling operations which ignore the relations between pixels and channels. The relations among  spatial positions  and channels provide crucial information which can be leveraged for facial expression classification. Another important aspect of FER is utilization of global and local contextual information to improve recognition performance. In this work, we present a deep network, the Relation and Context Augmentation Network (RCANet), for facial expression classification. RCANet consists of two relation modules and a context module. The relation modules compute global relations in spatial and channel dimensions. The context module is composed of cascaded context units to capture multi-scale contextual information. Extensive experiments are conducted on two popular in-the-wild FER datasets, including RAF-DB and AffectNet. Experimental results demonstrate that our proposed method achieves 90.15% and 65.65% accuracy rate on the RAF-DB and AffectNet datasets respectively.",
+    "citation_count": "3",
+    "year": "2022/11/01",
+    "authors": [
+        {
+            "name": "Xin Ma",
+            "country": ""
+        },
+        {
+            "name": "Yingdong Ma",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

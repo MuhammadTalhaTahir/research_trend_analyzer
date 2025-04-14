@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650219303785",
+    "title": "Investigating the equivalence between PBI and AASF scalarization for multi-objective optimization",
+    "abstract": "Scalarization refers to a  generic class  of methods to combine multiple conflicting objectives into one in order to find a  Pareto optimal solution  to the original problem. Augmented achievement scalarizing function (AASF) is one such method used popularly in the multi-criterion decision-making (MCDM) field. In evolutionary multi-objective optimization (EMO) literature, scalarization methods such as penalty boundary intersection (PBI) are commonly used to compare similar solutions within a population. Both AASF and PBI methods require a  reference point  and a reference direction for their calculation. In this paper, we aim to analytically derive and understand the commonalities between these two metrics and gain insights into the limitations of their standard  parametric forms . We show that it is possible to find an equivalent modified AASF formulation for a given PBI parameter and vice versa for bi-objective problems. Numerical experiments are presented to validate the theory developed. We further discuss the challenges in extending this to higher objectives and show that it is still possible to achieve limited equivalence along symmetric reference vectors. The study connects the two philosophies of solving multi-objective optimization problems, provides a means to gain a deeper understanding of both these measures, and expands their parametric range to provide more flexibility of controlling the search behavior of the EMO algorithms.",
+    "citation_count": "9",
+    "year": "2020/03/01",
+    "authors": [
+        {
+            "name": "Hemant Kumar Singh",
+            "country": ""
+        },
+        {
+            "name": "Kalyanmoy Deb",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

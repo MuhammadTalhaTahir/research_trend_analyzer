@@ -1,0 +1,70 @@
+[
+    {
+        "title": "Editorial Board",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650224000452"
+    },
+    {
+        "title": "A cooperative evolutionary algorithm with simulated annealing for integrated scheduling of distributed flexible job shops and distribution",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650223002390"
+    },
+    {
+        "title": "Automated design of action advising trigger conditions for multiagent reinforcement learning: A genetic programming-based approach",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650224000087"
+    },
+    {
+        "title": "Knowledge-transfer based genetic programming algorithm for multi-objective dynamic agile earth observation satellite scheduling problem",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650223002328"
+    },
+    {
+        "title": "MRLM: A meta-reinforcement learning-based metaheuristic for hybrid flow-shop scheduling problem with learning and forgetting effects",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650224000129"
+    },
+    {
+        "title": "Large-scale evolutionary optimization: A review and comparative study",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650223002389"
+    },
+    {
+        "title": "Multi-guiding spark fireworks algorithm: Solving multimodal functions by multiple guiding sparks in fireworks algorithm",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650223002304"
+    },
+    {
+        "title": "MOEA/D with customized replacement neighborhood and dynamic resource allocation for solving 3L-SDHVRP",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650223002353"
+    },
+    {
+        "title": "Double-space environmental change detection and response strategy for dynamic multi-objective optimize problem",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650224000014"
+    },
+    {
+        "title": "Multi-objective migrating birds optimization for solving stochastic home health care routing and scheduling problems considering caregiver working time constraints",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650224000178"
+    },
+    {
+        "title": "Improved particle swarm optimization with reverse learning and neighbor adjustment for space surveillance network task scheduling",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650224000154"
+    },
+    {
+        "title": "Two-stage evolutionary algorithm with fuzzy preference indicator for multimodal multi-objective optimization",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650224000130"
+    },
+    {
+        "title": "A genetic algorithm with critical path-based variable neighborhood search for distributed assembly job shop scheduling problem",
+        "url": "https://www.sciencedirect.com/science/article/pii/S221065022400018X"
+    },
+    {
+        "title": "Differential evolution with evolutionary scale adaptation",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650224000142"
+    },
+    {
+        "title": "Optimizing parameters in swarm intelligence using reinforcement learning: An application of Proximal Policy Optimization to the iSOMA algorithm",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650224000208"
+    },
+    {
+        "title": "Population based metaheuristics in Spark: Towards a general framework using PSO as a case study",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650224000166"
+    },
+    {
+        "title": "A Q-learning memetic algorithm for energy-efficient heterogeneous distributed assembly permutation flowshop scheduling considering priorities",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650224000300"
+    }
+]

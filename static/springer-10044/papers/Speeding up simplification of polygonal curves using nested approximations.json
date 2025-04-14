@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-008-0133-y",
+    "title": "Speeding up simplification of polygonal curves using nested approximations",
+    "abstract": "We develop a top-down multiresolution algorithm (TDMR) to solve iteratively the problem of polygonal curve approximation. This algorithm provides nested polygonal approximations of an input curve. We show theoretically and experimentally that, if the simplification algorithm $${\\mathcal{A}}$$ used between any two successive levels of resolution satisfies some conditions, the multiresolution algorithm will have a complexity lower than the complexity of $${\\mathcal{A}}$$ applied directly on the input curve to provide the crudest polygonal approximation. In particular, we show that if $${\\mathcal{A}}$$ has a O(N 2/K) complexity (the complexity of a reduced search dynamic programming solution approach), where N and K are, respectively, the number of segments in the input curve and the number of segments in the crudest approximation, the complexity of MR is in O(N). We experimentally compare the outcomes of TDMR with those of the optimal full search dynamic programming solution and of classical merge and split approaches. The experimental evaluations confirm the theoretical derivations and show that the proposed approach evaluated on 2D coastal maps either leads to a lower complexity or provides polygonal approximations closer to the initial curves.",
+    "citation_count": 25,
+    "year": "2009/12",
+    "authors": [
+        {
+            "name": "Marteau, P. F.",
+            "country": "France"
+        },
+        {
+            "name": "Ménier, G.",
+            "country": "France"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762117301947",
+    "title": "Accurate power modeling of modern mobile application processors",
+    "abstract": "The power modeling of mobile application processors (APs) is a challenging task due to their complexity. The existing power models and their associated devices have mostly been made obsolete by recent hardware developments. In this paper, we propose an enhanced power model used in modern mobile devices. The model accurately estimates the  power consumption  of AP component and utilizes the runtime usage information of each hardware component. We evaluated the model accuracy using various benchmarks, as well as popular  smartphone applications  with multiple devices that employ different APs. The evaluation shows that our model achieves the mean absolute percentage error (MAPE) of 5.1%.",
+    "citation_count": "13",
+    "year": "2017/11/01",
+    "authors": [
+        {
+            "name": "Chanmin Yoon",
+            "country": ""
+        },
+        {
+            "name": "Seokjun Lee",
+            "country": ""
+        },
+        {
+            "name": "Yonghun Choi",
+            "country": ""
+        },
+        {
+            "name": "Rhan Ha",
+            "country": ""
+        },
+        {
+            "name": "Hojung Cha",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

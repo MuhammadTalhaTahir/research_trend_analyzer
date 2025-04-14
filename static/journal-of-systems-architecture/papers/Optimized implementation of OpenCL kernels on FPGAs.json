@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762118303151",
+    "title": "Optimized implementation of OpenCL kernels on FPGAs",
+    "abstract": "Recently Field-Programmable Gate Array (FPGA) vendors, such as Altera and Xilinx released an Open Computing Language  Software Development Kit  (OpenCL SDK). Programming FPGAs using  OpenCL  can significantly reduce the development time compared to traditional low-level  hardware description languages  (HDLs), such as  Verilog  or VHDL. Nevertheless, the direct porting of OpenCL kernels to FPGA without applying the appropriate optimizations can result in significantly under-utilizing the compute capabilities of the device. In this paper, we study some optimization techniques that have not deeply discussed in the previous work despite their importance and impact on the performance of OpenCL kernels designed for FPGA. We have evaluated the impact of applying these optimizations using micro-benchmark and  representative workloads . Our results show that the proposed optimizations can significantly improve the performance of OpenCL kernels by up to two order of magnitude i.e., 148.03-fold speedup over the unoptimized kernels.",
+    "citation_count": "18",
+    "year": "2019/08/01",
+    "authors": [
+        {
+            "name": "Kholoud Shata",
+            "country": ""
+        },
+        {
+            "name": "Marwa K. Elteir",
+            "country": ""
+        },
+        {
+            "name": "Adel A. EL-Zoghabi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

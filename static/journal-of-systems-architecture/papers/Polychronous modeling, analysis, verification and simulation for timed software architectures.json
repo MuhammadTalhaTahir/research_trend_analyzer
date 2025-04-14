@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762113001525",
+    "title": "Polychronous modeling, analysis, verification and simulation for timed software architectures",
+    "abstract": "High-level  modeling languages  and standards, such as  Simulink , SysML, MARTE and AADL (Architecture Analysis & Design Language), are increasingly adopted in the design of embedded systems so that system-level analysis, verification and validation (V&V) and architecture exploration are carried out as early as possible. This paper presents our main contribution in this aim by considering embedded systems architectural modeling in AADL and functional modeling in Simulink; an original clock-based timing analysis and validation of the overall system is achieved via a formal polychronous/multi-clock  model of computation . In order to avoid semantics ambiguities of AADL and Simulink, their features related to real-time and logical time properties are first studied. We then endue them with a semantics in the polychronous model of computation. We use this model of computation to jointly analyze the non-functional real-time and logical-time properties of the system (by means of logical and affine clock relations). Our approach demonstrates, through several case-studies conducted with Airbus and C–S Toulouse in the European projects CESAR and OPEES, how to cope with the system-level  timing verification  and validation of high-level AADL and Simulink components in the framework of P olychrony , a synchronous modeling framework dedicated to the design of safety–critical embedded systems.",
+    "citation_count": "12",
+    "year": "2013/11/01",
+    "authors": [
+        {
+            "name": "Huafeng Yu",
+            "country": ""
+        },
+        {
+            "name": "Yue Ma",
+            "country": ""
+        },
+        {
+            "name": "Thierry Gautier",
+            "country": ""
+        },
+        {
+            "name": "Loïc Besnard",
+            "country": ""
+        },
+        {
+            "name": "Paul Le Guernic",
+            "country": ""
+        },
+        {
+            "name": "Jean-Pierre Talpin",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

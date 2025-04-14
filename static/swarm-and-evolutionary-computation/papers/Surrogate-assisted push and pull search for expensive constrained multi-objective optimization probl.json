@@ -1,0 +1,38 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224002669",
+    "title": "Surrogate-assisted push and pull search for expensive constrained multi-objective optimization problems",
+    "abstract": "In many real-world engineering optimizations, a large number of objective and constraint function values often need to be obtained through simulation software or physical experiments, which incurs significant computational costs and/or time expenses. These problems are known as expensive constraint multi-objective optimization problems (ECMOPs). This paper combines the push and pull search (PPS) framework and proposes a surrogate-assisted evolutionary algorithm to solve ECMOPs through Bayesian active learning, naming it the surrogate-assisted PPS (SA-PPS). Specifically, during the push search stage, candidate solutions are selected based on two indicators: hypervolume improvement and objective uncertainty. These aim to quickly guide the population towards the unconstrained Pareto front while ensuring diversity. During the pull search stage, the population is partitioned into many subregions through reference vectors, and different selection strategies are assigned to each subregion based on its state, aiming to guide the population towards the constrained Pareto front while ensuring diversity. Furthermore, we introduce a batch data selection strategy that utilizes Bayesian active learning to enable the surrogate model to focus on regions of interest in the pull search stage. Extensive experimental results have shown that the proposed SA-PPS algorithm exhibits superior convergence and diversity compared to 9 state-of-the-art algorithms across a variety of benchmark problems and a real-world optimization problem.",
+    "citation_count": "0",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Wenji Li",
+            "country": ""
+        },
+        {
+            "name": "Ruitao Mai",
+            "country": ""
+        },
+        {
+            "name": "Zhaojun Wang",
+            "country": ""
+        },
+        {
+            "name": "Yifeng Qiu",
+            "country": ""
+        },
+        {
+            "name": "Biao Xu",
+            "country": ""
+        },
+        {
+            "name": "Zhifeng Hao",
+            "country": ""
+        },
+        {
+            "name": "Zhun Fan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650222001924",
+    "title": "Property of decision variables-inspired location strategy for multiobjective optimization",
+    "abstract": "Although many algorithms have been proposed to solve multiobjective optimization problems, how to balance convergence and diversity of population is still a challenge, especially for problems with complicated Pareto sets. In this paper, we propose a property of decision variables-inspired location strategy to enhance the ability of algorithm to solve different types of problems. The evolutionary search process is divided into two periods in the proposed algorithm. In the early stage of search, a direct multisearch location strategy is proposed according to the property of the decision variables to quickly obtain a set of promising solutions. In the late stage, an improved nondominated sorting genetic algorithm II (NSGA-II) is proposed to extend these solutions to the whole PF. The convergence is mainly biased in the early stage of search, and the diversity is biased in the late stage. Experimental results on three widely used standard test suits demonstrate that the proposed algorithm can efficiently solve multiobjective optimization problems, especially those with complicated Pareto sets.",
+    "citation_count": "1",
+    "year": "2023/03/01",
+    "authors": [
+        {
+            "name": "Lingling Liu",
+            "country": ""
+        },
+        {
+            "name": "Weifeng Gao",
+            "country": ""
+        },
+        {
+            "name": "Hong Li",
+            "country": ""
+        },
+        {
+            "name": "Jin Xie",
+            "country": ""
+        },
+        {
+            "name": "Maoguo Gong",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762123000279",
+    "title": "Enabling memory access isolation in real-time cloud systems using Intel’s detection/regulation capabilities",
+    "abstract": "The increasing interest in adopting cloud technologies for Industry 4.0 and mixed-criticality environments is paving the way for compelling new opportunities and challenges. However, cloud deployments use multicore processors that introduce interference between co-executing applications on different cores due to contention in shared resources, such as the memory subsystem. Such interference can cause critical applications to miss their deadlines. To enable the co-execution of critical and non-critical applications on the same multicore processor, we propose an approach that guarantees memory access time isolation for critical cores, while not jeopardizing the memory bandwidth of the non-critical ones. We prove the viability of our approach using Intel’s resource director technology for memory access detection and regulation. Experiments show that queue occupancy is an excellent metric to estimate the number of interfering cores co-accessing the memory. We also assess the indirect memory bandwidth limitation achievable by applying Intel’s Memory Bandwidth Allocation technology.",
+    "citation_count": "0",
+    "year": "2023/04/01",
+    "authors": [
+        {
+            "name": "Giorgio Farina",
+            "country": ""
+        },
+        {
+            "name": "Gautam Gala",
+            "country": ""
+        },
+        {
+            "name": "Marcello Cinque",
+            "country": ""
+        },
+        {
+            "name": "Gerhard Fohler",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

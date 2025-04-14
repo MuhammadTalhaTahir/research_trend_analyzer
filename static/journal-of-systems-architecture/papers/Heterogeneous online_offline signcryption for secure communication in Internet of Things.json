@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S138376212200087X",
+    "title": "Heterogeneous online/offline signcryption for secure communication in Internet of Things",
+    "abstract": "Internet of things (IoT) is a promising network that combines various information sensing devices with the Internet to realize the interconnection of pervasive things. Security is a pivotal issue to ensure widespread adoption of the IoT. To ensure the security of data transmission, in this paper, we construct a heterogeneous online and offline signcryption from a wireless sensor network (WSN) to an Internet server. In our construction, the WSN is in certificateless cryptosystem (CLC) which does not involve public key certificate management problem in public key infrastructure (PKI) and key escrow problem in identity based cryptosystem (IBC), while the server is in IBC which avoids public key certificate management problem. For signcryption process, the proposed scheme is split into two steps: offline step and online step. In the former step, a lot of time-consuming calculations are completed, but do not involve the message to be transmitted. In the latter step, only some lightweight calculations are involved, but message must be available. Confidentiality, authentication, non-repudiation, and integrity can be achieved in a logical single step. Meanwhile, a formal security proof is given in the random oracle model. In addition, an elaborate performance analysis demonstrates that our proposed scheme has advantages in terms of computational cost and private key size, offline storage, as well as communication overhead. Therefore, our construction can be well applied to the IoT.",
+    "citation_count": "12",
+    "year": "2022/06/01",
+    "authors": [
+        {
+            "name": "Chunhua Jin",
+            "country": ""
+        },
+        {
+            "name": "Huihui Zhu",
+            "country": ""
+        },
+        {
+            "name": "Wenyu Qin",
+            "country": ""
+        },
+        {
+            "name": "Zhiwei Chen",
+            "country": ""
+        },
+        {
+            "name": "Ying Jin",
+            "country": ""
+        },
+        {
+            "name": "Jinsong Shan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

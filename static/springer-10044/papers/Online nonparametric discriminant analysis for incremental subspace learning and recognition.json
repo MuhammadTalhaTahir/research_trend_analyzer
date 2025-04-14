@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-008-0131-0",
+    "title": "Online nonparametric discriminant analysis for incremental subspace learning and recognition",
+    "abstract": "This paper presents a novel approach for online subspace learning based on an incremental version of the nonparametric discriminant analysis (NDA). For many real-world applications (like the study of visual processes, for instance) it is impossible to know beforehand the number of total classes or the exact number of instances per class. This motivated us to propose a new algorithm, in which new samples can be added asynchronously, at different time stamps, as soon as they become available. The proposed technique for NDA-eigenspace representation has been used in pattern recognition applications, where classification of data has been performed based on the nearest neighbor rule. Extensive experiments have been carried out both in terms of classification accuracy and execution time. On the one hand, the results show that the Incremental NDA converges towards the classical NDA at the end of the learning process and furthermore. On the other hand, Incremental NDA is suitable to update a large knowledge representation eigenspace in real-time. Finally, the use of our method on a real-world application is presented.",
+    "citation_count": 25,
+    "year": "2008/09",
+    "authors": [
+        {
+            "name": "Raducanu, B.",
+            "country": "Spain"
+        },
+        {
+            "name": "Vitrià, J.",
+            "country": "Spain"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

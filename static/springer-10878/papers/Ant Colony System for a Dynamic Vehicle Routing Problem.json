@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-005-4922-6",
+    "title": "Ant Colony System for a Dynamic Vehicle Routing Problem",
+    "abstract": "An aboundant literature on vehicle routing problems is available. However, most of the work deals with static problems, where all data are known in advance, i.e. before the optimization has started. The technological advances of the last few years give rise to a new class of problems, namely the dynamic vehicle routing problems, where new orders are received as time progresses and must be dynamically incorporated into an evolving schedule. In this paper a dynamic vehicle routing problem is examined and a solving strategy, based on the Ant Colony System paradigm, is proposed. Some new public domain benchmark problems are defined, and the algorithm we propose is tested on them. Finally, the method we present is applied to a realistic case study, set up in the city of Lugano (Switzerland).",
+    "citation_count": 24,
+    "year": "2005/12",
+    "authors": [
+        {
+            "name": "Montemanni, R.",
+            "country": "Switzerland"
+        },
+        {
+            "name": "Gambardella, L. M.",
+            "country": "Switzerland"
+        },
+        {
+            "name": "Rizzoli, A. E.",
+            "country": "Switzerland"
+        },
+        {
+            "name": "Donati, A. V.",
+            "country": "Switzerland"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

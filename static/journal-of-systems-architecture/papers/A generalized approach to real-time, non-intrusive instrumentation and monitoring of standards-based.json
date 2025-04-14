@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121001296",
+    "title": "A generalized approach to real-time, non-intrusive instrumentation and monitoring of standards-based distributed middleware",
+    "abstract": "Dynamic  Binary Instrumentation  (DBI) is one way to monitor a distributed system in real-time without modifying application  source code . Previous work has shown it is possible to instrument distributed systems using standards-based distributed middleware. Existing work, however, only applies to a single middleware, such as CORBA. This article therefore presents a tool named the Standards-based Distributed Middleware Monitor (SDMM), which generalizes two modern standards-based distributed middleware, the  Data Distribution Service  (DDS) and gRemote Procedure Call (gRPC). SDMM uses DBI to extract values and other data relevant to monitoring a distributed system in real-time. Using dynamic instrumentation allows SDMM to capture information without  a priori  knowledge of the distributed application under instrumentation. We applied SDMM to applications written with two DDS vendors, RTI Connext DDS and OpenDDS, as well as gRPC which is a complete  remote procedure call  framework. Our results show that the data collection process contributes to less than 1% of the performance overhead in some tests.",
+    "citation_count": "1",
+    "year": "2021/08/01",
+    "authors": [
+        {
+            "name": "Nyalia Lui",
+            "country": ""
+        },
+        {
+            "name": "James H. Hill",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

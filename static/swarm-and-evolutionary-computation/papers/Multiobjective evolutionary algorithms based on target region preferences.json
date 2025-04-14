@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217304698",
+    "title": "Multiobjective evolutionary algorithms based on target region preferences",
+    "abstract": "Incorporating decision makers' preferences is of great significance in  multiobjective optimization . Target region-based multiobjective evolutionary algorithms (TMOEAs), aiming at a well-distributed subset of  Pareto optimal solutions  within the user-provided region(s), are extensively investigated in this paper. An empirical comparison is performed among three TMOEA  instantiations : T-NSGA-II, T-SMS-EMOA and T-R2-EMOA. Experimental results show that T-SMS-EMOA has the best overall performance regarding the hypervolume indicator within the target region, while T-NSGA-II is the fastest algorithm. We also compare TMOEAs with other state-of-the-art preference-based approaches, i.e., DF-SMS-EMOA, RVEA, AS-EMOA and R-NSGA-II to show the advantages of TMOEAs. A  case study  in the mission planning of earth observation satellite is carried out to verify the capabilities of TMOEAs in the real-world application. Experimental results indicate that preferences can improve the searching ability of MOEAs, and TMOEAs can successfully find  nondominated solutions  preferred by the decision maker.",
+    "citation_count": "32",
+    "year": "2018/06/01",
+    "authors": [
+        {
+            "name": "Longmei Li",
+            "country": ""
+        },
+        {
+            "name": "Yali Wang",
+            "country": ""
+        },
+        {
+            "name": "Heike Trautmann",
+            "country": ""
+        },
+        {
+            "name": "Ning Jing",
+            "country": ""
+        },
+        {
+            "name": "Michael Emmerich",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

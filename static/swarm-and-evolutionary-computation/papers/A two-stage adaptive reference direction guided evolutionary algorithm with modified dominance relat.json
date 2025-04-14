@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223000469",
+    "title": "A two-stage adaptive reference direction guided evolutionary algorithm with modified dominance relation for many-objective optimization",
+    "abstract": "Traditional dominance-based multi-objective evolutionary algorithms cease to be effective as the number of objectives increases due to the non-dominated sorting mechanism. Accordingly, a novel clustering indicator founded on the penalty-based adaptive rectangular area (APA) between solution and reference direction is proposed to assist in non-dominated levels sorting to deal with this issue. However, directly predefined reference directions with uniform distribution usually cause deteriorated performance in solving multi-objective problems with irregular Pareto fronts. Thus, an adaptive adjustment method guided by the local population is implemented in this paper. At this rate, a two-stage adaptive reference point guided evolutionary algorithm with APA-based dominance relation for many-objective optimization problems (named AREA-APA) is proposed and tested for solving these multi-objective optimization problems (including constrained and unconstrained problems). The proposed algorithm is proven to achieve comparable performance on scalable benchmark problems compared with state-of-the-art algorithms.",
+    "citation_count": "19",
+    "year": "2023/04/01",
+    "authors": [
+        {
+            "name": "Xuewu Wang",
+            "country": ""
+        },
+        {
+            "name": "Zuhong Xie",
+            "country": ""
+        },
+        {
+            "name": "Xin Zhou",
+            "country": ""
+        },
+        {
+            "name": "Xinsheng Gu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

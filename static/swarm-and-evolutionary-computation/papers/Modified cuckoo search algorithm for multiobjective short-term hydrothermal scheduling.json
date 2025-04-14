@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217303681",
+    "title": "Modified cuckoo search algorithm for multiobjective short-term hydrothermal scheduling",
+    "abstract": "This paper proposes a modified cuckoo search algorithm (MCSA) for solving multi-objective short-term fixed head hydrothermal scheduling (HTS) problem. The main objective of the multiobjective HTS problem is to minimize both total  power generation  cost and emission of thermal generators over a scheduling period while satisfying power balance, hydraulic, and generator operating limit constraints. The proposed MCSA method is developed for the problem based on improvements from the conventional CSA method which is a new metaheuristic algorithm inspired from the behavior of some cuckoo species laying their egg into the nest of other species to improve the optimal solution and speed up the computational process. In the MCSA method, the nests are evaluated and classified into two groups including the top group with better quality eggs and the abandoned group with worse quality eggs. Two effective strategies via Lévy flights for producing new solutions are applied to the abandoned and top groups. To validate the efficiency of the MCSA method, several test systems have been tested and the result comparisons from the test systems have indicated that the proposed method can obtain higher quality solution and shorter computational time than many other methods. Therefore, the proposed MCSA method can be new efficient method for solving multiobjective short-term fixed-head HTS problems.",
+    "citation_count": "35",
+    "year": "2017/12/01",
+    "authors": [
+        {
+            "name": "Thang Trung Nguyen",
+            "country": ""
+        },
+        {
+            "name": "Dieu Ngoc Vo",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

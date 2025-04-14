@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122000881",
+    "title": "A survey of energy-aware scheduling in mixed-criticality systems",
+    "abstract": "Unlike traditional embedded systems only have one  criticality  level, mixed-criticality (MC) systems integrate different types of applications or functionalities into a common and shared platform. There are many studies focusing on energy-aware scheduling in MC systems. This paper presents a survey of energy-aware  scheduling algorithms  in MC systems that have been published in 2013 until the end of 2021. The survey first presents a classification of the presented algorithms which have been classified based on system platforms, scheduling scheme and reliability. Firstly, we review the energy-aware scheduling without reliability, which can further be divided into uniprocessor and  multiprocessor  MC scheduling algorithms based on the processor platform. Secondly, we investigate the studies that integrate reliability into energy consumption in MC systems. Finally, we find some conclusive observations that can help in identifying possible new research directions.",
+    "citation_count": "23",
+    "year": "2022/06/01",
+    "authors": [
+        {
+            "name": "Yi-Wen Zhang",
+            "country": ""
+        },
+        {
+            "name": "Rong-Kun Chen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

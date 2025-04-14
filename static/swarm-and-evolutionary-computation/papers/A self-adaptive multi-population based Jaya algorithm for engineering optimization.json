@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650216303510",
+    "title": "A self-adaptive multi-population based Jaya algorithm for engineering optimization",
+    "abstract": "Multi-population algorithms have been widely used for solving the real-world problems. However, it is not easy to get the number of sub-populations to be used for a given problem. This work proposes a self-adaptive multi-population based Jaya (SAMP-Jaya) algorithm for solving the constrained and unconstrained numerical and engineering optimization problems. The Jaya algorithm is a recently proposed advanced optimization algorithm and is not having any algorithmic-specific parameters to be tuned except the common control parameters of  population size  and the number of iterations. The search mechanism of the Jaya algorithm is upgraded in this paper by using the multi-population search scheme. It uses an adaptive scheme for dividing the population into sub-populations which control the exploration and exploitation rates of the search process based on the problem landscape. The robustness of the proposed SAMP-Jaya algorithm is tested on 15 CEC 2015 unconstrained benchmark problems in addition to 15 unconstrained and 10 constrained standard benchmark problems taken from the literature. The Friedman  rank test  is conducted in order to compare the performance of the algorithms. It has obtained first rank among six algorithms for 15 CEC 2015 unconstrained problems with the average scores of 1.4 and 1.9 for 10-dimension and 30-dimension problems respectively. Also, the proposed algorithm has obtained first rank for 15 unimodal and multimodal unconstrained benchmark problems with the average scores of 1.7667 and 2.2667 with 50000 and 200000 function evaluations respectively. The performance of the proposed algorithm is further compared with the other latest algorithms such as across neighborhood search (ANS) optimization algorithm, multi-population ensemble of mutation differential evolution (MEMDE), social learning  particle swarm optimization  algorithm (SL-PSO), competitive swarm optimizer (CSO) and it is found that the performance of the proposed algorithm is better in more than 65% cases. Furthermore, the proposed algorithm is used for solving a case study of the  entropy generation  minimization of a plate-fin  heat exchanger  (PFHE). It is found that the number of entropy generation units is reduced by 12.73%, 3.5% and 9.6% using the proposed algorithm as compared to the designs given by  genetic algorithm  (GA),  particle swarm optimization  (PSO) and cuckoo search algorithm (CSA) respectively. Thus the computational experiments have proved the effectiveness of the proposed algorithm for solving engineering optimization problems.",
+    "citation_count": "212",
+    "year": "2017/12/01",
+    "authors": [
+        {
+            "name": "R. Venkata Rao",
+            "country": ""
+        },
+        {
+            "name": "Ankit Saroj",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

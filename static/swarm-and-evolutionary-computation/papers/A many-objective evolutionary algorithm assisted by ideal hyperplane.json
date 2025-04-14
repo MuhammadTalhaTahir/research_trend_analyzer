@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S221065022300233X",
+    "title": "A many-objective evolutionary algorithm assisted by ideal hyperplane",
+    "abstract": "In many-objective  optimization problems  (MaOPs), balancing convergence and diversity while rapidly converging to the  Pareto front  is an arduous task for  evolutionary algorithms . In addition, with the increase of the number of targets, the number of non-dominant solutions increases exponentially, and the individual selection pressure is insufficient. For this problem, we propose a many-objective evolution algorithm assisted by an ideal  hyperplane  (MaOEA-IH). To begin, the ideal  hyperplane  is built from the extremums of each dimension of  objective space , guiding the individual to the Pareto front of search. Second, a parallel  p -norm mating selection strategy based on the ideal hyperplane is proposed to improve convergence. In addition, two other factors are taken into account: (1) different p-norms are used to measure different  spatial scales ; and (2) individual selection uncertainty is defined by incorporating a probabilistic  perturbation mechanism . Following that, the sum of objectives is applied to shift-based density estimation, which serves as an evaluation criterion in the environmental selection operation. This method increases the chances of solutions with high convergence and diversity entering the next generation, thereby increasing selection pressure. On three benchmark problems of DTLZ, WFG, and MaF, we compare MaOEA-IH with seven excellent algorithms. The results demonstrate that the MaOEA-IH proposed is highly competitive in solving MaOPs.",
+    "citation_count": "2",
+    "year": "2024/02/01",
+    "authors": [
+        {
+            "name": "Zhixia Zhang",
+            "country": ""
+        },
+        {
+            "name": "Xiangyu Shi",
+            "country": ""
+        },
+        {
+            "name": "Zhigang Zhang",
+            "country": ""
+        },
+        {
+            "name": "Zhihua Cui",
+            "country": ""
+        },
+        {
+            "name": "Wensheng Zhang",
+            "country": ""
+        },
+        {
+            "name": "Jinjun Chen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

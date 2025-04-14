@@ -1,0 +1,41 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-012-9465-z",
+    "title": "The density maximization problem in graphs",
+    "abstract": "We consider a framework for bi-objective network construction problems where one objective is to be maximized while the other is to be minimized. Given a host graph G=(V,E) with edge weights w e ∈ℤ and edge lengths ℓ e ∈ℕ for e∈E we define the density of a pattern subgraph H=(V′,E′)⊆G as the ratio ϱ(H)=∑ e∈E′ w e /∑ e∈E′ ℓ e . We consider the problem of computing a maximum density pattern H under various additional constraints. In doing so, we compute a single Pareto-optimal solution with the best weight per cost ratio subject to additional constraints further narrowing down feasible solutions for the underlying bi-objective network construction problem. First, we consider the problem of computing a maximum density pattern with weight at least W and length at most L in a host G. We call this problem the biconstrained density maximization problem. This problem can be interpreted in terms of maximizing the return on investment for network construction problems in the presence of a limited budget and a target profit. We consider this problem for different classes of hosts and patterns. We show that it is NP-hard, even if the host has treewidth&nbsp;2 and the pattern is a path. However, it can be solved in pseudo-polynomial linear time if the host has bounded treewidth and the pattern is a graph from a given minor-closed family of graphs. Finally, we present an FPTAS for a relaxation of the density maximization problem, in which we are allowed to violate the upper bound on the length at the cost of some penalty. Second, we consider the maximum density subgraph problem under structural constraints on the vertex set that is used by the patterns. While a maximum density perfect matching can be computed efficiently in general graphs, the maximum density Steiner-subgraph problem, which requires a subset of the vertices in any feasible solution, is NP-hard and unlikely to admit a constant-factor approximation. When parameterized by the number of vertices of the pattern, this problem is W[1]-hard in general graphs. On the other hand, it is FPT on planar graphs if there is no constraint on the pattern and on general graphs if the pattern is a path.",
+    "citation_count": 33,
+    "year": "2013/11",
+    "authors": [
+        {
+            "name": "Kao, Mong-Jen",
+            "country": "Taiwan"
+        },
+        {
+            "name": "Katz, Bastian",
+            "country": "Germany"
+        },
+        {
+            "name": "Krug, Marcus",
+            "country": "Germany"
+        },
+        {
+            "name": "Lee, D. T.",
+            "country": "Taiwan"
+        },
+        {
+            "name": "Rutter, Ignaz",
+            "country": "Germany"
+        },
+        {
+            "name": "Wagner, Dorothea",
+            "country": "Germany"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

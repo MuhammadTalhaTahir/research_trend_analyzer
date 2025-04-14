@@ -1,0 +1,36 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-025-01441-w",
+    "title": "Dynamic metric memory network for long-term tracking with spatial-temporal region proposal method",
+    "abstract": "Fully mining target information is critical to cope with the recovery of lost targets in long-term tracking scenarios. However, most existing trackers focus on either temporal or spatial information during tracking and do not utilize this information effectively simultaneously. Therefore, we propose a dynamic metric memory network for long-term tracking with spatial-temporal region proposals. First, we present a spatio-temporal region proposal method, in which temporal memory is utilized to construct dynamic templates that represent the variations in the historical appearance of the target. Meanwhile, spatial attention focuses on the geometric information of the target to enhance the perceptual capabilities of the model. This interactive use of spatio-temporal information makes the Regional Proposal Network (RPN) generate higher-quality object-oriented proposals. Second, a dynamic metric memory network encompassing writing and reading mechanisms is designed. The former includes a metric learning judgment strategy to maintain temporal consistency and dynamically memorize significant variations. The latter reads out the entire memory to verify the quality of the candidate region and infer the optimal candidate, in which the short-term memory is used to update the template. The designed network enhances the tracker’s adaptive capability to target changes. Finally, we employ an online refinement network to rectify the prediction results to further improve the tracking performance, which updates the memory pool and switches the local–global search strategy. our experimental results on benchmarks such as VOT-LT2018 and others demonstrate that our proposed tracker is on par with the current state-of-the-art tracking algorithms.",
+    "citation_count": 82,
+    "year": "2025/06",
+    "authors": [
+        {
+            "name": "Zhang, Huanlong",
+            "country": "China"
+        },
+        {
+            "name": "Fu, Weiqiang",
+            "country": "China"
+        },
+        {
+            "name": "Yang, Xiangbo",
+            "country": "China"
+        },
+        {
+            "name": "Qi, Rui",
+            "country": "China"
+        },
+        {
+            "name": "Wang, Xin",
+            "country": "China"
+        },
+        {
+            "name": "Zhang, Chunjie",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

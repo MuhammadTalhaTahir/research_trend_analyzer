@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1020716919751",
+    "title": "Energy-Efficient Broadcast and Multicast Trees in Wireless Networks",
+    "abstract": "The wireless networking environment presents formidable challenges to the study of broadcasting and multicasting problems. In this paper we focus on the problem of multicast tree construction, and we introduce and evaluate algorithms for tree construction in infrastructureless, all-wireless applications. The performance metric used to evaluate broadcast and multicast trees is energy-efficiency. We develop the Broadcast Incremental Power (BIP) algorithm, and adapt it to multicast operation by introducing the Multicast Incremental Power (MIP) algorithm. These algorithms exploit the broadcast nature of the wireless communication environment, and address the need for energy-efficient operation. We demonstrate that our algorithms provide better performance than algorithms that have been developed for the link-based, wired environment.",
+    "citation_count": 15,
+    "year": "2002/12",
+    "authors": [
+        {
+            "name": "Wieselthier, Jeffrey E.",
+            "country": ""
+        },
+        {
+            "name": "Nguyen, Gam D.",
+            "country": ""
+        },
+        {
+            "name": "Ephremides, Anthony",
+            "country": ""
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

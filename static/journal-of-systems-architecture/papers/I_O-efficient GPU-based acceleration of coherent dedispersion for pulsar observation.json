@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762123001376",
+    "title": "I/O-efficient GPU-based acceleration of coherent dedispersion for pulsar observation",
+    "abstract": "Coherent dedispersion is a frequency domain filtering method extensively used in  big data  stream processing to achieve high time resolution and pulse-profile precision in pulsar observation. However, the  computational complexity  and challenges associated with processing large-scale data streams have hindered its widespread adoption in modern telescopes. Overcoming these hurdles is crucial to realizing wide-band real-time coherent dedispersion. In this paper, we propose a highly parallel and high-I/O throughput implementation of coherent dedispersion on  GPU , specifically designed to support consecutive  dispersion measure  trials. Our  primary objective  is to achieve real-time coherent dedispersion, enabling precise high-time resolution and pulse-profile analysis in modern telescopes. To accomplish this, we leverage the power of GPU  parallelism  and employ advanced multi-threading techniques to optimize both computation and I/O throughput. Experiments show that our method achieves performance gains of 3.96x and 4.65x in processing time and IO throughput, respectively, when compared with the baseline work, the Coherent Dispersion Measure Trials (CDMT). Finally, the proposed techniques for improving computation  parallelism  and I/O efficiency are general that can provide valuable insights and serve as a reference for optimizing related algorithms in the field of  big data  stream processing.",
+    "citation_count": "1",
+    "year": "2023/09/01",
+    "authors": [
+        {
+            "name": "Xiangcong Kong",
+            "country": ""
+        },
+        {
+            "name": "Xiaoying Zheng",
+            "country": ""
+        },
+        {
+            "name": "Yongxin Zhu",
+            "country": ""
+        },
+        {
+            "name": "Gaoxiang Duan",
+            "country": ""
+        },
+        {
+            "name": "Zikang Chen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

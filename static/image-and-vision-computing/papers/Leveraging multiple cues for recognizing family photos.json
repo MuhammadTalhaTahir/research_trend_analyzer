@@ -1,0 +1,38 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885616301159",
+    "title": "Leveraging multiple cues for recognizing family photos",
+    "abstract": "Social relation analysis via images is a new research area that has attracted much interest recently. As social media usage increases, a wide variety of information can be extracted from the growing number of consumer photos shared online, such as the category of events captured or the relationships between individuals in a given picture. Family is one of the most important units in our society, thus categorizing family photos constitutes an essential step toward image-based social analysis and content-based retrieval of consumer photos. We propose an approach that combines multiple unique and complimentary cues for recognizing family photos. The first cue analyzes the geometric arrangement of people in the photograph, which characterizes scene-level information with efficient yet discriminative capability. The second cue models  facial appearance  similarities to capture and quantify relevant pairwise relations between individuals in a given photo. The last cue investigates the semantics of the context in which the photo was taken. Experiments on a dataset containing thousands of family and non-family pictures collected from social media indicate that each individual model produces good recognition results. Furthermore, a combined approach incorporating appearance, geometric and  semantic features  significantly outperforms the state of the art in this domain, achieving 96.7%  classification accuracy .",
+    "citation_count": "9",
+    "year": "2017/02/01",
+    "authors": [
+        {
+            "name": "Xiaolong Wang",
+            "country": ""
+        },
+        {
+            "name": "Guodong Guo",
+            "country": ""
+        },
+        {
+            "name": "Michele Merler",
+            "country": ""
+        },
+        {
+            "name": "Noel C. F. Codella",
+            "country": ""
+        },
+        {
+            "name": "Rohith MV",
+            "country": ""
+        },
+        {
+            "name": "John R. Smith",
+            "country": ""
+        },
+        {
+            "name": "Chandra Kambhamettu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

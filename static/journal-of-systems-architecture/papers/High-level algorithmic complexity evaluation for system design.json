@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762103000389",
+    "title": "High-level algorithmic complexity evaluation for system design",
+    "abstract": "The increasing complexity of processing algorithms has led to the need of more and more intensive specification and validation by means of software implementations. As the complexity grows, the intuitive understanding of the specific processing needs becomes harder and harder. Hence, the architectural implementation choices or the choices between different possible software/hardware partitioning become extremely difficult tasks. Moreover, it is also desirable to understand and measure the  algorithm complexity  at the highest possible level near to the  algorithmic level  so as to be able to take the more appropriate actions. Automatic tools to perform such analysis become nowadays a fundamental need. In this paper, the requirements of a suitable  algorithmic complexity  evaluation technology are discussed, with a particular emphasis to the problem of the analysis of  multimedia systems  and  signal processing algorithms . A brief review about limitations and weaknesses of existing tools is given, specifying the characteristics of ideal “complexity evaluation systems”. A new approach is described, called here  Software Instrumentation Tool , SIT, yielding an automatic software tool able to extract information not depending on the simulation platform, keeping into account specific input data and resulting in a good and useful measure of the desired  high-level  algorithmic complexity.",
+    "citation_count": "26",
+    "year": "2003/05/01",
+    "authors": [
+        {
+            "name": "Massimo Ravasi",
+            "country": ""
+        },
+        {
+            "name": "Marco Mattavelli",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885615001134",
+    "title": "Hankelet-based dynamical systems modeling for 3D action recognition",
+    "abstract": "This paper proposes to model an action as the output of a sequence of atomic  Linear Time Invariant  (LTI) systems. The sequence of LTI systems generating the action is modeled as a  Markov chain , where a  Hidden Markov Model  (HMM) is used to model the transition from one atomic LTI system to another. In turn, the LTI systems are represented in terms of their Hankel matrices. For classification purposes, the parameters of a set of HMMs (one for each action class) are learned via a discriminative approach. This work proposes a novel method to learn the atomic LTI systems from  training data , and analyzes in detail the action representation in terms of a sequence of Hankel matrices. Extensive evaluation of the proposed approach on two publicly available datasets demonstrates that the proposed method attains state-of-the-art accuracy in  action classification  from the 3D locations of body joints (skeleton).",
+    "citation_count": "29",
+    "year": "2015/12/01",
+    "authors": [
+        {
+            "name": "Liliana Lo Presti",
+            "country": ""
+        },
+        {
+            "name": "Marco La Cascia",
+            "country": ""
+        },
+        {
+            "name": "Stan Sclaroff",
+            "country": ""
+        },
+        {
+            "name": "Octavia Camps",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

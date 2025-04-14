@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1011510505406",
+    "title": "Finite volume discretization with imposed flux continuity for the general tensor pressure equation",
+    "abstract": "We present a new family of flux continuous, locally conservative, finite volume schemes applicable to the diagonal and full tensor pressure equations with generally discontinuous coefficients. For a uniformly constant symmetric elliptic tensor field, the full tensor discretization is second order accurate with a symmetric positive definite matrix. For a full tensor, an M-matrix with diagonal dominance can be obtained subject to a sufficient condition for ellipticity. Positive definiteness of the discrete system is illustrated. Convergence rates for discontinuous coefficients are presented and the importance of modeling the full permeability tensor pressure equation is demonstrated.",
+    "citation_count": 37,
+    "year": "1998/12",
+    "authors": [
+        {
+            "name": "Edwards, Michael G.",
+            "country": "USA"
+        },
+        {
+            "name": "Rogers, Clive F.",
+            "country": "UK"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

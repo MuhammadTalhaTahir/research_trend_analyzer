@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650225000707",
+    "title": "Decomposition-based dual-population evolutionary algorithm for constrained multi-objective problem",
+    "abstract": "Constrained multi-objective optimization problems require optimizing and solving multiple objectives while satisfying the constraints. However, in the process of solving this problem, some constraints created infeasible obstacle regions, which led to the neglect of a portion of the constrained Pareto front (CPF). In order to solve this problem, A novel decomposition-based dual-population constrained multi-objective evolutionary algorithm (DD-CMOEA) is proposed. DD-CMOEA adopts a dual population collaborative search strategy, which can quickly find CPF. In the first stage, DD-CMOEA conducts dual population searches on CPF and unconstrained Pareto front (UPF) separately. During the search process, sub-population A uses unconstrained global exploration to obtain information that helps sub-population B jump through infeasible obstacle areas. In the second stage, when the convergence of the sub-population searching for UPF stagnates, the angle-based constraint advantage principle is used for reverse search. It ensures that the searched CPF solution set can be evenly distributed throughout the entire search space. The experimental results on three standard benchmark function suites show that DD-CMOEA outperforms the other six state-of-the-art algorithms in solving constrained multi-objective optimization problems.",
+    "citation_count": "0",
+    "year": "2025/06/01",
+    "authors": [
+        {
+            "name": "Yufeng Wang",
+            "country": ""
+        },
+        {
+            "name": "Yong Zhang",
+            "country": ""
+        },
+        {
+            "name": "Chunyu Xu",
+            "country": ""
+        },
+        {
+            "name": "Wen Bai",
+            "country": ""
+        },
+        {
+            "name": "Ke Zheng",
+            "country": ""
+        },
+        {
+            "name": "Wenyong Dong",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

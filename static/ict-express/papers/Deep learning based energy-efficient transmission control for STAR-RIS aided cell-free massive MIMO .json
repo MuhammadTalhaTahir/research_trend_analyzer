@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959525000116",
+    "title": "Deep learning based energy-efficient transmission control for STAR-RIS aided cell-free massive MIMO networks",
+    "abstract": "Recently, the simultaneous transmitting and reflecting (STAR) reconfigurable intelligent surface (RIS) has been gaining attention as a key enabler for sixth-generation networks, providing additional links with reduction in power consumption. This paper investigates the STAR-RIS’s potential in a cell-free (CF) massive multiple-input multiple-output (mMIMO) network, where distributed APs serve user over the same time/frequency. We propose a deep deterministic policy gradient framework satisfying system-specific and per-user spectral efficiency constraints, exploiting a post-normalization and a penalized reward. From the simulations, it is revealed the proposed algorithm provides better energy performance than benchmarks, highlighting the benefits of STAR-RIS in the CF network.",
+    "citation_count": "0",
+    "year": "2025/04/01",
+    "authors": [
+        {
+            "name": "Chihyun Song",
+            "country": ""
+        },
+        {
+            "name": "Donghyun Lee",
+            "country": ""
+        },
+        {
+            "name": "Yunseong Lee",
+            "country": ""
+        },
+        {
+            "name": "Wonjong Noh",
+            "country": ""
+        },
+        {
+            "name": "Sungrae Cho",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,21 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-025-01272-9",
+    "title": "Superposed semi-Markov decision process with application to optimal maintenance systems",
+    "abstract": "This paper investigates the superposition problem of two or more individual semi-Markov decision processes (SMDPs). The new sequential decision process superposed by individual SMDPs is no longer an SMDP and cannot be handled by routine iterative algorithms, but we can expand its state spaces to obtain a hybrid-state SMDP. Using this&nbsp;hybrid-state SMDP as an auxiliary and inspired by the Robbins–Monro algorithm underlying the reinforcement learning method, we propose an iteration algorithm based on a combination of dynamic programming and reinforcement learning to numerically solve the superposed sequential decision problem. As an illustration example, we apply our superposition model and algorithm to solve the optimal maintenance problem of a two-component independent parallel system.",
+    "citation_count": 20,
+    "year": "2025/04",
+    "authors": [
+        {
+            "name": "Shi, Jianmin",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

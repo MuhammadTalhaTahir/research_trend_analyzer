@@ -1,0 +1,37 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-024-01223-w",
+    "title": "Different due-window assignment scheduling with deterioration effects",
+    "abstract": "This paper studies a due-window assignment scheduling problem with deterioration effects on a single-machine. Under different due-window assignment, i.e., the due-window of a job without any restriction, our goal is to make a decision on the optimal due-window and sequence of all jobs to minimize the weighted sum of earliness and tardiness, number of early and delayed, due-window starting time and size. We present properties of the optimal solutions, for some special cases, we prove that the problem can be solved in polynomial time. For the general case, we present a lower bound and an upper bound (i.e., a heuristic algorithm), then a branch-and-bound algorithm is proposed.",
+    "citation_count": 52,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "Zhang, Yurong",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Wang, Xi",
+            "country": "UK"
+        },
+        {
+            "name": "Zhang, Li-Han",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Jia, Xue",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Wang, Ji-Bo",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

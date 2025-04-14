@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885622000300",
+    "title": "A review on 2D instance segmentation based on deep neural networks",
+    "abstract": "Image  instance segmentation  involves labeling pixels of images with classes and instances, which is one of the pivotal technologies in many domains, such as natural scenes understanding, intelligent driving,  augmented reality  and medical image analysis. With the power of  deep learning , instance  segmentation methods  that use this technique have recently achieved remarkable progress. In this survey, we mainly discuss the representative 2D instance  segmentation methods  based on  deep neural networks . Firstly, we summarize current fully-, weakly- and semi-supervised instance segmentation methods, and divide existing fully-supervised methods into three sub-categories depending on the number of stages. Based on our investigation, we conclude that currently, two-stage methods dominate the frontier of general instance segmentation; single-stage methods can achieve a better speed-accuracy trade-off, and multi-stage methods can achieve higher accuracy. Secondly, we introduce eleven datasets and three  evaluation metrics  for evaluating instance segmentation methods that can help researchers decide which one to choose to meet their needs and goals. Then the innovation and quantitative results of state-of-the-art general instance segmentation methods and specific instance segmentation methods (including salient instance segmentation, person instance segmentation, and amodal instance segmentation) are reviewed. In what follows, the common  backbone networks  are reviewed to better explain the reasons that why deep neural networks-based instance segmentation methods can achieve excellent performance. Finally, the future research directions and  potential applications  of instance segmentation are discussed, which can facilitates researchers to realize the existing technical difficulties and recent research hotspots.",
+    "citation_count": "144",
+    "year": "2022/04/01",
+    "authors": [
+        {
+            "name": "Wenchao Gu",
+            "country": ""
+        },
+        {
+            "name": "Shuang Bai",
+            "country": ""
+        },
+        {
+            "name": "Lingxing Kong",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

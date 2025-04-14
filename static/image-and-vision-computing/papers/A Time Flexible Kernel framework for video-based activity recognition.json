@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885616300051",
+    "title": "A Time Flexible Kernel framework for video-based activity recognition",
+    "abstract": "This work deals with the challenging task of activity recognition in unconstrained videos. Standard methods are based on  video encoding  of low-level features using  Fisher Vectors  or Bag of Features. However, these approaches model every sequence into a single vector with fixed dimensionality that lacks any long-term temporal information, which may be important for recognition, especially of complex activities. This work proposes a novel framework with two main technical novelties: First, a video encoding method that maintains the  temporal structure  of sequences and second a Time Flexible Kernel that allows comparison of sequences of different lengths and random alignment. Results on challenging benchmarks and comparison to previous work demonstrate the applicability and value of our framework.",
+    "citation_count": "13",
+    "year": "2016/04/01",
+    "authors": [
+        {
+            "name": "Mario Rodriguez",
+            "country": ""
+        },
+        {
+            "name": "Carlos Orrite",
+            "country": ""
+        },
+        {
+            "name": "Carlos Medrano",
+            "country": ""
+        },
+        {
+            "name": "Dimitrios Makris",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

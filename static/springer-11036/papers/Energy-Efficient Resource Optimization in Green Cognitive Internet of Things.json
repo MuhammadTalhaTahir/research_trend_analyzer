@@ -1,0 +1,35 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-020-01510-w",
+    "title": "Energy-Efficient Resource Optimization in Green Cognitive Internet of Things",
+    "abstract": "Cognitive Internet of Things (CIoT) can improve spectrum utilization by accessing idle 4G/5G spectrum, in order to provide better transmission quality. However, compared with the traditional IoT, spectrum sensing may consume much energy, which decreases the transmission power of the CIoT. In this paper, a green CIoT has been proposed to collect the radio frequency (RF) energy of primary user (PU) by using energy harvesting. The frame is divided into sensing slot and transmission slot, and the nodes are divided into two independent groups to perform spectrum sensing and energy harvesting simultaneously in the sensing slot. The energy efficiency of the CIoT is maximized by formulating an optimization problem about sensing time, number of sensing nodes and transmission power, whose suboptimal value is achieved using a joint optimization algorithm. In order to guarantee energy balance, the alternative mechanism of spectrum sensing and energy harvesting is proposed to prolong the life of the CIoT. Simulation results have indicated the existence of the optimal solution and the outstanding performance of the green CIoT.",
+    "citation_count": 37,
+    "year": "2020/12",
+    "authors": [
+        {
+            "name": "Liu, Xin",
+            "country": "China"
+        },
+        {
+            "name": "Li, Ying",
+            "country": "China"
+        },
+        {
+            "name": "Zhang, Xueyan",
+            "country": "China"
+        },
+        {
+            "name": "Lu, Weidang",
+            "country": "China"
+        },
+        {
+            "name": "Xiong, Mudi",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

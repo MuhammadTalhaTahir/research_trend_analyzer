@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002129",
+    "title": "A method of degradation mechanism-based unsupervised remote sensing image super-resolution",
+    "abstract": "Remote sensing  image (RSI) super-resolution (SR) is an efficient and low-cost technique to achieve high-resolution and high-quality reconstruction images. The quality of RSI SR reconstruction is affected by the prior information contained in the  degradation model . Therefore, studying how to incorporate more RSI degradation prior into the degradation model is crucial. This article presents an approach to design the degradation model by extracting degradation factors from the perspective of remote sensing imaging mechanisms. It includes two aspects: simulating the  atmospheric scattering  effect through RGB channel weights downsampling and the comprehensive degradation effect of the remote sensing imaging platform through combined blurring. Furthermore, we proposed a high-performance RSI SR network based on  degradation mechanism  (RSN-DM), which includes a degrader  D  and a generator  G , to employ remote sensing prior fully. We conducted experiments on the UC Merced Land-Use and WPU-RESIS45 datasets, demonstrating that our proposed method is effective. Our method achieves state-of-the-art (SOTA) performance in  quantitative evaluation  and visual quality. Finally, we apply the proposed degradation model to other networks to further validate the model's effectiveness. Therefore, the degradation model proposed in this paper can enhance the performance of remote sensing image super-resolution techniques in practical applications.",
+    "citation_count": "3",
+    "year": "2024/08/01",
+    "authors": [
+        {
+            "name": "Zhikang Zhao",
+            "country": ""
+        },
+        {
+            "name": "Yongcheng Wang",
+            "country": ""
+        },
+        {
+            "name": "Ning Zhang",
+            "country": ""
+        },
+        {
+            "name": "Yuxi Zhang",
+            "country": ""
+        },
+        {
+            "name": "Zheng Li",
+            "country": ""
+        },
+        {
+            "name": "Chi Chen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

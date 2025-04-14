@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-020-09952-7",
+    "title": "Ensemble-based well trajectory and drilling schedule optimization—application to the Olympus benchmark model",
+    "abstract": "The general field development optimization problem is complex due to the potentially large number of controls of mixed type and discontinuities in the objective function related to varying numbers and types of wells being placed in a discretized grid. This may make the problem challenging or even unsuitable for certain types of optimization methods that rely on, e.g., the availability of (adjoint) gradients. It is not yet clear which alternative approaches will be most useful. Here we investigate the application of stochastic gradient-based optimization techniques to field development optimization. Since their initial application to large-scale well rate and pressure control problems, such techniques have been shown to produce useful results of practical value also for other types of reservoir optimization problems such vertical well placement, well drilling scheduling, and water-alternating-gas strategy optimization. Here we introduce an efficient parameterization for well trajectory optimization and discuss a simple way to handle the number of wells that is placed. The full field development problem is split into subproblems that are addressed sequentially. The sequential workflow is applied to the Olympus benchmark model which represents a complex green field development optimization challenge. Initial experiments show that the proposed approach based on stochastic gradient methods is able to find much improved development strategies, as defined by the number and trajectories of wells, a platform location and a drilling sequence, at relatively low computational cost. We additionally identify a number of possible improvements to the applied workflow that are expected to make it applicable to other field cases of intermediate complexity.",
+    "citation_count": 35,
+    "year": "2020/12",
+    "authors": [
+        {
+            "name": "Barros, Eduardo G. D.",
+            "country": "The Netherlands"
+        },
+        {
+            "name": "Chitu, Alin",
+            "country": "The Netherlands"
+        },
+        {
+            "name": "Leeuwenburgh, Olwijn",
+            "country": "The Netherlands"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

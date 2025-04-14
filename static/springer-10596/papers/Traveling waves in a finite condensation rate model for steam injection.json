@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-006-9030-x",
+    "title": "Traveling waves in a finite condensation rate model for steam injection",
+    "abstract": "Steam drive recovery of oil is an economical way of producing oil even in times of low oil prices and is used worldwide. This paper focuses on the one-dimensional setting, where steam is injected into a core initially containing oil and connate water while oil and water are produced at the other end. A three-phase (oil, water, steam) hot zone develops, which is abruptly separated from the two-phase (oil + water) cold zone by the steam condensation front. The oil, water and energy balance equations (Rankine–Hugoniot conditions) cannot uniquely solve the system of equations at the steam condensation front. In a previous study, we showed that two additional constraints follow from an analysis of the traveling wave equation representing the shock; however, within the shock, we assumed local thermodynamic equilibrium. Here we extend the previous study and include finite condensation rates; using that appropriate scaling requires that the Peclet number and the Damkohler number are of the same order of magnitude. We give a numerical proof, using a color-coding technique, that, given the capillary diffusion behavior and the rate equation, a unique solution can be obtained. It is proven analytically that the solution for large condensation rates tends to the solution obtained assuming local thermodynamic equilibrium. Computations with realistic values to describe the viscous and capillary effects show that the condensation rate can have a significant effect on the global saturation profile, e.g. the oil saturation just upstream of the steam condensation front.",
+    "citation_count": 46,
+    "year": "2006/12",
+    "authors": [
+        {
+            "name": "Bruining, J.",
+            "country": "The Netherlands"
+        },
+        {
+            "name": "Duijn, C. J. van",
+            "country": "The Netherlands"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

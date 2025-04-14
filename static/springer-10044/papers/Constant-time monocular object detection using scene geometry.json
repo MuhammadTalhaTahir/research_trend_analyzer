@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-017-0625-8",
+    "title": "Constant-time monocular object detection using scene geometry",
+    "abstract": "This paper presents a structured approach for efficiently exploiting the perspective information of a scene to enhance the detection of objects in monocular systems. It defines a finite grid of 3D positions on the dominant ground plane and computes occupancy maps from which object location estimates are extracted . This method works on the top of any detection method, either pixel-wise (e.g. background subtraction) or region-wise (e.g. detection-by-classification) technique, which can be linked to the proposed scheme with minimal fine tuning. Its flexibility thus allows for applying this approach in a wide variety of applications and sectors, such as surveillance applications (e.g. person detection) or driver assistance systems (e.g. vehicle or pedestrian detection). Extensive results provide evidence of its excellent performance and its ease of use in combination with different image processing techniques.",
+    "citation_count": 36,
+    "year": "2018/11",
+    "authors": [
+        {
+            "name": "Nieto, Marcos",
+            "country": "Spain"
+        },
+        {
+            "name": "Ortega, Juan Diego",
+            "country": "Spain"
+        },
+        {
+            "name": "Leškovský, Peter",
+            "country": "Spain"
+        },
+        {
+            "name": "Senderos, Orti",
+            "country": "Spain"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

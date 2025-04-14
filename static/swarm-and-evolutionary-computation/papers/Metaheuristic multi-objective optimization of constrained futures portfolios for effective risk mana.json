@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S221065021400056X",
+    "title": "Metaheuristic multi-objective optimization of constrained futures portfolios for effective risk management",
+    "abstract": "In the Derivatives financial markets, Futures portfolios are perceived to be instruments of high risk, despite their flexibility of being used for portfolio protection (hedging) or for profitable trading (speculating). A multi-pronged approach for an effective management of the risks involved includes employing strategies such as, diversification between dissimilar markets, decision to go long or short on assets that make up the portfolio and risk tolerance or risk budgeting concerned with how risk is distributed across asset classes constituting the portfolio with all of these governed by investors’ preferences and capital budgets. However, the inclusion of such objectives and constraints turns the problem model complex for direct solving using analytical methods, inducing the need to look for  metaheuristic  solutions. In this paper, we present a metaheuristic solution to such a complex futures portfolio  optimization problem , which strives to obtain an optimal well-diversified futures portfolio combining several asset classes such as equity indices, bonds and currencies, subject to the constraints of risk and capital budgets imposed on each of the asset classes, besides bounding constraints. The Herfindahl index function has been adopted to measure diversification of the long-short portfolio. In the absence of related work and considering the complexity of the problem that transforms it into a non linear multi-objective  constrained optimization  problem model, two metaheuristic strategies viz., multi-objective evolution strategy and multi-objective differential evolution, chosen from two different genres of evolutionary computation, have been employed to solve the complex problem and compare the results. Extensive simulations including performance analyses, convergence testing and back testing portfolio reliabilities have been undertaken to analyze the robustness of the  optimization strategies .",
+    "citation_count": "21",
+    "year": "2014/12/01",
+    "authors": [
+        {
+            "name": "G.A. Vijayalakshmi Pai",
+            "country": ""
+        },
+        {
+            "name": "Thierry Michel",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

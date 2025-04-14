@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-019-01332-5",
+    "title": "Joint Time and Node Optimization for Cluster-Based Energy-Efficient Cognitive Internet of Things",
+    "abstract": "In order to solve the problem of scarce spectrum resources of Internet of things (IoT), cognitive IoT (CIoT) based on cognitive radio (CR) has been put forwarded to improve the spectrum utilization of IoT through using the idle spectrum of primary user (PU). In this paper, a cluster-based energy-efficient CIoT is proposed to improve both spectrum efficiency and energy efficiency of IoT, which can harvest the radio frequency (RF) energy of the PU to supply energy consumption of spectrum sensing. In the proposed CioT, the frame is divided into sensing slot and transmission slot, and each cluster can perform either cooperative spectrum sensing or energy harvesting within sensing slot. A joint optimization problem of time and node is presented to maximize the spectrum access probability of the CIoT. A joint optimization algorithm is proposed to obtain the solution to the optimization problem. Then a clustering algorithm is proposed to allocate nodes and head to each cluster. Sensing and harvesting handoff of each cluster is analyzed and the minimal number of working nodes in a cluster is achieved to continue spectrum sensing. The simulations show that there is an optimal set of sensing time and number of sensing clusters to maximize the spectrum access probability, and there are tradeoffs between spectrum sensing, spectrum access and energy harvesting.",
+    "citation_count": 30,
+    "year": "2019/12",
+    "authors": [
+        {
+            "name": "Liu, Xin",
+            "country": "China"
+        },
+        {
+            "name": "Jia, Min",
+            "country": "China"
+        },
+        {
+            "name": "Na, Zhenyu",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

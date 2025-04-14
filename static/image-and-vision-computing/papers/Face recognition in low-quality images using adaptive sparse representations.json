@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885619300216",
+    "title": "Face recognition in low-quality images using adaptive sparse representations",
+    "abstract": "Although unconstrained face recognition has been widely studied over the recent years, state-of-the-art algorithms still result in an unsatisfactory performance for low-quality images. In this paper, we make two contributions to this field: the first one is the release of a new dataset called ‘AR-LQ’ that can be used in conjunction with the well-known ‘AR’ dataset to evaluate  face recognition algorithms  on blurred and low-resolution face images. The proposed dataset contains five new blurred faces (at five different levels, from low to severe blurriness) and five new low-resolution images (at five different levels, from 66 × 48 to 7 × 5 pixels) for each of the hundred subjects of the ‘AR’ dataset. The new blurred images were acquired by using a DLSR camera with manual focus that takes an out-of-focus photograph of a monitor that displays a sharp face image. In the same way, the low-resolution images were acquired from the monitor by a DLSR at different distances. Thus, an attempt is made to acquire low-quality images that have been degraded by a real  degradation process . Our second contribution is an extension of a known face recognition technique based on  sparse representations  (ASR) that takes into account low-resolution face images. The proposed method, called blur-ASR or bASR, was designed to recognize faces using dictionaries with different levels of  blurriness . These were obtained by digitally blurring the training images, and a sharpness metric for matching blurriness between the query image and the dictionaries. These two main adjustments made the algorithm more robust with respect to low-quality images. In our experiments, bASR consistently outperforms other state-of-the-art methods including hand-crafted features, sparse representations, and seven well-known  deep learning  face recognition techniques with and without  super resolution  techniques. On average, bASR obtained 88.8% of accuracy, whereas the rest obtained less than 78.4%.",
+    "citation_count": "25",
+    "year": "2019/05/01",
+    "authors": [
+        {
+            "name": "Daniel Heinsohn",
+            "country": ""
+        },
+        {
+            "name": "Esteban Villalobos",
+            "country": ""
+        },
+        {
+            "name": "Loreto Prieto",
+            "country": ""
+        },
+        {
+            "name": "Domingo Mery",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

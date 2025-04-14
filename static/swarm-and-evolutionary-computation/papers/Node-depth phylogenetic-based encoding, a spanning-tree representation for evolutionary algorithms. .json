@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650216300232",
+    "title": "Node-depth phylogenetic-based encoding, a spanning-tree representation for evolutionary algorithms. part I: Proposal and properties analysis",
+    "abstract": "Representation choice and the development of search operators are crucial aspects of the efficiency of Evolutionary Algorithms (EAs) in combinatorial problems. Several researchers have proposed representations and operators for EAs that manipulate spanning trees. This paper proposes a new encoding called Node-depth Phylogenetic-based Encoding (NPE). NPE represents spanning trees by the relation between nodes and their depths using a relatively simple codification/decodification process. The proposed NPE operators are based on methods used for tree rearrangement in phylogenetic tree reconstruction: subtree prune and regraft; and tree bisection and reconstruction. NPE and its operators are designed to have high locality, feasibility, low time complexity, be unbiased, and have independent weight. Therefore, NPE is a good choice of data structure for EAs applied to network design problems.",
+    "citation_count": "7",
+    "year": "2016/12/01",
+    "authors": [
+        {
+            "name": "Telma Woerle de Lima",
+            "country": ""
+        },
+        {
+            "name": "Alexandre Cláudio Botazzo Delbem",
+            "country": ""
+        },
+        {
+            "name": "Anderson da Silva Soares",
+            "country": ""
+        },
+        {
+            "name": "Fernando Marques Federson",
+            "country": ""
+        },
+        {
+            "name": "João Bosco Augusto London Junior",
+            "country": ""
+        },
+        {
+            "name": "Jeffrey Van Baalen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

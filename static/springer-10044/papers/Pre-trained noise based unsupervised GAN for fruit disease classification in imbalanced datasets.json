@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-025-01418-9",
+    "title": "Pre-trained noise based unsupervised GAN for fruit disease classification in imbalanced datasets",
+    "abstract": "Early disease diagnosis in edible fruits and vegetables is crucial for sustainable economic agricultural production. Recently, deep neural networks have explicitly shown exceptional performance in early disease recognition. However, an insufficient and scarce dataset is a critical issue for training the neural network, which makes dataset acquisition a fundamental obstacle in enhancing the performance of deep network models. A considerable amount of dataset acquisition necessitates an additional, expensive effort owing to time constraints and expert requirements. To mitigate this challenge, a novel data augmentation method, FruitGAN, exploiting the generative adversarial architecture, has been developed. The variational autoencoder transforms the random Gaussian noise into a pre-trained noise vector, which is then input into the proposed FruitGAN method. The FruitGAN method is equipped with a self-attention, residual block, and super-resolution module to maintain tiny lesions, structural integrity, and perceptual quality in the generated fruit images. Moreover, a new real-field eggplant dataset containing the four pathogens and one healthy category, aggregating 1325 samples, has been collected from on-field farms. The proposed FruitGAN method is leveraged to generate real-like synthetic images of the eggplant to avoid class imbalance problems. The effectiveness of FruitGAN is tested on the eggplant dataset in terms of FID and SSIM scores, and the results are compared with seven other State-Of-The-Art GAN models. Furthermore, the classification performance of the FruitGAN-generated dataset has also been tested against nine pre-trained deep networks namely, AlexNet, VGG16, VGG19, ResNet50, ResNet101, DenseNet101, InceptionV3, Xception, and MobileNetV2 and four hybrid networks, namely, InceptionV3 + VGG16, SVM + VGG19, CNN + SVM, and MobileNet + Xception using transfer learning and evaluating the performance by test data. The experimental results affirmed that the developed FruitGAN outperformed all other considered GAN models by achieving 112.88 FID and 0.94 SSIM scores. Moreover, the classification accuracy of the FruitGAN augmented dataset was recorded as 95.74%, which is the highest among other considered GAN models. The code and datasets of the proposed method are available at https://github.com/ersachingupta11/FruitGAN",
+    "citation_count": 58,
+    "year": "2025/06",
+    "authors": [
+        {
+            "name": "Gupta, Sachin",
+            "country": "India"
+        },
+        {
+            "name": "Tripathi, Ashish Kumar",
+            "country": "India"
+        },
+        {
+            "name": "Lewis, Nkenyereye",
+            "country": "South Korea"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

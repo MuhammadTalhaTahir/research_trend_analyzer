@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624001124",
+    "title": "Alignment and fusion for adaptive domain nighttime semantic segmentation",
+    "abstract": "In the field of  autonomous driving  technology, both daytime and nighttime scenes are common. However, due to the poor illumination and difficulty in manual annotation of  nighttime images ,  semantic segmentation  of nighttime scenes is more challenging compared to daytime scenes. Therefore, achieving significant progress in nighttime semantic segmentation would greatly enhance the effectiveness of the application of autonomous driving scenarios. In this work, we investigate the problem of domain-adaptive nighttime semantic segmentation (DANSS). The problem aims to learn semantic segmentation in nighttime scenes by leveraging a labeled Cityscapes dataset and unlabeled but roughly aligned day-night image pairs. To address this, we propose an Align and Fusion Network (AAFnet), a network for adaptive domain nighttime semantic segmentation. AAFnet utilizes a novel DAFormer as the backbone to separately compute features for dynamic and static objects during the training process. It also employs methods such as small category sampling and image blending to improve learning effectiveness. Additionally, we propose utilizing local image patches to enhance the results during the testing process. Experimental results demonstrate a significant improvement of 10.4% compared to the previous method, DANNet. Extensive experiments conducted on the Dark Zurich dataset and Nightdriving dataset validate the effectiveness of the proposed approach. Our method outperforms previous backbones and achieves top-ranking results.",
+    "citation_count": "0",
+    "year": "2024/06/01",
+    "authors": [
+        {
+            "name": "Bao Zhang",
+            "country": ""
+        },
+        {
+            "name": "Nianmin Yao",
+            "country": ""
+        },
+        {
+            "name": "Jian Zhao",
+            "country": ""
+        },
+        {
+            "name": "Yanan Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s100440200033",
+    "title": "Sensor Geometry and Sampling Methods for Space-Variant Image Processing",
+    "abstract": ": Space-variant imaging sensors have many advantages over conventional raster imaging sensors. They provide a large field of view for a given pixel count while maintaining a high resolution at the centre of the field of view and, in addition, produce a mapping that is scale and rotation invariant. The effectiveness of the sensor depends greatly upon the geometry used and the sampling methods employed. In this paper, we define a sensor geometry and introduce an ideal weighted sampling method, where the pixels in the image lying at the intersection of sensor cells, are subdivided into smaller sub-pixels, and an interpolation method using a variable width interpolation mask, whose size varies exponentially with the size and shape of the cells in the sensor array. We compare the computational requirements of these methods, and show that they are scale and rotation invariant, when the image is scaled or rotated about its centre, giving the sensor a functionality similar to that provided by the retinal mapping present in the mammalian retina. These results illustrate the advantages that can be obtained in real-time tracking applications in computer vision, where computational and memory requirements need to be kept to a minimum.",
+    "citation_count": 0,
+    "year": "2002/10",
+    "authors": [
+        {
+            "name": "Ho, Cheyne Gaw",
+            "country": "UK"
+        },
+        {
+            "name": "Young, Rupert C. D.",
+            "country": "UK"
+        },
+        {
+            "name": "Chatwin, Chris R.",
+            "country": "UK"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

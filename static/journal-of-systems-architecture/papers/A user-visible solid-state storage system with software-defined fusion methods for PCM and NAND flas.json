@@ -1,0 +1,38 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762116301163",
+    "title": "A user-visible solid-state storage system with software-defined fusion methods for PCM and NAND flash",
+    "abstract": "Existing SSD technology exploits the properties of NAND flash and leverages NAND flash with a controller running FTL algorithms to improve  system performance . On one hand, however, in this black-box-modeled structure, data semantic information is hard to be transferred and interpreted by conventional interfaces. Hence, SSD firmware fails to make full use of the performance potential of SSD by utilizing semantic information. Moreover, the host cannot obtain physical characteristics and statistical information about SSD, failing to be used by the file system or I/O  scheduling algorithm  designed for the disks. On the other hand, in SSD-based storage systems, persistent data are stored in the NAND flash and however manipulated in DRAM, causing the decoupled inefficiency. The data being closer to the processors are much easier to be lost due to the volatile property of DRAM, leading to serious data reliability problems. What’s more, restrictive read/program  granularity  and out-of-place updates limit the performance while flash suffers from small size operations. In order to address these problems, we propose a user-visible solid-state storage system with software-defined fusion methods for  PCM  and NAND flash. PCM is used for improving data reliability and reducing the write amplification of NAND flash as PCM shows some outstanding features, such as in-place updates, byte-addressable, non-volatile properties and better endurance. In this system, we manage the storage device as user-visible structure rather than black-box-modeled structure. In detail, we expose the number of channels, erase counts and  data distribution  of PCM/NAND flash to the host and design FTL algorithm closer to file system to obtain more semantic information of data accessing. PCM can be software-defined as the same level storage or buffer of NAND flash to reduce the WA (Write Amplification) of NAND flash and improve the data reliability. Moreover, some key software components (such as FTL, I/O scheduling and buffer management) are also reconfigurable and operated easily combined with physical characteristics. To achieve these design goals, we implement a Host Fusion Storage Layer (HFSL) and redesign the lengthy I/O path. Applications or filesystem can access PCM/flash directly via provided interfaces by HFSL without passing traditional I/O subsystem. Moreover, we provide the  system management  software to make the storage system can be easily software-defined by the upper-level system. We implement our software-defined fusion storage system in our actual hardware prototype and extensive experimental results demonstrate the efficiency of the proposed schemes.",
+    "citation_count": "6",
+    "year": "2016/11/01",
+    "authors": [
+        {
+            "name": "Zheng Li",
+            "country": ""
+        },
+        {
+            "name": "Fang Wang",
+            "country": ""
+        },
+        {
+            "name": "Jingning Liu",
+            "country": ""
+        },
+        {
+            "name": "Dan Feng",
+            "country": ""
+        },
+        {
+            "name": "Yu Hua",
+            "country": ""
+        },
+        {
+            "name": "Wei Tong",
+            "country": ""
+        },
+        {
+            "name": "Shuangwu Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

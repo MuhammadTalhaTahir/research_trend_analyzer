@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S026288562030113X",
+    "title": "An attention-based deep learning model for multiple pedestrian attributes recognition",
+    "abstract": "The automatic characterization of pedestrians in surveillance footage is a tough challenge, particularly when the data is extremely diverse with cluttered backgrounds, and subjects are captured from varying distances, under multiple poses, with  partial occlusion . Having observed that the state-of-the-art performance is still unsatisfactory, this paper provides a novel solution to the problem, with two-fold contributions: 1) considering the  strong semantic  correlation between the different full-body attributes, we propose a multi-task deep model that uses an element-wise multiplication layer to extract more comprehensive feature representations. In practice, this layer serves as a filter to remove irrelevant background features, and is particularly important to handle complex, cluttered data; and 2) we introduce a weighted-sum term to the loss function that not only relativizes the contribution of each task but also is crucial for  performance improvement  in multiple-attribute inference settings. Our experiments were performed on two well-known datasets (RAP and PETA) and point for the superiority of the proposed method with respect to the state-of-the-art. The code is available at  https://github.com/Ehsan-Yaghoubi/MAN-PAR- .",
+    "citation_count": "14",
+    "year": "2020/10/01",
+    "authors": [
+        {
+            "name": "Ehsan Yaghoubi",
+            "country": ""
+        },
+        {
+            "name": "Diana Borza",
+            "country": ""
+        },
+        {
+            "name": "João Neves",
+            "country": ""
+        },
+        {
+            "name": "Aruna Kumar",
+            "country": ""
+        },
+        {
+            "name": "Hugo Proença",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

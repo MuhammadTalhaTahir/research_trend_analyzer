@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885625000149",
+    "title": "Skeleton action recognition via group sparsity constrained variant graph auto-encoder",
+    "abstract": "Human skeleton action recognition has garnered significant attention from researchers due to its promising performance in real-world applications. Recently, graph neural networks (GNNs) have been applied to this field, with graph convolution networks (GCNs) being commonly utilized to modulate the spatial configuration and temporal dynamics of joints. However, the GCN-based paradigm for skeleton action recognition fails to recognize and disentangle the heterogeneous factors of action representation. Consequently, the learned action features are susceptible to irrelevant factors, hindering further performance enhancement. To address this issue and learn a disentangled action representation, we propose a novel skeleton action recognition method, termed  β -bVGAE. The proposed method leverages group sparsity constrained Variant graph auto-encoder, rather than graph convolutional networks, to learn the discriminative features of the skeleton sequence. Extensive experiments conducted on benchmark action recognition datasets demonstrate that our proposed method outperforms existing GCN-based skeleton action recognition methods, highlighting the significant potential of the variant auto-encoder architecture in the field of skeleton action recognition.",
+    "citation_count": "0",
+    "year": "2025/02/01",
+    "authors": [
+        {
+            "name": "Hongjuan Pei",
+            "country": ""
+        },
+        {
+            "name": "Jiaying Chen",
+            "country": ""
+        },
+        {
+            "name": "Shihao Gao",
+            "country": ""
+        },
+        {
+            "name": "Taisong Jin",
+            "country": ""
+        },
+        {
+            "name": "Ke Lu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

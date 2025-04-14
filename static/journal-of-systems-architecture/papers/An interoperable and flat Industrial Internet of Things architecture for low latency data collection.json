@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001564",
+    "title": "An interoperable and flat Industrial Internet of Things architecture for low latency data collection in manufacturing systems",
+    "abstract": "Industrial  Internet of Things  seeks to integrate Cloud-Edge-End  computing architecture  into existing  manufacturing systems  as an emerging and prospective paradigm of intelligent manufacturing to increase productivity and efficiency. Nowadays, most existing systems adopt a traditional pyramidal architecture for data collection. However, with the increasing of heterogeneous devices and diverse communication protocols, interoperability and latency become a challenging and open issue that brings difficulty to the data collection. In this paper, we propose an interoperable and flat  Industrial Internet of Things  architecture for low latency data collection based on two emerging technologies, OPC UA and Software-Defined Networking (SDN). The OPC UA-based edge intelligent gateway shields the heterogeneity of devices by providing a unified semantic information model and standard data access interface. SDN delivers flexible configuration and centralized control of the network resource and scheduling, which improves resilience and manageability. Moreover, we implement the proposed architecture on a discrete intelligent manufacturing production line  testbed  to evaluate its feasibility. The experiment results demonstrate that the proposed architecture can improve interoperability and latency for legacy manufacturing systems.",
+    "citation_count": "31",
+    "year": "2022/08/01",
+    "authors": [
+        {
+            "name": "Rongkai Wang",
+            "country": ""
+        },
+        {
+            "name": "Chaojie Gu",
+            "country": ""
+        },
+        {
+            "name": "Shibo He",
+            "country": ""
+        },
+        {
+            "name": "Zhiguo Shi",
+            "country": ""
+        },
+        {
+            "name": "Wenchao Meng",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S240595952400064X",
+    "title": "Selfish attack detection and response using cooperative backoff adjustment in wireless sensor networks",
+    "abstract": "In recent times, the proliferation of intelligent internet of things (IoT) and wireless sensor network (WSN) technologies has significantly enhanced both daily life and industrial operations. Despite their widespread application, these networks face challenges with resource monopolization by selfish nodes, which detrimentally impacts network efficiency. This study introduces a novel detection and response strategy for selfish nodes, utilizing backoff adjustment mechanisms to reduce throughput deterioration. The effectiveness of this approach was rigorously evaluated using the NetSim simulator, focusing on the impact of backoff adjustment on network throughput. Simulation results indicate that the implementation of this method in the presence of selfish nodes yields a noteworthy improvement in network throughput, with approximately more than twice. This advancement holds promise for enhancing the robustness and efficiency of IoT and WSN technologies against disruptive selfish node behaviors.",
+    "citation_count": "0",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Na-Eun Park",
+            "country": ""
+        },
+        {
+            "name": "Seo-Yi Kim",
+            "country": ""
+        },
+        {
+            "name": "Il-Gu Lee",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

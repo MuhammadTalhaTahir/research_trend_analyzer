@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762117300383",
+    "title": "An automatized method to parameterize embedded stereo matching algorithms",
+    "abstract": "Many applications rely on 3D information as a depth map.  Stereo Matching  algorithms reconstruct a depth map from a pair of stereoscopic images. Stereo  Matching algorithms  are computationally intensive, that is why implementing efficient stereo matching algorithms on embedded systems is very challenging for real-time applications. Indeed, like many vision algorithms, stereo matching algorithms have to set a lot of parameters and thresholds to work efficiently. When optimizing a stereo-matching algorithm, or changing algorithms parts, all those parameters have to be set manually. Finding the most efficient solution for a stereo-matching algorithm on a specific platform then becomes troublesome. This paper proposes an automatized method to find the optimal parameters of a dense stereo matching algorithm by learning from ground truth on a database in order to compare it with respect to any other alternative. Finally, for the C6678 platform, a map of the best compromise between quality and  execution time  is obtained, with execution times that are between 42 ms and 382 ms and output errors that are between 6% and 9.8%.",
+    "citation_count": "9",
+    "year": "2017/10/01",
+    "authors": [
+        {
+            "name": "Judicaël Menant",
+            "country": ""
+        },
+        {
+            "name": "Guillaume Gautier",
+            "country": ""
+        },
+        {
+            "name": "Muriel Pressigout",
+            "country": ""
+        },
+        {
+            "name": "Luce Morin",
+            "country": ""
+        },
+        {
+            "name": "Jean-François Nezan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

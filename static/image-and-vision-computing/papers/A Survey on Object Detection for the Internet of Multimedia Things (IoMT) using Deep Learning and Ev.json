@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885620302274",
+    "title": "A Survey on Object Detection for the Internet of Multimedia Things (IoMT) using Deep Learning and Event-based Middleware: Approaches, Challenges, and Future Directions",
+    "abstract": "An enormous amount of sensing devices (scalar or multimedia) collect and generate information (in the form of events) over the Internet of Things (IoT). Present research on IoT mainly focus on the processing of scalar sensor data events and barely considers the challenges posed by multimedia based events. In this paper, we systematically review the existing solutions available for the Internet of Multimedia Things (IoMT) by analyzing  sensing ,  networking ,  service , and  application-level  services provided by IoT. We present state-of-the-art event-based middleware methods and their suitability for multimedia event processing methods. We observe that existing IoT event-based middleware solutions focus on structured (scalar) events and possess only domain-specific characteristics for unstructured (multimedia) events. A case study for object detection is also presented to demonstrate the requirements associated with the processing of multimedia events within smart cities, even with common image recognition based applications. In order to validate the existing issues in the detection of objects, we also presented an evaluation of object detection models using existing datasets. At the end of each section, we shed light on trends, gaps, and possible solutions based on our analysis, experiments, and review of the existing research. Finally, we summarize the challenges and future research directions for the generalized multimedia event processing (by taking detection of each and every object as an example) based on applications using IoMT. Our experiments demonstrate that existing models are very slow to respond to any unseen class, and existing rich datasets do not have a sufficient number of classes to meet the requirements of real-time applications of smart cities. We show that although there is a significantly large technical literature on IoT, and research on IoMT is also quite actively growing, there have not been much research efforts directed towards the processing of multimedia events. As an example, although deep learning techniques have been shown to achieve impressive performance in applications like image recognition, the methods are deficient in detecting new (previously unseen) objects for multimedia based applications in smart cities. In light of these facts, it becomes imperative to conduct research on bringing together the abilities of event-based middleware for IoMT, and low response-time based online training and adaptation techniques.",
+    "citation_count": "0",
+    "year": "2021/02/01",
+    "authors": [
+        {
+            "name": "Asra Aslam",
+            "country": ""
+        },
+        {
+            "name": "Edward Curry",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

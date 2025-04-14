@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-016-0555-x",
+    "title": "A texture-based approach for word script and nature identification",
+    "abstract": "In this work, we propose a texture-based approach to separate handwritten from machine-printed words, written in Arabic and Latin scripts. The idea is to benefit from differences in writing orientation and the difference between the stroke length to discriminate between these scripts. For that, we designed a K nearest neighbors classifier trained with a set of texture features. These features are extracted from black run-length (BRL) histograms and seem to be suitable for finding structural characteristics in word images. Four feature extraction scenarios: (1) BRL, (2) restricted BRL, (3) BRL statistics and (4) restricted BRL combined to their statistics are chosen to demonstrate the potential of such a texture-based approach in script identification. Exploiting these features, we have got very promising result. The identification correct rate is higher than 98.92&nbsp;% in our experiments.",
+    "citation_count": 15,
+    "year": "2017/11",
+    "authors": [
+        {
+            "name": "Kacem, Afef",
+            "country": "Tunisia"
+        },
+        {
+            "name": "Saïdani, Asma",
+            "country": "Tunisia"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959518305411",
+    "title": "Single-shot digital holographic microscopy based on computational telecentricity using a single-arm off-axis interferometer",
+    "abstract": "We propose a single-shot digital holographic microscopy based on computational telecentricity with a single-arm off-axis interferometer (SA-OAI), which is composed of optical recording, computational compensation and retrieving processes. In the optical recording, the object beam is recorded as a hologram pattern with the SA-OAI, where a tube lens is located at the slightly shorter distance than its focal length from the objective lens. Another additional quadratic phase factor (AQPF) is then generated and embedded into the recorded hologram. In the computational compensation process, however, this AQPF can be canceled out from the recorded hologram with its digitally-generated version, which enables the proposed system operating in a so-called computational telecentricity. Thus, in the numerical retrieving process, phase information of the test object can be reconstructed just from this AQPF-compensated hologram. Wave-optical analysis and experiments with a test half-ball lens confirm the feasibility of the proposed system in the practical application.",
+    "citation_count": "0",
+    "year": "2018/12/01",
+    "authors": [
+        {
+            "name": "Seong-Jin Park",
+            "country": ""
+        },
+        {
+            "name": "Byung-Mok Kim",
+            "country": ""
+        },
+        {
+            "name": "Eun-Soo Kim",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

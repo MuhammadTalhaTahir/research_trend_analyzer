@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959521000345",
+    "title": "Nonorthogonal CSK/SS ALOHA system under MANET environment",
+    "abstract": "Spread ALOHA systems that combine the spread spectrum techniques with the ALOHA system (a simple random access protocol without carrier sensing function) have been investigated as Mobile Ad-hoc Network (MANET) protocols. This paper presents the effect of the nonorthogonal Code Shift Keying Spread Spectrum (CSK/SS) ALOHA system on improving the throughput and delay performances of the spread ALOHA system under the MANET environment. The nonorthogonal CSK/SS system, which uses systematically-constructed nonorthogonal sequences, is one of the multilevel modulation systems for the spread spectrum technique with increasing the number of bits per frame. Optimum parameters can be used to obtain the best system performance; thus, this paper gives analytical expressions of the data transmission efficiency and delay property of the proposed scheme as a function of the system parameters under the assumption of no power control. Numerical results show that the nonorthogonal CSK/SS ALOHA system is useful in the MANET environment, compared with the conventional spread ALOHA systems.",
+    "citation_count": "0",
+    "year": "2021/12/01",
+    "authors": [
+        {
+            "name": "Nobuyoshi Komuro",
+            "country": ""
+        },
+        {
+            "name": "Hiromasa Habuchi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

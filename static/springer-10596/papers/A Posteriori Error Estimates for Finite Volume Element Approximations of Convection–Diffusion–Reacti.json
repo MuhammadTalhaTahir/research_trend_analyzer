@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1021247300362",
+    "title": "A Posteriori Error Estimates for Finite Volume Element Approximations of Convection–Diffusion–Reaction Equations",
+    "abstract": "We present the results of a study on a posteriori error control strategies for finite volume element approximations of second order elliptic differential equations. Finite volume methods ensure local mass conservation and, combined with some up-wind strategies, give monotone solutions. We adapt the local refinement techniques known from the finite element method to the finite volume discretizations of various boundary value problems for steady-state convection–diffusion–reaction equations. In this paper we derive and study a residual type error estimator and illustrate its practical performance on a series of computational tests in 2 and 3 dimensions. Our tests show that the discussed locally conservative approximation methods with a posteriori error control can be used successfully in numerical simulation of fluid flow and transport in porous media.",
+    "citation_count": 32,
+    "year": "2002/09",
+    "authors": [
+        {
+            "name": "Lazarov, Raytcho",
+            "country": "USA"
+        },
+        {
+            "name": "Tomov, Stanimire",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

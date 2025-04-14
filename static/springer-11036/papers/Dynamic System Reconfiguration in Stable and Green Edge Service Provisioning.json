@@ -1,0 +1,31 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-023-02269-6",
+    "title": "Dynamic System Reconfiguration in Stable and Green Edge Service Provisioning",
+    "abstract": "Multi-access Edge Computing (MEC) has emerged as an essential paradigm to address the challenges posed by the proliferation of connected mobile devices. By constructing a MEC-based service system with edge servers in proximity and deploying modules or services on them, these devices can perform complex tasks efficiently with their own resources. However, the significant energy consumption associated with this computing paradigm poses a major obstacle to its widespread adoption. Thus, it is imperative to carefully configure the MEC-based service system to ensure optimal performance and cost-effectiveness. Furthermore, the dynamic nature of the system’s environment or context necessitates that the configuration be adaptable over time to fully utilize limited resources and ensure stability and energy efficiency. In this paper, we present an investigation and model of how mobile devices’ service requests are processed in a MEC-based service system. We propose a reinforcement learning-based algorithm to train a policy that dynamically reconfigures the system to minimize the average service response time while maximizing stability and energy efficiency. Our approach is validated through experiments on the YouTube usage dataset, and we demonstrate that it outperforms the baseline models.",
+    "citation_count": 34,
+    "year": "2024/10",
+    "authors": [
+        {
+            "name": "Xiang, Zhengzhe",
+            "country": "China"
+        },
+        {
+            "name": "Wang, Dezhi",
+            "country": "China"
+        },
+        {
+            "name": "He, Mengzhu",
+            "country": "China"
+        },
+        {
+            "name": "Chen, Yuanyi",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

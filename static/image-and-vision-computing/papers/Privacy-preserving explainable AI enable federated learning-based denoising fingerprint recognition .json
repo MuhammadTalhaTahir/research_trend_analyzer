@@ -1,0 +1,46 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885625000083",
+    "title": "Privacy-preserving explainable AI enable federated learning-based denoising fingerprint recognition model",
+    "abstract": "Most existing fingerprint recognition methods are based on machine learning and often overlook the privacy and heterogeneity of data when training on large datasets, leading to user information leakage and decreased recognition accuracy. To collaboratively optimize model accuracy under privacy protection, a novel fingerprint recognition algorithm based on artificial intelligence enable federated learning-based Fingerprint Recognition, (AI-Fed-FR) is proposed. First, federated learning is used to iteratively aggregate parameters from various clients, thereby improving the performance of the global model. Second, Explainable AI is applied for denoising low-quality fingerprint images to enhance fingerprint texture structure. Third, to address the fairness issue caused by client heterogeneity, a client scheduling strategy based on reservoir sampling is proposed. Finally, simulation experiments are conducted on three real-world datasets to analyze the effectiveness of AI-Fed-FR. Experimental results show that AI-Fed-FR improves accuracy by 5.32% compared to local learning and by 8.56% compared to the federated averaging algorithm, achieving accuracy close to centralized learning. This study is the first to demonstrate the feasibility of combining federated learning with fingerprint recognition, enhancing the security and scalability of fingerprint recognition algorithms and providing a reference for the application of federated learning in biometric technologies.",
+    "citation_count": "0",
+    "year": "2025/02/01",
+    "authors": [
+        {
+            "name": "Haewon Byeon",
+            "country": ""
+        },
+        {
+            "name": "Mohammed E. Seno",
+            "country": ""
+        },
+        {
+            "name": "Divya Nimma",
+            "country": ""
+        },
+        {
+            "name": "Janjhyam Venkata Naga Ramesh",
+            "country": ""
+        },
+        {
+            "name": "Abdelhamid Zaidi",
+            "country": ""
+        },
+        {
+            "name": "Azzah AlGhamdi",
+            "country": ""
+        },
+        {
+            "name": "Ismail Keshta",
+            "country": ""
+        },
+        {
+            "name": "Mukesh Soni",
+            "country": ""
+        },
+        {
+            "name": "Mohammad Shabaz",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

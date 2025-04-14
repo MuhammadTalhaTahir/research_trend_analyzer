@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-016-0559-6",
+    "title": "Car make and model recognition under limited lighting conditions at night",
+    "abstract": "Car make and model recognition (CMMR) has become an important part of intelligent transport systems. Information provided by CMMR can be utilized when license plate numbers cannot be identified or fake number plates are used. CMMR can also be used when a certain model of a vehicle is required to be automatically identified by cameras. The majority of existing CMMR methods are designed to be used only in daytime when most of the car features can be easily seen. Few methods have been developed to cope with limited lighting conditions at night where many vehicle features cannot be detected. The aim of this work was to identify car make and model at night by using available rear view features. This paper presents a one-class classifier ensemble designed to identify a particular car model of interest from other models. The combination of salient geographical and shape features of taillights and license plates from the rear view is extracted and used in the recognition process. The majority vote from support vector machine, decision tree, and k-nearest neighbors is applied to verify a target model in the classification process. The experiments on 421 car makes and models captured under limited lighting conditions at night show the classification accuracy rate at about 93&nbsp;%.",
+    "citation_count": 41,
+    "year": "2017/11",
+    "authors": [
+        {
+            "name": "Boonsim, Noppakun",
+            "country": "UK"
+        },
+        {
+            "name": "Prakoonwit, Simant",
+            "country": "UK"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

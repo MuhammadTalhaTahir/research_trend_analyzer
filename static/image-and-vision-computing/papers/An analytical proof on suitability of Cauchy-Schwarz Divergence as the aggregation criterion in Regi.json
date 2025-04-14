@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621002171",
+    "title": "An analytical proof on suitability of Cauchy-Schwarz Divergence as the aggregation criterion in Region Growing Algorithm",
+    "abstract": "Region Growing  Algorithm (RGA) is a popular, fast and strongly formed object  segmentation method . In RGA, the region is grown from the seed points to adjacent points depending on an aggregation criterion. Despite the huge literature on RGA, none of the proposed aggregation criteria have been analytically proved to be suitable for an ideal segmentation. In this paper, Cauchy-Schwarz Divergence (CSD) is proved to be suitable as an aggregation criterion in RGA for object segmentation. First, RGA is formulated in this context. The Cauchy-Schwarz-based criterion is proposed here in the  continuous case  for a bimodal image that contains one object in the background while both regions are normally distributed with different parameters (while the assumption of  normal distribution  of object and background has been used by many researchers in minimum error  thresholding  method). Then, a proof is given that in the mentioned formulated case, the proposed RGA will lead to an ideal segmentation. The case is also investigated while object and background have heavy-tail distributions like generalized  Gaussian function  when β < 2. While all formulations and proofs are given in the continuous case, the segmentation results in the discrete case are shown to be good. Comparison of these results with the outcomes of RGA with traditional aggregation criteria, shows how analytical justifications can suggest a better criterion.",
+    "citation_count": "2",
+    "year": "2021/11/01",
+    "authors": [
+        {
+            "name": "Yasser Baleghi",
+            "country": ""
+        },
+        {
+            "name": "David Rousseau",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

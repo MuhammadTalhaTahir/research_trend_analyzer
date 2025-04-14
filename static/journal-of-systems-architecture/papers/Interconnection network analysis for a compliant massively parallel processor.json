@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762196000690",
+    "title": "Interconnection network analysis for a compliant massively parallel processor",
+    "abstract": "The paper analyzes and selects an appropriate interconnection network for a compliant multiprocessor. The multiprocessor is compliant to the tasks assigned to it in the sense that it can be reconfigured to provide a more efficient fit to the tasks to be executed. A number of possible candidate networks for the multiprocessor is considered: Omega, ADM, Hypercube and Torus. The potential applicability of these networks to the multiprocessor is analyzed from the points of view of partitionability, inter-PE delay, fault impact, and cost. After the individual analysts of the above points of consideration is completed, a weighted network factor is formed, and the optimal type of network is selected, under different performance criteria. The overall results point to the selection of the Torus or Hypercube network for most cases under consideration.",
+    "citation_count": "2",
+    "year": "1997/02/01",
+    "authors": [
+        {
+            "name": "D. Bryan Perdue",
+            "country": ""
+        },
+        {
+            "name": "Daniel Tabak",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

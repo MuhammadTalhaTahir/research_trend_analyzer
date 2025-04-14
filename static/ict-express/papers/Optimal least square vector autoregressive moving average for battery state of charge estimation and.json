@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959521000412",
+    "title": "Optimal least square vector autoregressive moving average for battery state of charge estimation and forecasting",
+    "abstract": "The error in  state of charge  estimation using the combined models is usually attributable to the statistical model. In this study, a  least square  algorithm is utilized to optimize and increase the state of charge estimation accuracy. Specifically, the vector  autoregressive moving average  statistical model is optimized using the least square algorithm. The results presented in this paper show that the proposed method is effective in eliminating the estimation and measurement noise using the conventional  statistical method  and in optimizing the  SoC  estimation and forecasting. The optimization of the statistical model increases the SoC estimation and forecasting accuracy by 59.11%.",
+    "citation_count": "7",
+    "year": "2021/12/01",
+    "authors": [
+        {
+            "name": "Angela Caliwag",
+            "country": ""
+        },
+        {
+            "name": "Wansu Lim",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650225000598",
+    "title": "A learning-based dual-population optimization algorithm for hybrid seru system scheduling with assembly",
+    "abstract": "As the personalized demand increases, the hybrid seru system (HSS) has emerged as an efficient production paradigm to address the volatile market and intricate production conditions due to its reconfigurability. To satisfy the actual production demands, it is common to consider multiple assembly stages in the HSS. However, the increasing complexity poses challenges for the design of scheduling optimization algorithms. In this paper, a learning-based dual-population optimization algorithm (LDPOA) is designed for the hybrid seru system scheduling problem with assembly. Based on a problem-specific decomposition paradigm, a dual-population cooperative search framework is proposed to enhance the exploration capability by focusing on different subproblem optimizations in different populations. During the evolution, a fusion strategy and filtering mechanism are designed to avoid invalid searches by allocating computing resources to more potential individuals. A learning-guided search mode selection strategy and a population communication strategy are proposed to further improve search efficiency and population diversity. Finally, the adjustment strategies are proposed to improve the solution quality by leveraging problem knowledge. Extensive experiments are conducted to assess the performance of the LDPOA. The comparisons show that the HSS can improve production efficiency by 35.3 % compared to the traditional manufacturing mode.",
+    "citation_count": "0",
+    "year": "2025/04/01",
+    "authors": [
+        {
+            "name": "Yuting Wu",
+            "country": ""
+        },
+        {
+            "name": "Ling Wang",
+            "country": ""
+        },
+        {
+            "name": "Rui Li",
+            "country": ""
+        },
+        {
+            "name": "Yuxiang Xu",
+            "country": ""
+        },
+        {
+            "name": "Jie Zheng",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650222001195",
+    "title": "A genetic algorithm inspired optimized cluster head selection method in wireless sensor networks",
+    "abstract": "In this paper, an optimized cluster head (CH) selection method based on genetic algorithm (NCOGA) is proposed which uses the adaptive crossover and binary tournament selection methods to prolong the lifetime of a heterogeneous wireless sensor network (WSN). The novelty of the proposed algorithms is the integration of multiple parameters for the CH selection in a heterogeneous  WSN . NCOGA formulates fitness parameters by integrating multiple parameters like the residual energy, initial energy, distance to the sink, number of neighbors surrounded by a node, load balancing factor, and communicating mode decider (CMD). The parameters for load balancing and CMD are utilized to discover out the best candidate to be selected as a relay CH and for deciding the mode of communication (single or multi-hop) of CH. Further, these parameters are useful in avoiding hot-spot problem in the network. The working of the NCOGA starts based on the criteria “consider only those nodes which have energy higher than the pre-defined threshold energy”. This criterion of nodes selection makes the NCOGA more efficient and quickly convergent. Extensive computer simulations are conducted to determine the effectiveness of the NCOGA. Simulation results reveal that the proposed NCOGA outperforms the state-of-the-art optimization algorithms based on GA in terms of several performance metrics, specifically, stability period, residual energy, network lifetime, and throughput.",
+    "citation_count": "35",
+    "year": "2022/12/01",
+    "authors": [
+        {
+            "name": "Biswa Mohan Sahoo",
+            "country": ""
+        },
+        {
+            "name": "Hari Mohan Pandey",
+            "country": ""
+        },
+        {
+            "name": "Tarachand Amgoth",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

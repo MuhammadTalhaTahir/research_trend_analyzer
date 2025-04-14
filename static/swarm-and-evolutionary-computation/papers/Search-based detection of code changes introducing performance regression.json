@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650222000712",
+    "title": "Search-based detection of code changes introducing performance regression",
+    "abstract": "In contemporary software development, developers commonly conduct regression testing to ensure that code changes do not affect software quality. Conducting performance regression testing after every code change is known to be expensive which emigres the need to direct the performance regression testing efforts on code changes that are most likely introducing performance regression. In this paper, we exploit code change metrics to identify the group introducing the regression based on a pre-trained detection rule. We present PRICE approach as a new formulation of detecting code changes introducing performance regression as an optimization problem using multi-objective evolutionary algorithms. PRICE evaluated using a set of 8000 commits, extracted from the  Git  project. Results show the effectiveness of our approach in accurately detecting performance regression introducing code changes. The average regression detection PRICE provides is 77% which is 22% more than the state-of-the-art  deterministic approach . This improvement didn’t compromise the detection of the contradicted code changes that are not introducing a regression. PRICE provides detection of code changes not introducing a regression averaged 63%, which is also an improvement of 14% than the comparative approach. Using PRICE, we were able to explore new  search spaces  and provide competing results.",
+    "citation_count": "6",
+    "year": "2022/08/01",
+    "authors": [
+        {
+            "name": "Deema Alshoaibi",
+            "country": ""
+        },
+        {
+            "name": "Mohamed Wiem Mkaouer",
+            "country": ""
+        },
+        {
+            "name": "Ali Ouni",
+            "country": ""
+        },
+        {
+            "name": "AbdulMutalib Wahaishi",
+            "country": ""
+        },
+        {
+            "name": "Travis Desell",
+            "country": ""
+        },
+        {
+            "name": "Makram Soui",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

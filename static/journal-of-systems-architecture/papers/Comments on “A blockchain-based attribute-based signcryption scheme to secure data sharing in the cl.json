@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001989",
+    "title": "Comments on “A blockchain-based attribute-based signcryption scheme to secure data sharing in the cloud”",
+    "abstract": "Secure data sharing deserves  special attention  in  cloud computing  since the operating environment is semi-trusted. Recently, Eltayieb et al. proposed a blockchain-based attribute-based signcryption scheme to secure data sharing in the cloud (Journal of  Systems Architecture , doi:  https://doi.org/10.1016/j.sysarc.2019.101653 ). However, after carefully revisiting this scheme, we found out that Eltayieb et al.’s scheme is not secure against confidentiality attack. Thus, the  data confidentiality  of this scheme is broken, and any data user can have unauthorized access control on  outsourced data .",
+    "citation_count": "3",
+    "year": "2022/10/01",
+    "authors": [
+        {
+            "name": "Xiaoyu Li",
+            "country": ""
+        },
+        {
+            "name": "Lin Ge",
+            "country": ""
+        },
+        {
+            "name": "Jiahui Chen",
+            "country": ""
+        },
+        {
+            "name": "Zhiniang Peng",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

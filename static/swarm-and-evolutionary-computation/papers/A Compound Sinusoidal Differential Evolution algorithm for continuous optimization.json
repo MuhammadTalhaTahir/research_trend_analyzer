@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218301494",
+    "title": "A Compound Sinusoidal Differential Evolution algorithm for continuous optimization",
+    "abstract": "We propose a new variant of the Sinusoidal Differential Evolution (SinDE) algorithm, we call it the OCSinDE for Opposition-based Compound SinDE. It is based on the use of a compound sinusoidal formula for adjusting the scaling factor and crossover rate values of the Differential Evolution (DE) algorithm. In addition, Opposition-Based Learning (OBL) and a restart mechanism are adopted to boost the algorithm's exploration ability and avoid stagnation. The proposed approach has been tested on the reference black-box optimization benchmarking framework, BBOB, and compared to the standard DE algorithm, six variants of the original SinDE, and seven state-of-the-art differential evolution algorithms. Further comparisons to other state-of-the-art algorithms, including the famous multi-start CMAES, have been conducted. The obtained results have proven that the proposed OCSinDE does not only eliminate the effort dedicated to set the  F  and  CR  parameters, but is also very effective in terms of search performance; it outperformed the SinDE variants, many DE algorithms, the CMAES, and other metaheuristics.",
+    "citation_count": "22",
+    "year": "2019/11/01",
+    "authors": [
+        {
+            "name": "Amer Draa",
+            "country": ""
+        },
+        {
+            "name": "Khadidja Chettah",
+            "country": ""
+        },
+        {
+            "name": "Hichem Talbi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

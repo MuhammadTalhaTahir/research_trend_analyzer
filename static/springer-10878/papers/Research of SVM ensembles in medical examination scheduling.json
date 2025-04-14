@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-019-00510-1",
+    "title": "Research of SVM ensembles in medical examination scheduling",
+    "abstract": "In order to solve the problem of deterioration of the generalization ability caused by support vector machine (SVM), this paper proposes a regression prediction method based on SVM ensemble learning. The grid search method is used to optimize the modeling parameters of an SVM-based predictor. An AdaBoost method is used to integrate multiple SVM-based predictors, and a regression prediction model based on SVM ensemble learning is constructed. Using the database collected by a hospital taken as the research object, the executing time prediction of outpatient examination scheduling was tested and compared with the experimental results of the SVM predictor. The results show that the ensemble learning algorithm can effectively reduce the computational complexity brought in by training all samples altogether and improve the prediction accuracy. The prediction instability and low precision of the sampling-based standard SVM predictor are also solved effectively.",
+    "citation_count": 17,
+    "year": "2021/11",
+    "authors": [
+        {
+            "name": "Du, Yi",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Yu, Hua",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Li, Zhijun",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

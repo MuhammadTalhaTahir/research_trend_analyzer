@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-005-0015-5",
+    "title": "Dynamic clustering using particle swarm optimization with application in image segmentation",
+    "abstract": "A new dynamic clustering approach (DCPSO), based on particle swarm optimization, is proposed. This approach is applied to image segmentation. The proposed approach automatically determines the “optimum” number of clusters and simultaneously clusters the data set with minimal user interference. The algorithm starts by partitioning the data set into a relatively large number of clusters to reduce the effects of initial conditions. Using binary particle swarm optimization the “best” number of clusters is selected. The centers of the chosen clusters is then refined via the K-means clustering algorithm. The proposed approach was applied on both synthetic and natural images. The experiments conducted show that the proposed approach generally found the “optimum” number of clusters on the tested images. A genetic algorithm and random search version of dynamic clustering is presented and compared to the particle swarm version.",
+    "citation_count": 67,
+    "year": "2006/02",
+    "authors": [
+        {
+            "name": "Omran, Mahamed G. H.",
+            "country": "South Africa"
+        },
+        {
+            "name": "Salman, Ayed",
+            "country": "Kuwait"
+        },
+        {
+            "name": "Engelbrecht, Andries P.",
+            "country": "South Africa"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

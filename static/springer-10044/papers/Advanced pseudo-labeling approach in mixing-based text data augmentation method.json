@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-024-01340-6",
+    "title": "Advanced pseudo-labeling approach in mixing-based text data augmentation method",
+    "abstract": "Text augmentation methods facilitate an increase in the amount of training data, without having to collect new training data, by generating transformed versions of real datasets. Among such methods, mixing-based approaches, which swap words between two or more sentences, are widely applied owing to their simplicity and noteworthy performance. However, existing mixing-based approaches do not consider the importance of manipulated words during the pseudo-labeling process because they utilize a naive linear interpolation method. Thus, this paper proposes an advanced mixing-based text augmentation approach based on artificial intelligence methods that explicitly reflect the importance of manipulated words in the pseudo-labeling process. In addition, to avoid overdependence on the pseudo-labeling quality in the training process, the difference between the original label and prediction is also reflected in the loss function. Experimental results indicate that the performance of the proposed method is significantly higher than that of existing approaches.",
+    "citation_count": 39,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "Park, Jungmin",
+            "country": "Republic of Korea"
+        },
+        {
+            "name": "Lee, Younghoon",
+            "country": "Republic of Korea"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

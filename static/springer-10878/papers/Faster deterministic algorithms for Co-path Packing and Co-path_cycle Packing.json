@@ -1,0 +1,21 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-022-00917-3",
+    "title": "Faster deterministic algorithms for Co-path Packing and Co-path/cycle Packing",
+    "abstract": "In the Co-path Packing (resp., Co-path/cycle Packing) problem, the input is a graph G and an integer k, and the goal is to decide whether there is a set of at most k vertices whose removal from G results in a graph which is a collection of induced paths (resp., induced paths and cycles). In this paper we give deterministic $$O^*(3^k)$$ -time algorithms for Co-path Packing and Co-path/cycle Packing.",
+    "citation_count": 27,
+    "year": "2022/12",
+    "authors": [
+        {
+            "name": "Tsur, Dekel",
+            "country": "Israel"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

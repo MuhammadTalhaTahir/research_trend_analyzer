@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001369",
+    "title": "Energy-aware scheduling for dependent tasks in heterogeneous multiprocessor systems",
+    "abstract": "Heterogeneous multiprocessor  platform has been widely adopted as an effective approach to providing strong calculation capability while keeping complexity and energy consumption under control in large-scale systems. Although this platform is able to achieve efficient cost reduction and flexibility enhancement in the design and  development process  of real-time applications, it brings a serious and complex multi-task scheduling problem, especially for dependent tasks with energy consumption constraints. All tasks should be scheduled according to appropriate strategies such that their dependence requirements and energy consumption limitations would be satisfied even in the worst-case situations. In this work, we focus on the energy-aware scheduling problem of dependent tasks in heterogeneous  multiprocessor systems . First, we model the dependent tasks and heterogeneous processors, and formulate the energy-aware scheduling problem as a  constrained optimization  one with an objective of minimizing the schedule length of tasks. Then, by adopting an efficient task prioritization strategy and a weight-based energy distribution strategy, we propose a list-based energy-aware  scheduling algorithm  to seek an approximate optimal start time and processor allocation for each task, guaranteeing that all tasks would be executed efficiently while meeting the dependence and energy requirements. Experiments with randomly  generated tasks  are conducted to evaluate the performances of the proposed approach in terms of schedule length, optimal solution ratio, and  execution time .",
+    "citation_count": "61",
+    "year": "2022/08/01",
+    "authors": [
+        {
+            "name": "Jinchao Chen",
+            "country": ""
+        },
+        {
+            "name": "Yu He",
+            "country": ""
+        },
+        {
+            "name": "Ying Zhang",
+            "country": ""
+        },
+        {
+            "name": "Pengcheng Han",
+            "country": ""
+        },
+        {
+            "name": "Chenglie Du",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

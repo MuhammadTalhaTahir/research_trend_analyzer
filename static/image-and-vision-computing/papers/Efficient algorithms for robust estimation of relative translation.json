@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S026288561630097X",
+    "title": "Efficient algorithms for robust estimation of relative translation",
+    "abstract": "One of the key challenges for  structure from motion  systems in order to make them robust to failure is the ability to handle outliers among the correspondences. In this paper we present two new algorithms that find the optimal solution in the presence of outliers when the camera undergoes a pure translation. The first algorithm has polynomial-time  computational complexity , independently of the amount of outliers. The second algorithm does not offer such a theoretical complexity guarantee, but we demonstrate that it is magnitudes faster in practice. No random sampling approaches such as RANSAC are guaranteed to find an optimal solution, while our two methods do. We evaluate and compare the algorithms both on synthetic and real experiments. We also embed the algorithms in a larger system, where we optimize for the  rotation angle  as well (the  rotation axis  is measured by other means). The experiments show that for problems with a large amount of outliers, the RANSAC estimates may deteriorate compared to our optimal methods.",
+    "citation_count": "5",
+    "year": "2016/08/01",
+    "authors": [
+        {
+            "name": "Johan Fredriksson",
+            "country": ""
+        },
+        {
+            "name": "Viktor Larsson",
+            "country": ""
+        },
+        {
+            "name": "Carl Olsson",
+            "country": ""
+        },
+        {
+            "name": "Olof Enqvist",
+            "country": ""
+        },
+        {
+            "name": "Fredrik Kahl",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

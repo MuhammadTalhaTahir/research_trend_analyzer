@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762116302922",
+    "title": "Cholesky factorization on SIMD multi-core architectures",
+    "abstract": "Many  linear algebra  libraries, such as the Intel MKL,  Magma  or Eigen, provide fast  Cholesky factorization . These libraries are suited for big matrices but perform slowly on small ones. Even though State-of-the-Art studies begin to take an interest in small matrices, they usually feature a few hundreds rows. Fields like  Computer Vision  or  High Energy Physics  use tiny matrices. In this paper we show that it is possible to speed up the  Cholesky factorization  for tiny matrices by grouping them in batches and using highly specialized code. We provide High Level Transformations that accelerate the factorization for current multi-core and many-core  SIMD  architectures ( SSE, AVX 2,  KNC, AVX512 , Neon, Altivec). We focus on the fact that, on some architectures, compilers are unable to vectorize and on other architectures, vectorizing compilers are not efficient. Thus hand-made  SIMD ization is mandatory. We achieve with these transformations combined with  SIMD  a speedup from × 14 to × 28 for the whole resolution in single precision compared to the naive code on a  AVX 2 machine and a speedup from × 6 to × 14 on  double precision , both with a strong scalability.",
+    "citation_count": "13",
+    "year": "2017/09/01",
+    "authors": [
+        {
+            "name": "Florian Lemaitre",
+            "country": ""
+        },
+        {
+            "name": "Benjamin Couturier",
+            "country": ""
+        },
+        {
+            "name": "Lionel Lacassagne",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-021-01005-8",
+    "title": "A robust method for image stitching",
+    "abstract": "We propose a novel method for large-scale image stitching that is robust against repetitive patterns and featureless regions in the imagery. In such cases, state-of-the-art image stitching methods easily produce image alignment artifacts, since they may produce false pairwise image registrations that are in conflict within the global connectivity graph. Our method augments the current methods by collecting all the plausible pairwise image registration candidates, among which globally consistent candidates are chosen. This enables the stitching process to determine the correct pairwise registrations by utilizing all the available information from the whole imagery, such as unambiguous registrations outside the repeating pattern and featureless regions. We formalize the method as a weighted multigraph whose nodes represent the individual image transformations from the composite image, and whose sets of multiple edges between two nodes represent all the plausible transformations between the pixel coordinates of the two images. The edge weights represent the plausibility of the transformations. The image transformations and the edge weights are solved from a non-linear minimization problem with linear constraints, for which a projection method is used. As an example, we apply the method in a large-scale scanning application where the transformations are primarily translations with only slight rotation and scaling component. Despite these simplifications, the state-of-the-art methods do not produce adequate results in such applications, since the image overlap is small, which can be featureless or repetitive, and misalignment artifacts and their concealment are unacceptable.",
+    "citation_count": 30,
+    "year": "2021/11",
+    "authors": [
+        {
+            "name": "Pellikka, Matti",
+            "country": "Finland"
+        },
+        {
+            "name": "Lahtinen, Valtteri",
+            "country": "Finland"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

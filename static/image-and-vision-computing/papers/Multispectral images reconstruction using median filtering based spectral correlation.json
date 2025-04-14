@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885625000502",
+    "title": "Multispectral images reconstruction using median filtering based spectral correlation",
+    "abstract": "Multispectral images are widely utilized in various computer vision applications because they capture more information than traditional color images. Multispectral imaging systems utilize a multispectral filter array (MFA), an extension of the color filter array found in standard RGB cameras. This approach provides an efficient, cost-effective, and practical method for capturing multispectral images. The primary challenge with multispectral imaging systems using an MFA is the significant undersampling of spectral bands in the mosaicked image. This occurs because a multispectral mosaic image contains a greater number of spectral bands compared to an RGB mosaicked image, leading to reduced sampling density per band. Now, multispectral demosaicing algorithm is required to generate the complete multispectral image from the mosaicked image. The effectiveness of demosaicing algorithms relies heavily on the efficient utilization of spatial and spectral correlations inherent in mosaicked images. In the proposed method, a binary tree-based MFA pattern is employed to capture the mosaicked image. Rather than directly leveraging spectral correlations between bands, median filtering is applied to the spectral differences to mitigate the impact of noise on these correlations. Experimental results demonstrate that the proposed method achieves an improvement of 1.03 dB and 0.92 dB on average from 5-band to 10-band multispectral images from the widely used TokyoTech and CAVE datasets, respectively.",
+    "citation_count": "0",
+    "year": "2025/04/01",
+    "authors": [
+        {
+            "name": "Vishwas Rathi",
+            "country": ""
+        },
+        {
+            "name": "Abhilasha Sharma",
+            "country": ""
+        },
+        {
+            "name": "Amit Kumar Singh",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

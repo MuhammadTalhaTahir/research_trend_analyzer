@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-008-0134-x",
+    "title": "Finding regions of interest for cancerous masses enhanced by elimination of linear structures and considerations on detection correctness measures in mammography",
+    "abstract": "Cancerous mass detection methods for mammographic images still miss some malignant cases on the one hand, and produce too many false-positive (FP) detections with respect to the number of true-positive (TP) detections on the other. An attempt has been described to improve the TP ratio per image and to decrease the number of FP errors in the hierarchical template matching detector of regions of interest (ROIs) for cancerous masses by eliminating the images of linear structures (LSs) from the mammograms. The LSs were detected with an accumulation-based line detector. The measure of correctness of the ROIs detection was discussed and the quality of the detector, represented by free receiver operating characteristics curves, was compared with the human-eye observations. The result is that the widely used measure of detection correctness seems to underestimate the detection quality made by a human. Tests were performed on the mammograms from the MIAS database.",
+    "citation_count": 39,
+    "year": "2009/12",
+    "authors": [
+        {
+            "name": "Bator, Marcin",
+            "country": "Poland"
+        },
+        {
+            "name": "Chmielewski, Leszek J.",
+            "country": "Poland"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

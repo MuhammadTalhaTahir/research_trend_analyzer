@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218307156",
+    "title": "Saturated control design of a quadrotor with heterogeneous comprehensive learning particle swarm optimization",
+    "abstract": "This paper presents a novel saturated control method for a quadrotor to realize three–dimensional spatial trajectory tracking with heterogeneous comprehensive learning  particle swarm optimization  (HCLPSO). First, the model of the quadrotor is decomposed into cascaded control structure (CCS) with inner attitude control loop and outer position control loop. Second, the saturated control is deployed to confine the thrust force of the quadrotor in the outer position control loop. Then, the inner attitude reference signals can be generated with the outer position control loop through the cascaded control mode. Third, to alleviate the difficulty of the parameter adjustment, HCLPSO algorithm is applied in the control parameter optimization for the quadrotor. The optimization results of the HCLPSO are compared with that of  particle swarm optimization  (PSO), comprehensive learning particle swarm optimization (CLPSO),  genetic algorithm  (GA), and differential evolution (DE). At last, simulation results certify that the spatial trajectory tracking control of the quadrotor can be successfully achieved with the proposed method.",
+    "citation_count": "23",
+    "year": "2019/05/01",
+    "authors": [
+        {
+            "name": "Jia-Jun Wang",
+            "country": ""
+        },
+        {
+            "name": "Guang-Yu Liu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

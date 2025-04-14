@@ -1,0 +1,30 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1020367508848",
+    "title": "Compilation From Matlab to Process Networks Realized in FPGA",
+    "abstract": "Compaan is a software tool that is capable of automatically translating nested loop programs, written in Matlab, into parallel process network descriptions suitable for implementation in hardware. In this article, we show a methodology and tool to convert theseprocess networks into FPGA implementations. We will show that we can in principleobtain high performing realizations in a fraction of the design time currentlyemployed to realize a parameterized implementation. This allows us to rapidlyexplore a range of transformations, such as loop unrolling and skewing, togenerate a circuit that meets the requirements of a particular application.The QR decomposition algorithm is used to demonstrate the capability of thetool. We present results showing how the number of clock cycles and calculations-per-secondvary with these transformations using a simple implementation of the functionunits. We also provide an indication of what we expect to achieve in the nearfuture once the tools are completed and applied the transformations to parallel,highly pipelined implementations of the function units.",
+    "citation_count": 17,
+    "year": "2002/11",
+    "authors": [
+        {
+            "name": "Harriss, Tim",
+            "country": "UK"
+        },
+        {
+            "name": "Walke, Richard",
+            "country": "UK"
+        },
+        {
+            "name": "Kienhuis, Bart",
+            "country": "The Netherlands"
+        },
+        {
+            "name": "Deprettere, Ed",
+            "country": "The Netherlands"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-013-9689-6",
+    "title": "Generating QAP instances with known optimum solution and additively decomposable cost function",
+    "abstract": "Quadratic assignment problems (QAPs) is a NP-hard combinatorial optimization problem. QAPs are often used to compare the performance of meta-heuristics. In this paper, we propose a QAP problem instance generator that can be used for benchmarking for heuristic algorithms. Our QAP generator combines small size QAPs with known optimum solution into a larger size QAP instance. We call these instances composite QAPs (cQAPs), and we show that the cost function of cQAPs is additively decomposable. We give mild conditions for which a cQAP instance has known optimum solution. We generate cQAP instances using uniform distributions with different bounds for the component QAPs and for the rest of the cQAP elements. Numerical and analytical techniques that measure the difficulty of the cQAP instances in comparison with other QAPs from the literature are introduced. These methods point out that some cQAP instances are difficult for local search with many local optimum of various values, low epistasis and non-trivial asymptotic behaviour.",
+    "citation_count": 23,
+    "year": "2015/11",
+    "authors": [
+        {
+            "name": "Drugan, Mădălina M.",
+            "country": "Belgium"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

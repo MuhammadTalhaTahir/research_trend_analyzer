@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885622000324",
+    "title": "Cross-view action recognition with small-scale datasets",
+    "abstract": "Cross-view action recognition refers to the task of recognizing actions observed from view-points that are unfamiliar to the system. To address the complexity of the problem, state of the art methods often rely on large-scale datasets, where the variability of viewpoints is appropriately represented. However, this comes to a significant price, in terms of computational power, time, costs, energy for both gathering data annotation and training the model. We propose a methodological pipeline that tackles the same challenges with specific focus on small-scale datasets and attention to the amount of resources required. The core idea of our method is to transfer knowledge from an intermediate, pre-trained representation, under the hypothesis that it already may implicitly incorporate relevant cues for the task. We rely on an effective domain adaptation strategy coupled with the design of a robust classifier that promotes view-invariant properties and allows us to efficiently generalise to action recognition to unseen viewpoints. In contrast to other state-of-art methods employing also alternative data modalities, our approach is purely video-based and thus has a wider field of applications. We present a thorough experimental analysis justifying the choices on the design of the pipeline, and providing a comparison with existing approaches in the two main scenarios of one-one learning and multiple view learning, where our approach provides superior performance.",
+    "citation_count": "11",
+    "year": "2022/04/01",
+    "authors": [
+        {
+            "name": "Gaurvi Goyal",
+            "country": ""
+        },
+        {
+            "name": "Nicoletta Noceti",
+            "country": ""
+        },
+        {
+            "name": "Francesca Odone",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

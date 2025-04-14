@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-021-01887-2",
+    "title": "Mobile Signal Modulation Recognition Based on Multimodal Feature Fusion",
+    "abstract": "In mobile communication, automatic modulation recognition of mobile signals has always attracted attention. In the more and more complex electronic environment, the researchers are trying their best to deal with the communication signals, the study of this part can be used in the reality of the war environment, and it has the most important significance for the complex environment. The color time-frequency images of one-dimensional signals can be obtained by using the smooth pseudo-Wigner distributed time-frequency algorithm, at the same time, color time-frequency diagram contains rich texture information, so this paper proposes a mobile signal modulation recognition algorithm based on multimodal feature fusion. The features extracted from the two modes of the time-frequency diagram are fused to realize the signal recognition. The results of the simulations show that if compared with the other algorithms which were not consider the connections between different characters, the algorithm of this paper can improve the result in some way at low SNR. In order to solve the problems that they were less consider about the connections between different characters of the signals, this paper used the convolutional neural network to solve this kind of problem. The results of the simulation experiments show that the TF-CNN and TF-Resnet of this paper have better performance at low signal-to-noise ratio, they can achieve the high precision signal automatic modulation recognition and classification.",
+    "citation_count": 25,
+    "year": "2022/12",
+    "authors": [
+        {
+            "name": "Cai, Zhuoran",
+            "country": "China"
+        },
+        {
+            "name": "Li, Yuqian",
+            "country": "China"
+        },
+        {
+            "name": "Wu, Qidi",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

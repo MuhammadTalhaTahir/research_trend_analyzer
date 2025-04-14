@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124001279",
+    "title": "Efficient and privacy-preserving outsourced unbounded inner product computation in cloud computing",
+    "abstract": "In cloud computing, the current challenge lies in managing massive data, which is a computationally overburdened environment for data users. Outsourced computation can effectively ease the memory and computation pressure on overburdened data storage. We propose an outsourced unbounded decryption scheme in the standard assumption and standard model for large data settings based on inner product computation. Security analysis shows that it can achieve adaptive security. The scheme involves the data owner transmitting encrypted data to a third-party cloud server, which is responsible for computing a significant amount of data. Then the ripe data is handed over to the data user for decryption computation. In addition, there is no need to give the prior bounds of the length of the plaintext vector in advance. This allows for the encryption algorithm to run without determining the length of the input data before the setup phase, that is, our scheme is on the unbounded setting. Through theoretical analysis, the storage overhead and communication cost of the data users remain independent of the  ciphertext  size. The experimental results indicate that the efficiency and performance are greatly enhanced, about 0.03S for data users at the expense of increased computing time on the cloud server.",
+    "citation_count": "0",
+    "year": "2024/08/01",
+    "authors": [
+        {
+            "name": "Jiayun Yan",
+            "country": ""
+        },
+        {
+            "name": "Jie Chen",
+            "country": ""
+        },
+        {
+            "name": "Chen Qian",
+            "country": ""
+        },
+        {
+            "name": "Anmin Fu",
+            "country": ""
+        },
+        {
+            "name": "Haifeng Qian",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

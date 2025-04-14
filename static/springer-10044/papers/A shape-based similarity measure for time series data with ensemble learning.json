@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-011-0262-6",
+    "title": "A shape-based similarity measure for time series data with ensemble learning",
+    "abstract": "This paper introduces a shape-based similarity measure, called the angular metric for shape similarity (AMSS), for time series data. Unlike most similarity or dissimilarity measures, AMSS is based not on individual data points of a time series but on vectors equivalently representing it. AMSS treats a time series as a vector sequence to focus on the shape of the data and compares data shapes by employing a variant of cosine similarity. AMSS is, by design, expected to be robust to time and amplitude shifting and scaling, but sensitive to short-term oscillations. To deal with the potential drawback, ensemble learning is adopted, which integrates data smoothing when AMSS is used for classification. Evaluative experiments reveal distinct properties of AMSS and its effectiveness when applied in the ensemble framework as compared to existing measures.",
+    "citation_count": 27,
+    "year": "2013/11",
+    "authors": [
+        {
+            "name": "Nakamura, Tetsuya",
+            "country": "Japan"
+        },
+        {
+            "name": "Taki, Keishi",
+            "country": "Japan"
+        },
+        {
+            "name": "Nomiya, Hiroki",
+            "country": "Japan"
+        },
+        {
+            "name": "Seki, Kazuhiro",
+            "country": "Japan"
+        },
+        {
+            "name": "Uehara, Kuniaki",
+            "country": "Japan"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

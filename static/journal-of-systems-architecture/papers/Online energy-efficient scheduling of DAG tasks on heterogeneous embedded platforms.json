@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762123000735",
+    "title": "Online energy-efficient scheduling of DAG tasks on heterogeneous embedded platforms",
+    "abstract": "Heterogeneous  distributed computing systems  are becoming more and more common to process practical applications in many embedded systems, where energy efficiency is very important, especially for battery-powered systems. This paper studies the problem of how to adaptively schedule dynamic applications on the fly on a heterogeneous embedded system such that the system’s energy consumption can be minimized, while meeting applications’  response time  and reliability requirements simultaneously. We first study the problem of scheduling a set of static applications. This problem is formulated as an integer  nonlinear programming  problem by deriving the response time equation of directed acyclic graph (DAG) applications. A reliability-aware scheduling strategy is designed to solve this problem. On top of this strategy, we develop an algorithm that tries to use as few processors as possible to finish the computation because, in this way, the system’s static energy can be saved. We then extend this solution to handle the problem of scheduling dynamic applications. By developing a  task migration  algorithm and a schedule adjustment algorithm, the system can adaptively handle suspended and newly released applications on the fly. Extensive simulation experiments are conducted, and the results demonstrate the high efficiency of our proposed approaches against some classic heuristics and a state-of-the-art approach.",
+    "citation_count": "9",
+    "year": "2023/07/01",
+    "authors": [
+        {
+            "name": "Biao Hu",
+            "country": ""
+        },
+        {
+            "name": "Xincheng Yang",
+            "country": ""
+        },
+        {
+            "name": "Mingguo Zhao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

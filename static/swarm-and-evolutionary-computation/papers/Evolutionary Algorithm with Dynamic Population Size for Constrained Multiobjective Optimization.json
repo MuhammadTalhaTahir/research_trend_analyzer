@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650222000748",
+    "title": "Evolutionary Algorithm with Dynamic Population Size for Constrained Multiobjective Optimization",
+    "abstract": "The core task of constrained  multiobjective optimization  is to achieve a tradeoff between exploration and exploitation as well as a tradeoff between constraints and objectives. We present an effective  e volutionary  a lgorithm with a  d ynamic  p opulation  s ize (DPSEA) to achieve these two tradeoffs. In order to balance exploration and exploitation, the  population size  of DPSEA decreases continually as generation increases. In this manner, a bigger  population size  can encourage exploration in the early stage, while a smaller one can promote exploitation in the later stage. Aiming to balance constraints and objectives, a two-stage environmental selection strategy is proposed. In this strategy, objective information and constraint information is used to select two sets of solutions, respectively. Note that the sizes of these two sets are also adjusted dynamically. In this way, the information of both objectives and constraints can be used. Moreover, a novel mating selection strategy is designed to select promising parents. By assembling the above processes, DPSEA is able to achieve the two tradeoffs which are critical to constrained multiobjective optimization. Experiments on three sets of benchmark test functions owning difficult characteristics validate that DPSEA is competitive against some state-of-the-art constrained multiobjective optimization  evolutionary algorithms .",
+    "citation_count": "28",
+    "year": "2022/08/01",
+    "authors": [
+        {
+            "name": "Bing-Chuan Wang",
+            "country": ""
+        },
+        {
+            "name": "Zhong-Yi Shui",
+            "country": ""
+        },
+        {
+            "name": "Yun Feng",
+            "country": ""
+        },
+        {
+            "name": "Zhongwei Ma",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

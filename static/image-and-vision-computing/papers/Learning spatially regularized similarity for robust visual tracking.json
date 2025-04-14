@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885616302062",
+    "title": "Learning spatially regularized similarity for robust visual tracking",
+    "abstract": "Matching visual appearances of the target object over consecutive frames is a critical step in  visual tracking . The accuracy performance of a practical tracking system highly depends on the similarity metric used for visual matching. Recent attempts to integrate discriminative metric learned by sequential visual data (instead of a predefined metric) in visual tracking have demonstrated more robust and accurate results. However, a global similarity metric is often suboptimal for visual matching when the target object experiences large appearance variation or occlusion. To address this issue, we propose in this paper a spatially weighted similarity fusion (SWSF) method for robust visual tracking. In our SWSF, a part-based model is employed as the object representation, and the local similarity metric and spatially regularized weights are jointly learned in a coherent process, such that the total matching accuracy between visual target and candidates can be effectively enhanced. Empirically, we evaluate our proposed tracker on various challenging sequences against several state-of-the-art methods, and the results demonstrate that our method can achieve competitive or better tracking performance in various challenging tracking scenarios.",
+    "citation_count": "3",
+    "year": "2017/04/01",
+    "authors": [
+        {
+            "name": "Xiuzhuang Zhou",
+            "country": ""
+        },
+        {
+            "name": "Qirun Huo",
+            "country": ""
+        },
+        {
+            "name": "Yuanyuan Shang",
+            "country": ""
+        },
+        {
+            "name": "Min Xu",
+            "country": ""
+        },
+        {
+            "name": "Hui Ding",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124000535",
+    "title": "An efficient bandwidth-adaptive gradient compression algorithm for distributed training of deep neural networks",
+    "abstract": "In distributed  deep learning  with data  parallelism , communication bottleneck throttles the efficiency of model training. Recent studies adopt versatile gradient  compression techniques , with communication sparsification standing out as an effective approach for reducing the number of gradients to be transmitted. However, the deployment of gradient sparsification is adversely influenced by the change of network environment in real systems, and existing methods either neglect  bandwidth dynamics  during training or experience drastic fluctuation of compression ratios. In this paper, we propose ACE, a novel  a daptive gradient  c ompression mechanism with high communication  e fficiency under bandwidth variation. ACE adapts the sparsification ratio to the average bandwidth in a time window, other than following its dynamics exactly. To accurately compute the compression ratio, we first profile the compression time and model a single  iteration time  consisting of communication, computation and compression operations. We then present a practical model to fit the needed training rounds till convergence, and formulate an  optimization problem  to compute the optimal sparsification ratio. We conduct experiments on different  DNN  models in different network environments and compare various methods in terms of convergence and  model quality . The experimental results show that ACE achieves up to 9.39 ×  and 1.28 ×  training speedups over fixed and state-of-the-art adaptive  compression methods .",
+    "citation_count": "2",
+    "year": "2024/05/01",
+    "authors": [
+        {
+            "name": "Zeqin Wang",
+            "country": ""
+        },
+        {
+            "name": "Qingyang Duan",
+            "country": ""
+        },
+        {
+            "name": "Yuedong Xu",
+            "country": ""
+        },
+        {
+            "name": "Liang Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

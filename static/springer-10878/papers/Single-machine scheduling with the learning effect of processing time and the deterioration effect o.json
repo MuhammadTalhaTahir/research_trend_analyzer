@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-025-01271-w",
+    "title": "Single-machine scheduling with the learning effect of processing time and the deterioration effect of delivery time for prefabricated components",
+    "abstract": "In the production scheduling of prefabricated components, a scheduling model considering the learning effect of processing time and the deterioration effect of delivery time in this paper is provided. More precisely, it asks for an assignment of a series of independent prefabricated jobs that arrived over time to a single machine for processing, and once the execution of a job is finished, it will be transported to the destination. The information of each prefabricated job including its basic processing time $$b_{j}$$ , release time $$r_j$$ , and deterioration rate $$e_j$$ of delivery time is unknown in advance and is revealed upon the arrival of this job. Moreover, the actual processing time of prefabricated job $$J_j$$ with learning effect is $$p_{j}=b_{j}(a-b t)$$ , where a and b are non-negative parameters and t denotes the starting time of prefabricated job $$J_j$$ , respectively. And the delivery time of prefabricated job $$J_j$$ is $$q_{j}=e_{j}C_{j}$$ . The goal of scheduling is to minimize the maximum time by which all jobs have been delivered. For the problem, we first analyze offline optimal scheduling and then propose an online algorithm with a competitive ratio of $$2-bb_{\\min }$$ . Furthermore, the effectiveness of the online algorithm is demonstrated by numerical experiments and managerial insights are derived.",
+    "citation_count": 36,
+    "year": "2025/04",
+    "authors": [
+        {
+            "name": "Li, Na",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Ma, Ran",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Zhang, Yuzhong",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

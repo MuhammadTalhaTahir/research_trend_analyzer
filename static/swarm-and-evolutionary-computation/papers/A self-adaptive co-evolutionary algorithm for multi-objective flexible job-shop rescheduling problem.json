@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224001810",
+    "title": "A self-adaptive co-evolutionary algorithm for multi-objective flexible job-shop rescheduling problem with multi-phase processing speed selection, condition-based preventive maintenance and dynamic repairman assignment",
+    "abstract": "Production scheduling and maintenance planning are two interactive factors in modern  manufacturing system . However, at present, almost all studies ignore the impact of unpunctual maintenance activities on the integrated production and maintenance scheduling since the unavailabilities of repairmen are dynamically changed, e.g., repairmen increase, decrease and their unavailable intervals update. Under these contexts, this paper addresses a novel integrated optimization problem of condition-based  preventive maintenance  (CBPM) and production rescheduling with multi-phase processing speed selection and dynamic repairman assignment. More precisely, (1) a novel multi-phase-multi-threshold CBPM policy with remaining-useful-life-based inspection and multi-phase processing speed selection is proposed to obtain some selectable maintenance plans for each production machine; (2) a hybrid rescheduling strategy (HRS) that includes three rescheduling strategies is designed for responding to the dynamic changes of repairman; and (3) an adaptive clustering- and Meta-Lamarckian learning-based bi-population co-evolutionary algorithm (ACML-BCEA) is developed to deal with the concerned problem. In the numerical simulations, the effectiveness of designed operators and proposed ACML-BCEA algorithm is first verified. Next, the superiority and competitiveness of the proposed CBPM policy and HRS are separately demonstrated by comparing with other CBPM policies and rescheduling strategies. After that, a comprehensive sensitivity analysis is performed to analyze the effect of optional range of processing speed, skill level of selectable repairmen and total number of processing phases, and the analyzing results show that these factors all have a significant impact on the integrated optimization.",
+    "citation_count": "11",
+    "year": "2024/08/01",
+    "authors": [
+        {
+            "name": "Youjun An",
+            "country": ""
+        },
+        {
+            "name": "Ziye Zhao",
+            "country": ""
+        },
+        {
+            "name": "Kaizhou Gao",
+            "country": ""
+        },
+        {
+            "name": "Yuanfa Dong",
+            "country": ""
+        },
+        {
+            "name": "Xiaohui Chen",
+            "country": ""
+        },
+        {
+            "name": "Bin Zhou",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

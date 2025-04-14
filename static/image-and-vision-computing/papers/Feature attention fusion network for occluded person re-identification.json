@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624000246",
+    "title": "Feature attention fusion network for occluded person re-identification",
+    "abstract": "Occluded Person re-identification (ReID) is a person retrieval task which aims to match occluded person images with the holistic image. In this paper, we propose a novel framework by using person key-points estimation and  attention mechanism  based on occluded person Re-identification, which is used to get  discriminative features  and robust alignment. We use a  CNN  backbone and a key-points estimation model to extract semantic  local features  and global features. In this process, the features extracted by the  backbone network  contain a lot of noise. Therefore, the Feature Attention Module (FAM) was built and applied to the backbone network to enable the network to better extract foreground information. Since the currently used baseline does not achieve very good results in occlusion scenarios, the authors considered using ConvNeXt instead of Resnet. In addition, the network adds the attention of the spatial and channel after the last convolution block, and gets the person feature with little  background information . Most multi-level feature aggregation methods treat feature maps on different levels equally and use simple local operations for  feature fusion , which neglects the long-distance connection among feature maps. FAM uses attention feature as query to perform second-order information propagation from the source feature map. The attention feature is computed based on the compatibility of the source feature map with the attention feature map. The feature attention module connects the attention features with the features at all levels, so as to make better use of the relationship among the features, and greatly reduce the influence of the background noise of the picture. Our method achieves 55.9% and 79.1% Rank-1 scores on the datasets of Occluded-Duke and Occluded-REID. Meanwhile, our proposed framework has 85.1% of the Rank-1 scores on partial-REID, and is superior to other methods on Partial-iLIDS datasets. Finally, our method is close to the most advanced method in Holistic Datasets.",
+    "citation_count": "3",
+    "year": "2024/03/01",
+    "authors": [
+        {
+            "name": "Xuyao Zhuang",
+            "country": ""
+        },
+        {
+            "name": "Dan Wei",
+            "country": ""
+        },
+        {
+            "name": "Danyang Liang",
+            "country": ""
+        },
+        {
+            "name": "Lei Jiang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

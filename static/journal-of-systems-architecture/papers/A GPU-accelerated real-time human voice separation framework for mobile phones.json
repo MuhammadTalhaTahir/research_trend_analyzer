@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762123001844",
+    "title": "A GPU-accelerated real-time human voice separation framework for mobile phones",
+    "abstract": "Mobile speech communication can experience significant degradation in quality when users are in a noisy acoustic environment. With the rapid development of  artificial intelligence  in recent years,  deep learning  based monaural speech separation methods have shown remarkable progress in boosting the performance of the separation accuracy. However, the latency and computational cost of these methods remain far insufficient for mobile devices. Performance and power constraints make it still challenging to deploy such methods on mobile devices due to their high  computational complexity . In this paper, we present VoiceBit, an efficient and light-weight human voice separation framework for real-time speech separation on mobile devices. Specifically, we propose a light-weight speech separation network to segregate human voice and interfering noises directly from time-domain signals. We binarize the convolution blocks in down-sampling blocks to reduce computation complexity and  memory footprint , and leverage scaler layers as well as learnable bias layers to enhance the representation ability of binary filters. In addition, we present a set of parallel optimizations to accelerate the operations in VoiceBit. Specifically, we adopt KKC-minor format for weight matrices of  convolution layers  to coalesce memory access from global memory. Then, we explore different methods to implement the transposed  convolution operation  under PhoneBit framework. Experimental results on the MUSDB18-HQ dataset and VCTK dataset show that VoiceBit achieves significant speedup and energy efficiency compared with state-of-the-art frameworks, while maintaining minimal compromise in accuracy.",
+    "citation_count": "0",
+    "year": "2023/12/01",
+    "authors": [
+        {
+            "name": "Gang Chen",
+            "country": ""
+        },
+        {
+            "name": "Yi Zheng",
+            "country": ""
+        },
+        {
+            "name": "Zhaoheng Zhou",
+            "country": ""
+        },
+        {
+            "name": "Shengyu He",
+            "country": ""
+        },
+        {
+            "name": "Wang Yi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

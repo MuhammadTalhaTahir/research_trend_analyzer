@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-017-9650-3",
+    "title": "Non-local generalization of Darcy’s law based on empirically extracted conductivity kernels",
+    "abstract": "In the context of flow and transport in porous and fractured media, Darcy-based continuum models, while computationally inexpensive, are of limited use when the scale of interest is of similar size or smaller than the characteristic network connection length. Recently, we have outlined a non-local Darcy model that bridges the gap between network and Darcy-based descriptions. This formulation is able to account for non-local pressure effects that are not accounted for in a classical Darcy description. At the heart of this non-local flow formulation is a conductivity distribution or kernel that is related to the scalar permeability in the classical Darcy law. In this paper, ensembles of flow networks are considered, of which the necessary statistical information is assumed to be known. In order to relate the conductivity distribution with the flow statistics, a stochastic transport model for fluid particles, termed generalized continuous time random walk (g-CTRW), which is a generalization of correlated continuous time random walk, is introduced. Note that similar assumptions as for correlated CTRW are made, i.e., that lengths and velocities of connections between successive nodes along the trajectories can be described by Markov processes. In order to proceed with a theoretical analysis, a Boltzmann equation is presented, which is consistent with the particle time marching algorithm based on g-CTRW. An important outcome of the analysis is an expression relating the joint probability density function of velocity and connection length in the networks with the conductivity kernel. A numerical, stationary flow example demonstrates how the kernel can be extracted. Further, an algorithm is proposed to compute consistent velocity statistics, mean pressure distribution, and spatially varying conductivity kernel in the case of non-stationary flow. This coupled iterative approach is an attempt to consistently compute stochastic flow and transport in large network ensembles.",
+    "citation_count": 24,
+    "year": "2017/12",
+    "authors": [
+        {
+            "name": "Jenny, Patrick",
+            "country": "Switzerland"
+        },
+        {
+            "name": "Meyer, Daniel W.",
+            "country": "Switzerland"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

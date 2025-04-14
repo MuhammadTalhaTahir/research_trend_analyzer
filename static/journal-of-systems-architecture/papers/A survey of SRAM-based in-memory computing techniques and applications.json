@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121001909",
+    "title": "A survey of SRAM-based in-memory computing techniques and applications",
+    "abstract": "As von Neumann computing architectures become increasingly constrained by data-movement overheads, researchers have started exploring in-memory computing (IMC) techniques to offset data-movement overheads. Due to the widespread use of SRAM, IMC techniques for SRAM hold the promise of accelerating a broad range of computing systems and applications. In this article, we present a survey of techniques for in-memory computing using SRAM memory. We review the use of SRAM-IMC for implementing Boolean, search and arithmetic operations, and accelerators for machine learning (especially neural networks) and automata computing. This paper aims to accelerate co-design efforts by informing researchers in both algorithm and hardware architecture fields about the recent developments in SRAM-based IMC techniques.",
+    "citation_count": "60",
+    "year": "2021/10/01",
+    "authors": [
+        {
+            "name": "Sparsh Mittal",
+            "country": ""
+        },
+        {
+            "name": "Gaurav Verma",
+            "country": ""
+        },
+        {
+            "name": "Brajesh Kaushik",
+            "country": ""
+        },
+        {
+            "name": "Farooq A. Khanday",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762116301771",
+    "title": "An optimized design of CAN FD for automotive cyber-physical systems",
+    "abstract": "CAN with flexible data rate (CAN FD) is considered the next generation in-vehicle network standard for automotive cyber-physical systems. CAN FD supports a data phase bit-rate of up to 10 Mbps and message payload of up to 64 bytes. However, the substantial differences regarding the allowed message payloads and the heterogeneity of the signal periods indicate the need for a  systematic design  method to fully utilize its large  transmission bandwidth . We propose an  optimized design  method for CAN FD to minimize  bandwidth utilization  while meeting the signal timing constraint. First, two slack  evaluation metrics  are defined for the quantitative analysis of the potential packing choices. Based on these metrics, we propose a clustering-based signal  packing algorithm , and the schedulability of the signals and the packed messages are both verified. The proposed method is compared with other design methods proposed for both CAN and CAN FD. The experimental results demonstrated that our method is the most bandwidth efficient and can meet the timing constraint simultaneously.",
+    "citation_count": "16",
+    "year": "2017/11/01",
+    "authors": [
+        {
+            "name": "Yong Xie",
+            "country": ""
+        },
+        {
+            "name": "Gang Zeng",
+            "country": ""
+        },
+        {
+            "name": "Kurachi Ryo",
+            "country": ""
+        },
+        {
+            "name": "Guoqi Xie",
+            "country": ""
+        },
+        {
+            "name": "Yong Dou",
+            "country": ""
+        },
+        {
+            "name": "Zhili Zhou",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

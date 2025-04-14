@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-016-0736-2",
+    "title": "A Store-and-Forward Cooperative MAC for Wireless Ad Hoc Networks",
+    "abstract": "Cooperative communications are widely used to increase the throughput of wireless networks. It is important to select the appropriate relay nodes to enhance the performance of cooperative communications. In wireless ad hoc networks, such as IEEE802.11 WLAN, the distributed MAC is used to share the wireless channel to different nodes. In this work, a simple store-and-forward cooperative MAC (SFC-MAC) is proposed, which is fully compatible with IEEE 802.11 MAC. In SSF-MAC, the relay node just stores the packets received from the sender and forward them to the receiver after it successfully contend the channel. Furthermore, an model is built to analyze the performance of relay methods in the ideal channel and imperfect channel. We utilize throughput performance as a metric to determine whether a relay node is selected. The analysis and simulation results show that the proposed simple SSF-MAC can increase the system throughput.",
+    "citation_count": 19,
+    "year": "2016/12",
+    "authors": [
+        {
+            "name": "Li, Yun",
+            "country": "China"
+        },
+        {
+            "name": "Song, Shufang",
+            "country": "China"
+        },
+        {
+            "name": "Daneshmand, Mahmoud",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

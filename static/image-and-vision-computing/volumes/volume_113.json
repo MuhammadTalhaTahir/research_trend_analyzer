@@ -1,0 +1,46 @@
+[
+    {
+        "title": "Editorial Board",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885621001785"
+    },
+    {
+        "title": "Human–object interaction detection with missing objects",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885621001670"
+    },
+    {
+        "title": "Multi-label image recognition with two-stream dynamic graph convolution networks",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885621001438"
+    },
+    {
+        "title": "A new perceptual hashing method for verification and identity classification of occluded faces",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885621001505"
+    },
+    {
+        "title": "MFC-Net : Multi-feature fusion cross neural network for salient object detection",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885621001487"
+    },
+    {
+        "title": "Semantic and edge-based visual odometry by joint minimizing semantic and edge distance error",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885621001451"
+    },
+    {
+        "title": "Task-based parameter isolation for foreground segmentation without catastrophic forgetting using multi-scale region and edges fusion network",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885621001530"
+    },
+    {
+        "title": "Introducing the structural bases of typicality effects in deep learning",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885621001542"
+    },
+    {
+        "title": "Synergic learning for noise-insensitive webly-supervised temporal action localization",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885621001529"
+    },
+    {
+        "title": "Flow guided mutual attention for person re-identification",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885621001517"
+    },
+    {
+        "title": "A lightweight network for monocular depth estimation with decoupled body and edge supervision",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885621001669"
+    }
+]

@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124002376",
+    "title": "Using MAST for modeling and response-time analysis of real-time applications with GPUs",
+    "abstract": "The ever increasing computing demands in embedded systems is driving the adoption of hardware accelerators such as GPUs, which offer powerful platforms that can compute parallel workloads efficiently. Relevant critical applications that benefit from such platforms, for instance autonomous driving, usually impose additional real-time requirements that must be met to guarantee the correctness of the systems. In this paper, we propose exploiting readily available and extensively validated techniques to model and analyze real-time systems with GPUs. Specifically, we propose a methodology to employ the MAST model to characterize such systems, and different variants of the Offset-Based Response-Time Analysis techniques to validate the real-time requirements. We verify our approach with a real industrial application sourced from the railway industry. Through a comprehensive evaluation involving synthetic and real task-sets, we characterize the applicability of the approach, and we also show how estimated worst-case response times are aligned with real measurements up to 87.2%.",
+    "citation_count": "0",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Iosu Gomez",
+            "country": ""
+        },
+        {
+            "name": "Unai Díaz de Cerio",
+            "country": ""
+        },
+        {
+            "name": "Jorge Parra",
+            "country": ""
+        },
+        {
+            "name": "Juan M. Rivas",
+            "country": ""
+        },
+        {
+            "name": "J. Javier Gutiérrez",
+            "country": ""
+        },
+        {
+            "name": "Michael González Harbour",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885620301554",
+    "title": "Optimization of face recognition algorithm based on deep learning multi feature fusion driven by big data",
+    "abstract": "Today, with the rapid development of science and technology, the era of  big data  has been proposed and triggered reforms in all walks of life.  Face recognition  is a  biometric  recognition method with the characteristics of non-contact, non mandatory, friendly and harmonious, which has a good application prospect in the fields of national security and social security. With the deepening of the research on face recognition, small-scale face recognition has achieved good recognition results, but in the era of big data, the existing small-scale  face recognition methods  have gradually failed to meet the social needs, and how to get a good face recognition effect in the era of big data has become a new research hotspot. Based on this, this paper aims to optimize the existing face recognition algorithm, study the face recognition method driven by big data, and propose a  deep learning  multi  feature fusion  face recognition algorithm driven by big data. First, for the problem that 2DPCA (Two-dimensional Principle Component Analysis) can well extract the global features of the face under large samples, but the  local features  of the face are difficult to process, this paper uses the  LBP  (Local Binary Pattern, LBP) algorithm to extract the  texture features  of the face, and the extracted texture features are integrated with the global features extracted by 2DPCA to multi-feature fusion, so that the fused features can take into account both global and local features, and have better recognition results. Then using the obtained fusion features as input, training in a  convolutional neural network , and measuring the similarity based on the feature vectors of the sample set and the training set after the training, can realize multi-feature fusion face recognition. Through the analysis of simulation experiments, it is found that, compared with the use of global features or local features alone, the fusion features obtained by multi-feature fusion of global features extracted by 2DPCA and local features extracted by LBP algorithm have better recognition effect in the  big data environment . After  convolutional neural network  trains and recognizes this feature, a high  recognition accuracy  rate is obtained, which can show that the face recognition method designed in this paper has good  application potential  in the era of big data. In the background of big data, the accuracy of face recognition can reach more than 90%, which can meet the needs of society well.",
+    "citation_count": "50",
+    "year": "2020/12/01",
+    "authors": [
+        {
+            "name": "Yinghui Zhu",
+            "country": ""
+        },
+        {
+            "name": "Yuzhen Jiang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

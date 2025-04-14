@@ -1,0 +1,37 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-025-01275-6",
+    "title": "Guaranteeing fairness and efficiency under budget constraints",
+    "abstract": "We study the problem of how to fairly and efficiently allocate indivisible items (goods) to agents under budget constraints. Each item has a specific size, and each agent has a budget that limits the total size of the items received. To better explore efficiency, we introduce the concept of tightness, where all agents are tight. An agent is considered as tight if adding any unallocated item to her bundle would exceed her budget. Interestingly, we observe that all individual optimal (IO) allocations, which contain Pareto optimal (PO) allocations, can be extended into a tight allocation while maintaining the values of the agents’ bundles. We achieve an overall negative result for general even identical or binary valuations: there exists no allocation meeting both tightness and envy-freeness up to any item (EFX), and even relaxing it to any desired approximate EFX has been proven to be impossible. However, for single-valued valuations, we illustrate that an EFX and tight (or IO) allocation always exist, and it can be computed using a polynomial algorithm. For single-valued valuations, we establish the existence of 1/2-EFX and PO allocations, with the approximation ratio being the best possible. To further our efforts to study fairness and efficiency, we introduce a relaxed concept of tightness, partial tightness (PT), in which only the unenvied agents are tight. We find that 1/2-EFX and PT allocations are achievable by providing a pseudo-polynomial time algorithm. When agents’ budgets are identical, we can compute a 1/2-EFX and PT allocation in polynomial time.",
+    "citation_count": 29,
+    "year": "2025/04",
+    "authors": [
+        {
+            "name": "Wang, Yuanyuan",
+            "country": "China"
+        },
+        {
+            "name": "Chen, Xin",
+            "country": "China"
+        },
+        {
+            "name": "Fang, Qizhi",
+            "country": "China"
+        },
+        {
+            "name": "Nong, Qingqin",
+            "country": "China"
+        },
+        {
+            "name": "Liu, Wenjing",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

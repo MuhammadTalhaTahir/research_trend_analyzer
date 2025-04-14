@@ -1,0 +1,22 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10617-018-9214-3",
+    "title": "The Agamid design-space exploration framework",
+    "abstract": "The emergence of many-core processors raises novel demands to system design. Power-limitations and abundant parallelism require for efficient and scalable run-time management. The integration of dedicated hardware to enhance the performance of the run-time management system is gaining an increasing importance. But the design of a run-time manager for many-core generally suffers from exhaustive evaluation time. Previous works do not address for the required flexibility or do not address for reasonable evaluation time of the simulation framework. We propose the novel simulation framework Agamid to foster the development and evaluation of hardware enhanced run-time management for many-core. Our transaction-level framework performs design point evaluation of hardware enhanced run-time management for many-core at the timescale of seconds. We use a hybrid simulation approach considering the run-time management and the user application at different levels of abstraction. The framework provides a generic run-time manager to compare arbitrary management systems and HW/SW partitionings. The implementation of the run-time manager facilitates direct execution at the host machine and a detailed synchronization model. Agamid applies user application workloads by means of transaction-based task graphs. An extendable system-call interface allows arbitrary interaction between the user application and the run-time management system. The thorough calibration of the RTM timing model enables reasonable approximations of the management overhead. Our evaluation considers the accuracy, wall-time and design space exploration capabilities of Agamid. Our findings substantiate the usefulness to integrate the modeling of the run-time management, hardware architecture and user application into a single transaction-level framework.",
+    "citation_count": 45,
+    "year": "2018/12",
+    "authors": [
+        {
+            "name": "Gregorek, Daniel",
+            "country": "Germany"
+        },
+        {
+            "name": "Garcia-Ortiz, Alberto",
+            "country": "Germany"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

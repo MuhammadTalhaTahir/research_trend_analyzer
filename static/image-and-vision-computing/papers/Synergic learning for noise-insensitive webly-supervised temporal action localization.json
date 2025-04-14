@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621001529",
+    "title": "Synergic learning for noise-insensitive webly-supervised temporal action localization",
+    "abstract": "Webly-supervised temporal action localization (WebTAL) leverages web videos to train localization models without requiring manual temporal annotations. WebTAL is extremely challenging since video-level labels on the web are always noisy, seriously damaging the overall performance. Most state-of-the-art methods filter out noise before training, which will inevitably reduce the  training samples . In contrast, we propose a preprocessing-free WebTAL framework along with a new synergic learning paradigm to alleviate the noise interference. Specifically, we introduce a synergic task called Spatio-Temporal Order Prediction (STOP) for spatio-temporal  representation learning . This task requires a network to arrange permuted spatial crops and temporal clips, thereby learning the inherent spatial semantics and temporal interactions in videos. Instead of pre-extracting features with the well-trained STOP, we design a novel synergic learning paradigm called Warm-up Synergic Training (WST) to iteratively generate better spatio-temporal representations and improve action localization results. In this synergic fashion, experimental results show that the interference caused by label noise will be largely mitigated. We demonstrate that our method outperforms all other  WebTAL methods  on two public benchmarks, THUMOS'14 and ActivityNet v1.2.",
+    "citation_count": "3",
+    "year": "2021/09/01",
+    "authors": [
+        {
+            "name": "Can Zhang",
+            "country": ""
+        },
+        {
+            "name": "Meng Cao",
+            "country": ""
+        },
+        {
+            "name": "Dongming Yang",
+            "country": ""
+        },
+        {
+            "name": "Ji Jiang",
+            "country": ""
+        },
+        {
+            "name": "Yuexian Zou",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

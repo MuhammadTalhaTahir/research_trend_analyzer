@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-008-9177-6",
+    "title": "Labelling algorithms for paired-domination problems in block and interval graphs",
+    "abstract": "Let G=(V,E) be a graph without isolated vertices. A set S⊆V is a paired-dominating set if every vertex in V−S is adjacent to a vertex in S and the subgraph induced by S contains a perfect matching. The paired-domination problem is to determine the paired-domination number, which is the minimum cardinality of a paired-dominating set. Motivated by a mistaken algorithm given by Chen, Kang and Ng (Discrete Appl. Math. 155:2077–2086, 2007), we present two linear time algorithms to find a minimum cardinality paired-dominating set in block and interval graphs. In addition, we prove that paired-domination problem is NP-complete for bipartite graphs, chordal graphs, even for split graphs.",
+    "citation_count": 9,
+    "year": "2010/05",
+    "authors": [
+        {
+            "name": "Chen, Lei",
+            "country": "China"
+        },
+        {
+            "name": "Lu, Changhong",
+            "country": "China"
+        },
+        {
+            "name": "Zeng, Zhenbing",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

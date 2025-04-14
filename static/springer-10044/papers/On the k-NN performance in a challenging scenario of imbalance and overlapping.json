@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-007-0087-5",
+    "title": "On the k-NN performance in a challenging scenario of imbalance and overlapping",
+    "abstract": "A two-class data set is said to be imbalanced when one (minority) class is heavily under-represented with respect to the other (majority) class. In the presence of a significant overlapping, the task of learning from imbalanced data can be a very difficult problem. Additionally, if the overall imbalance ratio is different from local imbalance ratios in overlap regions, the task can become in a major challenge. This paper explains the behaviour of the k-nearest neighbour (k-NN) rule when learning from such a complex scenario. This local model is compared to other machine learning algorithms, attending to how their behaviour depends on a number of data complexity features (global imbalance, size of overlap region, and its local imbalance). As a result, several conclusions useful for classifier design are inferred.",
+    "citation_count": 35,
+    "year": "2008/09",
+    "authors": [
+        {
+            "name": "García, V.",
+            "country": "México"
+        },
+        {
+            "name": "Mollineda, R. A.",
+            "country": "Spain"
+        },
+        {
+            "name": "Sánchez, J. S.",
+            "country": "Spain"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

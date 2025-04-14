@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-023-01164-w",
+    "title": "Interactive machine translation for the language modernization and spelling normalization of historical documents",
+    "abstract": "Historical documents are an important part of our cultural heritage. Among other task related to their processing, it is important to modernize their language in order to make them accessible to a broader audience and to achieve an orthography consistency to reduce the linguistic variation inherent in them. Language modernization and spelling normalization have those goals in mind. However, they still have a long way to go. Thus, in order to help scholars generate error-free modernizations/normalizations when the quality is essential, we propose an interactive framework based on interactive machine translation. In this work, we deployed two different interactive protocols into these tasks. We evaluated our proposal under simulated environments, observing significant reductions of the human effort.",
+    "citation_count": 58,
+    "year": "2023/11",
+    "authors": [
+        {
+            "name": "Domingo, Miguel",
+            "country": "Spain"
+        },
+        {
+            "name": "Casacuberta, Francisco",
+            "country": "Spain"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

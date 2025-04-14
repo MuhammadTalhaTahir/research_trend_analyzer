@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-012-0271-0",
+    "title": "Online adaptive feature weighting for spatiogram-bank tracking",
+    "abstract": "In this paper, we introduce a new adaptive feature weighting framework for multi-modal tracking. Our proposed tracker can compactly and efficiently handle multiple sources of tracking data, such as colour, brightness, gradient orientation and thermal infrared, and adaptively weight the sources based on their reliability for tracking. The adaptive weight selection mechanism is inspired by the state-of-the-art Collins tracker, but instead of treating the tracked object as a bag of features, it takes advantage of the spatial information using a global object model. Additionally, our tracker incorporates scale into the weight selection process and is shown to outperform the Collins tracker in an extensive video evaluation.",
+    "citation_count": 30,
+    "year": "2012/11",
+    "authors": [
+        {
+            "name": "Ó Conaire, Ciarán",
+            "country": "Ireland"
+        },
+        {
+            "name": "O’Connor, Noel E.",
+            "country": "Ireland"
+        },
+        {
+            "name": "Smeaton, Alan F.",
+            "country": "Ireland"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

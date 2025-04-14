@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1011620607786",
+    "title": "Approximating the Minimum k-way Cut in a Graph via Minimum 3-way Cuts",
+    "abstract": "For an edge weighted undirected graph G and an integer k &gt; 2, a k-way cut is a set of edges whose removal leaves G with at least k components. We propose a simple approximation algorithm to the minimum k-way cut problem. It computes a nearly optimal k-way cut by using a set of minimum 3-way cuts. We show that the performance ratio of our algorithm is 2 − 3/k for an odd k and 2 − (3k − 4)/(k 2 − k) for an even k. The running time is O(kmn 3 log(n 2/m)) where n and m are the numbers of vertices and edges respectively.",
+    "citation_count": 12,
+    "year": "2001/12",
+    "authors": [
+        {
+            "name": "Zhao, Liang",
+            "country": "Japan"
+        },
+        {
+            "name": "Nagamochi, Hiroshi",
+            "country": "Japan"
+        },
+        {
+            "name": "Ibaraki, Toshihide",
+            "country": "Japan"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

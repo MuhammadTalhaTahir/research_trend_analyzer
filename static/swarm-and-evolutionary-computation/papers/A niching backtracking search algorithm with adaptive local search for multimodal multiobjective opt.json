@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650222000037",
+    "title": "A niching backtracking search algorithm with adaptive local search for multimodal multiobjective optimization",
+    "abstract": "Multimodal  multiobjective optimization  problems,which widely exist in real-world applications, have multiple  Pareto optimal sets  in decision space corresponding to the same  Pareto front  in objective space. The key to handling such problems is locating and maintaining all  Pareto optimal solutions  in decision space simultaneously. The distribution of Pareto optimal solutions obtained by some existing multimodal multiobjective  evolutionary algorithms  is still not satisfactory. This paper proposes a niching backtracking search algorithm with adaptive local search to solve such problems. In the proposed algorithm, the affinity propagation clustering method as a parameter-free automatic niching technique is adopted to form multiple niches. A novel mutation based on affinity propagation clustering is then developed to search for more  Pareto solutions  within each niche. In addition, an adaptive local search strategy is designed in each niche to improve the search efficiency and the accuracy of Pareto optimal solutions. The proposed algorithm is compared with seven state-of-the-art multimodal multiobjective evolutionary algorithms on a multimodal multiobjective optimization test suite with 22 benchmark functions from CEC 2019 competition and a map-based practical application problem. The experimental results show that the proposed algorithm outperforms its competitors on 14 out of 22 benchmark functions in terms of the reciprocal of  Pareto sets  proximity and inverted generational distance in decision space metrics. Also, the proposed method is more effective and competitive than its competitors when solving the map-based practical application problem.",
+    "citation_count": "28",
+    "year": "2022/03/01",
+    "authors": [
+        {
+            "name": "Zhongbo Hu",
+            "country": ""
+        },
+        {
+            "name": "Ting Zhou",
+            "country": ""
+        },
+        {
+            "name": "Qinghua Su",
+            "country": ""
+        },
+        {
+            "name": "Mianfang Liu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

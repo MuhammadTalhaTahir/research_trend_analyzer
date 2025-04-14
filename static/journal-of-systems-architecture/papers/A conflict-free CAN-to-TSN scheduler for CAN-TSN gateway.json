@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124001255",
+    "title": "A conflict-free CAN-to-TSN scheduler for CAN-TSN gateway",
+    "abstract": "The automotive Electrical/Electronic (E/E) architecture with Time-Sensitive Networking (TSN) as the  backbone network  and  Controller Area Network  (CAN) as the intra-domain network has attracted extensive research attention. In this architecture, the CAN-TSN gateway serves as a vital hub for communication between the CAN and TSN networks. However, with frequent information exchange between domains, multiple real-time applications inevitably compete for the same network resources. The limited availability of schedule table entries and  bandwidth allocation  pose challenges in scheduling design. To mitigate the transmission conflicts at the CAN-TSN gateway, this paper proposes a CAN-to-TSN scheduler consisting of two primary stages. The first stage introduces the Message Aggregation Optimization (MAO) algorithm to aggregate  multiple CAN  messages into a single TSN message, ultimately decreasing the communication overhead and the schedule table entries number. The second stage proposes the Exploratory Message Scheduling Optimization (EMSO) algorithm based on MAO. EMSO disaggregates and reassembles the CAN messages with small deadlines within the currently un-scheduled TSN message to improve the acceptance ratio of CAN messages. Experimental results demonstrate that EMSO achieves an average acceptance ratio of CAN messages 4.3% higher in preemptive mode and 8.2% higher in non-preemptive mode in TSN than state-of-the-art algorithms.",
+    "citation_count": "0",
+    "year": "2024/08/01",
+    "authors": [
+        {
+            "name": "Wenyan Yan",
+            "country": ""
+        },
+        {
+            "name": "Bin Fu",
+            "country": ""
+        },
+        {
+            "name": "Jing Huang",
+            "country": ""
+        },
+        {
+            "name": "Ruiqi Lu",
+            "country": ""
+        },
+        {
+            "name": "Renfa Li",
+            "country": ""
+        },
+        {
+            "name": "Guoqi Xie",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959520300199",
+    "title": "Cryptanalysis of RNZ, an identity-based fully anonymous broadcast encryption",
+    "abstract": "An  identity-based fully anonymous broadcast encryption  ( IB-FAnoBE ) is a novel concept for transmitting confidential data to a group of users in which subscribed users’ outsider and insider anonymity are at primary concern. In this paper, we review one of the most efficient  IB-FAnoBE , proposed by  R en,  N iu and  Z hang (RNZ), and show that their construction does not provide the main  message indistinguishability  security requirement of broadcast encryption. For this purpose, we exhibit that an unauthorized user can decrypt the encrypted content without having legitimate decryption privilege. Furthermore, we suggest some modifications to improve this scheme and construct a secure  IB-FAnoBE .",
+    "citation_count": "0",
+    "year": "2020/12/01",
+    "authors": [
+        {
+            "name": "Mriganka Mandal",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

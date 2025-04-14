@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-023-01188-2",
+    "title": "A multi-metric small sphere large margin method for classification",
+    "abstract": "Multi-metric learning is important for improving performance of learners. For complex data, multi metric learning algorithms need intensive research. Moreover, the existing multi-metric learning methods may lead to the distance not being comparable. To solve these shortcomings and characterize better complexity data, we propose a novel multi-metric learning framework, where each class is divided into several clusters, and then a local metric and two concentric hypers-pheres are trained jointly in a cluster, such that the samples of the same cluster distribute within one hypersphere, and the classification margin are as large as possible simultaneously. This will leads to intra-class compactness and inter-class dispersion. During the test phase, the relative distance in learned metric space is designed to make classification decisions. A new example is classified to the class of its closest hyper-sphere center. This ensures that the comparison of distances is meaningful and avoids effectively the limitation of k-nearest neighbors (kNN) classifiers. Moreover,some important properties the proposed algorithm are analyzed theoretically. Further, an alternating iterative algorithm is developed to solve the problem. Numerical experiments are carried out on different scales and types datasets. Experiment results confirm the feasibility and effectiveness of the proposed method.",
+    "citation_count": 35,
+    "year": "2023/11",
+    "authors": [
+        {
+            "name": "Zhao, Yifeng",
+            "country": "China"
+        },
+        {
+            "name": "Yang, Liming",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

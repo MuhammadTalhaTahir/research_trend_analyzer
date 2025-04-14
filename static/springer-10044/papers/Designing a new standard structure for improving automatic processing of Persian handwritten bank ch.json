@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-014-0385-7",
+    "title": "Designing a new standard structure for improving automatic processing of Persian handwritten bank cheques",
+    "abstract": "Millions of handwritten bank cheques are processed manually every day in banks and other financial institutions all over the world. Substitution of manual cheque processing with automatic cheque reader system saves time and the cost of processing. In the recent years, systems such as A2iA have been made in order to automate processing of Latin cheques. Normally, these systems are based on the standard structures of cheques such as Check 21 in the USA or Check 006 in Canada. There are major problems in traditional (currently used) Persian bank cheques, which yield low accuracy and computational cost in their automatic processing. In this paper, in order to solve these problems, a novel structure for Persian handwritten bank cheques is presented. Importance and supremacy of this new structure for Persian handwritten bank cheques is shown by conducting several experiments on our created database of cheques based on the new structure. The created database includes 500 handwritten bank cheques based on the presented structure. Experimental results verify the usefulness and importance of the new structure in automatic processing of Persian handwritten bank cheques which provides a standard guideline for automatic processing of Persian handwritten bank cheques comparable to Check 21 or Check 006.",
+    "citation_count": 50,
+    "year": "2014/11",
+    "authors": [
+        {
+            "name": "Sadri, Javad",
+            "country": "Iran"
+        },
+        {
+            "name": "Jalili, Mohammad J.",
+            "country": "Canada"
+        },
+        {
+            "name": "Akbari, Younes",
+            "country": "Iran"
+        },
+        {
+            "name": "Foroozandeh, Atefeh",
+            "country": "Iran"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

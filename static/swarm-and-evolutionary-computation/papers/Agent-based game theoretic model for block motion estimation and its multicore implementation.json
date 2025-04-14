@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S221065021730144X",
+    "title": "Agent-based game theoretic model for block motion estimation and its multicore implementation",
+    "abstract": "Motion estimation (ME) is one of the main tools employed for eliminating temporal redundancies in video coding. It is the most critical and time-consuming tool of the complete encoder and typically requires 60%–80% of the total  computational time . Block-matching ME (BME) algorithms divide a frame into  macroblocks  (MB) and look for the best possible match in the reference frame. This paper introduces a novel parallel framework to speed up the BME process. This is done by introducing a novel level of  parallelism  within the MB. The problem of BME is cast in a non-cooperative game-theoretic setting and a distributed multi-agent system is employed to solve the problem. First, a given MB is divided into  subblocks  and an agent is defined for each subblock. Then, the problem is formulated as a Consensus game and our  approximation  of the global  utility function  for the MB is defined. Building on this, agents' utilities are derived so that the resulting game is a potential game. To solve the game, distributed sequential and simultaneous algorithms based on game-theoretic Best Response Dynamics (BRD) and  particle swarm optimization  (PSO) are presented. Each agent uses PSO as its local search engine to autonomously maximize the utility of its subblock and BRD drive the agents with  minimum local  communication towards the maximum of the global utility function of the whole MB. Experimental results show that these algorithms provide good estimation quality with low computational cost as compared to other techniques. Moreover, in addition to its decentralized and distributed nature, the simultaneous algorithm is also inherently parallel at the agents' level within the MB. A parallel implementation of this algorithm using the MATLAB Parallel Computing Toolbox™ (PCT) on a  multicore system  shows that speedup is indeed obtained.",
+    "citation_count": "3",
+    "year": "2018/08/01",
+    "authors": [
+        {
+            "name": "Manal K. Jalloul",
+            "country": ""
+        },
+        {
+            "name": "Mohamad Adnan Al-Alaoui",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

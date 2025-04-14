@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-024-01178-y",
+    "title": "The frustum network model based on clique extension",
+    "abstract": "The frustum model simulates network evolution by extending cliques, which represent highly interacting groups in social networks. In each time-step, new vertices are added adjacent to existing cliques of prescribed order. The model exhibits several features of social networks, such as densification, short distances, bad spectral expansion, and high local clustering.",
+    "citation_count": 15,
+    "year": "2024/07",
+    "authors": [
+        {
+            "name": "Bonato, Anthony",
+            "country": "Canada"
+        },
+        {
+            "name": "Cushman, Ryan",
+            "country": "USA"
+        },
+        {
+            "name": "Marbach, Trent G.",
+            "country": "Canada"
+        },
+        {
+            "name": "Zhang, Zhiyuan",
+            "country": "Canada"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

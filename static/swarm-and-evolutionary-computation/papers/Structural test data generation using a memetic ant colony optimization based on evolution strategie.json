@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217303371",
+    "title": "Structural test data generation using a memetic ant colony optimization based on evolution strategies",
+    "abstract": "Test data generation is one of the key activities that has a significant impact on the efficiency and effectiveness of software testing. Since manual test data generation is quite inefficient and even impractical, automated test data generation has been realized to produce an appropriate subset of input data to carry out effective software testing in reasonable times. This paper presents a memetic  ant colony optimization  (ACO) algorithm for structural test data generation. The proposed approach incorporates (1+1)-evolution strategies (ES) to improve the  search functionality  of ants in local moves and enhance search exploitation. Moreover, we have introduced a novel definition of the pheromone functionality in the way that it discourages ants from choosing mostly covered paths of the program to reinforce search exploration. Given that branch coverage is considered as the coverage criterion, two fitness functions are used accordingly for our proposed algorithm. The first fitness function is a  Boolean function  which is particularly defined to maximize branch coverage. It outputs one if a given solution is successful in traversing at least a yet uncovered branch; otherwise, it returns zero. The second fitness function is formulated according to the complexity of branches covered. The value of the second fitness function is not taken into account for solutions whose  Boolean function  value equals one. For these solutions, the decision-making process of ants is merely carried out based on the first fitness function. The experimental results indicate the superiority of our memetic ACO algorithm relative to existing test data generation techniques in terms of both branch coverage and convergence speed.",
+    "citation_count": "36",
+    "year": "2018/06/01",
+    "authors": [
+        {
+            "name": "Hossein Sharifipour",
+            "country": ""
+        },
+        {
+            "name": "Mojtaba Shakeri",
+            "country": ""
+        },
+        {
+            "name": "Hassan Haghighi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

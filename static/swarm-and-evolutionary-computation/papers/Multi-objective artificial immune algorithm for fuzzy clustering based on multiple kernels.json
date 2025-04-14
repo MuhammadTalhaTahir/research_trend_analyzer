@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218300634",
+    "title": "Multi-objective artificial immune algorithm for fuzzy clustering based on multiple kernels",
+    "abstract": "This paper presents a multi-objective artificial  immune algorithm  for  fuzzy clustering  based on multiple kernels (MAFC). MAFC extends the classical Fuzzy C-Means  ( FCM) algorithm and improves some of its important limitations, such as vulnerability to local optima convergence, which can lead to poor  clustering quality . MAFC unifies multi-kernel learning and multi-objective optimization in a  joint  clustering framework, which preserves the  geometric information  of the dataset. The multi-kernel method maps data from the  feature space  to kernel space by using  kernel functions . Additionally, the introduction of multi-objective optimization helps to optimize between-cluster separation and within-cluster compactness simultaneously via two different clustering validity criteria. These properties help the proposed algorithm to avoid becoming stuck at local optima. Furthermore, this paper utilizes an artificial immune algorithm to address the multi-objective  clustering problem  and acquire a  Pareto optimal solution  set. The solution set is obtained through the process of antibody population initialization, clone proliferation, non-uniform mutation and uniformity maintaining strategy, which avoids the problems of degradation and prematurity which can occur with conventional  genetic algorithms . Finally, we choose the best solution from the Pareto  optimal solution set . We use a semi-supervised method to achieve the  final clustering  results. We compare our method against state-of-the-art methods from the literature by performing experiments with both UCI datasets and  face  datasets. The results suggest that MAFC is significantly more efficient for clustering and has a wider scope of application.",
+    "citation_count": "33",
+    "year": "2019/11/01",
+    "authors": [
+        {
+            "name": "Ronghua Shang",
+            "country": ""
+        },
+        {
+            "name": "Weitong Zhang",
+            "country": ""
+        },
+        {
+            "name": "Feng Li",
+            "country": ""
+        },
+        {
+            "name": "Licheng Jiao",
+            "country": ""
+        },
+        {
+            "name": "Rustam Stolkin",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624000611",
+    "title": "Explicit knowledge transfer of graph-based correlation distillation and diversity data hallucination for few-shot object detection",
+    "abstract": "The performance of few-shot object detection has seen marked improvement through fine-tuning paradigms. However, existing methods often depend on shared parameters to implicitly transfer knowledge without explicit induction. This results in novel-class representations that are easily confused with similar base classes and poorly suited to diverse patterns of variation in the truth distribution. In view of this, the present paper focuses on mining transferable base-class knowledge, which is further subdivided into inter-class correlation and intra-class diversity. First, we design a graph to dynamically capture the relationship between base and novel class representations, and then introduce distillation techniques to tackle the shortage of correlation knowledge in few-shot labels. Furthermore, an efficient diversity knowledge transfer module based on the data hallucination is proposed, which can adaptively disentangle class-independent variation patterns from base-class features and generate additional trainable hallucinated instances for novel classes. Experiments on  VOC  and COCO datasets confirmed that our proposed method effectively reduces the reliance on novel-class samples and demonstrates superior performance compared to other state-of-the-art  baseline methods .",
+    "citation_count": "1",
+    "year": "2024/03/01",
+    "authors": [
+        {
+            "name": "Meng Wang",
+            "country": ""
+        },
+        {
+            "name": "Yang Wang",
+            "country": ""
+        },
+        {
+            "name": "Haipeng Liu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

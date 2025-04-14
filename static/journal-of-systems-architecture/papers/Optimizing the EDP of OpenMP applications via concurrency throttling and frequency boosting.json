@@ -1,0 +1,42 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002617",
+    "title": "Optimizing the EDP of OpenMP applications via concurrency throttling and frequency boosting",
+    "abstract": "The increasing number of cores in multicore architectures has brought the need for better use of hardware resources. Consequently, different solutions have become widely adopted to optimize the execution of parallel applications: dynamic concurrency throttling (DCT) and turbo-boosting. While DCT artificially reduces the number of active threads to improve the performance and energy consumption, turbo-boosting increases the processor’s frequency above the base operating levels to provide maximum performance, considering the Thermal Design Power (TDP). However, as many parallel applications are unbalanced, combining both optimization knobs is not a straightforward task. Therefore, we propose TBFT. It is a transparent and automatic approach that concurrently exploits DCT and turbo-boosting to optimize OpenMP parallel applications. For that, TBFT implements a DCT Engine to find the ideal or near-ideal number of threads in parallel regions and a Boosting Engine to adjust the boosting  operating mode  w.r.t. the CPU workload. When executing twelve well-known benchmarks on three  multicore systems , we show that TBFT outperforms different state-of-the-art strategies without jeopardizing the performance.",
+    "citation_count": "4",
+    "year": "2022/02/01",
+    "authors": [
+        {
+            "name": "Sandro Matheus V.N. Marques",
+            "country": ""
+        },
+        {
+            "name": "Matheus S. Serpa",
+            "country": ""
+        },
+        {
+            "name": "Antoni N. Muñoz",
+            "country": ""
+        },
+        {
+            "name": "Fábio D. Rossi",
+            "country": ""
+        },
+        {
+            "name": "Marcelo C. Luizelli",
+            "country": ""
+        },
+        {
+            "name": "Philippe O.A. Navaux",
+            "country": ""
+        },
+        {
+            "name": "Antonio Carlos S. Beck",
+            "country": ""
+        },
+        {
+            "name": "Arthur F. Lorenzon",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

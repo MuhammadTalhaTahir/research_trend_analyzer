@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650222000414",
+    "title": "Single-particle optimization for network embedding preserving both local and global information",
+    "abstract": "As an emerging topic, network embedding aims to convert the complicated network information into a low-dimensional vector space that largely preserves the  network topology  and effectively benefits various network tasks. Most existing methods mainly focus on the sketchy preservation of local or global network information, which greatly limits their application scenarios. In this paper, we propose a single-particle optimization algorithm for network embedding problems (SPO-NE) to carefully preserve both the local properties of nodes and the global community structure of networks. Based on the evolutionary scheme of  particle swarm optimization , SPO-NE innovatively uses a single particle with two well-designed strategies for optimization. The multi-level learning strategy is devoted to comprehensively saving the local properties of nodes from three aspects of similarity, degree, and community, while the transfer strategy serves to help the nodes located at the community boundary to obtain better community labels. In experiments, SPO-NE is compared with several state-of-the-art baselines on both real-world and synthetic networks. The results indicate the superiority of SPO-NE on various network tasks. Specifically, SPO-NE can outperform the best baselines by over 10% on five datasets in community detection. With only 10% training samples in node classification, SPO-NE can improve the best baselines by 7–10% on five datasets.",
+    "citation_count": "56",
+    "year": "2022/06/01",
+    "authors": [
+        {
+            "name": "Yilu Liu",
+            "country": ""
+        },
+        {
+            "name": "Jing Liu",
+            "country": ""
+        },
+        {
+            "name": "Xiangyi Teng",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

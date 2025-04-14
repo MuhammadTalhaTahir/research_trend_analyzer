@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-004-0238-x",
+    "title": "Computer vision techniques for traffic flow computation",
+    "abstract": "This paper describes an application of computer vision techniques to road surveillance. It reports on a project undertaken in collaboration with the Research and Innovation group at the Ordnance Survey. The project aims to produce a system that detects and tracks vehicles in real traffic scenes to generate meaningful parameters for use in traffic management. The system has now been implemented using two different approaches: a feature-based approach that detects and groups corner features in a scene into potential vehicle objects, and an appearance-based approach that trains a cascade of classifiers to learn the appearances of vehicles as an arrangement of a set of pre-defined simple Haar features. Potential vehicles detected are then tracked through an image sequence, using the Kalman filter motion tracker. Experimental results of the algorithms are presented in this paper.",
+    "citation_count": 16,
+    "year": "2004/12",
+    "authors": [
+        {
+            "name": "Bai, Li",
+            "country": "UK"
+        },
+        {
+            "name": "Tompkinson, William",
+            "country": "UK"
+        },
+        {
+            "name": "Wang, Yan",
+            "country": "UK"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

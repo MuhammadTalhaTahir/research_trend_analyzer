@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121001594",
+    "title": "Compiling for time-predictability with dual-issue single-path code",
+    "abstract": "Designed for real-time systems, the Patmos instruction-set architecture’s features ensure a high degree of predictability. One such feature is its dual-issue pipeline, which can issue and execute bundles of up to two instructions at a time. Executing instructions in the second issue slot is a predictable way to increase the throughput of a processor, but without dedicated support from the compiler, this benefit cannot be unlocked. A compiler generates highly predictable programs by generating single-path code. This technique produces code that always follows the same trace of instructions. While Patmos’ compiler can already produce single-path code, it does not assign any instructions to the second issue-slot. This limitation is unfortunate, as single-path code inherently possesses a high degree of instruction-level parallelism. In this paper, we present a single-path code generation technique with support for dual-issue pipelines. It can also support different bundling algorithms, which allows changing algorithms without having to edit other parts of the compiler. We present a simple bundling algorithm plugged into the single-path code generator. It looks for branches and bundles the basic blocks on each path of the branch. While this specific bundling algorithm is too simple to provide a real-world benefit, it highlights the potential that further work on bundling algorithms can unlock.",
+    "citation_count": "0",
+    "year": "2021/09/01",
+    "authors": [
+        {
+            "name": "Emad Jacob Maroun",
+            "country": ""
+        },
+        {
+            "name": "Martin Schoeberl",
+            "country": ""
+        },
+        {
+            "name": "Peter Puschner",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

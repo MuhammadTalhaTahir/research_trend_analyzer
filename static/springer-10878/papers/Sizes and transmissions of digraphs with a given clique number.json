@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-015-9850-5",
+    "title": "Sizes and transmissions of digraphs with a given clique number",
+    "abstract": "We determine the maximum and minimum sizes of digraphs with a given clique numbers as well as the digraphs that attain these extremal sizes. The maximum and minimum transmissions of connected digraphs with given clique numbers are also determined.",
+    "citation_count": 11,
+    "year": "2016/05",
+    "authors": [
+        {
+            "name": "Huang, Zejun",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Lin, Huiqiu",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

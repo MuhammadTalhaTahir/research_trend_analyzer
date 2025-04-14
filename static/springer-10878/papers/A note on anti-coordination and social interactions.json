@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-012-9486-7",
+    "title": "A note on anti-coordination and social interactions",
+    "abstract": "This note confirms a conjecture of (Bramoullé in Games Econ Behav 58:30–49, 2007). The problem, which we name the maximum independent cut problem, is a restricted version of the MAX-CUT problem, requiring one side of the cut to be an independent set. We show that the maximum independent cut problem does not admit any polynomial time algorithm with approximation ratio better than n 1−ϵ , where n is the number of nodes, and ϵ arbitrarily small, unless $\\mathrm{P} = \\mathrm{NP}$ . For the rather special case where each node has a degree of at most four, the problem is still APX-hard.",
+    "citation_count": 14,
+    "year": "2013/11",
+    "authors": [
+        {
+            "name": "Cao, Zhigang",
+            "country": "China"
+        },
+        {
+            "name": "Yang, Xiaoguang",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

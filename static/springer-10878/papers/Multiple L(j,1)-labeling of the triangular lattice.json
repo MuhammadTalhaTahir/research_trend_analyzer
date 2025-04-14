@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-012-9549-9",
+    "title": "Multiple L(j,1)-labeling of the triangular lattice",
+    "abstract": "Let n,j,k be nonnegative integers. An n-fold L(j,k)-labeling of a graph G is an assignment f of sets of nonnegative integers of order n to the vertices of G such that, for any two vertices u,v and any two integers a∈f(u), b∈f(v), |a−b|≥j if uv∈E(G), and |a−b|≥k if u and v are distance two apart. The span of f is the absolute difference between the maximum and minimum integers used by f. The n-fold L(j,k)-labeling number of G is the minimum span over all n-fold L(j,k)-labelings of G. Let n,j,k and m be nonnegative integers. An n-fold circular m-L(j,k)-labeling of a graph G is an assignment f of subsets of {0,1,…,m−1} of order n to the vertices of G such that, for any two vertices u,v and any two integers a∈f(u), b∈f(v), min{|a−b|,m−|a−b|}≥j if uv∈E(G), and min{|a−b|,m−|a−b|}≥k if u and v are distance two apart. The minimum m such that G has an n-fold circular m-L(j,k)-labeling is called the n-fold circular L(j,k)-labeling number of G. This paper provides upper and lower bounds for the n-fold L(j,1)-labeling number and the n-fold circular L(j,1)-labeling number of the triangular lattice and determines the n-fold L(2,1)-labeling number and n-fold circular L(2,1)-labeling number of the triangular lattice for n≥3.",
+    "citation_count": 22,
+    "year": "2014/05",
+    "authors": [
+        {
+            "name": "Zhang, Pu",
+            "country": "P.R. China"
+        },
+        {
+            "name": "Lin, Wensong",
+            "country": "P.R. China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

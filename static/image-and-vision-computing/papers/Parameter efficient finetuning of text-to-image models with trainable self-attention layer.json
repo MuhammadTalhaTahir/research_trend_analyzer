@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624004013",
+    "title": "Parameter efficient finetuning of text-to-image models with trainable self-attention layer",
+    "abstract": "We propose a novel model to efficiently finetune pretrained Text-to-Image models by introducing additional image prompts. The model integrates information from image prompts into the text-to-image (T2I) diffusion process by locking the parameters of the large T2I model and reusing its trainable copy, rather than relying on additional adapters. The trainable copy guides the model by injecting its trainable self-attention features into the original diffusion model, enabling the synthesis of a new specific concept. We also apply Low-Rank Adaptation (LoRA) to restrict the trainable parameters in the self-attention layers. Furthermore, the network is optimized alongside a text embedding that serves as an object identifier to generate contextually relevant visual content. Our model is simple and effective, with a small memory footprint, yet can achieve comparable performance to a fully fine-tuned T2I model in both qualitative and quantitative evaluations.",
+    "citation_count": "0",
+    "year": "2024/11/01",
+    "authors": [
+        {
+            "name": "Zhuoyuan Li",
+            "country": ""
+        },
+        {
+            "name": "Yi Sun",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

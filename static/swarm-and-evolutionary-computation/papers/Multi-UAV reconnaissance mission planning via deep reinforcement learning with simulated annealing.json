@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650225000161",
+    "title": "Multi-UAV reconnaissance mission planning via deep reinforcement learning with simulated annealing",
+    "abstract": "Unmanned aerial vehicles (UAVs) are widely used in reconnaissance missions due to their autonomy and flexibility. Efficient mission planning for multiple UAVs is crucial for tasks such as traffic monitoring and data collection. However, existing approaches to multi-UAV reconnaissance mission planning problem (MURMPP) often struggle with high computational demands, leading to suboptimal solutions. To overcome this challenge, we introduce a divide-and-conquer framework that splits the problem into two phases: target allocation and UAV routing, effectively reducing computational complexity. Specifically, we propose a hybrid method, SA-NNO-DRL, which combines the nearest neighbor optima-based deep reinforcement learning (NNO-DRL) approach with simulated annealing (SA). In the UAV routing phase, NNO-DRL constructs routes for each UAV, while SA reassigns uncovered targets during the target allocation phase. The two phases alternate until the termination condition is met. Experimental results show that our method outperforms exact solvers, heuristics, and learning-based approaches, finding the most solutions deemed best in 8 out of 12 instance groups within 0.5 s. Our method particularly excels in larger problems and adapts well to varying target sizes, hub locations, and UAV numbers.",
+    "citation_count": "0",
+    "year": "2025/03/01",
+    "authors": [
+        {
+            "name": "Mingfeng Fan",
+            "country": ""
+        },
+        {
+            "name": "Huan Liu",
+            "country": ""
+        },
+        {
+            "name": "Guohua Wu",
+            "country": ""
+        },
+        {
+            "name": "Aldy Gunawan",
+            "country": ""
+        },
+        {
+            "name": "Guillaume Sartoretti",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

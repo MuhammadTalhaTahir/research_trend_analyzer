@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-019-09889-6",
+    "title": "Evaluating prior predictions of production and seismic data",
+    "abstract": "It is common in ensemble-based methods of history matching to evaluate the adequacy of the initial ensemble of models through visual comparison between actual observations and data predictions prior to data assimilation. If the model is appropriate, then the observed data should look plausible when compared to the distribution of realizations of simulated data. The principle of data coverage alone is, however, not an effective method for model criticism, as coverage can often be obtained by increasing the variability in a single model parameter. In this paper, we propose a methodology for determining the suitability of a model before data assimilation, particularly aimed for real cases with large numbers of model parameters, large amounts of data, and correlated observation errors. This model diagnostic is based on an approximation of the Mahalanobis distance between the observations and the ensemble of predictions in high-dimensional spaces. We applied our methodology to two different examples: a Gaussian example which shows that our shrinkage estimate of the covariance matrix is a better discriminator of outliers than the pseudo-inverse and a diagonal approximation of this matrix; and an example using data from the Norne field. In this second test, we used actual production, repeat formation tester, and inverted seismic data to evaluate the suitability of the initial reservoir simulation model and seismic model. Despite the good data coverage, our model diagnostic suggested that model improvement was necessary. After modifying the model, it was validated against the observations and is now ready for history matching to production and seismic data. This shows that the proposed methodology for the evaluation of the adequacy of the model is suitable for large realistic problems.",
+    "citation_count": 47,
+    "year": "2019/12",
+    "authors": [
+        {
+            "name": "Alfonzo, Miguel",
+            "country": "Norway"
+        },
+        {
+            "name": "Oliver, Dean S.",
+            "country": "Norway"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

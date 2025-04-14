@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124000481",
+    "title": "Efficient and self-recoverable privacy-preserving k-NN classification system with robustness to network delay",
+    "abstract": "Online classification services based on  machine learning  have been widely used in fields such as healthcare and finance. To enhance the data privacy and avoid server collusion, companies usually deploy servers on different  cloud service providers  in distant regions separately, which implies high network delay between servers. However, many existing schemes inevitably involve a large number of communication rounds, resulting in inefficient online performance. To mitigate the negative effect of network delay, we propose an efficient and delay-robust approach for privacy-preserving  k -NN classification on two non-interactive servers. Our method utilizes the state-of-the-art homomorphic secret sharing (HSS) technique and only introduces constant communication rounds. We also design an efficient self-recovery mechanism by enabling redundant cloud servers to securely back up the encrypted dataset, which is efficient even under high network delay. As the result of experiments we conducted in various network environment, our scheme is more online-efficient and is more robust to high network delay compared with related works.",
+    "citation_count": "0",
+    "year": "2024/05/01",
+    "authors": [
+        {
+            "name": "Jinhai Zhang",
+            "country": ""
+        },
+        {
+            "name": "Junwei Zhang",
+            "country": ""
+        },
+        {
+            "name": "Zhuo Ma",
+            "country": ""
+        },
+        {
+            "name": "Yang Liu",
+            "country": ""
+        },
+        {
+            "name": "Xindi Ma",
+            "country": ""
+        },
+        {
+            "name": "Jianfeng Ma",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

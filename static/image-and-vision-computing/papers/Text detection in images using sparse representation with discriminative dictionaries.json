@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885610000612",
+    "title": "Text detection in images using sparse representation with discriminative dictionaries",
+    "abstract": "Text detection is important in the retrieval of texts from digital pictures, video databases and webpages. However, it can be very challenging since the text is often embedded in a complex background. In this paper, we propose a classification-based algorithm for text detection using a  sparse representation  with discriminative dictionaries. First, the edges are detected by the  wavelet transform  and scanned into patches by a sliding window. Then, candidate text areas are obtained by applying a simple classification procedure using two learned discriminative dictionaries. Finally, the adaptive run-length smoothing algorithm and projection profile analysis are used to further refine the candidate text areas. The proposed method is evaluated on the Microsoft common test set, the ICDAR 2003 text locating set, and an image set collected from the web. Extensive experiments show that the proposed method can effectively detect texts of various sizes, fonts and colors from images and videos.",
+    "citation_count": "104",
+    "year": "2010/12/01",
+    "authors": [
+        {
+            "name": "Ming Zhao",
+            "country": ""
+        },
+        {
+            "name": "Shutao Li",
+            "country": ""
+        },
+        {
+            "name": "James Kwok",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

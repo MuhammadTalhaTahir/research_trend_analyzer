@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885616300683",
+    "title": "Fully automatic person segmentation in unconstrained video using spatio-temporal conditional random fields",
+    "abstract": "The segmentation of objects and people in particular is an important problem in  computer vision . In this paper, we focus on automatically segmenting a person from challenging video sequences in which we place no constraint on camera viewpoint, camera motion or the movements of a person in the scene. Our approach uses the most confident predictions from a pose detector as a form of anchor or  keyframe  stick figure prediction which helps guide the segmentation of other more challenging frames in the video. Since even state of the art pose detectors are unreliable on many frames –especially given that we are interested in segmentations with no camera or motion constraints –only the poses or stick figure predictions for frames with the highest confidence in a localized temporal region anchor further processing. The stick figure predictions within confident keyframes are used to extract color, position and optical flow features. Multiple  conditional random fields  (CRFs) are used to process blocks of video in batches, using a two dimensional CRF for detailed keyframe segmentation as well as 3D CRFs for propagating segmentations to the entire sequence of frames belonging to batches.  Location information  derived from the pose is also used to refine the results. Importantly, no hand labeled  training data  is required by our method. We discuss the use of a continuity method that reuses learnt parameters between batches of frames and show how pose predictions can also be improved by our model. We provide an extensive evaluation of our approach, comparing it with a variety of alternative grab cut based methods and a prior  state of the art method . We also release our evaluation data to the community to facilitate further experiments. We find that our approach yields state of the art qualitative and quantitative performance compared to prior work and more heuristic alternative approaches.",
+    "citation_count": "7",
+    "year": "2016/07/01",
+    "authors": [
+        {
+            "name": "Chetan Bhole",
+            "country": ""
+        },
+        {
+            "name": "Christopher Pal",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

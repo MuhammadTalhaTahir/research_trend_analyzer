@@ -1,0 +1,35 @@
+{
+    "url": "https://link.springer.com/article/10.1023/B:MONE.0000042500.36192.eb",
+    "title": "Manual and Automatic Design for UMTS Networks",
+    "abstract": "This paper describes manual and automatic design strategies of UMTS networks. The design aims at adjusting antenna parameters: antenna pattern, tilt and azimuth angles, as well as the common channels' transmitted power to improve the network performance in terms of coverage, capacity, quality of service and service continuity. The manual design strategy is based on an expert system that analyzes different quality criteria of the network and suggests the designer the most effective parameter modifications. The automatic design strategy is based on a Genetic Algorithm that orchestrates the design process. Two optimisation models are considered: the first one uses constant load hypotheses in the network evaluation; the second one takes into account inhomogeneous traffic distribution and utilizes accurate modelling of basic UMTS quantities such as power, load and interference. Detailed examples of network optimization illustrate the effectiveness of the design strategies.",
+    "citation_count": 4,
+    "year": "2004/12",
+    "authors": [
+        {
+            "name": "Jamaa, Sana Ben",
+            "country": "France"
+        },
+        {
+            "name": "Altman, Zwi",
+            "country": "France"
+        },
+        {
+            "name": "Picard, Jean-Marc",
+            "country": "France"
+        },
+        {
+            "name": "Fourestié, Benoît",
+            "country": "France"
+        },
+        {
+            "name": "Mourlon, Julien",
+            "country": "France"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

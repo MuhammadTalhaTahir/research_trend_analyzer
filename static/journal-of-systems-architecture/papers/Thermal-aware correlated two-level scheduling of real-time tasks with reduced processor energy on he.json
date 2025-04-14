@@ -1,0 +1,46 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762117301200",
+    "title": "Thermal-aware correlated two-level scheduling of real-time tasks with reduced processor energy on heterogeneous MPSoCs",
+    "abstract": "With the exponential increase in power density and the relentless scaling of transistors in  VLSI circuits  over the past decades, modern high-performance processors fall into a predicament of high energy consumption and elevated chip temperature. Such increased energy consumption and chip temperature could induce significant economic, ecological, and technical problems. Thus, energy-efficient  task scheduling  with thermal consideration has become a pressing research issue in sustainable computing systems, especially for battery-powered real-time embedded systems with limited cooling techniques. This paper tackles the above challenge through scheduling tasks leveraging correlated optimizations at two different scales. Precisely, a two-level thermal-aware energy-efficient  scheduling algorithm  for real-time tasks on DVFS-enabled heterogeneous  MPSoC  systems is developed considering the constraints of task deadlines, task precedences, and chip peak temperature limit. At the processor level, a multi-processor model supporting dynamic voltage/frequency scaling is transformed to a virtual multi-processor model supporting only one fixed frequency level. At the core level, real-time tasks are assigned to individual cores of the virtual processor under the constraints of task precedence and peak temperature limit. Through nicely interleaving optimizations at both levels, high quality task scheduling solutions can be computed efficiently. Extensive simulations of synthetic real-time tasks and real-life benchmarks are performed to validate the proposed algorithm. Experimental results demonstrate the effectiveness of the proposed algorithm as compared to the benchmarking schemes.",
+    "citation_count": "85",
+    "year": "2018/01/01",
+    "authors": [
+        {
+            "name": "Junlong Zhou",
+            "country": ""
+        },
+        {
+            "name": "Jianming Yan",
+            "country": ""
+        },
+        {
+            "name": "Kun Cao",
+            "country": ""
+        },
+        {
+            "name": "Yanchao Tan",
+            "country": ""
+        },
+        {
+            "name": "Tongquan Wei",
+            "country": ""
+        },
+        {
+            "name": "Mingsong Chen",
+            "country": ""
+        },
+        {
+            "name": "Gongxuan Zhang",
+            "country": ""
+        },
+        {
+            "name": "Xiaodao Chen",
+            "country": ""
+        },
+        {
+            "name": "Shiyan Hu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

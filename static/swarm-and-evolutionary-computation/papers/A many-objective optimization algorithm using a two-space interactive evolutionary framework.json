@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650222001523",
+    "title": "A many-objective optimization algorithm using a two-space interactive evolutionary framework",
+    "abstract": "The challenge of many-objective optimization  evolutionary algorithms  with  weight vectors  is to generate a set of weight vectors that can adapt well to the distribution of the evolving population. In this paper, a many-objective optimization algorithm using a two-space interactive evolutionary framework, called MaO-TIEF, is proposed. In MaO-TIEF, the population space and weight space evolve simultaneously by interacting mutually to achieve the balance of convergence and population diversity in the algorithm. To utilize the useful information in the searching history of individuals, a modified decomposition-based evolutionary algorithm is introduced to update the population space. Moreover, inspired by Steffensen’s method, a local search strategy is adopted to enhance the searching ability of MaO-TIEF. In the experimental section, the proposed algorithm and 5 commonly-used MaOEAs have been tested on 27 test problems with different numbers of objectives and the statistical results demonstrate the effectiveness of MaO-TIEF.",
+    "citation_count": "4",
+    "year": "2022/12/01",
+    "authors": [
+        {
+            "name": "Tianyu Liu",
+            "country": ""
+        },
+        {
+            "name": "Zhu Wang",
+            "country": ""
+        },
+        {
+            "name": "Meiqin Wei",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

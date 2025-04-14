@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1007/BF01193260",
+    "title": "A multiple access scheme for multimedia traffic in wireless ATM",
+    "abstract": "This paper proposes a multiple access scheme for the forthcoming wireless ATM (Asynchronous Transfer Mode) system. Such ATM compatible wireless systems are motivated by the rapidly increasing demand for wireless extensions to broadband networks, which are expected to support mixed broadband services including Constant Bit Rate (CBR), Variable Bit Rate (VBR), and Available Bit Rate (ABR) traffic. Since these different traffics have very different performance requirements, the multiple access scheme design is very challenging. In this paper, we propose a multiple access scheme called Dynamic Time Division Multiple Access with Piggybacked Reservation (DTDMA/PR), attempting to achieve higher statistical multiplexing efficiency in the mixed VBR/CBR/ABR traffic scenario. The basic idea is to exploit two levels of reservation. The first level deals with the isochronous nature of CBR and VBR traffic and the bursty nature of ABR traffic by using the ALOHA reservation procedure. The second level exploits the piggybacked reservation approach to cope with the dynamic feature of VBR traffic in order to increase the multiplexing efficiency. An analytical model is also developed in this paper and verified by simulation. Numerical examples are given to gain some insight into the protocol itself.",
+    "citation_count": 16,
+    "year": "1996/10",
+    "authors": [
+        {
+            "name": "Qiu, Xiaoxin",
+            "country": "USA"
+        },
+        {
+            "name": "Li, Victor O. K.",
+            "country": "USA"
+        },
+        {
+            "name": "Ju, Ji-Her",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

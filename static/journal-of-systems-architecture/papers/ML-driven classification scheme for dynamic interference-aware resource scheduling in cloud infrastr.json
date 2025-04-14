@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000527",
+    "title": "ML-driven classification scheme for dynamic interference-aware resource scheduling in cloud infrastructures",
+    "abstract": "Computing systems continue to evolve, resulting in increased performance when processing workloads in large  data centers  due to the virtualization benefits. This technology is the key factor that allows multiple applications to share resources, thereby enhancing the overall hardware utilization of  cloud computing environments . However, multiple cloud-services contending for  shared resources  are susceptible to cross-application interference, which can lead to significant  performance degradation  and, consequently, an increase in Service Level Agreements violations. Nevertheless, state-of-the-art resource scheduling still relies mainly on resource capacity, adopting heuristics such as bin-packing and overlooking this source of overhead. But in recent years, interference-aware scheduling has gained traction, with the investigation of ways to classify applications regarding their interference levels and the proposal of static interference models and policies for scheduling co-hosted cloud applications. The preliminary results already show a considerable improvement in  resource utilization  and can be considered as the first steps toward a dynamic scheduling strategy. In this scenario, this paper proposes a machine learning-driven  classification scheme  for dynamic interference-aware resource scheduling in cloud computing environments. The main goal is to present how a  classification approach , that better represents the workload variations, affects resource scheduling. In the first place, we analyze how hardware resources react to different applications with  dynamic workloads . Then, we explore distinct interference classification formats and evaluate their efficiency, taking the dynamic nature of cloud workloads into account. Lastly, we present an interference-aware application classifier based on  machine learning techniques  and compare it with related work, adopting a variety of workload patterns. Preliminary results revealed an improvement in resource utilization efficiency by 27%, on average, when applying our classification approach in cloud infrastructures.",
+    "citation_count": "20",
+    "year": "2021/06/01",
+    "authors": [
+        {
+            "name": "Vinícius Meyer",
+            "country": ""
+        },
+        {
+            "name": "Dionatrã F. Kirchoff",
+            "country": ""
+        },
+        {
+            "name": "Matheus L. Da Silva",
+            "country": ""
+        },
+        {
+            "name": "Cesar A.F. De Rose",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

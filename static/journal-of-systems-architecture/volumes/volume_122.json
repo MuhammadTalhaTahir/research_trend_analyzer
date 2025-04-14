@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Editorial Board",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122000121"
+    },
+    {
+        "title": "HEA-PAS: A hybrid energy allocation strategy for parallel applications scheduling on heterogeneous computing systems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002265"
+    },
+    {
+        "title": "DNN pruning with principal component analysis and connection importance estimation",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002307"
+    },
+    {
+        "title": "Efficient hybrid polling for ultra-low latency storage devices",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002319"
+    },
+    {
+        "title": "Teegraph: A Blockchain consensus algorithm based on TEE and DAG for data sharing in IoT",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002356"
+    },
+    {
+        "title": "A faster outsourced medical image retrieval scheme with privacy preservation",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002484"
+    },
+    {
+        "title": "SSD internal cache management policies: A survey",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002290"
+    },
+    {
+        "title": "Resource provisioning in edge/fog computing: A Comprehensive and Systematic Review",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002526"
+    },
+    {
+        "title": "Priority assignment in hierarchically scheduled time-partitioned distributed real-time systems with multipath flows",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002320"
+    },
+    {
+        "title": "Multi-processor scheduling of elastic applications in compositional real-time systems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002496"
+    },
+    {
+        "title": "Tightening the CRPD bound for multilevel non-inclusive caches",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002332"
+    },
+    {
+        "title": "Hardware and software co-verification from security perspective in SoC platforms",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002472"
+    },
+    {
+        "title": "FastHand: Fast monocular hand pose estimation on embedded systems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002514"
+    },
+    {
+        "title": "Bus-contention aware WCRT analysis for the 3-phase task model considering a work-conserving bus arbitration scheme",
+        "url": "https://www.sciencedirect.com/science/article/pii/S138376212100237X"
+    }
+]

@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959515300692",
+    "title": "Orchestration of multicellular heterogeneous networks, resources management, and electromagnetic interference mitigation techniques",
+    "abstract": "The primary goal of this study is to develop a simulation platform that ensures a synergy between WiMAX and WiFi at the PHY and MAC layers, manages the available resources efficiently, mitigates electromagnetic interference (EMI), and enhances the overall performance of heterogeneous networks. To achieve this synergy, the OFDMA physical layer protocol is implemented and combined with radio resource exploitation strategies and judicious power allocation to users. The COOPERATIVE subcarrier allocation strategy outperforms the RANDOM strategy in terms of mean capacity and EMI mitigation, because it efficiently manages radio resources and inherently combats CCI (hence, EMI is mitigated). Results also show that in real scenarios (low  SINR WiFi ), the synergy between WiMAX and WiFi leads to a high mean capacity (and in some cases, a 15-fold increase). In terms of power levels, the dissipation by a user corresponds to less than 23% of the total available power (1 W).",
+    "citation_count": "0",
+    "year": "2015/12/01",
+    "authors": [
+        {
+            "name": "Maria A. Seimeni",
+            "country": ""
+        },
+        {
+            "name": "Panagiotis K. Gkonis",
+            "country": ""
+        },
+        {
+            "name": "Dimitra I. Kaklamani",
+            "country": ""
+        },
+        {
+            "name": "Iakovos S. Venieris",
+            "country": ""
+        },
+        {
+            "name": "Christos A. Papavasiliou",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

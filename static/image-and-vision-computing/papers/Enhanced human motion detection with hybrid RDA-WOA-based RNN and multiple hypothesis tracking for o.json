@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003391",
+    "title": "Enhanced human motion detection with hybrid RDA-WOA-based RNN and multiple hypothesis tracking for occlusion handling",
+    "abstract": "Human motion detection in complex scenarios poses challenges due to occlusions. This paper presents an integrated approach for accurate human motion detections by combining Adapted Canny Edge detection as a preprocessing step, backbone-modified Mask R-CNN for precise segmentation, Hybrid RDA-WOA-based RNN as a classification, and a Multiple-hypothesis model for effective occlusion handling. Adapted Canny Edge detection is utilized as an initial preprocessing step to highlight significant edges in the input image. The resulting edge map enhances object boundaries and highlights structural features, simplifying subsequent processing steps. The improved image is then passed through backbone-modified Mask R-CNN for the pixel-level segmentation of humans. Backbone-modified Mask R-CNN along with IoU, Euclidean Distance, and Z-Score recognizes moving objects in complex scenes exactly. After recognizing moving objects, the optimized Hybrid RDA-WOA-based RNN classifies humans. To handle the self-occlusion, Multiple Hypothesis Tracking (MHT) is used. Real-world situations frequently include occlusions where humans can be partially or completely hidden by objects. The proposed approach integrates a Multiple-hypothesis model into the detection pipeline to address this challenge. Moreover, the proposed human motion detection approach includes an optimized Hybrid RDA-WOA-based RNN trained with 2D representations of 3D skeletal motion. The proposed work was evaluated using the IXMAS, KTH, Weizmann, NTU RGB + D, and UCF101 Datasets. It achieved an accuracy of 98% on the IXMAS, KTH, Weizmann, and UCF101 Datasets and 97.1% on the NTU RGB + D Dataset. The simulation results unveil the superiority of the proposed methodology over the existing approaches.",
+    "citation_count": "1",
+    "year": "2024/10/01",
+    "authors": [
+        {
+            "name": "Jeba Nega Cheltha",
+            "country": ""
+        },
+        {
+            "name": "Chirag Sharma",
+            "country": ""
+        },
+        {
+            "name": "Deepak Prashar",
+            "country": ""
+        },
+        {
+            "name": "Arfat Ahmad Khan",
+            "country": ""
+        },
+        {
+            "name": "Seifedine Kadry",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

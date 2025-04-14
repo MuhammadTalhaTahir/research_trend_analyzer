@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650220303850",
+    "title": "A model of new workers' accurate acceptance of tasks using capable sensing",
+    "abstract": "Crowdsourcing has been one of focuses in academic and industrial communities along with rapid development and wide-spread applications of Internet. However, the lack of a new worker's capacity of accepting tasks seriously affects his/her income obtained by fulfilling tasks issued by requesters, which reduces his/her enthusiasm for participation in crowdsourcing. We propose a method of solving the problem of accurately accepting tasks for a new worker in this paper. To fulfill this task, we firstly formulate the problem as a constraint  optimization problem  with an unknown parameter which shows the time consumption in fulfilling a task by a new worker. Then, we estimate the time consumption using information about similar tasks and workers in the  crowdsourcing platform . Finally, we generate a strategy of accepting tasks by solving the optimization problem using a  genetic algorithm , with the purpose of maximizing the income of the new work. We evaluate the effectiveness of the proposed strategy based on data in Taskcn, a representative commercial crowdsourcing platform in China, by comparing the results with a number of workers' actual earning. The experimental results demonstrate the accuracy of the new worker's capacity of accepting tasks, which is beneficial for generating a strategy to improve his/her income.",
+    "citation_count": "2",
+    "year": "2020/12/01",
+    "authors": [
+        {
+            "name": "Dunwei Gong",
+            "country": ""
+        },
+        {
+            "name": "Chao Peng",
+            "country": ""
+        },
+        {
+            "name": "Xiangjuan Yao",
+            "country": ""
+        },
+        {
+            "name": "Tian Tian",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

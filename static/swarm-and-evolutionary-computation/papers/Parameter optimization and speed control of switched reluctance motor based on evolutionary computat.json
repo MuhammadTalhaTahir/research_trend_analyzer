@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217303462",
+    "title": "Parameter optimization and speed control of switched reluctance motor based on evolutionary computation methods",
+    "abstract": "Because of the double–salient structure and switching mode of switched  reluctance motor  (SRM), it is very difficult to acquire the analytical model for the SRM. The current-sharing method (CSM) is an effective inner-current loop designing strategy, which makes the high performance control of the SRM become possible without application of its mathematical model. However, there are six control parameters that need to be tuned in the CSM. If the PID controller is adopted in the speed loop, there will exist nine parameters that need to be tuned in the speed control of the SRM. It is a challenge work to tune nine parameters with manual trial-and-error method. To alleviate the difficulties of the parameter tuning for the SRM control, three types of evolutionary computation methods are applied in the parameter optimization of the SRM, which include differential evolution (DE) algorithm, Big Bang–Big Crunch (BBBC) algorithm and  particle swarm optimization  (PSO). The comparison of the optimization performance among the proposed evolutionary computation methods are demonstrated with Matlab simulation. Simulation results certify the feasibility and effectiveness of the proposed methods in the parameter optimization and speed control of the SRM.",
+    "citation_count": "17",
+    "year": "2018/04/01",
+    "authors": [
+        {
+            "name": "Jia-Jun Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

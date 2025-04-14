@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217301074",
+    "title": "A feasible method for controlled intentional islanding in microgrids based on PSO algorithm",
+    "abstract": "Intentional islanding is a suitable approach to increase the system reliability in situations where the electrical connection between the  microgrid  and the upstream network is lost. In this paper, an innovated two-stage method for the intentional islanding process in microgrids is proposed. The important and practical issues such as the load controllability; load priorities; voltage and the line capacity constraints; reduction of problem solution space and ability to make larger islands are taken into account. In the first stage, the problem is relaxed by considering the problem as an optimization problem known as Tree  Knapsack Problem  (TKP) solved by  Particle Swarm Optimization  (PSO). In the second stage, the power flow is calculated and the constraints are verified, then adjusting measures will be taken. The proposed method is conducted on the IEEE 69-bus test system with 6 DGs and the results are compared with other methods. Moreover, for real time verification, the obtained results are simulated by DIgSILENT/Power Factory software package. The simulation results suggest that the proposed algorithm is a valid method for the intentional islanding process.",
+    "citation_count": "28",
+    "year": "2017/08/01",
+    "authors": [
+        {
+            "name": "M.H. Oboudi",
+            "country": ""
+        },
+        {
+            "name": "R. Hooshmand",
+            "country": ""
+        },
+        {
+            "name": "A. Karamad",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

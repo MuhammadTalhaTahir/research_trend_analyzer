@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650216305569",
+    "title": "Cellular learning automata based bare bones PSO with maximum likelihood rotated mutations",
+    "abstract": "In this work, a new variant of multi-swarm bare bones  PSO  is presented which adaptively learns the promising alignments to re-orient its updating distributions. The idea is to maximize the likelihood of generating new particles along appropriate directions. As these alignment directions are unknown a priori, the proposed method employs a learning mechanism for adaptive learning of suitable alignments. The learning mechanism presented in this paper is based on cellular learning  automata . Several alignment strategies are developed for each particle in the proposed method, and the cellular  learning automata  guides the particles toward the most promising directions by adjusting these strategies during the  searching process . The new proposed algorithm is compared with a group of  stochastic optimization  approaches on the CEC2013 benchmark set. Experiential studies suggest the effectiveness of the proposed method in solving complex  optimization problems .",
+    "citation_count": "17",
+    "year": "2019/02/01",
+    "authors": [
+        {
+            "name": "Reza Vafashoar",
+            "country": ""
+        },
+        {
+            "name": "Mohammad Reza Meybodi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

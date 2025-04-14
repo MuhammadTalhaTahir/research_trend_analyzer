@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-024-10319-5",
+    "title": "High-order exponential integration for seismic wave modeling",
+    "abstract": "Seismic imaging is a major challenge in geophysics with broad applications. It involves solving wave propagation equations with absorbing boundary conditions (ABC) multiple times. This drives the need for accurate and efficient numerical methods. This study examines a collection of exponential integration methods, known for their good numerical properties on wave representation, to investigate their efficacy in solving the wave equation with ABC. The purpose of this research is to assess the performance of these methods. We compare a recently proposed Exponential Integration based on Faber polynomials with well-established Krylov exponential methods alongside a high-order Runge-Kutta scheme and low-order classical methods. Through our analysis, we found that the exponential integrator based on the Krylov subspace exhibits the best convergence results among the high-order methods. We also discovered that high-order methods can achieve computational efficiency similar to low-order methods while allowing for considerably larger time steps. Most importantly, the possibility of undertaking large time steps could be used for important memory savings in full waveform inversion imaging problems.",
+    "citation_count": 62,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "Ravelo, Fernando V.",
+            "country": "Brazil"
+        },
+        {
+            "name": "Schreiber, Martin",
+            "country": "France"
+        },
+        {
+            "name": "Peixoto, Pedro S.",
+            "country": "Germany"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218302979",
+    "title": "An automatic nuclei segmentation method using intelligent gravitational search algorithm based superpixel clustering",
+    "abstract": "A reliable nuclei segmentation is still an open-ended problem, especially in the breast cancer histology images. For the same, this paper proposes an intelligent gravitational search algorithm based superpixel clustering method for automatic nuclei segmentation. In the proposed method, a novel variant of gravitational search algorithm, intelligent gravitational search algorithm, is employed to obtain the optimal cluster  centroids . The experimental and statistical results evince that the proposed variant surpasses existing meta-heuristic algorithms on 47 benchmark functions belonging to different problem categories i.e., unimodal, multimodal, and real-parameter  single objective optimization problems  of CEC, 2013. Further, the segmentation accuracy of the proposed method is examined on H&E stained  estrogen receptor  positive (ER+) breast cancer images. Experiments affirm that the proposed method is comparatively an efficacious and accurate method for segmenting the nuclei within breast cancer histology images.",
+    "citation_count": "55",
+    "year": "2019/03/01",
+    "authors": [
+        {
+            "name": "Himanshu Mittal",
+            "country": ""
+        },
+        {
+            "name": "Mukesh Saraswat",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

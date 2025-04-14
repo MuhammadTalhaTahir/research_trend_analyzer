@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S240595952300022X",
+    "title": "A fast computing decoder for polar codes with a neural network",
+    "abstract": "This paper proposes high-speed computing decoders for polar codes based on a neural network. To compensate for the performance gap with the successive cancellation decoder, we propose applying the recurrent neural network to the BP decoder with a modified factor graph to reduce the computational complexity of the decoder without any performance degradation. The results of the performance simulation conducted in this paper reveal that the proposed decoder requires substantially less computational complexity than the conventional decoders to achieve the same bit error rate performance.",
+    "citation_count": "0",
+    "year": "2023/12/01",
+    "authors": [
+        {
+            "name": "Lingxia Zhou",
+            "country": ""
+        },
+        {
+            "name": "Satya Chan",
+            "country": ""
+        },
+        {
+            "name": "Meixiang Zhang",
+            "country": ""
+        },
+        {
+            "name": "Sooyoung Kim",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-010-9180-8",
+    "title": "Modified adaptive local–global upscaling method for discontinuous permeability distribution",
+    "abstract": "The paper is devoted to the upscaling method appropriate for single-phase flow in media with discontinuous permeability distribution. The suggested algorithm is a modification of the iterative adaptive local–global upscaling developed by Chen and coauthors. The key feature of this method is a consistency between local and coarse global calculated characteristics. In this work, we apply a modified procedure to determine the boundary conditions used in the local fine-scale computation. To increase the accuracy of these boundary conditions on each iteration, we involve an additional preliminary step based on the results of coarse scale calculations from the previous iteration. Numerical tests show an essential improvement of the accuracy of upscaled flow rates for most of the realizations of statistical permeability distribution. Although the developed method is universal, its efficiency increases with increasing of permeability contrast.",
+    "citation_count": 19,
+    "year": "2010/09",
+    "authors": [
+        {
+            "name": "Kolyukhin, Dmitry",
+            "country": "Norway"
+        },
+        {
+            "name": "Espedal, Magne",
+            "country": "Norway"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

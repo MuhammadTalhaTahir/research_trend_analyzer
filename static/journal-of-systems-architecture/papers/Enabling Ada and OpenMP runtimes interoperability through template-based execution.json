@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762119305090",
+    "title": "Enabling Ada and OpenMP runtimes interoperability through template-based execution",
+    "abstract": "The growing trend to support parallel computation to enable the performance gains of the recent hardware architectures is increasingly present in more conservative domains, such as safety-critical systems. Applications such as autonomous driving require levels of performance only achievable by fully leveraging the potential parallelism in these architectures. To address this requirement, the Ada language, designed for safety and robustness, is considering to support parallel features in the next revision of the standard (Ada 202X). Recent works have motivated the use of OpenMP, a de facto standard in high-performance computing, to enable parallelism in Ada, showing the compatibility of the two models, and proposing static analysis to enhance reliability. This paper summarizes these previous efforts towards the integration of OpenMP into Ada to exploit its benefits in terms of portability, programmability and performance, while providing the safety benefits of Ada in terms of correctness. The paper extends those works proposing and evaluating an application transformation that enables the OpenMP and the Ada runtimes to operate (under certain restrictions) as they were integrated. The objective is to allow Ada programmers to (naturally) experiment and evaluate the benefits of parallelizing concurrent Ada tasks with OpenMP while ensuring the compliance with both specifications.",
+    "citation_count": "0",
+    "year": "2020/05/01",
+    "authors": [
+        {
+            "name": "Sara Royuela",
+            "country": ""
+        },
+        {
+            "name": "Luís Miguel Pinho",
+            "country": ""
+        },
+        {
+            "name": "Eduardo Quiñones",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

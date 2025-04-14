@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S138376212300187X",
+    "title": "A survey on techniques for improving Phase Change Memory (PCM) lifetime",
+    "abstract": "PCMs are Non-Volatile Memories (NVMs) that store data using phase-change semiconductors, such as silicon-chalcogenide glass. In addition to increased integration density, PCMs have high durability and  data transfer rates  and consume less power during read/write operations. Compared with flash memory,  PCM  operates at much faster speeds and is close to the performance of DRAM. As a result, it is one of the most popular semiconductor memories which is used in various applications. However,  PCM  cells are limited to a certain number of write operations, and because of that, values cannot be changed when this limit is reached. Hence, PCMs do not last for a long time. The limited lifespan of PCM memory has led to considerable research in recent years. Several  architectural levels  and methods have been offered and examined to overcome this challenge. In this study, functional and practical techniques are identified and analyzed to extend the longevity of PCMs. These schemes can also be used to prolong the life of other NVM technologies since they share similar characteristics with PCMs. Furthermore, we will present some improvements to PCM performance to make it competitive with common NVMs. In conclusion, this survey will be helpful to both researchers who are considering starting PCM projects and those already proficient in PCM.",
+    "citation_count": "7",
+    "year": "2023/11/01",
+    "authors": [
+        {
+            "name": "Milad Mohseni",
+            "country": ""
+        },
+        {
+            "name": "Ahmad Habibized Novin",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

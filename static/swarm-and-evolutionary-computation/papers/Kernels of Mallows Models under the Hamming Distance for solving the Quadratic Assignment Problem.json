@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S221065022030393X",
+    "title": "Kernels of Mallows Models under the Hamming Distance for solving the Quadratic Assignment Problem",
+    "abstract": "The  Quadratic Assignment Problem  (QAP) is a well-known permutation-based  combinatorial optimization problem  with real applications in industrial and logistics environments. Motivated by the challenge that this NP-hard problem represents, it has captured the attention of the optimization community for decades. As a result, a large number of algorithms have been proposed to tackle this problem. Among these, exact methods are only able to solve instances of size  n  < 40. To overcome this limitation, many  metaheuristic  methods have been applied to the QAP. In this work, we follow this direction by approaching the QAP through  Estimation of Distribution Algorithms  (EDAs). Particularly, a non-parametric distance-based exponential  probabilistic model  is used. Based on the analysis of the characteristics of the QAP, and previous work in the area, we introduce Kernels of Mallows Model under the  Hamming distance  to the context of EDAs. Conducted experiments point out that the performance of the proposed algorithm in the QAP is superior to (i) the classical EDAs adapted to deal with the QAP, and also (ii) to the specific EDAs proposed in the literature to deal with  permutation  problems.",
+    "citation_count": "9",
+    "year": "2020/12/01",
+    "authors": [
+        {
+            "name": "Etor Arza",
+            "country": ""
+        },
+        {
+            "name": "Aritz Pérez",
+            "country": ""
+        },
+        {
+            "name": "Ekhiñe Irurozki",
+            "country": ""
+        },
+        {
+            "name": "Josu Ceberio",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

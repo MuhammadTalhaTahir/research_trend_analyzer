@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623000045",
+    "title": "Decoupled contributed attribute-object composition detection",
+    "abstract": "Object recognition is quite a well known task in  computer vision . Objects are often associated with attributes. It becomes further challenging to correctly classify the object and associated attribute as a composition. Most of the methods for attribute-object pair detection involve discriminating approach that detects the attribute and object separately. Such approaches fail to consider some important facts regarding the composition viz. appearance of attributes is dependent on object and that of an object changes with the attribute. Making use of this interdependence, we propose a model, ContribNet to learn attribute-object composition representation. The model uses the semantic linguistic features to learn robust visual composition while highlighting the importance of component features in identifying its counterpart of the composition. The factors responsible for model performance are also discussed.",
+    "citation_count": "1",
+    "year": "2023/03/01",
+    "authors": [
+        {
+            "name": "Charulata Patil",
+            "country": ""
+        },
+        {
+            "name": "Aditya Abhyankar",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217304868",
+    "title": "A generic fuzzy approach for multi-objective optimization under uncertainty",
+    "abstract": "Multi-objective optimization under uncertainty has gained considerable attention in recent years due to its practical applications in real-life. Many studies have been conducted on this topic, but almost all of them transformed the problem into a mono-objective one or just neglected the effects of uncertainty on the outcomes. This paper addresses specific uncertain multi-objective problems in which uncertainty is expressed by means of triangular fuzzy numbers. To handle these problems, we introduced a new approach able to solve them without any transformation by considering  fuzziness  propagation to the objective functions. The proposed approach is composed of two main contributions: First, a fuzzy Pareto dominance is defined for ranking the generated fuzzy solutions. Second, a generic fuzzy extension of well-known  evolutionary algorithms  is suggested as resolution methods. An experimental study on multi-objective  Vehicle Routing Problems  (VRP) with uncertain demands is finally carried to evaluate our approach.",
+    "citation_count": "37",
+    "year": "2018/06/01",
+    "authors": [
+        {
+            "name": "Oumayma Bahri",
+            "country": ""
+        },
+        {
+            "name": "El-Ghazali Talbi",
+            "country": ""
+        },
+        {
+            "name": "Nahla Ben Amor",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

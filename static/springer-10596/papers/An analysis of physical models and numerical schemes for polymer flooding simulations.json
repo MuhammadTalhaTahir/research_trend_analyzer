@@ -1,0 +1,36 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-017-9637-0",
+    "title": "An analysis of physical models and numerical schemes for polymer flooding simulations",
+    "abstract": "Chemical-enhanced oil recovery (CEOR) processes are nowadays commonly used by engineers to improve the recovery factor of an oil field. In this paper, we propose to investigate the physical and numerical singularities arising in the numerical simulation of polymer-enhanced oil recovery technique for oil fields. We assume that the polymer is only transported in the water phase or adsorbed on the rock. The polymer reduces the water-phase mobility and can change drastically the behavior of water oil interfaces. Due to its size, the polymer flows faster than water so that an inaccessible pore volume must be added in the model. After a brief description of different models for polymer adsorption, mobility reduction, and inaccessible pore volume, we discuss the mathematical singularities of the obtained system. In the framework of industrial reservoir simulators, we focus on a constant inaccessible pore volume model which may lead to severe mathematical and numerical singularities. We consider an IMPES scheme; we propose approximate Courant-Friedrichs-Levy (CFL) criteria which are required to obtain some numerical stability of the simulation. 1D numerical polymer flooding experiments are computed with a complete reservoir simulator to illustrate the validity of our approximate CFL criteria.",
+    "citation_count": 34,
+    "year": "2017/12",
+    "authors": [
+        {
+            "name": "Braconnier, Benjamin",
+            "country": "France"
+        },
+        {
+            "name": "Preux, Christophe",
+            "country": "France"
+        },
+        {
+            "name": "Flauraud, Éric",
+            "country": "France"
+        },
+        {
+            "name": "Tran, Quang-Huy",
+            "country": "France"
+        },
+        {
+            "name": "Berthon, Christophe",
+            "country": "France"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

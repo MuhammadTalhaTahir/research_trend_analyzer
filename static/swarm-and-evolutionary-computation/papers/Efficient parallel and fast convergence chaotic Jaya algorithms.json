@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650219305310",
+    "title": "Efficient parallel and fast convergence chaotic Jaya algorithms",
+    "abstract": "The Jaya algorithm is a recent heuristic approach for  solving optimisation problems . It involves a random search for the global optimum, based on the generation of new individuals using both the best and the worst individuals in the population, thus moving solutions towards the optimum while avoiding the worst current solution. In addition to its performance in terms of optimisation, a lack of control parameters is another significant advantage of this algorithm. However, the number of iterations needed to reach the optimal solution, or close to it, may be very high, and the computational cost can hamper compliance with time requirements. In this work, a chaotic two-dimensional (2D) map is used to accelerate convergence, and parallel algorithms are developed to alleviate the computational cost. Coarse- and fine-grained parallel algorithms are developed, the former based on multi-populations and the latter at the individual level, and in both cases these are accelerated by an improved (computational) use of the chaos map.",
+    "citation_count": "16",
+    "year": "2020/08/01",
+    "authors": [
+        {
+            "name": "H. Migallón",
+            "country": ""
+        },
+        {
+            "name": "A. Jimeno-Morenilla",
+            "country": ""
+        },
+        {
+            "name": "J.L. Sánchez-Romero",
+            "country": ""
+        },
+        {
+            "name": "A. Belazi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

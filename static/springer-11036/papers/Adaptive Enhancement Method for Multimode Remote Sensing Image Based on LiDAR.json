@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-020-01616-1",
+    "title": "Adaptive Enhancement Method for Multimode Remote Sensing Image Based on LiDAR",
+    "abstract": "Currently, the multimode remote sensing (MRS) images are always enhanced with low efficiency, poor effectiveness, and long processing time. Therefore, a self-adaptive enhancement method for MRS images based on Light Detection and Ranging (LiDAR) technology is proposed. Firstly, the problem of LiDAR imaging is replaced by the problem of quadrature-based reconstruction signal based on compression-aware theory. Next, color variance is used as a distance measure of the obtained MRS image by combining the nearest neighbor region map with the adjacent graph segmentation, and the segmented MRS image is decomposed into texture connection regions. Then, coefficients in texture region and connection area are modeled based on decomposition mode. Noise reduction of texture region and connection area is completed by using an adaptive threshold method. Finally, the improved fuzzy contrast operator is used to enhance edge and texture of the image. Experimental results show that the improved method has higher enhancement resolution and larger overall information entropy, which has better enhancement effect on MRS images.",
+    "citation_count": 28,
+    "year": "2020/12",
+    "authors": [
+        {
+            "name": "Zhang, Xuechao",
+            "country": "China"
+        },
+        {
+            "name": "Muhammad, Khan",
+            "country": "Republic of Korea"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

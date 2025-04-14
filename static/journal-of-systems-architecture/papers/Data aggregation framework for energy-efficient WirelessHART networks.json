@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762116000217",
+    "title": "Data aggregation framework for energy-efficient WirelessHART networks",
+    "abstract": "WirelessHART has become an industrial standard for robust and real-time wireless monitoring and control. While energy-efficiency is one of the key design considerations for networks with battery-operated devices, data aggregation has been widely studied in the  wireless sensor network  (WSN) environments to reduce the traffic and prolong the lifetime of the network. However, existing data aggregation techniques cannot be applied directly to WirelessHART networks due to the multi-channel Time Synchronized Mesh Protocol (TSMP) and the superframe-based communication slot scheduling in WirelessHART. In this work, we propose a data aggregation framework for energy-efficient and real-time WirelessHART communication. In particular, we consider aggregation as a factor during the link  selection procedure  of the graph routing to improve the chance of data fusion at intermediate routing nodes and reduce the total number of message transmissions. Furthermore, a greedy-based heuristic is applied during the superframe construction phase to allocate package transmissions whose data can be aggregated at intermediate routing nodes into nearby time slots. During the superframe re-scheduling, we make sure that the predefined end-to-end deadline for each package is satisfied as long as the entire network is schedulable without data aggregation. Experimental results show that compared with existing WirelessHART  routing algorithms , our proposed framework has significantly improvement on the  energy saving  and prolongs the overall lifetime of the network.",
+    "citation_count": "9",
+    "year": "2016/02/01",
+    "authors": [
+        {
+            "name": "Feng Li",
+            "country": ""
+        },
+        {
+            "name": "Lei Ju",
+            "country": ""
+        },
+        {
+            "name": "Zhiping Jia",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

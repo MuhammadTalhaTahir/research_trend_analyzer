@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-010-9324-8",
+    "title": "Improved floor-planning of graphs via adjacency-preserving transformations",
+    "abstract": "Let G=(V,E) and&nbsp;G′=(V′,E′) be two graphs, an adjacency-preserving transformation from&nbsp;G to&nbsp;G′ is a one-to-many and onto mapping from V to V′ satisfying the following: (1)&nbsp;Each vertex v∈V in&nbsp;G is mapped to a non-empty subset $\\mathcal{A}(v)\\subset V'$ in&nbsp;G′. The subgraph induced by $\\mathcal{A}(v)$ is a connected subgraph of&nbsp;G′; (2)&nbsp;if u≠v∈V, then $\\mathcal{A}(u)\\cap\\mathcal{A}(v)=\\emptyset$ ; and (3)&nbsp;two vertices u and v are adjacent to each other in&nbsp;G if and only if subgraphs induced by $\\mathcal{A}(u)$ and $\\mathcal{A}(v)$ are connected in&nbsp;G′. In this paper, we study adjacency-preserving transformations from plane triangulations to irreducible triangulations (which are internally triangulated, with four exterior vertices and no separating triangles). As one shall see, our transformations not only preserve adjacency well, but also preserve the endowed realizers of plane triangulations well in the endowed transversal structures of the image irreducible triangulations, which may be desirable in some applications. We then present such an application in floor-planning of plane graphs. The expected grid size of the floor-plan of our linear time algorithm is improved to $(\\frac{5n}{8}+O(1))\\times (\\frac{23n}{24}+O(1))$ , though the worst case grid size bound of the algorithm remains $\\lfloor\\frac{2n+1}{3}\\rfloor\\times(n-1)$ , which is the same as the algorithm presented in Liao et&nbsp;al. (J.&nbsp;Algorithms 48:441–451, 2003).",
+    "citation_count": 20,
+    "year": "2011/11",
+    "authors": [
+        {
+            "name": "Zhang, Huaming",
+            "country": "USA"
+        },
+        {
+            "name": "Sadasivam, Sadish",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-016-0557-8",
+    "title": "A clustered locally linear approach on face manifolds for pose estimation",
+    "abstract": "Data points with small variations between them are assumed to lie close to each other on a smooth varying manifold in the feature space. Such data are hard to classify into separate classes . A sequence of face pose images with closely varying pose angles can be considered as such data. The pose angles when large enough create images that are largely differing from each other, and thus, the sequence of face images can be assumed to be on or near a nonlinear manifold. In this paper, we propose an unsupervised pose estimation method for face images based on clustered locally linear manifolds using discriminant analysis. We divide the data into multiple disjointed, locally linear and separable clusters. The problem of identifying which cluster to use is solved by dividing the entire process into two steps. The first step or projection using the entire smooth manifold identifies a rough region of interest. We use clustering techniques on entire data to form the pose-dependent classes which are then used to find the first set of discriminant functions. The second step or second projection uses trained cluster(s) from this neighbourhood to obtain a second set of discriminant functions. The idea behind such an approach is that the local neighbourhood would be linear and provide better between-class separation, and hence, the classification problem would now be simpler.",
+    "citation_count": 37,
+    "year": "2017/11",
+    "authors": [
+        {
+            "name": "Hari, C. V.",
+            "country": "India"
+        },
+        {
+            "name": "Sankaran, Praveen",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

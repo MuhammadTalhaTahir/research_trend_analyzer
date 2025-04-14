@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650219304171",
+    "title": "A multi-objective adaptive evolutionary algorithm to extract communities in networks",
+    "abstract": "Community structure is one of the most important attributes of complex networks, which reveals the hidden rules and  behavior characteristics  of complex networks. Existing works need to pre-set weight parameters to control the different emphasis on the objective function, and cannot automatically identify the number of communities. In the process of optimization, there will be some challenges, such as premature and inefficiency. This paper presents a multi-objective adaptive fast  evolutionary algorithm  (F-SGCD) for community detection in complex networks. Firstly, it transforms the problem of community detection into a multi-objective  optimization problem  and constructs two objective functions of community score and community fitness. Secondly, an external elite gene pool is introduced to store non-inferior solutions with high fitness. At the same time, an adaptive  genetic  operator is executed to return a set of non-dominant solutions compromised between the two objective functions. Finally, a  Pareto optimal solution  with the highest modularity is selected and decoded to generate a set of independent  subnetworks . Experiments show that the multi-objective adaptive fast  evolutionary algorithm  greatly improves the accuracy of community detection in complex networks, and can discover the hierarchical structure of complex networks better.",
+    "citation_count": "34",
+    "year": "2020/02/01",
+    "authors": [
+        {
+            "name": "Qi Li",
+            "country": ""
+        },
+        {
+            "name": "Zehong Cao",
+            "country": ""
+        },
+        {
+            "name": "Weiping Ding",
+            "country": ""
+        },
+        {
+            "name": "Qing Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224002372",
+    "title": "An improved variable neighborhood search algorithm embedded temporal and spatial synchronization for vehicle and drone cooperative routing problem with pre-reconnaissance",
+    "abstract": "Drones are increasingly utilized for transportation reconnaissance due to their expansive field of view, cost-effectiveness, and agility. They can pre-reconnaissance the traveling routes of the ground vehicles carrying valuable goods to ensure the safety of vehicles and their goods. This rises a novel routing problem for the Vehicles and their Pre-Reconnaissance Drones, which is an integrated point and arc routing problem with temporal and spatial synchronization. A mixed integer linear programming model is developed to formulate the problem with complex synchronization constraints. The Variable Neighborhood Search algorithm integrated with the Temporal & Spatial synchronization-based Greedy search and simulated annealing strategy is designed to solve the model. A practical case based on real urban data from Beijing, China, and random instances with different sizes are tested and compared with the proposed algorithm. Computational results indicated that the proposed algorithm can solve the problem efficiently and outperform the simulated annealing algorithm and the greedy algorithm.",
+    "citation_count": "4",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Weichang Sun",
+            "country": ""
+        },
+        {
+            "name": "Zhihao Luo",
+            "country": ""
+        },
+        {
+            "name": "Xingchen Hu",
+            "country": ""
+        },
+        {
+            "name": "Witold Pedrycz",
+            "country": ""
+        },
+        {
+            "name": "Jianmai Shi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

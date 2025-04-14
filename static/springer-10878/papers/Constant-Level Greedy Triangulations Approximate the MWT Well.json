@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1009776619164",
+    "title": "Constant-Level Greedy Triangulations Approximate the MWT Well",
+    "abstract": "The well-known greedy triangulation GT(S) of a finite point set S is obtained by inserting compatible edges in increasing length order, where an edge is compatible if it does not cross previously inserted ones. Exploiting the concept of so-called light edges, we introduce a definition of GT(S) that does not rely on the length ordering of the edges. Rather, it provides a decomposition of GT(S) into levels, and the number of levels allows us to bound the total edge length of GT(S). In particular, we show |GT(S)| ≤ 3 · 2k + 1|MWT(S)|, where k is the number of levels and MWT(S) is the minimum-weight triangulation of S.",
+    "citation_count": 8,
+    "year": "1998/12",
+    "authors": [
+        {
+            "name": "Aichholzer, Oswin",
+            "country": "Austria"
+        },
+        {
+            "name": "Aurenhammer, Franz",
+            "country": "Austria"
+        },
+        {
+            "name": "Rote, Günter",
+            "country": "Austria"
+        },
+        {
+            "name": "Xu, Yin-Feng",
+            "country": "PRC"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

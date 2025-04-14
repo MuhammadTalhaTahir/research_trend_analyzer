@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885619300848",
+    "title": "Detecting and classifying online dark visual propaganda",
+    "abstract": "The staggering increase in the amount of information on the World Wide Web (referred to as Web) has made  Web page  classification essential to retrieve useful information while filtering out unwanted, futile, or harmful contents. This massive information-sharing platform is occasionally abused for propagating extreme and radical ideologies and posing threats to national security and citizens. Detecting the so called dark material has gained more impetus following the recent outbreak of extremist groups and radical ideologies across the Web. The goal of this project, being the first of its own, is to surveil  online social networks  (OSN) and Web for real-time detection of visual propaganda by violent extremist organizations (VEOs). This is valuable not only for flagging and removing such content from OSN and Web, but also to provide military insight and narrative context inside VEOs. Visual propaganda by VEOs are not only detected, but also further classified based on the type of VEO and focus or intent of the image into hard propaganda, soft propaganda, symbolic propaganda, landscape, and organizational communications. Over 1.2 million images were automatically collected from suspicious OSN accounts and Web pages over a course of four years. Out of which, 120,000 images were manually classified to provide the  training data  for a convolutional  neural network . An overall generalization accuracy of 97.02% and  F 1 of 97.89% were achieved for a  binary classification  or mere detection of visual VEO propaganda and an overall generalization accuracy of 86.08% and  F 1 ¯  of 85.76% for an eight-way classification based on the intent of the image.",
+    "citation_count": "36",
+    "year": "2019/09/01",
+    "authors": [
+        {
+            "name": "Mahdi Hashemi",
+            "country": ""
+        },
+        {
+            "name": "Margeret Hall",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S026288561930071X",
+    "title": "Human tracking from single RGB-D camera using online learning",
+    "abstract": "Human detection and tracking is an essential component in several  robotics applications , especially in indoor built environments where humans and robots are expected to coexist or collaborate. Due to their low cost and capability to capture both color and depth data, RGB-D cameras have shown significant promise in human detection and tracking for robotic applications. In this paper, a new  human tracking  method is proposed to detect and track a specific individual from a single RGB-D sensor using online learning classifiers with no ground plane assumption. Given a previous target human position, a candidate sampling method is designed to find potential positive samples while negative samples are obtained by a random sampling process. The kernelized  Support Vector Machine  (SVM) is employed as the online classifier to recognize the target human and updated using both the positive and negative examples. The experimental results on six RGB-D videos of a public dataset demonstrate that the proposed method achieves higher success rates compared to a 2D tracker and a 3D human detection method at a frame rate of 3.8 fps, and is capable of efficiently retrieving the target human following intermittent occlusion.",
+    "citation_count": "17",
+    "year": "2019/08/01",
+    "authors": [
+        {
+            "name": "Yong Xiao",
+            "country": ""
+        },
+        {
+            "name": "Vineet R. Kamat",
+            "country": ""
+        },
+        {
+            "name": "Carol C. Menassa",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

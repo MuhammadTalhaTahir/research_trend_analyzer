@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-024-01342-4",
+    "title": "CP decomposition-based algorithms for completion problem of motion capture data",
+    "abstract": "Motion capture (MoCap) technology is an essential tool for recording and analyzing movements of objects or humans. However, MoCap systems frequently encounter the challenge of missing data, stemming from mismatched markers, occlusion, or equipment limitations. Recovery of these missing data is imperative to maintain the reliability and integrity of MoCap recordings. This paper introduces a novel application of the tensor framework for MoCap data completion. We propose three completion algorithms based on the canonical polyadic (CP) decomposition of tensors. The first algorithm utilizes CP decomposition to capture the low-rank structure of the tensor. However, relying only on low-rank assumptions may be insufficient to deal with complex motion data. Thus, we propose two modified CP decompositions that incorporate additional information, SmoothCP and SparseCP decompositions. SmoothCP integrates piecewise smoothness prior, while SparseCP incorporates sparsity prior, each aiming to improve the accuracy and robustness of MoCap data recovery. To compare and evaluate the merit of the proposed algorithms over other tensor completion methods in terms of several evaluation metrics, we conduct numerical experiments with different MoCap sequences from the CMU motion capture dataset.",
+    "citation_count": 51,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "Mohaoui, Souad",
+            "country": "Sweden"
+        },
+        {
+            "name": "Dmytryshyn, Andrii",
+            "country": "Sweden"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

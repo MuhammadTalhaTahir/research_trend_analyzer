@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-018-0260-3",
+    "title": "The number of edges, spectral radius and Hamilton-connectedness of graphs",
+    "abstract": "In this paper, we prove that a simple graph G of order sufficiently large n with the minimal degree $$\\delta (G)\\ge k\\ge 2$$ is Hamilton-connected except for two classes of graphs if the number of edges in G is at least $$\\frac{1}{2}(n^2-(2k-1)n + 2k-2)$$ . In addition, this result is used to present sufficient spectral conditions for a graph with large minimum degree to be Hamilton-connected in terms of spectral radius or signless Laplacian spectral radius, which extends the results of (Zhou and Wang in Linear Multilinear Algebra 65(2):224–234, 2017) for sufficiently large n. Moreover, we also give a sufficient spectral condition for a graph with large minimum degree to be Hamilton-connected in terms of spectral radius of its complement graph.",
+    "citation_count": 26,
+    "year": "2018/05",
+    "authors": [
+        {
+            "name": "Chen, Ming-Zhu",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Zhang, Xiao-Dong",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

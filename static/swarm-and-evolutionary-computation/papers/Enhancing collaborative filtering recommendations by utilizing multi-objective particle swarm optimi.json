@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650213000497",
+    "title": "Enhancing collaborative filtering recommendations by utilizing multi-objective particle swarm optimization embedded association rule mining",
+    "abstract": "Collaborative Filtering (CF) is the most prevalent technique in recommender systems and facilitates the high-quality recommendations by identifying similar users based on their logged history of prior transactions. However, accuracy of recommendations and  sparsity  are still major concerns related to CF recommendation techniques. Recent research in CF is investigating the use of Association Rule Mining (ARM) for extracting high-level information and thereby providing more accurate recommendations. However, determination of the threshold values for support and confidence measures affect the quality of association rules. Moreover, the traditional ARM algorithms are based on market basket analysis and therefore degrade computation efficiency by mining too many association rules which are not appropriate for a given user. The proposed approach attempts to improve the quality of recommendations through the application of Multi-objective  Particle Swarm Optimization  (MOPSO) algorithm for ARM in the framework of CF. Consequently, by considering support and confidence measures as different objectives, the MOPSO based ARM model extracts only useful and eminent direct association rules which are optimal in the wider sense that no other rules are superior to them when both objectives are simultaneously considered. In addition, computational efficiency is enhanced by mining rules only for the given user and over the related transactional database. Further, the present work explores the indirect (transitive) association between users as well as between items for providing more accurate recommendations even with highly sparse history of transactions. In order to evaluate the effectiveness of our approach, we conducted an experimental study using the MovieLens data set. Experimental results clearly reveal that the proposed method consistently outperform other traditional CF based methods as measured by recommendation accuracy, precision, and recall.",
+    "citation_count": "45",
+    "year": "2013/12/01",
+    "authors": [
+        {
+            "name": "Shweta Tyagi",
+            "country": ""
+        },
+        {
+            "name": "Kamal K. Bharadwaj",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

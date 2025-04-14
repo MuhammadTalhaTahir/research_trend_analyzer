@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217303450",
+    "title": "A cost-benefit local search coordination in multimeme differential evolution for constrained numerical optimization problems",
+    "abstract": "This paper introduces an adaptive local search coordination for a multimeme Differential Evolution to constrained  numerical optimization  problems. The proposed approach associates a pool of direct local search operators within the standard Differential Evolution. The coordination mechanism consists of a  probabilistic method  based on a cost-benefit scheme, and it is aimed to regulate the activation probability of every local search operator during the evolutionary cycle of the global search. Also, the method adopts the  ɛ -constrained method as a constraint-handling technique. The proposed approach is tested on thirty-six well-known benchmark problems. Numerical results show that the proposed method is suitable to coordinate a set of local search operators adequately within a memetic scheme for constrained  search spaces .",
+    "citation_count": "11",
+    "year": "2018/04/01",
+    "authors": [
+        {
+            "name": "Saúl Domínguez-Isidro",
+            "country": ""
+        },
+        {
+            "name": "Efrén Mezura-Montes",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

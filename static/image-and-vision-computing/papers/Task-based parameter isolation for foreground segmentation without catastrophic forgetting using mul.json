@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621001530",
+    "title": "Task-based parameter isolation for foreground segmentation without catastrophic forgetting using multi-scale region and edges fusion network",
+    "abstract": "Foreground segmentation of moving objects is widely used in different  computer vision applications ; however, existing deep learning-based methods generally suffer from overall degraded F-measure performance. The two main sources that degrade the F-measure are under-segmentation and catastrophic forgetting. Under-segmentation is the problem of misdetecting objects' fine details. The catastrophic forgetting problem occurs when training on a large number of video sequences that leads to forgetting information learned from early video sequences. This paper proposes a novel multi-scale region and edges fusion network with task-based parameter isolation (REFNet-TBPI) to overcome these two problems. The proposed method consists of a novel multi-scale region and edges fusion network (REFNet) to capture the moving objects' boundary details by extracting regions and boundary edges of each object at different feature scales and fusing them to produce high-detailed segmented objects. REFNet is trained using a novel continual learning technique called task-based parameter isolation (TBPI) to overcome the catastrophic forgetting problem. The proposed method (REFNet-TBPI) is extensively evaluated on three benchmarks, namely CDnet2014, DAVIS2016, and SegTrack. By comparing REFNet-TBPI with current state-of-the-art methods, the proposed method outperforms the best-reported state-of-the-art by 4.4% on average.",
+    "citation_count": "9",
+    "year": "2021/09/01",
+    "authors": [
+        {
+            "name": "Islam Osman",
+            "country": ""
+        },
+        {
+            "name": "Agwad Eltantawy",
+            "country": ""
+        },
+        {
+            "name": "Mohamed S. Shehata",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

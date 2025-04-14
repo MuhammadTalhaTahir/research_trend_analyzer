@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1011529614975",
+    "title": "Well modeling and estimation of hydraulic parameters",
+    "abstract": "A general model for time‐dependent saturated–unsaturated waterflow caused by a single well with a given radius is presented. The storage capacity of the well tube is taken into account. The inflow into the well (with drainage) is modeled using the Signorini boundary condition. The nonconforming mixed finite element method on a multilevel adaptive grid is used for the solution of the radial symmetric, time dependent problem. Finally, van Genuchten parameters of an aquifer are determined from field measurements by inverse computations.",
+    "citation_count": 11,
+    "year": "1997/09",
+    "authors": [
+        {
+            "name": "Schumacher, Stephan",
+            "country": "Germany"
+        },
+        {
+            "name": "Slodička, Marián",
+            "country": "Germany"
+        },
+        {
+            "name": "Jaekel, Uwe",
+            "country": "Germany"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

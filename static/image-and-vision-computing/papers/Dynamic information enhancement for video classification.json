@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621001499",
+    "title": "Dynamic information enhancement for video classification",
+    "abstract": "How to extract and integrate spatiotemporal information for video classification is a major challenge. Advanced approaches adopt 2D, and 3D convolution kernels, or their variants as a basis of a spatiotemporal modeling process. However, 2D convolution kernels perform poorly along the temporal dimension, while 3D convolution kernels tend to create confusion between the spatial and temporal sources of information, with an increased risk of explosion of the number of model parameters. In this paper, we develop a more explicit way to improve the spatiotemporal modeling capacity of a 2D convolution network, which integrates two components: (1) Using Motion Intensification Block (MIB) to mandate a specific subset of channels to explicitly encode temporal clues to complement the spatial patterns extracted by other channels, achieving controlled diversity in the convolution calculations. (2) Using Spatial-temporal Squeeze-and-excitation (ST-SE) block to intensify the fused features reflecting the importance of different channels. In this manner, we improve the spatiotemporal dynamic information within the 2D backbone network, without performing complex temporal convolutions. To verify the effectiveness of the proposed approach, we conduct extensive experiments on challenging benchmarks. Our model achieves a competitive result on Something-Something V1, Something-Something V2, and a state-of-the-art performance on the Diving48 dataset, providing supporting evidence for the merits of the proposed methodology of spatiotemporal information encoding and fusion for video classification.",
+    "citation_count": "5",
+    "year": "2021/10/01",
+    "authors": [
+        {
+            "name": "Rong-Chang Li",
+            "country": ""
+        },
+        {
+            "name": "Xiao-Jun Wu",
+            "country": ""
+        },
+        {
+            "name": "Cong Wu",
+            "country": ""
+        },
+        {
+            "name": "Tian-Yang Xu",
+            "country": ""
+        },
+        {
+            "name": "Josef Kittler",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

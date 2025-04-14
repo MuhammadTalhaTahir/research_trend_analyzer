@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000205",
+    "title": "Feasibility interval and sustainable scheduling simulation with CRPD on uniprocessor platform",
+    "abstract": "The use of hardware caches became essential in modern embedded systems to address the speed gap between processor and memory. In such systems, cache-related preemption delay (CRPD) may represent a significant proportion of task execution time. Addressing this delay in scheduling simulation of these systems stays an open and under-examined problem. Assumptions are often made to simplify the computation model used in simulation and capture the worst-case effect. Nevertheless, they can introduce situations in which scheduling simulation is considered not only pessimistic but also non-sustainable. In this article, we discuss the problem and propose a less pessimistic CRPD computation model that allows sustainable scheduling simulation regarding the capacity parameter. With the proposed model, a system that is schedulable with simulated worst-case execution times remains so when these parameters are reduced. These results improve the applicability of scheduling simulation in the early verification stage for systems with caches. Experiments conducted with our CRPD computation model show a 5% to 12% improvement of schedulability task set coverage and a 30% to 50% reduction of preemption cost with regard to existing CRPD computation models. An integration in a scheduling simulator and a performance evaluation are also realized for the proposed model.",
+    "citation_count": "0",
+    "year": "2021/05/01",
+    "authors": [
+        {
+            "name": "Hai Nam Tran",
+            "country": ""
+        },
+        {
+            "name": "Stéphane Rubini",
+            "country": ""
+        },
+        {
+            "name": "Jalil Boukhobza",
+            "country": ""
+        },
+        {
+            "name": "Frank Singhoff",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

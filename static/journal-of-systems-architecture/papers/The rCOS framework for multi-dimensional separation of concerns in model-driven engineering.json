@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124002248",
+    "title": "The rCOS framework for multi-dimensional separation of concerns in model-driven engineering",
+    "abstract": "The software industry increasingly turns to Model-Driven Engineering (MDE) to mitigate complexity by automating model creation and transformation. Many organisations are pursuing Integrated Development Platforms (IDPs) to enhance automation in their software development processes within MDE. However, the adoption of MDE and engagement with IDPs remain limited due to concerns over their efficacy. We address these challenges in this review paper by introducing a framework for the formal refinement of component and object systems (rCOS). It provides: (1) a formal theory that consists of a modelling language (named  OPL ) with a calculus of refinement for object-oriented models and component models; (2) a suite of analysis and design techniques that facilitate abstractions and decompositions, leading to a multidimensional separation of concerns; and (3) an IDP (named  rCOS Modeller ) that supports modelling, design and verification from requirements elicitation through to coding. By advocating for an rCOS-enabled multidimensional approach to separating concerns, this paper offers a comprehensive solution to the challenges facing MDE and IDPs, paving the way for their successful implementation in practice. By delineating the emerging challenges and prospects associated with integrating formal methods for modelling and designing human-cyber–physical systems (HCPS), we show the potential of extending rCOS for MDE in HCPS.",
+    "citation_count": "0",
+    "year": "2024/11/01",
+    "authors": [
+        {
+            "name": "Bo Liu",
+            "country": ""
+        },
+        {
+            "name": "Shmuel Tyszberowicz",
+            "country": ""
+        },
+        {
+            "name": "Zhiming Liu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

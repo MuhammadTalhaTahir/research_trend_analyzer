@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959523000127",
+    "title": "Performance of Q-learning based resource allocation for D2D communications in heterogeneous networks",
+    "abstract": "This study investigates energy efficiency issues of device-to-device (D2D) communications in heterogeneous networks. To minimize the total transmitted power, an approach based on Q-learning together with adaptive  ɛ -greedy  is proposed to optimize the connection of user equipment (UE) with base station (BS) or access point (AP). The proposed adaptive  ɛ -greedy  can conduct the adequate exploration and exploitation operations for effective optimization. Simulation results indicate that in the single-cell scenario, the proposed method can attain performance close to the best solution.",
+    "citation_count": "0",
+    "year": "2023/12/01",
+    "authors": [
+        {
+            "name": "Shu-Hung Lee",
+            "country": ""
+        },
+        {
+            "name": "Xiao-Pei Shi",
+            "country": ""
+        },
+        {
+            "name": "Tan-Hsu Tan",
+            "country": ""
+        },
+        {
+            "name": "Yu-Lin Lee",
+            "country": ""
+        },
+        {
+            "name": "Yung-Fa Huang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

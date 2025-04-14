@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217300378",
+    "title": "Multimodal optimization problem in contamination source determination of water supply networks",
+    "abstract": "It makes great economic losses and bad social influence for our country about some accidental  drinking water  contamination and vicious attacks to water  distribution networks . In terms of solving the problems of  drinking water  contamination caused by accidental contaminant event in  water supply  network, used the techniques just like sensor network which could determinate the  source location  to isolate the contaminated area and minimized its hazards. Previous studies have shown that the contamination source determination problem model can be utilized to convert the contamination source determination problem to an  unimodal function   optimization problem . However, we notice that it is a  multimodal function  optimization problem in essence and the number of its solution has non-uniqueness feature. In this paper, we first modified the problem model with formulate the threshold value based on the previous works and proposed the niching  genetic algorithm  calculate multiple contamination sources, and provide the possibility for screening the true contamination source. Furthermore, this paper applies different distribution networks verify the validity after the threshold formulation as well as the effectiveness of algorithm from various aspects.",
+    "citation_count": "43",
+    "year": "2019/06/01",
+    "authors": [
+        {
+            "name": "Xuesong Yan",
+            "country": ""
+        },
+        {
+            "name": "Jing Zhao",
+            "country": ""
+        },
+        {
+            "name": "Chengyu Hu",
+            "country": ""
+        },
+        {
+            "name": "Deze Zeng",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

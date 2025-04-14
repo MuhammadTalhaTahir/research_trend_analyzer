@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885610000600",
+    "title": "Smoothing of optical flow using robustified diffusion kernels",
+    "abstract": "This paper proposes a new optical flow smoothing methodology combining vector diffusion and robust statistics. Vector smoothing using diffusion preserves moving object boundaries and the main motion discontinuities. According to a study provided in the paper, diffusion does not remove the outliers but spreads them out, introducing a bias in the neighbourhood. In this paper robust statistics operators such as the median and alpha-trimmed mean are considered for robustifying the diffusion kernels. The robust diffusion smoothing process is extended to 3-D lattices as well. The proposed algorithms are applied for smoothing artificially generated vector fields as well as the optical flow estimated from image sequences.",
+    "citation_count": "17",
+    "year": "2010/12/01",
+    "authors": [
+        {
+            "name": "Ashish Doshi",
+            "country": ""
+        },
+        {
+            "name": "Adrian G. Bors",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,21 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-015-9867-9",
+    "title": "Pseudo-automatic beam orientations in multi-criteria intensity-modulated radiation therapy",
+    "abstract": "Selecting a number of beams and their orientations in intensity-modulated radiation therapy (IMRT) is an important, but large-scale NP-hard optimization problem. Unfortunately, the quality of beam directions depends heavily on its corresponding beam intensity profiles. Usually, the number of beams is manually pre-determined and passed for a stochastic selector which optimizes beam orientations, and then a single objective inverse treatment planning algorithm is used for optimizing beam intensity profiles. The overall time needed to solve the inverse planning for every random selection of beam orientations becomes excessive. Therefore selecting an appropriate set of beam directions in IMRT is still a time-consuming manual trial-and-error search procedure that depends on intuition and empirical knowledge. During the last decade considerable progress has been made in optimizing beam intensity profiles by using multi-objective inverse treatment planning. Multi-criteria optimization results in a variety of beam intensity profiles for every selection of beam orientations. The planner then needs to search, manually, through this variety of solutions to decide upon an optimal plan. This work takes advantage of this human interaction to present a two-phase algorithm in which both processes of beam orientations and multi-criteria optimization with human guidelines cooperate together to determine a suitable number of beams and their orientations in a clinically practical time-slot. To illustrate the efficiency of the algorithm it has been applied to one artificial example and three real clinical cases. The results show that using the algorithm, both target coverage and sparing critical structures were significantly improved compared to the standard equally spaced beam plans. Moreover in some cases the algorithm suggested plans with one beam fewer than the equally spaced beam plans without compromising the quality of the treatment plan.",
+    "citation_count": 23,
+    "year": "2016/05",
+    "authors": [
+        {
+            "name": "Azizi-Sultan, Ahmad-Saher",
+            "country": "Saudi Arabia"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

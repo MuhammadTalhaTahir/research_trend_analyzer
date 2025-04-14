@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-010-0254-6",
+    "title": "Temporal Accountability and Anonymity in Medical Sensor Networks",
+    "abstract": "The increasing number of elderly patients in the world has lead to various new appliances and technologies in the modern tele-healthcare platform. One such application is the medical sensor network (MSN). In this application, patients are deployed with certain medical sensors and wearable devices and are remotely monitored by professionals. Thus, seeing a doctor in person is no longer the only option for those in need of medical care. Since it is also an economical way to reduce healthcare costs and save medical resources, we expect a robust, reliable, and scalable MSN in the near future. However, the time signal and temporal history in the current MSN are vulnerable due to unsecured infrastructure and transmission strategies. Meanwhile, the MSN may leak patients’ identifications or other sensitive information that violates personal privacy. To make sure that the critical time signal is accountable, we propose a new architecture for the MSN that is capable of temporal accountability. In addition, it also preserves privacy ability via a Crowds anonymous system. The analysis results clearly indicate the advantages of being our proposed methods in terms of low-cost and reliable and having scalable features.",
+    "citation_count": 55,
+    "year": "2011/12",
+    "authors": [
+        {
+            "name": "Liu, Jing",
+            "country": "USA"
+        },
+        {
+            "name": "Xiao, Yang",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

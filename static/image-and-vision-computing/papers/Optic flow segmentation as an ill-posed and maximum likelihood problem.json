@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/0262885685900034",
+    "title": "Optic flow segmentation as an ill-posed and maximum likelihood problem",
+    "abstract": "It is shown how the segmentation problem encountered in the interpretation of visual motion, for example, may be formulated as an ill-posed problem using the notion of maximum likelihood to provide a general framework and guide the choice of regularizing constraints. The statistical consequences of the segmentation procedure proposed are examined and it is shown how the notion of maximum likelihood leads to a natural way of estimating parameters in the optimization function, especially the noise levels to be assigned. A minimum entropy regularization constraint is then used to ensure that the interpretation of the visual data elicits as much spatial structure as possible. It is shown by means of a ‘toy’ optic flow example how this is achieved when there are several parameter dimensions over which to segment.",
+    "citation_count": "10",
+    "year": "1985/11/01",
+    "authors": [
+        {
+            "name": "BF Buxton",
+            "country": ""
+        },
+        {
+            "name": "DW Murray",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

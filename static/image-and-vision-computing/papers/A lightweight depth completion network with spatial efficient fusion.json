@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624004402",
+    "title": "A lightweight depth completion network with spatial efficient fusion",
+    "abstract": "Depth completion is a low-level task rebuilding the dense depth from a sparse set of measurements from LiDAR sensors and corresponding RGB images. Current state-of-the-art depth completion methods used complicated network designs with much computational cost increase, which is incompatible with the realistic-scenario limited computational environment. In this paper, we explore a lightweight and efficient depth completion model named Light-SEF. Light-SEF is a two-stage framework that introduces local fusion and global fusion modules to extract and fuse local and global information in the sparse LiDAR data and RGB images. We also propose a unit convolutional structure named spatial efficient block (SEB), which has a lightweight design and extracts spatial features efficiently. As the unit block of the whole network, SEB is much more cost-efficient compared to the baseline design. Experimental results on the KITTI benchmark demonstrate that our Light-SEF achieves significant declines in computational cost (about 53% parameters, 50% FLOPs & MACs, and 36% running time) while showing competitive results compared to state-of-the-art methods.",
+    "citation_count": "0",
+    "year": "2025/01/01",
+    "authors": [
+        {
+            "name": "Zhichao Fu",
+            "country": ""
+        },
+        {
+            "name": "Anran Wu",
+            "country": ""
+        },
+        {
+            "name": "Zisong Zhuang",
+            "country": ""
+        },
+        {
+            "name": "Xingjiao Wu",
+            "country": ""
+        },
+        {
+            "name": "Jun He",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

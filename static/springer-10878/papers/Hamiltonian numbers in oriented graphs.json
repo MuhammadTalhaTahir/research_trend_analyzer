@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-017-0141-1",
+    "title": "Hamiltonian numbers in oriented graphs",
+    "abstract": "A hamiltonian walk of a digraph is a closed spanning directed walk with minimum length in the digraph. The length of a hamiltonian walk in a digraph D is called the hamiltonian number of D, denoted by h(D). In Chang and Tong (J Comb Optim 25:694–701, 2013), Chang and Tong proved that for a strongly connected digraph D of order n, $$n\\le h(D)\\le \\lfloor \\frac{(n+1)^2}{4} \\rfloor $$ , and characterized the strongly connected digraphs of order n with hamiltonian number $$\\lfloor \\frac{(n+1)^2}{4} \\rfloor $$ . In the paper, we characterized the strongly connected digraphs of order n with hamiltonian number $$\\lfloor \\frac{(n+1)^2}{4} \\rfloor -1$$ and show that for any triple of integers n, k and t with $$n\\ge 5$$ , $$n\\ge k\\ge 3$$ and $$t\\ge 0$$ , there is a class of nonisomorphic digraphs with order n and hamiltonian number $$n(n-k+1)-t$$ .",
+    "citation_count": 19,
+    "year": "2017/11",
+    "authors": [
+        {
+            "name": "Tong, Li-Da",
+            "country": "Taiwan"
+        },
+        {
+            "name": "Yang, Hao-Yu",
+            "country": "Taiwan"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

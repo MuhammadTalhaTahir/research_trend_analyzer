@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Regularization techniques for high-dimensional data analysis",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885617300549"
+    },
+    {
+        "title": "Going deeper into action recognition: A survey",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885617300343"
+    },
+    {
+        "title": "Non-convex regularized self-representation for unsupervised feature selection",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885616302049"
+    },
+    {
+        "title": "Random Multi-Graphs: A semi-supervised learning framework for classification of high dimensional data",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885616301305"
+    },
+    {
+        "title": "Semi-supervised learning through adaptive Laplacian graph trimming",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885616302037"
+    },
+    {
+        "title": "Discriminative transfer learning with sparsity regularization for single-sample face recognition",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885616301317"
+    },
+    {
+        "title": "A novel companion objective function for regularization of deep convolutional neural networks",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885616302025"
+    },
+    {
+        "title": "Group sparse autoencoder",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885617300136"
+    },
+    {
+        "title": "Person re-identification with block sparse recovery",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885616302050"
+    },
+    {
+        "title": "Kinship verification using neighborhood repulsed correlation metric learning",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885616301330"
+    },
+    {
+        "title": "Robust uncalibrated stereo rectification with constrained geometric distortions (USR-CGD)",
+        "url": "https://www.sciencedirect.com/science/article/pii/S026288561730001X"
+    },
+    {
+        "title": "Robust scene matching method based on sparse representation and iterative correction",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885616301998"
+    },
+    {
+        "title": "Visual tracking with structured patch-based model",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885617300112"
+    },
+    {
+        "title": "Learning spatially regularized similarity for robust visual tracking",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885616302062"
+    },
+    {
+        "title": "Cell tracking using deep neural networks with multi-task learning",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885616302001"
+    },
+    {
+        "title": "Plant cell tracking using Kalman filter based local graph matching",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885616301299"
+    },
+    {
+        "title": "Multimedia news QA: Extraction and visualization integration with multiple-source information",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885617300124"
+    },
+    {
+        "title": "A novel correspondence-based face-hallucination method",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885617300021"
+    }
+]

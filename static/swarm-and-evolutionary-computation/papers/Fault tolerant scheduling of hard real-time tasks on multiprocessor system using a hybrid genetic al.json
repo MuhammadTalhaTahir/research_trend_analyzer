@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650213000576",
+    "title": "Fault tolerant scheduling of hard real-time tasks on multiprocessor system using a hybrid genetic algorithm",
+    "abstract": "Conventional methods for fault-tolerant scheduling of real-time tasks based on traditional heuristic approach offer poor performance and inefficient system utilization. The primary-backup (PB) approach is often used as a fault-tolerant scheduling technique to guarantee RT tasks to meet their deadline despite the presence of fault. We propose a novel  scheduling algorithm  using optimization approach based on  genetic algorithm  (GA) hybridized with knowledge from the real-time  task scheduling  domain for providing fault-tolerance (FT) in  multiprocessor  environment. Exhaustive simulation reveals that the new GA based primary-backup fault-tolerant scheduling (PBFTS) approach outperforms other fault-tolerant scheduling schemes in terms of system utilization and efficiency.",
+    "citation_count": "30",
+    "year": "2014/02/01",
+    "authors": [
+        {
+            "name": "Abhaya Kumar Samal",
+            "country": ""
+        },
+        {
+            "name": "Rajib Mall",
+            "country": ""
+        },
+        {
+            "name": "Chittaranjan Tripathy",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

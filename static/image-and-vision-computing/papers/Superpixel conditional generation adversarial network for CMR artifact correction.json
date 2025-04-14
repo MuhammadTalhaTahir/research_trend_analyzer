@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002166",
+    "title": "Superpixel conditional generation adversarial network for CMR artifact correction",
+    "abstract": "Cardiac Magnetic Resonance (CMR) is widely used in diagnosing cardiac diseases for its excellent contrast of cardiovascular features. However, due to the long imaging time of CMR scanning, the patient's respiration, limb shaking, and heart beating will lead to a certain degree of motion artifacts in the image, seriously degrade the image quality and affect the doctor's clinical judgment. This paper proposes a superpixel conditional Generative Adversarial Network (spcGAN) based on a conditional Generative Adversarial Network (cGAN) by applying superpixel to both generator and  discriminator  parts. In the generator section, a generator network based on superpixel segmentation and pooling is proposed for feature extraction at the superpixel level to enhance the reconstruction of image edge texture and structural details. In the  discriminator  part, superpixel pooling is used to construct a superpixel discriminator. It is fused with the traditional convolutional discriminator to produce a superpixel-based dual discriminator, which makes the discriminator consider the image's local structure and details. Based on the generator and discriminator structure proposed in this paper, superpixel pooling and edge texturing loss functions are designed for optimization. Adequate ablation experiments and comparison experiments are conducted in terms of experimental results. Three types of objective metrics, Peak Signal-to-Noise Ratio (PSNR), Structural Similarity (SSIM), and Focus Measurement (Tenengrad), were selected as references. The experimental results show that the effect of removing motion artifacts from authentic CMR images on the three datasets is most significant in the dataset produced in this paper. The results obtained from the fusion between the designed generator, discriminator, and loss function are the most obvious. Compared with the existing methods, the spcGAN proposed in this paper performs better.",
+    "citation_count": "0",
+    "year": "2024/09/01",
+    "authors": [
+        {
+            "name": "Yueming Zhu",
+            "country": ""
+        },
+        {
+            "name": "Wei Zheng",
+            "country": ""
+        },
+        {
+            "name": "Zepeng Ma",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

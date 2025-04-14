@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650222001493",
+    "title": "Variable neighborhood search for a new practical dynamic pickup and delivery problem",
+    "abstract": "In today's manufacturers, a large number of cargoes like materials, semi-finished products and finished products have to be delivered among factories during the manufacturing process. Thus, this paper first introduces a new Dynamic  Pickup and Delivery Problem  (DPDP), which has more practical constraints like dock, time windows, capacity and last-in-first-out loading. This DPDP model can fit the practical scenarios more, which cannot be directly solved by the existing  optimization algorithms . To solve this problem, this paper proposes a new  V ariable  N eighborhood  S earch Algorithm with  M ultiple  local search  strategies and an  E fficient disturbance, called VNSME. Specifically, each new optimization period is activated when new orders are coming, in which a  variable neighborhood search  is used to find the best solution for this period. At each start of a period, the best solution found in the previous period is reconstructed as an initial solution for the new period by using exhaustion and cheapest insertion heuristics. Next, four different local search strategies (couple-exchange*, block-exchange*, block-relocate* and multi-relocate*) are designed to search around the initial solution, and then the currently found best solution is further perturbed by a modified 2-opt-L* method. At last, the performance of VNSME is studied on the real-world DPDP benchmarks offered by Huawei in the competition at ICAPS 2021, where the advantages of VNSME are confirmed in the competition as its final score gets the first rank among 153 teams.",
+    "citation_count": "16",
+    "year": "2022/12/01",
+    "authors": [
+        {
+            "name": "Junchuang Cai",
+            "country": ""
+        },
+        {
+            "name": "Qingling Zhu",
+            "country": ""
+        },
+        {
+            "name": "Qiuzhen Lin",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

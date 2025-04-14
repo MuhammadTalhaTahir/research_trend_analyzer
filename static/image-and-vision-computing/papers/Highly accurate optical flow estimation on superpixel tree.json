@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885616301020",
+    "title": "Highly accurate optical flow estimation on superpixel tree",
+    "abstract": "Formulated as a pixel-labeling problem,  optical flow estimation  using efficient edge-aware filtering has shown great success recently. However, the typical challenge that restricts the range of applicability of this method is the  computational complexity  mainly caused by the testing of every hypothetical label in the whole label space, which is usually large in an optical flow estimation. In this paper, we present an effective and efficient two-level filter-based optical flow algorithm connected by an accurate non-local matching. With the key observation that the optical flow of the pixels from the same compact  superpixels  is highly coherent, we propose a novel superpixel tree representation of an image to obtain an accurate superpixel flow. We find that if filtered separately, the candidate label space of the pixels from each superpixel is drastically reduced with the known superpixel flow. We also suggest a refined label selection strategy that is more accurate than the usual winner-takes-all manner. The proposed method, called Highly Accurate flow on Superpixel Tree (HastFlow) is validated on Middlebury and MPI-Sintel, and outperforms all filter-based methods both in accuracy and efficiency.",
+    "citation_count": "19",
+    "year": "2016/08/01",
+    "authors": [
+        {
+            "name": "Yinlin Hu",
+            "country": ""
+        },
+        {
+            "name": "Rui Song",
+            "country": ""
+        },
+        {
+            "name": "Yunsong Li",
+            "country": ""
+        },
+        {
+            "name": "Peng Rao",
+            "country": ""
+        },
+        {
+            "name": "Yangli Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

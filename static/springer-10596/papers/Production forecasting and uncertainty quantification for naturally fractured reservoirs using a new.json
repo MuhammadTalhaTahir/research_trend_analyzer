@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-017-9633-4",
+    "title": "Production forecasting and uncertainty quantification for naturally fractured reservoirs using a new data-space inversion procedure",
+    "abstract": "A new method for production forecasting and uncertainty quantification, applicable for realistic naturally fractured reservoirs (NFRs) represented as general discrete-fracture-matrix (DFM) models, is developed and applied. The forecasting procedure extends a recently developed data-space inversion (DSI) technique that generates production predictions using only prior-model simulation results and observed data. The method does not provide posterior (history-matched) geological models. Rather, the DSI method treats production data as random variables. The prior distribution is estimated from the flow simulations performed on prior geological models, and the posterior data-variable distribution is sampled using a data-space randomized maximum likelihood method. The DSI treatment requires the parameterization of data variables to render them approximately multivariate Gaussian. The complex production data considered here (resulting from frequent well shut-ins) is treated using a new reparameterization that involves principal component analysis combined with histogram transformation. The DSI method is first applied for two-dimensional DFM systems involving multiple fracture scenarios. In this case, comparison with a rejection sampling procedure is possible, and we show that the DSI results for P10, P50, and P90 statistics are consistent with rejection sampling results. The DSI method is then applied to a realistic NFR that has undergone 15 years of primary production and is under consideration for waterflooding. To construct the DSI representation, around 400 prior DFM models, which correspond to different geologic concepts and properties, are simulated. Two different reference ‘true’ models, along with different data-assimilation durations, are considered to evaluate the performance of the DSI procedure. In all cases, the DSI predictions are shown to be consistent with the forecasts from the ‘true’ model and to provide reasonable quantification of forecast uncertainty.",
+    "citation_count": 34,
+    "year": "2017/12",
+    "authors": [
+        {
+            "name": "Sun, Wenyue",
+            "country": "USA"
+        },
+        {
+            "name": "Hui, Mun-Hong",
+            "country": "USA"
+        },
+        {
+            "name": "Durlofsky, Louis J.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

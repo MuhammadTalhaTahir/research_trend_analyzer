@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S138376212100237X",
+    "title": "Bus-contention aware WCRT analysis for the 3-phase task model considering a work-conserving bus arbitration scheme",
+    "abstract": "Nowadays  multicore processors  are used in most modern systems. However, their applicability in systems with stringent timing requirements is still ongoing research. The main reason behind this is the difficulty of ensuring the timing correctness of tasks executing on such systems as they comprise a number of shared hardware resources, as for instance, caches, memory bus, and the main memory. Concurrent accesses to any of these  shared resources  can generate uncontrolled interference, which complicates the estimations of the worst-case execution time and the worst-case response time of tasks. The use of the 3-phase task execution model helps in upper bounding the contention due to the sharing of bus/main memory in  multicore systems . This model divides the execution time of tasks into distinct memory and execution phases, where tasks can only access the bus/main memory during their memory phases. This makes bus and  memory access patterns  of tasks predictable by enabling a precise computation of bus/memory contention. In this work, we show how the bus contention can be computed for the 3-phase task model considering a round-robin-based arbitration policy at the memory bus. We differ from existing works that analyze the time-division multiple access and first-come-first-serve-based bus arbitration policies. First, we present a solution that models the bus contention that can be suffered/caused by tasks executing on the same/remote cores of a multicore system under an RR-based bus arbitration scheme. Then, the impact of the resulting bus contention on taskset schedulability is evaluated. Experimental results show that our proposed RR-based bus contention analysis can improve taskset schedulability by up to 100 percentage points when compared to a state-of-the-art TDMA-based analysis, and up to 40 percentage points when compared to the state-of-the-art FCFS-based bus contention analysis.",
+    "citation_count": "7",
+    "year": "2022/01/01",
+    "authors": [
+        {
+            "name": "Jatin Arora",
+            "country": ""
+        },
+        {
+            "name": "Cláudio Maia",
+            "country": ""
+        },
+        {
+            "name": "Syed Aftab Rashid",
+            "country": ""
+        },
+        {
+            "name": "Geoffrey Nelissen",
+            "country": ""
+        },
+        {
+            "name": "Eduardo Tovar",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

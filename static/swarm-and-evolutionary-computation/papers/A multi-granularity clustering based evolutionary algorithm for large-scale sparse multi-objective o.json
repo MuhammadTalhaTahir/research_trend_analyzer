@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223002250",
+    "title": "A multi-granularity clustering based evolutionary algorithm for large-scale sparse multi-objective optimization",
+    "abstract": "Sparse multi-objective  optimization problems  (SMOPs) frequently exist in a variety of disciplines such as  machine learning , economy, and signal processing.  Evolutionary algorithms  have demonstrated their proficiency in optimizing complex problems in recent years, although their performance often deteriorates significantly on large-scale SMOPs. In an effort to accelerate the convergence, this paper suggests a multi-granularity variable  clustering method  for evolutionary algorithms. This method estimates the sparse distribution of decision variables at each generation and partitions them into a varying number of layers, each with a distinct probability of being zero. These clustering outcomes inspire the development of a  crossover operator  and a  mutation operator , which prove adept at efficiently generating  sparse solutions . Experimental evaluations on both benchmark and real-world SMOPs confirm that an evolutionary algorithm incorporating the new crossover operator and  mutation operator  converges more rapidly than its state-of-the-art counterparts.",
+    "citation_count": "19",
+    "year": "2024/02/01",
+    "authors": [
+        {
+            "name": "Ye Tian",
+            "country": ""
+        },
+        {
+            "name": "Shuai Shao",
+            "country": ""
+        },
+        {
+            "name": "Guohui Xie",
+            "country": ""
+        },
+        {
+            "name": "Xingyi Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

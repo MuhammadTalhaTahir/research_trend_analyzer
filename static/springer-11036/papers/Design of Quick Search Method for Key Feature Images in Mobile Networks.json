@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-022-02077-4",
+    "title": "Design of Quick Search Method for Key Feature Images in Mobile Networks",
+    "abstract": "In order to promote the efficiency of image retrieval in mobile network and realize the fast query of key images, this paper designs a quick search method of key feature images in mobile networks. The key features of retrieved images are extracted by rotation invariant local binary method. According to the extracted key features of the image, the query target image is processed by coarse quantization then the distance of the key features of the image is calculated and retrieved. Finally, non-exhaustive search method is used to achieve quick search of key feature images in mobile network. Experimental results show that this method can effectively extract specific images, The desired image can be quickly searched by reserved key features, and the F-score value of quick search is higher than 0.9.",
+    "citation_count": 25,
+    "year": "2022/12",
+    "authors": [
+        {
+            "name": "Zheng, Jingya",
+            "country": "China"
+        },
+        {
+            "name": "Woźniak, Marcin",
+            "country": "Poland"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

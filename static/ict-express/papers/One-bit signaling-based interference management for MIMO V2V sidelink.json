@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959522000601",
+    "title": "One-bit signaling-based interference management for MIMO V2V sidelink",
+    "abstract": "Massive multiple-input multiple-output can significantly increase the system capacity by allowing vehicle-to-infrastructure (V2I) and vehicle-to-vehicle (V2V) networks to share the radio resource pool, if the inter-network interference is constrained. However, in order to control the inter-network interference, it is necessary to exchange channel state information (CSI) between the V2I and V2V networks, which requires a huge amount of signaling resources. This paper proposes an one-bit signaling-based interference management scheme to reduce the signaling overhead while controlling the interference from the V2V network to the V2I network.",
+    "citation_count": "0",
+    "year": "2022/12/01",
+    "authors": [
+        {
+            "name": "Yujin Nam",
+            "country": ""
+        },
+        {
+            "name": "Jaewoo So",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,42 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762118303527",
+    "title": "Model-based documentation of dynamicity constraints for collaborative cyber-physical system architectures: Findings from an industrial case study",
+    "abstract": "Background Collaborative cyber-physical systems form highly dynamic networks, consisting of collaborating individual systems at run-time. These networks provide functionality that goes beyond the functionality of the individual systems that are part of the network. The availability of such collaborative functionalities depends not only on the individual systems’ behaviors but also on the current morphology of the network (i.e., the architecture of the overall network that defines what kind of systems and how many systems are actually partaking in the collaboration at that moment). Aims It is of importance to thoroughly consider the possible morphologies of the network of cyber-physical systems during the development of the individual systems as these are sources for requirements as well as design decisions. These requirements and design decisions must be associated to the particular morphologies they are applicable to in order to ensure traceability and  comprehensibility  between the morphology of the network of cyber-physical systems and the individual systems. Hence, we aim at defining an orthogonal model which allows to document dynamicity constraints and therefore restrain the potential morphologies a network can take. Method This paper contributes results from an exploratory  case study  conducted in the industry automation domain. In the case study, an existing  variability modeling  approach was applied to the development of a network of autonomous transport robots. Results Based on the variability modeling approach an orthogonal dynamicity constrained model was defined and evolved to fit industry's needs. Conclusions Results show that the use of an orthogonal model for dynamicity constraints can improve the development of cyber-physical systems designed to participate in collaborative networks.",
+    "citation_count": "23",
+    "year": "2019/08/01",
+    "authors": [
+        {
+            "name": "Jennifer Brings",
+            "country": ""
+        },
+        {
+            "name": "Marian Daun",
+            "country": ""
+        },
+        {
+            "name": "Torsten Bandyszak",
+            "country": ""
+        },
+        {
+            "name": "Vanessa Stricker",
+            "country": ""
+        },
+        {
+            "name": "Thorsten Weyer",
+            "country": ""
+        },
+        {
+            "name": "Elham Mirzaei",
+            "country": ""
+        },
+        {
+            "name": "Martin Neumann",
+            "country": ""
+        },
+        {
+            "name": "Jan Stefan Zernickel",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

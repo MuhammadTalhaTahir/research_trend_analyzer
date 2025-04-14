@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-014-0413-7",
+    "title": "Fuzzy segmentation for finger vessel pattern extraction of infrared images",
+    "abstract": "In this paper, an algorithm for robust finger vessel pattern extraction from infrared images is presented based on image processing, edge suppression, fuzzy enhancement, and fuzzy clustering. Initially, the brightness variations of the images are eliminated using histogram normalization and the vessel patterns are enhanced, to facilitate the separation process from other tissue parts through fuzzy clustering. Several vessel measurements and processes are applied, including the second-order local statistical information contained in the Hessian matrix and the matched filter applied in the direction of the largest curvature. Edge suppression reduces sharp brightness changes at finger borders and image contrast is non-linearly increased through fuzzy enhancement. A novel probabilistic fuzzy C-means clustering algorithm is used to derive vessels from the surrounding tissue regions using spatial information in the membership function. Therefore, as shown experimentally, better segmentation and classification rates than the standard C-means algorithm is achieved using the primitive set of features. Moreover, the segmentation results are validated using two cluster-based functions: partition coefficient and partition entropy. Over-segmentation conditions are handled using a two-stage morphological post-processing. Morphological majority filter smoothes the vessel contours and removes small isolated regions which have been misclassified as vessels. Morphological reconstruction is used to obtain outlier-free vessel pattern. The proposed algorithm is evaluated both in real and artificially created images and under different noise types and signal-to-noise ratios, giving excellent segmentation accuracy in the main vessels, even in case where strong artificial noise is used to distort the images. Furthermore, the algorithm can readily be applied in many image enhancement and segmentation applications.",
+    "citation_count": 33,
+    "year": "2015/11",
+    "authors": [
+        {
+            "name": "Vlachos, Marios",
+            "country": "Greece"
+        },
+        {
+            "name": "Dermatas, Evangelos",
+            "country": "Greece"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

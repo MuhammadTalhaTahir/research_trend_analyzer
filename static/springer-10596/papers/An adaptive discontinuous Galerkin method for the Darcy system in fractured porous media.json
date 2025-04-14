@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-022-10171-5",
+    "title": "An adaptive discontinuous Galerkin method for the Darcy system in fractured porous media",
+    "abstract": "Modeling flows in fractured porous media is important in applications. One main challenge in numerical simulation is that the flow is strongly influenced by the fractures, so that the solutions typically contain complex features, which require high computational grid resolutions. Instead of using uniformly fine mesh, a more computationally efficient adaptively refined mesh is desirable. In this paper we design and analyze a novel residual-type a posteriori error estimator for staggered DG methods on general polygonal meshes for Darcy flows in fractured porous media. The method can handle fairly general meshes and hanging nodes can be simply incorporated into the construction of the method, which is highly appreciated for adaptive mesh refinement. The reliability and efficiency of the error estmator are proved. The derivation of the reliability hinges on the stability of the continuous setting in the primal formulation. A conforming counterpart that is continuous within each bulk domain for the discrete bulk pressure is defined to facilitate the derivation of the reliability. Finally, several numerical experiments including multiple non-intersecting fractures are carried out to confirm the proposed theories.",
+    "citation_count": 62,
+    "year": "2022/12",
+    "authors": [
+        {
+            "name": "Zhao, Lina",
+            "country": "China"
+        },
+        {
+            "name": "Chung, Eric",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

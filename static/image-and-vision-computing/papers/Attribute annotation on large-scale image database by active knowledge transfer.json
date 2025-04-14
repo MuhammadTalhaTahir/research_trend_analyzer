@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885618301173",
+    "title": "Attribute annotation on large-scale image database by active knowledge transfer",
+    "abstract": "Attributes are widely used in different vision tasks. However, existing attribute resources are quite limited and most of them are not in large scale. Current attribute annotation process is generally done by human, which is expensive and time-consuming. In this paper, we propose a novel framework to perform effective attribute annotations. Based on the  common knowledge  that attributes can be shared among different classes, we leverage the benefits  of transfer learning  and active learning together to transfer knowledge from some existing small attribute databases to large-scale target databases. In order to learn more robust attribute models, attribute relationships are incorporated to assist the learning process. Using the proposed framework, we conduct extensive experiments on two large-scale image databases, i.e. ImageNet and SUN Attribute, where high quality automatic attribute annotations are obtained.",
+    "citation_count": "2",
+    "year": "2018/10/01",
+    "authors": [
+        {
+            "name": "Huajie Jiang",
+            "country": ""
+        },
+        {
+            "name": "Ruiping Wang",
+            "country": ""
+        },
+        {
+            "name": "Yan Li",
+            "country": ""
+        },
+        {
+            "name": "Haomiao Liu",
+            "country": ""
+        },
+        {
+            "name": "Shiguang Shan",
+            "country": ""
+        },
+        {
+            "name": "Xilin Chen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

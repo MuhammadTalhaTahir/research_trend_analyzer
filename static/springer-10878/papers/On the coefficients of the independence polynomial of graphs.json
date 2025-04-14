@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-016-0037-5",
+    "title": "On the coefficients of the independence polynomial of graphs",
+    "abstract": "An independent set of a graph G is a set of pairwise non-adjacent vertices. Let $$i_k = i_k(G)$$ be the number of independent sets of cardinality k of G. The independence polynomial $$I(G, x)=\\sum _{k\\geqslant 0}i_k(G)x^k$$ defined first by Gutman and Harary has been the focus of considerable research recently, whereas $$i(G)=I(G, 1)$$ is called the Merrifield–Simmons index of G. In this paper, we first proved that among all trees of order n,&nbsp; the kth coefficient $$i_k$$ is smallest when the tree is a path, and is largest for star. Moreover, the graph among all trees of order n with diameter at least d whose all coefficients of I(G,&nbsp;x) are largest is identified. Then we identify the graphs among the n-vertex unicyclic graphs (resp. n-vertex connected graphs with clique number $$\\omega $$ ) which simultaneously minimize all coefficients of I(G,&nbsp;x), whereas the opposite problems of simultaneously maximizing all coefficients of I(G,&nbsp;x) among these two classes of graphs are also solved respectively. At last we characterize the graph among all the n-vertex connected graph with chromatic number $$\\chi $$ (resp. vertex connectivity $$\\kappa $$ ) which simultaneously minimize all coefficients of I(G,&nbsp;x). Our results may deduce some known results on Merrifield–Simmons index of graphs.",
+    "citation_count": 24,
+    "year": "2017/05",
+    "authors": [
+        {
+            "name": "Li, Shuchao",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Liu, Lin",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Wu, Yueyu",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

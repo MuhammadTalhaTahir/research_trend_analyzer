@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-013-9624-x",
+    "title": "Complete forcing numbers of catacondensed hexagonal systems",
+    "abstract": "Let G be a graph with edge set E(G) that admits a perfect matching M. A forcing set of M is a subset of M contained in no other perfect matchings of G. A global forcing set of $$G$$ , introduced by Vukičević et al., is a subset of $$E(G)$$ on which there are distinct restrictions of any two different perfect matchings of $$G$$ . Combining the above “forcing” and “global” ideas, we introduce and define a complete forcing set of G as a subset of $$E(G)$$ on which the restriction of any perfect matching $$M$$ of $$G$$ is a forcing set of $$M$$ . The minimum cardinality of complete forcing sets is the complete forcing number of $$G$$ . First we establish some initial results about these two novel concepts, including a criterion for a complete forcing set, and comparisons between the complete forcing number and global forcing number. Then we give an explicit formula for the complete forcing number of a hexagonal chain. Finally a recurrence relation for the complete forcing number of a catacondensed hexagonal system is derived.",
+    "citation_count": 25,
+    "year": "2015/05",
+    "authors": [
+        {
+            "name": "Xu, Shou-Jun",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Zhang, Heping",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Cai, Jinzhuan",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

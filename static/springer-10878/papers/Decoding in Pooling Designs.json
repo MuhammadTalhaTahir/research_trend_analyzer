@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1023/B:JOCO.0000017387.34879.58",
+    "title": "Decoding in Pooling Designs",
+    "abstract": "Given n clones with some positive ones, the pooling design is a non-adapted algorithm to identify all positive clones. Given a pooling design and outcomes from all pools, how to determine each clone being positive or not. We study this decoding problem in this paper. Especially, we give a new decoding method for error-correcting pooling design with (d,k)-disjunct matrix.",
+    "citation_count": 4,
+    "year": "2003/12",
+    "authors": [
+        {
+            "name": "Wu, Weili",
+            "country": "USA"
+        },
+        {
+            "name": "Li, Chungui",
+            "country": "USA"
+        },
+        {
+            "name": "Wu, Xiaoyu",
+            "country": "USA"
+        },
+        {
+            "name": "Huang, Xiao",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885616301901",
+    "title": "Statistical non-rigid ICP algorithm and its application to 3D face alignment",
+    "abstract": "The problem of fitting a 3D facial model to a 3D mesh has received a lot of attention the past 15–20years. The majority of the techniques fit a general model consisting of a simple parameterisable surface or a mean 3D facial shape. The drawback of this approach is that is rather difficult to describe the non-rigid aspect of the face using just a single facial model. One way to capture the 3D facial deformations is by means of a statistical 3D model of the face or its parts. This is particularly evident when we want to capture the deformations of the  mouth region . Even though statistical models of face are generally applied for modelling facial intensity, there are few approaches that fit a statistical model of 3D faces. In this paper, in order to capture and describe the non-rigid nature of  facial surfaces  we build a part-based statistical model of the 3D facial surface and we combine it with non-rigid  iterative closest point algorithms . We show that the proposed algorithm largely outperforms state-of-the-art algorithms for 3D face fitting and alignment especially when it comes to the description of the mouth region.",
+    "citation_count": "45",
+    "year": "2017/02/01",
+    "authors": [
+        {
+            "name": "Shiyang Cheng",
+            "country": ""
+        },
+        {
+            "name": "Ioannis Marras",
+            "country": ""
+        },
+        {
+            "name": "Stefanos Zafeiriou",
+            "country": ""
+        },
+        {
+            "name": "Maja Pantic",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885622002426",
+    "title": "Single stage architecture for improved accuracy real-time object detection on mobile devices",
+    "abstract": "YOLOv4-tiny is one of the most representative lightweight one-stage object detection algorithms. In this paper, we propose Mini-YOLOv4-tiny, an improved lightweight one-stage object detector based on the YOLOv4-tiny. Typical compression techniques address both memory optimization and computational complexity, but compromise model accuracy. For model compression and speedup, we selectively cut the width of the last convolutional layers. To increase model performance, we propose several improvements with minimal impact on memory and inference time. First, we replace the Leaky-RELU activation function with Mish and fine-tune the data augmentation parameters. To enlarge the receptive field of the network, we propose a modified Spatial Pyramid Pooling module with a reduced number of convolutional blocks and filters, thus adding fewer Floating Point Operations (FLOPs) during the inference process. We performed experiments on the PASCAL VOC and MS COCO datasets and evaluated the inference speed on NVidia Jetson Nano and Raspberry PI 4 (model B). The experimental results show that our methods achieve 72.1%  [email protected]  and 23.4% mAP@ [0.5:0.95] on the PASCAL VOC and MS COCO datasets, achieving state-of-the-art results among lightweight object detectors. Compared with YOLOv4-tiny on MS COCO, our method has 37% fewer parameters and requires 19% fewer FLOPs, while improving the Intersection over Union (IoU) by 4.02% and the average precision (interval 0.50:0.95) by 2.8%. On PASCAL VOC, Mini-YOLOv4-tiny with an input size of 288 improves  [email protected]  by 0.3%, while requiring 61% fewer FLOPS and running almost twice as fast.",
+    "citation_count": "0",
+    "year": "2023/02/01",
+    "authors": [
+        {
+            "name": "Dan-Sebastian Bacea",
+            "country": ""
+        },
+        {
+            "name": "Florin Oniga",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

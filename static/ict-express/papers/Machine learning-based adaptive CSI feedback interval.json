@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959521001545",
+    "title": "Machine learning-based adaptive CSI feedback interval",
+    "abstract": "The channel state information (CSI) is essential for the base station (BS) to schedule user equipments (UEs) and efficiently manage the radio resources. Hence, the BS requests UEs to regularly feed back the CSI. However, frequent CSI reporting causes large signaling overhead. To reduce the feedback overhead, we propose two machine learning-based approaches to adjust the CSI feedback interval. We use a deep neural network and reinforcement learning (RL) to decide whether an UE feeds back the CSI. Simulation results show that the RL-based approach achieves the lowest mean squared error while reducing the number of CSI feedback transmissions.",
+    "citation_count": "0",
+    "year": "2022/12/01",
+    "authors": [
+        {
+            "name": "Seunghui Hong",
+            "country": ""
+        },
+        {
+            "name": "Sanguk Jo",
+            "country": ""
+        },
+        {
+            "name": "Jaewoo So",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

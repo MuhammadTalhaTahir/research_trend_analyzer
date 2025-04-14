@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-022-10167-1",
+    "title": "Covariogram ranges for approximate global sensitivity analysis",
+    "abstract": "Sensitivity analysis provides information to understand response models and helps make better decisions in many fields, including the petroleum and mining industries. A new approximate method for sensitivity analysis through extracting covariogram ranges is proposed in this paper. In this method, the covariogram range will be treated the same as the variogram range, and each factor in the response model will be looked as a separate coordinate in a pseudo-spatial space. The result indicates that the covariogram ranges calculated in this space for each variable have a strong relationship with the main effect sensitivity index in variance-based method, that is, a longer range has less sensitivity. Thus, the sensitivity of each factor is accessible through covariogram range calculation, which is a unique approach to sensitivity analysis compared to existing approaches. This approach provides a new perspective of understanding global sensitivity. Furthermore, a modified covariogram fitting algorithm is put forward to calculate the ranges through optimization. This iterative algorithm minimizes the squared error between the modified experimental covariogram and Gaussian covariogram model, which is useful in a high dimension with sparse sampling. The simulated data are also used to validate the automatic covariogram fitting, and the optimized ranges are very close to the true ranges even with a small sample size. Finally, this method is successfully applied in the parameter sensitivity analysis of reservoir simulation, and limitations or considerations for the practical application have been discussed.",
+    "citation_count": 31,
+    "year": "2022/12",
+    "authors": [
+        {
+            "name": "Yang, Di",
+            "country": "Canada"
+        },
+        {
+            "name": "Li, Yupeng",
+            "country": "Canada"
+        },
+        {
+            "name": "Deutsch, Clayton V.",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

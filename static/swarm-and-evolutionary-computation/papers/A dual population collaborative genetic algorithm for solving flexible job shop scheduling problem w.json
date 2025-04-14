@@ -1,0 +1,38 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224000762",
+    "title": "A dual population collaborative genetic algorithm for solving flexible job shop scheduling problem with AGV",
+    "abstract": "With the increase in labor costs and the development of manufacturing automation technology, automatic guided vehicle (AGV) is widely used in various flexible workshop scenarios. The integrated scheduling of processing machines and AGV is of great significance in real-world workshop production. This article studies the integration problem of flexible job shop scheduling problem (FJSP) and AGV with minimizing the makespan, and proposes a novel mixed integer linear programming (MILP) model and a dual population collaborative genetic algorithm (DCGA). In DCGA, a two-layer encoding strategy based on machine selection and operation sequencing is used. Two decoding methods are designed to determine AGV selection, and each population uses a decoding method. Moreover, a population collaboration operation is designed. The feasibility and effectiveness of the MILP model and DCGA are verified through experimental simulation. Specifically, the DCGA improves 18 current best solutions for benchmarks in the existing studies.",
+    "citation_count": "26",
+    "year": "2024/04/01",
+    "authors": [
+        {
+            "name": "Xiaoqing Han",
+            "country": ""
+        },
+        {
+            "name": "Weiyao Cheng",
+            "country": ""
+        },
+        {
+            "name": "Leilei Meng",
+            "country": ""
+        },
+        {
+            "name": "Biao Zhang",
+            "country": ""
+        },
+        {
+            "name": "Kaizhou Gao",
+            "country": ""
+        },
+        {
+            "name": "Chaoyong Zhang",
+            "country": ""
+        },
+        {
+            "name": "Peng Duan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

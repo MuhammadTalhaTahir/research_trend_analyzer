@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224001251",
+    "title": "Surrogate-assisted multi-objective evolutionary feature selection of generation-based fixed evolution control for time series forecasting with LSTM networks",
+    "abstract": "Surrogate-assisted multi-objective evolutionary algorithms are powerful techniques to solve computationally expensive multi-objective optimization problems. In this paper, we propose a direct fitness replacement method with generation-based fixed evolution control to implement a multi-objective evolutionary algorithm that uses a  surrogate model  for wrapper-type feature selection, where long short-term memory is established as the learning algorithm. The importance of the work and its benefits lie in the need to reduce the excessive computational time required by conventional wrapper-type feature selection methods based on multi-objective evolutionary algorithms and LSTM networks, maintaining or improving the predictive capacity of the models. We analyze the use of incremental learning to update the surrogate model, in comparison with the conventional non-incremental learning approach. We applied these methods in real-life time series forecasting of air quality, indoor temperature in a  smart building  and oil temperature in electricity transformers. Multi-step ahead predictions of the forecast models obtained with different meta-learners of the surrogate model were compared by using the Diebold–Mariano statistical test on a multi-criteria performance metric. The proposed method outperformed other approaches for feature selection including, among others, methods based on surrogate-assisted multi-objective evolutionary algorithms developed by the authors in previous research, other surrogate-assisted deterministic methods for feature selection and the conventional wrapper-type feature selection method based on LSTM, improving the prediction on  test dataset  by 23.98%, 34.61% and 13.77%, respectively.",
+    "citation_count": "4",
+    "year": "2024/07/01",
+    "authors": [
+        {
+            "name": "Raquel Espinosa",
+            "country": ""
+        },
+        {
+            "name": "Fernando Jiménez",
+            "country": ""
+        },
+        {
+            "name": "José Palma",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

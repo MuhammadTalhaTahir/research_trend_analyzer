@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650215001005",
+    "title": "A hybridization of an improved particle swarm optimization and gravitational search algorithm for multi-robot path planning",
+    "abstract": "This paper proposed a new methodology to determine the optimal trajectory of the path for multi-robot in a clutter environment using hybridization of improved  particle swarm optimization  (IPSO) with an improved  gravitational search algorithm  (IGSA). The proposed approach embedded the social essence of IPSO with motion mechanism of IGSA. The proposed hybridization IPSO–IGSA maintain the efficient balance between exploration and exploitation because of adopting co-evolutionary techniques to update the IGSA acceleration and particle positions with IPSO velocity simultaneously. The objective of the algorithm is to minimize the maximum path length that corresponds to minimize the  arrival time  of all robots to their respective destination in the environment. The robot on the team make independent decisions, coordinate, and cooperate with each other to determine the next positions from their current position in the world map using proposed hybrid IPSO–IGSA. Finally the analytical and experimental results of the multi-robot  path planning  were compared to those obtained by IPSO–IGSA, IPSO, IGSA in a similar environment. The Simulation and the Khepera environment result show outperforms of IPSO–IGSA as compared with IPSO and IGSA with respect to optimize the path length from predefine  initial position  to designation position ,energy optimization in the terms of number of turn and arrival time.",
+    "citation_count": "267",
+    "year": "2016/06/01",
+    "authors": [
+        {
+            "name": "P.K. Das",
+            "country": ""
+        },
+        {
+            "name": "H.S. Behera",
+            "country": ""
+        },
+        {
+            "name": "B.K. Panigrahi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

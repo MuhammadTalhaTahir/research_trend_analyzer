@@ -1,0 +1,36 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-017-9681-9",
+    "title": "Efficient flow diagnostics proxies for polymer flooding",
+    "abstract": "Flow diagnostics refers to a family of numerical methods that within a few seconds can compute visually intuitive quantities illuminating flow patterns and well connections for full 3D reservoir models. The starting point is a flow field, extracted from a previous multiphase simulation or computed by solving a simplified pressure equation with fixed mobilities. Time-of-flight (TOF) and stationary tracer equations are then solved to determine approximate time lines and influence regions. From these, one can derive sweep or drainage regions, injector–producer regions, and well allocation factors, as well as dynamic heterogeneity measures that characterize sweep and displacement efficiency and correlate (surprisingly) well with oil recovery from waterflooding processes. This work extends flow diagnostics to polymer flooding. Our aim is to develop inexpensive flow proxies that can be used to optimize well placement, drilling sequence, and injection strategies. In particular, we seek proxies that can distinguish the effects of improved microscopic and macroscopic displacement. To account for the macroscopic effect of polymer injection, representative flow fields are computed by solving the reservoir equations with linearized flux functions. Although this linearization has a pronounced smearing effect on water and polymer fronts, we show that the heterogeneity of the total flux field is adequately represented. Subsequently, transform the flow equations to streamline coordinates, map saturations from physical coordinates to time-of-flight, and (re)solve a representative 1D flow problem for each well-pair region. A recovery proxy is then obtained by accumulating each 1D solution weighted by a distribution function that measures the variation in residence times for all flow paths inside each well-pair region. We apply our new approach to 2D and 3D reservoir simulation models, and observe close agreements between the suggested approximations and results obtained from full multiphase simulations. Furthermore, we demonstrate how two different versions of the proxy can be utilized to differentiate between macroscopic and microscopic sweep improvements resulting from polymer injection. For the examples considered, we demonstrate that macroscopic sweep improvements alone correlate better with measures for heterogeneity than the combined improvements.",
+    "citation_count": 38,
+    "year": "2017/12",
+    "authors": [
+        {
+            "name": "Krogstad, Stein",
+            "country": "Norway"
+        },
+        {
+            "name": "Lie, Knut-Andreas",
+            "country": "Norway"
+        },
+        {
+            "name": "Nilsen, Halvor Møll",
+            "country": "Norway"
+        },
+        {
+            "name": "Berg, Carl Fredrik",
+            "country": "Norway"
+        },
+        {
+            "name": "Kippe, Vegard",
+            "country": "Norway"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

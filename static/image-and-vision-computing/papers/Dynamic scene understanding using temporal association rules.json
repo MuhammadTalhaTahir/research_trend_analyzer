@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885614001395",
+    "title": "Dynamic scene understanding using temporal association rules",
+    "abstract": "The basic goal of scene understanding is to organize the video into sets of events and to find the associated temporal dependencies. Such systems aim to automatically interpret activities in the scene, as well as detect unusual events that could be of particular interest, such as traffic violations and unauthorized entry. The objective of this work, therefore, is to learn behaviors of multi-agent actions and interactions in a semi-supervised manner. Using tracked object trajectories, we organize similar motion trajectories into clusters using the  spectral clustering  technique. This set of clusters depicts the different paths/routes, i.e., the distinct  events  taking place at various locations in the scene. A temporal mining algorithm is used to mine interval-based frequent temporal patterns occurring in the scene. A temporal pattern indicates a set of events that are linked based on their relationship with other events in the set, and we use Allen's interval-based  temporal logic  to describe these relations. The resulting  frequent patterns  are used to generate temporal  association rules , which convey the semantic information contained in the scene. Our overall aim is to generate rules that govern the dynamics of the scene and perform  anomaly detection . We apply the proposed approach on two publicly available complex traffic datasets and demonstrate considerable improvements over the existing techniques.",
+    "citation_count": "12",
+    "year": "2014/12/01",
+    "authors": [
+        {
+            "name": "Ayesha M. Talha",
+            "country": ""
+        },
+        {
+            "name": "Imran N. Junejo",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

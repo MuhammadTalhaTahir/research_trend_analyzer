@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762123001637",
+    "title": "Blockchain-assisted multi-keyword fuzzy search encryption for secure data sharing",
+    "abstract": "Cloud-based data sharing has become a significant technology trend thanks for its convenience and economy. Data owners are suggested to encrypt data before outsourcing for  data security  and users’ privacy. This approach makes it a challenging problem to implement the retrieval of  encrypted data  while enforcing fine-grained  access control  over the  ciphertext . In this paper, we propose a blockchain-assisted multi-keyword fuzzy search encryption (BCFSE) scheme for secure data sharing which supports fine-grained access control and attribute  revocation . The BCFSE scheme maps the attributes in the  ciphertext  policy attribute-based encryption (CP-ABE) to attribute tokens on the  blockchain , which provides lightweight, secure and trusted attribute management. Moreover, we construct a  keyword search  scheme based on CP-ABE by using searchable  symmetric encryption algorithm  in the keyword encryption and  retrieval phases , effectively reducing computational cost. BCFSE combines the advantages of CP-ABE and searchable encryption based on  blockchain , which implements authorization and search with the assistance of  smart contracts  to ensure the reliability of the search process. In addition, the BCFSE scheme supports multi-keyword fuzzy search with both AND and OR semantics. Extensive experiments have been performed on real datasets to validate the effectiveness and efficiency of our BCFSE scheme.",
+    "citation_count": "21",
+    "year": "2023/11/01",
+    "authors": [
+        {
+            "name": "Yipeng Zou",
+            "country": ""
+        },
+        {
+            "name": "Tao Peng",
+            "country": ""
+        },
+        {
+            "name": "Guojun Wang",
+            "country": ""
+        },
+        {
+            "name": "Entao Luo",
+            "country": ""
+        },
+        {
+            "name": "Jinbo Xiong",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

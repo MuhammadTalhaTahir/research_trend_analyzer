@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762109000514",
+    "title": "Analysis of network processing workloads",
+    "abstract": "Network processing is becoming an increasingly important paradigm as the Internet moves towards an architecture with more complex functionality in the data path. Modern routers not only  forward packets , but also process headers and payloads to implement a variety of  functions related  to security, performance, and  customization . It is important to get a detailed understanding of the workloads associated with this processing in order to be able to develop efficient network processing engines. We present a tool called PacketBench, which provides a framework for implementing network processing applications and obtaining an extensive set of  workload characteristics . For statistics collection, PacketBench provides the ability to derive a number of microarchitectural and networking related metrics. We show a range of workload results that focus on individual packets and the variation between them. The understanding of workload details of network processing has many practical applications. We discuss how PacketBench results can be used to estimate network processing delay that are very close to those obtained from measurement.",
+    "citation_count": "22",
+    "year": "2009/10/01",
+    "authors": [
+        {
+            "name": "Ramaswamy Ramaswamy",
+            "country": ""
+        },
+        {
+            "name": "Ning Weng",
+            "country": ""
+        },
+        {
+            "name": "Tilman Wolf",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

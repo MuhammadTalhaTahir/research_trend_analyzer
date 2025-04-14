@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885619304214",
+    "title": "View-based weight network for 3D object recognition",
+    "abstract": "Projective methods generally achieve better results in 3D object recognition in recent years. This may be similar to that human visual 3D shapes rely on various 2D observations which are unconscious on retina. Each projection is treated fairly in existing methods. However, we note that different viewpoint images of the same object have different  discriminative features , and only some of images are completely significant. We propose a novel View-based Weight Network (VWN) for 3D object recognition where the different view-based weights are assigned to different projections. The trainable view-level weights are incorporated as a pooling layer of the multi-view  residual network . The pooling layer contains 7 sub-layers. Meanwhile, we find a simple unsupervised criterion to evaluate the prediction results before they output. To improve the  recognition accuracy , a new multi-channel integrated  classifier combining   Extreme Learning Machine ,  KNN , SVM and  Random Forest  is proposed based on the criterion. The multi-channel classifier can make the accuracy of Top1 close to Top2. Experiments on Princeton ModelNet 3D datasets demonstrate our proposed method outperforms the state-of-the-art approaches significantly in recognition accuracy.",
+    "citation_count": "17",
+    "year": "2020/01/01",
+    "authors": [
+        {
+            "name": "Qiang Huang",
+            "country": ""
+        },
+        {
+            "name": "Yongxiong Wang",
+            "country": ""
+        },
+        {
+            "name": "Zhong Yin",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

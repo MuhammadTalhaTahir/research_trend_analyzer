@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762123002126",
+    "title": "Flexible and secure access control for EHR sharing based on blockchain",
+    "abstract": "With the rapid development of the  healthcare industry , many  Electronic Health Records  (EHRs) have emerged in different healthcare centers. However, lots of personal medical data are stored directly in plaintext at a single healthcare center, which makes it suffer from the  single point of failure  and brings many security and privacy issues such as privacy  information leakage  or tampering. The combination of  blockchain  and attributed-based cryptography can effectively solve the above problems. Therefore, in order to enable flexible fine-grained access control and efficient data retrieval while achieving privacy protection, we employ the ciphertext-policy attributed-based encryption (CP-ABE) and ciphertext-policy attribute-based searchable encryption (CP-ABSE) to propose a hidden policy attribute-based  access control scheme . In addition, we combine  consortium blockchain  and  smart contract  to provide secure and reliable search and outsourcing decryption. Finally, through the security analysis and experimental results, we demonstrate that our scheme is secure and efficient.",
+    "citation_count": "10",
+    "year": "2024/01/01",
+    "authors": [
+        {
+            "name": "Peng Li",
+            "country": ""
+        },
+        {
+            "name": "Dehua Zhou",
+            "country": ""
+        },
+        {
+            "name": "Haobin Ma",
+            "country": ""
+        },
+        {
+            "name": "Junzuo Lai",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885697000334",
+    "title": "An improved generalized Hough transform for the recognition of overlapping objects",
+    "abstract": "The generalized Hough transform (GHT) is a powerful method for recognizing arbitrary shapes as long as the correct match accounts for both much of the model and much of the sensory object. For moderate levels of occlusion, however, the GHT can hypothesize many false solutions. In this paper, we present an improved two-stage GHT procedure for the recognition of overlapping objects. Each boundary point in the image is described by three features including the concavity, radius and normal direction of the curve segment in the neighborhood of the point. The first stage of the voting process determines the rotational angle of the sensory object with respect to the model by matching those points that have the same concavity and radii. The second stage then determines the centroid of the sensory object by matching those points that have the same concavity, radii and rotational angles. The three point features remove the false contribution of votes in the vote generation phase. Experimental results have shown that the proposed algorithm works well for complex objects under severely overlapping conditions.",
+    "citation_count": "25",
+    "year": "1997/12/01",
+    "authors": [
+        {
+            "name": "Du-Ming Tsai",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

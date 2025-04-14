@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-020-00634-9",
+    "title": "A characterization of optimal multiprocessor schedules and new dominance rules",
+    "abstract": "The paper on hand approaches the classical makespan minimization problem on identical parallel machines from a rather theoretical point of view. Using an approach similar to the idea behind inverse optimization, we identify a general structural pattern of optimal multiprocessor schedules. We also show how to derive new dominance rules from the characteristics of optimal solutions. Results of our computational study attest to the efficacy of the new rules. They are particularly useful in limiting the search space when each machine processes only a few jobs on average.",
+    "citation_count": 29,
+    "year": "2020/11",
+    "authors": [
+        {
+            "name": "Walter, Rico",
+            "country": "Germany"
+        },
+        {
+            "name": "Lawrinenko, Alexander",
+            "country": "Germany"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

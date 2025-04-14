@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-005-9008-0",
+    "title": "Unbiased identification of nonlinear sorption characteristics by soil column breakthrough experiments",
+    "abstract": "Accurate identification of interactions of reactive solutes with porous media constituents is necessary for reliable risk assessment studies and the development of efficient sanitation strategies. Standard parameter estimation procedures bear a number of unsolved problems with respect to uniqueness and identifiability. This paper presents a new approach for the identification of nonlinear interaction parameters of column outflow experiments. The procedure requires no a priori assumptions on the shape of the underlying interaction process functions. Employing experimental data sets on cadmium and anthracene breakthrough as case studies, possible applications of the new approach will be shown, and its features will be discussed. Error analysis based on singular value decomposition of the sensitivity matrix quantifies the identification error. Identification procedures without a priori shape information are superior to fixed parametrizations in diagnostic investigations, especially in cases without reliable a priori knowledge on the sorptive interactions.",
+    "citation_count": 28,
+    "year": "2005/12",
+    "authors": [
+        {
+            "name": "Knabner, P.",
+            "country": "Germany"
+        },
+        {
+            "name": "Igler, B. A.",
+            "country": "Germany"
+        },
+        {
+            "name": "Totsche, K. U.",
+            "country": "Germany"
+        },
+        {
+            "name": "DuChateau, P.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223000172",
+    "title": "Integrated optimization of real-time order acceptance and flexible job-shop rescheduling with multi-level imperfect maintenance constraints",
+    "abstract": "Nowadays, the make-to-order (MTO) production has gradually become a new manufacturing trend, and the real-time arrival of orders has brought great challenges to order acceptance, production scheduling and maintenance planning in the actual production. Therefore, in this study, we focus on the integrated optimization of real-time order acceptance and flexible job-shop rescheduling with multi-level imperfect maintenance constraints. More precisely, (1) a multi-level imperfect maintenance model with minimal repair (MR),  preventive maintenance  (PM), overhaul maintenance (OM) and replacement is designed for each production machine, and the  optimality  is derived; (2) an integrated multi-objective optimization model is developed to characterize the concerned problem; and (3) an improved non-dominated sorting  genetic algorithm  III with adaptive reference vector (INSGA-III/ARV) is proposed to deal with the problem. In the numerical simulation, the effect of different order sorting rules is first analyzed. Second, the effectiveness of improved operators is demonstrated by internal analysis of the proposed algorithm. Third, the superiority and competitiveness of the proposed algorithm is verified by comparing with the variants of five state-of-the-art algorithms. Fourth, the benefits of both the designed multi-level imperfect maintenance model and real-time order acceptance and scheduling (ROAS) strategy are proved by contrasting with other two traditional maintenance models and all order acceptance and scheduling (AOAS) strategy, respectively. Finally, a comprehensive sensitivity analysis is performed to illustrate the impact of several key parameters on the integrated optimization model.",
+    "citation_count": "29",
+    "year": "2023/03/01",
+    "authors": [
+        {
+            "name": "Youjun An",
+            "country": ""
+        },
+        {
+            "name": "Xiaohui Chen",
+            "country": ""
+        },
+        {
+            "name": "Kaizhou Gao",
+            "country": ""
+        },
+        {
+            "name": "Lin Zhang",
+            "country": ""
+        },
+        {
+            "name": "Yinghe Li",
+            "country": ""
+        },
+        {
+            "name": "Ziye Zhao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

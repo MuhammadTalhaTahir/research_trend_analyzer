@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762117300681",
+    "title": "End-to-end timing analysis of cause-effect chains in automotive embedded systems",
+    "abstract": "Automotive embedded systems are subjected to stringent timing requirements that need to be verified. One of the most complex timing requirement in these systems is the data age constraint. This constraint is specified on cause-effect chains and restricts the maximum time for the propagation of data through the chain. Tasks in a cause-effect chain can have different activation patterns and different periods, that introduce over- and under-sampling effects, which additionally aggravate the end-to-end timing analysis of the chain. Furthermore, the level of timing information available at various development stages (from modeling of the software architecture to the software implementation) varies a lot, the complete timing information is available only at the implementation stage. This uncertainty and limited timing information can restrict the end-to-end timing analysis of these chains. In this paper, we present methods to compute end-to-end delays based on different levels of system information. The characteristics of different communication semantics are further taken into account, thereby enabling timing analysis throughout the development process of such heterogeneous software systems. The presented methods are evaluated with extensive experiments. As a proof of concept, an industrial case study demonstrates the applicability of the proposed methods following a state-of-the-practice development process.",
+    "citation_count": "0",
+    "year": "2017/10/01",
+    "authors": [
+        {
+            "name": "Matthias Becker",
+            "country": ""
+        },
+        {
+            "name": "Dakshina Dasari",
+            "country": ""
+        },
+        {
+            "name": "Saad Mubeen",
+            "country": ""
+        },
+        {
+            "name": "Moris Behnam",
+            "country": ""
+        },
+        {
+            "name": "Thomas Nolte",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

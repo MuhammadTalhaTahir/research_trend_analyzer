@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-012-9551-2",
+    "title": "Linear time-dependent constraints programming with MSVL",
+    "abstract": "This paper investigates specifying and solving linear time-dependent constraints with an interval temporal logic programming language MSVL. To this end, linear constraint statements involving linear equality and non-strict inequality are first defined. Further, the time-dependent relations in the constraints are specified by temporal operators, such as . Thus, linear time-dependent constraints can be smoothly incorporated into MSVL. Moreover, to solve the linear constraints within MSVL by means of reduction, the operational semantics for linear constraints is given. In particular, semantic equivalence rules and transition rules within a state are presented, which enable us to reduce linear equations, inequalities and optimization problems in a convenient way. Besides, the operational semantics is proved to be sound. Finally, a production scheduling application is provided to illustrate how our approach works in practice.",
+    "citation_count": 44,
+    "year": "2014/05",
+    "authors": [
+        {
+            "name": "Ma, Qian",
+            "country": "P.R. China"
+        },
+        {
+            "name": "Duan, Zhenhua",
+            "country": "P.R. China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

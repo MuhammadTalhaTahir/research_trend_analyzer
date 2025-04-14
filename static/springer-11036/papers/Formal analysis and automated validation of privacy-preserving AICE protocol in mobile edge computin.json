@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-021-01850-1",
+    "title": "Formal analysis and automated validation of privacy-preserving AICE protocol in mobile edge computing",
+    "abstract": "Mobile Edge Computing (MEC) is proposed to meet the requirements of mobile users for low latency and response time, and its edge nodes will download data from the cloud server in advance, which arouses researchers to pay attention to the privacy-preserving authentication of mobile users and edge nodes, as well as the data integrity verification of edge nodes. Therefore, it is essential and crucial to integrate the authentication methods into data integrity verification protocol. In this paper, we propose a new integrated protocol AICE, i.e., a uthentication and i ntegrity c hecking on e dges, and then formally analyze and automatically validate the correctness and authentication security of the protocol. We first give the information flows of the AICE protocol by combining the privacy-preserving authentication (PPA) protocol and integrity checking protocol for MEC (ICE) together. According to the features of the AICE protocol, we then select the SVO logic to conduct the formal analysis of the protocol from the perspective of theoretical analysis of modal logic. Furthermore, we employ the AVISPA tool to validate the correctness of the protocol from the perspective of mechanical automatic analysis. The theoretical analysis and mechanical results demonstrate that the integrated protocol AICE satisfies the correctness and authentication.",
+    "citation_count": 34,
+    "year": "2021/12",
+    "authors": [
+        {
+            "name": "Yin, Jiaqi",
+            "country": "China"
+        },
+        {
+            "name": "Zhu, Huibiao",
+            "country": "China"
+        },
+        {
+            "name": "Fei, Yuan",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001865",
+    "title": "A supervised approach for the detection of AM-FM signals’ interference regions in spectrogram images",
+    "abstract": "Ridge curves retrieval in time–frequency (TF) domains is fundamental in many application fields as they convey most of information concerning the instantaneous frequencies of non-stationary signals. However, it represents a very hard task in the case of multicomponent signals having non-separable modes as they generate interference in TF domains. A preliminary detection of these interference regions may be then useful for the definition of effective strategies for ridge curve recovery. This paper introduces SIID-CNN ( Spectrogram Image Interference Detection via CNN) , that is a novel approach based on machine learning for the automatic detection of interference regions in spectrogram images. Each spectrogram sample is suitably classified as interference, single mode or background by accounting for its relative information. Some critical problems, such as the training set size and the type of examples to use for populating the training set, are dealt with. Experimental results show that a local linear model for spectrogram image and a small training set can guarantee good classification rates for a wide class of non-stationary signals, even in the presence of moderate noise.",
+    "citation_count": "1",
+    "year": "2023/10/01",
+    "authors": [
+        {
+            "name": "Vittoria Bruni",
+            "country": ""
+        },
+        {
+            "name": "Domenico Vitulano",
+            "country": ""
+        },
+        {
+            "name": "Silvia Marconi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

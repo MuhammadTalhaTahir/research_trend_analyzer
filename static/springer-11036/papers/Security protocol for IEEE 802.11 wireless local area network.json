@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1019180916909",
+    "title": "Security protocol for IEEE 802.11 wireless local area network",
+    "abstract": "As Wireless Local Area Networks (WLANs) are rapidly deployed to expand the field of wireless products, the provision of authentication and privacy of the information transfer will be mandatory. These functions need to take into account the inherent limitations of the WLAN medium such as limited bandwidth, noisy wireless channel and limited computational power. Moreover, some of the IEEE 802.11 WLAN characteristics such as the use of a point coordinator and the polling based Point Coordination Function (PCF) have also to be considered in this design. In this paper, we introduce a security protocol for the IEEE 802.11 PCF that provides privacy and authentication, and is designed to reduce security overheads while taking into account the WLAN characteristics. We prove this protocol using the original and modified BAN logic.",
+    "citation_count": 24,
+    "year": "1998/09",
+    "authors": [
+        {
+            "name": "Park, Se Hyun",
+            "country": "USA"
+        },
+        {
+            "name": "Ganz, Aura",
+            "country": "USA"
+        },
+        {
+            "name": "Ganz, Zvi",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

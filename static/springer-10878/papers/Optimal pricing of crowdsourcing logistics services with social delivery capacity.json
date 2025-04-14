@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-020-00693-y",
+    "title": "Optimal pricing of crowdsourcing logistics services with social delivery capacity",
+    "abstract": "Based on the sharing economy, crowdsourcing logistics services share social delivery freelancers instead of traditional full-time delivery employees. The optimal dynamic pricing model of crowdsourcing logistics services, which could be applied to adjust the social delivery capacity supply to meet the stochastic demand especially during the peak period, is established based on optimal control theory. We study optimal pricing strategies under both conditions when the supply and the demand is balanced and accumulated delivery orders are minimized. Moreover, the impact of delivery riders’ wage ratio on pricing and platforms’ expected revenue are analyzed. It is verified by numerical simulation results that optimal dynamic pricing strategies of crowdsourcing logistics services could effectively balance supply and demand, further maximize the expected revenue of platforms. The growth rate of optimal pricing of crowdsourcing logistics services is increasing with respect to the delivery riders’ wage ratio. However, the expected revenue of crowdsourcing logistics platforms declines as the wage ratio increases.",
+    "citation_count": 27,
+    "year": "2022/07",
+    "authors": [
+        {
+            "name": "Wang, Wenjie",
+            "country": "China"
+        },
+        {
+            "name": "Xie, Lei",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

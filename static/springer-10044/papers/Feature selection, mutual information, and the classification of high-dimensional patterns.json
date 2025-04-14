@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-008-0107-0",
+    "title": "Feature selection, mutual information, and the classification of high-dimensional patterns",
+    "abstract": "We propose a novel feature selection filter for supervised learning, which relies on the efficient estimation of the mutual information between a high-dimensional set of features and the classes. We bypass the estimation of the probability density function with the aid of the entropic-graphs approximation of Rényi entropy, and the subsequent approximation of the Shannon entropy. Thus, the complexity does not depend on the number of dimensions but on the number of patterns/samples, and the curse of dimensionality is circumvented. We show that it is then possible to outperform algorithms which individually rank features, as well as a greedy algorithm based on the maximal relevance and minimal redundancy criterion. We successfully test our method both in the contexts of image classification and microarray data classification. For most of the tested data sets, we obtain better classification results than those reported in the literature.",
+    "citation_count": 37,
+    "year": "2008/09",
+    "authors": [
+        {
+            "name": "Bonev, Boyan",
+            "country": "Spain"
+        },
+        {
+            "name": "Escolano, Francisco",
+            "country": "Spain"
+        },
+        {
+            "name": "Cazorla, Miguel",
+            "country": "Spain"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762118305381",
+    "title": "Gait recognition with cross-domain transfer networks",
+    "abstract": "This paper proposes a novel cross-domain transfer networks (CDTN) that is employed for multi-view gait recognition. CDTN consists of two VGAN layers and a GAN unit. The VGAN layer merges variational autoencoder (VAE) into generative adversarial network (GAN) by replacing the generator of GAN with VAE. Gait energy images (GEIs) are taken as the input of the VGAN layer, and then discriminative loss, reconstruction loss and Kullback–Leibler divergence are adopted to optimize CDTN synchronously. Two VGAN layers are connected by a GAN unit that takes the two gait samples collected under different views as input. After optimization, the output of generator is decoded by a decoder, the decoding results are taken as the output of CDTN. Finally, extensive experiments are conducted on two famous gait datasets. Compare with the state-of-the-art methods, CDTN achieves better gait recognition accuracies, such as 94.78% under single view angle and 93.68% under multi-view angles, which outperforms the existing methods by a significant margin. The results indicate that CDTN is effective for improving the accuracy of multi-view gait recognition. Besides, CDTN provides an important reference for solving the similar problems.",
+    "citation_count": "7",
+    "year": "2019/02/01",
+    "authors": [
+        {
+            "name": "Suibing Tong",
+            "country": ""
+        },
+        {
+            "name": "Yuzhuo Fu",
+            "country": ""
+        },
+        {
+            "name": "Hefei Ling",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

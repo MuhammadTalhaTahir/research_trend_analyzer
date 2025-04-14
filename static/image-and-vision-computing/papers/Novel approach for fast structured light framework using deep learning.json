@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003093",
+    "title": "Novel approach for fast structured light framework using deep learning",
+    "abstract": "In structured light 3D imaging, achieving robust and accurate 3D reconstruction with a limited number of fringe patterns remains a challenge. In this study, we introduce SFNet, a symmetric fusion network that designed for high-speed, high-quality 3D surface measurement using just two fringe images. The SFNet employs separate encoders and decoders for each fringe input to estimate its phase. The two generated phase values are then utilized to reconstruct the 3D information. During the training process, we use a refined reference phase which utilizes fringe images with different frequencies. SFNet has the capability to complement the additional frequency information by fusing the feature maps extracted from each encoder. Comparative experiments and ablation studies validate the effectiveness of our proposed method. The dataset is publicly accessible on our project page  https://wonhoe-kim.github.io/SFNet/ .",
+    "citation_count": "1",
+    "year": "2024/10/01",
+    "authors": [
+        {
+            "name": "Won-Hoe Kim",
+            "country": ""
+        },
+        {
+            "name": "Bongjoong Kim",
+            "country": ""
+        },
+        {
+            "name": "Hyung-Gun Chi",
+            "country": ""
+        },
+        {
+            "name": "Jae-Sang Hyun",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

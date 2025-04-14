@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762117304988",
+    "title": "Container-based architecture for flexible industrial control applications",
+    "abstract": "Cyber-physical systems and the Internet-of-Things are getting more and more traction in different  application areas . Boosted by initiatives such as Industrie 4.0 in  Germany  or the Industrial Internet Consortium in the US, they are enablers for innovation in industrial automation. To provide the advanced flexibility in production envisioned for future  automation systems ,  Programmable Logic Controllers  (PLCs), as one of their main  building blocks , also need to become more flexible. However, the conservative nature of this domain prohibits changes in the controller architecture impacting the installed base. Currently there exist various approaches that evolve control architectures to the next level, but none of them address flexible function deployment at the same time with legacy support. In this paper, we present an architecture for a multi-purpose controller that is inspired by the  virtualization  trend in  cloud systems  which moves from heavyweight virtual machines to lightweight containers solutions such as LXC or Docker. Our solution includes the support for multiple PLC execution engines and adds support for the emulation of legacy engines as well. We evaluate this architecture by executing performance measurements that analyze the impact of container technologies to the real-time aspects of PLC engines.",
+    "citation_count": "88",
+    "year": "2018/03/01",
+    "authors": [
+        {
+            "name": "Thomas Goldschmidt",
+            "country": ""
+        },
+        {
+            "name": "Stefan Hauck-Stattelmann",
+            "country": ""
+        },
+        {
+            "name": "Somayeh Malakuti",
+            "country": ""
+        },
+        {
+            "name": "Sten Grüner",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

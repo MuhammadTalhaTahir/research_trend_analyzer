@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762116300261",
+    "title": "MTU configuration for real-time switched Ethernet networks",
+    "abstract": "In this paper, we show that in real-time switched  Ethernet networks  reducing the Maximum Transmission Unit (MTU) size may cause an increase or decrease in the response time of messages. This contradicting behavior arises an  optimization problem  for configuring the MTU size. We formulate the optimization problem in the context of the multi-hop HaRTES architecture, which is a hard real-time Ethernet protocol. As part of the solution, we propose a search-based algorithm to achieve optimum solutions. We modify the algorithm by presenting two techniques to reduce the search space. Then, we propose a heuristic algorithm with a pseudo-polynomial time complexity based on the search-based algorithm. We perform several experiments, and we show that the proposed heuristic results in an improvement regarding messages response times, compared with configuring the MTU to the maximum or minimum values. Moreover, we show in small  network configurations  that the heuristic performs as good as the search-based algorithm in many cases.",
+    "citation_count": "3",
+    "year": "2016/10/01",
+    "authors": [
+        {
+            "name": "Mohammad Ashjaei",
+            "country": ""
+        },
+        {
+            "name": "Moris Behnam",
+            "country": ""
+        },
+        {
+            "name": "Luis Almeida",
+            "country": ""
+        },
+        {
+            "name": "Thomas Nolte",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

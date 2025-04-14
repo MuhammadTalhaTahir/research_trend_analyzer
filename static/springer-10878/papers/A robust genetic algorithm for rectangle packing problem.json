@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-006-8463-4",
+    "title": "A robust genetic algorithm for rectangle packing problem",
+    "abstract": "Genetic algorithms (GAs) have been found well suited for solving optimization problems. This paper introduces a robust genetic algorithm that efficiently solves the classical rectangle packing problem. Based on an encoding scheme of sliceable structure, the proposed algorithm develops a new crossover operation that inherits favorable fitness properties from its parents without further repairing. Empirical results verify two characteristics of this algorithm. First, it can achieve very promising runtime and high-quality solutions. Second, it can manage a much larger problem size compared to the state-of-the-art algorithms.",
+    "citation_count": 16,
+    "year": "2007/11",
+    "authors": [
+        {
+            "name": "Chen, De-Sheng",
+            "country": "Taiwan"
+        },
+        {
+            "name": "Lin, Chang-Tzu",
+            "country": "Taiwan"
+        },
+        {
+            "name": "Wang, Yi-Wen",
+            "country": "Taiwan"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

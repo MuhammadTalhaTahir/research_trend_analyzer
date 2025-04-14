@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-010-9302-1",
+    "title": "Selfish bin coloring",
+    "abstract": "The bin packing problem, a classical problem in combinatorial optimization, has recently been studied from the viewpoint of algorithmic game theory. In this bin packing game each item is controlled by a selfish player minimizing its personal cost, which in this context is defined as the relative contribution of the size of the item to the total load in the bin. We introduce a related game, the so-called bin coloring game, in which players control colored items and each player aims at packing its item into a bin with as few different colors as possible. We establish existence of Nash and strong as well as weakly and strictly Pareto optimal equilibria in these games in the cases of capacitated and uncapacitated bins. For both kinds of games we determine the prices of anarchy and stability concerning those four equilibrium concepts. Furthermore, we show that extreme Nash equilibria, representatives of the set of Nash equilibria with minimal or maximal number of colors in a bin, can be found in time polynomial in the number of items for the uncapacitated case.",
+    "citation_count": 31,
+    "year": "2011/11",
+    "authors": [
+        {
+            "name": "Epstein, Leah",
+            "country": "Israel"
+        },
+        {
+            "name": "Krumke, Sven O.",
+            "country": "Germany"
+        },
+        {
+            "name": "Levin, Asaf",
+            "country": "Israel"
+        },
+        {
+            "name": "Sperber, Heike",
+            "country": "Germany"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

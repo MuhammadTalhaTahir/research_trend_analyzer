@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-023-02220-9",
+    "title": "Application of Visual Communication in Image Enhancement and Optimization of Human–Computer Interface",
+    "abstract": "The visual plane of human–computer interaction has a great influence on the perception of color images. The author proposes the use of visual communication in the development and optimization of human–computer interface graphics. The local contrast of the plane vision image can be improved according to the relationship between the current and the pixel area, and the full description of the plane vision image in human–computer interaction is better. The maximum time taken to clarify image color using this system was 0.2 s less than the Binocular Vision Enhancement system and 0.18 s less than the Mark Visibility Enhancement system; When this system is used to enhance the color of the composite image, the maximum time consumption is 0.18 s, which is 0.37 s less than the binocular vision enhancement system. The system requires the shortest time and has the best performance for processing color images. The design improves the color accuracy of the image plane on the human–computer interaction page, and the processing speed is fast for processing simple and normal images and complex images.",
+    "citation_count": 20,
+    "year": "2024/10",
+    "authors": [
+        {
+            "name": "Ma, Kexiang",
+            "country": "China"
+        },
+        {
+            "name": "Lee, Sungwon",
+            "country": "Korea"
+        },
+        {
+            "name": "Chen, Hui",
+            "country": "Mongolia"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

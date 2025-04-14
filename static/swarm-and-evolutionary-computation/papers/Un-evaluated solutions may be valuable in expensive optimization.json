@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S221065022500063X",
+    "title": "Un-evaluated solutions may be valuable in expensive optimization",
+    "abstract": "Expensive optimization problems (EOPs) are prevalent in real-world applications, where the evaluation of a single solution requires a significant amount of resources. In our study of surrogate-assisted evolutionary algorithms (SAEAs) in EOPs, we discovered an intriguing phenomenon. Because only a limited number of solutions are evaluated in each iteration, relying solely on these evaluated solutions for evolution can lead to reduced disparity in successive populations. This, in turn, hampers the reproduction operators’ ability to generate superior solutions, thereby reducing the algorithm’s convergence speed. To address this issue, we propose a strategic approach that incorporates high-quality, un-evaluated solutions predicted by surrogate models during the selection phase. This approach aims to improve the distribution of evaluated solutions, thereby generating a superior next generation of solutions. This work details specific implementations of this concept across various reproduction operators and validates its effectiveness using multiple surrogate models. Experimental results demonstrate that the proposed strategy significantly enhances the performance of surrogate-assisted evolutionary algorithms. Compared to mainstream SAEAs and Bayesian optimization algorithms, our approach incorporating the un-evaluated solution strategy shows a marked improvement.",
+    "citation_count": "0",
+    "year": "2025/04/01",
+    "authors": [
+        {
+            "name": "Hao Hao",
+            "country": ""
+        },
+        {
+            "name": "Xiaoqun Zhang",
+            "country": ""
+        },
+        {
+            "name": "Aimin Zhou",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

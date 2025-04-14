@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-024-01115-z",
+    "title": "The maximum 3-star packing problem in claw-free cubic graphs",
+    "abstract": "A 3-star is a complete bipartite graph $$K_{1,3}$$ . A 3-star packing of a graph G is a collection of vertex-disjoint subgraphs of G in which each subgraph is a 3-star. The maximum 3-star packing problem is to find a 3-star packing of a given graph with the maximum number of 3-stars. A 2-independent set of a graph G is a subset S of V(G) such that for each pair of vertices $$u,v\\in S$$ , paths between u and v are all of length at least 3. In cubic graphs, the maximum 3-star packing problem is equivalent to the maximum 2-independent set problem. The maximum 2-independent set problem was proved to be NP-hard on cubic graphs (Kong and Zhao in Congressus Numerantium 143:65–80, 2000), and the best approximation algorithm of maximum 2-independent set problem for cubic graphs has approximation ratio $$\\frac{8}{15}$$ (Miyano et al. in WALCOM 2017, Proceedings, pp 228–240). In this paper, we first prove that the maximum 3-star packing problem is NP-hard in claw-free cubic graphs and then design a linear-time algorithm which can find a 3-star packing of a connected claw-free cubic graph G covering at least $$\\frac{3v(G)-8}{4}$$ vertices, where v(G) denotes the number of vertices of G.",
+    "citation_count": 26,
+    "year": "2024/07",
+    "authors": [
+        {
+            "name": "Xi, Wenying",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Lin, Wensong",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

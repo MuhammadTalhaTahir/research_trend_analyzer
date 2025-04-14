@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650216301481",
+    "title": "Evolutionary algorithms based synthesis of low sidelobe hexagonal arrays",
+    "abstract": "In this work a procedure namely Findpeaks2 is proposed to detect the maximum  sidelobe  level ( SLL ) from the samples of three dimensional radiation pattern. This procedure detects all  sidelobe  peaks form the samples of the radiation pattern in the entire visible region. For illustration, a low sidelobe radiation pattern synthesis problem is formulated for two concentric regular hexagonal  antenna array  (CRHAA) geometries, having 6- and 8- rings. To verify the extent of applicability of the proposed procedure, both broadside and scanned array configurations are considered. Feed current amplitudes are considered as the optimizing variables. Two variations of current distributions are considered, i) identical feed for all the elements on a ring (hence the one variable per ring needs to be optimized), and ii) asymmetric excitation distribution (set of excitation amplitude of all elements as optimizing variables). The design objective has been considered to optimize the radiation patterns with very low interference from the entire sidelobe region. To restrict the fall of  directivity  value, a constraint on the  lower limit  of  directivity  value is considered. The impacts of symmetry and the constraint on  directivity  on the search of these algorithms are studied. Evolutionary algorithms like Real Coded  Genetic Algorithm  (RGA),  Firefly Algorithm  (FFA), Flower Pollination Algorithm (FPA), an adaptive variant of  Particle Swarm Optimization  Algorithm namely (APSO), and two recently proposed variants of DE namely Exponentially Weighted Moving Average Differential Evolution (EWMA-DE), and Differential Evolution with Individual Dependent Mechanism (IDE) are employed for this pattern optimization problem.",
+    "citation_count": "2",
+    "year": "2018/02/01",
+    "authors": [
+        {
+            "name": "Sudipta Das",
+            "country": ""
+        },
+        {
+            "name": "Rajesh Bera",
+            "country": ""
+        },
+        {
+            "name": "Durbadal Mandal",
+            "country": ""
+        },
+        {
+            "name": "Sakti Prasad Ghoshal",
+            "country": ""
+        },
+        {
+            "name": "Rajib Kar",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

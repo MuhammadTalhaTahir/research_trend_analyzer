@@ -1,0 +1,22 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1008954218909",
+    "title": "An Iterative Algorithm for Hardware-Software Partitioning, Hardware Design Space Exploration and Scheduling",
+    "abstract": "The paper proposes a novel heuristic technique for integrated hardware-software partitioning, hardware design space exploration and scheduling. The technique maps an application specified as a task graph on a heterogeneous architecture with an objective to minimize the latency of the task graph subject to the area constraint on the hardware coprocessor. The technique uses an iterative approach where the partitioner decides the processor mapping and HW design points of some tasks. The scheduler then simultaneously decides the processor mapping, HW design point and schedule time of the remaining tasks. There exists a tight coupling between the two design stages allowing them to produce superior quality designs in fewer iterations. The technique accounts for the time overheads due to inter-processor /intra-processor communication and shared memory access conflicts. It can therefore be used for both communication intensive and computation intensive applications. The technique also considers dynamic reconfiguration capability of the hardware coprocessor. The technique performs tradeoff analysis and maps hardware tasks to mutually exclusive temporal segments if this results in lower latency. The effectiveness of the technique is demonstrated by a case study of the JPEG image compression algorithm, comparison with an optimal ILP based approach and experimentation with synthetic graphs.",
+    "citation_count": 15,
+    "year": "2000/08",
+    "authors": [
+        {
+            "name": "Chatha, Karam S.",
+            "country": "Cincinnati"
+        },
+        {
+            "name": "Vemuri, Ranga",
+            "country": "Cincinnati"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

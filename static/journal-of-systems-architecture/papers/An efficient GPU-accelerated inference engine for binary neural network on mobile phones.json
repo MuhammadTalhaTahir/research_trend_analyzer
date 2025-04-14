@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121001120",
+    "title": "An efficient GPU-accelerated inference engine for binary neural network on mobile phones",
+    "abstract": "Over the last years,  deep neural networks  (DNNs) are becoming more powerful and have risen in popularity, especially in  mobile computing . Applications running on  edge AI  devices such as smartphones would potentially benefit from the new opportunities enabled by  deep learning  techniques. However, DNNs are by nature computationally and memory intensive, making them challenging to deploy on mobile devices. Binary  neural networks  (BNNs) have been considered as a promising solution that can significantly reduce the memory and computational requirements of DNNs while still offering similar capabilities of full precision  DNN models . Currently, existing GPU-accelerated implementations of BNNs are  only  tailored for  desktop platforms . Due to architecture differences, mere porting of such implementations to  mobile devices  yields suboptimal performance or is impossible in some cases. Therefore, there has still been a missing piece in the literature for GPU-accelerated implementations of BNNs on mobile devices. In this paper, we propose PhoneBit, a GPU-accelerated BNN  inference engine  for mobile devices that fully exploits the computing power of BNNs on mobile GPUs. PhoneBit provides a set of operator-level optimizations including locality-friendly data layout, bit packing with  vectorization  and layers integration for efficient binary convolution. We also provide a detailed implementation and  parallelization  optimization for PhoneBit to optimally utilize the  memory bandwidth  and computing power of mobile GPUs. Our experiment results show that PhoneBit can achieve significant speedup and energy efficiency compared with state-of-the-art frameworks for mobile devices. The PhoneBit  open source library  is available for download at  https://code.ihub.org.cn/projects/915/repository/PhoneBit .",
+    "citation_count": "7",
+    "year": "2021/08/01",
+    "authors": [
+        {
+            "name": "Shengyu He",
+            "country": ""
+        },
+        {
+            "name": "Haitao Meng",
+            "country": ""
+        },
+        {
+            "name": "Zhaoheng Zhou",
+            "country": ""
+        },
+        {
+            "name": "Yongjun Liu",
+            "country": ""
+        },
+        {
+            "name": "Kai Huang",
+            "country": ""
+        },
+        {
+            "name": "Gang Chen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

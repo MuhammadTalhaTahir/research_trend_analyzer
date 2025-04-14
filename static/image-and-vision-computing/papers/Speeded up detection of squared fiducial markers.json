@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885618300799",
+    "title": "Speeded up detection of squared fiducial markers",
+    "abstract": "Squared planar markers have become a popular method for pose estimation in applications such as autonomous robots,  unmanned vehicles  and virtual trainers. The markers allow estimating the position of a monocular camera with minimal cost, high robustness, and speed. One only needs to create markers with a regular printer, place them in the desired environment so as to cover the working area, and then registering their location from a set of images. Nevertheless, marker detection is a time-consuming process, especially as the image dimensions grows. Modern cameras are able to acquire high resolutions images, but  fiducial marker  systems are not adapted in terms of computing speed. This paper proposes a multi-scale strategy for speeding up marker detection in video sequences by wisely selecting the most appropriate scale for detection, identification and corner estimation. The experiments conducted show that the proposed approach outperforms the state-of-the-art methods without sacrificing accuracy or robustness. Our method is up to 40 times faster than the state-of-the-art method, achieving over 1000 fps in 4 K images without any  parallelization .",
+    "citation_count": "546",
+    "year": "2018/08/01",
+    "authors": [
+        {
+            "name": "Francisco J. Romero-Ramirez",
+            "country": ""
+        },
+        {
+            "name": "Rafael Muñoz-Salinas",
+            "country": ""
+        },
+        {
+            "name": "Rafael Medina-Carnicer",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

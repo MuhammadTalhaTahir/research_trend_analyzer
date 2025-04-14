@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-025-01425-w",
+    "title": "A fast and accurate 3D lung tumor segmentation algorithm",
+    "abstract": "In this article, we propose a lung tumor segmentation algorithm based on the Allen–Cahn (AC) energy equation. The novelty lies in the fact that, when extracting the energy matrix using the AC energy equation, we employ a sliding window algorithm for feature extraction on the data without neglecting local features. After obtaining the energy matrix, we construct constraint conditions based on the minimum and maximum values in the matrix, forming an arithmetic progression. Due to the flexibility in setting the sliding window size and constraint conditions, we can achieve segmentation results according to different requirements. In the numerical experiments, we conduct segmentation experiments of varying difficulty in both two-dimensional (2D) and three-dimensional (3D) spaces to verify the effectiveness of the proposed method. When addressing the lung tumor segmentation problem, we compare the maximum diameter of 3D lung tumors segmented by our proposed segmentation algorithm with the maximum diameter of lung tumors in the original 2D CT images to validate the segmentation accuracy and significance of the proposed method. By conducting more detailed and precise measurements and segmentations of tumors in 3D space, this approach contributes to advancements in medical science and enhances patient treatment outcomes. We also conduct tumor segmentation experiments on the MSD and LIDC-IDRI datasets, setting up comparison metrics to further verify the method’s effectiveness.",
+    "citation_count": 55,
+    "year": "2025/06",
+    "authors": [
+        {
+            "name": "Wang, Jian",
+            "country": "China"
+        },
+        {
+            "name": "Han, Ziwei",
+            "country": "China"
+        },
+        {
+            "name": "Chen, Xinlei",
+            "country": "China"
+        },
+        {
+            "name": "Kim, Junseok",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

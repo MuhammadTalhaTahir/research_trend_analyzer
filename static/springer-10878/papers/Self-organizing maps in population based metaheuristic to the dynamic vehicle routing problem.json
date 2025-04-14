@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-011-9400-8",
+    "title": "Self-organizing maps in population based metaheuristic to the dynamic vehicle routing problem",
+    "abstract": "We consider the dynamic vehicle routing problem (dynamic VRP). In this problem, new customer demands are received along the day. Hence, they must be serviced at their locations by a set of vehicles in real time. The approach to address the problem is a hybrid method which manipulates the self-organizing map (SOM) neural network into a population based evolutionary algorithm. The method, called memetic SOM, illustrates how the concept of intermediate structure, also called elastic net or adaptive mesh concept, provided by the original SOM can naturally be applied into a dynamic setting. The experiments show that the heuristic outperforms the approaches that were applied to the Kilby et al. 22 problems with up to 385 customers. It performs better with respect to solution quality than the ant colony algorithm MACS-VRPTW, a genetic algorithm, and a multi-agent oriented approach, with a computation time used roughly 100 times lesser.",
+    "citation_count": 31,
+    "year": "2012/11",
+    "authors": [
+        {
+            "name": "Créput, Jean-Charles",
+            "country": "France"
+        },
+        {
+            "name": "Hajjam, Amir",
+            "country": "France"
+        },
+        {
+            "name": "Koukam, Abderrafiaa",
+            "country": "France"
+        },
+        {
+            "name": "Kuhn, Olivier",
+            "country": "France"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

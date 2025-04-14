@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650221001796",
+    "title": "Grammar-based cooperative learning for evolving collective behaviours in multi-agent systems",
+    "abstract": "This paper presents a novel grammar-based evolutionary approach which allows autonomous emergence of heterogeneity in collective behaviours. The approach adopts a context-free grammar to describe the syntax of evolving rules, which facilitates an  evolutionary algorithm  to evolve rule structures without manual intervention. We propose modifications to the  genome structure  to address the requirements of heterogeneity, and two cooperative learning architectures based on team learning and cooperative  coevolution . Experimental evaluations with four behaviours illustrate that both architectures are successful in evolving heterogeneous collective behaviours. Both  heterogeneous architectures  surpass a  homogeneous model  in performance for deriving a flocking macro behaviour, however the homogeneous model is superior for evolving micro behaviours such as cohesion and alignment. The results infer that by placing the entire set of agent rules and their syntax under evolutionary control, effective solutions to complex problems can be evolved when  human knowledge  and intuition becomes insufficient.",
+    "citation_count": "6",
+    "year": "2022/03/01",
+    "authors": [
+        {
+            "name": "Dilini Samarasinghe",
+            "country": ""
+        },
+        {
+            "name": "Michael Barlow",
+            "country": ""
+        },
+        {
+            "name": "Erandi Lakshika",
+            "country": ""
+        },
+        {
+            "name": "Kathryn Kasmarik",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

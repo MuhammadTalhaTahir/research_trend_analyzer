@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002452",
+    "title": "Dual-consistency constraints network for noisy facial expression recognition",
+    "abstract": "Although existing  facial expression recognition  (FER) methods have achieved great success, their performance degrades significantly under noisy labels caused by low-quality images, ambiguous expressions, and subjective and incorrect labeling. Recent studies have shown that  deep neural networks  (DNNs) can easily overfit noisy labels, which poses a great challenge to FER task in real-world scenarios. To address this issue, we propose a novel Dual-consistency Constraints Network (DC-Net) to automatically suppress noisy samples during training. Specifically, we first propose a  Class Activation Mapping  (CAM) Attention Consistency (CAC), which makes the model focus on partially important feature information. As a result, we obtain more robust  local feature  representations and reduce excessive attention to noisy labels. Then, a Class Feature Consistency (CFC) is designed to encourage the model to focus on the global semantic information of the image. Finally, with the collaboration of the  CAC  and the CFC, DC-Net can learn robust local and global feature information to prevent the model from learning biased information with noisy labels. We conducted extensive experiments on three field datasets, including RAF-DB, AffectNet, and FERPlus2013. Experimental results show that DC-Net significantly outperforms state-of-the-art noisy labeling methods at different noise rates and generalizes well to other tasks with a large number of classes, such as CIFAR100 and Tiny- ImageNet.",
+    "citation_count": "2",
+    "year": "2024/08/01",
+    "authors": [
+        {
+            "name": "Haiying Xia",
+            "country": ""
+        },
+        {
+            "name": "Chunhai Su",
+            "country": ""
+        },
+        {
+            "name": "Shuxiang Song",
+            "country": ""
+        },
+        {
+            "name": "Yumei Tan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-006-0034-x",
+    "title": "A semi-automatic system for segmentation of cardiac M-mode images",
+    "abstract": "Pixel classifiers are often adopted in pattern recognition as a suitable method for image segmentation. A common approach to the performance evaluation of classifier systems is based on the measurement of the classification errors and, at the same time, on the computational time. In general, multiclassifiers have proven to be more precise in the classification in many applications, but at the cost of a higher computational load. This paper analyzes different classifiers and proposes an evaluation of the classifiers in the case of semi-automatic processes with human interaction. Medical imaging is a typical application, where automatic or semi-automatic segmentation can be a valuable support to the diagnosis. The paper focuses on the segmentation of cardiac images of fruit flies (genetic model for analyzing human heart’s diseases). Analysis is based on M-modes, that are gray-level images derived from mono-dimensional projections of the video frames on a line. Segmentation of the M-mode images is provided by classifiers and integrated in a multiclassifier. A neural network classifier, a Bayesian classifier, and a classifier based on hidden Markov chains are joined by means of a Behavior Knowledge Space fusion rule. The comparative evaluation is discussed in terms of both accuracy and required time, in which the time to correct the classifier errors by means of human intervention is also taken into account.",
+    "citation_count": 59,
+    "year": "2006/11",
+    "authors": [
+        {
+            "name": "Bertelli, Luca",
+            "country": "USA"
+        },
+        {
+            "name": "Cucchiara, Rita",
+            "country": "Italy"
+        },
+        {
+            "name": "Paternostro, Giovanni",
+            "country": "Italy"
+        },
+        {
+            "name": "Prati, Andrea",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

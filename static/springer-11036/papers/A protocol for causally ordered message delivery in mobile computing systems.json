@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1013613607398",
+    "title": "A protocol for causally ordered message delivery in mobile computing systems",
+    "abstract": "There is a growing trend in developing applications for mobile computing systems in which mobile host computers retain their network connections while in transit. This paper proposes an algorithm that enforces a useful property, namely, causal ordering, that delivers messages among mobile hosts. This property ensures that causally related messages directed to the same destination will be delivered in an order consistent with their causality, which is important in applications that involve human interaction such as mobile e‐mail and mobile teleconferencing. Such applications are envisioned by the proponents of Personal Communications Services (PCS). Without this property, users may receive and read original messages and the corresponding replies out of order. Our algorithm, when compared with previous proposals, provides an alternative with a low handoff cost, medium message overhead, and low probability of unnecessary inhibition in delivering messages.",
+    "citation_count": 23,
+    "year": "1997/12",
+    "authors": [
+        {
+            "name": "Yen, Li‐Hsing",
+            "country": "R.O.C"
+        },
+        {
+            "name": "Huang, Ting‐Lu",
+            "country": "R.O.C"
+        },
+        {
+            "name": "Hwang, Shu‐Yuen",
+            "country": "R.O.C"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002289",
+    "title": "An identity-based proxy re-encryption for data deduplication in cloud",
+    "abstract": "Cloud computing  offers a huge resource pool by centralizing various resources with the rapid growth of  digital data . Data storage is the most acceptable service in cloud computing. As one of the key technologies of  cloud storage service , data  deduplication  technology allows cloud servers to save storage space by deleting redundant data. In order to protect data privacy, data holders generally encrypt their data first, and then upload the  encrypted data  to the cloud server, which clearly brings a new challenge for cloud  data deduplication , as traditional deduplication technology cannot deduplicate encrypted data. Existing solutions have various security issues. They cannot flexibly support data access control, and also require data users to remain online. In this paper, we propose an identity-based proxy re-encryption data deduplication scheme using identity-based proxy re-encryption (IB-PRE) and identity-based proof of ownership (IB-PoW). The proposed scheme integrates cloud data deduplication with access control. By detailed security analysis and performance evaluation, we show that the proposed scheme is security, efficient and effective.",
+    "citation_count": "23",
+    "year": "2021/12/01",
+    "authors": [
+        {
+            "name": "Ge Kan",
+            "country": ""
+        },
+        {
+            "name": "Chunhua Jin",
+            "country": ""
+        },
+        {
+            "name": "Huihui Zhu",
+            "country": ""
+        },
+        {
+            "name": "Yongliang Xu",
+            "country": ""
+        },
+        {
+            "name": "Nian Liu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

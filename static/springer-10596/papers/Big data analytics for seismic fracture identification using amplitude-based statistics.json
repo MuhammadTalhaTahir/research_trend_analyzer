@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-019-09890-z",
+    "title": "Big data analytics for seismic fracture identification using amplitude-based statistics",
+    "abstract": "Present-day innovations in seismic acquisition tools and techniques have enabled the acquisition of detailed seismic datasets, which in many cases are extremely large (on the order of terabytes to petabytes). However, data analysis tools for extracting information on critical subsurface features such as fractures are still evolving. Traditional methods rely on time-consuming iterative workflows, which involve computing seismic attributes, de-noising, and expert interpretation. Additionally, with the increasingly widespread acquisition of time-lapse seismic surveys (4D), there is a heightened demand for reliable automated workflows to assist feature interpretation from seismic data. We present a novel data-driven tool for fast fracture identification in BIG post-stack seismic datasets, motivated by techniques developed for real-time face detection. The proposed algorithm computes spatio-temporal amplitude statistics using Haar-like bases, in order to characterize the seismic amplitude properties that correspond to fracture occurrence in a unit window or voxel. Under this approach, the amplitude data is decomposed into a collection of simple-to-calculate “mini-attributes,” which carry information on the amplitude gradient and curvature characteristics at varying locations and scales. These features then serve as inputs to a cascade of boosted classification tree models, which select and combine the most discriminative features to develop a probabilistic binary classification model. This overall approach helps to eliminate the computationally intensive and subjective use of ad hoc seismic attributes in existing approaches. We first demonstrate the viability of the proposed methodology for identifying discrete macro-fractures in a 2D synthetic seismic dataset. Next, we validate the approach using 3D post-stack seismic data from the Niobrara Shale interval within the Teapot Dome field. We show the applicability of the proposed framework for identifying sub-seismic fractures, by considering the amplitude profile adjacent to interpreted formation microimager (FMI) well log data. The upscaled spatial distribution of the predicted fractures shows agreement with existing geological studies and aligns with interpreted large-scale faults within the interval of interest.",
+    "citation_count": 21,
+    "year": "2019/12",
+    "authors": [
+        {
+            "name": "Udegbe, Egbadon",
+            "country": "USA"
+        },
+        {
+            "name": "Morgan, Eugene",
+            "country": "USA"
+        },
+        {
+            "name": "Srinivasan, Sanjay",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

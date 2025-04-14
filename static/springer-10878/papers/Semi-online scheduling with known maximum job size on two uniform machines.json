@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-009-9214-0",
+    "title": "Semi-online scheduling with known maximum job size on two uniform machines",
+    "abstract": "In this paper, we investigate the semi-online scheduling problem with known maximum job size on two uniform machines with the speed ratio s≥1. The objective is to minimize the makespan. Two algorithms are presented, where the first is optimal for $1\\leq s\\leq\\sqrt{2}$ , and the second is optimal for 1.559≤s≤2 and $s\\ge \\frac{3+\\sqrt{17}}{2}$ . In addition, the improvement on lower bounds is made for $2",
+    "citation_count": 12,
+    "year": "2010/11",
+    "authors": [
+        {
+            "name": "Cao, Qian",
+            "country": "China"
+        },
+        {
+            "name": "Liu, Zhaohui",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

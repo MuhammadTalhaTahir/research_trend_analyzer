@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885622000804",
+    "title": "Learning language to symbol and language to vision mapping for visual grounding",
+    "abstract": "Visual Grounding (VG) is a task of locating a specific object in an image semantically matching a given  linguistic expression . The mapping of the linguistic and visual contents and the understanding of diverse linguistic expressions are the two challenges of this task. The performance of visual grounding is consistently improved by deep visual features in the last few years. While deep visual features contain rich information, they could also be noisy, biased and easily over-fitted. In contrast, symbolic features are discrete, easy to map and usually less noisy. In this work, we propose a novel modular network learning to match both the object's symbolic features and conventional visual features with the linguistic information. Moreover, the Residual Attention Parser is designed to alleviate the difficulty of understanding diverse expressions. Our model achieves competitive performance on three popular datasets of VG.",
+    "citation_count": "1",
+    "year": "2022/06/01",
+    "authors": [
+        {
+            "name": "Su He",
+            "country": ""
+        },
+        {
+            "name": "Xiaofeng Yang",
+            "country": ""
+        },
+        {
+            "name": "Guosheng Lin",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

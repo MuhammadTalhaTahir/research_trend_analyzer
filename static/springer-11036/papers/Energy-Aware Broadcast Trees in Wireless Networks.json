@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1023/B:MONE.0000042496.99241.53",
+    "title": "Energy-Aware Broadcast Trees in Wireless Networks",
+    "abstract": "In this paper we address the problem of broadcasting in wireless networks, so that the power consumed by any node is as small as possible. This approach is motivated by the fact that nodes in such networks often use batteries and, hence, it is important to conserve energy individually, so that they remain operational for a long time. We formulate the problem as a lexicographic node power optimization one. The problem is in general NP-complete. We provide an optimal algorithm which runs in polynomial time in certain cases. We also provide a heuristic algorithm whose performance relative to the optimal one is fairly satisfactory. We next show that these algorithms can also be used to solve the problem of broadcasting so that the residual energy of any node after the broadcast process is as large as possible. Finally, we discuss the issues of implementing the above algorithms distributively, as well as their multicast extensions.",
+    "citation_count": 23,
+    "year": "2004/12",
+    "authors": [
+        {
+            "name": "Papadimitriou, Ioannis",
+            "country": "Greece"
+        },
+        {
+            "name": "Georgiadis, Leonidas",
+            "country": "Greece"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

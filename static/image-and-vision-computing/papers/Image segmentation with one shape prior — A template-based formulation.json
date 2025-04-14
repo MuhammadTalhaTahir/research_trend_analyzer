@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885612001758",
+    "title": "Image segmentation with one shape prior — A template-based formulation",
+    "abstract": "Image segmentation  with one shape prior is an important problem in  computer vision . Most algorithms not only share a similar energy definition, but also follow a similar  optimization strategy . Therefore, they all suffer from the same drawbacks in practice such as slow convergence and difficult-to-tune parameters. In this paper, by reformulating the energy  cost function , we establish an important connection between shape-prior based image segmentation with intensity-based image registration. This connection enables us to combine advanced shape and intensity modeling techniques from segmentation society with efficient optimization techniques from registration society. Compared with the traditional regularization-based approach, our framework is more systematic and more efficient, able to converge in a matter of seconds. We also show that user interaction (such as strokes and bounding boxes) can easily be incorporated into our algorithm if desired. Through challenging image segmentation experiments, we demonstrate the improved performance of our algorithm compared to other proposed approaches.",
+    "citation_count": "18",
+    "year": "2012/12/01",
+    "authors": [
+        {
+            "name": "Siqi Chen",
+            "country": ""
+        },
+        {
+            "name": "Daniel Cremers",
+            "country": ""
+        },
+        {
+            "name": "Richard J. Radke",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

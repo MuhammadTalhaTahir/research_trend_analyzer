@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223001487",
+    "title": "A novel hybrid particle swarm optimization with marine predators",
+    "abstract": "Particle swarm optimization  algorithms are often applied to solve optimization problems. However, the traditional particle swarm optimization algorithm has a single search method and is less capable of exploration and exploitation when solving high-dimensional and complex problems. In this paper, a hybrid particle swarm optimization algorithm for marine predators (HMPPSO) is proposed by combining the multi-stage search strategy of marine predators algorithm (MPA). We divide the search process of HMPPSO into three stages: the first stage uses Brownian motion for exploration; the middle stage divides the population into two parts, the first half remains responsible for exploration through Brownian motion. Besides, in the second half of the population, a random wandering strategy is proposed to randomly select five particles so that it can control the update of particles to prevent falling into the local optimal solution; the learning strategy is improved in the later stage. The control parameters are used to adjust the strategy, while making the single case learning method and the example averaging method alternate. This strategy accelerates the convergence of the algorithm while enhancing the diversity of the algorithm in the later stage and improving the development ability of the algorithm. In addition, the population diversity is enhanced using chaotic initialization and opposition-based learning strategies. The algorithm in this paper is applied to different types of CEC2017 benchmark test functions and four multi-dimensional non-linear structural design optimization problems. Compared with other recent algorithms, the results show that the performance of HMPPSO is significantly better than other algorithms.",
+    "citation_count": "24",
+    "year": "2023/12/01",
+    "authors": [
+        {
+            "name": "Baole Han",
+            "country": ""
+        },
+        {
+            "name": "Baosheng Li",
+            "country": ""
+        },
+        {
+            "name": "Chuandong Qin",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

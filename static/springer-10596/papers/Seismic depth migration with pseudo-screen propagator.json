@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1011587227696",
+    "title": "Seismic depth migration with pseudo-screen propagator",
+    "abstract": "The generalized screen propagator (GSP) is a fast and accurate method for computing wave propagation in laterally varying velocity media. The method solves the acoustic one-way wave equation by shuffling FFTs between frequency-space and frequency-wavenumber domain. The velocity model is decomposed into a vertically varying reference velocity and a laterally varying perturbation. Downward continuation of the wavefield is performed with a phase shift in a background medium followed by a correction that accommodates the lateral velocity variations. All frequencies of interest are migrated and summed to produce an image at each depth level. The screen propagators are applicable to both poststack and prestack depth migrations. We illustrate the method with the SEG-EAGE salt model and Marmousi data set. The image results show that the pseudo-screen propagator is a big improvement over the phase-screen propagator for steeply dipping events in strong-contrast heterogeneous media.",
+    "citation_count": 31,
+    "year": "1999/12",
+    "authors": [
+        {
+            "name": "Jin, Shengwen",
+            "country": "USA"
+        },
+        {
+            "name": "Wu, Ru-Shan",
+            "country": "USA"
+        },
+        {
+            "name": "Peng, Chengbin",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

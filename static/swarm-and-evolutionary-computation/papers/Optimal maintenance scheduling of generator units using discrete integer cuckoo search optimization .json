@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650216303662",
+    "title": "Optimal maintenance scheduling of generator units using discrete integer cuckoo search optimization algorithm",
+    "abstract": "In this paper, Discrete Integer Cuckoo Search (DICS) Optimization Algorithm is presented for generating an Optimal Maintenance Schedule for power utility with multiple  generator units  and complex constraints of Man Power Availability, Load Demand and strict Maintenance Window. The objective is to maximize and distribute the reserved power evenly across the fifty two weeks while satisfying the multiple constraints. This is a complex combinatorial NP-hard problem and there is no unique solution available for it. Nature inspired Cuckoo Search algorithm has been chosen to address this problem. Cuckoo search algorithm is a metaheuristic algorithm based on the obligate brood parasitism of cuckoo  bird species , where cuckoo tries to find the best nest of other birds whose eggs resemble her own to lay her eggs to be hatched by other birds. Therefore the problem is formulated to find the best host nest. The host nest is defined according to the constraints of the power utility. The results obtained are compared with the work of previous researchers using the same test system and using the  Genetic Algorithm  with Binary Representation (GABR), Genetic Algorithm with Integer Representation (GAIR), Discrete  Particle Swarm Optimization  (DPSO), Modified Discrete  Particle Swarm Optimization  (MDPSO) and Hybrid Scatter Genetic Algorithm (HSGA). The results show that the DICS outperformed all the other algorithms.",
+    "citation_count": "33",
+    "year": "2018/10/01",
+    "authors": [
+        {
+            "name": "Srinivasan Lakshminarayanan",
+            "country": ""
+        },
+        {
+            "name": "Devinder Kaur",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

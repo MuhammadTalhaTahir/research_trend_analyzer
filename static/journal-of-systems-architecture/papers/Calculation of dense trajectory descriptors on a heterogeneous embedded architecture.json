@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762115001009",
+    "title": "Calculation of dense trajectory descriptors on a heterogeneous embedded architecture",
+    "abstract": "Heterogeneous architectures have emerged as mainstream computing platforms due to their suitability to deliver high performance and energy efficiency. To fully realize this potential it is necessary to obtain a good mapping of the computation kernels to processing elements. The best mapping search can be very costly when complex applications presenting different levels of granularity must be evaluated in a heterogeneous computation platform. In this paper we propose a model that employs both the estimated computation time and power consumption of each application kernel to find the best computing configuration for the whole application. As a case study, our approach is applied to the implementation of an irregular algorithm on a heterogeneous embedded architecture, more precisely an algorithm used in computer vision applications like human action or gait recognition. We analyze two parallelization versions: a non-pipelined version and a pipelined one, and we use our approach to obtain the mapping with least energy consumption. Finally, we validate our model comparing the predicted results with the real values obtained for the two implementations of the algorithm.",
+    "citation_count": "1",
+    "year": "2015/11/01",
+    "authors": [
+        {
+            "name": "J.R. Cózar",
+            "country": ""
+        },
+        {
+            "name": "M.J. Marín-Jiménez",
+            "country": ""
+        },
+        {
+            "name": "J.M. González-Linares",
+            "country": ""
+        },
+        {
+            "name": "N. Guil",
+            "country": ""
+        },
+        {
+            "name": "J. Gómez-Luna",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

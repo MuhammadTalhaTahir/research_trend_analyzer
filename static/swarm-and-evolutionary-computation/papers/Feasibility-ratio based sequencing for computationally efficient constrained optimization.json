@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650221000110",
+    "title": "Feasibility-ratio based sequencing for computationally efficient constrained optimization",
+    "abstract": "Real world  optimization problems  typically involve constraints that must be satisfied for a design to be viable. Such constraints could represent physical limitations on induced behavior such as stress, displacement, temperature etc., or other practical limitations such as cost, geometry, manufacturability, etc. Constraint handling is therefore an active area of research, and a number of approaches have been proposed in the literature to be used with  evolutionary algorithms  to solve  constrained optimization  problems. Most approaches assume that the objective and constraints are simultaneously evaluated, and counted together as one evaluation as far as computation budget is concerned. However, in practical applications, there could be situations where the constraints and the objective can be independently evaluated (e.g., using different analyses). Therefore, it is worthwhile exploring if one can forego evaluation of certain constraints or the objective to save computational cost without misleading the search owing to insufficient information. Towards this end, the main focus of this study is to deal with a  partial evaluation  paradigm. We propose a feasibility-ratio based sequencing for partial evaluation of solutions during the evolutionary search. A lexicographic ranking approach is used for ordering the partially evaluated solutions. To balance the evaluation cost and  information gain  near constraint boundaries, a dynamic feasibility control technique is incorporated. A number of variants are systematically constructed to demonstrate the efficacy of partial evaluation and proposed sequencing approach. An extensive numerical study is conducted to evaluate the approach on a range of constraint problems, which confirms its competence.",
+    "citation_count": "5",
+    "year": "2021/04/01",
+    "authors": [
+        {
+            "name": "Kamrul Hasan Rahi",
+            "country": ""
+        },
+        {
+            "name": "Hemant Kumar Singh",
+            "country": ""
+        },
+        {
+            "name": "Tapabrata Ray",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

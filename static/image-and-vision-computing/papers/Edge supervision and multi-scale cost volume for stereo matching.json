@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621002419",
+    "title": "Edge supervision and multi-scale cost volume for stereo matching",
+    "abstract": "Recently, methods based on Convolutional Neural Network have achieved huge progress in  stereo matching . However, it is still difficult to find accurate matching points in inherently ill-posed regions (e.g., weak texture areas and around object edges), in which the accuracy of disparity estimate can be improved by the corresponding geometric constraints. To tackle this problem, we innovatively generate the depth ground-truth boundary dataset by mining the instance segmentation and semantic segmentation datasets and propose RDNet, which incorporates edge cues into stereo matching. The network learns geometric information through a separate processing branch edge stream, which can process feature information in parallel with the stereo stream. The edge stream removes noise and only focuses on processing the relevant boundary information. Besides, we introduce a multi-scale cost volume in hierarchical cost aggregation to enlarge the receptive fields and capture structural and global representations that can significantly improve the ability of scene understanding and disparity estimation accuracy. Moreover, a disparity refinement network with several dilated convolutions is applied to further improve the accuracy of the final disparity estimation. The proposed method is evaluated on Sceneflow, KITTI 2015 and KITTI 2012 benchmark datasets, and the qualitative and quantitative results demonstrate that the proposed RDNet significantly achieves the state-of-the-art stereo matching performance.",
+    "citation_count": "19",
+    "year": "2022/01/01",
+    "authors": [
+        {
+            "name": "Xiaowei Yang",
+            "country": ""
+        },
+        {
+            "name": "Zhiguo Feng",
+            "country": ""
+        },
+        {
+            "name": "Yong Zhao",
+            "country": ""
+        },
+        {
+            "name": "Guiying Zhang",
+            "country": ""
+        },
+        {
+            "name": "Lin He",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

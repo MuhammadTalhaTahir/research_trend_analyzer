@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762125000438",
+    "title": "Checkpointing for single core energy-neutral real-time systems",
+    "abstract": "In this work, we focus on energy-neutral real-time systems, where ambient energy harvested from the environment powers a device that executes tasks with timing constraints. We address the scheduling of a set of real-time sporadic tasks with predefined checkpoints on a single-core platform powered by an energy harvester, using the Earliest Deadline First (EDF) scheduler. Our objective is to minimize temporal and energy checkpointing costs by selecting a subset of checkpoints per task while ensuring compliance with both timing and energy constraints. We propose a novel energy-aware scheduler and two techniques for selecting checkpoints that respect both energy and timing constraints. We provide a detailed schedulability analysis for the proposed techniques and present results from a large set of synthetic experiments. These experiments demonstrate that our approaches outperform ED-H , an optimal energy-neutral preemptive scheduler in average by 50%.",
+    "citation_count": "0",
+    "year": "2025/04/01",
+    "authors": [
+        {
+            "name": "Houssam-Eddine Zahaf",
+            "country": ""
+        },
+        {
+            "name": "Pierre-Emmanuel Hladik",
+            "country": ""
+        },
+        {
+            "name": "Sébastien Faucou",
+            "country": ""
+        },
+        {
+            "name": "Audrey Queudet",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

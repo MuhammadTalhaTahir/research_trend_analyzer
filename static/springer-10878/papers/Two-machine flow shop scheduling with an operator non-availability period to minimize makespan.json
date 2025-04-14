@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-020-00548-6",
+    "title": "Two-machine flow shop scheduling with an operator non-availability period to minimize makespan",
+    "abstract": "In this paper, we consider the two-machine flow shop scheduling with an operator non-availability period in the first stage to minimize makespan, where the operator non-availability period is an open time interval in which a job can neither start nor complete. We first prove that the problem is NP-hard, even if the length of the operator non-availability period is no more than the processing time of any job on the first machine. Then we show that Johnson’s rule is a 2-approximation algorithm and the bound is tight. Moreover, a better tight 3/2-approximation algorithm is provided.",
+    "citation_count": 15,
+    "year": "2020/05",
+    "authors": [
+        {
+            "name": "Li, Dawei",
+            "country": "China"
+        },
+        {
+            "name": "Lu, Xiwen",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

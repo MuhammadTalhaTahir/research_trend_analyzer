@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-022-10170-6",
+    "title": "Design of optimal operational parameters for steam-alternating-solvent processes in heterogeneous reservoirs – A multi-objective optimization approach",
+    "abstract": "Steam injection is a widely-used process for heavy oil and bitumen recovery. However, a significant drawback is the excessive energy requirement, water consumption, and CO2 generation. The Steam Alternating Solvent (SAS) process has been proposed as an eco-friendlier alternative to the existing steam-based methods. It involves injecting steam and solvent (i.e. propane) in separate cycles. The interplay between reservoir heterogeneity and the complex physical mechanisms of heat and mass transfer has made optimizing its design parameters quite challenging. This work aims to develop a hybrid Multi-Objective Optimization (MOO) scheme for determining the optimal operational parameters using the Pareto dominance concept while considering several conflicting objectives (i.e. RF, steam, and solvent injection) under several heterogeneous scenarios. A 2-D base homogenous reservoir model is built according to the Fort McMurray formation in the Athabasca region in Alberta, Canada. Next, shale barriers with varying proportions, lengths, and locations are superimposed onto the base model. Then, a sensitivity analysis is performed to assess the controllable operational parameters’ impact and formulate several objective functions; proxy models are introduced to speed up the objective function evaluations. Finally, different Multi-Objective Evolutionary Algorithms (MOEAs) are applied to establish the optimal ranges to operate the selected decision variables. Different optimal operating strategies are needed depending on the shale barrier distribution. Injector bottom-hole pressure, steam trap, and producer gas rate significantly impact the model response. Injecting high propane concentration over short durations is recommended. The length of the steam injection phase seems to be more sensitive to the reservoir heterogeneities; extended steam injection is needed for the more heterogeneous models. This paper is the first work comparing different MOEAs to optimize the SAS process using multiple heterogeneous models.",
+    "citation_count": 61,
+    "year": "2022/12",
+    "authors": [
+        {
+            "name": "Mayo-Molina, Israel",
+            "country": "Canada"
+        },
+        {
+            "name": "Ma, Zhiwei",
+            "country": "USA"
+        },
+        {
+            "name": "Leung, Juliana Y.",
+            "country": "Canada"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

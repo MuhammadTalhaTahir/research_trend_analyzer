@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885614001371",
+    "title": "Radial shifted Legendre moments for image analysis and invariant image recognition",
+    "abstract": "The rotation, scaling and translation  invariant property  of image moments has a high significance in image recognition. Legendre moments as a classical orthogonal moment have been widely used in image analysis and recognition. Since Legendre moments are defined in  Cartesian coordinate , the rotation invariance is difficult to achieve. In this paper, we first derive two types of transformed  Legendre polynomial : substituted and weighted radial shifted Legendre polynomials. Based on these two types of polynomials, two radial orthogonal moments, named substituted radial shifted Legendre moments and weighted radial shifted Legendre moments (SRSLMs and WRSLMs) are proposed. The proposed moments are orthogonal in polar coordinate domain and can be thought as generalized and orthogonalized complex moments. They have better image reconstruction performance, lower information redundancy and higher noise robustness than the existing radial orthogonal moments. At last, a mathematical framework for obtaining the rotation, scaling and translation invariants of these two types of radial shifted Legendre moments is provided. Theoretical and experimental results show the superiority of the proposed methods in terms of image reconstruction capability and invariant recognition accuracy under both noisy and noise-free conditions.",
+    "citation_count": "64",
+    "year": "2014/12/01",
+    "authors": [
+        {
+            "name": "Bin Xiao",
+            "country": ""
+        },
+        {
+            "name": "Guo-yin Wang",
+            "country": ""
+        },
+        {
+            "name": "Wei-sheng Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

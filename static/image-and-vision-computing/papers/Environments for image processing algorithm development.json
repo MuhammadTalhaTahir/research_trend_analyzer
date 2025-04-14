@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/0262885684900234",
+    "title": "Environments for image processing algorithm development",
+    "abstract": "The development of image processing algorithms can be greatly assisted by a software environment which is suitable for rapidly implementing and testing new ideas. This paper looks at a traditional approach to providing such an environment and highlights its weaknesses. The requirements of an ideal system are summarized and some observations are made about alternative software approaches.",
+    "citation_count": "7",
+    "year": "1984/11/01",
+    "authors": [
+        {
+            "name": "PJ Brumfitt",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

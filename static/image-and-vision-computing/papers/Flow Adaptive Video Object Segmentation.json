@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885619304573",
+    "title": "Flow Adaptive Video Object Segmentation",
+    "abstract": "We tackle the task of semi-supervised video object segmentation, i.e. pixel-level object classification of the images in video sequences using very limited ground truth  training data  of its corresponding video. We present FLow Adaptive Video Object Segmentation, an efficient pipeline based on a novel online  adaptation algorithm  that utilizes optical flow, capable of tracking objects effectively throughout videos. Comparing with most of the recent  deep learning  based approaches that trade efficiency for accuracy, we provide extensive complexity analysis and additionally demonstrate that FLAVOS is natural for  real world applications  by introducing an interactive pipeline that enables the user to provide feedback for online training. Our method achieves state-of-the-art accuracy on three challenging benchmark datasets and nearly ground-truth level segmentation results with interactive user feedback.",
+    "citation_count": "15",
+    "year": "2020/02/01",
+    "authors": [
+        {
+            "name": "Fanqing Lin",
+            "country": ""
+        },
+        {
+            "name": "Yao Chou",
+            "country": ""
+        },
+        {
+            "name": "Tony Martinez",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

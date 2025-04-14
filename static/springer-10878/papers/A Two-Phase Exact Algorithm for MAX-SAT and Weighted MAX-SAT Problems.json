@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1009725216438",
+    "title": "A Two-Phase Exact Algorithm for MAX-SAT and Weighted MAX-SAT Problems",
+    "abstract": "We describe a two-phase algorithm for MAX-SAT and weighted MAX-SAT problems. In the first phase, we use the GSAT heuristic to find a good solution to the problem. In the second phase, we use an enumeration procedure based on the Davis-Putnam-Loveland algorithm, to find a provably optimal solution. The first heuristic stage improves the performance of the algorithm by obtaining an upper bound on the minimum number of unsatisfied clauses that can be used in pruning branches of the search tree. We compare our algorithm with an integer programming branch-and-cut algorithm. Our implementation of the two-phase algorithm is faster than the integer programming approach on many problems. However, the integer programming approach is more effective than the two-phase algorithm on some classes of problems, including MAX-2-SAT problems.",
+    "citation_count": 20,
+    "year": "1998/12",
+    "authors": [
+        {
+            "name": "Borchers, Brian",
+            "country": "Socorro"
+        },
+        {
+            "name": "Furman, Judith",
+            "country": "Clemson"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885620300561",
+    "title": "Convolutional prototype learning for zero-shot recognition",
+    "abstract": "Zero-shot learning (ZSL) has received increasing attention in recent years especially in areas of fine-grained object recognition, retrieval, and  image captioning . The key to ZSL is to transfer knowledge from the seen to the unseen classes via auxiliary class attribute vectors. However, the popularly learned projection functions in previous works cannot generalize well since they assume the distribution consistency between seen and unseen domains at sample-level. Besides, the provided non-visual and unique class attributes can significantly degrade the recognition performance in semantic space. In this paper, we propose a simple yet effective convolutional prototype learning (CPL) framework for zero-shot recognition. By assuming distribution consistency at task-level, our CPL is capable of  transferring  knowledge smoothly to recognize unseen samples. Furthermore, inside each task, discriminative visual prototypes are learned via a distance based training mechanism. Consequently, we can perform recognition in visual space, instead of semantic space. An extensive group of experiments are then carefully designed and presented, demonstrating that CPL obtains more favorable effectiveness, over currently available alternatives under various settings.",
+    "citation_count": "17",
+    "year": "2020/06/01",
+    "authors": [
+        {
+            "name": "Zhizhe Liu",
+            "country": ""
+        },
+        {
+            "name": "Xingxing Zhang",
+            "country": ""
+        },
+        {
+            "name": "Zhenfeng Zhu",
+            "country": ""
+        },
+        {
+            "name": "Shuai Zheng",
+            "country": ""
+        },
+        {
+            "name": "Yao Zhao",
+            "country": ""
+        },
+        {
+            "name": "Jian Cheng",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

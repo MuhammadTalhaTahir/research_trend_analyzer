@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1023/B:MONE.0000042499.64488.ba",
+    "title": "Up- and Downlink Admission/Congestion Control and Maximal Load in Large Homogeneous CDMA Networks",
+    "abstract": "This paper proposes scalable admission and congestion control schemes that allow each base station to decide independently of the others what set of voice users to serve and/or what bit rates to offer to elastic traffic users competing for bandwidth. These algorithms are primarily meant for large CDMA networks with a random but homogeneous user distribution. They take into account in an exact way the influence of geometry on the combination of inter-cell and intra-cell interferences as well as the existence of maximal power constraints of the base stations and users. We also study the load allowed by these schemes when the size of the network tends to infinity and the mean bit rate offered to elastic traffic users. By load, we mean here the number of voice users that each base station can serve.",
+    "citation_count": 15,
+    "year": "2004/12",
+    "authors": [
+        {
+            "name": "Baccelli, François",
+            "country": "France"
+        },
+        {
+            "name": "Błaszczyszyn, Bartłomiej",
+            "country": "France"
+        },
+        {
+            "name": "Karray, Mohamed Kadhem",
+            "country": "France"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762197000325",
+    "title": "Justifying reliability claims for a fault-detecting parallel architecture",
+    "abstract": "This paper describes ‘Goal Structuring Notation’ (GSN), a graphical notation that can be used to structure and present an argument justifying some aspect of system performance. The design of a fault-detecting processor pair is examined to determine the extent to which it is indeed ‘fault-detecting’. It is argued that for complex systems, difficulties with assessment arise not so much from a lack of analysis techniques, but from the need to integrate the results from many diverse analyses into a coherent and compelling argument. It is suggested that GSN provides a framework in which such an argument can be made.",
+    "citation_count": "2",
+    "year": "1997/01/01",
+    "authors": [
+        {
+            "name": "Clive Pygott",
+            "country": ""
+        },
+        {
+            "name": "Stephen P. Wilson",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124001115",
+    "title": "Migration-aware slot-based memory request scheduler to guarantee QoS in DRAM-PCM hybrid memories",
+    "abstract": "Emerging hybrid memory technologies composed of non-volatile memories (NVM) and DRAMs exhibit significant access speeds and capacity improvement. High application performance is feasible by dynamic migration (or relocation) of pages (data) between the memory types. While NVM is used for its density during memory allocation, moving write-intensive pages from NVM to DRAM helps to improve the execution and response time of applications. Existing techniques propose solutions to dynamically identify the pages that need to be moved immediately or in  regular intervals . Such an immediate or interval-based rigid migration regime may hamper the service of the regular memory requests, which in turn affects the memory service rate. To alleviate the impact on service rate and improve the quality-of-service (QoS) of the device, this paper proposes a scheduling method to identify the instant at which to migrate the eligible page. Along with regular memory requests, these eligible migration candidate pages are given reserved time slots by taking into account the current memory request rate. Our proposed methods aim to optimize the migration overheads by avoiding unnecessary migrations and at the same time guaranteeing future accesses to the migrated pages. This results in improved execution time and memory response time for the applications.",
+    "citation_count": "2",
+    "year": "2024/07/01",
+    "authors": [
+        {
+            "name": "Aswathy N.S.",
+            "country": ""
+        },
+        {
+            "name": "Hemangee K. Kapoor",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

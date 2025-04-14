@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218300762",
+    "title": "A node-depth phylogenetic-based artificial immune system for multi-objective Network Design Problems",
+    "abstract": "Network Design Problems  (NDP) constitute a traditional class of  combinatorial optimization problems . They usually rely on finding an optimal tree on a graph that respects the particular constraints of the problem at hand. When using  evolutionary algorithms  to solve NDP, one can use specific encodings to represent a tree. A newly proposed tree encoding in the literature is the Node-depth Phylogenetic-based encoding (NPE), which possess small time and space complexity, among other desirable characteristics. In this work, we propose the first  metaheuristic  on the literature that implements the NPE, the Node-depth Phylogenetic-based Non-dominated Sorting  Artificial Immune System  (NPE-NSAIS). We assess the quality of the proposed algorithm by solving a bi-objective NDP, the Minimum-Cost Bounded-Error Calibration Tree problem (MBCT). Our results reveal that the NPE-NSAIS outperforms the state-of-the-art algorithm for the MBCT. Moreover, we show that the NPE-NSAIS outperforms three other NSAIS algorithms that employ different encodings, the NSGA-II, and the SPEA2.",
+    "citation_count": "11",
+    "year": "2019/11/01",
+    "authors": [
+        {
+            "name": "Iago A. Carvalho",
+            "country": ""
+        },
+        {
+            "name": "Marco A. Ribeiro",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

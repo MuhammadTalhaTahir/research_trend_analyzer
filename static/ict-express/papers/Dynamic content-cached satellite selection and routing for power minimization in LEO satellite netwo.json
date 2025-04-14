@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959524001073",
+    "title": "Dynamic content-cached satellite selection and routing for power minimization in LEO satellite networks",
+    "abstract": "Efficient delivery of content to areas where terrestrial Internet service is unavailable can be possible via content caching at low earth orbit (LEO) satellites. Cached content in several LEO satellites must be delivered via inter-satellite links (ISLs) with appropriate routing techniques. Until now, content caching and routing techniques have been optimized independently. To tackle this issue, the optimization of selecting a content-cached satellite and routing is jointly performed, using the example of Earth observation data cached across multiple satellites. In this paper, we first formulate a dynamic power minimization problem constrained by the queue stability of all LEO satellites, where the control variables are the selection of content-cached satellite and routing in every satellite. To solve this long-term time-averaged problem, we leverage Lyapunov optimization framework to transform the original problem into a series of slot-by-slot problems. Moreover, we prove that the average power consumption and the average queue backlog by the proposed algorithm can be upper-bounded via theoretical analysis. Finally, through extensive simulations, we demonstrate that our proposed algorithm surpasses existing independent content-retrieval algorithms in terms of power consumption, queue backlog, and fairness.",
+    "citation_count": "0",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Jeongmin Seo",
+            "country": ""
+        },
+        {
+            "name": "Dongho Ham",
+            "country": ""
+        },
+        {
+            "name": "Jeongho Kwak",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

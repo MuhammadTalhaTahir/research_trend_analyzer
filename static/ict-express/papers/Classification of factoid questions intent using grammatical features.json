@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959518304491",
+    "title": "Classification of factoid questions intent using grammatical features",
+    "abstract": "In question-answering systems, question classification is a fundamental task. Identifying the accurate question type enhances the retrieval of more accurate answers. Factoid questions are the most challenging type of question to classify in which many approaches have been proposed with the objective of enhancing the classification of this type of question. In this paper, a grammar-based framework is used. The framework makes use of three main features which are, grammatical features, domain specific features and patterns. Using machine learning algorithms for the classification process, experimental results show that our approach has a good level of accuracy.",
+    "citation_count": "0",
+    "year": "2018/12/01",
+    "authors": [
+        {
+            "name": "Alaa Mohasseb",
+            "country": ""
+        },
+        {
+            "name": "Mohamed Bader-El-Den",
+            "country": ""
+        },
+        {
+            "name": "Mihaela Cocea",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959518300481",
+    "title": "Fault test analysis in transmission lines throughout interfering synchrophasor signals",
+    "abstract": "The distribution of power supplies be obliged to offer reliable, superior-quality in power. To obtain good power quality the transmission line faults identification should be more precise, consistence and complete rectification is required. The faults in the transmission and distribution lines influence the power quality. The major faults in transmission lines such as line to ground fault, line-to-line fault and three-phase faults. This paper proposes a unique organized interrelated structure for fault-location and classification technique for transmission lines through an experimental set-up similar to transmission and distribution for good power quality. The proposed method utilizes synchrophasor measurements during the disturbances from the transmission lines and compares with ideal condition signals for fault location and classification. From the results, the synchrophasor measurements identify faults in the initial stage. The phasor measurement results are modelled through regression modelling for precise measurement. Various faults are modelled for the earlier detection in the transmission lines.",
+    "citation_count": "0",
+    "year": "2019/12/01",
+    "authors": [
+        {
+            "name": "S. Ashok Kumar",
+            "country": ""
+        },
+        {
+            "name": "D. Chandramohan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

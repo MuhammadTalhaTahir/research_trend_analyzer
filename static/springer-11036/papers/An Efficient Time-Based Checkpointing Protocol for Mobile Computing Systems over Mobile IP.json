@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1026086712672",
+    "title": "An Efficient Time-Based Checkpointing Protocol for Mobile Computing Systems over Mobile IP",
+    "abstract": "Time-based coordinated checkpointing protocols are well suited for mobile computing systems because no explicit coordination message is needed while the advantages of coordinated checkpointing are kept. However, without coordination, every process has to take a checkpoint during a checkpointing process. In this paper, an efficient time-based coordinated checkpointing protocol for mobile computing systems over Mobile IP is proposed. The protocol reduces the number of checkpoints per checkpointing process to nearly minimum, so that fewer checkpoints need to be transmitted through the costly wireless link. Our protocol also performs very well in the aspects of minimizing the number and size of messages transmitted in the wireless network. In addition, the protocol is nonblocking because inconsistencies can be avoided by the piggybacked information in every message. Therefore, the protocol brings very little overhead to a mobile host with limited resource. Additionally, by taking advantage of reliable timers in mobile support stations, the time-based checkpointing protocol can adapt to wide area networks.",
+    "citation_count": 18,
+    "year": "2003/12",
+    "authors": [
+        {
+            "name": "Lin, Chi-Yi",
+            "country": "Taiwan"
+        },
+        {
+            "name": "Wang, Szu-Chi",
+            "country": "Taiwan"
+        },
+        {
+            "name": "Kuo, Sy-Yen",
+            "country": "Taiwan"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-011-9233-7",
+    "title": "Block-preconditioned Newton–Krylov solvers for fully coupled flow and geomechanics",
+    "abstract": "The focus of this work is efficient solution methods for mixed finite element models of variably saturated fluid flow through deformable porous media. In particular, we examine preconditioning techniques to accelerate the convergence of implicit Newton–Krylov solvers. We highlight an approach in which preconditioners are built from block-factorizations of the coupled system. The key result of the work is the identification of effective preconditioners for the various sub-problems that appear within the block decomposition. We use numerical examples drawn from both linear and nonlinear hydromechanical models to test the robustness and scalability of the proposed methods. Results demonstrate that an algebraic multigrid variant of the block preconditioner leads to mesh-independent convergence, good parallel efficiency, and insensitivity to the material parameters of the medium.",
+    "citation_count": 49,
+    "year": "2011/09",
+    "authors": [
+        {
+            "name": "White, Joshua A.",
+            "country": "USA"
+        },
+        {
+            "name": "Borja, Ronaldo I.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002543",
+    "title": "Nighttime image semantic segmentation with retinex theory",
+    "abstract": "Nighttime image   semantic segmentation  is challenging due to low-light and diverse  lighting conditions . A straightforward solution is to first enhance nighttime scene images to resemble daytime scene before performing segmentation. This kind of methods heavily rely on the enhancement quality. Inspired by the  Retinex theory  for low-light image enhancement, which decomposes an image into reflectance and illumination components, we propose a novel nighttime image  segmentation method  with Retinex theory (RNightSeg). Our core insight is to obtain high-quality illumination-independent reflectance component to enhance segmentation. Specifically, we apply a decomposition decoder to the  backbone network  for generating the reflectance component. In addition to the fidelity loss and  Total Variation  loss for the reflectance component regression, we model the brightening illumination component to enhance the nighttime image and apply the color constancy loss on the enhanced image. This helps to cope with the issue of low-light and diverse lighting in the nighttime scene. Finally, we fuse the reflectance decoder feature with the backbone feature and feed the fused feature to the segmentation decoder. Extensive experimental results on two widely used datasets demonstrate that the proposed RNightSeg achieves superior performance over some state-of-the-art segmentation methods. The code of our implementation is available at  https://github.com/sunzc-sunny/RNightSeg .",
+    "citation_count": "1",
+    "year": "2024/08/01",
+    "authors": [
+        {
+            "name": "Zhichao Sun",
+            "country": ""
+        },
+        {
+            "name": "Huachao Zhu",
+            "country": ""
+        },
+        {
+            "name": "Xin Xiao",
+            "country": ""
+        },
+        {
+            "name": "Yuliang Gu",
+            "country": ""
+        },
+        {
+            "name": "Yongchao Xu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

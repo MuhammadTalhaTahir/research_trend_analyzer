@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650212000399",
+    "title": "Optimum load shedding based on sensitivity to enhance static voltage stability using DE",
+    "abstract": "This paper proposes a methodology to optimize the load  curtailments  necessary to restore the equilibrium of operating point by accounting for operating and stability  inequality constraints . To get desired stability margin Schur's inequality based  proximity indicator  has been selected whose threshold value along with minimization of load shedding assures desired static  voltage stability margin . The methodology anticipates the risk of voltage instability in a time frame using sensitivity of proximity indicator of load flow  Jacobian  with respect to load. If the normal controls are exhausted, the proposed algorithm based on sensitivity, sheds, required amount of low priority loads in advance. This makes the system to survive voltage instability threat even during worst system period. The buses which are having large sensitivity are selected for load shedding. A computational algorithm for minimum load shedding at selected load buses has been developed using Differential Evolution (DE), Self-adaptive Differential Evolution (SaDE) and Ensemble of Mutation and Crossover Strategies and Parameters in Differential Evolution (EPSDE). Developed algorithm accounts inequality constraints not only in present operating conditions (after load shedding) but also for predicted next interval load (with load shedding). Proposed methodology has been implemented on IEEE 14-bus and 25-bus test systems. Performance of the methodology has been compared with Davidon–Fletcher–Powell's (DFP),  Particle Swarm Optimization  (PSO), Co-ordinated Aggregation based Particle Swarm Optimization (CAPSO) and  Genetic Algorithm  (GA) techniques based on statistical inference. Simulation results have been obtained which confirm that the proposed methodology provide considerable mitigation in the load shedding and enhancement in voltage stability. By using this methodology various  power system  blackouts can be prevented.",
+    "citation_count": "33",
+    "year": "2012/10/01",
+    "authors": [
+        {
+            "name": "L.D. Arya",
+            "country": ""
+        },
+        {
+            "name": "Pushpendra Singh",
+            "country": ""
+        },
+        {
+            "name": "L.S. Titare",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

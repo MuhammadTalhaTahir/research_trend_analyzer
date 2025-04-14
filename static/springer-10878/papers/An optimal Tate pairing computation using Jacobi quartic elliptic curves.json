@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-018-0257-y",
+    "title": "An optimal Tate pairing computation using Jacobi quartic elliptic curves",
+    "abstract": "This research paper proposes new explicit formulas to compute the Tate pairing on Jacobi quartic elliptic curves. We state the first geometric interpretation of the group law on Jacobi quartic curves by presenting the functions which arise in the addition and doubling. We draw together the best possible optimization that can be used to efficiently evaluate the Tate pairing using Jacobi quartic curves. They are competitive with all published formulas for Tate pairing computation using Short Weierstrass or Twisted Edwards curves. Finally we present several examples of pairing-friendly Jacobi quartic elliptic curves which provide optimal Tate pairing.",
+    "citation_count": 14,
+    "year": "2018/05",
+    "authors": [
+        {
+            "name": "Doss, Srinath",
+            "country": "Botswana"
+        },
+        {
+            "name": "Kaondera-Shava, Roselyn",
+            "country": "Botswana"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

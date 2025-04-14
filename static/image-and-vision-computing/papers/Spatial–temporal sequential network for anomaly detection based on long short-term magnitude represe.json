@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624004931",
+    "title": "Spatial–temporal sequential network for anomaly detection based on long short-term magnitude representation",
+    "abstract": "Notable advancements have been made in the field of video anomaly detection in recent years. The majority of existing methods approach the problem as a weakly-supervised classification problem based on multi-instance learning. However, the identification of key clips in this context is less precise due to a lack of effective connection between the spatial and temporal information in the video clips. The proposed solution to this issue is the Spatial-Temporal Sequential Network (STSN), which employs the Long Short-Term Magnitude Representation (LST-MR). The processing of spatial and temporal information is conducted in a sequential manner within a spatial–temporal sequential structure, with the objective of enhancing temporal localization performance through the utilization of spatial information. Furthermore, the long short-term magnitude representation is employed in spatial and temporal graphs to enhance the identification of key clips from both global and local perspectives. The combination of classification loss and distance loss is employed with magnitude guidance to reduce the omission of anomalous behaviors. The results on three widely used datasets: UCF-Crime, ShanghaiTech, and XD-Violence, demonstrate that the proposed method performs favorably when compared to existing methods.",
+    "citation_count": "0",
+    "year": "2025/02/01",
+    "authors": [
+        {
+            "name": "Zhongyue Wang",
+            "country": ""
+        },
+        {
+            "name": "Ying Chen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

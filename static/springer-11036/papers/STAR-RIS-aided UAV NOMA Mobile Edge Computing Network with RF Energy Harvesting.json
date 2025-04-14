@@ -1,0 +1,31 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-024-02344-6",
+    "title": "STAR-RIS-aided UAV NOMA Mobile Edge Computing Network with RF Energy Harvesting",
+    "abstract": "In the ultra-reliable, low-latency next-generation mobile network (beyond 5G or 6G), a resource-constrained unmanned aerial vehicle (UAV) user needs continuous energy-providing and mobile edge computing (MEC) facilities. In this study, we deploy the radio frequency (RF) power station to provide energy to the UAV, accompanied by simultaneous transmitting and reflecting reconfigurable intelligent surfaces (STAR-RIS) to assist a UAV user in offloading its tasks. In particular, this system consists of a power station, a UAV, and two access points, each of which has an MEC server and a STAR RIS installed within the building. The power station can transfer wireless power to the UAV via RF waves. A UAV user can apply the non-orthogonal multiple access (NOMA) schemes to offload its tasks to access points via STAR-RIS. In order to evaluate and optimize the performance, we derive the approximately closed-form expression for successful computation and energy outage probabilities by using the statistical characteristics of channel gains. Moreover, we introduced problem-solving based on a real-coded genetic algorithm (PRGA) to determine the optimal resource parameters and attain the highest system performance. Based on these criteria, we investigate the behaviors of a proposed system according to the system’s critical parameters, such as time switching ratio, transmit power, power allocation coefficient, data dividing ratio, number of elements of STAR-RIS, and altitude of the UAV. We also provide computer simulation results to validate our analysis. Finally, the research results have revealed that STAR-RIS can improve the performance of MEC networks by creating a smart communication environment.",
+    "citation_count": 35,
+    "year": "2023/12",
+    "authors": [
+        {
+            "name": "Ha, Dac-Binh",
+            "country": "Vietnam"
+        },
+        {
+            "name": "Truong, Van-Truong",
+            "country": "Vietnam"
+        },
+        {
+            "name": "Truong, Tien-Vu",
+            "country": "Vietnam"
+        },
+        {
+            "name": "Phan, Thanh-Minh",
+            "country": "Vietnam"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

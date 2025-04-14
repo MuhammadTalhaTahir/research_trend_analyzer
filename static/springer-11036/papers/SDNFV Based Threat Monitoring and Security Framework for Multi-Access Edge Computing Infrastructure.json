@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-019-01389-2",
+    "title": "SDNFV Based Threat Monitoring and Security Framework for Multi-Access Edge Computing Infrastructure",
+    "abstract": "DDoS botnet attacks such as Advanced Persistent &amp; Ransom DoS assaults, Botnets and Application DDoS flood attacks are examples of multi-vector, sophisticated application-layer attacks. Conventional IT security approaches are centralized and have limitations in terms of scale, network-wide monitoring and resources for distributed detection. This paper proposes a newer approach that integrates multi-layer cooperative security intelligence on to a converged Software-Defined-Networking/Network-Function-Virtualization architecture in typical Multi-access Edge Computing (MEC) scenario. The key features of framework include: a) distributed lightweight real-time DDoS Threat Analytics and Response Framework (DTARS), to identify DDoS/botnets closer to the source of attacks b) behavioral monitoring and profiling functions in data plane and validation of control plane operations, c) advanced correlation, signature, and anomaly detection techniques, d) real-time threat analytics system e) scalable and agile mitigation mechanisms based on a stateful-data plane and security-aware SDN stack. We evaluate the performance of DTARS framework within three practical MEC case studies: SDN enabled Mobile LTE MEC network, SDN enabled IoT MEC network and Software-Defined Datacenter Edge network. In comparison to legacy MEC network, DTARS incurs about 60% less overhead than the Legacy LTE and 40% lesser than a prior OVS SDN based MEC-LTE solution, detection speed that was about 10x faster, detection accuracy of about 96% at different attack intensities and improves the overall end-to-end connection management performance under rapid scaling of end users.",
+    "citation_count": 57,
+    "year": "2019/12",
+    "authors": [
+        {
+            "name": "Krishnan, Prabhakar",
+            "country": "India"
+        },
+        {
+            "name": "Duttagupta, Subhasri",
+            "country": "India"
+        },
+        {
+            "name": "Achuthan, Krishnashree",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

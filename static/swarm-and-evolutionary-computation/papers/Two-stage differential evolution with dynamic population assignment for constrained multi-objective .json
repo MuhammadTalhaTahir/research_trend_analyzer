@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224001950",
+    "title": "Two-stage differential evolution with dynamic population assignment for constrained multi-objective optimization",
+    "abstract": "Using infeasible information to balance  objective optimization  and  constraint satisfaction  is a very promising research direction to address constrained multi-objective problems (CMOPs) via  evolutionary algorithms  (EAs). The existing constrained multi-objective  evolutionary algorithms  (CMOEAs) still  face  the issue of striking a good balance when solving CMOPs with diverse characteristics. To alleviate this issue, in this paper we develop a two-stage different evolution with a dynamic population assignment strategy for CMOPs. In this approach, two cooperative populations are used to provide feasible driving forces and infeasible guiding knowledge. To adequately utilize the infeasibility information, a dynamic population assignment model is employed to determine the primary population, which is used as the parents to generate  offspring . The entire search process is divided into two stages, in which the two populations work in weak and strong cooperative ways, respectively. Furthermore, multistrategy-based differential evolution operators are adopted to create aggressive  offspring . The superior exploration and exploitation ability of the proposed algorithm is validated via some state-of-the-art CMOEAs over artificial benchmarks and real-world problems. The experimental results show that our proposed algorithm gained a better, or more competitive, performance than the other competitors, and it is an effective approach to balancing  objective optimization  and constraint satisfaction.",
+    "citation_count": "0",
+    "year": "2024/10/01",
+    "authors": [
+        {
+            "name": "Bin Xu",
+            "country": ""
+        },
+        {
+            "name": "Haifeng Zhang",
+            "country": ""
+        },
+        {
+            "name": "Lili Tao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

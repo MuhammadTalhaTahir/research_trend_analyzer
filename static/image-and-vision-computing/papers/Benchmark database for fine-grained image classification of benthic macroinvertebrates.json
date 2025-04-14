@@ -1,0 +1,50 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S026288561830101X",
+    "title": "Benchmark database for fine-grained image classification of benthic macroinvertebrates",
+    "abstract": "Managing the water quality of  freshwaters  is a crucial task worldwide. One of the most used methods to biomonitor water quality is to sample benthic  macroinvertebrate  communities, in particular to examine the presence and proportion of certain species. This paper presents a benchmark database for automatic visual classification methods to evaluate their ability for distinguishing visually similar categories of aquatic  macroinvertebrate  taxa. We make publicly available a new database, containing 64 types of freshwater macroinvertebrates, ranging in number of images per category from 7 to 577. The database is divided into three datasets, varying in number of categories (64, 29, and 9 categories). Furthermore, in order to accomplish a baseline evaluation performance, we present the classification results of Convolutional  Neural Networks  (CNNs) that are widely used for  deep learning  tasks in large databases. Besides CNNs, we experimented with several other well-known classification methods using deep features extracted from the data.",
+    "citation_count": "29",
+    "year": "2018/10/01",
+    "authors": [
+        {
+            "name": "Jenni Raitoharju",
+            "country": ""
+        },
+        {
+            "name": "Ekaterina Riabchenko",
+            "country": ""
+        },
+        {
+            "name": "Iftikhar Ahmad",
+            "country": ""
+        },
+        {
+            "name": "Alexandros Iosifidis",
+            "country": ""
+        },
+        {
+            "name": "Moncef Gabbouj",
+            "country": ""
+        },
+        {
+            "name": "Serkan Kiranyaz",
+            "country": ""
+        },
+        {
+            "name": "Ville Tirronen",
+            "country": ""
+        },
+        {
+            "name": "Johanna Ärje",
+            "country": ""
+        },
+        {
+            "name": "Salme Kärkkäinen",
+            "country": ""
+        },
+        {
+            "name": "Kristian Meissner",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

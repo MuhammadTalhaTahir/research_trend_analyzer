@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224001883",
+    "title": "A particle swarm optimization-based deep clustering algorithm for power load curve analysis",
+    "abstract": "To address the inflexibility of the convolutional  autoencoder  (CAE) in adjusting the network structure and the difficulty of accurately delineating complex class boundaries in power load data, a  particle swarm optimization  deep clustering method (DC-PSO) is proposed. First, a  particle swarm optimization  algorithm for automatically searching the optimal network architecture and hyperparameters of CAE (AHPSO) is proposed to obtain better reconstruction performance. Then, an end-to-end deep clustering model based on a reliable sample selection strategy is designed for the deep  clustering algorithm  to accurately delineate the category boundaries and further improve the clustering effect. The experimental results show that the DC-PSO algorithm exhibits high clustering accuracy and higher performance for the power load profile clustering.",
+    "citation_count": "1",
+    "year": "2024/08/01",
+    "authors": [
+        {
+            "name": "Li Wang",
+            "country": ""
+        },
+        {
+            "name": "Yumeng Yang",
+            "country": ""
+        },
+        {
+            "name": "Lili Xu",
+            "country": ""
+        },
+        {
+            "name": "Ziyu Ren",
+            "country": ""
+        },
+        {
+            "name": "Shurui Fan",
+            "country": ""
+        },
+        {
+            "name": "Yong Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

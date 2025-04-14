@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-022-00907-5",
+    "title": "Using the method of conditional expectations to supply an improved starting point for CCLS",
+    "abstract": "This paper proposes to combine the method of conditional expectations (MOCE, also known as Johnson’s Algorithm) with the state-of-the-art heuristic configuration checking local search (CCLS), to solve maximum satisfiability (Max&nbsp;Sat) instances. First, MOCE is used to find an outstanding assignment, and then CCLS explores the solution space, starting at this assignment. This combined heuristic, which we call MOCE–CCLS, is shown to provide a significant improvement over each of its parts: MOCE and CCLS. An additional contribution of this paper is the results of a comprehensive comparative evaluation of MOCE–CCLS versus CCLS on various benchmarks. On random benchmarks, the combined heuristic reduces the number of unsatisfied clauses by up to tens of percents. On Max Sat 2016 and 2021 public competition benchmarks, which include crafted and industrial instances also, MOCE–CCLS outperforms CCLS as well. To provide an empirical basis to the above result, this work further explores the correlation between the quality of initial assignments provided to CCLS and that of the corresponding final assignments. Empirical results show that the correlation is significant and long-lasting. Thus, under practical time constraints, the quality of the initial assignment is crucial to the performance of local search heuristics.",
+    "citation_count": 93,
+    "year": "2022/12",
+    "authors": [
+        {
+            "name": "Berend, Daniel",
+            "country": "Israel"
+        },
+        {
+            "name": "Golan, Shahar",
+            "country": "Israel"
+        },
+        {
+            "name": "Twitto, Yochai",
+            "country": "Israel"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

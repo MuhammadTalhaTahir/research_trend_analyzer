@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Editorial Board",
+        "url": "https://www.sciencedirect.com/science/article/pii/S026288562200107X"
+    },
+    {
+        "title": "Atlas generative models and geodesic interpolation",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622000622"
+    },
+    {
+        "title": "Does depth estimation help object detection?",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622000567"
+    },
+    {
+        "title": "Multi-scale feature aggregation and boundary awareness network for salient object detection",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622000713"
+    },
+    {
+        "title": "MMSNet: Multi-modal scene recognition using multi-scale encoded features",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622000828"
+    },
+    {
+        "title": "Learning language to symbol and language to vision mapping for visual grounding",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622000804"
+    },
+    {
+        "title": "Person re-identification: A taxonomic survey and the path ahead",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622000610"
+    },
+    {
+        "title": "Batch covariance neural network for image recognition",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622000750"
+    },
+    {
+        "title": "Combining complementary trackers for enhanced long-term visual object tracking",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622000774"
+    },
+    {
+        "title": "Dynamic sample weighting for weakly supervised object detection",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622000737"
+    },
+    {
+        "title": "Unsupervised multi-view stereo network based on multi-stage depth estimation",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622000786"
+    },
+    {
+        "title": "Robust depth estimation on real-world light field images using Gaussian belief propagation",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622000762"
+    },
+    {
+        "title": "Multi-view dynamic facial action unit detection",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885618301598"
+    },
+    {
+        "title": "Machine learning based video segmentation of moving scene by motion index using IO detector and shot segmentation",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622000725"
+    },
+    {
+        "title": "Grassmann manifold based framework for automated fall detection from a camera",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885622000609"
+    }
+]

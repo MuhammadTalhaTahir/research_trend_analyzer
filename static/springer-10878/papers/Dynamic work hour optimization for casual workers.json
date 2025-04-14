@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-018-0263-0",
+    "title": "Dynamic work hour optimization for casual workers",
+    "abstract": "An original online problem named the work-break problem is proposed to optimize the work hours of casual workers. The algorithm for our problem has to answer for a casual worker about when he should have a break for his efficiency declines with the growing duration of current work period. We consider the online uncertainty of the work efficiency and present a periodic algorithm for the problem. Then our algorithm is proved to be 2-competitive by a novel form of competitive analysis.",
+    "citation_count": 24,
+    "year": "2018/05",
+    "authors": [
+        {
+            "name": "Ma, Weimin",
+            "country": "China"
+        },
+        {
+            "name": "Shao, Wei",
+            "country": "China"
+        },
+        {
+            "name": "Ji, Xiaodong",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

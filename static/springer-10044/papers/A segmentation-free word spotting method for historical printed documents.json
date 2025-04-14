@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-015-0476-0",
+    "title": "A segmentation-free word spotting method for historical printed documents",
+    "abstract": "In this paper, a two-step segmentation-free word spotting method for historical printed documents is presented. The first step involves a minimum distance matching between a query keyword image and a document page image using keypoint correspondences. In the second step of the method, the matched keypoints on the document image serve as indicators for creating candidate image areas. The query keyword image is matched against the candidate image areas in order to properly estimate the bounding boxes of the detected word instances. The method is evaluated using two datasets of different languages and is compared against segmentation-free state-of-the-art methods. The experimental results show that the proposed method outperforms significantly the competitive approaches.",
+    "citation_count": 37,
+    "year": "2016/11",
+    "authors": [
+        {
+            "name": "Konidaris, Thomas",
+            "country": "Greece"
+        },
+        {
+            "name": "Kesidis, Anastasios L.",
+            "country": "Greece"
+        },
+        {
+            "name": "Gatos, Basilis",
+            "country": "Greece"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

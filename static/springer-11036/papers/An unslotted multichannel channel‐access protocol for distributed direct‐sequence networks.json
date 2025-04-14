@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1019179705948",
+    "title": "An unslotted multichannel channel‐access protocol for distributed direct‐sequence networks",
+    "abstract": "A multichannel reservation-based channel-access protocol is investigated in this paper. The available system bandwidth is divided into distinct frequency channels. Under the protocol, one channel (the control channel) is used to exchange reservation messages and the remaining channels (the traffic channels) are used for information-bearing traffic. The performance of this scheme is compared to that of a single-channel reservation-based protocol. A simple contention-based slotted-Aloha protocol is also considered. Performance results take into account the effects of multiple-access interference on acquisition and packet errors. Results show that the reservation-based approach is advantageous under conditions of high traffic. In addition, a pacing mechanism that mitigates multiple-access interference and promotes fairness is described, and results are presented that demonstrate its effectiveness.",
+    "citation_count": 8,
+    "year": "2004/04",
+    "authors": [
+        {
+            "name": "Raghavan, Arvind R.",
+            "country": "USA"
+        },
+        {
+            "name": "Baum, Carl W.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

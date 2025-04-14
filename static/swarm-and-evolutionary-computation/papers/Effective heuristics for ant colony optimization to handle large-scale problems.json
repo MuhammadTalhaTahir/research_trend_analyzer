@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S221065021630058X",
+    "title": "Effective heuristics for ant colony optimization to handle large-scale problems",
+    "abstract": "Although ant colony optimization (ACO) has successfully been applied to a wide range of  optimization problems , its high time- and space-complexity prevent it to be applied to the large-scale instances. Furthermore, local search, used in  ACO  to increase its performance, is applied without using  heuristic information  stored in pheromone values. To overcome these problems, this paper proposes new strategies including effective representation and heuristics, which speed up  ACO  and enable it to be applied to large-scale instances. Results show that in performed experiments, proposed  ACO  has better performance than other versions in terms of accuracy and speed.",
+    "citation_count": "67",
+    "year": "2017/02/01",
+    "authors": [
+        {
+            "name": "Hassan Ismkhan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

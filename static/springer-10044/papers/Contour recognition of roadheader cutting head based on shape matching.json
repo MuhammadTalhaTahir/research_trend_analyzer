@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-019-00813-3",
+    "title": "Contour recognition of roadheader cutting head based on shape matching",
+    "abstract": "In this paper, a shape matching algorithm is presented to perform the cutting head recognition for roadheaders based on a binocular vision system installed on the machine. The shape descriptor is a simplified intersection angle of tangent lines which is firstly proposed on the basis of contour points’ spatial positions. It exhibits significant self-contained property and features describing capacity for both partial and whole shapes. To achieve the best match, the MVM algorithm was improved with skipping and multiple matching penalties to complete the multiple mapping and to skip existing outliers in sequences. More precisely, these advantages make the proposed algorithm less sensible to the local variations caused by varied views. Experimental results demonstrated that the proposed method outperforms existing ones with stronger robustness and higher accuracy. In actual pictures tests, the cutting head recognition rate reached 100% with spatial positioning errors under 2.2&nbsp;cm, which met the requirements for accurate location in real time.",
+    "citation_count": 18,
+    "year": "2019/11",
+    "authors": [
+        {
+            "name": "Du, Yuxin",
+            "country": "China"
+        },
+        {
+            "name": "Tong, Minming",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

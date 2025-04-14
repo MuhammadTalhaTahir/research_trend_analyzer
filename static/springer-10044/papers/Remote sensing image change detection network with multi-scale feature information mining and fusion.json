@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-025-01420-1",
+    "title": "Remote sensing image change detection network with multi-scale feature information mining and fusion",
+    "abstract": "Change detection (CD) aims to predict the pixels that have changed in an image by comparing images from different times. CNN is excellent at local feature extraction, while Transformer is excellent at extracting global features. However, simple CD networks that extract fused local and global feature information have limitations in their discriminative ability. This is due to the underutilization of local and global information for multi-scale features. For this reason, this paper proposes a remote sensing image change detection network for multi-scale feature information mining and fusion (MSFIMF-RSCDNet). Firstly, based on the hierarchical features displaying different levels of information, we design a selective convolutional attention module (SCBAM) to improve the distinguishability of multi-scale features. Subsequently, a cascaded cross-self-attention module (CCSAM) is proposed to refine the global information of the multi-scale features, and finally, a high-level feature-guided multi-scale feature fusion module (HFGFFM) is utilized to improve the discriminability of the model for objects of different sizes. We show through experiments on three public optical remote sensing image CD datasets, LEVIR-CD (Chen and Shi in Remote Sens 12(10):1662, 2020), WHU-CD (Ji et al. in Trans Geosci Remote Sens 57(1):574–586, 2018), and CDD (Lebedev et al. in Int Arch Photogramm Remote Sens Spat Inf Sci 42:565–571, 2018), that stronger change detection CD performance is achieved than other commonly used methods.",
+    "citation_count": 43,
+    "year": "2025/06",
+    "authors": [
+        {
+            "name": "Xue, Songdong",
+            "country": "China"
+        },
+        {
+            "name": "Zhang, Minming",
+            "country": "China"
+        },
+        {
+            "name": "Qiao, Gangzhu",
+            "country": "China"
+        },
+        {
+            "name": "Zhang, Chaofan",
+            "country": "China"
+        },
+        {
+            "name": "Wang, Bin",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762120301260",
+    "title": "ADHD fMRI short-time analysis method for edge computing based on multi-instance learning",
+    "abstract": "Internet of things technology  and  edge computing  have been applied increasingly in the field of medical treatment to solve the problem of imbalanced medical resources. To better diagnose  Attention Deficit Hyperactivity Disorder  (ADHD), we propose a new short-time diagnosis technology that can quickly analyze the functional  magnetic resonance  imaging (fMRI) of patients and assist doctors in remote diagnosis of patients. Different from current ADHD fMRI analysis methods, our method is fast and can reflect changes in the patients brain in different periods. This method can analyze the correlation between a small image segment and ADHD using streaming data and quantify it as a score. This score is trained and computed by the threshold-based EM-MI algorithm. Through the scores obtained by short-time analysis, we can distinguish  healthy people  from patients according to the probability of the image segment show a high correlation with ADHD. This method is tested by ADHD-200 data and has a good  classification accuracy  (70.4%). Besides, we make a visual display of the  brain activities  on healthy people and patients and find the difference is obvious. The above results show that our method can effectively help doctors in remote diagnosis of ADHD.",
+    "citation_count": "35",
+    "year": "2020/12/01",
+    "authors": [
+        {
+            "name": "Chengfeng Dou",
+            "country": ""
+        },
+        {
+            "name": "Shikun Zhang",
+            "country": ""
+        },
+        {
+            "name": "Hanping Wang",
+            "country": ""
+        },
+        {
+            "name": "Li Sun",
+            "country": ""
+        },
+        {
+            "name": "Yu Huang",
+            "country": ""
+        },
+        {
+            "name": "Weihua Yue",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

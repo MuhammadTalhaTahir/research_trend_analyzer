@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-014-9437-8",
+    "title": "Modelling rock fracturing caused by magma intrusion using the smoothed particle hydrodynamics method",
+    "abstract": "In this paper, the applicability of a mesh-free method, called smoothed particle hydrodynamics (SPH), to modelling of geological and mineral system formation is explored, focusing on rock fracture development associated with a magmatic intrusion. A generic geological system that represents a magmatic body intruded into upper-crustal rocks typical of the Yilgarn Craton of Western Australia is modelled using SPH in order to explore patterns of fracture development around such a body. The SPH method is first validated via a uniaxial test problem. A coupled elastic deformation-fluid flow-thermal analysis is conducted to model the fracturing of rocks surrounding the magmatic intrusion, including the effects of pre-tensile and pre-compressive geotechnical strains in the rocks. The SPH method was found to be effective in capturing discrete fracturing processes caused by intruding magma which cannot be easily simulated using the finite element method (FEM). The SPH model predicted fracture patterns in the rocks that were found to compare well with geological structures observed in nature. This study establishes SPH as a useful computational tool to understand the influence of intruding magmas on rock deformation and fracture development that has important implications on fracture and vein formation, magma and fluid flow migration and hence associated mineralisation.",
+    "citation_count": 63,
+    "year": "2014/12",
+    "authors": [
+        {
+            "name": "Das, R.",
+            "country": "New Zealand"
+        },
+        {
+            "name": "Zhang, Y.",
+            "country": "Australia"
+        },
+        {
+            "name": "Schaubs, P.",
+            "country": "Australia"
+        },
+        {
+            "name": "Cleary, P. W.",
+            "country": "Australia"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

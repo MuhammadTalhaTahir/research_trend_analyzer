@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762119305119",
+    "title": "Real-Time scheduling and analysis of parallel tasks on heterogeneous multi-cores",
+    "abstract": "Heterogeneous multi-cores and  parallel architectures  have recently gained much attention owing to utilizing the strength of different architectures for offering higher performance. In this paper, we study the real-time scheduling of the directed acyclic graph (DAG) tasks upon the heterogeneous multi-core platform, i.e., a task contains different types of vertices, and the workload of each vertex must execute on its particular type of cores. Traditional researches use the work-conserving scheduling strategy to schedule such a  typed  DAG task and lead to pessimistic  schedulability tests . To this end, we propose a novel  scheduling algorithm  for  typed  DAG tasks, which assigns each vertex a varying  criticality  that depends on the remaining workload of the vertex, and moreover, the vertex with higher criticality is more urgent to be executed. Under this scheduling strategy, we propose a new worst-case  response time  (WCRT) bound to verify the schedulability of DAG task supporting  heterogeneous computing . Experiments with randomly generated workload show that the accuracy of our new WCRT is about 20% higher on average than the existing bounds.",
+    "citation_count": "31",
+    "year": "2020/05/01",
+    "authors": [
+        {
+            "name": "Shuangshuang Chang",
+            "country": ""
+        },
+        {
+            "name": "Xufeng Zhao",
+            "country": ""
+        },
+        {
+            "name": "Zhenyu Liu",
+            "country": ""
+        },
+        {
+            "name": "Qingxu Deng",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

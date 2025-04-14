@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001403",
+    "title": "Lightweight image denoising network with four-channel interaction transform",
+    "abstract": "Image denoising has always been a fundamental task in computer vision. In recent years, deep learning methods have emerged as the dominant approach for image denoising and have significantly improved denoising performance. However, these deep denoising methods typically require large model sizes, making network training prohibitively expensive and limiting their applicability in realistic scenarios. To address this issue, we propose a Lightweight Image Denoising Network (LWNet) with a four-channel interaction transform that effectively reduces the model size. The proposed four-channel interaction transform first constructs the LWNet using four channels within the input and output dimensions. Specifically, an additional empty channel with all zeros is attached to the input image, and the output dimension has four channels. This additional channel significantly enhances the robustness of network training, as the expansion of features in the channel dimension provides richer information. Compared to three-channel networks, LWNet exhibits greater fault tolerance. Furthermore, the proposed LWNet uses a dual-branch structure to achieve the four-channel interaction transform in the feature space. One branch focuses on the feature learning of the additional channel within the input dimension, while the other branch handles the original three channels. This mechanism enables the network to retrieve abundant denoising features and adaptively inject them into the denoised images, significantly enhancing the denoising performance. Thanks to the powerful feature retrieval ability of the four-channel transform, the proposed LWNet can significantly decrease the required number of parameters. Extensive experimental results show that LWNet achieves the best denoising results on synthetic datasets using much fewer parameters. Even when extrapolating to real datasets for validation, it maintains better denoising performance with effective model size. Overall, the proposed LWNet offers an effective solution to reduce model size without compromising denoising performance and has potential practical applications in various image denoising scenarios.",
+    "citation_count": "7",
+    "year": "2023/09/01",
+    "authors": [
+        {
+            "name": "Jiahuan Wang",
+            "country": ""
+        },
+        {
+            "name": "Yao Lu",
+            "country": ""
+        },
+        {
+            "name": "Guangming Lu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217300950",
+    "title": "Success rates analysis of three hybrid algorithms on SAT instances",
+    "abstract": "In recent years, combining different individual heuristics to construct hybrid algorithms seems to be a promising way for designing more powerful algorithms. We are interested in when a certain termination criterion is met, whether the  success  (referring to finding a globally optimal solution)  rate  of a hybrid algorithm can be better than that of the individual algorithms on which the hybrid algorithm is based or not. In this paper, we concentrate on rigorously analyzing the success rate of hybrid algorithms. This makes a step into theoretical understanding of hybrid algorithms, which lags far behind empirical investigations. We derive the formulas for calculating the success rates of three hybrid algorithms by making use of a  Markov chain . These three hybrid algorithms are based on different ways of combining two individual heuristics. As an application of these formulas, we then investigate the relationships between the success rate curves of RandomWalk, Local (1+1) EA (evolutionary algorithm) and that of three hybrid algorithms based on different ways of combining the two heuristics for solving two satisfiability (SAT) problem instances. The computational success rate curves are validated by experimental ones. Meanwhile, we discuss the relationship between success rate and time complexity.",
+    "citation_count": "2",
+    "year": "2017/06/01",
+    "authors": [
+        {
+            "name": "Xinsheng Lai",
+            "country": ""
+        },
+        {
+            "name": "Yuren Zhou",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

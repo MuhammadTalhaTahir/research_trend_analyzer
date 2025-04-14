@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1009885511650",
+    "title": "Incrementing Bipartite Digraph Edge-Connectivity",
+    "abstract": "This paper solves the problem of increasing the edge-connectivity of a bipartite digraph by adding the smallest number of new edges that preserve bipartiteness. A natural application arises when we wish to reinforce a 2-dimensional square grid framework with cables. We actually solve the more general problem of covering a crossing family of sets with the smallest number of directed edges, where each new edge must join the blocks of a given bipartition of the elements. The smallest number of new edges is given by a min-max formula that has six infinite families of exceptional cases. We discuss a problem on network flows whose solution has a similar formula with three infinite families of exceptional cases. We also discuss a problem on arborescences whose solution has five infinite families of exceptions. We give an algorithm that increases the edge-connectivity of a bipartite digraph in the same time as the best-known algorithm for the problem without the bipartite constraint: O(km log n) for unweighted digraphs and O(nm log (n 2/m)) for weighted digraphs, where n, m and k are the number of vertices and edges of the given graph and the target connectivity, respectively.",
+    "citation_count": 12,
+    "year": "2000/12",
+    "authors": [
+        {
+            "name": "Gabow, Harold N.",
+            "country": "USA"
+        },
+        {
+            "name": "Jordán, Tibor",
+            "country": "Hungary"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

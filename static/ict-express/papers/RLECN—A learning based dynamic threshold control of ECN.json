@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959523001418",
+    "title": "RLECN—A learning based dynamic threshold control of ECN",
+    "abstract": "Explicit congestion notification (ECN) enables the network routers to mark packets instead of dropping them. When the queue size reaches a certain threshold, the queued packets are marked to indicate predicted congestion. However, an optimal value of the ECN threshold is not defined. A pre-decided value is chosen either by estimation or by hit and trial and therefore, it does not generalize well under a wide range of network scenarios. We propose a reinforcement learning (RL)-based ECN mechanism that utilizes software-defined networks (SDN) to address this problem. Our solution enables the routers to keep a dynamic ECN threshold according to the current network conditions. SDN provides the network visibility and reach to train the RL model and to dynamically adjust the ECN threshold. We show through experimental results that our proposed model outperforms the current state of the art.",
+    "citation_count": "0",
+    "year": "2023/12/01",
+    "authors": [
+        {
+            "name": "Eun-Sung Shahzad",
+            "country": ""
+        },
+        {
+            "name": "Hyung Seok Jung",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,42 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001047",
+    "title": "A Multi-hashing Index for hybrid DRAM-NVM memory systems",
+    "abstract": "Hybrid memory systems composed of DRAM and Non-Volatile Memory (NVM) promise the capacity benefits of NVM and the low-latency benefits of DRAM. Most existing hash-based indexes are designed for NVM only and do not exploit the benefits of DRAM. In this paper, we proposed a novel hybrid DRAM-NVM persistent and concurrent hashing index, named Multi-Hashing Index (MuHash). MuHash uses a multi-hash function scheme to solve the cascading write problem of open-addressed hash-based indexes in NVM. It employs a Cuckoo Filter, an approximate membership query  data structure , to prune unnecessary NVM accesses for improving read performance. To maximize throughput in multi-thread environments, MuHash also includes a fine-grained  concurrency control  mechanism. We implemented MuHash for Intel Optane DC Persist Memory, and single-core experiments shows that MuHash achieves up to 90% higher read throughput compared to state-of-the-art hash-based indexes. On multicore experiments, MuHash achieves near-linear scalability for all operations.",
+    "citation_count": "9",
+    "year": "2022/07/01",
+    "authors": [
+        {
+            "name": "Yong Li",
+            "country": ""
+        },
+        {
+            "name": "Lingfang Zeng",
+            "country": ""
+        },
+        {
+            "name": "Guang Chen",
+            "country": ""
+        },
+        {
+            "name": "Chunhua Gu",
+            "country": ""
+        },
+        {
+            "name": "Fei Luo",
+            "country": ""
+        },
+        {
+            "name": "Weichao Ding",
+            "country": ""
+        },
+        {
+            "name": "Zhan Shi",
+            "country": ""
+        },
+        {
+            "name": "Joel Fuentes",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

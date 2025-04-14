@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122002156",
+    "title": "Feed-Forward learning algorithm for resistive memories",
+    "abstract": "Resistive memory systems, due to their inherent ability to perform Vector–Matrix Multiplication (VMM), have drawn the attention of researchers to realize machine learning applications with low overheads. In resistive memory systems, each memory cell (synapse/neuron) stores a weight in the form of resistance/conductance value. Memristor-based resistive memory has been widely explored in this regard because of its small size and  low power consumption . The inference quality of a  neural network  depends on how efficiently and accurately the weights are stored in the synapses. The weights are calculated using various training algorithms, like back-propagation (BP),  least mean square  (LMS), and random weight change (RWC). The training accuracy of existing algorithms is directly related to the algorithm complexity and the time devoted for training. This paper presents a training algorithm that requires an additional set of memristors and a threshold gate for training and achieves an accuracy similar to existing algorithms without using any complex circuitry. The method can update  synapse weights  in parallel and requires fewer epochs for training an application. Results on experiments with standard benchmarks reveal that the method can achieve an average speedup of  38 ×  as compared to state-of-the-art methods.",
+    "citation_count": "3",
+    "year": "2022/10/01",
+    "authors": [
+        {
+            "name": "Dev Narayan Yadav",
+            "country": ""
+        },
+        {
+            "name": "Phrangboklang Lyngton Thangkhiew",
+            "country": ""
+        },
+        {
+            "name": "Kamalika Datta",
+            "country": ""
+        },
+        {
+            "name": "Sandip Chakraborty",
+            "country": ""
+        },
+        {
+            "name": "Rolf Drechsler",
+            "country": ""
+        },
+        {
+            "name": "Indranil Sengupta",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

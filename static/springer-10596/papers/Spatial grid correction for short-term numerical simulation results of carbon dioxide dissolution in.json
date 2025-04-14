@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-012-9309-z",
+    "title": "Spatial grid correction for short-term numerical simulation results of carbon dioxide dissolution in saline aquifers",
+    "abstract": "Numerical simulation is an essential component of many studies of geological storage of carbon dioxide, but care must be taken to ensure the accuracy of the results. Unlike several other possible sources of simulation errors, which have previously been considered in detail and have well-understood techniques for mitigating their effects, comparatively little discussion of the spatial grid dependence of the dissolution rate of carbon dioxide into the formation water has appeared in the literature, despite its importance to simulation studies of geological storage of carbon dioxide in saline aquifers. In many instances, sufficient refinement of the computational grid can be a practical solution. However, this approach is not always feasible, especially for large-scale simulations in three dimensions requiring multiple realisations, which commonly feature a coarse grid due to constraints on available computational capabilities. A measure of the error in the amount of dissolved carbon dioxide introduced by the use of a finite grid is therefore of great interest. In this study, the use of finite-sized grid blocks is shown to overestimate the amount of dissolved carbon dioxide in short-term results by a factor of 1 + V f/V p, where V f is the grid block volume at the saturation front and V p is the total grid block volume of the plume. This result can be used in a number of ways to correct the calculated short-term dissolution in coarse-scale simulations so that the amount dissolved agrees better with that obtained from fine-scale simulations.",
+    "citation_count": 21,
+    "year": "2012/09",
+    "authors": [
+        {
+            "name": "Green, Christopher P.",
+            "country": "Australia"
+        },
+        {
+            "name": "Ennis-King, Jonathan",
+            "country": "Australia"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

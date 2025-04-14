@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762123002163",
+    "title": "A portable blind cloud storage scheme against compromised servers",
+    "abstract": "Applications (Apps) generate large amounts of data on users’ storage-limited local devices. To alleviate the burden of local storage, users can outsource their App-generated data to a remote cloud server. Secure data outsourcing needs data portability and blindness. The former enables users to access data from multiple devices using a single password, and the latter ensures data privacy against unauthorized individuals. Portable blind cloud storage (PBCS) can satisfy both requirements. However, existing PBCS schemes are vulnerable to  offline password  guessing attacks (OPGA) if both the App server and the cloud server are compromised: an adversary can learn users’ passwords from compromised registered information of users. In this paper, we propose a PBCS scheme called IPBCS that is secure against OPGA. In IPBCS, a user hardens her/his password with a secret key, which is stored in trusted execution environments (TEE). With the hardened password and a user-specific randomness, a token can be derived for  user authentication . By adopting TEE to protect secret keys, IPBCS guarantees security against OPGA even if both servers are compromised. Moreover, IPBCS adopts a password-based  authentication mechanism  to support  authentication  over public channels. Security analysis and performance evaluation demonstrate that IPBCS is secure and efficient.",
+    "citation_count": "0",
+    "year": "2024/01/01",
+    "authors": [
+        {
+            "name": "Zhen Liu",
+            "country": ""
+        },
+        {
+            "name": "Changsong Jiang",
+            "country": ""
+        },
+        {
+            "name": "Chunxiang Xu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

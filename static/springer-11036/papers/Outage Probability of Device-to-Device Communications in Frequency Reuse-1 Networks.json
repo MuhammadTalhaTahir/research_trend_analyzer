@@ -1,0 +1,19 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-017-0825-x",
+    "title": "Outage Probability of Device-to-Device Communications in Frequency Reuse-1 Networks",
+    "abstract": "In this paper, we analyse the outage probability of Device-to-Device (D2D) communications in a multi-cell frequency reuse-1 (FRF-1) system. We derive a formula for outage probability of a D2D link in the FRF-1 system when uplink resource sharing between cellular users and D2D users is enabled in the network. Based on this analysis, we propose a location-based power control mechanism for D2D which can enhance the outage performance of the D2D link, and at the same time, reduce the transmit power required for communication.",
+    "citation_count": 18,
+    "year": "2017/12",
+    "authors": [
+        {
+            "name": "Rodziewicz, Marcin",
+            "country": "Poland"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

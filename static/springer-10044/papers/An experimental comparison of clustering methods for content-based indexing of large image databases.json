@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-011-0261-7",
+    "title": "An experimental comparison of clustering methods for content-based indexing of large image databases",
+    "abstract": "In recent years, the expansion of acquisition devices such as digital cameras, the development of storage and transmission techniques of multimedia documents and the development of tablet computers facilitate the development of many large image databases as well as the interactions with the users. This increases the need for efficient and robust methods for finding information in these huge masses of data, including feature extraction methods and feature space structuring methods. The feature extraction methods aim to extract, for each image, one or more visual signatures representing the content of this image. The feature space structuring methods organize indexed images in order to facilitate, accelerate and improve the results of further retrieval. Clustering is one kind of feature space structuring methods. There are different types of clustering such as hierarchical clustering, density-based clustering, grid-based clustering, etc. In an interactive context where the user may modify the automatic clustering results, incrementality and hierarchical structuring are properties growing in interest for the clustering algorithms. In this article, we propose an experimental comparison of different clustering methods for structuring large image databases, using a rigorous experimental protocol. We use different image databases of increasing sizes (Wang, PascalVoc2006, Caltech101, Corel30k) to study the scalability of the different approaches.",
+    "citation_count": 71,
+    "year": "2012/11",
+    "authors": [
+        {
+            "name": "Lai, Hien Phuong",
+            "country": "France"
+        },
+        {
+            "name": "Visani, Muriel",
+            "country": "Vietnam"
+        },
+        {
+            "name": "Boucher, Alain",
+            "country": "France"
+        },
+        {
+            "name": "Ogier, Jean-Marc",
+            "country": "Vietnam"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959515300680",
+    "title": "Effects of antenna array characteristics on in-band full-duplex relays for broadband cellular communications",
+    "abstract": "This paper considers a broadband multicell system with key characteristics that base-stations and relays employ beamforming via large antenna arrays, as well as in-band full duplex relay operation. The signal to interference plus noise ratio gain (which is in excess of the maximum required for such a system) could be exploited either for reducing self-interference or the backhaul and access link transmitted powers. The presented results indicate that with a moderate front-to-back-ratio scenario for the antenna array, “small” antenna arrays with 8 elements can lower the requirement of full duplex self-interference cancellation by up to 55 dB, while large antenna arrays of 1024 elements will produce 100 dB reduction. Alternatively, for the same scenario, both the backhaul and access transmitted powers could be reduced by ∼55 dB and ∼25 dB with 1024 elements.",
+    "citation_count": "0",
+    "year": "2015/12/01",
+    "authors": [
+        {
+            "name": "Dimitra Zarbouti",
+            "country": ""
+        },
+        {
+            "name": "George Tsoulos",
+            "country": ""
+        },
+        {
+            "name": "Georgia Athanasiadou",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-023-10241-2",
+    "title": "Bayesian model evaluation for multiple scenarios",
+    "abstract": "Traditional uncertainty analysis for subsurface models is typically based on a single dynamic model with a number of uncertain parameters. Improved and more robust forecasting can be obtained by combining several models in a Bayesian setting using model averaging. The traditional Bayesian Model Averaging (BMA), however, suffers from several drawbacks, such as too large sensitivity to prior model assumptions and instability with respect to measurement perturbations, especially when the number of measurements is large. We suggest a modified version of BMA (MBMA) where the calculations are stabilized using an ensemble of measurements. Bayesian stacking (BS) is a method that is directly focused on the performance of the combined predictive distribution of several models. The original version of BS (BSLOO) is based on leave-one-out cross-validation and requires a Bayesian inversion for each data point which may be very time consuming. We suggest a modified version of stacking (MBS) that requires only a single history match and uses an ensemble of measurements. MBS may be used with either prior (MBS-pri) or posterior (MBS-post) predictive distributions. The behavior of the methods is illustrated using three synthetic, linear examples. One is a simple mixture model. The other two are inspired by 4D seismic data. The results with MBS-pri are very similar to the results with MBMA. The results with MBS-post are similar to those of BSLOO when the data are uncorrelated. MBS can take into account correlated data or measurement errors, while correlations are neglected in the BSLOO weight calculations.",
+    "citation_count": 17,
+    "year": "2023/12",
+    "authors": [
+        {
+            "name": "Aanonsen, Sigurd Ivar",
+            "country": "Norway"
+        },
+        {
+            "name": "Fossum, Kristian",
+            "country": "Norway"
+        },
+        {
+            "name": "Mannseth, Trond",
+            "country": "Norway"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621001888",
+    "title": "Boundary guidance network for camouflage object detection",
+    "abstract": "Camouflage object detection (COD) aims to detect camouflaged objects hidden in the  background region  in an image. The difficulty of COD lies in the fact that camouflaged objects are often accompanied with weak boundaries, low contrast, and similar patterns to the background. Although various methods have been proposed to address these challenges, they still suffer from coarse object boundaries. In this work, we design a novel boundary guidance network for COD, which follows a two-step framework: localization and refinement. Firstly, an Initial Localization Decoder is proposed to capture multi-scale cues by embedding a Hierarchical-Split Convolution block. After obtained the coarse localization of the camouflaged object, we further propose a Residual Refinement Decoder to fix the missing object parts and boundary details progressively. Each of the proposed decoder consists of a region branch and a boundary branch for object detection and boundary detection respectively. To sufficiently leverage their complementary features, we design a novel Boundary-Guide-Region module. Benefiting from the guidance of the boundary feature, the region branch can focus on the inside parts of the boundary for residual learning, thus leads to more accurate detection. Extensive experimental results on four benchmark datasets demonstrate that our method outperforms existing state-of-the-art algorithms in both object accuracy and boundary accuracy with real-time speed.",
+    "citation_count": "34",
+    "year": "2021/10/01",
+    "authors": [
+        {
+            "name": "Xiuqi Xu",
+            "country": ""
+        },
+        {
+            "name": "Mingyu Zhu",
+            "country": ""
+        },
+        {
+            "name": "Jinhao Yu",
+            "country": ""
+        },
+        {
+            "name": "Shuhan Chen",
+            "country": ""
+        },
+        {
+            "name": "Xuelong Hu",
+            "country": ""
+        },
+        {
+            "name": "Yuequan Yang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

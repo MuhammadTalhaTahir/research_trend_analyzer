@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-009-9215-z",
+    "title": "Strong formulation for the spot 5 daily photograph scheduling problem",
+    "abstract": "Earth observation satellites, such as the SPOT 5, take photographs of the earth according to consumers’ demands. Obtaining a good schedule for the photographs is a combinatorial optimization problem known in the literature as the daily photograph scheduling problem (DPSP). The DPSP consists of selecting a subset of photographs, from a set of candidates, to different cameras, maximizing a profit function and satisfying a large number of constraints. Commercial solvers, with standard integer programming formulations, are not able to solve some DPSP real instances available in the literature. In this paper we present a strengthened formulation for the DPSP, based on valid inequalities arising in node packing and 3-regular independence system polyhedra. This formulation was able, with a commercial solver, to solve to optimality all those instances in a short computation time.",
+    "citation_count": 27,
+    "year": "2010/11",
+    "authors": [
+        {
+            "name": "Ribeiro, Glaydston Mattos",
+            "country": "Brazil"
+        },
+        {
+            "name": "Constantino, Miguel Fragoso",
+            "country": "Portugal"
+        },
+        {
+            "name": "Lorena, Luiz Antonio Nogueira",
+            "country": "Brazil"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

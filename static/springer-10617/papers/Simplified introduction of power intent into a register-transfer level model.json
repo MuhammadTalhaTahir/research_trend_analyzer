@@ -1,0 +1,22 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10617-021-09254-w",
+    "title": "Simplified introduction of power intent into a register-transfer level model",
+    "abstract": "In highly-integrated electronic circuits designs, power reduction must be properly addressed. The standardized ways of power-intent specification are unbearable in modern complex designs, since they extensively prolong the time-to-market of products. In this article, we propose a simplified method of designing energy-efficient systems at the register-transfer level, which is fully compatible with the existing design flow and industrial automation tools. The power-intent specification is abstract enough to be easily integrated into the HDL model, which also simplifies its maintainability. A connection to later design-flow stages (i.e. lower abstraction levels) is achieved by automated synthesis, which translates the simplified specification into the standard means, supported by the existing professional design-automation tools. The benefit of the proposed design method is speed-up of the development process, reduced number of possible power-intent errors, and easier energy-efficient systems design. Such design can be utilized by all designers, even those, which were unable to utilize the standard means due to high complexity. The experiments using 10 000 power-intent specification samples have shown that the proposed specification method is approximately 23-times less complex (in terms of lines of code) than the standard method. Moreover, it is able to achieve the same power-consumption reduction, while requiring much less designer effort.",
+    "citation_count": 26,
+    "year": "2021/12",
+    "authors": [
+        {
+            "name": "Groma, Matej",
+            "country": "Slovakia"
+        },
+        {
+            "name": "Macko, Dominik",
+            "country": "Slovakia"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

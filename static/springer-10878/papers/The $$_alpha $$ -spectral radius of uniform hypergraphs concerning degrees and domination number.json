@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-019-00440-y",
+    "title": "The $$\\alpha $$ -spectral radius of uniform hypergraphs concerning degrees and domination number",
+    "abstract": "For $$0\\le \\alpha &lt;1$$ and an r-uniform hypergraph H, the $$\\alpha $$ -spectral radius of H is the maximum modulus of eigenvalues of $$\\alpha {\\mathcal {D}}(H)+(1-\\alpha ){\\mathcal {A}}(H)$$ , where $${\\mathcal {D}}(H)$$ and $${\\mathcal {A}}(H)$$ are the diagonal tensor of degrees and the adjacency tensor of H, respectively. In this paper, we give a lower bound on the $$\\alpha $$ -spectral radius of a linear r-uniform hypergraph in terms of its domination number. Then, we obtain some bounds on the $$\\alpha $$ -spectral radius in terms of vertex degrees and we characterize the extremal hypergraphs attaining the bound.",
+    "citation_count": 27,
+    "year": "2019/11",
+    "authors": [
+        {
+            "name": "Wang, Qiannan",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Kang, Liying",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Shan, Erfang",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Liang, Zuosong",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

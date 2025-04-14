@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-013-9698-5",
+    "title": "Multiplicatively weighted Harary index of graphs",
+    "abstract": "Let $$G$$ be a connected graph with vertex set $$V(G)$$ . The multiplicatively weighted Harary index of a graph $$G$$ is defined as $$H_M(G)=\\sum _{u\\ne v}\\frac{d(u)d(v)}{d(u,v)}$$ , where $$d(u)$$ is the degree of vertex $$u$$ , and $$d(u,v)$$ denotes the distance between $$u$$ and $$v$$ . In this paper, we first prove that the multiplicatively weighted Harary index of a graph is monotonic on some transformations, and then determine the extremal values of the multiplicatively weighted Harary indices for some familiar classes of graphs and characterize the corresponding extremal graphs.",
+    "citation_count": 12,
+    "year": "2015/11",
+    "authors": [
+        {
+            "name": "Deng, Hanyuan",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Krishnakumari, B.",
+            "country": "India"
+        },
+        {
+            "name": "Venkatakrishnan, Y. B.",
+            "country": "India"
+        },
+        {
+            "name": "Balachandran, S.",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

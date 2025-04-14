@@ -1,0 +1,42 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218310629",
+    "title": "Push and pull search embedded in an M2M framework for solving constrained multi-objective optimization problems",
+    "abstract": "In dealing with constrained multi-objective optimization problems (CMOPs), a key issue of multi-objective  evolutionary algorithms  (MOEAs) is to balance the convergence and diversity of working populations. However, most state-of-the-art MOEAs show poor performance in balancing them, and can cause the working populations to concentrate on part of the  Pareto fronts , leading to serious imbalanced searching between preserving diversity and achieving convergence. This paper proposes a method which combines a multi-objective to multi-objective (M2M) decomposition approach with the push and pull search (PPS) framework, namely PPS-M2M. To be more specific, the proposed algorithm decomposes a CMOP into a set of simple CMOPs. Each simple CMOP corresponds to a sub-population and is solved in a collaborative manner. When dealing with constraints, each sub-population follows a procedure of “ignore the constraints in the push stage and consider the constraints in the pull stage”, which helps each working sub-population get across infeasible regions. In order to evaluate the performance of the proposed PPS-M2M, it is compared with the other nine algorithms, including CM2M, MOEA/D-Epsilon, MOEA/D-SR, MOEA/D-CDP, C-MOEA/D, NSGA-II-CDP, MODE-ECHM, CM2M2 and MODE-SaE on a set of benchmark CMOPs. The experimental results show that the proposed PPS-M2M is significantly better than the other nine algorithms. In addition, a set of constrained and imbalanced multi-objective optimization problems (CIMOPs) are suggested to compare PPS-M2M and PPS-MOEA/D. The experimental results show that the proposed PPS-M2M outperforms PPS-MOEA/D on CIMOPs.",
+    "citation_count": "60",
+    "year": "2020/05/01",
+    "authors": [
+        {
+            "name": "Zhun Fan",
+            "country": ""
+        },
+        {
+            "name": "Zhaojun Wang",
+            "country": ""
+        },
+        {
+            "name": "Wenji Li",
+            "country": ""
+        },
+        {
+            "name": "Yutong Yuan",
+            "country": ""
+        },
+        {
+            "name": "Yugen You",
+            "country": ""
+        },
+        {
+            "name": "Zhi Yang",
+            "country": ""
+        },
+        {
+            "name": "Fuzan Sun",
+            "country": ""
+        },
+        {
+            "name": "Jie Ruan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

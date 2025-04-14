@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-013-9700-2",
+    "title": "List 2-distance coloring of planar graphs",
+    "abstract": "The $$2$$ -distance coloring of a graph $$G$$ is to color the vertices of $$G$$ so that every two vertices at distance at most $$2$$ from each other get different colors. Let $$\\chi _{2}^{l}(G)$$ be the list 2-distance chromatic number of $$G$$ . In this paper, we show that (1) a planar graph $$G$$ with $$\\Delta (G)\\ge 12$$ which contains no $$3,5$$ -cycles and intersecting 4-cycles has $$\\chi _{2}^{l}(G)\\le \\Delta +6$$ ; (2) a planar graph $$G$$ with $$\\Delta (G)\\le 5$$ and $$g(G)\\ge 5$$ has $$\\chi _{2}^{l}(G)\\le 13$$ .",
+    "citation_count": 16,
+    "year": "2015/11",
+    "authors": [
+        {
+            "name": "Bu, Yuehua",
+            "country": "China"
+        },
+        {
+            "name": "Yan, Xiaoyan",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

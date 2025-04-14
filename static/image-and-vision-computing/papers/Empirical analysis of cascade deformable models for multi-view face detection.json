@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885615000967",
+    "title": "Empirical analysis of cascade deformable models for multi-view face detection",
+    "abstract": "We present a multi-view face detector based on Cascade  Deformable Part  Models (CDPM). Over the last decade, there have been several attempts to extend the well-established Viola&Jones face detector algorithm to solve the problem of multi-view face detection. Recently a  tree  structure model for multi-view face detection was proposed. This method is primarily designed for facial landmark detection and consequently a face detection is provided. However, the effort to model inner facial structures by using a detailed facial landmark labelling resulted on a complex and suboptimal system for face detection. Instead, we adopt CDPMs, where the models are learned from partially labelled images using Latent  Support Vector Machines  (LSVM). Furthermore, LSVM is enhanced with data-mining and bootstrapping procedures to enrich models during the training. Furthermore, a post-optimization procedure is derived to improve the performance. This semi-supervised methodology allows us to build models based on weakly labelled data while incrementally  learning latent  positive and negative samples. Our results show that the proposed model can deal with highly expressive and partially occluded faces while outperforming the state-of-the-art face detectors by a large margin on challenging benchmarks such as the Face Detection Data Set and Benchmark (FDDB) [1] and the Annotated Facial Landmarks in the Wild (AFLW) [2] databases. In addition, we validate the accuracy of our models under large head pose variation and facial occlusions in the Head Pose Image Database (HPID) [3] and Caltech Occluded Faces in the Wild (COFW) datasets [4], respectively. We also outline the suitability of our models to support facial landmark  detection algorithms .",
+    "citation_count": "20",
+    "year": "2015/10/01",
+    "authors": [
+        {
+            "name": "Javier Orozco",
+            "country": ""
+        },
+        {
+            "name": "Brais Martinez",
+            "country": ""
+        },
+        {
+            "name": "Maja Pantic",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10617-016-9179-z",
+    "title": "A hierarchical run-time adaptive resource allocation framework for large-scale MPSoC systems",
+    "abstract": "In the embedded computer system domain, MPSoC systems have become increasingly popular due to the ever-increasing performance demands of modern embedded applications. The number of processing elements in these MPSoCs also steadily increases. Whereas current MPSoCs still contain a limited number of processing elements, future MPSoCs will feature tens up to hundreds of (heterogeneous) processing elements that are all integrated on a single chip. On these future large-scale MPSoC systems, the mapping of applications onto the hardware resources plays an important role to fully explore the parallelism of applications. In this article, a hierarchical run-time adaptive resource allocation framework which uses an intelligent task remapping approach is proposed to improve the system performance for large-scale MPSoCs.",
+    "citation_count": 45,
+    "year": "2016/12",
+    "authors": [
+        {
+            "name": "Quan, Wei",
+            "country": "The Netherlands"
+        },
+        {
+            "name": "Pimentel, Andy D.",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

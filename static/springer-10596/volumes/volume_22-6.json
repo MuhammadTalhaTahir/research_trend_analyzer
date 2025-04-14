@@ -1,0 +1,54 @@
+[
+  {
+    "title": "A single-relaxation-time lattice Boltzmann model for anisotropic advection-diffusion equation based on the diffusion velocity flux formulation",
+    "url": "https://link.springer.com/article/10.1007/s10596-018-9761-5"
+  },
+  {
+    "title": "Numerical solution and convergence analysis of steam injection in heavy oil reservoirs",
+    "url": "https://link.springer.com/article/10.1007/s10596-018-9763-3"
+  },
+  {
+    "title": "Correction to: Numerical solution and convergence analysis of steam injection in heavy oil reservoirs",
+    "url": "https://link.springer.com/article/10.1007/s10596-018-9776-y"
+  },
+  {
+    "title": "Surrogate-based parameter inference in debris flow model",
+    "url": "https://link.springer.com/article/10.1007/s10596-018-9765-1"
+  },
+  {
+    "title": "Gradient-based Pareto optimal history matching for noisy data of multiple types",
+    "url": "https://link.springer.com/article/10.1007/s10596-018-9766-0"
+  },
+  {
+    "title": "Streamline method for resolving sharp fronts for complex two-phase flow in porous media",
+    "url": "https://link.springer.com/article/10.1007/s10596-018-9767-z"
+  },
+  {
+    "title": "A quantified study of segmentation techniques on synthetic geological XRM and FIB-SEM images",
+    "url": "https://link.springer.com/article/10.1007/s10596-018-9768-y"
+  },
+  {
+    "title": "Correction to: A quantified study of segmentation techniques on synthetic geological XRM and FIB-SEM images",
+    "url": "https://link.springer.com/article/10.1007/s10596-018-9780-2"
+  },
+  {
+    "title": "Robust system size reduction of discrete fracture networks: a multi-fidelity method that preserves transport characteristics",
+    "url": "https://link.springer.com/article/10.1007/s10596-018-9770-4"
+  },
+  {
+    "title": "Computing derivative information of sequentially coupled subsurface models",
+    "url": "https://link.springer.com/article/10.1007/s10596-018-9772-2"
+  },
+  {
+    "title": "Conditions for upscalability of bioclogging in pore network models",
+    "url": "https://link.springer.com/article/10.1007/s10596-018-9773-1"
+  },
+  {
+    "title": "Generalized prism grid: a pillar-based unstructured grid for simulation of reservoirs with complicated geological geometries",
+    "url": "https://link.springer.com/article/10.1007/s10596-018-9774-0"
+  },
+  {
+    "title": "Correction to: Optimal design of hydraulic fracturing in porous media using the phase field fracture model coupled with genetic algorithm",
+    "url": "https://link.springer.com/article/10.1007/s10596-018-9777-x"
+  }
+]

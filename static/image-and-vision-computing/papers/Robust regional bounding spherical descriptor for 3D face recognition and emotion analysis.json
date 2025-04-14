@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885614001875",
+    "title": "Robust regional bounding spherical descriptor for 3D face recognition and emotion analysis",
+    "abstract": "3D  face recognition  and  emotion analysis  play important roles in many fields of communication and  edutainment . An effective facial descriptor, with higher discriminating capability for face recognition and higher descriptiveness for facial emotion analysis, is a challenging issue. However, in the practical applications, the descriptiveness and discrimination are independent and contradictory to each other. 3D facial data provide a promising way to balance these two aspects. In this paper, a robust regional bounding spherical descriptor (RBSR) is proposed to facilitate  3D face recognition  and emotion analysis. In our framework, we first segment a group of regions on each 3D facial point cloud by shape index and spherical bands on the human face. Then the corresponding facial areas are projected to regional  bounding spheres  to obtain our regional descriptor. Finally, a regional and global regression mapping (RGRM) technique is employed to the weighted regional descriptor for boosting the  classification accuracy . Three largest available databases, FRGC v2, CASIA and BU-3DFE, are contributed to the performance comparison and the experimental results show a consistently better performance for 3D face recognition and emotion analysis.",
+    "citation_count": "38",
+    "year": "2015/03/01",
+    "authors": [
+        {
+            "name": "Yue Ming",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

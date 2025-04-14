@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885619301027",
+    "title": "On visual BMI analysis from facial images",
+    "abstract": "Automatically assessing  body mass  index (BMI) from facial images is an interesting and challenging problem in  computer vision . Facial feature extraction is an important step for visual BMI estimation. This work studies the visual BMI estimation problem based on the characteristics and performance of different facial representations, which has not been well studied yet. Various facial representations, including geometry based representations and  deep learning  based, are comprehensively evaluated and analyzed from three perspectives: the overall performance on visual BMI prediction, the redundancy in facial representations and the sensitivity to head pose changes. The experiments are conducted on two databases: a new dataset we collected, called the FIW-BMI and an existing large dataset Morph II. Our studies provide some deep insights into the facial representations for visual BMI analysis: 1) The deep model based methods perform better than geometry based methods. Among them, the VGG-Face and Arcface show more robustness than others in most cases; 2) Removing the redundancy in VGG-Face representation can increase the accuracy and efficiency in BMI estimation; 3) Large head poses lead to low performance for BMI estimation. The Arcface, VGG-Face and  PIGF  are more robust than the others to head pose variations.",
+    "citation_count": "28",
+    "year": "2019/09/01",
+    "authors": [
+        {
+            "name": "Min Jiang",
+            "country": ""
+        },
+        {
+            "name": "Yuanyuan Shang",
+            "country": ""
+        },
+        {
+            "name": "Guodong Guo",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

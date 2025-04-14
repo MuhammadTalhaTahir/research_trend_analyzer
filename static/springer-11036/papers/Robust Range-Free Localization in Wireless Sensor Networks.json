@@ -1,0 +1,31 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-008-0041-9",
+    "title": "Robust Range-Free Localization in Wireless Sensor Networks",
+    "abstract": "In wireless sensor networks, sensors should have some mechanisms to learn their locations since sensed data without associated location information may be meaningless. While many sensor localization algorithms have been proposed, security issues in sensor localization are usually not addressed in their original design. Secure sensor localization is very challenging due to limited computation and energy resources in sensors. It is highly desirable that a localization scheme is robust and is able to detect malicious attacks without using complex cryptographic operations. In this paper, we present and analyze detection methods purely based on geometric constraints in sensor networks. Our detection methods can protect the localization algorithm from malicious attacks by detecting and eliminating the negative impact of fake information.",
+    "citation_count": 22,
+    "year": "2007/12",
+    "authors": [
+        {
+            "name": "Wu, Kui",
+            "country": "Canada"
+        },
+        {
+            "name": "Liu, Chong",
+            "country": "Canada"
+        },
+        {
+            "name": "Pan, Jianping",
+            "country": "Canada"
+        },
+        {
+            "name": "Huang, Dandan",
+            "country": "Canada"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

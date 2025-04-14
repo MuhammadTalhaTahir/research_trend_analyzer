@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-006-8210-x",
+    "title": "A “maximum node clustering” problem",
+    "abstract": "In this note we introduce a graph problem, called Maximum Node Clustering (MNC). We prove that the problem (which is easily shown to be strongly NP-complete) can be approximated in polynomial time within a ratio arbitrarily close to 2. For the special case where the graph is a tree, the problem is NP-complete in the ordinary sense; for this case we present a pseudopolynomial algorithm based on dynamic programming, and a related Fully Polynomial Time Approximation Scheme (FPTAS). Also, the tree case is shown to be exactly solvable in $${\\mathcal O}(2^{{\\frac{2}{3}}n}{\\rm poly}(n))$$ time, where n is the number of nodes.",
+    "citation_count": 9,
+    "year": "2006/06",
+    "authors": [
+        {
+            "name": "Carello, Giuliana",
+            "country": "Italy"
+        },
+        {
+            "name": "Croce, Federico Della",
+            "country": "Italy"
+        },
+        {
+            "name": "Grosso, Andrea",
+            "country": "Italy"
+        },
+        {
+            "name": "Locatelli, Marco",
+            "country": "Italy"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

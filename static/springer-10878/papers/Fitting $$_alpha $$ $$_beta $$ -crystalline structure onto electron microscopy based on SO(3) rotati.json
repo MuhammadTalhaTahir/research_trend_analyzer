@@ -1,0 +1,37 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-015-9858-x",
+    "title": "Fitting $$\\alpha $$ $$\\beta $$ -crystalline structure onto electron microscopy based on SO(3) rotation group theory",
+    "abstract": "Based on SO(3) rotation group theory, a method is presented to fit $$\\alpha $$ $$\\beta $$ -crystalline structure on to its corresponding electron microscopy (EM) model for the further diagnosis of crystalline disease. Taken EM model as a kind of $$\\alpha $$ $$\\beta $$ -crystalline model rotation deformation, image processing techniques are firstly preformed and then mesh generation adopted on the obtained EM, depending upon its molecular features. Secondly, rigid-body fitting is performed to fit $$\\alpha $$ $$\\beta $$ -crystalline Protein Data Bank (PDB) data onto its EM by using SO(3) rotation group theory. Among the fitting process, FFT is adopted to tackle the problems of large data and high computation. The PDB file is obtained from NCBI and EM file obtained from EMBL-EBI. All of the tools are developed by CVC, ICES, the University of Texas at Austin. The experimental results show that it’s a precise and efficient method of fitting $$\\alpha $$ $$\\beta $$ -crystalline PDB crystal structure onto its EM model.",
+    "citation_count": 27,
+    "year": "2015/11",
+    "authors": [
+        {
+            "name": "Li, Beibei",
+            "country": "China"
+        },
+        {
+            "name": "Zhao, Zhihong",
+            "country": "USA"
+        },
+        {
+            "name": "Shen, Xuan",
+            "country": "USA"
+        },
+        {
+            "name": "Xue, Cendi",
+            "country": "China"
+        },
+        {
+            "name": "Zhong, Liwei",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

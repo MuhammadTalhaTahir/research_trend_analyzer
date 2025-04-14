@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S026288561930099X",
+    "title": "An SE(3) invariant description for 3D face recognition",
+    "abstract": "Here, we intend to introduce a novel 3D face description which is invariant under the Special Euclidean group  SE (3) and independent to the original  surface parameterization . It is well known that it is too difficult to define a relative invariant parameterization of a general curved surface. In the present work, we introduce the multi-polar geodesic representation of ℝ 3  surfaces. It allows to reach an isotropic canonical parameterization relatively to  SE (3) due to the fact that the face surfaces can be easily assumed to be a graph of a function from ℝ 2  to ℝ. The  principal curvature  fields according to a three-polar parameterization are considered. A statistical study is made to choose a good configuration of  reference points . The performances of the novel description are tested on the standard database FRGC v2.0. Many recognition scenarios are established. The obtained results are very competitive with the state of the art.",
+    "citation_count": "7",
+    "year": "2019/09/01",
+    "authors": [
+        {
+            "name": "Majdi Jribi",
+            "country": ""
+        },
+        {
+            "name": "Amal Rihani",
+            "country": ""
+        },
+        {
+            "name": "Ameni Ben Khlifa",
+            "country": ""
+        },
+        {
+            "name": "Faouzi Ghorbel",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S221065022400018X",
+    "title": "A genetic algorithm with critical path-based variable neighborhood search for distributed assembly job shop scheduling problem",
+    "abstract": "Production scheduling in distributed  manufacturing systems  has become an active research field, where large-sized complicated products, such as airplanes and ships, are taken as the primary focus. This paper investigates a distributed assembly  job shop scheduling  problem (DAJSP) which consists of two production phases. The first stage  processes components  in several job shops, and the second stage assembles the processed parts into final products. First, a  mixed integer linear programming  (MILP) model is established to describe the problem with minimizing maximum completion time and find optimal schedules for small-scale scenarios. Afterwards, a  genetic algorithm  with  variable neighborhood search  (GA-VNS) is proposed to address more complex instances, which adopts the genetic algorithm as the main framework and employs the variable neighborhood search for exploration. A problem-specific three-vector encoding scheme is designed to represent three decision-making processes of the DAJSP accordingly. To improve candidate solutions, a disjunctive graph model for DAJSP is formulated and three critical path-based neighborhood structures which directly perform on encoding vectors are designed. Numerical experiments are conducted on four groups of instances with different scales and the experimental results demonstrate the effectiveness of the proposed MILP model and GA-VNS. To sum up, the proposed GA-VNS shows the best performance on 30 instances out of 40 instances, while the superior stability has also been proved by statistical tests. In addition, two complicated DAJSP cases are abstracted from an  enterprise  for fabricating large complex components to further validate the GA-VNS.",
+    "citation_count": "12",
+    "year": "2024/03/01",
+    "authors": [
+        {
+            "name": "Shichen Tian",
+            "country": ""
+        },
+        {
+            "name": "Chunjiang Zhang",
+            "country": ""
+        },
+        {
+            "name": "Jiaxin Fan",
+            "country": ""
+        },
+        {
+            "name": "Xinyu Li",
+            "country": ""
+        },
+        {
+            "name": "Liang Gao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

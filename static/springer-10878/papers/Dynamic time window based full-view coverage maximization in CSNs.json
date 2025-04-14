@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-024-01227-6",
+    "title": "Dynamic time window based full-view coverage maximization in CSNs",
+    "abstract": "In order to maximize full-view coverage of moving targets in Camera Sensor Networks (CSNs), a novel method known as “group set cover” is presented in this research. Choosing the best camera angles and placements to accomplish full-view coverage of the moving targets is one of the main focuses of the research in CSNs. Discretize the target into multiple views of [0, 2 $$\\pi $$ ], use a set of views of targets to represent the sensing direction of the camera sensor, and use a group set of views of targets to represent the position of the camera sensor. The total number of targets in a dynamic time window that is visible in full view is calculated. A mixed integer linear programming formulation is employed, which is then approximated using a random rounding method. This approximation approach offers a global estimation of local optimality, particularly for non-submodular optimization problems. Two methods for maximizing overall full-view coverage within a dynamic time window are proposed TSC-FTC-DTW and FTC-TW-DTW. Finally, the proposed methods are verified through experiments.",
+    "citation_count": 18,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "Su, Jingfang",
+            "country": "China"
+        },
+        {
+            "name": "Li, Zeqing",
+            "country": "China"
+        },
+        {
+            "name": "Du, Hongwei",
+            "country": "China"
+        },
+        {
+            "name": "Liu, Shengxin",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

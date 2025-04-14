@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650214000777",
+    "title": "Novel performance metrics for robust multi-objective optimization algorithms",
+    "abstract": "Performance metrics are essential for quantifying the performance of optimization algorithms in the field of evolutionary multi-objective optimization. Such metrics allow researchers to compare different algorithms quantitatively. In the field of robust multi-objective optimization, however, there is currently no performance metric despite its significant importance. This motivates our proposal of three novel specific metrics for measuring the convergence, coverage, and success rate of robust  Pareto optimal solutions  obtained by robust multi-objective algorithms. The proposed metrics are employed to quantitatively evaluate and compare Robust Multi-objective  Particle Swarm Optimization  (RMOPSO) and Robust Non-dominated Sorting  Genetic Algorithm  (RNSGA-II) on seven selected benchmark problems. The results show that the proposed metrics are effective in quantifying the performance of robust multi-objective algorithms in terms of convergence, coverage, and the ratio of the robust/non-robust Pareto optimal solutions obtained.",
+    "citation_count": "76",
+    "year": "2015/04/01",
+    "authors": [
+        {
+            "name": "Seyedali Mirjalili",
+            "country": ""
+        },
+        {
+            "name": "Andrew Lewis",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

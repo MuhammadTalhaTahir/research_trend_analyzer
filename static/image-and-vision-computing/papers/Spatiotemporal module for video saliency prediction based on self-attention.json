@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621001219",
+    "title": "Spatiotemporal module for video saliency prediction based on self-attention",
+    "abstract": "Considering that the existing video saliency prediction methods still have limitations in spatiotemporal correlation learning between features and saliency regions, this paper proposes a spatiotemporal module for video saliency prediction based on self-attention. The proposed model emphasizes three essential problems as follows. First, we raise a multi-scale feature-fusion network (MFN) for effective feature integration. The framework can extract and fuse features from four scales at low memory cost. Second, we view the task as a global evaluation of the correlation on  pixel level  to predict human visual attention in task-driven scenes more accurately. An adapted transformer encoder is designed for spatiotemporal correlation learning. Finally, we introduce DConvLSTM to learn the context in videos. Experimental results show that the proposed model achieves state-of-the-art performance on both driving scenes and natural scenes with multi-motion information. And our model also achieves very comparable performance especially in natural scenes with multi-category objects. It proves our method is practicable in both data-driven and task-driven conditions.",
+    "citation_count": "15",
+    "year": "2021/08/01",
+    "authors": [
+        {
+            "name": "Yuhao Wang",
+            "country": ""
+        },
+        {
+            "name": "Zhuoran Liu",
+            "country": ""
+        },
+        {
+            "name": "Yibo Xia",
+            "country": ""
+        },
+        {
+            "name": "Chunbo Zhu",
+            "country": ""
+        },
+        {
+            "name": "Danpei Zhao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

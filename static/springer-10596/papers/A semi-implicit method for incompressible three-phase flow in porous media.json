@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-016-9583-2",
+    "title": "A semi-implicit method for incompressible three-phase flow in porous media",
+    "abstract": "In this paper, we present a semi-implicit method for the incompressible three-phase flow equations in two dimensions. In particular, a high-order discontinuous Galerkin spatial discretization is coupled with a backward Euler discretization in time. We consider a pressure-saturation formulation, decouple the pressure and saturation equations, and solve them sequentially while still keeping each equation implicit in its respective unknown. We present several numerical examples on both homogeneous and heterogeneous media, with varying permeability and porosity. Our results demonstrate the robustness of the scheme. In particular, no slope limiters are required and a relatively large time step may be taken.",
+    "citation_count": 22,
+    "year": "2016/12",
+    "authors": [
+        {
+            "name": "Dong, Justin",
+            "country": "USA"
+        },
+        {
+            "name": "Rivière, Béatrice",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

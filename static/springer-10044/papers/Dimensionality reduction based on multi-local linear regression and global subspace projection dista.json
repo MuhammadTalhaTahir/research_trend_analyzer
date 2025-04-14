@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-021-01022-7",
+    "title": "Dimensionality reduction based on multi-local linear regression and global subspace projection distance minimum",
+    "abstract": "Dimensionality reduction is vital in many fields, such as computer vision and pattern recognition. This paper proposes an unsupervised dimensionality reduction algorithm based on multi-local linear regression. The algorithm first divides the high-dimensional data into many localities. Under the criterion of local homeomorphism, the continuous dependency relationship of the high-dimensional data is maintained in each locality in the low-dimensional space. At the same time, due to the overlap of locality divisions, that is, each data may belong to multiple localities. Therefore, the algorithm performs a multi-local linear prediction on each target data point, to better capture the internal geometric structure of the data. Finally, to coordinate the predictions of the target data points by each locality, we require that the variance between the predictions of each locality to the same target point should be as small as possible. We perform experiments on synthetic and real datasets. Compared with the existing advanced algorithms, the experimental results show that the proposed algorithm has good feasibility.",
+    "citation_count": 39,
+    "year": "2021/11",
+    "authors": [
+        {
+            "name": "Huang, Haidong",
+            "country": "China"
+        },
+        {
+            "name": "Ma, Zhengming",
+            "country": "China"
+        },
+        {
+            "name": "Zhang, Guokai",
+            "country": "China"
+        },
+        {
+            "name": "Wu, Huibin",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223001438",
+    "title": "Spherical search with epsilon constraint and gradient-based repair framework for constrained optimization",
+    "abstract": "In evolutionary computation, search methodologies based on  Hyper Cube  (HC) are common while those based on Hyper Spherical (HS) methodologies are scarce. Spherical Search (SS), a recently proposed method that is based on HS search methodology has been proven to perform well on  bound constraint  problems due to its better exploration capability. In this paper, we extend SS to solve  Constrained Optimization  Problems (COPs) by combining the epsilon constraint handling method with a gradient-based repair framework that comprises of - a) Gradient Repair Method (GRM) which is a combination of Levenberg–Marquardt and Broyden update to reduce the computational complexity and settle numerical instabilities, b) Trigger mechanism that determines when to trigger the GRM, and c) repair ratio that determines the probability of repairing a solution in the population. Ultimately, we verify the performance of the proposed algorithm on IEEE CEC 2017 benchmark COPs along with 11  power system  problems from a test suite of real-world COPs. Experimental results show that the proposed algorithm is better than or at least comparable to other advanced algorithms on a wide range of COPs.",
+    "citation_count": "2",
+    "year": "2023/10/01",
+    "authors": [
+        {
+            "name": "Zhuji Yang",
+            "country": ""
+        },
+        {
+            "name": "Abhishek Kumar",
+            "country": ""
+        },
+        {
+            "name": "Rammohan Mallipeddi",
+            "country": ""
+        },
+        {
+            "name": "Dong-Gyu Lee",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

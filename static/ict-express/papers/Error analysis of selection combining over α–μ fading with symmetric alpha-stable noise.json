@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959521000473",
+    "title": "Error analysis of selection combining over α–μ fading with symmetric alpha-stable noise",
+    "abstract": "In this paper, error performance of a communication link subjected to a non-Gaussian noise model known as symmetric alpha-stable (S α S) noise and  α − μ  fading environment is analyzed with selection combining at the receiver. To this end, using binary phase-shift keying (BPSK), closed-form expressions of exact and asymptotic bit-error-rate (BER) are obtained. Furthermore, closed-form expressions of outage probability and  n -th moment are obtained. From the  n -th moment, the average signal-to-noise ratio (SNR) and channel quality estimation index (CQEI) are calculated. The effect of the number of antennas ( L ) and the fading parameters on the BER is studied for different impulsive settings. Monte-Carlo simulations are performed to validate the derived results.",
+    "citation_count": "0",
+    "year": "2021/12/01",
+    "authors": [
+        {
+            "name": "Umer Ashraf",
+            "country": ""
+        },
+        {
+            "name": "Gh. Rasool Begh",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885615000785",
+    "title": "Ordered trajectories for human action recognition with large number of classes",
+    "abstract": "Recently, a video representation based on dense trajectories has been shown to outperform other  human action recognition  methods on several benchmark datasets. The trajectories capture the motion characteristics of different moving objects in space and temporal dimensions. In dense trajectories, points are sampled at uniform intervals in space and time and then tracked using a dense  optical flow  field over a fixed length of  L  frames (optimally 15) spread overlapping over the entire video. However, among these base (dense) trajectories, a few may continue for longer than duration  L , capturing motion characteristics of objects that may be more valuable than the information from the base trajectories. Thus, we propose a technique that searches for trajectories with a longer duration and refer to these as ‘ordered trajectories’. Experimental results show that ordered trajectories perform much better than the base trajectories, both standalone and when combined. Moreover, the uniform sampling of dense trajectories does not discriminate objects of interest from the background or other objects. Consequently, a lot of information is accumulated, which actually may not be useful. This can especially escalate when there is more data due to an increase in the number of action classes. We observe that our proposed trajectories remove some background clutter, too. We use a Bag-of-Words framework to conduct experiments on the benchmark  HMDB51 ,  UCF50  and  UCF101  datasets containing the largest number of action classes to date. Further, we also evaluate three state-of-the art feature encoding techniques to study their performance on a common platform.",
+    "citation_count": "21",
+    "year": "2015/10/01",
+    "authors": [
+        {
+            "name": "O.V. Ramana Murthy",
+            "country": ""
+        },
+        {
+            "name": "Roland Goecke",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

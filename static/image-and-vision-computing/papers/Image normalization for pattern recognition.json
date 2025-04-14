@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/026288569598753G",
+    "title": "Image normalization for pattern recognition",
+    "abstract": "In general, there are four basic forms of distortion in the recognition of planar patterns: translation, rotation, scaling and skew. In this paper, a normalization algorithm has been developed which transforms pattern into its normal form such that it is invariant to translation, rotation, scaling and skew. After normalization, the recognition can be performed by a simple matching method. In the algorithm, we first compute the covariance matrix of a given pattern. Then we rotate the pattern according to the eigenvectors of the covariance matrix, and scale the pattern along the two eigenvectors according to the eigenvalues to bring the pattern to its most compact form. After the process, the pattern is invariant to translation, scaling and skew. Only the rotation problem remains unsolved. By applying the tensor theory, we find a rotation angle which can make the pattern invariant to rotation. Thus, the resulting pattern is invariant to translation, rotation, scaling and skew. The planar image used in this algorithm may be curved, shaped, a grey-level image or a coloured image, so its applications are wide, including recognition problems about curve, shape, grey-level and coloured patterns. The technique suggested in this paper is easy, does not need much computation, and can serve as a pre-processing step in computer vision applications.",
+    "citation_count": "142",
+    "year": "1995/12/01",
+    "authors": [
+        {
+            "name": "Soo-Chang Pei",
+            "country": ""
+        },
+        {
+            "name": "Chao-Nan Lin",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

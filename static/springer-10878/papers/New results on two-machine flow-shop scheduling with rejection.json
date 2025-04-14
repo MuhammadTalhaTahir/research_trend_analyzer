@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-015-9836-3",
+    "title": "New results on two-machine flow-shop scheduling with rejection",
+    "abstract": "In this paper, we consider the off-line and on-line two-machine flow-shop scheduling problems with rejection. The objective is to minimize the sum of the makespan of accepted jobs and the total rejection penalty of rejected jobs. For the off-line version, Shabtay and Gasper (Comput Oper Res 39:1087–1096, 2012) showed that this problem is NP-hard and then provided a pseudo-polynomial-time algorithm, two 2-approximation algorithms and a fully polynomial-time approximation scheme. We further study some special cases in this paper. We show that this problem is still NP-hard even when all jobs have the same processing time on one of the machines or all jobs have the same rejection penalty. Furthermore, we also showed that this problem can be solved in polynomialtime algorithm when all jobs satisfy the agreeable condition on their processing times and rejection penalties. For the on-line version without rejection, Chen and Woeginger [in: Du DZ, Pardalos PM (eds.) Minimax and Applications, 1995] showed that the competitive ratio of any determined on-line algorithm is at least 2. We further show that the competitive ratio of any determined on-line algorithm is at least 2 even when all jobs have the same processing time on the first machine. Finally, for the on-line version with rejection, we present a class of on-line algorithms with the best-possible competitive ratio 2.",
+    "citation_count": 16,
+    "year": "2016/05",
+    "authors": [
+        {
+            "name": "Zhang, Liqi",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Lu, Lingfa",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Li, Shisheng",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

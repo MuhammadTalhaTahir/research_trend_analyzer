@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224000403",
+    "title": "A customized adaptive large neighborhood search algorithm for solving a multi-objective home health care problem in a pandemic environment",
+    "abstract": "This paper addresses a  home health care  routing and scheduling problem (HHCRSP) specifically focusing on the context of a pandemic environment. The investigated HHCRSP involves assigning appropriate caregivers to patients and optimizing caregiver routes while minimizing total travel costs, workload differences among caregivers, and negative patient preferences. The problem accounts for synchronized visits, lunch breaks, time windows, and special pandemic constraints (e.g., maximum total contact times for each caregiver and multi-trip routes). To our knowledge, this is the first study to address these constraints and goals simultaneously in the HHCRSP. To solve the problem, we propose a customized algorithm, AMOALNS, which combines archived multi-objective simulated annealing (AMOSA) with adaptive large neighborhood search (ALNS). Our AMOALNS generates a new solution iteratively through problem-specific heuristics within ALNS, employing a multi-objective optimization framework to intelligently disrupt and repair  feasible solutions . The adaptive updating of heuristic weights is determined by the domination relation between the newly generated solution and non-dominated solutions stored in the archive of AMOSA. To show the performance of the AMOALNS through extensive experiments, we compare it with the epsilon constraint method and other state-of-the-art multi-objective algorithms in the literature. Additionally, we use  Pareto front  analysis to aid decision-makers in comprehending the shape of the Pareto front and making informed choices based on their preferences. The trade-off analysis shows that minimizing total travel costs is the hardest to achieve, and optimizing workload balancing is worthwhile. Also, most of the non-dominated solutions can simultaneously achieve low workload balancing and high preference of patients. Finally, the sensitivity analyses reveal that the time windows classifications and instances sizes have significant impact on the compromising solutions.",
+    "citation_count": "5",
+    "year": "2024/04/01",
+    "authors": [
+        {
+            "name": "Wenheng Liu",
+            "country": ""
+        },
+        {
+            "name": "Mahjoub Dridib",
+            "country": ""
+        },
+        {
+            "name": "Amir M. Fathollahi-Fard",
+            "country": ""
+        },
+        {
+            "name": "Amir Hajjam El Hassani",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

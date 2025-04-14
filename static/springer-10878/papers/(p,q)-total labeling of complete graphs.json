@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-012-9471-1",
+    "title": "(p,q)-total labeling of complete graphs",
+    "abstract": "Given a graph G and positive integers p,q with p≥q, the (p,q)-total number $\\lambda_{p,q}^{T}(G)$ of G is the width of the smallest range of integers that suffices to label the vertices and the edges of G such that the labels of any two adjacent vertices are at least q apart, the labels of any two adjacent edges are at least q apart, and the difference between the labels of a vertex and its incident edges is at least p. Havet and Yu (Discrete Math 308:496–513, 2008) first introduced this problem and determined the exact value of $\\lambda_{p,1}^{T}(K_{n})$ except for even n with p+5≤n≤6p 2−10p+4. Their proof for showing that $\\lambda _{p,1}^{T}(K_{n})\\leq n+2p-3$ for odd n has some mistakes. In this paper, we prove that if n is odd, then $\\lambda_{p}^{T}(K_{n})\\leq n+2p-3$ if p=2, p=3, or $4\\lfloor\\frac{p}{2}\\rfloor+3\\leq n\\leq4p-1$ . And we extend some results that were given in Havet and Yu (Discrete Math 308:496–513, 2008). Beside these, we give a lower bound for $\\lambda_{p,q}^{T}(K_{n})$ under the condition that q",
+    "citation_count": 11,
+    "year": "2013/05",
+    "authors": [
+        {
+            "name": "Chia, Ma-Lian",
+            "country": "Taiwan"
+        },
+        {
+            "name": "Kuo, David",
+            "country": "Taiwan"
+        },
+        {
+            "name": "Yan, Jing-Ho",
+            "country": "Taiwan"
+        },
+        {
+            "name": "Yang, Siou-Ru",
+            "country": "Taiwan"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

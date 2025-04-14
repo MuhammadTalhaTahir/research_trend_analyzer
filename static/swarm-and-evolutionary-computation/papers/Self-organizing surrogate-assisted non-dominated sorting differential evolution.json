@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224002414",
+    "title": "Self-organizing surrogate-assisted non-dominated sorting differential evolution",
+    "abstract": "Multi-objective optimization problems (MOPs) involve optimizing multiple conflicting objectives simultaneously, resulting in a set of Pareto optimal solutions. Due to the high computational or financial cost associated with evaluating fitness, expensive multi-objective optimization problems (EMOPs) further complicate the optimization process. Surrogate-assisted evolutionary algorithms (SAEAs) have emerged as a promising approach to address EMOPs by substituting costly evaluations with computationally efficient surrogate models. This paper introduces the self-organizing surrogate-assisted non-dominated sorting differential evolution (SSDE), which uses surrogate model based on a self-organizing map (SOM) to approximate the fitness function. SSDE offers advantages such as reduced computational cost, improved accuracy, and the speed of enhanced convergence. The SOM-based surrogate models effectively capture the underlying structure of the Pareto optimal set and Pareto optimal front, leading to superior approximations of the fitness function. Experimental results on benchmark functions and real-world problems, including Model-Free Adaptive Control (MFAC) and the Yagi-Uda Antenna design, demonstrate the competitiveness and efficiency of SSDE compared to other algorithms.",
+    "citation_count": "1",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Aluizio F.R. Araújo",
+            "country": ""
+        },
+        {
+            "name": "Lucas R.C. Farias",
+            "country": ""
+        },
+        {
+            "name": "Antônio R.C. Gonçalves",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

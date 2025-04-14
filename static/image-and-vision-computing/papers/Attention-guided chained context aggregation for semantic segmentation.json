@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621002146",
+    "title": "Attention-guided chained context aggregation for semantic segmentation",
+    "abstract": "The way features propagate in Fully Convolutional Networks is of momentous importance to capture multi-scale contexts for obtaining precise segmentation masks. This paper proposes a novel series-parallel hybrid paradigm called the Chained Context Aggregation Module (CAM) to enrich feature representation. CAM gains features of various spatial scales through chain-connected ladder-style information flows and fuses them in a two-stage process, namely pre-fusion and re-fusion. The serial flow continuously increases receptive fields of output neurons and those in parallel encode different region-based contexts. Each information flow is a shallow encoder-decoder with appropriate down-sampling scales to sufficiently capture contextual information. We further adopt an attention model in CAM to guide feature re-fusion. Based on these developments, we construct the Chained Context Aggregation Network (CANet), which employs an asymmetric decoder to recover precise spatial details of prediction maps. We conduct extensive experiments on six challenging datasets, including Pascal VOC 2012, Pascal Context, Cityscapes, CamVid, SUN-RGBD and GATECH. Results evidence that CANet achieves state-of-the-art or competitive performance.",
+    "citation_count": "21",
+    "year": "2021/11/01",
+    "authors": [
+        {
+            "name": "Quan Tang",
+            "country": ""
+        },
+        {
+            "name": "Fagui Liu",
+            "country": ""
+        },
+        {
+            "name": "Tong Zhang",
+            "country": ""
+        },
+        {
+            "name": "Jun Jiang",
+            "country": ""
+        },
+        {
+            "name": "Yu Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

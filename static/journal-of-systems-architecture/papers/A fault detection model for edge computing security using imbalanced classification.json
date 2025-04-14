@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122002648",
+    "title": "A fault detection model for edge computing security using imbalanced classification",
+    "abstract": "The edge computing-based  Internet of Thing  (IoT) has been growing drastically by taking advantage of  edge computing  which provides great assistance for IoT and mobile devices to complete sophisticated tasks. However, the rapid development leads to the neglect of security threats in edge computing platforms and their enabled applications, which has been one of the main limitations in the smart cities. In this article, we propose a fault and attack detection model for edge computing-based IoT systems to ensure the security of edge computing. Since the risk and fault cases are very imbalanced compared to normal cases, this paper proposes a novel fault  detection algorithm  by using the imbalance  classification technique . Utilizing  deep learning  techniques, the proposed algorithm overcomes data overlapping problems occurring in many traditional oversampling methods and achieves outstanding performance. With this novel imbalance  classification algorithm , the proposed security prediction model achieves pretty  good performance  on real-world edge computing applications.",
+    "citation_count": "8",
+    "year": "2022/12/01",
+    "authors": [
+        {
+            "name": "Peifeng Liang",
+            "country": ""
+        },
+        {
+            "name": "Gang Liu",
+            "country": ""
+        },
+        {
+            "name": "Zenggang Xiong",
+            "country": ""
+        },
+        {
+            "name": "Honghui Fan",
+            "country": ""
+        },
+        {
+            "name": "Hongjin Zhu",
+            "country": ""
+        },
+        {
+            "name": "Xuemin Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

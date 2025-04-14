@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-009-9168-4",
+    "title": "Simulation of multiphase flow in fractured reservoirs using a fracture-only model with transfer functions",
+    "abstract": "We present a fracture-only reservoir simulator for multiphase flow: the fracture geometry is modeled explicitly, while fluid movement between fracture and matrix is accommodated using empirical transfer functions. This is a hybrid between discrete fracture discrete matrix modeling where both the fracture and matrix are gridded and dual-porosity or dual-permeability simulation where both fracture and matrix continua are upscaled. The advantage of this approach is that the complex fracture geometry that controls the main flow paths is retained. The use of transfer functions, however, simplifies meshing and makes the simulation method considerably more efficient than discrete fracture discrete matrix models. The transfer functions accommodate capillary- and gravity-mediated flow between fracture and matrix and have been shown to be accurate for simple fracture geometries, capturing both the early- and late-time average behavior. We verify our simulator by comparing its predictions with simulation results where the fracture and matrix are explicitly modeled. We then show the utility of the approach by simulating multiphase flow in a geologically realistic fracture network. Waterflooding runs reveal the fraction of the fracture–matrix interface area that is infiltrated by water so that matrix imbibition can occur. The evolving fraction of the fracture–matrix interface area turns out to be an important characteristic of any particular fracture system to be used as a scaling parameter for capillary driven fracture–matrix transfer.",
+    "citation_count": 25,
+    "year": "2010/09",
+    "authors": [
+        {
+            "name": "Unsal, Evren",
+            "country": "UK"
+        },
+        {
+            "name": "Matthäi, Stephan K.",
+            "country": "UK"
+        },
+        {
+            "name": "Blunt, Martin J.",
+            "country": "UK"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

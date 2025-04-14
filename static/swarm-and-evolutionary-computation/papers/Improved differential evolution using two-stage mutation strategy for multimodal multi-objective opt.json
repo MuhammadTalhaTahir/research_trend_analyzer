@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223000068",
+    "title": "Improved differential evolution using two-stage mutation strategy for multimodal multi-objective optimization",
+    "abstract": "Recently, multimodal multi-objective problem (MMOP) has become a popular research field in multi-objective  optimization problems . Multimodal multi-objective optimization problem has multiple equivalent  Pareto sets  corresponding to one same  Pareto front , and the goal of solving it is to find all the equivalent Pareto sets, which is divergent from multi-objective optimization problem. To resolve this problem, an improved differential evolution for multimodal multi-objective optimization is proposed. First and foremost, a novel  distance indicator , called modified maximum extension distance (MMED), is proposed. Secondly, a two-stage mutation strategy and a novel mutation strategy, namely DE/rand-to-MMEDBest/2, are designed to boost the diversity and convergence in different evolution stages of population. Thirdly, a MMED-based environmental selection that takes individuals in lesser fronts into population is used to enhance the overall performance of the population. Ultimately, the proposed algorithm is compared to multiple selected outstanding algorithms in solving multiple multimodal multi-objective optimization problems. Experimental results indicate that the proposed algorithm is capable of solving multimodal multi-objective optimization problems effectively and has achieved excellent performance.",
+    "citation_count": "28",
+    "year": "2023/04/01",
+    "authors": [
+        {
+            "name": "Yong Wang",
+            "country": ""
+        },
+        {
+            "name": "Zhen Liu",
+            "country": ""
+        },
+        {
+            "name": "Gai-Ge Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

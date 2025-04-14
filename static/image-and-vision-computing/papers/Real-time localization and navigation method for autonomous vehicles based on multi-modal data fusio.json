@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885625000721",
+    "title": "Real-time localization and navigation method for autonomous vehicles based on multi-modal data fusion by integrating memory transformer and DDQN",
+    "abstract": "In the field of autonomous driving, real-time localization and navigation are the core technologies that ensure vehicle safety and precise operation. With advancements in sensor technology and computing power, multi-modal data fusion has become a key method for enhancing the environmental perception capabilities of autonomous vehicles. This study aims to explore a novel visual-language navigation technology to achieve precise navigation of autonomous cars in complex environments. By integrating information from radar, sonar, 5G networks, Wi-Fi, Bluetooth, and a 360-degree visual information collection device mounted on the vehicle's roof, the model fully exploits rich multi-source data. The model uses the Memory Transformer for efficient data encoding and a data fusion strategy with a self-attention network, ensuring a balance between feature integrity and algorithm real-time performance. Furthermore, the encoded data is input into a DDQN vehicle navigation algorithm based on an automatically growing environmental target knowledge graph and large-scale scene maps, enabling continuous learning and optimization in real-world environments. Comparative experiments show that the proposed model outperforms existing SOTA models, particularly in terms of macro-spatial reference from large-scale scene maps, background knowledge support from the automatically growing knowledge graph, and the experience-optimized navigation strategies of the DDQN algorithm. In the comparative experiments with the SOTA models, the proposed model achieved scores of 3.99, 0.65, 0.67, 0.65, 0.63, and 0.63 on the six metrics NE, SR, OSR, SPL, CLS, and DTW, respectively. All of these results significantly enhance the intelligent positioning and navigation capabilities of autonomous driving vehicles.",
+    "citation_count": "0",
+    "year": "2025/04/01",
+    "authors": [
+        {
+            "name": "Li Zha",
+            "country": ""
+        },
+        {
+            "name": "Chen Gong",
+            "country": ""
+        },
+        {
+            "name": "Kunfeng Lv",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

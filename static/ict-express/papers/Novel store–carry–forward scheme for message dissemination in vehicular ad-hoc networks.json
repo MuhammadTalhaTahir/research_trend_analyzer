@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959517302904",
+    "title": "Novel store–carry–forward scheme for message dissemination in vehicular ad-hoc networks",
+    "abstract": "To improve traffic safety in intelligent transportation systems, vehicles formed by vehicular ad-hoc networks (VANETs) conventionally disseminate warning messages to their nearby vehicles as soon as a dangerous situation occurs. In this paper, we propose a novel scheme employing a novel story–carry–forward (SCF) mechanism to tackle the network partition and broadcast storm problems, which are two major challenges in VANETs. The experimental result in the Veins simulation framework shows that the proposed SCF scheme significantly mitigates broadcast storms relative to other schemes, and maintains good coverage across various traffic densities.",
+    "citation_count": "0",
+    "year": "2017/12/01",
+    "authors": [
+        {
+            "name": "Truc D.T. Nguyen",
+            "country": ""
+        },
+        {
+            "name": "Thanh-Van Le",
+            "country": ""
+        },
+        {
+            "name": "Hoang-Anh Pham",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

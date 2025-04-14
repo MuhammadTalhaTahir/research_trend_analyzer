@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002381",
+    "title": "Response time analysis of memory-bandwidth-regulated multiframe mixed-criticality systems",
+    "abstract": "The multiframe mixed-criticality task model eliminates the  pessimism  in many systems where the worst-case  execution times  (WCETs) of successive jobs vary greatly by design, in a known pattern. Existing  feasibility analysis  techniques for multiframe mixed-criticality tasks are shared-resource-oblivious, hence unsafe for commercial-off-the-shelf (COTS) multicore platforms with a  memory controller  shared among all cores. Conversely, the feasibility analyses that account for the interference on shared resource(s) in COTS platforms do not leverage the WCET variation in multiframe tasks. This paper extends the state-of-the-art by presenting an analysis that incorporates the memory access stall in memory-bandwidth-regulated multiframe mixed-criticality multicore systems. An exhaustive enumeration approach is proposed for this analysis to further enhance the schedulability success ratio. The running time of the exhaustive analysis is improved by proposing a pruning mechanism that eliminates the combinations of interfering job sequences that subsume others. Experimental evaluation, using synthetic task sets, demonstrates up to 72% improvement in terms of schedulability success ratio, compared to frame-agnostic analysis.",
+    "citation_count": "1",
+    "year": "2022/02/01",
+    "authors": [
+        {
+            "name": "Ishfaq Hussain",
+            "country": ""
+        },
+        {
+            "name": "Muhammad Ali Awan",
+            "country": ""
+        },
+        {
+            "name": "Pedro F. Souto",
+            "country": ""
+        },
+        {
+            "name": "Konstantinos Bletsas",
+            "country": ""
+        },
+        {
+            "name": "Eduardo Tovar",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

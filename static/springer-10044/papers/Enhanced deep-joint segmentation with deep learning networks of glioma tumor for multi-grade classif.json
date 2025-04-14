@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-022-01064-5",
+    "title": "Enhanced deep-joint segmentation with deep learning networks of glioma tumor for multi-grade classification using MR images",
+    "abstract": "The crucial imaging modality employed in medicinal diagnostic tools to detect the tumors is magnetic resonance image (MRI). Based on the glioma anatomical structures, MRI poses the capability to provide detailed information. Anyhow, in the MRI classification the foremost problem is the semantic gap between optical information at the low level, which is attained from the MRI machine, whereas information at the high level is alleged by a clinician. In this research, Tunicate-Exponential weighted moving average (TEWMA)-based deep convolutional neural Network (TEWMA-deep CNN) is devised for multi-grade classification. In this method, the preprocessing is employed to eradicate the artifacts present in the image. Moreover, deep-joint segmentation is modified with the weighted Euclidean and Levenshtein distance measures, which are effectively used for segmenting the tumor regions. Then, the classification is done from the image-segmented areas by deep CNN to determine gliomas, meningioma, pituitary, and others, which is tuned by developed TEWMA. The experimentation of the devised approach is performed by three datasets, such as BRATS 2015, figshare, and BRATS 2020 dataset. The developed TEWMA is designed by incorporating Tunicate swarm algorithm (TSA) and exponentially weighted moving average (EWMA) algorithm, with the highest specificity of 99%, highest accuracy of 98.76%, highest sensitivity of 98.88%, maximal precision of 94.76%, maximal F1-measure of 98.46%, and minimal time of 7.24&nbsp;s using dataset-1 for classification. Also, the proposed method attains average specificity, accuracy, sensitivity, precision, F-measure, and time of 91.09, 93.79, 95.46, 92.33, 94.30%, and 6.23&nbsp;s, respectively, using dataset-1.",
+    "citation_count": 30,
+    "year": "2022/11",
+    "authors": [
+        {
+            "name": "Divya, S",
+            "country": "India"
+        },
+        {
+            "name": "Padma Suresh, L",
+            "country": "India"
+        },
+        {
+            "name": "John, A",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762125000323",
+    "title": "Collaborative optimization of offloading and pricing strategies in dynamic MEC system via Stackelberg game",
+    "abstract": "The rapid advancement of 5G technology has indirectly propelled the growth of connected devices within the Internet of Things (IoT). Within the IoT domain, mobile edge computing (MEC) has demonstrated potential in task processing. However, as computational services expand, the reliable determination of user offloading strategies and the rational establishment of service prices offered by servers to users continue to present challenging research directions. The primary focus of this paper revolves around task offloading in the MEC system, encompassing numerous user terminal devices that support energy harvesting (EH), a MEC server and a central cloud server. The optimization goals are to maximize the utilities for both users and the MEC server by adjusting offloading and pricing strategies. To guarantee the task queue’s stability within the system and achieve a reasonable allocation of system resources, we propose a dynamic task offloading approach rooted in Lyapunov optimization theory and Stackelberg game theory. In this algorithm, the MEC server takes on the role of the leader, while each user terminal device acts as the follower. Aiming at the game equilibrium existence of the algorithm, a series of mathematical analysis is carried out. Additionally, we conduct extensive simulation experiments to validate the proposed algorithm’s effectiveness. The proposed algorithm achieves improvements in user utility, with a 6.43% increase compared to the average time-constrained task offloading (ATCTO) scheme, a 61.80% improvement over the local-only processing (LOP) scheme, and a 23.97% enhancement over the genetic algorithm (GA) scheme. Meanwhile, it achieves a task queue backlog reduction of 50.00% compared to ATCTO, 70.00% compared to LOP and 15.28% compared to GA.",
+    "citation_count": "0",
+    "year": "2025/03/01",
+    "authors": [
+        {
+            "name": "Jing Mei",
+            "country": ""
+        },
+        {
+            "name": "Cuibin Zeng",
+            "country": ""
+        },
+        {
+            "name": "Zhao Tong",
+            "country": ""
+        },
+        {
+            "name": "Longbao Dai",
+            "country": ""
+        },
+        {
+            "name": "Keqin Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

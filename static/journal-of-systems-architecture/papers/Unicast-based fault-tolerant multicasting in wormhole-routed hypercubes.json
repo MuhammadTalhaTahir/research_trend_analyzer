@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762108001070",
+    "title": "Unicast-based fault-tolerant multicasting in wormhole-routed hypercubes",
+    "abstract": "A unicast-based fault-tolerant multicasting method is proposed for hypercubes, which can still work well when the system contains enough faults. A multicast message may be unable to reach a destination if Hamming distance between the destination and the multicast source is large enough. A multicast message fails if any one of the destinations is unreachable from the source. An effective destination ordering scheme of the destinations is proposed for one-port systems first, it is extended to all-port systems for unicast-based fault-tolerant multicasting. Unreachable destinations from the source based on the local safety information are forwarded to a reachable destination, where the multicast message can be routed reliably. Destination ordering is completed based on Hamming distance. A multiple round  p -cube routing scheme is presented for a deadlock-free fault-tolerant routing for each unicast step in hypercubes, where the same virtual channel is used for each round of  p -cube routing. Sufficient simulation results are presented by comparing with the previous methods.",
+    "citation_count": "6",
+    "year": "2008/12/01",
+    "authors": [
+        {
+            "name": "Dong Xiang",
+            "country": ""
+        },
+        {
+            "name": "Yueli Zhang",
+            "country": ""
+        },
+        {
+            "name": "Jia-Guang Sun",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

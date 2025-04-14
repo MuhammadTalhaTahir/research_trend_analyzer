@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885617301464",
+    "title": "Efficient rotation estimation for 3D registration and global localization in structured point clouds",
+    "abstract": "Fully automatic 3D point cloud registration for structured scenes is a highly challenging task. In this paper, an efficient rotation  estimation algorithm  is proposed for point clouds of structured scenes. This algorithm fully employs the  geometric information  of structured environment. For rotation estimation, a direction angle is defined for a point cloud and then the  rotation matrix  is obtained by comparing the difference between the distributions of angles. The proposed rotation estimation algorithm is used for both 3D registration and global localization. To conduct a full 3D registration, the translation parameters are estimated by aligning the centers of the corresponding points while the rotation parameters are estimated by the proposed algorithm. For global localization, a translation estimation algorithm is proposed using projection information. The point clouds are projected onto the orthogonal plane and  template matching  is performed on the projection images to calculate the  translation vector . Experiments have been conducted on two datasets. Experimental results demonstrate that the proposed algorithm outperforms the state-of-the-art approaches in terms of both accuracy, computational efficiency and robustness.",
+    "citation_count": "13",
+    "year": "2017/11/01",
+    "authors": [
+        {
+            "name": "Yanxin Ma",
+            "country": ""
+        },
+        {
+            "name": "Yulan Guo",
+            "country": ""
+        },
+        {
+            "name": "Yinjie Lei",
+            "country": ""
+        },
+        {
+            "name": "Min Lu",
+            "country": ""
+        },
+        {
+            "name": "Jun Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-015-0499-6",
+    "title": "A review of facial gender recognition",
+    "abstract": "Applications such as human–computer interaction, surveillance, biometrics and intelligent marketing would benefit greatly from knowledge of the attributes of the human subjects under scrutiny. The gender of a person is one such significant demographic attribute. This paper provides a review of facial gender recognition in computer vision. It is certainly not a trivial task to identify gender from images of the face. We highlight the challenges involved, which can be divided into human factors and those introduced during the image capture process. A comprehensive survey of facial feature extraction methods for gender recognition studied in the past couple of decades is provided. We appraise the datasets used for evaluation of gender classification performance. Based on the results reported, good performance has been achieved for images captured under controlled environments, but certainly there is still much work that can be done to improve the robustness of gender recognition under real-life environments.",
+    "citation_count": 150,
+    "year": "2015/11",
+    "authors": [
+        {
+            "name": "Ng, Choon-Boon",
+            "country": "Malaysia"
+        },
+        {
+            "name": "Tay, Yong-Haur",
+            "country": "Malaysia"
+        },
+        {
+            "name": "Goi, Bok-Min",
+            "country": "Malaysia"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-005-3773-7",
+    "title": "The differential system method for parameter identification; unconfined aquifer case",
+    "abstract": "We present the applicability of differential system (DS) method for identification of hydraulic conductivity and effective porosity in a phreatic aquifer. In the original setting, the first step of the DS system is to solve an overdetermined algebraic system in the least squares sense. A natural extension of the method is to pose a least squares problem in an appropriate functional space. We show an improvement of the identification by considering the least square problem in the space of square integrable functions in the time variable for a finite interval.",
+    "citation_count": 9,
+    "year": "2005/01",
+    "authors": [
+        {
+            "name": "Moreles, Miguel Angel",
+            "country": "Mexico"
+        },
+        {
+            "name": "Vázquez, Rogelio",
+            "country": "Mexico"
+        },
+        {
+            "name": "Avila, Fernando",
+            "country": "Mexico"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

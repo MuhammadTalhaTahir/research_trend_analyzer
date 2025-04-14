@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003962",
+    "title": "High-performance mitosis detection using single-level feature and hybrid label assignment",
+    "abstract": "Mitosis detection poses a significant challenge in medical image analysis, primarily due to the substantial variability in the appearance and shape of mitotic targets. This paper introduces an efficient and accurate mitosis detection framework, which stands apart from previous mitosis detection techniques with its two key features: Single-Level Feature (SLF) for bounding box prediction and Dense-Sparse Hybrid Label Assignment (HLA) for bounding box matching. The SLF component of our method employs a multi-scale Transformer backbone to capture the global context and morphological characteristics of both mitotic and non-mitotic cells. This information is then consolidated into a single-scale feature map, thereby enhancing the model's receptive field and reducing redundant detection across various feature maps. In the HLA component, we propose a hybrid label assignment strategy to facilitate the model's adaptation to mitotic cells of different shapes and positions during training, thereby improving the model's adaptability to diverse cell morphologies. Our method has been tested on the largest mitosis detection datasets and achieves state-of-the-art (SOTA) performance, with an F1 score of 0.782 on the TUPAC 16 benchmark, and 0.792 with test time augmentation (TTA). Our method also exhibits superior accuracy and faster processing speed compared to previous methods. The source code and pretrained models will be released to facilitate related research.",
+    "citation_count": "0",
+    "year": "2024/11/01",
+    "authors": [
+        {
+            "name": "Jiangxiao Han",
+            "country": ""
+        },
+        {
+            "name": "Shikang Wang",
+            "country": ""
+        },
+        {
+            "name": "Xianbo Deng",
+            "country": ""
+        },
+        {
+            "name": "Wenyu Liu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

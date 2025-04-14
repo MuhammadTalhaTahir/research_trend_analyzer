@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-024-01403-8",
+    "title": "Integrated multi-local and global dynamic perception structure for sign language recognition",
+    "abstract": "Current sign language recognition methods often focus on whole-body features, neglecting the detailed dynamic information of key body parts. We propose an integrated multi-local and global dynamic perception structure based on a hybrid feature fusion approach that fuses features from multiple local paths into the global path, aiming to benefit from the diverse local information available in videos. First, the multi-local dynamic perception module is designed to extract multiple sign language-related spatial features with fine-grained information on local body dynamics. This module is achieved by expanding multi-local features in the channel dimension, permitting the processing of different perspectives independently for multiple local feature inputs. Moreover, we design a multi-local to global fusion module that generates multi-local fusion representations encompassing both temporal and spatial dimensions. This module integrates the fusion of deep features from multiple local dynamics, to be integrated with shallow features of the global module, achieving a match between the deep features of the multi-local to global fusion module and the shallow features of the global dynamic perception module. Finally, extensive experiments based on several sign language recognition benchmarks demonstrate that our integrated multi-local and global dynamic perception structure effectively improves performance of sign language recognition models, and significantly outperforms a number of competitive baselines.",
+    "citation_count": 59,
+    "year": "2025/06",
+    "authors": [
+        {
+            "name": "Liang, Siyu",
+            "country": "China"
+        },
+        {
+            "name": "Li, Yunan",
+            "country": "China"
+        },
+        {
+            "name": "Shi, Yuanyuan",
+            "country": "China"
+        },
+        {
+            "name": "Chen, Huizhou",
+            "country": "China"
+        },
+        {
+            "name": "Miao, Qiguang",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

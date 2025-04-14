@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762123002084",
+    "title": "A distributed message authentication scheme with reputation mechanism for Internet of Vehicles",
+    "abstract": "Real-time and interactive traffic information sharing systems are crucial in the  Internet of Vehicles  (IoV) as they enable vehicles to make informed decisions, thereby improving the efficiency of  intelligent transportation systems  (ITS).  Message authentication  ensures the accuracy, integrity, and tamper-resistance of information in IoV. Existing schemes aim to achieve time-critical message  authentication . However, these schemes are time-consuming and cannot meet the real-time requirements of IoV. Additionally, there are issues with latency in  data synchronization  and  data redundancy  when vehicles traverse different domains. We propose an efficient, distributed, and resistant-to-malicious-attacks  authentication scheme  based on the reputation mechanism. Our scheme supports batch verification, enabling fast authentication. By leveraging the decentralized and ledger-synchronized features of  blockchain , our distributed scheme reduces data redundancy. We also employ a reputation mechanism to ensure reliable reports in IoVs. We experimentally confirm that our scheme outperforms EADA (59.73%), RCoM (76.35%), MLGSDT (63.36%), and TRAJ (82.08%). This approach provides a secure and reliable solution for report authentication.",
+    "citation_count": "6",
+    "year": "2023/12/01",
+    "authors": [
+        {
+            "name": "Xia Feng",
+            "country": ""
+        },
+        {
+            "name": "Xiaofeng Wang",
+            "country": ""
+        },
+        {
+            "name": "Kaiping Cui",
+            "country": ""
+        },
+        {
+            "name": "Qingqing Xie",
+            "country": ""
+        },
+        {
+            "name": "Liangmin Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S026288561730152X",
+    "title": "Multiple structure recovery via robust preference analysis",
+    "abstract": "This paper address the extraction of multiple models from outlier-contaminated data by exploiting preference analysis and  low rank approximation . First points are represented in the preference space, then Robust PCA (Principal Component Analysis) and Symmetric NMF (Non negative Matrix Factorization) are used to break the multi-model fitting problem into many single-model problems, which in turn are tackled with an approach inspired to MSAC (M-estimator SAmple Consensus) coupled with a model-specific scale estimate. Experimental validation on public, real data-sets demonstrates that our method compares favorably with the state of the art.",
+    "citation_count": "17",
+    "year": "2017/11/01",
+    "authors": [
+        {
+            "name": "Luca Magri",
+            "country": ""
+        },
+        {
+            "name": "Andrea Fusiello",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

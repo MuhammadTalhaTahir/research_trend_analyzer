@@ -1,0 +1,26 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10617-018-9215-2",
+    "title": "A low-cost fluid-level synthesis for droplet-based microfluidic biochips integrating design convergence, contamination avoidance, and washing",
+    "abstract": "Droplet-based microfluidic biochips (or DMFBs) are rapidly becoming a revolutionizing lab-on-a-chip technology. Numerous application specific protocols bridging the cross-disciplinary fields necessitate DMFBs as their prime need. The main goal at the fluid level is to minimize bioassay schedule length. Also, for a safe assay outcome, contamination among droplet routes must be avoided. Size restriction of a chip and reconfigurable nature of the operational modules in DMFB introduce contaminated cells which necessarily require washing as an urgent need. As the sub-tasks of fluid level possess their own constraints for a successful DMFB design, rip-up and reiteration of sub-tasks may become unavoidable if all of those constraints are not satisfied mutually. To achieve a shorter time for chip realization a crucial need in fluid-level design is to avoid rip-up and re-iteration; hence, design convergence is to be incorporated that collectively considers the fluid-level sub-tasks, instead of solving them individually. Thus, this paper focuses on the fluid level of DMFBs while considering design convergence, contamination avoidance, and washing issues. Obtained results are compared with several existing benchmarks.",
+    "citation_count": 38,
+    "year": "2018/12",
+    "authors": [
+        {
+            "name": "Chakraborty, Arpan",
+            "country": "India"
+        },
+        {
+            "name": "Datta, Piyali",
+            "country": "India"
+        },
+        {
+            "name": "Pal, Rajat Kumar",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

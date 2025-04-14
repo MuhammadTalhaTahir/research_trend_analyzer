@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762113001902",
+    "title": "Virtualizing ARM VFP (Vector Floating-Point) with Xen-ARM",
+    "abstract": "VFP  is a Vector Floating-Point unit in ARM processors. It enables ARM processors to handle auxiliary floating-point operations with hardware, which has become an essential part for performance in recent mobile devices. However, mobile virtualization such as Xen-ARM does not support virtual VFP, so  floating point operations  are very slow in mobile virtual machine. To overcome the performance limitation of floating-point operations in Xen-ARM virtualization, this paper presents a new virtual VFP so that applications can take the advantage of VFP hardware. With our virtual VFP, Xen-Linux reduces floating point operation latency up to one eighth from the existing software emulation version. In addition, result from mibench with virtual VFP presents 3–4 times  higher throughput  than that from software emulation. Furthermore, virtual VFP reduces code sizes and enhances power-efficiency.",
+    "citation_count": "1",
+    "year": "2013/11/01",
+    "authors": [
+        {
+            "name": "Seehwan Yoo",
+            "country": ""
+        },
+        {
+            "name": "Sung-bae Yoo",
+            "country": ""
+        },
+        {
+            "name": "Chuck Yoo",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

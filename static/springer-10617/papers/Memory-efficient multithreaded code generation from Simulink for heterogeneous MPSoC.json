@@ -1,0 +1,42 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10617-007-9009-4",
+    "title": "Memory-efficient multithreaded code generation from Simulink for heterogeneous MPSoC",
+    "abstract": "Emerging embedded systems require heterogeneous multiprocessor SoC architectures that can satisfy both high-performance and programmability. However, as the complexity of embedded systems increases, software programming on an increasing number of multiprocessors faces several critical problems, such as multithreaded code generation, heterogeneous architecture adaptation, short design time, and low cost implementation. In this paper, we present a software code generation flow based on Simulink to address these problems. We propose a functional modeling style to capture data-intensive and control-dependent target applications, and a system architecture modeling style to seamlessly transform the functional model into the target architecture. Both models are described using Simulink. From a system architecture Simulink model, a code generator produces a multithreaded code, inserting thread and communication primitives to abstract the heterogeneity of the target architecture. In addition, the multithread code generator called LESCEA applies the extensions of dataflow based memory optimization techniques, considering both data and control dependency. Experimental results on a Motion-JPEG decoder and an H.264 decoder show that the proposed multithread code generator enables easy software programming on different multiprocessor architectures with substantially reduced data memory size (up to&nbsp;68.0%) and code memory size (up to&nbsp;15.9%).",
+    "citation_count": 47,
+    "year": "2007/12",
+    "authors": [
+        {
+            "name": "Han, Sang-Il",
+            "country": "South Korea"
+        },
+        {
+            "name": "Chae, Soo-Ik",
+            "country": "South Korea"
+        },
+        {
+            "name": "Brisolara, Lisane",
+            "country": "Brazil"
+        },
+        {
+            "name": "Carro, Luigi",
+            "country": "Brazil"
+        },
+        {
+            "name": "Reis, Ricardo",
+            "country": "Brazil"
+        },
+        {
+            "name": "Guérin, Xavier",
+            "country": "France"
+        },
+        {
+            "name": "Jerraya, Ahmed Amine",
+            "country": "France"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

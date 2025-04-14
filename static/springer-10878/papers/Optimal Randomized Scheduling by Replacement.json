@@ -1,0 +1,21 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1009703014438",
+    "title": "Optimal Randomized Scheduling by Replacement",
+    "abstract": "In the replacement scheduling problem, a system consists of n processors drawn from a pool of p,all initially “alive”. At any time some processor can die. The scheduler is immediately informed of the fault butnot of its location. It must then choose another set of n processors. If this new set contains a dead processor, the system crashes and halts. The performance of a scheduling protocol is measured by the expected number of deaths the system tolerates before it crashes. We provide an optimal randomized scheduling protocol for this problem. The framework of this work combines an absolute performance measure for protocols and so-called adaptive online adversaries. This framework is rarely addressed because of the complexity of the interaction between protocols and adversaries. A major contribution of ourwork is to provide a theoretical foundation for the analysis of this interaction. In particular we make explicit how the protocol and the adversary affect the probability distribution of the analysis—a very general problem. We carefully analyze the exchange of sinformation between the two players, and reveal how they use their information optimally. The optimality of the protocol is established by using of a saddle point method for protocols and adversaries.",
+    "citation_count": 18,
+    "year": "1998/12",
+    "authors": [
+        {
+            "name": "Saias, Isaac",
+            "country": "New Mexico"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

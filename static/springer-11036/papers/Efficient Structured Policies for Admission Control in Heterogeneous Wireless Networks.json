@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-008-0045-5",
+    "title": "Efficient Structured Policies for Admission Control in Heterogeneous Wireless Networks",
+    "abstract": "In the near future, demand for heterogeneous wireless networking (HWN) is expected to increase. QoS provisioning in these networks is a challenging issue considering the diversity in wireless networking technologies and the existence of mobile users with different communication requirements. In HWNs with their increased complexity, “the curse of dimensionality” problem makes it impractical to directly apply the decision theoretic optimal control methods that are previously used in homogeneous wireless networks to achieve desired QoS levels. In this paper, optimal call admission control policies for HWNs are considered. A decision theoretic framework for the problem is derived by a dynamic programming formulation. We prove that for a two-tier wireless network architecture, the optimal policy has a two-dimensional threshold structure. Further, this structural result is used to design two computationally efficient algorithms, Structured Value Iteration and Structured Update Value Iteration. These algorithms can be used to determine the optimal policy in terms of thresholds. Although the first one is closer in its operation to the conventional Value Iteration algorithm, the second one has a significantly lower complexity. Extensive numerical observations suggest that, for all practical parameter sets, the algorithms always converge to the overall optimal policy. Further, the numerical results show that the proposed algorithms are efficient in terms of time-complexity and in achieving the optimal performance.",
+    "citation_count": 22,
+    "year": "2007/12",
+    "authors": [
+        {
+            "name": "Farbod, Amin",
+            "country": "Canada"
+        },
+        {
+            "name": "Liang, Ben",
+            "country": "Canada"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

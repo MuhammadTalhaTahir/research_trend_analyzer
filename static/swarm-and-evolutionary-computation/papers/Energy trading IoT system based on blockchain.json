@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650221000523",
+    "title": "Energy trading IoT system based on blockchain",
+    "abstract": "Energy trading  technology based on  Internet of Things  (IoTs) is one of the research hotspots. However, in the process of energy trading, it is easy to leak the user’s personal privacy. In order to solve the problem of  privacy leakage  in the energy trading IoT system, we explore a secure energy trading method based on  blockchain  technology and homomorphic  encryption technology . Firstly, we propose a homomorphic  encryption method  for blockchain system. Secondly, we propose a privacy protection method based on blockchain architecture. Finally, we propose an energy trading IoT system based on blockchain. By integrating  homomorphic encryption , blockchain and other technologies, we have implemented a secure energy trading system. Compared with other similar systems, our energy trading IoT system based on blockchain can provide more secure user services. In addition, our system can better protect the privacy of users.",
+    "citation_count": "31",
+    "year": "2021/07/01",
+    "authors": [
+        {
+            "name": "Haibo Yi",
+            "country": ""
+        },
+        {
+            "name": "Weipeng Lin",
+            "country": ""
+        },
+        {
+            "name": "Xin Huang",
+            "country": ""
+        },
+        {
+            "name": "Xuejun Cai",
+            "country": ""
+        },
+        {
+            "name": "Ruinan Chi",
+            "country": ""
+        },
+        {
+            "name": "Zhe Nie",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

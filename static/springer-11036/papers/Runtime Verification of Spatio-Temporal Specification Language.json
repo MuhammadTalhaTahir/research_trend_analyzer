@@ -1,0 +1,43 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-021-01779-5",
+    "title": "Runtime Verification of Spatio-Temporal Specification Language",
+    "abstract": "Combining spatial and temporal primitives together is quite useful to specify dynamic behaviors of cyber-physical systems. The ability to represent spatio-temporal properties by means of formulas in spatio-temporal logics has recently found important applications in various fields, such as runtime verification, parameter synthesis, and falsification. In this paper, we present a spatio-temporal specification language, STSL, by combining signal temporal logic (STL) with a spatial logic $\\mathcal {S}4_{u}$ to characterize spatio-temporal dynamic behaviors of cyber-physical systems. This language is highly expressive: it allows the description of quantitative signals, by expressing spatio-temporal traces over real-valued signals in dense time, and Boolean signals, by constraining values of spatial objects across threshold predicates. STSL combines the power of temporal modalities and spatial operators and enjoys important properties such as safety and liveness. We provide the falsification problem through extending Lemire’s algorithm and a parameter synthesis procedure by calling the simulated annealing algorithm. We demonstrate the proposed approach on the adaptive cruise control system and path planning of quadrotors.",
+    "citation_count": 43,
+    "year": "2021/12",
+    "authors": [
+        {
+            "name": "Li, Tengfei",
+            "country": "China"
+        },
+        {
+            "name": "Liu, Jing",
+            "country": "China"
+        },
+        {
+            "name": "Sun, Haiying",
+            "country": "China"
+        },
+        {
+            "name": "Chen, Xiaohong",
+            "country": "China"
+        },
+        {
+            "name": "Yin, Ling",
+            "country": "China"
+        },
+        {
+            "name": "Mao, Xia",
+            "country": "China"
+        },
+        {
+            "name": "Sun, Junfeng",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

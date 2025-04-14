@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002502",
+    "title": "Graph reductions and partitioning heuristics for multicore DAG scheduling",
+    "abstract": "The design of cyber–physical systems (CPSs) is facing the explosion of new functionalities requiring increased computation capacities and, thus, the introduction of multi-core processors. Moreover, some functionalities may impose precedence constraints between the programs implementing these new functionalities. While important effort has been dedicated to the scheduling of precedence constraints tasks on multi-core processors, existing work considers either partitioned scheduling for a single  precedence graph  defining precedence constraints between sub-tasks, or global scheduling policies. In this paper, we consider partitioned scheduling for multiple precedence graphs defining precedence constraints between tasks. We propose a partitioning heuristic that minimizes communication delays while maximizing sub-tasks  parallelism . We also propose to decrease the complexity of existing  schedulability analysis  by providing appropriate graph reductions.",
+    "citation_count": "7",
+    "year": "2022/03/01",
+    "authors": [
+        {
+            "name": "Slim Ben-Amor",
+            "country": ""
+        },
+        {
+            "name": "Liliana Cucu-Grosjean",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

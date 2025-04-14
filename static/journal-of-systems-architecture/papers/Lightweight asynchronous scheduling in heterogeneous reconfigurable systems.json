@@ -1,0 +1,38 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122000042",
+    "title": "Lightweight asynchronous scheduling in heterogeneous reconfigurable systems",
+    "abstract": "The trend for heterogeneous embedded systems is the integration of accelerators and general-purpose CPU cores on the same die. In these integrated architectures, like the Zynq UltraScale+ board (CPU+FPGA) that we target in this work, hardware support for shared memory and low-overhead synchronization between the accelerator and the CPU cores make the case for exploring strategies that exploit a tight collaboration between the CPUs and the accelerator. In this paper we propose a novel lightweight scheduling strategy, FastFit, targeted to FPGA accelerators, and a new scheduler based on it, named MultiFastFit, which asynchronously tackles heterogeneous systems comprised of a variety of CPU cores and FPGA IPs. Our strategy significantly reduces the overhead to automatically compute the near-optimal chunksizes when compared to a previous state-of-the-art auto-tuned approach, which makes our approach more suitable for fine-grained applications. Additionally, our scheduler MultiFastFit has been designed to enable the efficient co-execution of work among compute devices in such a way that all the devices are busy while minimizing the load unbalance. Our approaches have been evaluated using four benchmarks carefully tuned for the low-power UltraScale+ platform. Our experiments demonstrate that the FastFit strategy always finds the near-optimal FPGA chunksize for any device configuration at a reasonable cost, even for fine-grained and irregular applications, and that heterogeneous CPU+FPGA co-executions that exploit all the compute devices are usually faster and more energy efficient than the CPU-only and FPGA-only executions. We have also compared MultiFastFit with other state-of-the-art scheduling strategies, finding that it outperforms other auto-tuned approach up to 2x and it achieves similar results to manually-tuned schedulers without requiring an offline search of the ideal CPU-FPGA partition or FPGA chunk granularity.",
+    "citation_count": "0",
+    "year": "2022/03/01",
+    "authors": [
+        {
+            "name": "Andrés Rodríguez",
+            "country": ""
+        },
+        {
+            "name": "Angeles Navarro",
+            "country": ""
+        },
+        {
+            "name": "Kris Nikov",
+            "country": ""
+        },
+        {
+            "name": "Jose Nunez-Yanez",
+            "country": ""
+        },
+        {
+            "name": "Rubén Gran",
+            "country": ""
+        },
+        {
+            "name": "Darío Suárez Gracia",
+            "country": ""
+        },
+        {
+            "name": "Rafael Asenjo",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

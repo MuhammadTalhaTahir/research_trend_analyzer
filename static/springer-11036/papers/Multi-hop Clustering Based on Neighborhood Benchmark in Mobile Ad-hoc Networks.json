@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-008-0039-3",
+    "title": "Multi-hop Clustering Based on Neighborhood Benchmark in Mobile Ad-hoc Networks",
+    "abstract": "Large-scale mobile ad-hoc networks require flexible and stable clustered network structure for efficient data collection and dissemination. In this paper, a technique is presented to construct multi-hop clusters with balanced sizes, based on the neighborhood benchmark (NB) to quantify the connectivity and link stability of mobile nodes. By exploiting autonomous clusterhead selection and a specialized handshake process with the clusterheads, the nodes with highest NB scores are selected as clusterheads and all the clusters constructed are connected. The deviation of cluster sizes is kept small using a partial probability-based approach. Our technique generates highly stable multi-hop clusters with low overhead, and provides the flexibility of controlling the cluster radius adaptively for various network applications.",
+    "citation_count": 18,
+    "year": "2007/12",
+    "authors": [
+        {
+            "name": "Yau, Stephen S.",
+            "country": "USA"
+        },
+        {
+            "name": "Gao, Wei",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

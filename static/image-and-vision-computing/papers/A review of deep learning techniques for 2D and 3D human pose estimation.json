@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621001876",
+    "title": "A review of deep learning techniques for 2D and 3D human pose estimation",
+    "abstract": "Inferring human pose from a monocular  RGB image  remains an interesting field of research in  computer vision . It serves as a fundamental key for many real-world applications, including human-computer interaction, animation, and detecting abnormal or illegal human behavior. Despite the considerable progress made in this area during the last decade, the proposed methods face serious problems due to the huge variations in human appearance, occlusions, noisy backgrounds, viewpoints, and other factors that can change the context of the captured information. In this paper, we introduce a survey of state-of-the-art methods to highlight various research that have been proposed to tackle the 2D and 3D pose estimation tasks. Based on the number of persons in the image, two main pipelines are identified: single-person and multi-person methods. Each of these categories is divided into two groups according to the proposed architectures. Also, we provide a brief description of current datasets and the different metrics applied to evaluate the methods performances. Finally, we include a discussion about the advantages and disadvantages of the mentioned strategies.",
+    "citation_count": "78",
+    "year": "2021/10/01",
+    "authors": [
+        {
+            "name": "Miniar Ben Gamra",
+            "country": ""
+        },
+        {
+            "name": "Moulay A. Akhloufi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

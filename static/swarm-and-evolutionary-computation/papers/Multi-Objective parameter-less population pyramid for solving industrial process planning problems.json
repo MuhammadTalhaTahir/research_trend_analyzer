@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650220304260",
+    "title": "Multi-Objective parameter-less population pyramid for solving industrial process planning problems",
+    "abstract": "Evolutionary methods are effective tools for obtaining high-quality results when solving hard practical problems. Linkage learning may increase their effectiveness. One of the state-of-the-art methods that employ linkage learning is the Parameter-less Population Pyramid (P3). P3 is dedicated to solving single-objective problems in discrete domains. Recent research shows that P3 is highly competitive when addressing problems with so-called overlapping blocks, which are typical for practical problems. In this paper, we consider a multi-objective industrial process planning problem that arises from practice and is NP-hard. To handle it, we propose a multi-objective version of P3. The extensive research shows that our  proposition  outperforms the competing methods for the considered practical problem and typical multi-objective benchmarks.",
+    "citation_count": "11",
+    "year": "2021/02/01",
+    "authors": [
+        {
+            "name": "Michal Witold Przewozniczek",
+            "country": ""
+        },
+        {
+            "name": "Piotr Dziurzanski",
+            "country": ""
+        },
+        {
+            "name": "Shuai Zhao",
+            "country": ""
+        },
+        {
+            "name": "Leandro Soares Indrusiak",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

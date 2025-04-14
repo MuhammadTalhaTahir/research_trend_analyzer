@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650225000641",
+    "title": "An efficient history-guided surrogate models-assisted niching evolutionary algorithm for expensive multimodal optimization",
+    "abstract": "This work addresses the challenge of multimodal optimization, aiming to identify multiple optimal solutions in costly and time-consuming evaluation scenarios, known as expensive multimodal optimization problems (EMMOPs). Existing methods that adopt surrogate models to approximate costly evaluations with challenges, such as high costs of constructing training sets, inaccurate optima detection, and difficulties balancing exploration and exploitation in multimodal landscapes. To address these issues, we propose an efficient Binary Space Partitioning (BSP)-based surrogate models (SMs)-assisted niching evolutionary algorithm (NEA), termed BSP-SMs-NEA. The BSP tree provides a structured method for storing and retrieving historical information, enabling efficient construction of training sets for SMs. The SMs are then adaptively constructed and updated across niches to maintain high accuracy. Furthermore, BSP-SMs assist the NEA in selective evolution, optimizing resource utilization while balancing exploration and exploitation. Compared with 11 existing methods on EMMOP benchmark, BSP-SMs-NEA demonstrates superior performance, achieving the best precision on 80% of test functions, along with the top success rate and statistical results of the best fitness value across all test functions.",
+    "citation_count": "0",
+    "year": "2025/06/01",
+    "authors": [
+        {
+            "name": "Ting Huang",
+            "country": ""
+        },
+        {
+            "name": "Bing-Bing Niu",
+            "country": ""
+        },
+        {
+            "name": "Yue-Jiao Gong",
+            "country": ""
+        },
+        {
+            "name": "Jing Liu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

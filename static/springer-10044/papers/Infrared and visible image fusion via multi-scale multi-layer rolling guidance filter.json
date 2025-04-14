@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-022-01073-4",
+    "title": "Infrared and visible image fusion via multi-scale multi-layer rolling guidance filter",
+    "abstract": "The desire of infrared (IR) and visible (VIS) image fusion is to bring out an admixture image to augment the target information from IR image and to retain the texture details from VIS image. In this paper, we put forward a multi-scale multi-layer rolling guidance filter (MSML_RGF)-based IR and VIS image fusion. The fused image is the improved version of the source images with more significant features. Fundamentally, the IR and VIS source images are decomposed into three layers by the proposed algorithm namely micro-scale, macro-scale and base layers. Second, according to their characteristics, unique fusion rules are used to combine these three layers. Micro-scale layers are integrated by using phase congruency (PC)-based fusion rule, macro-scale layers are combined by absolute maximum based consistency verification fusion rule and the base layers are combined by weighted energy related fusion. At last, the fused image is acquired by summating the fused micro-scale, macro-scale and base layer outputs. Proposed method is evaluated both subjectively and objectively with comparisons to other five fusion methods on a publicly available database. The proposed method can well preserve the background and target information from both the source images visually and quantitatively without pseudo and blurred edges compared to the conventional methods.",
+    "citation_count": 38,
+    "year": "2022/11",
+    "authors": [
+        {
+            "name": "Prema, G.",
+            "country": "India"
+        },
+        {
+            "name": "Arivazhagan, S.",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

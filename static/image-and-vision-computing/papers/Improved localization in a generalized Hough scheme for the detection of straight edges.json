@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/0262885687900047",
+    "title": "Improved localization in a generalized Hough scheme for the detection of straight edges",
+    "abstract": "Hough transforms are widely used for the location of straight edges in digital images, yet most common line parametrization schemes give no information on longitudinal localization. The generalized Hough transform goes some way to overcoming this problem. This paper studies how to improve the situation further. A trade-off between sensitivity and localization is found; in practical situations this results in significantly greater accuracy, but the important gain is a reduction in the number of ambiguities introduced by interactions between the transforms of unrelated straight edges.",
+    "citation_count": "5",
+    "year": "1987/11/01",
+    "authors": [
+        {
+            "name": "ER Davies",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

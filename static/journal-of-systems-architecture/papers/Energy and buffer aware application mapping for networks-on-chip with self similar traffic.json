@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762113001604",
+    "title": "Energy and buffer aware application mapping for networks-on-chip with self similar traffic",
+    "abstract": "Networks-on-chip (NoC) is a promising on-chip communication paradigm that improves scalability and performance of System-on-Chips. NoC design flow contains many problems from different areas, such as networking, embedded design and  computer architecture . Application mapping is one of these problems, which is generally considered in the form of a communication  energy minimization  problem. Self similarity is a traffic model that is used to characterize Ethernet and/or wide area network traffic, as well as on-chip network traffic. The present paper tackles the application mapping problem from a networking point of view using self similar traffic assumption and aims to find a mapping solution that improves network performance in terms of  buffer utilization  while simultaneously minimizing the total communication energy consumption. In this study, by using a self similar on-chip  traffic characterization , an application mapping problem definition, which contains both energy and buffer utilization concerns is proposed. In order to solve this intractable problem, a  genetic algorithm  based solution is derived and implemented. Execution of the algorithm on different test cases has proven that such a mapping formulation avoids high buffer over utilizations while keeping the communication energy requirement still low.",
+    "citation_count": "9",
+    "year": "2013/11/01",
+    "authors": [
+        {
+            "name": "Coşkun Çelik",
+            "country": ""
+        },
+        {
+            "name": "Cüneyt F. Bazlamaçcı",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

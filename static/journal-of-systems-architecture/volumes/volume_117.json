@@ -1,0 +1,142 @@
+[
+    {
+        "title": "Editorial Board",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121001405"
+    },
+    {
+        "title": "Hybrid short-term traffic forecasting architecture and mechanisms for reservation-based Cooperative ITS",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000801"
+    },
+    {
+        "title": "ICAS: Two-factor identity-concealed authentication scheme for remote-servers",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000655"
+    },
+    {
+        "title": "An enhanced planned obsolescence attack by aging networks-on-chip",
+        "url": "https://www.sciencedirect.com/science/article/pii/S138376212100076X"
+    },
+    {
+        "title": "A lightweight key management scheme for key-escrow-free ECC-based CP-ABE for IoT healthcare systems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000849"
+    },
+    {
+        "title": "Hardware accelerator for an accurate local stereo matching algorithm using binary neural network",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000850"
+    },
+    {
+        "title": "Thermal-aware adaptive VM allocation considering server locations in heterogeneous data centers",
+        "url": "https://www.sciencedirect.com/science/article/pii/S138376212100062X"
+    },
+    {
+        "title": "Efficient runtime slack management for EDF-VD-based mixed-criticality scheduling",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000904"
+    },
+    {
+        "title": "Time-Sensitive Networking in automotive embedded systems: State of the art and research opportunities",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121001028"
+    },
+    {
+        "title": "EC-BAAS: Elliptic curve-based batch anonymous authentication scheme for Internet of Vehicles",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121001156"
+    },
+    {
+        "title": "A genetic simulation strategy: Application to single-fault analysis of TTEthernet synchronization protocol",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121001193"
+    },
+    {
+        "title": "A public key encryption scheme based on a new variant of LWE with small cipher size",
+        "url": "https://www.sciencedirect.com/science/article/pii/S138376212100117X"
+    },
+    {
+        "title": "Middleware for the Internet of Things: A survey on requirements, enabling technologies, and solutions",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000795"
+    },
+    {
+        "title": "A survey of deep learning techniques for vehicle detection from UAV images",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121001107"
+    },
+    {
+        "title": "A survey on hardware security of DNN models and accelerators",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121001168"
+    },
+    {
+        "title": "Balancing memory-accessing and computing over sparse DNN accelerator via efficient data packaging",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000771"
+    },
+    {
+        "title": "Fast-convergent federated learning with class-weighted aggregation",
+        "url": "https://www.sciencedirect.com/science/article/pii/S138376212100093X"
+    },
+    {
+        "title": "An efficient highly parallelized ReRAM-based architecture for motion estimation of HEVC",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000928"
+    },
+    {
+        "title": "Global emergency-based job-level scheduling for weakly-hard real-time systems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121001090"
+    },
+    {
+        "title": "Optimizing the data placement and scheduling on multi-port DWM in multi-core embedded system",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121001065"
+    },
+    {
+        "title": "An efficient GPU-accelerated inference engine for binary neural network on mobile phones",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121001120"
+    },
+    {
+        "title": "A systematic methodology to migrate complex real-time software systems to multi-core platforms",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000734"
+    },
+    {
+        "title": "A generalized approach to real-time, non-intrusive instrumentation and monitoring of standards-based distributed middleware",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121001296"
+    },
+    {
+        "title": "AucSwap: A Vickrey auction modeled decentralized cross-blockchain asset transfer protocol",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000813"
+    },
+    {
+        "title": "A secure and efficient authentication and data sharing scheme for Internet of Things based on blockchain",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000862"
+    },
+    {
+        "title": "Blocking analysis of suspension-based protocols for parallel real-time tasks under global fixed-priority scheduling",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000837"
+    },
+    {
+        "title": "Guest Editorial: Special issue on parallel, distributed, and network-based processing in next-generation embedded systems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121001144"
+    },
+    {
+        "title": "Specification, detection, and treatment of STRIDE threats for software components: Modeling, formal methods, and tool support",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000631"
+    },
+    {
+        "title": "RoBMEX: ROS-based modelling framework for end-users and experts",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000746"
+    },
+    {
+        "title": "A privacy-preserving resource trading scheme for Cloud Manufacturing with edge-PLCs in IIoT",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000825"
+    },
+    {
+        "title": "Dynamic resource allocation for jointing vehicle-edge deep neural network inference",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121001004"
+    },
+    {
+        "title": "REALISM:",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000758"
+    },
+    {
+        "title": "R",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000783"
+    },
+    {
+        "title": "eliability-aware",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121001132"
+    },
+    {
+        "title": "e",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000898"
+    }
+]

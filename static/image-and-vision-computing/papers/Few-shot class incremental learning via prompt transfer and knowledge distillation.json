@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003561",
+    "title": "Few-shot class incremental learning via prompt transfer and knowledge distillation",
+    "abstract": "The ability of a model to learn incrementally from very limited data while still retaining knowledge about previously seen classes is called few-shot incremental learning. The challenge of the few-shot learning model is data overfitting while the challenge of incremental learning models is catastrophic forgetting. To address these problems, we propose a distillation algorithm coupled with prompting, which effectively addresses the problem encountered in few-shot class-incremental learning by facilitating the transfer of distilled knowledge from a source to a target prompt. Furthermore, we employ a feature embedding module that monitors the semantic similarity between the input labels and the semantic vectors. This enables the learners to receive additional guidance, thereby mitigating the occurrence of catastrophic forgetting and overfitting. As our third contribution, we introduce an attention-based knowledge distillation method that learns relative similarities between features by creating effective links between teacher and student. This enables the regulation of the distillation intensities of all potential pairs between teacher and student. To validate the effectiveness of our proposed method, we conducted extensive experiments on diverse datasets, including miniImageNet, CIFAR100, and CUB200. The results of these experiments demonstrated that our method achieves state-of-the-art performance.",
+    "citation_count": "1",
+    "year": "2024/11/01",
+    "authors": [
+        {
+            "name": "Feidu Akmel",
+            "country": ""
+        },
+        {
+            "name": "Fanman Meng",
+            "country": ""
+        },
+        {
+            "name": "Mingyu Liu",
+            "country": ""
+        },
+        {
+            "name": "Runtong Zhang",
+            "country": ""
+        },
+        {
+            "name": "Asebe Teka",
+            "country": ""
+        },
+        {
+            "name": "Elias Lemuye",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

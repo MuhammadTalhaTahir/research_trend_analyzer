@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885697000395",
+    "title": "Resolution consideration in spatially variant sensors",
+    "abstract": "Log polar transformations for space variant systems have been proposed and used in active vision research. The idea is to generate an image with a varying resolution over a wide angle field of view. The fovea is of high resolution and the periphery is of exponentially reduced resolution. The justifications for such a sensor are: (i) it provides high resolution and a wide viewing angle; (ii) feature invariance in the fovea simplifies foveation; (iii) it allows multi-resolution analysis; and (iv) it is cheaper and more efficient to build a variable resolution sensor over a particular field of view rather than a uniform high resolution sensor. The receptor density of the human retina is very high, i.e. of the order of 10 8  receptors at the fovea. The question is, what resolution should space variant active vision systems have? Real visual sensors have been implemented but is the resolution produced high enough? This paper investigates the resolution requirements of a space variant sensor by simulation for a tracking system using raytracing.",
+    "citation_count": "2",
+    "year": "1997/12/01",
+    "authors": [
+        {
+            "name": "F.L. Lim",
+            "country": ""
+        },
+        {
+            "name": "S. Venkatesh",
+            "country": ""
+        },
+        {
+            "name": "G.A.W. West",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

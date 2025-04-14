@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762115000983",
+    "title": "Buffer allocation for real-time streaming applications running on heterogeneous multi-processors without back-pressure",
+    "abstract": "The goal of buffer allocation for real-time streaming applications is to minimize total memory consumption, while reserving sufficient space for each data production, without overwriting any live data and guaranteeing the satisfaction of real-time constraints. Previous research has mostly focused on buffer allocation for systems with back-pressure. This paper addresses the problem of buffer allocation for systems without back-pressure. Since systems without back-pressure lack blocking behavior at the side of the producer, buffer allocation requires both best- and worst-case timing analysis. Our contributions are (1) extension of the available dataflow techniques with best-case analysis; (2) the closest common dominator-based and closest common predecessor-based  lifetime analysis  techniques; (3) techniques to model the initialization behavior and enable token reuse. Our benchmark set includes an MP3 decoder, a WLAN receiver, an LTE receiver and an LTE-Advanced receiver. We consider two key features of LTE-Advanced: (1) carrier aggregation and (2)  EPDCCH  processing. Through our experiments, we demonstrate that our techniques are effective in handling the complexities of real-world applications. For the LTE-Advanced receiver  case study , our techniques enable us to compare buffer allocation required for different scheduling policies with effective impact on  architectural decisions . A key insight in this comparison is that our improved techniques show a different scheduling policy to be superior in terms of buffer sizes compared to our previous technique. This dramatically changes the trade-off among different scheduling policies for LTE-Advanced receiver.",
+    "citation_count": "1",
+    "year": "2016/01/01",
+    "authors": [
+        {
+            "name": "Hrishikesh Salunkhe",
+            "country": ""
+        },
+        {
+            "name": "Alok Lele",
+            "country": ""
+        },
+        {
+            "name": "Orlando Moreira",
+            "country": ""
+        },
+        {
+            "name": "Kees van Berkel",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885618301288",
+    "title": "Robust in-plane and out-of-plane face detection algorithm using frontal face detector and symmetry extension",
+    "abstract": "Face detection plays an important role in many  computer vision  applications. In recent years, much research has focused on extending the well-established  Adaboost  face detector algorithm for multi-view face detection. However, detecting in-plane and out-of-plane rotated faces simultaneously is still a challenging task today. In this paper, a very robust multi-view face  detection algorithm , with its core functionality based on frontal face detection, is proposed to simultaneously detect in-plane and out-of-plane rotated faces. Moreover, only the training data in the frontal face is needed and we do not require the training data from different in-plane or out-of-plane  rotation angles . In the proposed algorithm, first, techniques such as the skin filter and entropy rate superpixels (ERSs) are applied to obtain face candidates. Then, angle compensation and refinement are applied to improve the accuracy of face detection in the in-plane case. Moreover, the symmetry extension technique, i.e., extending the face candidate with its flipped version to create a face similar to the frontal one, is applied to detect out-of-plane faces without the need of training data. Simulations on the FEI, Pointing'04, BaoFace, Group, Utrecht, and WWW datasets demonstrate the proposed algorithm's effectiveness and superior performance as compared to state-of-the-art face detection methods.",
+    "citation_count": "13",
+    "year": "2018/10/01",
+    "authors": [
+        {
+            "name": "Yu-Hsuan Tsai",
+            "country": ""
+        },
+        {
+            "name": "Yih-Cherng Lee",
+            "country": ""
+        },
+        {
+            "name": "Jian-Jiun Ding",
+            "country": ""
+        },
+        {
+            "name": "Ronald Y. Chang",
+            "country": ""
+        },
+        {
+            "name": "Ming-Chen Hsu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

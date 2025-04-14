@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624004384",
+    "title": "Detection of fractional difference in inter vertebral disk MRI images for recognition of low back pain",
+    "abstract": "Low Back Pain (LBP) diagnosis through MR images of IVDs is a challenging task due to complex spinal anatomy and varying image quality. These factors make it difficult to analyse and segment IVD images accurately. Further, simple metrics are ineffective in interpreting nuanced features from IVD images for accurate diagnoses. Overcoming these challenges is crucial to improving the precision and reliability of IVD-based LBP diagnosis. Also, the existing systems have a very high false negative rate pushes the system towards less use. This research study proposes a new framework for the detection of LBP symptoms using the Otsu Segmented Structural and Gray-Level Co-occurrence Matrix (GLCM) feature-based ML-model (OSSG-ML model) that eliminates manual intervention for low back pain detection. The proposed framework uses Otsu segmentation’s dynamic thresholding to differentiate spinal and backdrop pixel clusters. The segmented image is then used by the feature extraction using GLCM and Wavelet-Fourier module to extract two types of features. The first feature type analyzes the structural variation between normal and low back pain symptom patients. The second feature type detects LBP using statistical measures in image analysis and texture recognition of the MRI IVD segmented image. Various machine learning models are built for LBP detection, utilizing both features separately. First, the model employs structural and geometric differences, while the second model analyzes statistical measurements. On evaluating the model’s performance, it accurately detects low back pain with a 98 to 100% accuracy rate and a very low false negative rate.",
+    "citation_count": "1",
+    "year": "2025/01/01",
+    "authors": [
+        {
+            "name": "Manvendra Singh",
+            "country": ""
+        },
+        {
+            "name": "Md. Sarfaraj Alam Ansari",
+            "country": ""
+        },
+        {
+            "name": "Mahesh Chandra Govil",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

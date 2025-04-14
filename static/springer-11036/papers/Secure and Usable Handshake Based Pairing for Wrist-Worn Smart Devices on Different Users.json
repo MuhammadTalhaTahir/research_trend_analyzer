@@ -1,0 +1,39 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-021-01781-x",
+    "title": "Secure and Usable Handshake Based Pairing for Wrist-Worn Smart Devices on Different Users",
+    "abstract": "Wrist-worn smart devices are being used to share various sensitive personal information in various fields such as social, medical treatment, sports, etc. Secure pairing establishing a trusted channel between involved devices is a prerequisite to ensure data transmission security. Handshake has been employed to realize secure pairing between devices worn by different users without pre-shared knowledge, the participation of third parties or complicated user interactions. However, existing schemes cannot meet the practical requirement in terms of time delay and security. In this paper, we present a secure and usable pairing scheme utilizing the handshake acceleration data. Specifically, we propose an optimal feature selection algorithm based on Euclidean distance sorting which improves the success rate and security of the system. In addition, we use Pearson correlation coefficient based feature sequence similarity measurement approach to enhance the accuracy of pairing scheme. Theoretical and experimental security analysis indicates that our solution can resist active and passive attacks. What’s more, the experimental results demonstrate that the proposed solution has a high key generation rate of 87 bits per second, and completes security pairing in less than 4&nbsp;s.",
+    "citation_count": 31,
+    "year": "2021/12",
+    "authors": [
+        {
+            "name": "Zhao, Guichuan",
+            "country": "China"
+        },
+        {
+            "name": "Jiang, Qi",
+            "country": "China"
+        },
+        {
+            "name": "Huang, Xiaohan",
+            "country": "China"
+        },
+        {
+            "name": "Ma, Xindi",
+            "country": "China"
+        },
+        {
+            "name": "Tian, Youliang",
+            "country": "China"
+        },
+        {
+            "name": "Ma, Jianfeng",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

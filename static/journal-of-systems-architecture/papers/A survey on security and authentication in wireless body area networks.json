@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762120301600",
+    "title": "A survey on security and authentication in wireless body area networks",
+    "abstract": "Wireless Body Area Networks (WBAN) is often envisioned as a paradigm shift from the traditional healthcare system to the modern E-Healthcare system. The patient's vitals sensed by the sensors are highly sensitive, confidential, and susceptible to various attacks from adversaries. For the WBAN being a concrete application of the healthcare system, it is paramount to ensure that the data sensed by the WBAN sensors is safe and not exposed to unauthorised entities and security threats. In light of this, strong security solutions and  authentication  schemes are needed for the success and large scale adoption of the WBANs. To this end, a plethora of security solutions and  authentication schemes  have been suggested by the researchers over the last two decades. However, the absence of a clear and cohesive study in view of security and authentication does not serve the bigger goal of providing a bird-eye view of the domain. To fulfill the objectives mentioned above, we approach in the following manner. Firstly, an extensive review of the security essentials, security threats, attackers, and attack techniques, and current existing solutions are provided with a detailed classification of security mechanisms in the WBANs. Secondly, a detailed discussion on authentication, design, and development of the authentication scheme and its classification,  adversary models  and  security protocol  verifiers is provided. Furthermore, this work outlines the applications,  open research  issues, recommendations for future authentication schemes and future trends for the WBANs. All in all, this survey elaborates the functionality of WBAN, its technologies,  building blocks , and a much wider view of WBAN in terms of security and authentication.",
+    "citation_count": "81",
+    "year": "2021/02/01",
+    "authors": [
+        {
+            "name": "Bhawna Narwal",
+            "country": ""
+        },
+        {
+            "name": "Amar Kumar Mohapatra",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

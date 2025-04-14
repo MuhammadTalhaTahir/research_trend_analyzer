@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762118302376",
+    "title": "Event-based application modeling for analysis of asymmetric multicore-based mobile systems",
+    "abstract": "In this paper, we suggest a generalized application model that can be utilized to support system-level execution behavior analysis of up-to-date and future mobile systems, and propose a new method (kernel event-based application modeling; KAM.2) that extracts the  Android application  models that are independent of processor configuration and system-management policies. To completely describe the dynamic behavior of a target application, KAM.2 analyzes the kernel events that are obtained when it is running on the system, instead of statically analyzing its  source code . This analysis enables extraction of models of real-world applications, source code of which is generally not available. We validated the effectiveness of KAM.2 on a commercial smartphone with real-world applications including user-interactive ones. The runtime overhead incurred by kernel tracing was 0.29%. In terms of core utilization, KAM.2 exhibited 2.58% of  mean absolute errors  on average and 0.93 of  Pearson  correlation coefficients on average. These results demonstrate that KAM.2 extracts reliable and realistic Android application models. Also, it was found that the application model extracted using KAM.2 is independent of processor configuration and system-management policies. Therefore, KAM.2 enables practical and flexible analysis of the dynamic behavior of recent and future mobile systems.",
+    "citation_count": "1",
+    "year": "2019/08/01",
+    "authors": [
+        {
+            "name": "Sodam Han",
+            "country": ""
+        },
+        {
+            "name": "Yonghee Yun",
+            "country": ""
+        },
+        {
+            "name": "Eunju Hwang",
+            "country": ""
+        },
+        {
+            "name": "Wook Kim",
+            "country": ""
+        },
+        {
+            "name": "Young Hwan Kim",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

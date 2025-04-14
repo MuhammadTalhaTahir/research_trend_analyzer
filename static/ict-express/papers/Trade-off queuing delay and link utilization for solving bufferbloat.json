@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959520300692",
+    "title": "Trade-off queuing delay and link utilization for solving bufferbloat",
+    "abstract": "To solve the bufferbloat problem, active queue management (AQM) has been recommended but existing AQM algorithms suffer from poor adaptability to dynamic traffics. We develop a novel adaptive AQM algorithm named TODU for a better Trade-Off between queuing Delay and link Utilization. TODU aims to maintain a stable queue length against dynamical network traffics by adapting the drop probability to balance the expected link utilization and queuing delay. We compare TODU with benchmark algorithms in Network Simulator-2 and the results demonstrate that TODU achieves a better trade-off between low queuing latency and high link utilization in a dynamical environment.",
+    "citation_count": "0",
+    "year": "2020/12/01",
+    "authors": [
+        {
+            "name": "Hao Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

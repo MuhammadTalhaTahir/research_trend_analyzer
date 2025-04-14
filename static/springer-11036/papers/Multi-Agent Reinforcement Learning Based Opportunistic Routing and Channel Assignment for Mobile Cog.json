@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-014-0551-6",
+    "title": "Multi-Agent Reinforcement Learning Based Opportunistic Routing and Channel Assignment for Mobile Cognitive Radio Ad Hoc Network",
+    "abstract": "Opportunistic spectrum access using cognitive radio technology enables exploring vacant licensed spectrum bands and thereby improving the spectrum utilization. However, it will have a significant impact on upper layer performance like routing as the reliable knowledge of topology and channel statistics are not available, especially in Mobile Cognitive Radio Ad hoc Network (MCRAN). To address specific requirements of MCRAN, this paper is proposing online opportunistic routing algorithm using multi-agent reinforcement learning. The proposed routing scheme jointly addresses, link and relay selection based on transmission success probabilities. This sophisticated learning mechanism successfully explores opportunities in partially observable and non-stationary environment of MCRAN. Simulation results show the effectiveness of this algorithm.",
+    "citation_count": 36,
+    "year": "2014/12",
+    "authors": [
+        {
+            "name": "Barve, Sunita S.",
+            "country": "India"
+        },
+        {
+            "name": "Kulkarni, Parag",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

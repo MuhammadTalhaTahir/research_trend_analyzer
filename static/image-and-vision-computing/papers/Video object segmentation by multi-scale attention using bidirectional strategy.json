@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002403",
+    "title": "Video object segmentation by multi-scale attention using bidirectional strategy",
+    "abstract": "This paper focuses on semi-supervised video object segmentation (VOS). Recently, several Space‐Time Memory based networks have effectively improved the performance of VOS. However, most methods predict the target object mask forwardly, which causes  error propagation  to mislead the future frame segmentation. Moreover, the rich multi-scale information of objects needs to be effectively exploited in videos to extract fine-grained multi-scale spatial information. To address these limitations, we present a network with a multi-scale attention module for semi-supervised VOS, which combines a new bidirectional strategy during training. Firstly, we propose the bidirectional strategy in which a backward flow combines the existing standard forward flow. With the strategy, we can rely on the first frame's ground-truth mask to mitigate the problem of error propagation. Secondly, a multi-scale attention module is designed to extracts multi-scale features by different weights and interacts with information between multi-scale channel attention. Especially the multi-scale attention module can effectively extract the fine-grained mask by the network during the bidirectional training. Experimental results show that our network achieves significant  segmentation performance  compared to state-of-the-art approaches on the YouTube-VOS and DAVIS datasets.",
+    "citation_count": "0",
+    "year": "2024/08/01",
+    "authors": [
+        {
+            "name": "Jingxin Wang",
+            "country": ""
+        },
+        {
+            "name": "Yunfeng Zhang",
+            "country": ""
+        },
+        {
+            "name": "Fangxun Bao",
+            "country": ""
+        },
+        {
+            "name": "Yuetong Liu",
+            "country": ""
+        },
+        {
+            "name": "Qiuyue Zhang",
+            "country": ""
+        },
+        {
+            "name": "Caiming Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

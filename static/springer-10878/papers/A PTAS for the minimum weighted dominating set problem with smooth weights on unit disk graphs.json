@@ -1,0 +1,37 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-010-9357-z",
+    "title": "A PTAS for the minimum weighted dominating set problem with smooth weights on unit disk graphs",
+    "abstract": "In the minimum weighted dominating set problem (MWDS), we are given a unit disk graph with non-negative weight on each vertex. The MWDS seeks a subset of the vertices of the graph with minimum total weight such that each vertex of the graph is either in the subset or adjacent to some nodes in the subset. A&nbsp;weight function is called smooth, if the ratio of the weights of any two adjacent nodes is upper bounded by a constant. MWDS is known to be NP-hard. In this paper, we give the first polynomial time approximation scheme (PTAS) for MWDS with smooth weights on unit disk graphs, which achieves a (1+ε)-approximation for MWDS, for any ε&gt;0.",
+    "citation_count": 10,
+    "year": "2012/05",
+    "authors": [
+        {
+            "name": "Zhu, Xu",
+            "country": "P.R. China"
+        },
+        {
+            "name": "Wang, Wei",
+            "country": "P.R. China"
+        },
+        {
+            "name": "Shan, Shan",
+            "country": "USA"
+        },
+        {
+            "name": "Wang, Zhong",
+            "country": "USA"
+        },
+        {
+            "name": "Wu, Weili",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-022-00901-x",
+    "title": "Exponential-time algorithms for parallel machine scheduling problems",
+    "abstract": "In this paper we consider the problem of scheduling a set of jobs on unrelated parallel machines in the presence of job release dates and deadlines, and we deal with the minimization of any general regular, either maximum or sum, objective function. We describe a generic exact exponential algorithm, solving a problem in two phases. In the first phase, given a threshold objective value, the algorithm counts the number of schedules whose objective value is at most the threshold. For this purpose, by using Inclusion-Exclusion, it solves multiple relaxed single-machine problems by means of dynamic programming. In the second phase, the algorithm uses this counting procedure to determine the optimal objective value and build, step by step, an explicit optimal schedule. The strength of this algorithm is to manage a wide class of parallel machine scheduling problems, and to achieve, on a theoretical point on view, moderate exponential time and pseudopolynomial space worst-case complexity bounds. While not the fastest in practice compared to specialized algorithms, this generic algorithm enhances the state-of-the-art theoretical worst-case complexity bounds of several particular parallel machine scheduling problems.",
+    "citation_count": 26,
+    "year": "2022/12",
+    "authors": [
+        {
+            "name": "Ploton, Olivier",
+            "country": "France"
+        },
+        {
+            "name": "T’kindt, Vincent",
+            "country": "France"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

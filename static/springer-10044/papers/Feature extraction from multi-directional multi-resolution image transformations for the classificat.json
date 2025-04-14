@@ -1,0 +1,36 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-008-0136-8",
+    "title": "Feature extraction from multi-directional multi-resolution image transformations for the classification of zoom-endoscopy images",
+    "abstract": "In this article, we discuss the discriminative power of a set of image features, extracted from detail subbands of the Gabor wavelet transform and the dual-tree complex wavelet transform for the purpose of computer-assisted zoom-endoscopy image classification. We incorporate color channel information into the classification process and show that this leads to superior classification results, compared to luminance-channel-only-based image analysis.",
+    "citation_count": 22,
+    "year": "2009/12",
+    "authors": [
+        {
+            "name": "Häfner, Michael",
+            "country": "Austria"
+        },
+        {
+            "name": "Kwitt, Roland",
+            "country": "Austria"
+        },
+        {
+            "name": "Uhl, Andreas",
+            "country": "Austria"
+        },
+        {
+            "name": "Gangl, Alfred",
+            "country": "Austria"
+        },
+        {
+            "name": "Wrba, Friedrich",
+            "country": "Austria"
+        },
+        {
+            "name": "Vécsei, Andreas",
+            "country": "Austria"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

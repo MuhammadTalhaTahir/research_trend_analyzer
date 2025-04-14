@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S026288562400115X",
+    "title": "Video anomaly detection based on a multi-layer reconstruction autoencoder with a variance attention strategy",
+    "abstract": "In this paper, we propose a comprehensive framework for  detecting anomalies  in videos based on  autoencoder  (AE). Traditional AE models solely rely on input and final reconstruction, potentially limiting their capacity to fully utilize the intermediate  neural network layers . To mitigate this limitation, we introduce a novel approach that concurrently trains the model using corresponding intermediate layers from both the encoder and decoder. This allows the model to capture more intricate features, thus enhancing its  anomaly detection  capabilities. Furthermore, we introduce a motion loss function that exclusively relies on original video frames rather than  optical flow , rendering it more efficient and capable of extracting motion features. Additionally, we have devised a variance attention strategy that is parameter-free and can automatically directs our model's focus towards moving objects, further boosting the performance of our approach. Our experiments on three public datasets demonstrate the effectiveness and efficiency of our method in identifying abnormal events in complex scenarios. The code is publicly available at  https://github.com/lsf2008/multRecLossAEPub .",
+    "citation_count": "7",
+    "year": "2024/06/01",
+    "authors": [
+        {
+            "name": "Shifeng Li",
+            "country": ""
+        },
+        {
+            "name": "Yan Cheng",
+            "country": ""
+        },
+        {
+            "name": "Liang Zhang",
+            "country": ""
+        },
+        {
+            "name": "Xi Luo",
+            "country": ""
+        },
+        {
+            "name": "Ruixuan Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-024-01362-0",
+    "title": "Spoken language understanding via graph contrastive learning on the context-aware graph convolutional network",
+    "abstract": "A spoken language understanding system is a crucial component of a dialogue system whose task is to comprehend the user’s verbal expressions and perform the corresponding tasks accordingly. Contextual spoken language understanding (contextual SLU) is an extremely critical issue on this field as it helps the system to understand the user’s verbal expressions more accurately, thus improving the system’s performance and accuracy. The aim of this paper is to enhance the effectiveness of contextual SLU analysis. Context-based language unit systems are mainly concerned with effectively integrating dialog context information. Current approaches usually use the same contextual information to guide the slot filling of all tokens, which may introduce irrelevant information and lead to comprehension bias and ambiguity. To solve this problem, we apply the principle of graph contrastive learning based on the graph convolutional network to enhance the model’s ability to aggregate contextual information. Simultaneously, applying graph contrastive learning can enhance the model’s effectiveness by strengthening its intention. More precisely, graph convolutional networks can consider contextual information and automatically aggregate contextual information, allowing the model to no longer rely on traditionally designed heuristic aggregation functions. The contrastive learning module utilizes the principle of contrastive learning to achieve the effect of intention enhancement, which can learn deeper semantic information and contextual relationships, and improve the model's effectiveness in three key tasks: slot filling, dialogue action recognition, and intention detection. Experiments on a synthetic dialogue dataset show that our model achieves state-of-the-art performance and significantly outperforms other previous approaches (Slot F1 values + 1.03% on Sim-M, + 2.32% on Sim-R; Act F1 values + 0.26% on Sim-M, + 0.56% on Sim-R; Frame Acc values + 3.15% on Sim-M, + 1.62% on Sim-R). The code is available at: https://github.com/caoze1228/ACIUGCL-CSLU .",
+    "citation_count": 48,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "Cao, Ze",
+            "country": "China"
+        },
+        {
+            "name": "Liu, Jian-Wei",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

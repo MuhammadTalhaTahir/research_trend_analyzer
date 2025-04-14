@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-007-9121-1",
+    "title": "Standard directed search strategies and their applications",
+    "abstract": "Given a digraph that contains an intruder hiding on vertices or along edges, a directed searching problem is to find the minimum number of searchers required to capture the intruder. In this paper, we propose the standard directed search strategies, which can simplify arguments in proving search numbers, lower bounds, and relationships between search models. Using these strategies, we characterize k-directed-searchable graphs when k≤3. We also use standard directed search strategies to investigate the searching problems on oriented grids. We give tight lower and upper bounds for the directed search number of general oriented grids. Finally, we show how to compute the directed search number of a Manhattan grid.",
+    "citation_count": 18,
+    "year": "2009/05",
+    "authors": [
+        {
+            "name": "Yang, Boting",
+            "country": "Canada"
+        },
+        {
+            "name": "Cao, Yi",
+            "country": "Canada"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

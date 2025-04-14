@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002051",
+    "title": "Underwater image enhancement based on global features and prior distribution guided",
+    "abstract": "Underwater images often suffer from substantial image blur and color distortion due to the variability of water conditions and the physical location of optical equipment, which significantly impacts the underwater intelligent system's  environmental perception . Standard methods exhibit limited generalization capabilities, leading to considerable performance fluctuations when handling images with uncontrolled degradation. In this research, we leverage global features and the prior distribution of  ground truth images  to guide our enhancement model, introducing a novel conditional Variational Auto-Encoder-based model, named UWG-VAE, to address these challenges. UWG-VAE enhances model controllability by incorporating prior distribution information and classes of degraded styles into the decoder of the enhancement model. We assess the performance of UWG-VAE in underwater image enhancement tasks across four challenging real underwater image datasets, comparing it to state-of-the-art models. UWG-VAE demonstrates a substantial enhancement in visual quality, with notable improvements in UIQM, UCIQE, and URanker evaluation metrics when compared to existing state-of-the-art models.",
+    "citation_count": "3",
+    "year": "2024/08/01",
+    "authors": [
+        {
+            "name": "Siqi Lu",
+            "country": ""
+        },
+        {
+            "name": "Fengxu Guan",
+            "country": ""
+        },
+        {
+            "name": "Haitao Lai",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,74 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762115000995",
+    "title": "Resource-awareness on heterogeneous MPSoCs for image processing",
+    "abstract": "Multiprocessor system-on-chip (MPSoC) designs offer a lot of computational power assembled in a compact design. The computing power of MPSoCs can be further augmented by adding massively parallel processor arrays (MPPA) and specialized hardware with instruction-set extensions. On-chip MPPAs can be used to accelerate low-level image-processing algorithms with massive inherent parallelism. However, the presence of multiple processing elements (PEs) with different characteristics raises issues related to programming and application mapping, among others. The conventional approach used for programming heterogeneous MPSoCs results in a static mapping of various parts of the application to different PE types, based on the nature of the algorithm and the structure of the PEs. Yet, such a mapping scheme independent of the instantaneous load on the PEs may lead to under-utilization of some type of PEs while overloading others. In this work, we investigate the benefits of using a heterogeneous MPSoC for accelerating various stages within a real-world image-processing algorithm for  object-recognition . A case study demonstrates that a resource-aware programming model called  Invasive Computing  helps to improve the throughput and worst observed latency of the application program, by dynamically mapping applications to different types of PEs available on a heterogeneous MPSoC.",
+    "citation_count": "7",
+    "year": "2015/11/01",
+    "authors": [
+        {
+            "name": "Johny Paul",
+            "country": ""
+        },
+        {
+            "name": "Walter Stechele",
+            "country": ""
+        },
+        {
+            "name": "Benjamin Oechslein",
+            "country": ""
+        },
+        {
+            "name": "Christoph Erhardt",
+            "country": ""
+        },
+        {
+            "name": "Jens Schedel",
+            "country": ""
+        },
+        {
+            "name": "Daniel Lohmann",
+            "country": ""
+        },
+        {
+            "name": "Wolfgang Schröder-Preikschat",
+            "country": ""
+        },
+        {
+            "name": "Manfred Kröhnert",
+            "country": ""
+        },
+        {
+            "name": "Tamim Asfour",
+            "country": ""
+        },
+        {
+            "name": "Éricles Sousa",
+            "country": ""
+        },
+        {
+            "name": "Vahid Lari",
+            "country": ""
+        },
+        {
+            "name": "Frank Hannig",
+            "country": ""
+        },
+        {
+            "name": "Jürgen Teich",
+            "country": ""
+        },
+        {
+            "name": "Artjom Grudnitsky",
+            "country": ""
+        },
+        {
+            "name": "Lars Bauer",
+            "country": ""
+        },
+        {
+            "name": "Jörg Henkel",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

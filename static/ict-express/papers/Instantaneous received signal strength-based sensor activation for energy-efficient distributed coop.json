@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959524000547",
+    "title": "Instantaneous received signal strength-based sensor activation for energy-efficient distributed cooperative sensor networks",
+    "abstract": "In this paper, a network-independent distributed relay sensor (RS) activating method is proposed for energy-efficient cooperative communications using RSs. To achieve this, we introduce a novel metric termed the signal contribution-to-noise contribution ratio and design the required instantaneous received signal strength at RS for each RS to independently determine the activation. Therefore, the proposed RS activation (i.e., adaptive cooperation) is readily enabled without significant signaling overhead in the networks. The numerical results indicated that the proposed RS activation strategy can improve the received signal-to-noise ratio at a destination sensor with fewer active RSs, extending the lifetime of the sensor network.",
+    "citation_count": "0",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Jingon Joung",
+            "country": ""
+        },
+        {
+            "name": "Jian Zhao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

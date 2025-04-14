@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624000027",
+    "title": "Appearance flow estimation for online virtual clothing warping via optimal feature linear assignment",
+    "abstract": "Clothing warping to spatially align source garments with the corresponding body parts is crucial in clothing media tasks such as virtual try-on and pose-guided person generation. Recent pioneering work has utilized flow fields with additional dimensions of freedom to simulate clothing warping flexibly. However, current methods for estimating appearance flow typically rely on calculating just the local cost volume which contains multiple noisy matching points, potentially leading to a mismatch between clothing and body parts. To address this issue, we propose a novel appearance flow estimation network(Warping-Flow) for clothing warping based on optimal features linear assignment. Specially, two remarkable contributions are made to improve feature matching precision. First, a local context feature aggregation module is proposed to enhance the  semantic feature  distinction of the source cloth and  target pose . Second, Warping-Flow estimates a hard attention mask through the cost volume to filter irrelevant features, followed by the optimal linear assignment algorithm to normalize the cost volume to a discrete  permutation matrix  that explicitly models the most contributing bipartite matches. Experiments conducted on the VITON and VITON-HD datasets demonstrate that Warping-Flow outperforms existing state-of-the-art algorithms, particularly in cases involving complex clothing deformation. Furthermore, Warping-Flow can serve as a plug-in to improve existing garment media technologies.",
+    "citation_count": "3",
+    "year": "2024/02/01",
+    "authors": [
+        {
+            "name": "Kexin Sun",
+            "country": ""
+        },
+        {
+            "name": "Jing Tao",
+            "country": ""
+        },
+        {
+            "name": "Peng Zhang",
+            "country": ""
+        },
+        {
+            "name": "Jie Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

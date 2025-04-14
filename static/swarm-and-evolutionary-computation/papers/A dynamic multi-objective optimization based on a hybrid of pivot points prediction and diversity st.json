@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223000494",
+    "title": "A dynamic multi-objective optimization based on a hybrid of pivot points prediction and diversity strategies",
+    "abstract": "There are many dynamic multi-objective optimization problems (DMOPs) in real-world applications. The Pareto-optimal front (PF) or Pareto-optimal set (PS) of such problems will change with the optimization process, posing a great challenge to the evolutionary algorithms(EAs). The prediction-based strategy is a commonly used strategy for DMOPs. However, the prediction-based strategy can only solve predictable problems. Additionally, using the prediction-based strategy alone may increase the imbalance of population convergence and diversity. Based on the above issues the prediction-based strategy  faces , we believe that the lack of population diversity causes them. Therefore, this paper proposes a novel dynamic optimization strategy, including the prediction and diversity strategy (HPPDS) for DMOPs. First, the prediction strategies combine the prediction of pivot points (representative individuals selected through a dynamic selection mechanism) and non-dominant individuals to achieve the ability to solve predictable DMOPs. Then, a specific and controllable diversity strategy is used to maintain the population’s diversity and deal with the unpredictable DMOPs. This way, our proposed optimization algorithm can cope with various environmental changes in DMOPs. To verify that our proposed strategy is competitive, HPPDS is compared with five other state-of-art strategies. The experimental results show that the HPPDS is competitive.",
+    "citation_count": "24",
+    "year": "2023/04/01",
+    "authors": [
+        {
+            "name": "Jinhua Zheng",
+            "country": ""
+        },
+        {
+            "name": "Fei Zhou",
+            "country": ""
+        },
+        {
+            "name": "Juan Zou",
+            "country": ""
+        },
+        {
+            "name": "Shengxiang Yang",
+            "country": ""
+        },
+        {
+            "name": "Yaru Hu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

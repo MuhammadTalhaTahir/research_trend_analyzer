@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s100440070003",
+    "title": "An HMM-MLP Hybrid Model for Cursive Script Recognition",
+    "abstract": "This paper presents an HMM (Hidden Markov Model)-MLP (Multi-Layer Perceptron) hybrid model for recognising cursive script words. We adopt an explicit segmentation-based word level architecture to implement an HMM classifier. An efficient state transition model and a parameter re-estimation scheme are introduced to use non-scaled and non-normalised symbol vectors without having to label primitive vectors. This approach brings well-formed discrete signals for the variable state duration of the HMM. We also introduce a new probability measure as well as conventional schemes to combine the proposed HMMs and a general MLP. The main contributions of this model are a novel design of the segmentation-based variable length HMMs, and an efficient method of combining two distinct classifiers. Experiments have been conducted using the legal word database of CENPARMI with encouraging results.",
+    "citation_count": 0,
+    "year": "2000/12",
+    "authors": [
+        {
+            "name": "Kim, Jin Ho",
+            "country": "CA"
+        },
+        {
+            "name": "Kim, Kye Kyung",
+            "country": "CA"
+        },
+        {
+            "name": "Suen, Ching Y.",
+            "country": "CA"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

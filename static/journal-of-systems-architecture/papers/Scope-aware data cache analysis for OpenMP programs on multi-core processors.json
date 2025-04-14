@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762118303874",
+    "title": "Scope-aware data cache analysis for OpenMP programs on multi-core processors",
+    "abstract": "OpenMP is the  de facto standard  parallel programming framework on  shared memory architectures , which is not only widely used in general and high-performance computing but also draws increasing interests for real-time embedded systems. Choosing the appropriate assignment of  loop iterations  to threads is one of the most critical decisions when parallelizing loops, especially considering the large impact by  caches behaviors  to the  program execution time . In this paper, we study data cache analysis for OpenMP programs with parallel loops. We first present a method considering the impact of the schedule clause in OpenMP programs on cache behavior. We capture the dynamic behavior of memory access by computing its temporal scope (the loop iterations where a given memory block is accessed for a given data reference) during address analysis. Based on the ACS representation, we present a temporal scope aware data cache miss calculation technique. Through the experimental result, we propose a convenient way to choose an appropriate  parallelization  scheme for OpenMP programs.",
+    "citation_count": "4",
+    "year": "2019/09/01",
+    "authors": [
+        {
+            "name": "He Du",
+            "country": ""
+        },
+        {
+            "name": "Wei Zhang",
+            "country": ""
+        },
+        {
+            "name": "Nan Guan",
+            "country": ""
+        },
+        {
+            "name": "Wang Yi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S221065021200079X",
+    "title": "Adaptive evolutionary programming with p-best mutation strategy",
+    "abstract": "Although initially conceived for evolving  finite state machines , Evolutionary Programming (EP), in its present form, is largely used as a powerful real parameter optimizer. For function optimization, EP mainly relies on its  mutation operators . Over past few years several mutation operators have been proposed to improve the performance of EP on a wide variety of numerical benchmarks. However, unlike real-coded  GAs , there has been no fitness-induced bias in parent selection for mutation in EP. That means the  i -th population member is selected deterministically for mutation and creation of the  i -th  offspring  in each generation. In this article we propose a  p- best mutation scheme for EP where any one from the  p  ( p ∈ [ 1 , 2 , … , μ ] , where  μ  denotes population size) top-ranked population-members (according to fitness values) is selected randomly for mutation. The scheme is invoked with 50% probability with each index in the current population, i.e. the  i -th  offspring  can now be obtained either by mutating the  i -th parent or by mutating a randomly selected individual from the  p  top-ranked vectors. The percentage of best members is made dynamic by decreasing  p  in from  μ / 2  to 1 with generations to favor explorative behavior at the early stages of search and exploitation during the later stages. We investigate the effectiveness of introducing controlled bias in parent selection in conjunction with an Adaptive Fast EP (AFEP), where the value of a strategy parameter is updated based on the previous records of successful mutations by the same parameter. Comparison with the recent and best-known versions of EP over 25 benchmark functions from the CEC (Congress on Evolutionary Computation) 2005 test-suite for real-parameter optimization and two other engineering optimization problems reflects the statistically validated superiority of the new scheme in terms of final accuracy, speed, and robustness. Comparison with AFEP without  p -best mutation demonstrates the improvement of performance due to the proposed mutation scheme alone.",
+    "citation_count": "11",
+    "year": "2013/04/01",
+    "authors": [
+        {
+            "name": "Swagatam Das",
+            "country": ""
+        },
+        {
+            "name": "Rammohan Mallipeddi",
+            "country": ""
+        },
+        {
+            "name": "Dipankar Maity",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

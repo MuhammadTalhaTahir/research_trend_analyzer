@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-022-00893-8",
+    "title": "Characterizing 3-uniform linear extremal hypergraphs on feedback vertex number",
+    "abstract": "Let $$H=(V,E)$$ be a hypergraph with vertex set V and edge set E. $$S\\subseteq V$$ is a feedback vertex set (FVS) of H if $$H\\setminus S$$ has no cycle and $$\\tau _c(H)$$ denote the minimum cardinality of a FVS of H. Chen et al. [IWOCA,2016] has proven if H is a linear 3-uniform hypergraph with m edges, then $$\\tau _c(H)\\le m/3$$ . In this paper, we furthermore characterize all the extremal hypergraphs with $$\\tau _c(H)= m/3$$ holds. This result has a direct application to Tuza’s conjecture.",
+    "citation_count": 31,
+    "year": "2022/12",
+    "authors": [
+        {
+            "name": "Tang, Zhongzheng",
+            "country": "China"
+        },
+        {
+            "name": "Tang, Yucong",
+            "country": "China"
+        },
+        {
+            "name": "Diao, Zhuo",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

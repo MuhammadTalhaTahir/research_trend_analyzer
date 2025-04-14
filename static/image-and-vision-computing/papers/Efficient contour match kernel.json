@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885618300647",
+    "title": "Efficient contour match kernel",
+    "abstract": "We propose a novel concept of asymmetric feature maps (AFM), which allows to evaluate multiple kernels between a query and database entries without increasing the memory requirements. To demonstrate the advantages of the AFM method, we derive an efficient contour match kernel – short vector image representation that, due to asymmetric feature maps, supports efficient scale and  translation invariant  sketch-based  image retrieval . Unlike most of the short-code based retrieval systems, the proposed method provides the query localization in the retrieved image. The efficiency of the search is boosted by approximating a 2D translation search via trigonometric polynomial of scores by 1D projections. The projections are a special case of AFM. An order of magnitude speed-up is achieved compared to traditional trigonometric polynomials. The results are boosted by an image-based average  query expansion  approach and, without any learning, significantly outperform the state-of-the-art hand-crafted descriptors on standard benchmarks. Our method competes well with recent CNN-based approaches that require large amounts of labeled sketches, images and sketch-image pairs.",
+    "citation_count": "0",
+    "year": "2018/08/01",
+    "authors": [
+        {
+            "name": "Giorgos Tolias",
+            "country": ""
+        },
+        {
+            "name": "Ondřej Chum",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

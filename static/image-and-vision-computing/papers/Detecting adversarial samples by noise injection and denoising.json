@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003433",
+    "title": "Detecting adversarial samples by noise injection and denoising",
+    "abstract": "Deep learning models are highly vulnerable to adversarial examples, leading to significant attention on techniques for detecting them. However, current methods primarily rely on detecting image features for identifying adversarial examples, often failing to address the diverse types and intensities of such examples. We propose a novel adversarial example detection method based on perturbation estimation and denoising to overcome this limitation. We develop an autoencoder to predict the latent adversarial perturbations of samples and select appropriately sized noise based on these predictions to cover the perturbations. Subsequently, we employ a non-blind denoising autoencoder to remove noise and residual perturbations effectively. This approach allows us to eliminate adversarial perturbations while preserving the original information, thus altering the prediction results of adversarial examples without affecting predictions on benign samples. Inconsistencies in predictions before and after processing by the model identify adversarial examples. Our experiments on datasets such as MNIST, CIFAR-10, and ImageNet demonstrate that our method surpasses other advanced detection methods in accuracy.",
+    "citation_count": "0",
+    "year": "2024/10/01",
+    "authors": [
+        {
+            "name": "Han Zhang",
+            "country": ""
+        },
+        {
+            "name": "Xin Zhang",
+            "country": ""
+        },
+        {
+            "name": "Yuan Sun",
+            "country": ""
+        },
+        {
+            "name": "Lixia Ji",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

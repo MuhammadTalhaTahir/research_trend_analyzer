@@ -1,0 +1,38 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959524001218",
+    "title": "Comparative study of deep learning techniques for DeepFake video detection",
+    "abstract": "Deep learning addresses a wide range of complex challenges, spanning from computer vision to data analytics. It is also employed to develop softwares that pose threats to privacy and security. To develop a DeepFake video, an individual in the original video is replaced with someone else using deep learning. Various deep learning-based techniques have been proposed to detect DeepFakes. In this work, we extensively analyse DeepFake video detection techniques considering their strengths and limitations. We provide a comparative analysis along with discussing their architectures and performances. Finally, we propose hyperparameter settings that improve deep learning model’s overall accuracy and efficiency.",
+    "citation_count": "0",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Rozi Khan",
+            "country": ""
+        },
+        {
+            "name": "Muhammad Sohail",
+            "country": ""
+        },
+        {
+            "name": "Imran Usman",
+            "country": ""
+        },
+        {
+            "name": "Moid Sandhu",
+            "country": ""
+        },
+        {
+            "name": "Mohsin Raza",
+            "country": ""
+        },
+        {
+            "name": "Muhammad Azfar Yaqub",
+            "country": ""
+        },
+        {
+            "name": "Antonio Liotta",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

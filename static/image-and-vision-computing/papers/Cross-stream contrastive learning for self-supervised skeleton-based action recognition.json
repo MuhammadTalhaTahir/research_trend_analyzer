@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S026288562300063X",
+    "title": "Cross-stream contrastive learning for self-supervised skeleton-based action recognition",
+    "abstract": "Self-supervised skeleton-based action recognition enjoys a rapid growth along with the development of contrastive learning. The existing methods rely on imposing invariance to augmentations of 3D skeleton within a single data stream, which merely leverages the easy positive pairs and limits the ability to explore the complicated movement patterns. In this paper, we advocate that the defect of single-stream contrast and the lack of necessary feature transformation are responsible for easy positives, and therefore propose a Cross-Stream Contrastive Learning framework for skeleton-based action Representation learning (CSCLR). Specifically, the proposed CSCLR not only utilizes intra-stream contrast pairs, but introduces inter-stream contrast pairs as hard samples to formulate a better representation learning. Besides, to further exploit the potential of positive pairs and increase the robustness of self-supervised representation learning, we propose a Positive Feature Transformation (PFT) strategy which adopts feature-level manipulation to increase the variance of positive pairs. To validate the effectiveness of our method, we conduct extensive experiments on three benchmark datasets NTU-RGB + D 60, NTU-RGB + D 120 and PKU-MMD. Experimental results show that our proposed CSCLR exceeds the state-of-the-art methods on a diverse range of evaluation protocols.",
+    "citation_count": "9",
+    "year": "2023/07/01",
+    "authors": [
+        {
+            "name": "Ding Li",
+            "country": ""
+        },
+        {
+            "name": "Yongqiang Tang",
+            "country": ""
+        },
+        {
+            "name": "Zhizhong Zhang",
+            "country": ""
+        },
+        {
+            "name": "Wensheng Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

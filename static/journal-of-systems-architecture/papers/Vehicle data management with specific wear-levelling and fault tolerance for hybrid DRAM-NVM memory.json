@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762119301286",
+    "title": "Vehicle data management with specific wear-levelling and fault tolerance for hybrid DRAM-NVM memory",
+    "abstract": "The emerging Non-Volatile Memory (NVM) attracts attentions in recent years because of its fast reading/writing speed, high density, low idle power and persistence. With such characteristics, NVM can be applied to application-specific embedded systems to improve performance such as  automotive systems . However, NVM has limitation on writing operations and is consequently not suitable to be applied in writing sensitive systems. In this paper, we propose a Vehicle Data Management (VDM) approach based on a hybrid  DRAM  and NVM architecture for automotive systems. VDM approach includes automotive dynamic data management, vehicle-specific wear-levelling and vehicle  fault tolerance . Automotive dynamic data management can distinguish the hot or cold data from vehicle  Electronic Control Units  (ECUs) and sensors, and then manage the data to reduce the writing operations on NVM for the hybrid main memory. Vehicle-specific wear-levelling can balance the wear to prolong the lifetime of NVM. A  fault tolerance mechanism  is also provided for NVM to recover the fault blocks. The experimental results show that both automotive dynamic data management and vehicle-specific wear-levelling can effectively reduce the writing operations compared with other approaches. Vehicle fault tolerance can achieve a high recovery rate and a low time overhead when error rate is not very high.",
+    "citation_count": "6",
+    "year": "2019/09/01",
+    "authors": [
+        {
+            "name": "Jinyu Zhan",
+            "country": ""
+        },
+        {
+            "name": "Junhuan Yang",
+            "country": ""
+        },
+        {
+            "name": "Wei Jiang",
+            "country": ""
+        },
+        {
+            "name": "Yufang Sun",
+            "country": ""
+        },
+        {
+            "name": "Yixin Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

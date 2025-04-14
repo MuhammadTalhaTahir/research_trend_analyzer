@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959524000894",
+    "title": "Dynamic separate resource pool algorithm for vehicle-to-infrastructure communication",
+    "abstract": "In conventional C-V2X, the resource pool used by all users for transmission is unified, regardless of the user identity. Moreover, NR-V2X sidelink feature allows users to randomly select a resource and maintain it for several periods, resulting in interference. In this paper, a separate resource pooling algorithm is introduced, in which the number of resources used by different users is dynamically changed with a fuzzy inference system, considering the current resource status and number of neighbours. Numerical results demonstrate the superiority of the proposed mechanism, in terms of Packet Reception Ratio (PRR) as well as the data Update Delay.",
+    "citation_count": "0",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Jicheng Yin",
+            "country": ""
+        },
+        {
+            "name": "Shengmin Zhao",
+            "country": ""
+        },
+        {
+            "name": "Seung-Hoon Hwang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

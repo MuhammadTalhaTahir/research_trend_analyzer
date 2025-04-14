@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000850",
+    "title": "Hardware accelerator for an accurate local stereo matching algorithm using binary neural network",
+    "abstract": "Convolutional neural networks  (CNNs) have shown appealing performance on  stereo matching  tasks in recent years. However, existing  deep neural networks  (DNNs) based  matching algorithms  use semi-global matching (SGM) to aggregate the matching costs, which limit the processing speed. In this study, we present a novel binarized CNN  stereo matching   hardware acceleration  using local methods on an  FPGA , which can provide high accuracy stereo estimation and achieve high-throughput at the same time. To reduce the consumption of hardware resource and improve the processing speed, we propose  pipelined architecture  for BNN, and sparse local aggregation to optimize the implementation on an FPGA. We evaluated the proposed implementation on a challenging stereo dataset with a Stratix V FPGA. From the experimental results, our binarized CNN stereo matching implementation shows significant improvement in the real-time performance and the energy efficiency over other computing platforms with a 6.95% error rate on the KITTI2015 dataset.",
+    "citation_count": "10",
+    "year": "2021/08/01",
+    "authors": [
+        {
+            "name": "Yehua Ling",
+            "country": ""
+        },
+        {
+            "name": "Tao He",
+            "country": ""
+        },
+        {
+            "name": "Haitao Meng",
+            "country": ""
+        },
+        {
+            "name": "Yu Zhang",
+            "country": ""
+        },
+        {
+            "name": "Gang Chen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885610000788",
+    "title": "Sub-pixel edge detection based on an improved moment",
+    "abstract": "A novel moment-based method for sub-pixel edge location is proposed. Based on coarse edge-location by SOBEL operator, the geometric information of the target is used to reduce the number of moment-template to only one, which can largely save the time. Experimental results demonstrate that the proposed method is effective with more robustness, higher precision and speed.",
+    "citation_count": "84",
+    "year": "2010/12/01",
+    "authors": [
+        {
+            "name": "Feipeng Da",
+            "country": ""
+        },
+        {
+            "name": "Hu Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

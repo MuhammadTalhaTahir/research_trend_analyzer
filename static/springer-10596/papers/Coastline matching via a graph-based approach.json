@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-022-10175-1",
+    "title": "Coastline matching via a graph-based approach",
+    "abstract": "This paper studies the problem of unsupervised detection of geometrically similar fragments (segments) in curves, in the context of boundary matching. The goal is to determine all pairs of sub-curves that are geometrically similar, under local scale invariance. In particular, we aim to locate the existence of a similar section (independent of length and/or orientation) in the second curve, to a section of the first curve, as indicated by the user. The proposed approach is based on a suitable distance matrix of the two given curves. Additionally, a suitable objective function is proposed to capture the trade-off between the similarity of the common sub-sequences and their lengths. The goal of the algorithm is to minimize this objective function via an efficient graph-based approach that capitalizes on Dynamic Time Warping to compare the two subcurves. We apply the proposed technique in the context of geometric matching of coastline pairs. This application is crucial for investigating the forcing factors related to the coastline evolution. The proposed method was successfully applied to global coastline data, yielding a bipartite graph with analytical point-to-point correspondences.",
+    "citation_count": 41,
+    "year": "2022/12",
+    "authors": [
+        {
+            "name": "Panagiotakis, Costas",
+            "country": "Greece"
+        },
+        {
+            "name": "Markaki, Smaragda",
+            "country": "Greece"
+        },
+        {
+            "name": "Kokinou, Eleni",
+            "country": "Greece"
+        },
+        {
+            "name": "Papadakis, Harris",
+            "country": "Greece"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

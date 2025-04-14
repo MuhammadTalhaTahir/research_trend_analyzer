@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621002481",
+    "title": "Regularized Hardmining loss for face recognition",
+    "abstract": "For face recognition using  deep learning  architectures, loss functions have become a topic of research these days. This is because of the fact that when the discriminative ability of the loss function increases, then the face  recognition accuracy  increases. Hardmining loss is one such generic loss function that can be used with any basic loss function and has the ability to enhance the face recognition accuracy of the given basic loss function. Hardmining loss achieves the improvement by introducing greater penalty for hard examples. However, the problem with Hardmining loss is that the easy examples are allocated loss value near to zero. This limits the contribution of the easy examples specially in the later training stages. We therefore propose an improved Hardmining loss called the Regularized Hardmining loss. The Regularized Hardmining loss allocates a reasonable loss value to the easier examples as well. It thus helps easy examples maintain their contribution in the later training stage while still giving relatively greater penalty for hard examples thus preserving the property of the Hardmining loss. The Regularized Hardmining loss fine-tunes the behavior of Hardmining loss for better performance. The results of Regularized Hardmining loss when applied with Cross Entropy loss show an increased accuracy of face recognition from 93.78% to 95.55% on LFW dataset.",
+    "citation_count": "5",
+    "year": "2022/01/01",
+    "authors": [
+        {
+            "name": "Nayaneesh Kumar Mishra",
+            "country": ""
+        },
+        {
+            "name": "Satish Kumar Singh",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

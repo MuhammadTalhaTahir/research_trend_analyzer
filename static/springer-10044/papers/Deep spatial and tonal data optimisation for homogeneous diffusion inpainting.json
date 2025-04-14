@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-023-01162-y",
+    "title": "Deep spatial and tonal data optimisation for homogeneous diffusion inpainting",
+    "abstract": "Diffusion-based inpainting can reconstruct missing image areas with high quality from sparse data, provided that their location and their values are well optimised. This is particularly useful for applications such as image compression, where the original image is known. Selecting the known data constitutes a challenging optimisation problem, that has so far been only investigated with model-based approaches. So far, these methods require a choice between either high quality or high speed since qualitatively convincing algorithms rely on many time-consuming inpaintings. We propose the first neural network architecture that allows fast optimisation of pixel positions and pixel values for homogeneous diffusion inpainting. During training, we combine two optimisation networks with a neural network-based surrogate solver for diffusion inpainting. This novel concept allows us to perform backpropagation based on inpainting results that approximate the solution of the inpainting equation. Without the need for a single inpainting during test time, our deep optimisation accelerates data selection by more than four orders of magnitude compared to common model-based approaches. This provides real-time performance with high quality results.",
+    "citation_count": 72,
+    "year": "2023/11",
+    "authors": [
+        {
+            "name": "Peter, Pascal",
+            "country": "Germany"
+        },
+        {
+            "name": "Schrader, Karl",
+            "country": "Germany"
+        },
+        {
+            "name": "Alt, Tobias",
+            "country": "Germany"
+        },
+        {
+            "name": "Weickert, Joachim",
+            "country": "Germany"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

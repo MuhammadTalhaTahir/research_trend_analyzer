@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-016-0085-x",
+    "title": "Integer programming methods for special college admissions problems",
+    "abstract": "We develop integer programming (IP) solutions for some special college admission problems arising from the Hungarian higher education admission scheme. We focus on four special features, namely the solution concept of stable score-limits, the presence of lower and common quotas, and paired applications. We note that each of the latter three special feature makes the college admissions problem NP-hard to solve. Currently, a heuristic based on the Gale–Shapley algorithm is being used in the Hungarian application. The IP methods that we propose are not only interesting theoretically, but may also serve as an alternative solution concept for this practical application, and other similar applications. We finish the paper by presenting a simulation using the 2008 data of the Hungarian higher education admission scheme.",
+    "citation_count": 32,
+    "year": "2016/11",
+    "authors": [
+        {
+            "name": "Ágoston, Kolos Csaba",
+            "country": "Hungary"
+        },
+        {
+            "name": "Biró, Péter",
+            "country": "Hungary"
+        },
+        {
+            "name": "McBride, Iain",
+            "country": "Hungary"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

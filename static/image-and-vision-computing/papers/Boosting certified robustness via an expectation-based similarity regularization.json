@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003779",
+    "title": "Boosting certified robustness via an expectation-based similarity regularization",
+    "abstract": "A certifiably robust classifier implies the one that is theoretically guaranteed to provide robust predictions against  any  adversarial attacks under certain conditions. Recent defense methods aim to regularize predictions by ensuring consistency across diverse perturbed samplings around the same sample, thus enhancing the certified robustness of the classifier. However, starting from the visualization of latent representations from classifiers trained with existing defense methods, we observe that noisy samplings of other classes are still easily found near a single sample, undermining the confidence in the neighborhood of inputs required by the certified robustness. Motivated by this observation, a novel training method, namely Expectation-based Similarity Regularization for Randomized Smoothing (ESR-RS), is proposed to optimize the distance between samples utilizing metric learning. To meet the requirement of certified robustness, ESR-RS focuses on the average performance of base classifier, and adopts the expected feature approximated by the average value of multiple Gaussian-corrupted samplings around every sample, to compute similarity scores between samples in the latent space. The metric learning loss is then applied to maximize the representation similarity within the same class and minimize it between different classes. Besides, an adaptive weight correlated with the classification performance is used to control the strength of the proposed similarity regularization. Extensive experiments have verified that our method contributes to stronger certified robustness over multiple defense methods without heavy computational costs.",
+    "citation_count": "0",
+    "year": "2024/11/01",
+    "authors": [
+        {
+            "name": "Jiawen Li",
+            "country": ""
+        },
+        {
+            "name": "Kun Fang",
+            "country": ""
+        },
+        {
+            "name": "Xiaolin Huang",
+            "country": ""
+        },
+        {
+            "name": "Jie Yang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624005146",
+    "title": "Self-ensembling for 3D point cloud domain adaptation",
+    "abstract": "Recently 3D point cloud learning has been a hot topic in computer vision and autonomous driving. Due to the fact that it is difficult to manually annotate a qualitative large-scale 3D point cloud dataset, unsupervised domain adaptation (UDA) is popular in 3D point cloud learning which aims to transfer the learned knowledge from the labeled source domain to the unlabeled target domain. Existing methods mainly resort to a deformation reconstruction in the target domain, leveraging the deformable invariance process for generalization and domain adaptation. In this paper, we propose a conceptually new yet simple method, termed as self-ensembling network (SEN) for domain generalization and adaptation. In SEN, we propose a soft classification loss on the source domain and a consistency loss on the target domain to stabilize the feature representations and to capture better invariance in the UDA task. In addition, we extend the pointmixup module on the target domain to increase the diversity of point clouds which further boosts cross domain generalization. Extensive experiments on several 3D point cloud UDA benchmarks show that our SEN outperforms the state-of-the-art methods on both classification and segmentation tasks.",
+    "citation_count": "0",
+    "year": "2025/02/01",
+    "authors": [
+        {
+            "name": "Qing Li",
+            "country": ""
+        },
+        {
+            "name": "Xiaojiang Peng",
+            "country": ""
+        },
+        {
+            "name": "Chuan Yan",
+            "country": ""
+        },
+        {
+            "name": "Pan Gao",
+            "country": ""
+        },
+        {
+            "name": "Qi Hao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

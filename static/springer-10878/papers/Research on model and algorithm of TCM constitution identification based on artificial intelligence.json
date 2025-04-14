@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-019-00486-y",
+    "title": "Research on model and algorithm of TCM constitution identification based on artificial intelligence",
+    "abstract": "In recent years, the research and application of artificial intelligence are developing rapidly. The application of artificial intelligence in medical image judgment has achieved good results in accuracy and speed. As big data and computing power increase, artificial intelligence will find more applications in medicine and health. In this paper, the artificial intelligence technology is applied to the judgment of Traditional Chinese Medicine (TCM) constitutional type. Using the model and algorithm of neural network, the fuzzy linguistic variables are expressed in value of membership degree to construct the nine standard TCM constitutional types as the basic sample data. Then it is combined with the judgment results of several TCM doctors to form new sample data and the model is trained by algorithm. The trained model is used to help TCM to classify individuals’ constitution. The simulation results show that the model achieves a good result by learning the sample data.",
+    "citation_count": 14,
+    "year": "2021/11",
+    "authors": [
+        {
+            "name": "Li, Bin",
+            "country": "China"
+        },
+        {
+            "name": "Wei, Qianghua",
+            "country": "China"
+        },
+        {
+            "name": "Zhou, Xinye",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

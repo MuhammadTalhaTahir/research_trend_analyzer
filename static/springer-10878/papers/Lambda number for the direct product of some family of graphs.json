@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-016-0032-x",
+    "title": "Lambda number for the direct product of some family of graphs",
+    "abstract": "An L(2,&nbsp;1)-labeling for a graph $$G=(V,E)$$ is a function f on V such that $$|f(u)-f(v)|\\ge 2$$ if u and v are adjacent and f(u) and f(v) are distinct if u and v are vertices of distance two. The L(2,&nbsp;1)-labeling number, or the lambda number $$\\lambda (G)$$ , for G is the minimum span over all L(2,&nbsp;1)-labelings of G. When $$P_{m}\\times C_{n}$$ is the direct product of a path $$P_m$$ and a cycle $$C_n$$ , Jha et al. (Discret Appl Math 145:317–325, 2005) computed the lambda number of $$P_{m}\\times C_{n}$$ for $$n\\ge 3$$ and $$m=4,5$$ . They also showed that when $$m\\ge 6$$ and $$n\\ge 7$$ , $$\\lambda (P_{m}\\times C_{n})=6$$ if and only if n is the multiple of 7 and conjectured that it is 7 if otherwise. They also showed that $$\\lambda (C_{7i}\\times C_{7j})=6$$ for some i,&nbsp;j. In this paper, we show that when $$m\\ge 6$$ and $$n\\ge 3$$ , $$\\lambda (P_m\\times C_n)=7$$ if and only if n is not a multiple of 7. Consequently the conjecture is proved. Here we also provide the conditions on m and n such that $$\\lambda (C_m\\times C_n)\\le 7$$ .",
+    "citation_count": 14,
+    "year": "2017/05",
+    "authors": [
+        {
+            "name": "Kim, Byeong Moon",
+            "country": "Korea"
+        },
+        {
+            "name": "Rho, Yoomi",
+            "country": "Korea"
+        },
+        {
+            "name": "Song, Byung Chul",
+            "country": "Korea"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

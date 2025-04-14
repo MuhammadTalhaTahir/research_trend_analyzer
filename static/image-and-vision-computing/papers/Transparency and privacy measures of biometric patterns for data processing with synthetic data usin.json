@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885625000174",
+    "title": "Transparency and privacy measures of biometric patterns for data processing with synthetic data using explainable artificial intelligence",
+    "abstract": "In this paper the need of biometric authentication with synthetic data is analyzed for increasing the security of data in each transmission systems. Since more biometric patterns are represented the complexity of recognition changes where low security features are enabled in transmission process. Hence the process of increasing security is carried out with image biometric patterns where synthetic data is created with explainable artificial intelligence technique thereby appropriate decisions are made. Further sample data is generated at each case thereby all changing representations are minimized with increase in original image set values. Moreover the data flows at each identified biometric patterns are increased where partial decisive strategies are followed in proposed approach. Further more complete interpretabilities that are present in captured images or biometric patterns are reduced thus generated data is maximized to all end users. To verify the outcome of proposed approach four scenarios with comparative performance metrics are simulated where from the comparative analysis it is found that the proposed approach is less robust and complex at a rate of 4% and 6% respectively.",
+    "citation_count": "0",
+    "year": "2025/02/01",
+    "authors": [
+        {
+            "name": "Achyut Shankar",
+            "country": ""
+        },
+        {
+            "name": "Hariprasath Manoharan",
+            "country": ""
+        },
+        {
+            "name": "Adil O. Khadidos",
+            "country": ""
+        },
+        {
+            "name": "Alaa O. Khadidos",
+            "country": ""
+        },
+        {
+            "name": "Shitharth Selvarajan",
+            "country": ""
+        },
+        {
+            "name": "S.B. Goyal",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

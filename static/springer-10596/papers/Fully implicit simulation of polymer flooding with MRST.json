@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-017-9624-5",
+    "title": "Fully implicit simulation of polymer flooding with MRST",
+    "abstract": "The present work describes a fully implicit simulator for polymer injection implemented in the free, open-source MATLAB Reservoir Simulation Toolbox (MRST). Polymer injection is one of the widely used enhanced oil recovery (EOR) techniques, and complicated physical process is involved, which makes accurate simulation very challenging. The proposed work is intended for providing a powerful and flexible tool to investigate the polymer injection process in realistic reservoir scenarios. Within the model, the polymer component is assumed to be only transported in the water phase and adsorbed in the rock. The hydrocarbon phases are not influenced by the polymer, and they are described with the standard, three-phase, black-oil equations. The effects of the polymer are simulated based on the Todd–Longstaff mixing model, accounting for adsorption, inaccessible pore space, and permeability reduction effects. Shear-thinning/thickening effects based on shear rate are also included by the means of a separate inner-Newton iteration process within the global nonlinear iteration. The implementation is based on the automatic differentiation framework in MRST (MRST-AD), and an iterative linear solver with a constrained pressure residual (CPR) preconditioner is used to solve the resulting linear systems efficiently. We discuss certain implementation details to show how convenient it is to use the existing functionality in MRST to develop an accurate and efficient polymer flooding simulator for real fields. With its modular design, vectorized implementation, support for stratigraphic and general unstructured grids, and automatic differentiation framework, MRST is a very powerful prototyping and experimentation platform for development of new reservoir simulators. To verify the simulator, we first compare it with a commercial simulator and good agreement is achieved. Then, we apply the new simulator to a few realistic reservoir models to investigate the effect of adding polymer injection, and computational efficiency is demonstrated. Finally, we combine existing optimization functionality in MRST with the new polymer simulator to optimize polymer flooding for two different reservoir models. We argue that the presented software framework can be used as an efficient prototyping tool to evaluate new models for polymer–water flooding processes in real reservoir fields.",
+    "citation_count": 26,
+    "year": "2017/12",
+    "authors": [
+        {
+            "name": "Bao, Kai",
+            "country": "Norway"
+        },
+        {
+            "name": "Lie, Knut-Andreas",
+            "country": "Norway"
+        },
+        {
+            "name": "Møyner, Olav",
+            "country": "Norway"
+        },
+        {
+            "name": "Liu, Ming",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

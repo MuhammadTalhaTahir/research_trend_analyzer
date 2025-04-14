@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-023-01202-7",
+    "title": "Unsupervised open-world human action recognition",
+    "abstract": "Open-world recognition (OWR) is an important field of research that strives to develop machine learning models capable of identifying and learning new classes as they appear. Concurrently, human action recognition (HAR) has received increasing attention from the research community. We approach Open-World HAR in the unsupervised setting. In unsupervised OWR, class labels are available for the initial classes but not for new ones. Hence, we propose a clustering method to label unknown classes automatically for incremental learning (IL). Our framework consists of an Initial Learning phase for initializing the models, an open-set recognition phase for identifying unknown classes, an Automatic Clustering phase for estimating the number of clusters and generating labels, and an IL phase for incorporating new knowledge. The proposed framework was evaluated at each phase separately in eleven experimental settings of the UCF-101 dataset. We also presented parameter sensitivity studies of the main parameters and visual analysis of misclassified videos, revealing interesting visual similarities between overlapped classes. Experiments have shown promising results in all phases of Open-World HAR, even without labels, which closely resembles real-world problems.",
+    "citation_count": 95,
+    "year": "2023/11",
+    "authors": [
+        {
+            "name": "Gutoski, Matheus",
+            "country": "Brazil"
+        },
+        {
+            "name": "Lazzaretti, André Eugenio",
+            "country": "Brazil"
+        },
+        {
+            "name": "Lopes, Heitor Silvério",
+            "country": "Brazil"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

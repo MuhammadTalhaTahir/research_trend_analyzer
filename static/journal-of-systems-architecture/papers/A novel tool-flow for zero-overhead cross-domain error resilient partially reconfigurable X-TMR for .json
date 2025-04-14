@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762117300772",
+    "title": "A novel tool-flow for zero-overhead cross-domain error resilient partially reconfigurable X-TMR for SRAM-based FPGAs",
+    "abstract": "Triple Modular Redundancy is a widely used fault-tolerance methodology for highly-reliable electronic systems mapped on SRAM-based  FPGAs . However, the state-of-the-art TMR techniques are unable to effectively deal with cross-domain errors and increased scrubbing time due to growing size of  configuration memory . In order to deal with the aforementioned problems, this work proposes a TMR architecture that exploits the fracturable nature of  Look Up Tables  for simultaneously mapping of majority-voting and  error detection  at the  granularity  of TMR domains. An associated CAD flow is developed for  partial reconfiguration  of TMR domains incorporating changes to the technology mapping, placement and  bitstream  generation phases. Our results demonstrate that we can achieve significant reduction in repairing times along with better resilience to cross-domain errors with zero hardware overhead compared to the existing TMR methodologies.",
+    "citation_count": "3",
+    "year": "2017/11/01",
+    "authors": [
+        {
+            "name": "Luis Andres Cardona",
+            "country": ""
+        },
+        {
+            "name": "Anees Ullah",
+            "country": ""
+        },
+        {
+            "name": "Luca Sterpone",
+            "country": ""
+        },
+        {
+            "name": "Carles Ferrer",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623000033",
+    "title": "Spatial–temporal graph attention network for video anomaly detection",
+    "abstract": "Video  anomaly detection , which is weakly supervised by video-level annotations, is a frequent yet challenging task in  computer vision  owing to its unexpectedness, equivocality, rarity, irregularity, and diversity. Although previous seminal works successfully leveraged  graph convolutions  to assist in the detection of anomalies, they failed to subsequently explore the potential of this approach. In this study, we developed a spatial–temporal graph  attention network  (STGA), which, to the best of our knowledge, is the first effort to combine graph convolutions with a multi-head graph attention mechanism for video anomaly detection. Specifically, a  spatial correlation  graph and temporal  dependence graph  were devised to learn distinguishable representations with the complementation of graph attention techniques. Furthermore, STGA was incorporated within the multiple  instance learning  (MIL) pipeline, and optimized  via  top- k  MIL ranking loss after a sparse continuous sampling strategy was put into effect. We conducted experiments using four multi-scale datasets to validate the efficacy of our model. Quantitatively, our method performs equivalently to the current best result on  ShanghaiTech  with a frame-level area under the curve (AUC) of 97.21%, obtains the second-best result on  UCSD-Ped2  with a frame-level AUC of 97.4%, gains a frame-level AUC of 80.28% on  UCF-Crime , and achieves a new state-of-the-art performance on  TAD  with a frame-level AUC of 91.42%. Additionally, our  false alarm  rate results outperform those obtained in previous studies on  ShanghaiTech  and  UCF-Crime , which demonstrates the robustness of our approach. All relevant code has been made available at  https://github.com/hychen96/STGA-VAD .",
+    "citation_count": "18",
+    "year": "2023/03/01",
+    "authors": [
+        {
+            "name": "Haoyang Chen",
+            "country": ""
+        },
+        {
+            "name": "Xue Mei",
+            "country": ""
+        },
+        {
+            "name": "Zhiyuan Ma",
+            "country": ""
+        },
+        {
+            "name": "Xinhong Wu",
+            "country": ""
+        },
+        {
+            "name": "Yachuan Wei",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

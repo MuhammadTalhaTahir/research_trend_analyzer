@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1011858020793",
+    "title": "Design of an Efficient Channel Block Retuning",
+    "abstract": "Cellular networks must be updated very often. Due to technical and economical reasons, the complete channel retuning of an urban network has to be done in several steps. The objective is then to define the steps in such a way that the increase in the interference level is minimum, and do not let it go further than a given threshold of minimum quality for the cellular network. We propose a greedy heuristic and an ascent–descent method including a Tabu Search module to retune a network in a given number of steps. All constraints of the channel assignment problem are taken into account (co-channel, adjacent channel, minimum channel spacing on antennas) as well as retuning constraints such as the number of steps and limits on the maximum number of cells which can be retuned at each step. Co-channel and adjacent channel constraints are expressed through compatibility matrices produced with a discretization of the signal-to-interference ratio. Numerical results are presented on a Bell Mobilité urban network of 359 cells.",
+    "citation_count": 8,
+    "year": "2001/11",
+    "authors": [
+        {
+            "name": "Barbéra, Vincent",
+            "country": "Canada"
+        },
+        {
+            "name": "Jaumard, Brigitte",
+            "country": "Canada"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

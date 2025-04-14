@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-019-09901-z",
+    "title": "Quantitative evaluation of multiple-point simulations using image segmentation and texture descriptors",
+    "abstract": "Continuous growth of multiple-point simulation algorithms for modeling environmental variables necessitates a straightforward, reliable, robust, and distinctive method for evaluating the quality of output images. A good simulation method should produce realizations consistent with the training image (TI). Moreover, it should be capable of producing diverse realizations to effectively model the variability of real fields. In this paper, the pattern innovation capability is evaluated by estimating the coherence map using keypoint detection and matching, without assuming any access to the simulation process. Local binary patterns, as distinctive and effective texture descriptors, are also employed to evaluate the consistency of realizations with the TI. Our proposed method provides absolute measures in the interval [0,1], allowing MPS algorithms to be evaluated on their own. Experiments show that the produced scores are consistent with human perception and robust for different realizations obtained using the same method, allowing for a reliable judgment using a few realizations. While a human observer is highly sensitive to discontinuities and insensitive to verbatim copies, the proposed method considers both factors simultaneously.",
+    "citation_count": 40,
+    "year": "2019/12",
+    "authors": [
+        {
+            "name": "Abdollahifard, Mohammad Javad",
+            "country": "Iran"
+        },
+        {
+            "name": "Mariéthoz, Grégoire",
+            "country": "Switzerland"
+        },
+        {
+            "name": "Ghavim, Maryam",
+            "country": "Iran"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

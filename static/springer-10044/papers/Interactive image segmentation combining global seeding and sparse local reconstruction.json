@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-025-01432-x",
+    "title": "Interactive image segmentation combining global seeding and sparse local reconstruction",
+    "abstract": "Seed segmentation methods are highly regarded for their effectiveness in processing complex images, user-friendliness, and compatibility with graph-based representations. However, these methods often depend on intricate computational tools, leading to issues such as poor image contour adherence and incomplete seed propagation. To address these limitations, this paper proposes an interactive framework that integrates global seed information with sparse local linear reconstruction regularization (GSSR). In this framework, a Gaussian mixture model is firstly employed to construct a flow of global seed information, establishing connections between pixel points and yielding more complete segmented objects. Additionally, the $$L_{p}(0 &lt; p \\le 1)$$ norm is utilized to constrain the sparse local reconstruction term, facilitating the generation of sparse boundaries. An iterative process based on the Alternating Direction Method of Multipliers (ADMM) is developed to solve the $$L_1$$ regularization term, which is then generalized for the $$L_p$$ problem through reweighting. We conduct a comprehensive comparison on the BSD dataset, CVC-ClinicDB datasets and two publicly available MSRC datasets with different labeling schemes. Extensive experimental validation demonstrates that the proposed method outperforms existing results.The source code and datasets are openly available at: https://github.com/choppy-water/GSSR .",
+    "citation_count": 54,
+    "year": "2025/06",
+    "authors": [
+        {
+            "name": "Long, Jianwu",
+            "country": "China"
+        },
+        {
+            "name": "Liu, Yuanqin",
+            "country": "China"
+        },
+        {
+            "name": "Zhang, Kaixin",
+            "country": "China"
+        },
+        {
+            "name": "Chen, Shuang",
+            "country": "China"
+        },
+        {
+            "name": "Luo, Qi",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

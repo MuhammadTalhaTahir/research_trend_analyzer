@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-021-00703-7",
+    "title": "Complete-Subgraph-Transversal-Sets problem on bounded treewidth graphs",
+    "abstract": "Let $$G=(V,E)$$ be a graph. A complete subgraph of G is a subgraph of pairwise adjacent vertices of V of size at least 2. Let $$\\Phi _C(G)$$ be the set of all complete subgraphs of G and $$\\Phi \\subseteq {\\Phi }_C(G)$$ . In this paper, we consider the Complete-Subgraph-Transversal-Set on $$\\Phi $$ problem and the L-Max Complete-Subgraph-Transversal-Set on $$\\Phi $$ problem. We give polynomial time algorithms to these two problems on graphs of bounded treewidth. At last, we show the connections between these two problems with some other NP-complete problems, for example Clique-Transversal-Set problem on graphs and Vertex-Cover problem on hypergraphs.",
+    "citation_count": 23,
+    "year": "2021/05",
+    "authors": [
+        {
+            "name": "Liu, Ke",
+            "country": "China"
+        },
+        {
+            "name": "Lu, Mei",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

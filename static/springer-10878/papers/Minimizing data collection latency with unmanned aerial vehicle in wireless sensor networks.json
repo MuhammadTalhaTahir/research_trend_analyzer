@@ -1,0 +1,45 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-019-00434-w",
+    "title": "Minimizing data collection latency with unmanned aerial vehicle in wireless sensor networks",
+    "abstract": "The benefits of using Unmanned Aerial Vehicles (UAVs) as mobile sinks for data collection have attracted great attention in Wireless Sensor Networks (WSNs). The problem that computes the optimal trajectories for UAVs to collect data from WSN is generally NP-Hard. However, the existing works focus on the optimal trajectories of UAVs while considering the data transmission based on either predefined path sets or paths with predefined hovering points, or they focus on seeking the optimal paths while ignoring the data transmission latency between UAVs and sensors. In this paper, we focus on the Transportation and Communication Latency Optimization (TCLO) problem which is to find the optimal trajectory of UAV in a continuous space to collect all data from sensors in a WSN, while minimizing the sum of travelling time and data transmission time without predefined paths or hovering points. To solve the TCLO problem, we first study a special case of the TCLO problem, which is called the TCLO-disjoint problem, in which the sensor neighborhoods are disjoint. An approximation algorithm is proposed for the TCLO-disjoint problem. Based on the TCLO-disjoint problem, we propose an approximation algorithm for the TCLO problem. The proposed algorithm is verified by extensive simulations, which shows its effectiveness to minimize the data collection latency of UAV in WSNs.",
+    "citation_count": 23,
+    "year": "2019/11",
+    "authors": [
+        {
+            "name": "Luo, Chuanwen",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Wang, Yongcai",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Hong, Yi",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Chen, Wenping",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Ding, Xingjian",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Zhu, Yuqing",
+            "country": "USA"
+        },
+        {
+            "name": "Li, Deying",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

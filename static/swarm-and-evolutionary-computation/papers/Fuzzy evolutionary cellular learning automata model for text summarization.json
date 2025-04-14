@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650216300049",
+    "title": "Fuzzy evolutionary cellular learning automata model for text summarization",
+    "abstract": "Text summarization is the automatic process of creating a short form of an original text. The main goal of an automatic text summarization system is production of a summary which satisfies the user's needs. In this paper, a new model for automatic text summarization is introduced which is based on  fuzzy logic system ,  evolutionary algorithms  and cellular  learning automata . First, the most important features including word features, similarity measure, and the position and the length of a sentence are extracted. A  linear combination  of these features shows the importance of each sentence. To calculate similarity measure, a combined method based on artificial bee colony algorithm and cellular learning automata are used. In this method,  joint  n-grams among sentences are extracted by cellular learning automata and then an artificial bee colony algorithm classifies n-friends in order to extract data and optimize the similarity measure as fitness function. Moreover, a new approach is proposed to adjust the best weights of the text features using  particle swarm optimization  and  genetic algorithm . This method discovers more important and less important text features and then assigns fair weights to them. At last, a fuzzy logic system is used to perform the final scoring. The results of the proposed approach were compared with the other methods including Msword, System19, System21, System28, System31, FSDH, FEOM, NetSum, CRF, SVM, DE, MA-SingleDocSum, Unified Rank and Manifold Ranking using ROUGE-l and ROUGE-2 measures on the DUC2002 dataset. The results show that proposed method outperforms the aforementioned methods.",
+    "citation_count": "55",
+    "year": "2016/10/01",
+    "authors": [
+        {
+            "name": "Razieh Abbasi-ghalehtaki",
+            "country": ""
+        },
+        {
+            "name": "Hassan Khotanlou",
+            "country": ""
+        },
+        {
+            "name": "Mansour Esmaeilpour",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

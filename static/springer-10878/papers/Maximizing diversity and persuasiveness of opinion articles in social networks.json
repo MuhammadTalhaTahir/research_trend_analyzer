@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-024-01226-7",
+    "title": "Maximizing diversity and persuasiveness of opinion articles in social networks",
+    "abstract": "Social-media platforms have created new ways for individuals to keep in touch with others, share their opinions and join the discussion on different issues. Traditionally studied by social science, opinion dynamic has attracted the attention from scientists in other fields. The formation and evolution of opinions is a complex process affected by the interplay of different elements that incorporate peer interaction in social networks and the diversity of information to which each individual is exposed. In addition, supplementary information can have an important role in driving the opinion formation and evolution. And due to the character of online social platforms, people can easily end an existing follower-followee relationship or stop interacting with a friend at any time. Taking a step in this direction, we propose the OG–IC model which considers the dynamic of both opinion and relationship in this paper. It not only considers the direct influence of friends but also highlights the indirect effect of group when individuals are exposed to new opinions. And it allows nodes which represent users of social networks to slightly adjust their own opinion and sometimes redefine friendships. A novel problem in social network whose purpose is simultaneously maximizing both the diversity of supplementary information that individuals access to and the influence of supplementary information on individual’s existing opinion is formulated. This problem is proved to be NP-hard and its objective function is neither submodular nor supermodular. However, an algorithm with approximate ratio guarantee is designed based on the sandwich framework. And the effectiveness of our algorithm is experimentally demonstrated on both synthetic and real-world data sets.",
+    "citation_count": 47,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "Du, Liman",
+            "country": "China"
+        },
+        {
+            "name": "Yang, Wenguo",
+            "country": "China"
+        },
+        {
+            "name": "Gao, Suixiang",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

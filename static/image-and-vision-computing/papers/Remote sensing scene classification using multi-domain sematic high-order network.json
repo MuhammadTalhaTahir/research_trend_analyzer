@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624000519",
+    "title": "Remote sensing scene classification using multi-domain sematic high-order network",
+    "abstract": "Recently,  convolutional neural networks  (CNNs), which obtain powerful deep features in an end-to-end manner, have achieved powerful performance in  remote sensing  scene classification. However, the average or maximum pooling operations defined in the spatial domain and coarser-resolution features with high levels cannot extract reliable features and clear boundaries for small-scale targets in remote sensing scene imagery. This paper attempts to address these problems and proposes a multi-domain sematic high-order network for scene classification, named MSHNet. First, wavelet-spatial and detachable pooling blocks defined in the wavelet and spatial domains are inserted at the end of the convolutional block to learn the features in a more structural fusion manner. Second, multi-scale and multi-resolution  semantic embedding  modules are proposed to take full advantage of the complementary information and effectively maintain the spatial structures of learned deep features. Third, we employ a factorized bilinear coding approach to obtain compact and discriminative second-order features. MSHNet is thoroughly evaluated on two publicly available benchmarks, i.e., AID (Aerial Image Dataset) and NWPU-RESISC45 (Northwestern Polytechnical University-Remote Sensing Image Scene Classification 45). The extensive results illustrate that our MSHNet is competitive with other related multi-scale  deep neural networks .",
+    "citation_count": "3",
+    "year": "2024/03/01",
+    "authors": [
+        {
+            "name": "Yuanyuan Lu",
+            "country": ""
+        },
+        {
+            "name": "Yanhui Zhu",
+            "country": ""
+        },
+        {
+            "name": "Hao Feng",
+            "country": ""
+        },
+        {
+            "name": "Yang Liu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

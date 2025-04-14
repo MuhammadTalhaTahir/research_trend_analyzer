@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1026030627693",
+    "title": "An Architecture and Communication Protocol for IPv6 Pack-Based Picocellular Networks",
+    "abstract": "In this paper, micro mobility problems in handoff binding latency in Mobile IPv6 and the enhanced Cellular Mobile IPv6 (CMIv6) are investigated using a new extension protocol. Frequent and fast movements usually characterize micro mobility. An enhanced handoff extension is adopted to solve the Mobile IPv6 handoff break in a micro mobility environment. The basic idea involves using the new field in the IPv6 header, “flow label”, to assist the foreign router delivering packets to the mobile node. The Foreign Home Agent (FHA) is a new defined node in this proposition. FHA can accurately deliver packets according to the mobile node IP address even though the new binding messages have not arrived at the CN. The simulations shown in this paper prove that the enhanced CMIv6 scheme can minimize packet loss during handoffs.",
+    "citation_count": 17,
+    "year": "2003/12",
+    "authors": [
+        {
+            "name": "Chao, Han-Chieh",
+            "country": "Taiwan"
+        },
+        {
+            "name": "Chu, Yen-Ming",
+            "country": "Taiwan"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

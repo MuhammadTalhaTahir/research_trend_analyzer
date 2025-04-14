@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885622001809",
+    "title": "Learning diverse and deep clues for person reidentification",
+    "abstract": "Extracting robust features has been the core of person re-identification(ReID). The existing convolutional neural network-based methods pay more attention to  local features  rather than the connection between local features. Given that human bodies possess certain structural information, it is absolutely necessary to strengthen the connection of local features for the  ReID  task. This paper proposes a two-stage  attention network  termed Width and Depth Channel Attention Network (WDC-Net) for ReID. Unlike conventional attention-based methods, which only focus on the single local features, our network exploits diverse feature representations to alleviate the  missing information  problem caused by occlusion. Precisely, for the first stage, it splits the local associations of the feature map through a multi-scale perspective to extract relatively independent multi-level local features of the human body. For the second stage, the correlation of multi-level local features is reconstructed through grouped pyramid structure to obtain a more robust global feature representation. We also propose an adaptive margin weight adjustment strategy to enhance the adaptability of the attention weights. Large-scale ReID datasets are tested to evaluate our method. On Market1501 and DukeMTMC, the proposed method achieves 90.7 % /96.4% mAP/R-1 and 81.8 % /90.8% mAP/R-1, respectively. It is worth highlighting that the proposed method also achieves 55.3 % /65.3% mAP/R-1 on the challenging Occluded-Duke dataset. Extensive experimental results demonstrate the superiority of our method, which achieves state-of-the-art performance on ReID.",
+    "citation_count": "4",
+    "year": "2022/10/01",
+    "authors": [
+        {
+            "name": "Wencheng Qin",
+            "country": ""
+        },
+        {
+            "name": "Baojin Huang",
+            "country": ""
+        },
+        {
+            "name": "Pinzhong Qin",
+            "country": ""
+        },
+        {
+            "name": "Zhiyong Huang",
+            "country": ""
+        },
+        {
+            "name": "Daidi Zhong",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

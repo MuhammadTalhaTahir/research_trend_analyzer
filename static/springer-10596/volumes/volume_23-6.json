@@ -1,0 +1,38 @@
+[
+  {
+    "title": "A new stopping criterion for multi-objective evolutionary algorithms: application in the calibration of a hydrologic model",
+    "url": "https://link.springer.com/article/10.1007/s10596-019-09870-3"
+  },
+  {
+    "title": "Efficient use of sparsity by direct solvers applied to 3D controlled-source EM problems",
+    "url": "https://link.springer.com/article/10.1007/s10596-019-09883-y"
+  },
+  {
+    "title": "Combining ensemble Kalman filter and multiresolution analysis for efficient assimilation into adaptive mesh models",
+    "url": "https://link.springer.com/article/10.1007/s10596-019-09882-z"
+  },
+  {
+    "title": "Big data analytics for seismic fracture identification using amplitude-based statistics",
+    "url": "https://link.springer.com/article/10.1007/s10596-019-09890-z"
+  },
+  {
+    "title": "Unstructured grid adaptation for multiscale finite volume method",
+    "url": "https://link.springer.com/article/10.1007/s10596-019-09878-9"
+  },
+  {
+    "title": "GEYSER: 3D thermo-hydrodynamic reactive transport numerical simulator including porosity and permeability evolution using GPU clusters",
+    "url": "https://link.springer.com/article/10.1007/s10596-019-09885-w"
+  },
+  {
+    "title": "Evaluating prior predictions of production and seismic data",
+    "url": "https://link.springer.com/article/10.1007/s10596-019-09889-6"
+  },
+  {
+    "title": "Quantitative evaluation of multiple-point simulations using image segmentation and texture descriptors",
+    "url": "https://link.springer.com/article/10.1007/s10596-019-09901-z"
+  },
+  {
+    "title": "Modeling of transport of first-order reaction networks in porous media using meshfree radial point collocation method",
+    "url": "https://link.springer.com/article/10.1007/s10596-019-09906-8"
+  }
+]

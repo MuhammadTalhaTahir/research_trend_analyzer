@@ -1,0 +1,35 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-016-0731-7",
+    "title": "Providing Reliable Services over Wireless Networks Using a Low Overhead Random Linear Coding Scheme",
+    "abstract": "In this work, we propose a novel intra-flow network coding solution, which is based on the combination of a low overhead Random Linear Coding (RLC) scheme and UDP, to offer a reliable communication service. In the initial protocol specification, the required overhead could be rather large and this had an impact over the observed performance. We therefore include an improvement to reduce such overhead, by decreasing the header length. We describe an analytical model that can be used to assess the performance of the proposed scheme. We also use an implementation within the ns-3 framework to assess the correctness of this model and to broaden the analysis, considering different performance indicators and more complex network topologies. In all cases, the proposed solution clearly outperforms a more traditional approach, in which the TCP protocol is used as a means to offer a reliable communication service.",
+    "citation_count": 29,
+    "year": "2017/12",
+    "authors": [
+        {
+            "name": "Garrido, Pablo",
+            "country": "Spain"
+        },
+        {
+            "name": "Gómez, David",
+            "country": "Spain"
+        },
+        {
+            "name": "Lanza, Jorge",
+            "country": "Spain"
+        },
+        {
+            "name": "Serrat, Joan",
+            "country": "Spain"
+        },
+        {
+            "name": "Aguero, Ramón",
+            "country": "Spain"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

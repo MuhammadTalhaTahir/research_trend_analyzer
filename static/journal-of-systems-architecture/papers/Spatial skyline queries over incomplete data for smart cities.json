@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762118301590",
+    "title": "Spatial skyline queries over incomplete data for smart cities",
+    "abstract": "Nowadays  Internet of Things  (IoT) gained a great attention from researchers since it promises a smart  human being  life. By the technology of the IoT, the world will becomes smart in many aspects such as cities which are the main poles of human and economic activity. Analyzing cities data is very important to improve the city economy as well as the life quality of the citizens. Since location based services and  GPS  devices can easily connect users located in different positions, it is worthwhile to optimize the efficiency of their shifting to a common location according to their preferences. However, in many real-life applications, uncertain, imprecise and incomplete data inherently exist. By the advent of such applications, the effective processing of advanced analysis queries such as the skyline for imperfect data has become important. Basically, the skyline query finds the interesting objects according to a user preferences. Answering spatial skyline query for a set of  query points  can find many applications in Geographical Information Systems. However, the traditional skyline queries cannot answer a users group needs and are not sufficient to obtain a good choice for all  group members . In this paper, we propose a spatial skyline query over imperfect data related to set of query points located at different positions. We propose an imperfect spatial skyline query for users located in different positions. Detailed experimental analysis is reported. In addition, the theoretical properties developed in this paper help to devise efficient techniques to compute the spatial skyline over uncertain data for a set of users. Our extensive experiments show that the proposed algorithms provide quick initial  response time .",
+    "citation_count": "7",
+    "year": "2018/10/01",
+    "authors": [
+        {
+            "name": "Sayda Elmi",
+            "country": ""
+        },
+        {
+            "name": "Jun-Ki Min",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

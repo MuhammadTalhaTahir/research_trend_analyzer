@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885620300548",
+    "title": "A contextual conditional random field network for monocular depth estimation",
+    "abstract": "Monocular depth estimation plays a crucial role in understanding  3D scene  geometry and is a challenging  computer vision task . Recently,  deep convolutional neural networks  have been applied to solve this problem. However, existing methods either directly exploiting RGB pixels which can introduce much noise into the depth map or utilizing over smoothed internal representation features which can cause blur in the depth map. In this paper, we propose a contextual CRF network (CCN) to tackle these issues. The new CCN adopts the popular encoder-decoder architecture with a new contextual CRF module (CCM) which is guided by the depth features and regularizes the information flow from the encoder layer to the corresponding layer in the decoder, thus can reduce the mismatch between the RGB pixel and the depth map cue while at the same time retain detail features to output a fine-grained depth map. Moreover, we propose a depth-guided loss function which pays a balanced attention to near and far pixels thus addressing the long-tailed distribution of depth information. We have conducted extensive experiments on three public datasets for monocular depth estimation. Results demonstrate that our proposed CCN achieves superior performances in terms of visual quality and competitive quantitative results when compared with state-of-the-art methods.",
+    "citation_count": "6",
+    "year": "2020/06/01",
+    "authors": [
+        {
+            "name": "Jun Liu",
+            "country": ""
+        },
+        {
+            "name": "Qing Li",
+            "country": ""
+        },
+        {
+            "name": "Rui Cao",
+            "country": ""
+        },
+        {
+            "name": "Wenming Tang",
+            "country": ""
+        },
+        {
+            "name": "Guoping Qiu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959522000984",
+    "title": "Prevention of smombie accidents using deep learning-based object detection",
+    "abstract": "With the growing popularity of smartphones, there has been an increase in the number of accidents involving users walking on stairs or crosswalks while using smartphones. Warning signs and images have been placed around dangerous locations in certain areas. However, this has not been significantly effective in reducing similar incidents. We propose a deep learning method based on object detection using a smartphone. Users are notified of impending detection risks on their smartphone’s screen. Tests demonstrated that our approach could detect stairs and crosswalks with high accuracy (96.7%). The proposed smartphone application includes deep learning network information, hyper-parameter information, and user-experience. Thus, users viewing their smartphone screens while walking can use the proposed solution to prevent accidents. As our knowledge, this is the first approach in the world to warn an imminent danger for smombies using a deep learning-based method.",
+    "citation_count": "0",
+    "year": "2022/12/01",
+    "authors": [
+        {
+            "name": "Hyun-Seok Kim",
+            "country": ""
+        },
+        {
+            "name": "Geon-Hwan Kim",
+            "country": ""
+        },
+        {
+            "name": "You-Ze Cho",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

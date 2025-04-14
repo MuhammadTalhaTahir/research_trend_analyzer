@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-018-0249-y",
+    "title": "Edge-disjoint spanning trees and the number of maximum state circles of a graph",
+    "abstract": "Motivated by the connection with the genus of unoriented alternating links, Jin et al. (Acta Math Appl Sin Engl Ser, 2015) introduced the number of maximum state circles of a plane graph G, denoted by $$s_{\\max }(G)$$ , and proved that $$s_{\\max }(G)=\\max \\{e(H)+2c(H)-v(H)|$$ H is a spanning subgraph of $$G\\}$$ , where e(H),&nbsp;c(H) and v(H) denote the size, the number of connected components and the order of H, respectively. In this paper, we show that for any (not necessarily planar) graph G, $$s_{\\max }(G)$$ can be achieved by the spanning subgraph H of G whose each connected component is a maximal subgraph of G with two edge-disjoint spanning trees. Such a spanning subgraph is proved to be unique and we present a polynomial-time algorithm to find such a spanning subgraph for any graph G.",
+    "citation_count": 22,
+    "year": "2018/05",
+    "authors": [
+        {
+            "name": "Ma, Xiaoli",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Wu, Baoyindureng",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Jin, Xian’an",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

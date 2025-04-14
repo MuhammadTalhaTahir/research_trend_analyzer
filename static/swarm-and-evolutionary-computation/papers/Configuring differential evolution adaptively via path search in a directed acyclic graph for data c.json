@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650219304249",
+    "title": "Configuring differential evolution adaptively via path search in a directed acyclic graph for data clustering",
+    "abstract": "As an efficient  data mining  technique,  data clustering  has been widely-used for data analysis and extracting valuable hidden information. Leveraging the simplicity and effectiveness, the evolutionary optimization-driven  clustering algorithms  have exhibited promising performance and attracted tremendous attention. Up to the present, how to enable these algorithms to escape from  local optima  and accelerate convergence rates is an ongoing challenge. In this paper, we propose a novel adaptive Differential Evolution (DE) variant to deal with the above challenge when clustering data. In the improved  DE algorithm , the four interdependent components, including mutation strategy, crossover strategy,  scaling factor  value, and crossover rate, are adaptively configured in an integrated manner via  ant colony optimization  (ACO) during the problem-solving process. To be specific, the relationships of four components in the DE algorithm are modeled as a directed acyclic graph, and a path in the graph exactly corresponds to a configuration for DE. During the optimization process,  ant colony  optimization is employed to search for a reasonable path for each individual of DE in terms of pheromones on arcs. In this manner, the configuration of the four interdependent components of DE will be generated dynamically, which is then used to guide the successive  search behaviors  of individuals in DE. Each individual has a path, representing a configuration for each component. After each iteration, individuals that generate promising solutions are allowed to deposit pheromone on the paths, resulting in more pheromones on the arcs appearing in better algorithm configurations (paths) more frequently. Through this manner, the search strategies and parameters of DE are comprehensively adapted by ACO. The proposed algorithm is named ACODE for short. To verify its effectiveness, the proposed ACODE is compared with four representative data  clustering algorithms  on eight widely-used benchmark datasets. The experimental results demonstrate the advantages of ACODE over half of the datasets.",
+    "citation_count": "15",
+    "year": "2020/06/01",
+    "authors": [
+        {
+            "name": "Guohua Wu",
+            "country": ""
+        },
+        {
+            "name": "Wuxuan Peng",
+            "country": ""
+        },
+        {
+            "name": "Xingchen Hu",
+            "country": ""
+        },
+        {
+            "name": "Rui Wang",
+            "country": ""
+        },
+        {
+            "name": "Huangke Chen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

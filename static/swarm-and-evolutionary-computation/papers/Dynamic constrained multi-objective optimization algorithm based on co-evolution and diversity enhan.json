@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224001779",
+    "title": "Dynamic constrained multi-objective optimization algorithm based on co-evolution and diversity enhancement",
+    "abstract": "Dynamic constrained multi-objective optimization problems (DCMOPs) involve objectives, constraints, and parameters that change over time. This kind of problem presents a greater challenge for evolutionary algorithms because it requires the population to quickly track the changing pareto-optimal set (PS) under constrained conditions while maintaining the feasibility and good distribution of the population. To address these challenges, this paper proposes a dynamic constrained multi-objective optimization algorithm based on co-evolution and diversity enhancement (CEDE), in which we have made improvements to both the static optimization and dynamic response parts, innovatively utilizing the valuable information latent in the optimization process to help the population evolve more comprehensively. The static optimization involves the co-evolution of three populations, through which their mutual synergy can more comprehensively identify potential true PS and provide more useful historical information for dynamic response. Additionally, to prevent the elimination of potentially valuable infeasible individuals (i.e., individuals that are not dominated by feasible individuals) due to pareto domination, we employ an archive set to store and update these individuals. When the environment changes, to effectively enhance population diversity under complex dynamic constraints and help the population to respond quickly to changes, we propose a diversity enhancement strategy, which includes a diversity maintenance strategy and a center point-based exploration strategy. This strategy effectively enhances population diversity in complex and changing environments, helping the population respond quickly to changes. The effectiveness of the algorithm is validated through two test sets. The experimental results show that CEDE can effectively use valuable information to cope with complex dynamic constraint environments. Compared with several of the most advanced algorithms, it is superior in 94% of the test problems, demonstrating strong competitiveness in handling DCMOPs.",
+    "citation_count": "3",
+    "year": "2024/08/01",
+    "authors": [
+        {
+            "name": "Wang Che",
+            "country": ""
+        },
+        {
+            "name": "Jinhua Zheng",
+            "country": ""
+        },
+        {
+            "name": "Yaru Hu",
+            "country": ""
+        },
+        {
+            "name": "Juan Zou",
+            "country": ""
+        },
+        {
+            "name": "Shengxiang Yang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

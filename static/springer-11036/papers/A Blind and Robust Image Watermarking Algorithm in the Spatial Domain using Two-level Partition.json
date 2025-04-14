@@ -1,0 +1,31 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-024-02384-y",
+    "title": "A Blind and Robust Image Watermarking Algorithm in the Spatial Domain using Two-level Partition",
+    "abstract": "To improve the performance of the blind image watermarking technique, a novel blind and robust image watermarking scheme in the spatial-domain by applying a two-level partition is proposed in this work. Specifically, the host image is firstly partitioned into non-overlapping 4 × 4 sub-blocks, and the standard deviations of all sub-blocks are computed in the meanwhile. Then, the sub-blocks with lower standard deviation are selected, and each selected block is partitioned into four non-overlapping 2 × 2 sub-blocks. Thereafter, the direct current coefficients of three 2 × 2 sub-blocks (i.e., top-left, top-right, and bottom-left sub-blocks) are computed in the spatial-domain without carrying out the two-dimensional discrete cosine transform. Lastly, utilizing the correlation principle between adjacent 2 × 2 sub-blocks, two bits of watermark are embedded into a 4 × 4 sub-block via adjusting the direct current coefficients of the three 2 × 2 sub-blocks. Experimental results show that the proposed image watermarking scheme is suitable for gray-scale and color images, and possesses a good performance in terms of invisibility and robustness. In particular, all peak signal noise ratios are greater than 42&nbsp;dB, all structural similarity index measures are more than 0.96, and the normalized correlations are greater than 0.85 under various attacks.",
+    "citation_count": 40,
+    "year": "2024/10",
+    "authors": [
+        {
+            "name": "Li, Liangjia",
+            "country": "China"
+        },
+        {
+            "name": "Luo, Yuling",
+            "country": "China"
+        },
+        {
+            "name": "Liu, Junxiu",
+            "country": "China"
+        },
+        {
+            "name": "Qiu, Senhui",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

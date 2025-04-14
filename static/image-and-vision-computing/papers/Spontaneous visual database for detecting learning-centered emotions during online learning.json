@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001130",
+    "title": "Spontaneous visual database for detecting learning-centered emotions during online learning",
+    "abstract": "Emotions significantly affect learning. The  affective states  of students can be automatically recognized through behavioral cues using  machine learning  and  deep learning techniques . The accuracy and robustness of the recognition results mainly depend on the quality of the database used. However, no databases developed from actual online learning scenarios currently exist to detect and analyze learning-centered emotions (academic emotions). To address this shortcoming, an emotional database was compiled in this study using the facial expressions and hand gestures of students. The nonverbal emotions and behaviors in this dataset are spontaneous because all images are from videos recorded during actual online  learning activities , leading to a robust learner emotion recognition model trained on these images that consider variates such as occlusion, illumination, background clutter, and pose. The database includes 1301 video clips and 21,632 images from 78 college students. The samples were labeled by both novice judges and researchers using six types of academic emotions (engaged, confused, frustrated, happy, sleepy, and neutral). To perform an elementary assessment of the database, an extensive analysis was conducted on it using state-of-the-art machine learning and  deep learning algorithms . The experimental results demonstrate that the improved convolutional  neural network  algorithm provides the best recognition performance, with an average accuracy of 79%. In particular, when recognizing happy expressions, the model achieves the best score, with a recognition rate of 94%. This study provides a foundation for  comparative studies  of affective analysis approaches in specific online learning scenarios and enables these methods to be generalized in the educational field.",
+    "citation_count": "10",
+    "year": "2023/08/01",
+    "authors": [
+        {
+            "name": "Yaping Xu",
+            "country": ""
+        },
+        {
+            "name": "Yanyan Li",
+            "country": ""
+        },
+        {
+            "name": "Yunshan Chen",
+            "country": ""
+        },
+        {
+            "name": "Haogang Bao",
+            "country": ""
+        },
+        {
+            "name": "Yaqian Zheng",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

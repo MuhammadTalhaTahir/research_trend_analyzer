@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-009-9229-6",
+    "title": "Node-weighted Steiner tree approximation in unit disk graphs",
+    "abstract": "Given a graph G=(V,E) with node weight w:V→R + and a subset S⊆V, find a minimum total weight tree interconnecting all nodes in&nbsp;S. This is the node-weighted Steiner tree problem which will be studied in this paper. In general, this problem is NP-hard and cannot be approximated by a polynomial time algorithm with performance ratio aln n for any 0",
+    "citation_count": 18,
+    "year": "2009/11",
+    "authors": [
+        {
+            "name": "Zou, Feng",
+            "country": "USA"
+        },
+        {
+            "name": "Li, Xianyue",
+            "country": "China"
+        },
+        {
+            "name": "Gao, Suogang",
+            "country": "China"
+        },
+        {
+            "name": "Wu, Weili",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

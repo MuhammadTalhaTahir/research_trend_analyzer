@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650212000818",
+    "title": "Comprehensive preference optimization of an irreversible thermal engine using pareto based mutable smart bee algorithm and generalized regression neural network",
+    "abstract": "Optimizing and controlling of complex engineering systems is a phenomenon that has attracted an incremental interest of numerous scientists. Until now, a variety of intelligent optimizing and controlling techniques such as neural networks, fuzzy logic,  game theory ,  support vector machines  and stochastic algorithms were proposed to facilitate controlling of the engineering systems. In this study, an extended version of mutable smart bee algorithm (MSBA) called Pareto based mutable smart bee (PBMSB) is inspired to cope with multi-objective problems. Besides, a set of benchmark problems and four well-known Pareto based optimizing algorithms i.e. multi-objective bee algorithm (MOBA), multi-objective  particle swarm optimization  (MOPSO) algorithm, non-dominated sorting  genetic algorithm  (NSGA-II), and  strength  Pareto evolutionary algorithm (SPEA 2) are utilized to confirm the acceptable performance of the proposed method. In order to find the maximum exploration potentials, these techniques are equipped with an external archive. These archives aid the methods to record all of the non-dominated solutions. Eventually, the proposed method and generalized regression  neural network  (GRNN) are simultaneously used to optimize the major parameters of an irreversible thermal engine. In order to direct the PBMSB to explore deliberate spaces within the solution domain, a  reference point  obtained from finite time thermodynamic (FTT) approach, is utilized in the optimization. The outcome results show the acceptable performance of the proposed method to optimize complex real-life engineering systems.",
+    "citation_count": "19",
+    "year": "2013/04/01",
+    "authors": [
+        {
+            "name": "Ahmad Mozaffari",
+            "country": ""
+        },
+        {
+            "name": "Mofid Gorji-Bandpy",
+            "country": ""
+        },
+        {
+            "name": "Pendar Samadian",
+            "country": ""
+        },
+        {
+            "name": "Rouzbeh Rastgar",
+            "country": ""
+        },
+        {
+            "name": "Alireza Rezania Kolaei",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

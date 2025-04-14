@@ -1,0 +1,37 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-017-0237-7",
+    "title": "The mixed evacuation problem",
+    "abstract": "A dynamic network introduced by Ford and Fulkerson is a directed graph with capacities and transit times on its arcs. The quickest transshipment problem is one of the most fundamental problems in dynamic networks. In this problem, we are given sources and sinks. Then the goal of this problem is to find a minimum time limit such that we can send the right amount of flow from sources to sinks. In this paper, we introduce a variant of this problem called the mixed evacuation problem. This problem models an emergent situation in which people can evacuate on foot or by car. The goal is to organize such a mixed evacuation so that an efficient evacuation can be achieved. In this paper, we study this problem from the theoretical and practical viewpoints. In the first part, we prove the polynomial-time solvability of this problem in the case where the number of sources and sinks is not large, and also prove the polynomial-time solvability and computational hardness of its variants with integer constraints. In the second part, we apply our model to the case study of Minabe town in Wakayama prefecture, Japan.",
+    "citation_count": 18,
+    "year": "2018/11",
+    "authors": [
+        {
+            "name": "Hanawa, Yosuke",
+            "country": "Japan"
+        },
+        {
+            "name": "Higashikawa, Yuya",
+            "country": "Japan"
+        },
+        {
+            "name": "Kamiyama, Naoyuki",
+            "country": "Japan"
+        },
+        {
+            "name": "Katoh, Naoki",
+            "country": "Japan"
+        },
+        {
+            "name": "Takizawa, Atsushi",
+            "country": "Japan"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

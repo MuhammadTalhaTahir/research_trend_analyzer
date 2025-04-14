@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S026288562100247X",
+    "title": "Facial expression recognition using densely connected convolutional neural network and hierarchical spatial attention",
+    "abstract": "This paper is dedicated to eliminating the impact of redundant information from emotional-unrelated regions on facial expression recognition (FER). To this end, a densely connected convolutional neural network with hierarchical spatial attention is proposed. Specifically, it can adaptively locate salient regions and focus on the emotional related features so that the facial expressions can be represented more efficiently. This superior performance is also verified by some experiments. Experimental results reveal that the proposed method can distinguish facial expression more accurately than existing state-of-the-art methods.",
+    "citation_count": "24",
+    "year": "2022/01/01",
+    "authors": [
+        {
+            "name": "Chenquan Gan",
+            "country": ""
+        },
+        {
+            "name": "Junhao Xiao",
+            "country": ""
+        },
+        {
+            "name": "Zhangyi Wang",
+            "country": ""
+        },
+        {
+            "name": "Zufan Zhang",
+            "country": ""
+        },
+        {
+            "name": "Qingyi Zhu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

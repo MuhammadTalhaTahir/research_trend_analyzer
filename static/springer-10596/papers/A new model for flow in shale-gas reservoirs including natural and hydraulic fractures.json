@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-017-9665-9",
+    "title": "A new model for flow in shale-gas reservoirs including natural and hydraulic fractures",
+    "abstract": "In this work, we construct a new coupled Multiscale/Discrete Fracture Model for compressible flow in a multiporosity shale gas reservoir containing networks of natural and hydraulic fractures. The geological formation is characterized by four distinct length scales and levels of porosity. The window of observation of the finest (nanoscale) portraits the nanopores within organic matter containing adsorbed gas. At the microscale, the medium is formed by two solid phases: organic, composed by kerogen aggregates, and inorganic (clay, quartz, calcite). Such phases are separated by the network of partially-saturated interparticle pores where microscopic free gas flow influenced by Knudsen effects along with gas diffusion in the immobile water phase occur simultaneously. The upscaling of the local flow to the mesoscale gives rise to a nonlinear homogenized pressure equation in the shale matrix which lies adjacent to the system of natural fractures. Homogenization of the coupled matrix/preexisting fractures to the macroscale leads to a microstructural model of dual porosity type. Such homogenized model is subsequently coupled with the hydrodynamics in the network of induced fractures which, in the context of the discrete fracture modeling, are treated as (n − 1), (n = 2, 3) lower dimensional objects. In order to handle numerically the nonlinear interaction between the different flow equations, we adopt a superposition argument, firstly proposed by Arbogast (1996), in each iteration of a fixed-point algorithm. The resultant governing equations are discretized by the finite element method and numerical simulations of gas production in stratified arrangements of the fracture networks are presented to illustrate the potential of the multiscale approach.",
+    "citation_count": 35,
+    "year": "2017/12",
+    "authors": [
+        {
+            "name": "Rocha, Aline C.",
+            "country": "Brazil"
+        },
+        {
+            "name": "Murad, Marcio A.",
+            "country": "Brazil"
+        },
+        {
+            "name": "Le, Tien D.",
+            "country": "France"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

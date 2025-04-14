@@ -1,0 +1,19 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-014-0552-5",
+    "title": "A Universal IP Mobility Framework with Compulsory Route Optimization for MIPv6 and PMIPv6 Coexistence",
+    "abstract": "With the almost ubiquitous availability of wireless networks and the increasing communication capabilities of portable devices, the prediction that most IP-based mobile nodes are constantly connected to the wireless networks is fast becoming a reality, Hence, providing mobility support in IP networks has been a long-standing challenge. Although various proposals tried to tackle the Route Optimization (RO) problem, none of them has achieved a satisfactory success. Furthermore, most of them are not a comprehensive solution for coexisting MIPv6 and PMIPv6 mobility environments. In this paper, we focus on challenges to support both MIPv6 and PMIPv6 coexistence from the same wireless access network. This means wireless access network need to support both mechanisms and interaction between them. We first propose a universal IP mobility framework based on a mobility protocol selection method, which takes into account the mobility capabilities of mobile nodes. This allows it to select the most suitable mobility supporting protocol between the MIPv6 and PMIPv6, which can significantly improve the convenience of wireless access network management. Subsequently, in order to reduce the signaling load and handoff latency, we propose a new scheme to reduce the signaling messages of MIPv6 route optimization for support across the MIPv6 and PMIPv6 mobility domains, which can significantly improve the overall performance of mobility management schemes, regardless the mobility environments in which the MNs reside. Simulation results show that proposed framework can improve the performance in terms of the route optimization latency, end-to-end latency, signaling cost, and throughput compared to original MIPv6 route optimization mechanism. Besides, the deployment complexity of both network entities and clients, are expected reduction.",
+    "citation_count": 26,
+    "year": "2014/12",
+    "authors": [
+        {
+            "name": "Jia, Wen-Kang",
+            "country": "Taiwan"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

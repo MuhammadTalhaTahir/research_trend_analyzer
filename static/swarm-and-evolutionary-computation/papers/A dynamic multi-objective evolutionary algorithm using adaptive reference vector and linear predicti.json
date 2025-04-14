@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S221065022300055X",
+    "title": "A dynamic multi-objective evolutionary algorithm using adaptive reference vector and linear prediction",
+    "abstract": "Responding to environmental changes quickly is a very key component in solving dynamic multi-objective optimization problems (DMOPs). Most existing methods perform well on predicting individuals, but exist some difficulties in improving the accuracy of the predicted population. This paper proposes an approach that predicting the population based on the adjusted reference vector (RVCP) combined with a multi-objective  evolutionary algorithm  to solve DMOPs. First, the nondominated set is predicted by a linear prediction strategy, which can relocate elite solutions to track the true  Pareto set  (POS) in the new environment. Second, an adaptive reference-vector-based adjustment strategy is introduced based on the number of  nondominated solutions . Then the population in the new environmention is predicted in terms of the adjusted reference vectors, which can track the POS and/or the true  Pareto front  (POF) more accurately. Finally, a noise-based individual expansion strategy is applied, which can generate variation individuals to keep the population in good diversity. To prove the effectiveness of  RVCP , it is compared with five popular dynamic multi-objective evolutionary algorithms (DMOEAs) on twelve test instances with different dynamic characteristics. The experimental results show that RVCP has certain advantages in dealing with DMOPs.",
+    "citation_count": "10",
+    "year": "2023/04/01",
+    "authors": [
+        {
+            "name": "Jinhua Zheng",
+            "country": ""
+        },
+        {
+            "name": "Qishuang Wu",
+            "country": ""
+        },
+        {
+            "name": "Juan Zou",
+            "country": ""
+        },
+        {
+            "name": "Shengxiang Yang",
+            "country": ""
+        },
+        {
+            "name": "Yaru Hu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

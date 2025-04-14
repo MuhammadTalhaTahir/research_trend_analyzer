@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624000131",
+    "title": "A novel approach for breast cancer detection using optimized ensemble learning framework and XAI",
+    "abstract": "Breast cancer (BC) is a common and highly lethal ailment. It stands as the second leading contributor to cancer-related deaths in women worldwide. The timely identification of this condition is of  utmost importance  in mitigating  mortality rates . This research paper presents a novel framework for the precise identification of BC, utilising a combination of image and  numerical data  features with explainable Artificial Intelligence (XAI). The utilisation of the U-NET  transfer learning  model is employed for image-based prediction. Additionally, an ensemble model is constructed by integrating characteristics from a customised  convolutional neural network  (CNN) model with an ensemble comprising  random forest  (RF) and  support vector machine  (SVM). The experiments aim to evaluate the influence of original features compared to convoluted features. A comparative analysis is carried out to assess the efficacy of various classifiers in accurately detecting BC, utilising the Wisconsin dataset. The model under consideration exhibits promising capabilities in enhancing BC diagnosis, with a remarkable accuracy rate of 99.99%. The present study contributes to the advancement of BC diagnosis by introducing a novel strategy based on  machine learning  and discussing the interpretation of the variables using XAI. The  primary objective  of this approach is to get a notable level of precision, hence facilitating the early and reliable identification of BC. Ultimately, the implementation of this approach is expected to enhance patient outcomes.",
+    "citation_count": "22",
+    "year": "2024/02/01",
+    "authors": [
+        {
+            "name": "Raafat M. Munshi",
+            "country": ""
+        },
+        {
+            "name": "Lucia Cascone",
+            "country": ""
+        },
+        {
+            "name": "Nazik Alturki",
+            "country": ""
+        },
+        {
+            "name": "Oumaima Saidani",
+            "country": ""
+        },
+        {
+            "name": "Amal Alshardan",
+            "country": ""
+        },
+        {
+            "name": "Muhammad Umer",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-022-02028-z",
+    "title": "Remote Sports Injury Monitoring using Wireless Sensor Networks",
+    "abstract": "When remote sports injuries are traditionally monitored, the feedback is not timely, and there are some problems such as low running speed and poor accuracy of sports injury monitoring. Therefore, this paper designs a remote sports injury monitoring method based on a wireless sensor network. Firstly, the terminal node of the sports injury monitoring process is designed, and three-terminal devices are tied to the experimental object's body to collect motion information, to realize the collection of human motion information based on ZigBee wireless sensor network; Secondly, the USB module circuit interface is designed to realize the series connection of each line, and the local processing ability of network nodes is used to make a centralized decision. Then, the skeleton coordinate system is constructed, and the rotation of the human skeleton is measured by an inertial sensor. Through a variety of posture fitting, the error of remote sports injury monitoring is reduced from the two directions of joint error and muscle error. Finally, the training sample set is learned through the BP algorithm, the fitness function of the genetic algorithm is obtained, the external structural parameters of the adaptive neural network model are adjusted, the discrimination deviation and fitness function are calculated, the adaptive neural network model with the best generalization ability is output, and the local processing ability of remote sports injury monitoring method is improved combined with wireless sensor network technology, The design of remote sports injury monitoring method based on wireless sensor network is realized. The experimental results show that the accuracy of the method is 99%, the average time delay is 1&nbsp;s, and the accuracy of the method is 92% even with noise. Therefore, the method can effectively improve the running speed of the remote sports injury monitoring method and improve the accuracy of sports injury monitoring.",
+    "citation_count": 20,
+    "year": "2023/12",
+    "authors": [
+        {
+            "name": "Song, Ying",
+            "country": "China"
+        },
+        {
+            "name": "Srivastava, Gautam",
+            "country": "Canada"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

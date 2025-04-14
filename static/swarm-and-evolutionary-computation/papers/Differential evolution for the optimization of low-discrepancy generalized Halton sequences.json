@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650219302688",
+    "title": "Differential evolution for the optimization of low-discrepancy generalized Halton sequences",
+    "abstract": "Halton sequences are  d –dimensional quasirandom sequences that fill the  d –dimensional hyperspace in a uniform way. They can be used in a variety of applications such as multidimensional integration, uniform sampling, and, e.g., quasi–Monte Carlo simulations. Generalized Halton sequences improve the space–filling properties of original Halton sequences in higher dimensions by digit scrambling. In this work, an evolutionary optimization algorithm, the differential evolution, is used to optimize scrambling permutations of a  d –dimensional generalized Halton sequence so that the discrepancy of the generated point set is minimized.",
+    "citation_count": "18",
+    "year": "2020/05/01",
+    "authors": [
+        {
+            "name": "P. Krömer",
+            "country": ""
+        },
+        {
+            "name": "J. Platoš",
+            "country": ""
+        },
+        {
+            "name": "V. Snášel",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}
