@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-023-01064-z",
+    "title": "An online joint replenishment problem combined with single machine scheduling",
+    "abstract": "This paper considers a combination of the joint replenishment problem with single machine scheduling. There is a single resource, which is required by all the unit-time jobs, and a job can be started at time point t on the machine if and only if the machine does not process another job at t, and the resource is replenished between its release date and t. Each replenishment has a cost, which is independent of the amount replenished. The objective is to minimize the total replenishment cost plus the maximum flow time of the jobs. We consider the online variant of the problem, where the jobs are released over time, and once a job is inserted into the schedule, its starting time cannot be changed. We propose a deterministic 2-competitive online algorithm for the general input. Moreover, we show that for a certain class of inputs (so-called p-bounded input), the competitive ratio of the algorithm tends to $$\\sqrt{2}$$ as the number of jobs tends to infinity. We also derive several lower bounds for the best competitive ratio of any deterministic online algorithm under various assumptions.",
+    "citation_count": 10,
+    "year": "2023/07",
+    "authors": [
+        {
+            "name": "Györgyi, Péter",
+            "country": "Hungary"
+        },
+        {
+            "name": "Kis, Tamás",
+            "country": "Hungary"
+        },
+        {
+            "name": "Tamási, Tímea",
+            "country": "Hungary"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

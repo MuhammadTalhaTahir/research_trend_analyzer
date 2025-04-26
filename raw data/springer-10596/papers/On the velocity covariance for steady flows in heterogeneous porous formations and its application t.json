@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-005-9005-3",
+    "title": "On the velocity covariance for steady flows in heterogeneous porous formations and its application to contaminants transport",
+    "abstract": "We consider groundwater steady flow in a heterogeneous porous formation of random and stationary log-conductivity Y = ln K, characterized by the mean 〈Y〉, and the two point correlation function C Y which in turn has finite, and different horizontal and vertical integral scales I and I v , respectively. The fluid velocity V, driven by a given head drop applied at the boundary, has constant mean value U ≡ (U, 0, 0). Approximate explicit analytical expressions for transverse velocity covariances are derived. The adopted methodology follows the approach developed by Dagan and Cvetkovic (Spatial moments of kinetically sorbing plume in a heterogeneous aquifers, Water Resour. Res. 29 (1993) 4053) to obtain a similar result for the longitudinal velocity covariance. Indeed, the approximate covariances of transverse velocities are determined by requiring that they have the exact first order variances as well as zero integral scale (G. Dagan, Flow and Transport in Porous Formations (Springer, 1989)) , and provide the exact asymptotic limits of the displacement covariance of the fluid particles obtained by Russo (On the velocity covariance and transport modeling in heterogeneous anisotropic porous formations 1. Saturated flow, Water Resour. Res., 31 (1995) 129). Comparisons with numerical results show that the proposed expressions compare quite well in the early time regime, and for Ut/I &gt;100. Since most of the applications, like assessing the effective mobility of contaminants or quantifying the potential hazards of nuclear repositories, require predictions over higher times the proposed approximate expressions provide acceptable results. The main advantage related to such expressions is that they allow obtaining closed analytical forms of spatial moments pertaining to kinetically sorbing contaminant plumes avoiding the very heavy computational effort which is generally demanded. For illustration purposes, we consider the movement of one contaminant species, and show how our approximate spatial moments compare with the numerical simulations.",
+    "citation_count": 37,
+    "year": "2005/12",
+    "authors": [
+        {
+            "name": "Severino, Gerardo",
+            "country": "Italy"
+        },
+        {
+            "name": "Cvetkovic, Vladimir",
+            "country": "Sweden"
+        },
+        {
+            "name": "Coppola, Antonio",
+            "country": "Italy"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

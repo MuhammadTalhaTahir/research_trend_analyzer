@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-016-0033-9",
+    "title": "Paired-domination number of claw-free odd-regular graphs",
+    "abstract": "A paired-dominating set of a graph G is a dominating set of vertices whose induced subgraph has a perfect matching, while the paired-domination number is the minimum cardinality of a paired-dominating set in the graph, denoted by $$\\gamma _{pr}(G)$$ . Let G be a connected $$\\{K_{1,3}, K_{4}-e\\}$$ -free cubic graph of order n. We show that $$\\gamma _{pr}(G)\\le \\frac{10n+6}{27}$$ if G is $$C_{4}$$ -free and that $$\\gamma _{pr}(G)\\le \\frac{n}{3}+\\frac{n+6}{9(\\lceil \\frac{3}{4}(g_o+1)\\rceil +1)}$$ if G is $$\\{C_{4}, C_{6}, C_{10}, \\ldots , C_{2g_o}\\}$$ -free for an odd integer $$g_o\\ge 3$$ ; the extremal graphs are characterized; we also show that if G is a 2 -connected, $$\\gamma _{pr}(G) = \\frac{n}{3} $$ . Furthermore, if G is a connected $$(2k+1)$$ -regular $$\\{K_{1,3}, K_4-e\\}$$ -free graph of order n, then $$\\gamma _{pr}(G)\\le \\frac{n}{k+1} $$ , with equality if and only if $$G=L(F)$$ , where $$F\\cong K_{1, 2k+2}$$ , or k is even and $$F\\cong K_{k+1,k+2}$$ .",
+    "citation_count": 17,
+    "year": "2017/05",
+    "authors": [
+        {
+            "name": "Yang, Wei",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "An, Xinhui",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Wu, Baoyindureng",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

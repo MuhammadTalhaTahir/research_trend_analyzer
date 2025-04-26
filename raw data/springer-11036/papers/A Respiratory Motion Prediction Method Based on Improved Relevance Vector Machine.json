@@ -1,0 +1,31 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-020-01610-7",
+    "title": "A Respiratory Motion Prediction Method Based on Improved Relevance Vector Machine",
+    "abstract": "Thoracic and abdominal tumor radiotherapy calls for prediction to compensate the impact of respiratory movement on real-time tracking of the target. Amidst this backdrop, this paper proposes a method to improve relevance vector machine, which is able to first forecast the three dimensions of respiratory movement respectively in virtue of offline training. Then the output results will be sent into multi-task Gaussian process model simultaneously to correct prediction error with the correlation between three-dimensional data and dynamically updating the training set, thus eventually realizing 3D real-time prediction of respiratory movement. The experimental results indicate that compared with the traditional relevance vector machine, the reduction range of the root-mean-square error predicted with this method at intervals of 154&nbsp;ms and 308&nbsp;ms is 8.8% ~ 15.7%. The prediction accuracy has been significantly improved.",
+    "citation_count": 29,
+    "year": "2020/12",
+    "authors": [
+        {
+            "name": "Fan, Qi",
+            "country": "China"
+        },
+        {
+            "name": "Yu, Xiaoyang",
+            "country": "China"
+        },
+        {
+            "name": "Zhao, Yanqiao",
+            "country": "China"
+        },
+        {
+            "name": "Yu, Shuang",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

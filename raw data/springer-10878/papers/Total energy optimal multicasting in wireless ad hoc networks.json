@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-006-9033-5",
+    "title": "Total energy optimal multicasting in wireless ad hoc networks",
+    "abstract": "In this paper, we present our novel algorithm, SOR (Shrinking Overlapped Range), for the minimum energy multicasting in wireless ad hoc networks. The heuristics in the literature have not considered changing the intermediate tree structure and this may result in worse performance even after local improvements at the end. In SOR, we extensively change the intermediate tree structure to maintain tighter structure in terms of energy consumption. We do so by shrinking the overlapped transmission range following the idea of WMA (wireless multicast advantage) property and by allowing the selection of internal transmissions which further changes the tree structure. Both theoretical analysis and experimental results show SOR outperforms other heuristics in the literature.",
+    "citation_count": 16,
+    "year": "2007/05",
+    "authors": [
+        {
+            "name": "Min, Manki",
+            "country": "USA"
+        },
+        {
+            "name": "Pardalos, Panos M.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

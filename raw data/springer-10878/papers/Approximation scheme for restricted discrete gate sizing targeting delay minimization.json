@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-009-9267-0",
+    "title": "Approximation scheme for restricted discrete gate sizing targeting delay minimization",
+    "abstract": "Discrete gate sizing is a critical optimization in VLSI circuit design. Given a set of available gate sizes, discrete gate sizing problem asks to assign a size to each gate such that the delay of a combinational circuit is minimized while the cost constraint is satisfied. It is one of the most studied problems in VLSI computer-aided design. Despite this, all of the existing techniques are heuristics with no performance guarantee. This limits the understanding of the discrete gate sizing problem in theory. This paper designs the first fully polynomial time approximation scheme (FPTAS) for the delay driven discrete gate sizing problem. The proposed approximation scheme involves a level based dynamic programming algorithm which handles the specific structures of a discrete gate sizing problem and adopts an efficient oracle query procedure. It can approximate the optimal gate sizing solution within a factor of (1+ε) in O(n 1+c m 3c /ε c ) time for 0&lt;ε&lt;1 and in O(n 1+c m 3c ) time for ε≥1, where n is the number of gates, m is the maximum number of gate sizes for any gate, and c is the maximum number of gates per level. The FPTAS needs the assumption that c is a constant and thus it is an approximation algorithm for the restricted discrete gate sizing problem.",
+    "citation_count": 32,
+    "year": "2011/05",
+    "authors": [
+        {
+            "name": "Liao, Chen",
+            "country": "USA"
+        },
+        {
+            "name": "Hu, Shiyan",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

@@ -1,0 +1,66 @@
+[
+    {
+        "title": "Editorial Board",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122000261"
+    },
+    {
+        "title": "Efficient stereo matching on embedded GPUs with zero-means cross correlation",
+        "url": "https://www.sciencedirect.com/science/article/pii/S138376212100254X"
+    },
+    {
+        "title": "BUAKA-CS: Blockchain-enabled user authentication and key agreement scheme for crowdsourcing system",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002563"
+    },
+    {
+        "title": "Process variation aware DRAM-Cache resizing",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002538"
+    },
+    {
+        "title": "ID-CEPPA: Identity-based Computationally Efficient Privacy-Preserving Authentication scheme for vehicle-to-vehicle communications",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002654"
+    },
+    {
+        "title": "PSpSys: A time-predictable mixed-criticality system architecture based on ARM TrustZone",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002551"
+    },
+    {
+        "title": "MACFI: A multi-authority access control scheme with efficient ciphertext and secret key size for fog-enhanced IoT",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002393"
+    },
+    {
+        "title": "Complex event models for automotive embedded systems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002368"
+    },
+    {
+        "title": "Response time analysis of memory-bandwidth-regulated multiframe mixed-criticality systems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002381"
+    },
+    {
+        "title": "Autoware_Perf: A tracing and performance analysis framework for ROS 2 applications",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002344"
+    },
+    {
+        "title": "A cross-platform OpenVX library for FPGA accelerators",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002575"
+    },
+    {
+        "title": "Optimizing the EDP of OpenMP applications via concurrency throttling and frequency boosting",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002617"
+    },
+    {
+        "title": "TS-ABOS-CMS: time-bounded secure attribute-based online/offline signature with constant message size for IoT systems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002666"
+    },
+    {
+        "title": "IPDALight: Intensity- and phase duration-aware traffic signal control based on Reinforcement Learning",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002587"
+    },
+    {
+        "title": "Efficient Reservation-based Fault-Tolerant Scheduling for IEEE 802.1Qbv Time-Sensitive Networking",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002629"
+    },
+    {
+        "title": "A correct-by-construction AADL runtime for the Ravenscar profile using SPARK2014",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002599"
+    }
+]

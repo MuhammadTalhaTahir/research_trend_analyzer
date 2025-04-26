@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/0262885688900169",
+    "title": "Image registration by local approximation methods",
+    "abstract": "Image registration is approached as an approximation problem. Two locally sensitive transformation functions are proposed for image registration. These transformation functions are obtained by the weighted least-squares method and the local weighted mean method. The former is a global method and uses information about all control points to establish correspondence between local areas in the images; nearby control points are, however, given higher weights to make the process locally sensitive. The latter is a local method and uses information about local control points only to register local areas in the images.",
+    "citation_count": "243",
+    "year": "1988/11/01",
+    "authors": [
+        {
+            "name": "Ardeshir Goshtasby",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

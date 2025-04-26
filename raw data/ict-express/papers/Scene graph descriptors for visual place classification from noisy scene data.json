@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959522001618",
+    "title": "Scene graph descriptors for visual place classification from noisy scene data",
+    "abstract": "In visual robot place recognition (VPR), a scene graph is a rich scene model that can describe the complex contexts in a scene such as the relationships between various types of visual contents including appearance, space, and semantics. However, training an efficient scene graph classifier is not straightforward. Existing approaches typically rely on exhaustive matching between query and database graphs and are not scalable to large-size VPR problems. Our research is motivated by a recent development of the graph convolutional neural network (GCN) as an efficient and discriminative classifier for graph data, and it aims to explore the potential of the GCN as a scene graph classifier. However, unlike several existing GCN applications, no valid scene graph descriptor for a GCN classifier on noisy scene data exists. To address this issue, herein, we propose to train the GCN model in a teacher-to-student knowledge transfer scheme by employing an existing state-of-the-art single-view VPR system as the teacher model. The proposed approach is implemented within a practical VPR framework by combining the best of the following three independent fields: multimodal information retrieval, rank matching, and similarity-based pattern recognition. Experiments using the public NCLT dataset validate the effectiveness of the proposed approach.",
+    "citation_count": "0",
+    "year": "2023/12/01",
+    "authors": [
+        {
+            "name": "Tomoya Ohta",
+            "country": ""
+        },
+        {
+            "name": "Kanji Tanaka",
+            "country": ""
+        },
+        {
+            "name": "Ryogo Yamamoto",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

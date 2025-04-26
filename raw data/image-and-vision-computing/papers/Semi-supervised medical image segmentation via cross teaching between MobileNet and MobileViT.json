@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003019",
+    "title": "Semi-supervised medical image segmentation via cross teaching between MobileNet and MobileViT",
+    "abstract": "Recently, deep learning methods that use a combination of convolutional neural networks and Transformers have shown excellent results in both completely supervised and semi-supervised medical image segmentation tasks. This study provides a simple and effective framework for semi-supervised medical image segmentation by introducing cross teaching between MobileNet and MobileViT. Specifically, we built two different two-path parallel semantic segmentation networks with MobileNet and MobileViT as the main modules. Cross teaching between MobileNet and MobileViT was performed, in which the prediction of each network was used as a pseudo-label to supervise the training of other networks in a direct end-to-end manner. Finally, experiments on two common benchmark tests showed that the proposed framework was superior to six existing semi-supervised learning methods. This shows that our framework can effectively use unlabeled data to improve the performance and is superior to the latest semi-supervised segmentation method. Codes are available at:  github.com/yywbkn/MV2-cross-teaching-MobileViT .",
+    "citation_count": "0",
+    "year": "2024/10/01",
+    "authors": [
+        {
+            "name": "Yuan Yang",
+            "country": ""
+        },
+        {
+            "name": "Lin Zhang",
+            "country": ""
+        },
+        {
+            "name": "Lei Ren",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

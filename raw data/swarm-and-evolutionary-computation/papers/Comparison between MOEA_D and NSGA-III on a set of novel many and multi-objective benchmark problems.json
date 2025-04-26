@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218307016",
+    "title": "Comparison between MOEA/D and NSGA-III on a set of novel many and multi-objective benchmark problems with challenging difficulties",
+    "abstract": "Currently, evolutionary  multiobjective optimization  (EMO) algorithms have been successfully used to find a good approximation of many-objective optimization problems (MaOPs). To measure the performance of EMO algorithms, many benchmark multiobjective test problems have been constructed. Among them, DTLZ and WFG are two representative test suites with the scalability to the number of variables and objectives. It should be pointed out that MaOPs can be more challenging if they are involved with difficult problem features, such as objective scalability, complicated  Pareto set , bias, disconnection, or degeneracy. In this paper, a set of ten new test problems with above-mentioned difficulties are constructed. Some experimental results on these test problems found by two popular EMO algorithms, i.e., MOEA/D and NSGA-III, are reported and analyzed. Moreover, the performance of these two EMO algorithms with different  population sizes  on these test problems are also studied.",
+    "citation_count": "140",
+    "year": "2019/05/01",
+    "authors": [
+        {
+            "name": "Hui Li",
+            "country": ""
+        },
+        {
+            "name": "Kalyanmoy Deb",
+            "country": ""
+        },
+        {
+            "name": "Qingfu Zhang",
+            "country": ""
+        },
+        {
+            "name": "P.N. Suganthan",
+            "country": ""
+        },
+        {
+            "name": "Lei Chen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

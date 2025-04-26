@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650222000463",
+    "title": "A classification-assisted environmental selection strategy for multiobjective optimization",
+    "abstract": "Environmental selection of multiobjective evolutionary algorithms (MOEAs) is a key component that chooses promising solutions from a candidate set for later usage. Most environmental selection strategies choose solutions based on their function values. However, in real-world optimization problems, function evaluations can be time consuming. The necessity of a large number of function evaluations leads to the low efficiency of MOEAs. How to decrease the number of function evaluations is one of the main issues of MOEAs. The environmental selection can be regarded as a classification process. The selected solutions are the promising class, and the discarded solutions are the unpromising class. Based on this consideration, we propose a classification-assisted environmental selection (CAES) strategy in this paper to decrease the number of function evaluations in MOEAs. In the proposed method, solutions are divided into two classes. One is non-dominated solutions (i.e. promising class) and the other is dominated solutions (i.e. unpromising class). The classifier is built to classify the  offspring  solutions into these two classes. Only promising  offspring  are evaluated (unpromising ones are removed with no function evaluations). Therefore, the number of function evaluations is reduced. We integrate the proposed CAES strategy into six MOEAs. The effectiveness of the proposed CAES strategy is examined through computational experiments on various test suites and three real-world application problems. Our experimental results show that the proposed CAES strategy clearly reduces the number of function evaluations without severely degrading the search ability of the original MOEAs.",
+    "citation_count": "8",
+    "year": "2022/06/01",
+    "authors": [
+        {
+            "name": "Jinyuan Zhang",
+            "country": ""
+        },
+        {
+            "name": "Hisao Ishibuchi",
+            "country": ""
+        },
+        {
+            "name": "Linjun He",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

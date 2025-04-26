@@ -1,0 +1,38 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650220303631",
+    "title": "Optimization of Lennard-Jones clusters by particle swarm optimization with quasi-physical strategy",
+    "abstract": "The goal of Lennard-Jones (LJ) clusters optimization is to find the minimum value of the potential function of a cluster and thereby determine the stable configuration of the cluster. It is essentially a completely inseparable multimodal global optimization problem, and using the traditional  particle swarm  algorithm to solve it often results in local convergence, which means that the solution accuracy of the algorithm is not high. Thus, in this study, we develop a LJ algorithm using a  particle swarm optimization  (PSO) method and a physical approach to improve the solution accuracy. In this quasi-physical strategy (QPS), the particle swarm algorithm is used to simulate the real atomic structure and incorporates the  interatomic force  to construct a convergence model so that the algorithm performs well in both global and local space. The  potential energy functions  of a variety of LJ cluster systems are selected as test functions, and the improved PSO algorithm (QPS-PSO) is analyzed and compared with a competitive swarm optimizer, cooperative  coevolution  PSO, and differential-group cooperative coevolution, variable-length PSO for feature selection, heterogeneous comprehensive learning PSO, ensemble PSO and cooperative coevolution with differential optimization. The results show that the PSO algorithm for LJ clusters using the proposed QPS has noticeably superior solution accuracy, especially in high-dimensional spaces.",
+    "citation_count": "8",
+    "year": "2020/09/01",
+    "authors": [
+        {
+            "name": "Guizhen Mai",
+            "country": ""
+        },
+        {
+            "name": "Yinghan Hong",
+            "country": ""
+        },
+        {
+            "name": "Shen Fu",
+            "country": ""
+        },
+        {
+            "name": "Yingqing Lin",
+            "country": ""
+        },
+        {
+            "name": "Zhifeng Hao",
+            "country": ""
+        },
+        {
+            "name": "Han Huang",
+            "country": ""
+        },
+        {
+            "name": "Yuanhao Zhu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

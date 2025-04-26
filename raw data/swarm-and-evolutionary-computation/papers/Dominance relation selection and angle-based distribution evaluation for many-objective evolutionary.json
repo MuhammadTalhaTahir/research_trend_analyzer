@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224000488",
+    "title": "Dominance relation selection and angle-based distribution evaluation for many-objective evolutionary algorithm",
+    "abstract": "In many-objective optimization, most existing  evolutionary algorithms  struggle to effectively balance the convergence and diversity of population. Given the failure of Pareto-dominance-based selection mechanism in high-dimensional spaces and the growing recognition of the advantages of angle-based similarity evaluation, we propose a Many-objective Evolutionary Algorithm using Dominance Relation Selection and Angle-based Distribution Evaluation (DSAE). Firstly, based on both traditional Pareto dominance and a newly proposed Angle-dominance with higher selection pressure, a Dominance Relation Selection (DRS) strategy is designed, which dynamically adjusts the selection pressure by assessing the overall proximity between parent and  offspring  populations. Then, an Angle-based Distribution Evaluation is proposed to determine the distribution levels of solutions, so as to adaptively maintain promising distribution performance of population in objective space. Furthermore, a Pareto-dominance-based global optimal solution set is introduced to save solutions with the best diversity throughout the iteration as the final output. Finally,  DSAE  is compared with 7 state-of-the-art algorithms by using benchmark test suites DTLZ and WFG with 5, 8 and 10 objectives, and the experimental results demonstrate that  DSAE  has the most advanced performance.",
+    "citation_count": "7",
+    "year": "2024/04/01",
+    "authors": [
+        {
+            "name": "Shengqing Zhou",
+            "country": ""
+        },
+        {
+            "name": "Yiru Dai",
+            "country": ""
+        },
+        {
+            "name": "Zihao Chen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

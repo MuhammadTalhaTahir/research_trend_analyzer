@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217301104",
+    "title": "An efficient side lobe reduction technique considering mutual coupling effect in linear array antenna using BAT algorithm",
+    "abstract": "This paper presents an investigation of mutual coupling effect among the array elements in a symmetric linear  array antenna  with the aim of reducing the  side lobe  level and the null control for the radiation pattern synthesis using BAT Algorithm.  PSO  and DE optimization techniques are also adopted for the sake of comparison and to prove the superiority of BAT algorithm based design. Reduced side lobe level and null control, with and without considering the mutual coupling effect in the  cost function  have been achieved by an optimum perturbation of the array elements' current excitation amplitude weights and the inter-element spacing among the array elements. The results are also compared with those of a uniform reference array having equal number of elements with  λ 2  inter-element spacing. The approach proposed in this paper is a generic one and can be easily applied to any type of symmetrical linear arrays having any number of elements. Five different design examples are presented and their performances are studied to illustrate the capability of BAT algorithm based approach over those of PSO and DE.",
+    "citation_count": "34",
+    "year": "2017/08/01",
+    "authors": [
+        {
+            "name": "Avishek Das",
+            "country": ""
+        },
+        {
+            "name": "D. Mandal",
+            "country": ""
+        },
+        {
+            "name": "S.P. Ghoshal",
+            "country": ""
+        },
+        {
+            "name": "R. Kar",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

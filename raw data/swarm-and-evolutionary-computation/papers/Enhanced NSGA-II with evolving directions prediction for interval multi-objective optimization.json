@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218302670",
+    "title": "Enhanced NSGA-II with evolving directions prediction for interval multi-objective optimization",
+    "abstract": "Multi-objective  evolutionary algorithms  are powerful for solving multi-objective problems with interval parameters when the comparisons on the interval objectives and evolutionary strategies are effective. We here present an improved NSGA-II by predicting evolving directions from the perspective of taking full advantage of the evolutionary knowledge to enhance the performance of intervals comparison and  evolutionary operators . A novel neighboring dominance metric is first defined for selecting individuals to discover the evolutionary paths and directions. The evolving directions are captured and described by constructing  directed graphs  based on the selected solutions, and the similar  PSO  principle is developed to achieve the prediction of the potential searching directions. The possible outstanding solutions are generated along the predicted paths and further used to improve the evolutionary operators to obtain more competitive candidates. The proposed algorithm is applied to some  benchmark functions  with interval parameters, and the experimental results demonstrate that our algorithm outperforms the compared algorithms in good convergence and smaller uncertainty with acceptable computational cost.",
+    "citation_count": "29",
+    "year": "2019/09/01",
+    "authors": [
+        {
+            "name": "Xiaoyan Sun",
+            "country": ""
+        },
+        {
+            "name": "Lin Zhao",
+            "country": ""
+        },
+        {
+            "name": "Pengfei Zhang",
+            "country": ""
+        },
+        {
+            "name": "Lin Bao",
+            "country": ""
+        },
+        {
+            "name": "Yang Chen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

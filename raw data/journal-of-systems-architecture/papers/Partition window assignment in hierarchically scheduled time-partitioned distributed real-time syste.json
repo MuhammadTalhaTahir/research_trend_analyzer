@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001825",
+    "title": "Partition window assignment in hierarchically scheduled time-partitioned distributed real-time systems with multipath flows",
+    "abstract": "Time and space partitioning techniques are implemented in the development of safety-critical applications to ensure isolation among components. A suitable arrangement of the execution of such partitions is a key challenge so that applications meet the timing requirements imposed to software. In this work, the effect of window sizes and context switch overheads in the partition window configuration is studied, with the aim of analyzing their impact when the response-time analysis and priority assignment techniques are applied. Then, a heuristic algorithm is proposed, in order to obtain a partition window configuration that enables the schedulability of partition-based safety critical systems. This algorithm is evaluated in synthetic test scenarios and it is also applied to a safety-critical use-case in the railway domain.",
+    "citation_count": "0",
+    "year": "2022/09/01",
+    "authors": [
+        {
+            "name": "Andoni Amurrio",
+            "country": ""
+        },
+        {
+            "name": "J. Javier Gutiérrez",
+            "country": ""
+        },
+        {
+            "name": "Mario Aldea",
+            "country": ""
+        },
+        {
+            "name": "Ekain Azketa",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

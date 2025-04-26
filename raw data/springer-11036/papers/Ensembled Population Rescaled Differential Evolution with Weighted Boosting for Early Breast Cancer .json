@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-019-01383-8",
+    "title": "Ensembled Population Rescaled Differential Evolution with Weighted Boosting for Early Breast Cancer Detection",
+    "abstract": "One of the most customary cancers amid women is breast cancer. Early detection of breast cancer assists in increase of survival rate. Optimal Region of Interest (ROI) extraction with ensemble classifiers directly influences diagnosis result. In this work, an ensemble classifier method called Population Rescaled Differential Evolution with Weighted Boosting (PRDE-WB) is presented. To start with, a novel ROI extraction technique depends on Logarithmic Cube-root Shift with Population Rescaled Differential Evolution Optimization is presented. Next, an Ensemble Classifier technique using Weighted Boosting is employed to improve the classification performance in turn paving way for early breast cancer detection. This method includes three main sections. The Region of Interest (ROI) is cropped according to Logarithmic Cube-root Shift Pre-processing the infra red images from breast thermal image dataset. Then ROIs are subjected to optimization technique using Population Rescaled Differential Evolution (PRDE) that obtains essential features for classification between benign and malignant masses. Finally, an ensemble classification technique using the results of the PRDE is combined with Weighted Boosting for early breast cancer detection. Numerical experiments and comparisons on a set of well-known state-of-the-art methods indicates that the PRDE-WB method outperforms and is superior to other existing methods in terms of Peak Signal-to Noise Ratio, overall classification accuracy, early breast cancer detection rate and early breast cancer detection time.",
+    "citation_count": 25,
+    "year": "2019/12",
+    "authors": [
+        {
+            "name": "Jeyanthi, K.",
+            "country": "India"
+        },
+        {
+            "name": "Mangai, S.",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

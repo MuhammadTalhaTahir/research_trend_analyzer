@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218307387",
+    "title": "A novel scalable test problem suite for multimodal multiobjective optimization",
+    "abstract": "This paper proposes a novel scalable multimodal multiobjective test problem suite. The proposed test problems have various properties, such as presence of local  Pareto optimal set  (PS), scalable number of PSs, nonuniformly distributed PSs, discrete  Pareto front  (PF), and scalable number of variables and objectives. All of the test problems proposed in this paper are continuous  optimization problems . Therefore, they can be used to measure different capacities of multimodal multiobjective continuous  optimization algorithms . Moreover, a landscape  visualization method  for  multiobjective problems  is proposed to show the properties of the multimodal multiobjective test problems. Based on the landscapes, the characteristics of these problems are analyzed and characterized. Furthermore, the existing multimodal  multiobjective optimization  algorithms and several popular multiobjective algorithms are tested and compared with the novel test problem suite. Then, a discussion on the  desired properties  of multimodal  multiobjective optimization  algorithms and future works on multimodal multiobjective optimization are presented.",
+    "citation_count": "133",
+    "year": "2019/08/01",
+    "authors": [
+        {
+            "name": "Caitong Yue",
+            "country": ""
+        },
+        {
+            "name": "Boyang Qu",
+            "country": ""
+        },
+        {
+            "name": "Kunjie Yu",
+            "country": ""
+        },
+        {
+            "name": "Jing Liang",
+            "country": ""
+        },
+        {
+            "name": "Xiaodong Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

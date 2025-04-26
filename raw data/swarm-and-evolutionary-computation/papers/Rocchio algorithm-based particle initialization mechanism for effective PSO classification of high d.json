@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650216304515",
+    "title": "Rocchio algorithm-based particle initialization mechanism for effective PSO classification of high dimensional data",
+    "abstract": "In recent years, there has been a growing interest in applying  Particle Swarm Optimization  (PSO) to  data classification . Nonetheless, due to the  curse of dimensionality , the effectiveness of the PSO applied to  high dimensional data  classification becomes questionable. This paper proposes a novel specialized PSO initialization mechanism, developed specifically for PSO applications to high  dimensional data  classification. The proposed initialization mechanism is inspired by the center-based sampling theory, which argues that the center of the  search space  is a promising region for the initialization step in  evolutionary algorithms . Furthermore, the proposed initialization mechanism is based on an information retrieval algorithm called Rocchio Algorithm (RA); that identifies the center region of the  search space  of data classification. To validate the proposed mechanism, RA-based PSO has been applied to a high dimensional  classification task  in educational  data mining . More specifically, RA-based PSO has been applied to classify a dataset of teachers' classroom questions into Bloom's taxonomy cognitive levels. To do so, a dataset of teachers' classroom questions has been collected and annotated manually with Bloom's taxonomy cognitive levels. Pre-processing steps have been applied to convert questions into a representation suitable for classification. Using this dataset, the standard PSO, PSO with generic initialization mechanisms, and RA-based PSO have been experimented and compared. The results show a poor performance of the standard PSO and the PSO with the generic initialization mechanisms, as well as a significant improvement in the performance of RA-based PSO. These results indicate that a proper task-specific PSO initialization mechanism is crucial for effective PSO performance in high dimensional data classification. Furthermore, a comparison between RA-based PSO and pure  RA classification  provide a quantitative estimation of the role of initialization mechanism and PSO search for the classification of the dataset. On the other hand, the comparison between RA-based PSO approach and three conventional  machine learning approaches , experimented on the same dataset confirms the effectiveness of RA-based PSO for high dimensional data classification. Moreover, the comparison between RA-based PSO approach and machine learning approaches, in terms of  computational time  efficiency, shows that they are comparable in classification time. However, as the learning of PSO is a time-consuming process, its effectiveness is significantly affected if the learning time is a matter.",
+    "citation_count": "18",
+    "year": "2017/06/01",
+    "authors": [
+        {
+            "name": "Anwar Ali Yahya",
+            "country": ""
+        },
+        {
+            "name": "Addin Osman",
+            "country": ""
+        },
+        {
+            "name": "Mohammad Said El-Bashir",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

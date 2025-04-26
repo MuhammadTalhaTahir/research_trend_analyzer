@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885620301797",
+    "title": "Multimodal image fusion based on point-wise mutual information",
+    "abstract": "Multimodal image fusion aims to generate a fused image from different signals that captured by multimodal sensors. Although the images obtained by multimodal sensors have different appearances, the information included in these images might be redundant and noisy. In the previous studies, the fusion rule and their properties that guiding how to merge the features from multiple images is relatively simple functions such as choose-max or weighted average. However, merging the features with redundant information based on these fusion rules may lead to brightness distortion or extra noises, since these fusion rules ignore the spatial consistency of feature selections. In this paper, we propose a novel multimodal  image fusion algorithm  that focuses on both the transferring the salient structures and maintaining spatial consistency that we consider as fundamental to build our proposed architecture. The proposed algorithm selects features to be transferred into fusion results by a  graph cut  algorithm, in which the spatial varying smoothness cost is formulated based on the independence between  local features  measured by  point-wise  mutual information  (PMI). Experiment results demonstrate that, with the straightforward gradient features, the proposed method can obtain state-of-the-art performance on several publicly available multimodal image databases.",
+    "citation_count": "10",
+    "year": "2021/01/01",
+    "authors": [
+        {
+            "name": "Donghao Shen",
+            "country": ""
+        },
+        {
+            "name": "Masoumeh Zareapoor",
+            "country": ""
+        },
+        {
+            "name": "Jie Yang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

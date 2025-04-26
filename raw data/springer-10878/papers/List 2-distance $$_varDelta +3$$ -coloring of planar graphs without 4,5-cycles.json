@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-018-0312-8",
+    "title": "List 2-distance $$\\varDelta +3$$ -coloring of planar graphs without 4,5-cycles",
+    "abstract": "Let $$\\chi _2(G)$$ and $$\\chi _2^l(G)$$ be the 2-distance chromatic number and list 2-distance chromatic number of a graph G, respectively. Wegner conjectured that for each planar graph G with maximum degree $$\\varDelta $$ at least 4, $$\\chi _2(G)\\le \\varDelta +5$$ if $$4\\le \\varDelta \\le 7$$ , and $$\\chi _2(G)\\le \\lfloor \\frac{3\\varDelta }{2}\\rfloor +1$$ if $$\\varDelta \\ge 8$$ . Let G be a planar graph without 4,5-cycles. We show that if $$\\varDelta \\ge 26$$ , then $$\\chi _2^l(G)\\le \\varDelta +3$$ . There exist planar graphs G with girth $$g(G)=6$$ such that $$\\chi _2^l(G)=\\varDelta +2$$ for arbitrarily large $$\\varDelta $$ . In addition, we also discuss the list L(2,&nbsp;1)-labeling number of G, and prove that $$\\lambda _l(G)\\le \\varDelta +8$$ for $$\\varDelta \\ge 27$$ .",
+    "citation_count": 21,
+    "year": "2018/11",
+    "authors": [
+        {
+            "name": "Zhu, Haiyang",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Gu, Yu",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Sheng, Jingjun",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Lü, Xinzhong",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

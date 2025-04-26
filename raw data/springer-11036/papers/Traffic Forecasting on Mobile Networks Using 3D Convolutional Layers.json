@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-020-01554-y",
+    "title": "Traffic Forecasting on Mobile Networks Using 3D Convolutional Layers",
+    "abstract": "Increasing demands to access the internet through mobile infrastructures have in turn increased demands for improved quality and speed in communication services. One possible solution to meet these demands is to use cellular traffic forecasting to improve network performance. In this paper, a model for predicting traffic at a selected cellular base station (BS) is proposed. In the model, spatiotemporal features from neighboring stations to the target BS are used, and this information is used for forecasting through a series of surfaces evolving over time and a deep learning architecture consisting of 3D convolutional networks. Experimental results showed that this method outperformed other approaches used to predict traffic data.",
+    "citation_count": 20,
+    "year": "2020/12",
+    "authors": [
+        {
+            "name": "Mejia, Jose",
+            "country": "Mexico"
+        },
+        {
+            "name": "Ochoa-Zezzati, Alberto",
+            "country": "Mexico"
+        },
+        {
+            "name": "Cruz-Mejía, Oliverio",
+            "country": "Mexico"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

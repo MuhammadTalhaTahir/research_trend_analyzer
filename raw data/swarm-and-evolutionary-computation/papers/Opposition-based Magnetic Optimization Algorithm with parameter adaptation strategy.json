@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650215000681",
+    "title": "Opposition-based Magnetic Optimization Algorithm with parameter adaptation strategy",
+    "abstract": "Magnetic Optimization Algorithm (MOA) has emerged as a promising optimization algorithm that is inspired by the principles of  magnetic field  theory. In this paper we improve the performance of the algorithm in two aspects. First an Opposition-Based Learning (OBL) approach is proposed for the algorithm which is applied to the movement operator of the algorithm. Second, by learning from the algorithm׳s past experience, an adaptive parameter control strategy which dynamically sets the parameters of the algorithm during the optimization is proposed. To show the significance of the proposed parameter adaptation strategy, we compare the algorithm with two well-known parameter setting techniques on a number of benchmark problems. The results indicate that although the proposed algorithm with the adaptation strategy does not require to set the parameters of the algorithm prior to the optimization process, it outperforms MOA with other parameter setting strategies in most large-scale optimization problems. We also study the algorithm while employing the OBL by comparing it with the original version of MOA. Furthermore, the proposed algorithm is tested and compared with seven traditional population-based algorithms and eight state-of-the-art optimization algorithms. The comparisons demonstrate that the proposed algorithm outperforms the traditional algorithms in most benchmark problems, and its results is comparative to those obtained by the state-of-the-art algorithms.",
+    "citation_count": "7",
+    "year": "2016/02/01",
+    "authors": [
+        {
+            "name": "Mahdi Aziz",
+            "country": ""
+        },
+        {
+            "name": "Mohammad-H. Tayarani-N.",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

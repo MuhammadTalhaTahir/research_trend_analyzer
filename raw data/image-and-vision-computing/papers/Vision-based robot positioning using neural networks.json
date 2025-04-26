@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/0262885696890226",
+    "title": "Vision-based robot positioning using neural networks",
+    "abstract": "Most vision-based robot positioning techniques rely on analytical formulations of the relationship between the robot pose and the projected image coordinates of several geometric features of the observed scene. This usually requires that several simple features such as points, lines or circles be visible in the image, which must either be unoccluded in multiple views or else part of a 3D model. Featurematching algorithms, camera calibration, models of the camera geometry and object feature relationships are also necessary for pose determination. These steps are often computationally intensive and error-prone, and the complexity of the resulting formulations often limits the number of controllable degrees of freedom. We provide a comparative survey of existing visual robot positioning methods, and present a new technique based on neural learning and global image descriptors which overcomes many of these limitations. A feedforward neural network is used to learn the complex implicit relationship between the pose displacements of a 6-dof robot and the observed variations in global descriptors of the image, such as geometric moments and Fourier descriptors. The trained network may then be used to move the robot from arbitrary initial positions to a desired pose with respect to the observed scene. The method is shown to be capable of positioning an industrial robot with respect to a variety of complex objects with an acceptable precision for an industrial inspection application, and could be useful in other real-world tasks such as grasping, assembly and navigation.",
+    "citation_count": "66",
+    "year": "1996/12/01",
+    "authors": [
+        {
+            "name": "Gordon Wells",
+            "country": ""
+        },
+        {
+            "name": "Christophe Venaille",
+            "country": ""
+        },
+        {
+            "name": "Carme Torras",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

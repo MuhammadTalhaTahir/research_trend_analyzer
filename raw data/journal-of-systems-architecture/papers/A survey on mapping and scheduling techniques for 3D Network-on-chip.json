@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124000018",
+    "title": "A survey on mapping and scheduling techniques for 3D Network-on-chip",
+    "abstract": "Network-on-chips (NoCs) have been widely employed in the design of multiprocessor system-on-chips (MPSoCs) as a scalable communication solution. NoCs enable communications between on-chip Intellectual Property (IP) cores to perform a task seamlessly collaborating among them. Mapping and Scheduling methodologies are key elements in assigning application tasks, allocating the tasks to the IPs, and organizing communication among them to achieve some specified objectives. The goal of this paper is to present detailed state-of-the-art research in the field of mapping and scheduling of applications on 3D NoC, classify the works based on several parameters, and provide some potential research directions.",
+    "citation_count": "0",
+    "year": "2024/02/01",
+    "authors": [
+        {
+            "name": "Simran Preet Kaur",
+            "country": ""
+        },
+        {
+            "name": "Manojit Ghose",
+            "country": ""
+        },
+        {
+            "name": "Ananya Pathak",
+            "country": ""
+        },
+        {
+            "name": "Rutuja Patole",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

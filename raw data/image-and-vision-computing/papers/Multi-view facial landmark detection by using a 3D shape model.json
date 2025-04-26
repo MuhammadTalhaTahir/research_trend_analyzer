@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S026288561500133X",
+    "title": "Multi-view facial landmark detection by using a 3D shape model",
+    "abstract": "An algorithm for accurate localization of facial landmarks coupled with a  head pose estimation  from a single monocular image is proposed. The algorithm is formulated as an  optimization problem  where the sum of  individual landmark  scoring functions is maximized with respect to the camera pose by fitting a parametric 3D shape model. The landmark scoring functions are trained by a structured output SVM classifier that takes a distance to the true landmark position into account when learning. The  optimization criterion  is non-convex and we propose a robust initialization scheme which employs a global method to detect a raw but reliable initial landmark position. Self-occlusions causing landmarks invisibility are handled explicitly by excluding the corresponding contributions from the data term. This allows the algorithm to operate correctly for a large range of viewing angles. Experiments on standard “in-the-wild” datasets demonstrate that the proposed algorithm outperforms several state-of-the-art landmark detectors especially for non-frontal face images. The algorithm achieves the average relative landmark  localization error  below 10% of the interocular distance in 98.3% of the 300   W dataset test images.",
+    "citation_count": "17",
+    "year": "2016/03/01",
+    "authors": [
+        {
+            "name": "Jan Čech",
+            "country": ""
+        },
+        {
+            "name": "Vojtěch Franc",
+            "country": ""
+        },
+        {
+            "name": "Michal Uřičář",
+            "country": ""
+        },
+        {
+            "name": "Jiří Matas",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

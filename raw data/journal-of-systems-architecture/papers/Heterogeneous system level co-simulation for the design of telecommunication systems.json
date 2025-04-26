@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762105000548",
+    "title": "Heterogeneous system level co-simulation for the design of telecommunication systems",
+    "abstract": "The advanced complexity and heterogeneity of modern  telecommunication systems  mostly lead to the incorporation of heterogeneous implementation technologies and design styles. Consequently, the design representation of such systems often requires the mixed use of distinct  model of computations  at different abstraction layers. Therefore, heterogeneous co-simulation is needed in order to enable the effective communication and interaction among the involved models of computation. This paper resolves this issue by proposing the heterogeneous co-modelling of telecom systems based on the combination of SDL semantics with C language running on an instruction set simulator, coupling in that way the specification and the first refinement steps of the co-design flow. The missing test link between the corresponding tools that support the SDL-C co-model is addressed by proposing a heterogeneous co-simulation scheme through the development of a mediator. Finally, the proposed methodology and the efficiency of the built environment are evaluated through a  case study  associated with the design of the  MAC  layer of the DECT telecom system. 1 , 2",
+    "citation_count": "4",
+    "year": "2005/12/01",
+    "authors": [
+        {
+            "name": "Fotios Gioulekas",
+            "country": ""
+        },
+        {
+            "name": "Michael Birbas",
+            "country": ""
+        },
+        {
+            "name": "Nikolaos Voros",
+            "country": ""
+        },
+        {
+            "name": "George Kouklaras",
+            "country": ""
+        },
+        {
+            "name": "Alexios Birbas",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-023-02201-y",
+    "title": "A New Defect Diameter Prediction using Heart Sound and Possibility to Implement as IoT Healthcare",
+    "abstract": "Healthcare facilities for diagnosing congenital heart defects (CHD) in archipelagic areas such as Indonesia face a tradeoff between the number of instruments and reducing costs. IoT is a perfect solution for remote healthcare due to its potential for low-cost development at scale. This paper describes a breakthrough solution for sizing defects by decoding information from heart sounds. The heart sounds contain information that can be translated into features through exact or heuristic methods used in previous work on CHD. This potential can be further revealed by the heuristic method proposed in this paper. Moreover, heart sound recording technology is well-established and available in the market at low prices. The proposed method decodes the information puzzle in heart sounds by using a new feature extraction process that converts the feature into atoms. Our method is executed in several stages. First, the heart sound signal is divided into two parts according to the systole and diastole intervals in each cardiac cycle. Second, we extract features using correlations among segments, which are the cross-correlation between systole and diastole segments and autocorrelation among diastole segments. Both processes generate eigenvalues for creating atoms in a planar plane. The last step is candidate selection for sizing CHD, which is determined by the Euclidian distance of atoms to the center of gravity (COG). We use a reference size as the baseline and threshold for the smallest Root Mean Square Error (RMSE) to speed up computation. After some training, we found that the Euclidian mean between atoms COG is the best candidate with RMSE &lt; 0.5. Therefore, this method is called Average Distance Scattered Atoms of Eigenvalues (ADSAE). We conducted experiments on 30 samples and compared our results with Space Vector Machine (SVM), Fuzzy Clustering (FC), and Eclipse Method (EM) in terms of accuracy and F1 scores involving small tolerances. We found that ADSAE was superior to SVM, FC, and EM, especially for small defect sizes. However, for large defects, SVM was the most superior, followed by FC, ADSAE, and EM. ADSAE is limited to sizing only and does not have the capability to determine the shape and depth of defects. Nevertheless, ADSAE is a simple method suited for massive IoT devices for CHD healthcare.",
+    "citation_count": 62,
+    "year": "2023/12",
+    "authors": [
+        {
+            "name": "Aripriharta",
+            "country": "Indonesia"
+        },
+        {
+            "name": "Horng, Gwo-Jiun",
+            "country": "Taiwan"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

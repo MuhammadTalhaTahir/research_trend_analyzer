@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224000270",
+    "title": "An adaptive binary quantum-behaved particle swarm optimization algorithm for the multidimensional knapsack problem",
+    "abstract": "The multidimensional knapsack problem (MKP) is a classical combinatorial optimization problem with wide real-life applications. Binary quantum-behaved  particle swarm optimization  (BQPSO) algorithm is a popular heuristic algorithm used in binary optimization. While BQPSO exhibits strong global search capabilities, it is still prone to local optima due to particle aggregation. To address this issue, an adaptive BQPSO (ABQPSO) algorithm is proposed to solve the MKP efficiently. A hybrid encoding population initialization scheme is employed, leveraging specific knowledge of MKP to increase population diversity and improve search efficiency. Furthermore, ABQPSO uses a mapping strategy that converts continuous values into discrete values based on the average position of particles. An adaptive repair operator considering two pseudo-utility ratios is introduced to enable particles to explore different feasible regions, which dynamically adjusts current pseudo-utility ratios based on changes in the global best solution. A local search method is applied to guide particles towards convergence to the optimum. A local sparseness degree measurement and a diversity mechanism are utilized to avoid local optima. To evaluate the effectiveness of ABQPSO, it is compared against ten state-of-the-art algorithms using 168 MKP benchmark instances of varying scales. Experimental results reveal that ABQPSO outperforms the comparison algorithms, especially for large-scale problems, demonstrating better solution accuracy.",
+    "citation_count": "9",
+    "year": "2024/04/01",
+    "authors": [
+        {
+            "name": "Xiaotong Li",
+            "country": ""
+        },
+        {
+            "name": "Wei Fang",
+            "country": ""
+        },
+        {
+            "name": "Shuwei Zhu",
+            "country": ""
+        },
+        {
+            "name": "Xin Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

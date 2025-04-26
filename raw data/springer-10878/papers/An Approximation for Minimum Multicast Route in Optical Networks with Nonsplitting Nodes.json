@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-005-4925-3",
+    "title": "An Approximation for Minimum Multicast Route in Optical Networks with Nonsplitting Nodes",
+    "abstract": "Consider the problem of computing the minimum-weight multicast route in an optical network with both nonsplitting and splitting nodes. This problem can be reduced to the minimum Hamiltonian path problem when all nodes are nonsplitting, and the Steiner minimum tree problem when all nodes are splitting. Therefore, the problem is NP-hard. Previously, the best known polynomial-time approximation has the performance ratio 3. In this paper, we present a new polynomial-time approximation with performance ratio of 1+ρ, where ρ is the best known approximation performance ratio for the Steiner minimum tree in graph and it has been known that ρ &lt; 1.55.",
+    "citation_count": 6,
+    "year": "2005/12",
+    "authors": [
+        {
+            "name": "Guo, Longjiang",
+            "country": "China"
+        },
+        {
+            "name": "Wu, Weili",
+            "country": "USA"
+        },
+        {
+            "name": "Wang, Feng",
+            "country": "USA"
+        },
+        {
+            "name": "Thai, My",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

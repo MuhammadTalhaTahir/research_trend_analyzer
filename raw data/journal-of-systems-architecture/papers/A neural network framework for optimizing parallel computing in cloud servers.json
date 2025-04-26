@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124000687",
+    "title": "A neural network framework for optimizing parallel computing in cloud servers",
+    "abstract": "Energy efficiency has become a major focus in optimizing hardware resource usage for Cloud servers. One approach widely employed to enhance the execution of parallel applications is thread-level parallelism (TLP) exploitation. This technique leverages multiple threads to improve computational efficiency and performance. However, the increasing heterogeneity of resources in cloud environments and the complexity of selecting the optimal configuration for each application pose a significant challenge to cloud users due to the massive number of possible configurations and the need to effectively harness TLP in diverse hardware setups to achieve optimal energy efficiency and performance. To address this challenge, we propose  TLP-Allocator , an artificial neural network (ANN)  optimization strategy  that uses hardware and software metrics to build and train an  ANN model . It predicts worker node and thread count combinations that provide optimal energy-delay product (EDP) results. In experiments using ten well-known applications on a private cloud with  heterogeneous resources , we show that  TLP-Allocator  predicts combinations that yield EDP values close to the best achieved by an  exhaustive search . It also improves the overall EDP by 38.2% compared to state-of-the-art workloads scheduling on cloud environments.",
+    "citation_count": "4",
+    "year": "2024/05/01",
+    "authors": [
+        {
+            "name": "Everton C. de Lima",
+            "country": ""
+        },
+        {
+            "name": "Fábio D. Rossi",
+            "country": ""
+        },
+        {
+            "name": "Marcelo C. Luizelli",
+            "country": ""
+        },
+        {
+            "name": "Rodrigo N. Calheiros",
+            "country": ""
+        },
+        {
+            "name": "Arthur F. Lorenzon",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

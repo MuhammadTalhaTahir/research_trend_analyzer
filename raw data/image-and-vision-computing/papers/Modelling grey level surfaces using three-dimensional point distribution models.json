@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/0262885695010793",
+    "title": "Modelling grey level surfaces using three-dimensional point distribution models",
+    "abstract": "Point Distribution Models (PDM) allow a compact description of an object's shape to be found from a set of example images. This paper investigates adding a third dimension, intensity, to the PDM. Models are derived which include modes of variation in intensity, and mention is made of more recent work that has extended this work to colour. The inclusion of intensity complicates the task of fitting the model by adding new dimensions to the objective function. A two-stage fitting strategy is used to overcome this problem. Nine images were analysed successfully with this strategy. The resulting improvement in fit enables a clear distinction to be made between objects that are animals and those that are not.",
+    "citation_count": "8",
+    "year": "1996/12/01",
+    "authors": [
+        {
+            "name": "Christine M. Onyango",
+            "country": ""
+        },
+        {
+            "name": "John A. Marchant",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-009-9226-9",
+    "title": "New algorithms for k-center and extensions",
+    "abstract": "The problem of interest is covering a given point set with homothetic copies of several convex containers C 1,…,C k , while the objective is to minimize the maximum over the dilatation factors. Such k-containment problems arise in various applications, e.g.&nbsp;in facility location, shape fitting, data classification or clustering. So far most attention has been paid to the special case of the Euclidean k-center problem, where all containers C i are Euclidean unit balls. Recent developments based on so-called core-sets enable not only better theoretical bounds in the running time of approximation algorithms but also improvements in practically solvable input sizes. Here, we present some new geometric inequalities and a Mixed-Integer-Convex-Programming formulation. Both are used in a very effective branch-and-bound routine which not only improves on best known running times in the Euclidean case but also handles general and even different containers among the C i .",
+    "citation_count": 40,
+    "year": "2009/11",
+    "authors": [
+        {
+            "name": "Brandenberg, René",
+            "country": "Germany"
+        },
+        {
+            "name": "Roth, Lucia",
+            "country": "Germany"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

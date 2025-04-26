@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S138376212400081X",
+    "title": "An SGX-based online voting protocol with maximum voter privacy",
+    "abstract": "Electronic voting (E-voting), a crucial method in  modern society , balances efficiency with the need for equity, reliability, and privacy to accurately record votes and maintain democracy. However, there is the challenge of potential leakage of voting information in scenarios where administrators of voting system may act maliciously. Moreover, contemporary collaborative counting methods face a significant increase in the cost of storage and heightened  communication overhead  in large-scale e-voting. In response, this paper proposes an innovative online voting protocol that integrates Intel SGX,  homomorphic encryption , and zero-knowledge proof. This protocol aims to cut down the cost of communication and storage while maximizing the protection of voter privacy. The protocol relies on SGX to provide a trusted execution environment for the voting process, guarding against  malicious attacks  from external software or high-privileged administrators. In the proposed protocol, voters apply homomorphic encryption algorithms to locally encrypt their ballots, no longer relying on other entities (such as the voting system or SGX) for encryption. Then the encrypted ballots are submitted to SGX to mitigate the threat of data leakage in SGX. Through the adoption of zero-knowledge proof technology, the voting protocol can verify the legitimacy of votes without revealing their content. The proposed solution introduces the SGXVOT architecture, comprising two enclaves – Enclave V responsible for tallying individual encrypted votes, and Enclave T responsible for decrypting and publishing voting results. This design ensures that individual voters’ ballots remain in  ciphertext , preserving the confidentiality of votes and voter privacy. Additionally, the protocol incorporates a “One-Time Pad” encryption communication protocol to guarantee the confidentiality of communication messages between Enclave V and Enclave T. The thorough security analysis and performance evaluation demonstrate the superior performance of the proposed solution in terms of security, practicality, and scalability.",
+    "citation_count": "0",
+    "year": "2024/06/01",
+    "authors": [
+        {
+            "name": "Qingdi Han",
+            "country": ""
+        },
+        {
+            "name": "Xiaoshuai Zhang",
+            "country": ""
+        },
+        {
+            "name": "Siqi Lu",
+            "country": ""
+        },
+        {
+            "name": "Xiaoqi Zhao",
+            "country": ""
+        },
+        {
+            "name": "Zhen Yan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

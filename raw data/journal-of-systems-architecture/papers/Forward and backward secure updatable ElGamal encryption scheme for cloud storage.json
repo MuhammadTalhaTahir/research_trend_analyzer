@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762123001054",
+    "title": "Forward and backward secure updatable ElGamal encryption scheme for cloud storage",
+    "abstract": "Updatable encryption can support key/ciphertext update functionality, resist key compromise attacks, and be applicable to cloud storage. However, as a type of partitioning strategy, leakage sets or firewalls technique has been adopted by the existing updatable  encryption schemes  to build a relaxed security model, which forbids the adversary from querying the secret key at the challenge-equal epochs and hardly captures forward and backward security. In this paper, an enhanced security model can be built by considering a corruption oracle that allows any secret key query without requiring leakage sets. Then we utilize the indistinguishability  obfuscation technique  of the punctured program to construct an updatable  ElGamal encryption  scheme with no-directional key update and uni-directional  ciphertext  update. Furthermore, under the framework of the enhanced security model, the proposed scheme is proven to be IND-CPA. Finally, by comparison with the existing updatable encryption schemes, the proposed scheme eliminates leakage sets and firewalls, and can achieve both forward and backward security.",
+    "citation_count": "3",
+    "year": "2023/08/01",
+    "authors": [
+        {
+            "name": "Zhenhua Liu",
+            "country": ""
+        },
+        {
+            "name": "Jingwan Gong",
+            "country": ""
+        },
+        {
+            "name": "Yuanju Ma",
+            "country": ""
+        },
+        {
+            "name": "Yaxin Niu",
+            "country": ""
+        },
+        {
+            "name": "Baocang Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

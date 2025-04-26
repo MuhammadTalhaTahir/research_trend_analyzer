@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885619300204",
+    "title": "A generative image fusion approach based on supervised deep convolution network driven by weighted gradient flow",
+    "abstract": "In recent times, convolution  neural networks  (CNNs) have been utilized to generate desired images benefiting from the layered features. However, few studies have focused on integrating these features gained from multiple sources to obtain a high-quality image. In this paper, we propose a generative fusion approach using a supervised CNN framework with analysis and synthesis modules. According to it, the  salient feature  maps obtained from the analysis module are integrated to yield output generation by iteratively back-propagating gradients. Furthermore, a differential fusion strategy based on weighted gradient flow is embedded into the end-to-end fusion procedure. To transfer previous  network configurations  to current fusion tasks, the proposed network is fine-tuned according to the pretrained network such as VGG16,  VGG19  and  ResNet50 . The experimental results indicate superior evaluations of the proposed approach compared with other state-of-the-art schemes in various fusion scenes, and also verify that the CNN features are adaptable and expressive to be aligned to generate fused images.",
+    "citation_count": "27",
+    "year": "2019/06/01",
+    "authors": [
+        {
+            "name": "Meng Wang",
+            "country": ""
+        },
+        {
+            "name": "Xingwang Liu",
+            "country": ""
+        },
+        {
+            "name": "Huaiping Jin",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

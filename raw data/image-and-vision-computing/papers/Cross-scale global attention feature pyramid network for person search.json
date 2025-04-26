@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621002377",
+    "title": "Cross-scale global attention feature pyramid network for person search",
+    "abstract": "Person search aims to locate the target person in real unconstrained scene images. It faces many challenges such as multi-scale and fine-grained. To address the challenges, a novel cross-scale global attention feature pyramid network (CSGAFPN) is proposed. Firstly, we design a novel multi-head global attention module (MHGAM), which adopts  cosine similarity  and sparse query location methods to effectively capture cross-scale long-distance dependence. Then, we design the CSGAFPN, which extends top-down feature pyramid network with bottom-up connections and embeds MHGAMs to the connections. CSGAFPN can capture cross-scale long-distance global correlation from multi-scale feature maps, selectively strengthen important features and restrain less important features. CSGAFPN is applied for both person detection and person re-identification (reID) subtasks of person search, it can well handle the multi-scale and fine-grained challenges, and significantly improve person search performance. Furthermore, the output multi-scale feature maps of CSGAFPN are processed by an adaptive feature aggregation with attention (AFAA) layer to further improve the performance. Numerous experiments with two public person search datasets, CUHK-SYSU and PRW, show our CSGAFPN based approach acquires better performance than other state-of-the-art (SOTA) person search approaches.",
+    "citation_count": "8",
+    "year": "2021/12/01",
+    "authors": [
+        {
+            "name": "Yang Li",
+            "country": ""
+        },
+        {
+            "name": "Huahu Xu",
+            "country": ""
+        },
+        {
+            "name": "Minjie Bian",
+            "country": ""
+        },
+        {
+            "name": "Junsheng Xiao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

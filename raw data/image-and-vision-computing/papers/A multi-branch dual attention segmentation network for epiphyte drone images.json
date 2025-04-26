@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002038",
+    "title": "A multi-branch dual attention segmentation network for epiphyte drone images",
+    "abstract": "Acquiring images of  epiphytes  growing on  trees  using  Unmanned Aerial Vehicles  (UAVs) enables botanists to efficiently collect data on these important  plant species . Despite the advantages offered by UAVs, challenges such as complex backgrounds, uneven lighting inside the tree canopy, and accessibility issues hinder the acquisition of  quality images , resulting in acquiring images datasets of heterogenous quality. AI/Deep Learning algorithms can be used to segment target plants in these images for selecting sampling locations. Existing DL models require large volume of data for training, and they tend to prioritize  local features  over global ones, impacting  segmentation accuracy , particularly on smaller, heterogeneous quality image datasets. To overcome these limitations, we propose a multi-branch dual attention  segmentation network  designed to effectively handle small datasets with heterogeneous quality. The proposed network incorporates dedicated branches for extracting both global and local features, utilizing spatial and channel  attention mechanisms  to focus on important regions. Through a fusion process and a decoder with crossed fusion technique, this network effectively combines and enhances features from multiple branches, resulting in improved  segmentation performance . Output obtained from the trained model demonstrated major improvements in predicting the boundary regions and class labels, even in close-range, low-light, and zoomed/cropped images. The average Intersection over Union (IoU) scores of the trained model was 5% higher for images acquired close range, 48% higher for images in low-light conditions, and 68% higher for zoomed/cropped images when compared to those obtained from TransUnet, a state-of-the-art  vision transformer  model trained on epiphyte dataset. The proposed network can be used for segmenting  epiphytes  in images of heterogeneous quality as well as identifying targets in images acquired in domains such as agriculture and forestry.",
+    "citation_count": "1",
+    "year": "2024/08/01",
+    "authors": [
+        {
+            "name": "V.V. Sajith Variyar",
+            "country": ""
+        },
+        {
+            "name": "V. Sowmya",
+            "country": ""
+        },
+        {
+            "name": "Ramesh Sivanpillai",
+            "country": ""
+        },
+        {
+            "name": "Gregory K. Brown",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

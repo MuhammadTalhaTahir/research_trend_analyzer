@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002154",
+    "title": "Person re-identification by utilizing hierarchical spatial relation reasoning",
+    "abstract": "Deep learning-based methods have become increasingly popular in person re-identification (re-id) as they enhance the  discriminative features  while suppressing extraneous or irrelevant details. However, these methods  face  a potential limitation in overlooking the relationships between semantic regions focusing solely on  salient features  or pixel-level matching information. As a result, the model performance becomes susceptible to adverse factors such as pose variations, misalignment, and background clutter. To overcome this issue, we propose a novel deep relational learning network (DRLNet) that learns relationship knowledge between semantic regions and “local–global” information to improve discriminative  feature learning  effectively. We manually establish the relation between local regions using a simple partition strategy that captures global structural information and improves relation-aware attention learning. Dividing images into uniform partitions allows each part-level feature to represent itself and the entire image area, facilitating the learning of more refined and discerning relationships. Our approach's efficacy is evaluated on three datasets, where experimental results exhibit its superiority. Significantly, our approach achieves a new state-of-the-art Rank-1 accuracy of 84.7%, 80.9%, and 83.5% on CUHK03 (Labeled), CUHK03 (Detected), and MSMT17 datasets, respectively, outperforming current state-of-the-art methods. In conclusion, our proposed DRLNet demonstrates its potential as a highly effective solution to overcoming the limitations of deep learning-based methods by providing superior means of learning discriminative features while incorporating relationships between semantic regions.",
+    "citation_count": "1",
+    "year": "2024/08/01",
+    "authors": [
+        {
+            "name": "Gengsheng Xie",
+            "country": ""
+        },
+        {
+            "name": "Hanbing Su",
+            "country": ""
+        },
+        {
+            "name": "Yong Luo",
+            "country": ""
+        },
+        {
+            "name": "Wenle Wang",
+            "country": ""
+        },
+        {
+            "name": "Yugen Yi",
+            "country": ""
+        },
+        {
+            "name": "Shan Zhong",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002117",
+    "title": "Visual tracking based on spatiotemporal transformer and fusion sequences",
+    "abstract": "Currently, Transformer-based  visual tracking  methods have exhibited impressive performance. However, despite their widespread adoption, they still have certain limitations. For example, the design of the Transformer framework is somewhat original and redundant, resulting in lower efficiency. In addition, their application methods lack time consideration, and there is a lack of spatiotemporal correlation between tracking video sequences and predicting coordinate sequences, making it difficult to effectively integrate, and the robustness of corresponding tracking  templates  is insufficient. To address these issues, we propose a new visual tracking method (STFS). Firstly, it introduces a novel Flatten Transformer architecture, which, in comparison to previous modules, offers enhanced efficiency and  expressiveness . Secondly, it takes multi frame feature maps and  bounding box  coordinates as inputs, integrates spatiotemporal information through the spatiotemporal sequence attention module, and provides relevant sequences for historical trend prediction. Finally, it uses diffusion methods to construct tracking templates and improve stability. To verify the performance of the tracker, we conducted experiments on benchmark datasets including GOT-10 K, LaSOT, TrackingNet, VOT2020, OTB100, and UAV123. The results demonstrate that STFS has achieved competitive experimental results.",
+    "citation_count": "4",
+    "year": "2024/08/01",
+    "authors": [
+        {
+            "name": "Ruixu Wu",
+            "country": ""
+        },
+        {
+            "name": "Yanli Liu",
+            "country": ""
+        },
+        {
+            "name": "Xiaogang Wang",
+            "country": ""
+        },
+        {
+            "name": "Peilin Yang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

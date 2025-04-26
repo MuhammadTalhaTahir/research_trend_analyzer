@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-013-9360-4",
+    "title": "A pseudospectral approach to the McWhorter and Sunada equation for two-phase flow in porous media with capillary pressure",
+    "abstract": "Two well-known mathematical solutions for two-phase flow in porous media are the Buckley–Leverett equation and the McWhorter and Sunada equation (MSE). The former ignores capillary pressure and can be solved analytically. The latter has traditionally been formulated as an iterative integral solution, which suffers from convergence problems as the injection saturation approaches unity. Here, an alternative approach is presented that solves the MSE using a pseudospectral Chebyshev differentiation matrix. The resulting pseudospectral solution is compared to results obtained from the original integral implementation and the Buckley–Leverett limit, when the capillary pressure becomes negligible. A self-contained MATLAB code to implement the new solution is provided within the manuscript. The new approach offers a robust and accurate method for verification of numerical codes solving two-phase flow with capillary pressure.",
+    "citation_count": 17,
+    "year": "2013/12",
+    "authors": [
+        {
+            "name": "Bjørnarå, Tore I.",
+            "country": "UK"
+        },
+        {
+            "name": "Mathias, Simon A.",
+            "country": "Norway"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

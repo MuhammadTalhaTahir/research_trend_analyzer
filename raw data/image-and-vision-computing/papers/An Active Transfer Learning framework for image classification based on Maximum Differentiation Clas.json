@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624005067",
+    "title": "An Active Transfer Learning framework for image classification based on Maximum Differentiation Classifier",
+    "abstract": "Deep learning has been extensively adopted across various domains, yielding satisfactory outcomes. However, it heavily relies on extensive labeled datasets, collecting data labels is expensive and time-consuming. We propose a novel framework called Active Transfer Learning (ATL) to address this issue. The ATL framework consists of Active Learning (AL) and Transfer Learning (TL). AL queries the unlabeled samples with high inconsistency by Maximum Differentiation Classifier (MDC). The MDC pulls the discrepancy between the labeled data and their augmentations to select and annotate the informative samples. Additionally, we also explore the potential of incorporating TL techniques. The TL comprises pre-training and fine-tuning. The former learns knowledge from the origin-augmentation domain to pre-train the model, while the latter leverages the acquired knowledge for the downstream tasks. The results indicate that the combination of TL and AL exhibits complementary effects, while the proposed ATL framework outperforms state-of-the-art methods in terms of accuracy, precision, recall, and F1-score.",
+    "citation_count": "0",
+    "year": "2025/02/01",
+    "authors": [
+        {
+            "name": "Peng Zan",
+            "country": ""
+        },
+        {
+            "name": "Yuerong Wang",
+            "country": ""
+        },
+        {
+            "name": "Haohao Hu",
+            "country": ""
+        },
+        {
+            "name": "Wanjun Zhong",
+            "country": ""
+        },
+        {
+            "name": "Tianyu Han",
+            "country": ""
+        },
+        {
+            "name": "Jingwei Yue",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

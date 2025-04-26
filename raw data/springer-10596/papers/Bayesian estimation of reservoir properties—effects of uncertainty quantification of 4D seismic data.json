@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-016-9585-0",
+    "title": "Bayesian estimation of reservoir properties—effects of uncertainty quantification of 4D seismic data",
+    "abstract": "This paper shows a history matching workflow with both production and 4D seismic data where the uncertainty of seismic data for history matching comes from Bayesian seismic waveform inversion. We use a synthetic model and perform two seismic surveys, one before start of production and the second after 1 year of production. From the first seismic survey, we estimate the contrast in slowness squared (with uncertainty) and use this estimate to generate an initial estimate of porosity and permeability fields. This ensemble is then updated using the second seismic survey (after inversion to contrasts) and production data with an iterative ensemble smoother. The impact on history matching results from using different uncertainty estimates for the seismic data is investigated. From the Bayesian seismic inversion, we get a covariance matrix for the uncertainty and we compare using the full covariance matrix with using only the diagonal. We also compare with using a simplified uncertainty estimate that does not come from the seismic inversion. The results indicate that it is important not to underestimate the noise in seismic data and that having information about the correlation in the error in seismic data can in some cases improve the results.",
+    "citation_count": 58,
+    "year": "2016/12",
+    "authors": [
+        {
+            "name": "Eikrem, Kjersti Solberg",
+            "country": "Norway"
+        },
+        {
+            "name": "Nævdal, Geir",
+            "country": "Norway"
+        },
+        {
+            "name": "Jakobsen, Morten",
+            "country": "Norway"
+        },
+        {
+            "name": "Chen, Yan",
+            "country": "Norway"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-016-0041-9",
+    "title": "A new graph parameter and a construction of larger graph without increasing radio k-chromatic number",
+    "abstract": "For a positive integer $$k\\ge 2$$ , the radio k-coloring problem is an assignment L of non-negative integers (colors) to the vertices of a finite simple graph G satisfying the condition $$|L(u)-L(v)| \\ge k+1-d(u,v)$$ , for any two distinct vertices u, v of G and d(u,&nbsp;v) being distance between u, v. The span of L is the largest integer assigned by L, while 0 is taken as the smallest color. An $$rc_k$$ -coloring on G is a radio k-coloring on G of minimum span which is referred as the radio k-chromatic number of G and denoted by $$rc_k(G)$$ . An integer h, $$0",
+    "citation_count": 19,
+    "year": "2017/05",
+    "authors": [
+        {
+            "name": "Sarkar, Ushnish",
+            "country": "India"
+        },
+        {
+            "name": "Adhikari, Avishek",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

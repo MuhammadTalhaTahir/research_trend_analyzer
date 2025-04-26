@@ -1,0 +1,46 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224000737",
+    "title": "Point cloud registration via sampling-based evolutionary multitasking",
+    "abstract": "Point cloud registration (PCR) is an important task in both  computer vision  and pattern recognition. However, since the success of most existing two-stage PCR methods largely depends on the implicit assumption that the first coarse registration stage can provide an approximately optimal initial transformation for the second fine stage, these methods suffer from low success rate when the assumption is not satisfied. Evolutionary multitasking can find better solutions for multiple tasks simultaneously by transferring knowledge among multiple related tasks. Inspired by evolutionary multitasking, this study proposes a sampling-based multitask optimization method for PCR, which solves the problem of low registration success rate by  sharing knowledge  between two related  tasks generated  by a dataset. Specifically, one task is for roughly aligning the sampled point cloud, and the other is for the original unsampled point cloud. The main purpose of the first task is to continuously provide useful knowledge to the second task so that it can achieve precise alignment. Then, a new knowledge transfer mechanism guided by historical information is proposed, which can effectively adjust the  search behavior  of the original unsampled task. In addition, we develop a dynamic task complement strategy to complement the accuracy that may be lost by downsampling. The results on five different datasets show that the proposed method can achieve higher registration accuracy with higher success rate compared to other state-of-the-art PCR methods.",
+    "citation_count": "10",
+    "year": "2024/08/01",
+    "authors": [
+        {
+            "name": "Hangqi Ding",
+            "country": ""
+        },
+        {
+            "name": "Yue Wu",
+            "country": ""
+        },
+        {
+            "name": "Maoguo Gong",
+            "country": ""
+        },
+        {
+            "name": "Hao Li",
+            "country": ""
+        },
+        {
+            "name": "Peiran Gong",
+            "country": ""
+        },
+        {
+            "name": "Qiguang Miao",
+            "country": ""
+        },
+        {
+            "name": "Wenping Ma",
+            "country": ""
+        },
+        {
+            "name": "Yiping Duan",
+            "country": ""
+        },
+        {
+            "name": "Xiaoming Tao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

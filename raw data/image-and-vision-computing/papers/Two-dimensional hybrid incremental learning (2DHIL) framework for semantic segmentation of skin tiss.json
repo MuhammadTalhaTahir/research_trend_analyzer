@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002518",
+    "title": "Two-dimensional hybrid incremental learning (2DHIL) framework for semantic segmentation of skin tissues",
+    "abstract": "This study aims to enhance the robustness and generalization capability of a deep learning transformer model used for segmenting skin carcinomas and tissues through the introduction of incremental learning. Deep learning AI models demonstrate their claimed performance only for tasks and data types for which they are specifically trained. Their performance is severely challenged for the test cases which are not similar to training data thus questioning their robustness and ability to generalize. Moreover, these models require an enormous amount of annotated data for training to achieve desired performance. The availability of large annotated data, particularly for medical applications, is itself a challenge. Despite efforts to alleviate this limitation through techniques like data augmentation, transfer learning, and few-shot training, the challenge persists. To address this, we propose refining the models incrementally as new classes are discovered and more data becomes available, emulating the human learning process. However, deep learning models face the challenge of catastrophic forgetting during incremental training. Therefore, we introduce a two-dimensional hybrid incremental learning framework for segmenting non-melanoma skin cancers and tissues from histopathology images. Our approach involves progressively adding new classes and introducing data of varying specifications to introduce adaptability in the models. We also employ a combination of loss functions to facilitate new learning and mitigate catastrophic forgetting. Our extended experiments demonstrate significant improvements, with an F1 score reaching 91.78, mIoU of 93.00, and an average accuracy of 95%. These findings highlight the effectiveness of our incremental learning strategy in enhancing the robustness and generalization of deep learning segmentation models while mitigating catastrophic forgetting.",
+    "citation_count": "0",
+    "year": "2024/08/01",
+    "authors": [
+        {
+            "name": "Muhammad Imran",
+            "country": ""
+        },
+        {
+            "name": "Muhammad Usman Akram",
+            "country": ""
+        },
+        {
+            "name": "Mohsin Islam Tiwana",
+            "country": ""
+        },
+        {
+            "name": "Anum Abdul Salam",
+            "country": ""
+        },
+        {
+            "name": "Taimur Hassan",
+            "country": ""
+        },
+        {
+            "name": "Danilo Greco",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

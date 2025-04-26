@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624001215",
+    "title": "A 3D multi-scale CycleGAN framework for generating synthetic PETs from MRIs for Alzheimer's disease diagnosis",
+    "abstract": "This paper proposes a novel framework for generating synthesized  PET  images from MRIs to fill in missing PETs and help with  Alzheimer's disease  (AD) diagnosis. This framework employs a 3D multi-scale image-to-image CycleGAN architecture for the end-to-end translation of MRI and  PET  domains together. A hybrid loss function is also proposed to enforce structural similarity while preserving voxel-wise similarity and avoiding blurry images. As shown by the quantitative and visual assessment of the synthesized PETs, this framework is superior to the state-of-the-art. Moreover, using these synthesized PETs helps improve the ternary classification of AD subjects (AD vs.  MCI  vs. NC). Specifically, assuming an extreme case where none of the subjects has a  PET , feeding the classifier with MRIs and their corresponding synthetic PETs results in a more accurate diagnosis than feeding it with just available MRIs. Accordingly, the proposed framework can help improve AD diagnosis, which is the final goal of the current study. Ablation investigation of the proposed multi-scale framework as well as the proposed loss function, is also conducted to study their contribution to the quality of synthesized PETs. Furthermore, other factors, such as stopping criteria, the type of normalization layer, the  activation function , and dropouts, are examined, concluding that the appropriate use of these factors can significantly improve the quality of synthesized PETs.",
+    "citation_count": "3",
+    "year": "2024/06/01",
+    "authors": [
+        {
+            "name": "M. Khojaste-Sarakhsi",
+            "country": ""
+        },
+        {
+            "name": "Seyedhamidreza Shahabi Haghighi",
+            "country": ""
+        },
+        {
+            "name": "S.M.T. Fatemi Ghomi",
+            "country": ""
+        },
+        {
+            "name": "Elena Marchiori",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

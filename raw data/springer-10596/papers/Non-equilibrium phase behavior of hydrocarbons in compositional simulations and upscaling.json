@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-017-9648-x",
+    "title": "Non-equilibrium phase behavior of hydrocarbons in compositional simulations and upscaling",
+    "abstract": "Numerical models widely used for hydrocarbon phase behavior and compositional flow simulations are based on assumption of thermodynamic equilibrium. However, it is not uncommon for oil and gas-condensate reservoirs to exhibit essentially non-equilibrium phase behavior, e.g., in the processes of secondary recovery after pressure depletion below saturation pressure, or during gas injection, or for condensate evaporation at low pressures. In many cases, the ability to match field data with equilibrium model depends on simulation scale. The only method to account for non-equilibrium phase behavior adopted by the majority of flow simulators is the option of limited rate of gas dissolution (condensate evaporation) in black oil models. For compositional simulations, no practical yet thermodynamically consistent method has been presented so far except for some upscaling techniques in gas injection problems. Previously reported academic non-equilibrium formulations have a common drawback of doubling the number of flow equations and unknowns compared with the equilibrium formulation. In the paper, a unified thermodynamically consistent formulation for compositional flow simulations with non-equilibrium phase behavior model is presented. Same formulation and a special scale-up technique can be used for upscaling of an equilibrium or non-equilibrium model to a coarse-scale non-equilibrium model. A number of test cases for real oil and gas-condensate mixtures are given. Model implementation specifics in a flow simulator are discussed and illustrated with test simulations. A non-equilibrium constant volume depletion algorithm is presented to simulate condensate recovery at low pressures in gas-condensate reservoirs. Results of satisfactory model matching to field data are reported and discussed.",
+    "citation_count": 37,
+    "year": "2017/12",
+    "authors": [
+        {
+            "name": "Indrupskiy, Ilya M.",
+            "country": "Russian Federation"
+        },
+        {
+            "name": "Lobanova, Olga A.",
+            "country": "Russian Federation"
+        },
+        {
+            "name": "Zubov, Vadim R.",
+            "country": "Russia"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

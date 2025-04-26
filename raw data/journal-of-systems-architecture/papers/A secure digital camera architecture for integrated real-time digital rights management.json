@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762109000617",
+    "title": "A secure digital camera architecture for integrated real-time digital rights management",
+    "abstract": "This paper presents a novel concept of a secure digital camera (SDC) with a built-in watermarking and encryption facility. The motivation is to facilitate real-time  digital rights management  (DRM) by using the SDC right at the source end of  multimedia content . The emerging field of  DRM systems  addresses the issues related to the intellectual-property rights of digital content. The use of  digital watermarking  along with encryption for effective DRM is proposed. In this context, a novel  discrete cosine transform  domain invisible-robust  watermarking method  that uses cryptography and watermarking methods simultaneously to provide a double-layer of protection to  digital media  is presented. The proposed method securely hides  binary images  in color image media and securely extracts and authenticates it by using a secret key. Experimental results prove that the proposed technique is resilient to stringent watermarking attacks. Hence, it is an effective method for providing protection of ownership rights. The corresponding application-specific architectures for invisible-robust watermarking and Rijndael  advanced encryption standard  (AES) towards the prototyping of the SDC are presented. The proposed architectures are modeled and synthesized for  field programmable gate array  (FPGA). The soft cores in the form of  hardware description language  resulting from this research can serve as intellectual-property core and can be integrated with any multimedia-producing electronic appliances which are built as embedded systems using system-on-a-chip (SoC) technology.",
+    "citation_count": "52",
+    "year": "2009/10/01",
+    "authors": [
+        {
+            "name": "Saraju P. Mohanty",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762123001297",
+    "title": "Identity-based proxy matchmaking encryption for cloud-based anonymous messaging systems",
+    "abstract": "Cloud-based anonymous messaging systems have been widely utilized in covert conversations to enable people to anonymously exchange encrypted data in public using cryptographic techniques. Recently, Ateniese  et al . proposed the identity-based matchmaking encryption (IB-ME) which provides confidentiality, anonymity and authenticity in a logical single step for such systems. However, there are two crucial and practical issues in IB-ME. On the one hand, the existing IB-MEs only achieve indistinguishability under adaptive chosen identity and plaintext attacks (IND-ID-CPA). How to structure the IB-ME with indistinguishability under adaptive chosen identity and ciphertext attacks (IND-ID-CCA) is still an open problem. On the other hand, the computational cost of the receiver is considerable when using IB-ME since the ciphertext leaks no information about its sender’s and specified receiver’s identities. Thus, the receiver has to attempt to match “all” ciphertexts one by one with its own decryption key and “all” potential senders’ identities. To reduce such a cost of the receiver in IB-ME, it is desired for the receiver to delegate the decryption ability with respect to the potential senders to some proxies. With the proxy keys, these proxies can match the ciphertexts parallelly. Nonetheless, an obvious challenge is how to delegate such ability to a proxy without losing anonymity and authenticity to protect the privacy of both the sender and the receiver. In this paper, we propose a novel CCA-secure solution, called identity-based proxy matchmaking encryption (IB-PME) for cloud-based anonymous messaging systems, to address the foregoing issues. The security analysis and the performance evaluation demonstrate that our proposed IB-PME is highly practical.",
+    "citation_count": "8",
+    "year": "2023/09/01",
+    "authors": [
+        {
+            "name": "Zhen Yan",
+            "country": ""
+        },
+        {
+            "name": "Haipeng Qu",
+            "country": ""
+        },
+        {
+            "name": "Xiaoshuai Zhang",
+            "country": ""
+        },
+        {
+            "name": "Jian-Liang Xu",
+            "country": ""
+        },
+        {
+            "name": "Xi-Jun Lin",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

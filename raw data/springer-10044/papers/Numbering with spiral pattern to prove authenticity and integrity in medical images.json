@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-016-0552-0",
+    "title": "Numbering with spiral pattern to prove authenticity and integrity in medical images",
+    "abstract": "With the rapid development of technology in digital multimedia, manipulation and misconduct of digital data are soaring. The watermarking procedure is seen as helpful to protect the security of digital images which are highly confidential such as medical images. In this study, an efficient watermarking method for greyscale images is proposed. The scheme is designed to achieve good numbering pattern, exact detection and image recovery. The proposed scheme uses a unique spiral pattern numbering before implementing the block-based mechanism for embedding. The experiment tests the difference between using normal pattern and unique spiral pattern in numbering, and the results show that the proposed method produces a great quality value of embedded image with great tamper localization and recovery ability. This function can help in proving authenticity and integrity of medical images in the system.",
+    "citation_count": 50,
+    "year": "2017/11",
+    "authors": [
+        {
+            "name": "Hisham, Syifak Izhar",
+            "country": "Malaysia"
+        },
+        {
+            "name": "Muhammad, Afifah Nailah",
+            "country": "Malaysia"
+        },
+        {
+            "name": "Badshah, Gran",
+            "country": "Malaysia"
+        },
+        {
+            "name": "Johari, Nasrul Hadi",
+            "country": "Malaysia"
+        },
+        {
+            "name": "Mohamad Zain, Jasni",
+            "country": "Malaysia"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-020-00888-3",
+    "title": "Margin setting algorithm for pattern classification via spheres",
+    "abstract": "Margin setting algorithm (MSA) is a new sphere-based classification algorithm. It employs an artificial immune system approach to construct a number of hyperspheres that cover each class of a given set of data. To gain insights into the classification performance of MSA, it is the first work to analyze two important fundamental problems of MSA as a sphere-based classifier. First, single sphere or multiple spheres are needed to achieve good classification performance in MSA? This problem was presented as sphere analysis, which was experimentally carried out on simulation data sets using Monte Carlo method. The results demonstrated that MSA employs a multiple-sphere strategy instead of one-sphere strategy as its decision boundaries. This strategy allows MSA to achieve lower probabilities of classification error rate. Second, how to adapt the location and size of the hypersphere to achieve good classification performance? This problem was presented as adaption analysis, which was experimentally carried out on real-world data sets compared to the support vector machine and the artificial neural network. The results demonstrated that MSA employs an artificial immune system approach to optimize the locations of the hyperspheres and to shrink the radius of the hypersphere in a certain range using margin as an algorithm parameter. Overall, computational results indicate the advantages of MSA in classification performance.",
+    "citation_count": 32,
+    "year": "2020/11",
+    "authors": [
+        {
+            "name": "Wang, Yi",
+            "country": "USA"
+        },
+        {
+            "name": "Pan, W. David",
+            "country": "USA"
+        },
+        {
+            "name": "Fu, Jian",
+            "country": "USA"
+        },
+        {
+            "name": "Wei, Bingyang",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

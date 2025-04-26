@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885622000221",
+    "title": "Self-supervised part segmentation via motion imitation",
+    "abstract": "Given two images with the same appearance and different poses, the motion imitation is to warp the source image into the reference pose. Can the network learn the part information of the object in this process? In this paper, we take motion simulation as the pretext task to learn part information. It is based on the assumption that the generated image will be similar to the reference image only if the part information is sufficiently accurate. Different from the existing work, the key idea of this paper is to minimize the “creativity” of the motion imitation network to avoid that the network can generate an image similar to the reference image even if the part information is not learned. In particular, we investigate the complementarity of key point information and part information, and propose a joint learning module to make them benefit from each other. We constructed a multi-source fusion module to fuse missing information from multiple images to reduce the importance of the inpainting network with “creative” capabilities in the entire framework. And warping the image in the image space forces the network to directly use the original information to generate the image. In this way, the network can only move pixels based on the learned part information, not modify pixels. Compared with the existing self-supervised methods, the proposed method in this paper can produce more semantically consistent and meaningful parts without the utilization of any pre-computed information or pre-training weights. The effectivity and validity of the proposed method have verified through extensive experiments on Tai-Chi-HD and VoxCeleb datasets.",
+    "citation_count": "4",
+    "year": "2022/04/01",
+    "authors": [
+        {
+            "name": "Yanping Zhang",
+            "country": ""
+        },
+        {
+            "name": "Qiaokang Liang",
+            "country": ""
+        },
+        {
+            "name": "Kunlin Zou",
+            "country": ""
+        },
+        {
+            "name": "Zhengwei Li",
+            "country": ""
+        },
+        {
+            "name": "Wei Sun",
+            "country": ""
+        },
+        {
+            "name": "Yaonan Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

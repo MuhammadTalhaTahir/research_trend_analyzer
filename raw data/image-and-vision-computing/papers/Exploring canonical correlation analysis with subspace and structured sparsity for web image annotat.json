@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885616301093",
+    "title": "Exploring canonical correlation analysis with subspace and structured sparsity for web image annotation",
+    "abstract": "Canonical correlation analysis (CCA) has been extensively exploited for modelling Internet multimedia. However, two major challenges are raised for the classical CCA. First, CCA frequently fails to remove noisy and irrelevant features. Second, CCA cannot effectively capture the correlation between  semantic labels , which is especially beneficial for annotating web images. In this paper, we propose a new framework that integrates structural  sparsity  and low-rank shared subspace into the least-squares formulation of CCA. Under this framework, multiple label interactions can be uncovered by the shared common structure of the input space. Meanwhile, a few highly  discriminative features  can be decided via the structural sparse norm. Owing to the presence of non-smooth structured  sparsity , a new efficient  iterative algorithm  is derived with guaranteed convergence. The empirical studies over several popular web  image data  collections consistently deliver the effectiveness of our new formulation in comparison with competing algorithms.",
+    "citation_count": "3",
+    "year": "2016/10/01",
+    "authors": [
+        {
+            "name": "Liang Tao",
+            "country": ""
+        },
+        {
+            "name": "Horace H.S. Ip",
+            "country": ""
+        },
+        {
+            "name": "Aijun Zhang",
+            "country": ""
+        },
+        {
+            "name": "Xin Shu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

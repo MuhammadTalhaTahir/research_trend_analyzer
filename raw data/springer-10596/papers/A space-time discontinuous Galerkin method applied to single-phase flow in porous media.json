@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-008-9092-z",
+    "title": "A space-time discontinuous Galerkin method applied to single-phase flow in porous media",
+    "abstract": "A space-time discontinuous Galerkin finite element method is proposed and applied to a convection-dominant single-phase flow problem in porous media. The numerical scheme is based on a coupled space-time finite element discretization allowing for discontinuous approximations in space and in time. The continuities on the element interfaces are weakly enforced by the flux treatments, so that no extra penalty factor has to be determined. The resulting space-time formulation possesses the advantage of capturing the steep concentration front with sharp gradients efficiently. The stability and reliability of the proposed approach is demonstrated by numerical experiments.",
+    "citation_count": 40,
+    "year": "2008/12",
+    "authors": [
+        {
+            "name": "Chen, Zhiyun",
+            "country": "Germany"
+        },
+        {
+            "name": "Steeb, Holger",
+            "country": "Germany"
+        },
+        {
+            "name": "Diebels, Stefan",
+            "country": "Germany"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

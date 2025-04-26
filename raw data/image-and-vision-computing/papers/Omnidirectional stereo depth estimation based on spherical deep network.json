@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621001694",
+    "title": "Omnidirectional stereo depth estimation based on spherical deep network",
+    "abstract": "Omnidirectional depth estimation is an emerging  research topic  and has received significant attention in recent years. However, the existing methods were developed based on the theory of planar  stereo matching ; and introduce the nonlinear  epipolar constraint  and significant distortions of re-projections. In this paper, we propose a novel approach that use spherical  CNNs  and the  epipolar constraint  on sphere for omnidirectional depth estimation. We discuss the epipolar constraint for spherical stereo imaging and convert the nonlinear constraint on a planar projection to the  linear constraint  on a sphere. We then propose a Spherical Convolution  Residual Network  (SCRN) for omnidirectional depth estimation via the spherical linear epipolar constraint. The input equirectangular projection (ERP) images are sampled to spherical meshes and fed into SCRN to calculate spherical depth maps. For 2D visualization, we design a Planar Refinement Network (PRN) and adopt the cascade learning scheme to improve the accuracy of depth maps. This scheme reduces the errors caused by projection, interpolation, and the limitation of spherical representation. The experiment shows that our full scheme Cascade Spherical Depth Network (CSDNet) results in more accurate and detailed depth maps with lower errors, as compared to recent seminal works. Our approach yields the comparable performance to the other state-of-the-art works on the omnidirectional stereo datasets with less number of parameters. The effectiveness of the spherical network and the cascade learning scheme is validated, and the influence of spherical sampling density is also discussed.",
+    "citation_count": "9",
+    "year": "2021/10/01",
+    "authors": [
+        {
+            "name": "Ming Li",
+            "country": ""
+        },
+        {
+            "name": "Xuejiao Hu",
+            "country": ""
+        },
+        {
+            "name": "Jingzhao Dai",
+            "country": ""
+        },
+        {
+            "name": "Yang Li",
+            "country": ""
+        },
+        {
+            "name": "Sidan Du",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

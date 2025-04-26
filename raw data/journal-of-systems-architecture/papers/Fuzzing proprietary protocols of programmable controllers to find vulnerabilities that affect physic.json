@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122000625",
+    "title": "Fuzzing proprietary protocols of programmable controllers to find vulnerabilities that affect physical control",
+    "abstract": "Programmable controllers, critical components in  Industrial Control Systems  (ICS), are the bridge between cyberspace and physical world. With the development of the  Industrial Internet of Things  (IIoT), they are no longer physically isolated, allowing remote hackers to exploit vulnerabilities to attack them. However, due to the high degree of privatization and the complicated work flow of programmable controllers, the existing work is not suitable for discovering programmable controller vulnerabilities. In our research, we propose a traffic-driven protocol fuzzing approach for programmable controllers. Specifically, we perform proprietary protocol fuzzing on the network daemon by selecting seeds and guiding states of the device. In the fuzzing process, in addition to monitoring the network status, an oscilloscope is also used to automatically monitor the status of underlying control services. The triggering of these vulnerabilities invalidate the control of actuators by programmable controllers and directly affect the physical world. Moreover, it is extremely difficult to recover compromised devices to normal production tasks. We evaluated our prototype on 15 real-world programmable controllers from six popular manufacturers. We found 26 vulnerabilities based on analysis results, 20 of which can directly cause physical control services to crash.",
+    "citation_count": "14",
+    "year": "2022/06/01",
+    "authors": [
+        {
+            "name": "Puzhuo Liu",
+            "country": ""
+        },
+        {
+            "name": "Yaowen Zheng",
+            "country": ""
+        },
+        {
+            "name": "Zhanwei Song",
+            "country": ""
+        },
+        {
+            "name": "Dongliang Fang",
+            "country": ""
+        },
+        {
+            "name": "Shichao Lv",
+            "country": ""
+        },
+        {
+            "name": "Limin Sun",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

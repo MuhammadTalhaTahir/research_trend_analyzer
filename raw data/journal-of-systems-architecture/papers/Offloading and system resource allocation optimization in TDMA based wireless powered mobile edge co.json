@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762118305356",
+    "title": "Offloading and system resource allocation optimization in TDMA based wireless powered mobile edge computing",
+    "abstract": "In this paper, a wireless powered  mobile edge computing  (WP-MEC) system is considered, in which a hybrid  access point  integrated with MEC servers can charge  N  wireless devices (WDs) by broadcasting radio-frequency signals, and the  time division multiple access  (TDMA) protocol is used for  task offloading  of WDs. The goal of this paper is to maximize the weighted sum computation rate by joint optimization of system resources management and task computing time allocation. To solve this  optimization problem , an alternating direction multiplier method (ADMM) based distributed optimization method is proposed. The proposed method can decompose the optimization problem into  N  sub-problems, which are solved by  N  WDs. Experimental results show that the proposed method outperforms the benchmarks and greatly increases the weighted sum computation rate while keeping the energy consumption at a low level under the premise of time complexity  O ( N ).",
+    "citation_count": "14",
+    "year": "2019/09/01",
+    "authors": [
+        {
+            "name": "Chunlin Li",
+            "country": ""
+        },
+        {
+            "name": "Mingyang Song",
+            "country": ""
+        },
+        {
+            "name": "Hengliang Tang",
+            "country": ""
+        },
+        {
+            "name": "Youlong Luo",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

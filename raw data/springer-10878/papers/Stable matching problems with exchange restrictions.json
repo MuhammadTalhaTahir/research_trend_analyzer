@@ -1,0 +1,21 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-008-9153-1",
+    "title": "Stable matching problems with exchange restrictions",
+    "abstract": "We study variants of classical stable matching problems in which there is an additional requirement for a stable matching, namely that there should not be two participants who would prefer to exchange partners. The problem is motivated by the experience of real-world medical matching schemes that use stable matchings, where cases have arisen in which two participants discovered that each of them would prefer the other’s allocation, a situation that is seen as unfair. Our main result is that the problem of deciding whether an instance of the classical stable marriage problem admits a stable matching, with the additional property that no two men would prefer to exchange partners, is NP-complete. This implies a similar result for more general problems, such as the hospitals/residents problem, the many-to-one extension of stable marriage. Unlike previous NP-hardness results for variants of stable marriage, the proof exploits the powerful algebraic structure underlying the set of all stable matchings. In practical matching schemes, however, applicants’ preference lists are typically of short fixed length, and we describe a linear time algorithm for the problem in the special case where all of the men’s preference lists are of length&nbsp;≤3.",
+    "citation_count": 18,
+    "year": "2008/11",
+    "authors": [
+        {
+            "name": "Irving, Robert W.",
+            "country": "UK"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

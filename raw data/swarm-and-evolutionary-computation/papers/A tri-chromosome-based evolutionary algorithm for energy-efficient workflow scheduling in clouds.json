@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S221065022400289X",
+    "title": "A tri-chromosome-based evolutionary algorithm for energy-efficient workflow scheduling in clouds",
+    "abstract": "Cloud computing is increasingly attracting workflow applications, where workflows need to satisfy execution deadlines and energy consumption is to be minimized. So far, numerous studies have adopted evolutionary algorithms to optimize the energy consumption of workflow execution. Dynamic voltage and frequency scaling (DVFS) has been widely employed to save energy on computing devices running workflow tasks. However, most existing evolutionary algorithms focus on evolving task execution order or mapping from tasks to resources, while neglecting the evolution of task runtime to leverage the dynamic voltage and frequency scaling (DVFS) technology for further energy saving. To compensate for that deficiency, this paper designs a tri-chromosome-based evolutionary algorithm, namely TCEA, to evolve three types of decision vectors (i.e., task order, task and resource mapping, and task runtime) simultaneously using three problem-specific mechanisms. Firstly, we construct a search space by using the tasks’ minimum and optimal runtime, and propose a solution representation mechanism to simplify the decision vector for task runtime between 0 and 1. Secondly, we design a deadline constraint handling mechanism to distribute those durations exceeding the deadline to each task based on their extension of the minimum runtime. Thirdly, we exploit the workflow structure to cluster decision variables without direct constraints into the same group. During each iteration, only the order of tasks within a group evolves to avoid precedence constraints, thus performing searches within the feasible space. At last, we conduct comparison experiments on five types of real-world workflows with 30 to 1000 tasks. The energy consumed by TCEA is much less than those consumed by the state-of-the-art workflow scheduling algorithms, demonstrating the superior performance of TCEA in energy saving.",
+    "citation_count": "0",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Yangkun Xia",
+            "country": ""
+        },
+        {
+            "name": "Xinran Luo",
+            "country": ""
+        },
+        {
+            "name": "Ting Jin",
+            "country": ""
+        },
+        {
+            "name": "Jun Li",
+            "country": ""
+        },
+        {
+            "name": "Lining Xing",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

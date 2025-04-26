@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-019-00483-1",
+    "title": "Fitting PB1-p62 filaments model structure into its electron microscopy based on an improved genetic algorithm",
+    "abstract": "This paper presents a method to realize fitting PDB of protein molecule PB1-p62 into its EM in PB1 domain, based on rotation group SO(3) theory. An image partition method is adopted on the EM images before performing sampling process. Different sample points are distributed on the different EM image partitioned areas. The number of these sample points may be controlled by an improved genetic algorithm. Through iteration, we may get the optimum and then obtain the satisfactory fitting.",
+    "citation_count": 19,
+    "year": "2021/11",
+    "authors": [
+        {
+            "name": "Zhao, Zhihong",
+            "country": "China"
+        },
+        {
+            "name": "Li, Beibei",
+            "country": "China"
+        },
+        {
+            "name": "Liu, Jun",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

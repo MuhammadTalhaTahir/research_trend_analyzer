@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S221065021500053X",
+    "title": "Novel benchmark functions for continuous multimodal optimization with comparative results",
+    "abstract": "Multi-modal optimization is concerned with locating  multiple optima  in one single run. Finding multiple solutions to a multi-modal optimization problem is especially useful in engineering, as the best solution may not always be the best realizable due to various practical constraints. To compare the performances of multi-modal optimization algorithms, multi-modal benchmark problems are always required. In this paper, 15 novel scalable multi-modal and real parameter benchmark problems are proposed. Among these 15 problems, 8 are extended simple functions while the rest are  composition  functions. These functions coordinate rotation and shift operations to create linkage among different dimensions and to place the optima at different locations, respectively. Four typical niching algorithms are used to solve the proposed problems. As shown by the experimental results, the proposed problems are challenging to these four recent algorithms.",
+    "citation_count": "98",
+    "year": "2016/02/01",
+    "authors": [
+        {
+            "name": "B.Y. Qu",
+            "country": ""
+        },
+        {
+            "name": "J.J. Liang",
+            "country": ""
+        },
+        {
+            "name": "Z.Y. Wang",
+            "country": ""
+        },
+        {
+            "name": "Q. Chen",
+            "country": ""
+        },
+        {
+            "name": "P.N. Suganthan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

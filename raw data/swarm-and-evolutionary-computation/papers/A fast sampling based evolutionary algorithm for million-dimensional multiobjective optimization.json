@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650222001481",
+    "title": "A fast sampling based evolutionary algorithm for million-dimensional multiobjective optimization",
+    "abstract": "With their complexity and vast  search space , large-scale  multiobjective optimization  problems (LSMOPs) challenge existing multiobjective  evolutionary algorithms  (MOEAs). Recently, several large-scale multiobjective  evolutionary algorithms  have been developed to tackle LSMOPs. Unlike conventional MOEAs that concentrate on selection operations in the  objective space , large-scale MOEAs emphasize operations in the decision space, such as  offspring  generation, to tackle the large number of decision variables. Nevertheless, most present large-scale MOEAs experience difficulty effectively and efficiently solving LSMOPs with tens of thousands or more decision variables or exhibit poor versatility in solving different LSMOPs. We propose a fast large-scale MOEA framework with reference-guided offspring generation, named FLEA, aiming at these issues. Generally, FLEA constructs several reference vectors in the decision space to steer the sampling of promising solutions during offspring generation. A parameter is used to  allocate computation  resources between the convergence and diversity of the offspring population adaptively. Without computationally expensive  problem reformulation  or decision variable analysis techniques, the proposed method can significantly accelerate the search speed of conventional MOEAs in solving LSMOPs. FLEA is examined on various LSMOPs with up to 1.6 million decision variables, demonstrating its superior effectiveness, efficiency, and versatility in large-scale  multiobjective optimization .",
+    "citation_count": "19",
+    "year": "2022/12/01",
+    "authors": [
+        {
+            "name": "Lianghao Li",
+            "country": ""
+        },
+        {
+            "name": "Cheng He",
+            "country": ""
+        },
+        {
+            "name": "Ran Cheng",
+            "country": ""
+        },
+        {
+            "name": "Hongbin Li",
+            "country": ""
+        },
+        {
+            "name": "Linqiang Pan",
+            "country": ""
+        },
+        {
+            "name": "Yaochu Jin",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-009-9236-7",
+    "title": "The robot cleans up",
+    "abstract": "Imagine a large building with many corridors. A&nbsp;robot cleans these corridors in a greedy fashion, the next corridor cleaned is always the dirtiest to which it is incident. We determine bounds on the minimum s(G) and maximum S(G) number of time steps (over all edge weightings) before every edge of a graph&nbsp;G has been cleaned. We show that Eulerian graphs have a self-stabilizing property that holds for any initial edge weighting: after the initial cleaning of all edges, all subsequent cleanings require s(G) time steps. Finally, we show the only self-stabilizing trees are a subset of the superstars.",
+    "citation_count": 7,
+    "year": "2009/11",
+    "authors": [
+        {
+            "name": "Messinger, M. E.",
+            "country": "Canada"
+        },
+        {
+            "name": "Nowakowski, R. J.",
+            "country": "Canada"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

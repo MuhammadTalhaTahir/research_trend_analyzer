@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1023/B:JOCO.0000017381.11696.c6",
+    "title": "The Incremental Group Testing Model for Gap Closing in Sequencing Long Molecules",
+    "abstract": "In this paper, we propose the incremental group testing model for the gap closing problem, which assumes that we can tell the difference between the outcome of testing a subset S, and the outcome of testing S ∪ {x}. We also give improvements over currently best results in literature for some other models.",
+    "citation_count": 14,
+    "year": "2003/12",
+    "authors": [
+        {
+            "name": "Hwang, Frank K.",
+            "country": "Republic of China"
+        },
+        {
+            "name": "Lin, Wen-Dar",
+            "country": "Taiwan"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

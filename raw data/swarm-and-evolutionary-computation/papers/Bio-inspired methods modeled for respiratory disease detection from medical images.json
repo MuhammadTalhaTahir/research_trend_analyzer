@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217307125",
+    "title": "Bio-inspired methods modeled for respiratory disease detection from medical images",
+    "abstract": "Medicine is an important venue for practical applications of science. A fusion of  mathematical modeling  and programming into computer methods makes a great support for efficient treatment and diagnosis. Computational Intelligence is one of these sciences which bring valuable help in decision support. In this article we present a devoted methodology implemented to simulate medical examinations of pulmonary diseases. We propose Bio-Inspired Methods modeled to work as the automated decision support in a process of diseased tissues detection over input x-ray images. These methods have special features that with devoted modeling make them independently search over the images with a good accuracy. In our approach we use dedicated fitness condition for selected heuristic algorithms. Mathematical model of medical expertise is formulated as a function used to search for special features of pixels that are representing respiratory diseases like pneumonia, lungs sarcoidosis and cancer. Presented decision modeling simulates medical x-ray image examination process to show where potentially diseased tissues are located. To enhance decision support the system returns to the doctor detection results from two tracks. In the first, patient and doctor can see detection from each of the algorithms, and in the second aggregated results. In this way the doctor receives a complex support that simulates consulting the image with various specialists. In benchmark tests, for a set of original x-ray images from various clinics, applied methods were examined to demonstrate benefits of using implemented solution. Results show that proposed methodology is efficient and promising for pulmonary diseases detection.",
+    "citation_count": "64",
+    "year": "2018/08/01",
+    "authors": [
+        {
+            "name": "Marcin Woźniak",
+            "country": ""
+        },
+        {
+            "name": "Dawid Połap",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-011-9248-0",
+    "title": "Modelling thermal transients from magmatic underplating—an example from the Vøring margin (NE Atlantic)",
+    "abstract": "The thermal impact of several kilometre-thick magmatic underplating in the lower continental crust is studied with analytical and numerical methods. Simple analytical solutions are derived for the thermal transient in the case of an infinite depth below the underplate and also for the case of a finite depth (down to the asthenosphere). It is shown that these solutions lead to simple approximations for when the transient surface heat flow is at its maximum, what the maximum is, and for how long the transient lasts. Even though these solutions assume that the underplate is emplaced instantaneously, they are useful in the interpretation of underplating over finite time spans. A numerical scheme is suggested for the modelling of underplating that handles both short time intervals as well as long intervals. The scheme treats magmatic underplating in a mass and energy conservative manner, and it is compared against the analytical solutions. Finally, the analytical and numerical results for thermal transients are applied to a transect from the Vøring margin (NE Atlantic), with respect to various degrees of early Cenozoic magmatic intrusion. It appears that more than half of the lower crustal body (LCB) in the Vøring margin must be magmatic underplating for the vitrinite reflectance to be substantially higher than for the non-magmatic case, where the LCB is assumed to comprise Caledonian crust.",
+    "citation_count": 44,
+    "year": "2011/09",
+    "authors": [
+        {
+            "name": "Wangen, Magnus",
+            "country": "Norway"
+        },
+        {
+            "name": "Mjelde, Rolf",
+            "country": "Norway"
+        },
+        {
+            "name": "Faleide, Jan Inge",
+            "country": "Norway"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

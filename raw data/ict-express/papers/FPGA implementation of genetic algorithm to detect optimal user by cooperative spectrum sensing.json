@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959517301376",
+    "title": "FPGA implementation of genetic algorithm to detect optimal user by cooperative spectrum sensing",
+    "abstract": "The major task for cognitive radio (CR) systems is to sense the spectrum holes reliably and make the secondary user share the spectrum efficiently and effectively with the primary users. The Cognitive Radio cannot sense the primary users correctly because of the shadowing and fading environment in the multipath channel. To overcome this sensing problem collaboration between the secondary users has to be established. In collaborative sensing, a fusion centre will receive information from each secondary user and a decision will be made by fusion rule. Genetic algorithm is used to select secondary users having higher SNRs. MATLAB is used to carry out the simulation to obtain the optimum number of users can involved in the collaboration. HDL is implemented on Genetic algorithm to detect the optimal secondary users. Simulation and synthesis report is given in this paper.",
+    "citation_count": "0",
+    "year": "2019/12/01",
+    "authors": [
+        {
+            "name": "D. Damodaram",
+            "country": ""
+        },
+        {
+            "name": "T. Venkateswarlu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762118305010",
+    "title": "Evaluation framework for energy-aware multiprocessor scheduling in real-Time systems",
+    "abstract": "Multiprocessor  and  multicore  architectures are fast becoming the platform of choice for deploying workloads, as they have higher computing capabilities and energy efficiency than traditional architectures. In addition to time constraints, a number of real-time applications are required to operate in systems working with limited power supplies, which also imposes tight energy constraints on their execution. Therefore, it is desirable for the system to minimize its energy consumption while still achieving a satisfactory performance. Several energy-aware scheduling techniques addressing this issue have been proposed over the past few years. Unfortunately, few aspects of implementation are seldom considered in theoretical work, and only a tiny fraction of these techniques have been implemented in an actual hardware platform and evaluated by analytical methods. The work presented in this paper thus attempts to provide a prototyping and evaluation framework in which energy-aware multiprocessor  scheduling algorithms  can translate into full-fledged practical realizations, where their power consumption profiles can be properly measured.",
+    "citation_count": "9",
+    "year": "2019/09/01",
+    "authors": [
+        {
+            "name": "Pedro Mejia-Alvarez",
+            "country": ""
+        },
+        {
+            "name": "David Moncada-Madero",
+            "country": ""
+        },
+        {
+            "name": "Hakan Aydin",
+            "country": ""
+        },
+        {
+            "name": "Arnoldo Diaz-Ramirez",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

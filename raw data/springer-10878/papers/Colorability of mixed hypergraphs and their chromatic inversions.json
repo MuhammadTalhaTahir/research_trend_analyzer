@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-012-9559-7",
+    "title": "Colorability of mixed hypergraphs and their chromatic inversions",
+    "abstract": "We solve a long-standing open problem concerning a discrete mathematical model, which has various applications in computer science and several other fields, including frequency assignment and many other problems on resource allocation. A mixed hypergraph $$\\mathcal H $$ is a triple $$(X,\\mathcal C ,\\mathcal D )$$ , where $$X$$ is the set of vertices, and $$\\mathcal C $$ and $$\\mathcal D $$ are two set systems over $$X$$ , the families of so-called C-edges and D-edges, respectively. A vertex coloring of a mixed hypergraph $$\\mathcal H $$ is proper if every C-edge has two vertices with a common color and every D-edge has two vertices with different colors. A mixed hypergraph is colorable if it has at least one proper coloring; otherwise it is uncolorable. The chromatic inversion of a mixed hypergraph $$\\mathcal H =(X,\\mathcal C ,\\mathcal D )$$ is defined as $$\\mathcal H ^c=(X,\\mathcal D ,\\mathcal C )$$ . Since 1995, it was an open problem wether there is a correlation between the colorability properties of a hypergraph and its chromatic inversion. In this paper we answer this question in the negative, proving that there exists no polynomial-time algorithm (provided that $$P \\ne NP$$ ) to decide whether both $$\\mathcal H $$ and $$\\mathcal H ^c$$ are colorable, or both are uncolorable. This theorem holds already for the restricted class of 3-uniform mixed hypergraphs (i.e., where every edge has exactly three vertices). The proof is based on a new polynomial-time algorithm for coloring a special subclass of 3-uniform mixed hypergraphs. Implementation in C++ programming language has been tested. Further related decision problems are investigated, too.",
+    "citation_count": 10,
+    "year": "2013/05",
+    "authors": [
+        {
+            "name": "Hegyháti, Máté",
+            "country": "Hungary"
+        },
+        {
+            "name": "Tuza, Zsolt",
+            "country": "Hungary"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

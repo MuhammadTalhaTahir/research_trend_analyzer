@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-012-0300-z",
+    "title": "Recognizing multi-modal sensor signals using evolutionary learning of dynamic Bayesian networks",
+    "abstract": "Multi-modal context-aware systems can provide user-adaptive services, but it requires complicated recognition models with larger resources. The limitations to build optimal models and infer the context efficiently make it difficult to develop practical context-aware systems. We developed a multi-modal context-aware system with various wearable sensors including accelerometers, gyroscopes, physiological sensors, and data gloves. The system used probabilistic models to handle the uncertain and noisy time-series sensor data. In order to construct the efficient probabilistic models, this paper uses an evolutionary algorithm to model structure and EM algorithm to determine parameters. The trained models are selectively inferred based on a semantic network which describes the semantic relations of the contexts and sensors. Experiments with the real data collected show the usefulness of the proposed method.",
+    "citation_count": 29,
+    "year": "2014/11",
+    "authors": [
+        {
+            "name": "Lee, Young-Seol",
+            "country": "Korea"
+        },
+        {
+            "name": "Cho, Sung-Bae",
+            "country": "Korea"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

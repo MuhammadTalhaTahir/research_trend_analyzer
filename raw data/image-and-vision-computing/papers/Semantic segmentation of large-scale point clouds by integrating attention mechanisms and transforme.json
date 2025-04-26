@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624001239",
+    "title": "Semantic segmentation of large-scale point clouds by integrating attention mechanisms and transformer models",
+    "abstract": "In the current field of point cloud processing,  semantic segmentation  of large-scale point clouds remains a challenging problem. Traditional methods often underperform when faced with the complexity and density variations present in large-scale point cloud data. This study introduces an innovative model designed for semantic segmentation of large-scale point clouds. The model integrates a CNN-Transformer-based Context Aggregation Module with a Slot  Attention mechanism  to enhance the understanding of entity relationships and improve semantic  segmentation performance . Furthermore, by flexibly adjusting the weight parameters within the loss function, we have optimized the training process, increasing its flexibility. In our experiments, we compared the proposed model with 55 classical and contemporary point cloud semantic  segmentation models , evaluating semantic segmentation performance,  computational resource  consumption, inference time, and the number of model parameters. The results show a significant improvement in performance on the S3DIS and Semantic3D datasets, specifically achieving an mIoU of 71.53% and an OA of 93.92%. Ablation studies were conducted to further ascertain the contribution of each module to the overall performance of the model. This study presents an innovative approach to overcoming the challenges of large-scale point cloud semantic segmentation, offering significant contributions to the advancement of point cloud processing.",
+    "citation_count": "4",
+    "year": "2024/06/01",
+    "authors": [
+        {
+            "name": "Tiebiao Yuan",
+            "country": ""
+        },
+        {
+            "name": "Yangyang Yu",
+            "country": ""
+        },
+        {
+            "name": "Xiaolong Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

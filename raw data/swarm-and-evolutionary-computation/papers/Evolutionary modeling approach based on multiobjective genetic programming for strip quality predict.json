@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S221065022400052X",
+    "title": "Evolutionary modeling approach based on multiobjective genetic programming for strip quality prediction",
+    "abstract": "In the  iron and steel industry , hardness is one of the key indicators of strip quality in the continuous annealing production line (CAPL). However, the complex production process and the strong coupled nonlinearity between process parameters make it difficult to develop accurate mechanism models and pose a challenge for data-driven modeling approaches. More importantly, most of the data-driven learning methods lack interpretability and cannot characterize the mathematical relationship between process parameters and product quality, which in turn makes it extremely hard to understand the process mechanism. Therefore, this paper proposes an interpretable modeling approach (IMA) based on feature decomposition and ensemble to construct interpretable analytical models between process parameters and strip quality. In the IMA, a data-mechanism fusion-based feature decomposition (DM_FD) method is first applied to cope with high-dimensional input feature problems. Then, an improved multiobjective genetic programming algorithm (iMOGP) is developed to construct interpretability sub-models. Finally, a sparse optimization ensemble method (SOE) is used to integrate the sub-models to achieve interpretability and good generalization. Experimental results based on practical strip data demonstrate that the proposed IMA can cope well with high-dimensional input features and achieve model interpretability compared with commonly used  machine learning methods  and genetic programming (GP)-based modeling methods while ensuring better accuracy and generalization.",
+    "citation_count": "2",
+    "year": "2024/04/01",
+    "authors": [
+        {
+            "name": "Yao Wang",
+            "country": ""
+        },
+        {
+            "name": "Xianpeng Wang",
+            "country": ""
+        },
+        {
+            "name": "Lixin Tang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

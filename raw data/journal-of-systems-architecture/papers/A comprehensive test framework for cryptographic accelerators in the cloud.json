@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762120301533",
+    "title": "A comprehensive test framework for cryptographic accelerators in the cloud",
+    "abstract": "To alleviate the  performance degradation  introduced by  cryptographic operations  in web-based services, dedicated  hardware accelerators  have emerged for calculation offloading. However, accelerators from different vendors can be endowed with variable run-time modes and optimized for different workload types. It is necessary but challenging to fully and fairly quantify the associated acceleration benefits and determine usages for cloud tasks. To this end, we establish a common  test framework  oriented for  cryptographic accelerators . The micro benchmarks of our framework rely on the classic  OpenSSL speed  tool. The macro benchmarks of our framework present a server–client architecture. The server side modifies the  Nginx  web server and integrates it with  Redis  memory storage as well as a  MySQL  database to mimic practical cloud workloads in a customizable manner. The client side modifies the classic  ApacheBench  tool to support concurrent server access as well as automatic collection and analysis of test results. Our framework supports diverse running modes and workload types to comprehensively locate and present the capability characteristics of accelerators. Tests are conducted on three accelerators, i.e., Intel QAT, Cavium Nitrox and Exar DX2040a. These accelerators have similar performance as reported by their vendors. The result analyses and product-to-product comparisons show that our framework can benefit  cloud providers ,  application programmers  and accelerator vendors simultaneously by providing important conclusions such as whether to offload, how to offload, and potential optimizations for more efficient offloading.",
+    "citation_count": "3",
+    "year": "2021/02/01",
+    "authors": [
+        {
+            "name": "Hubin Zhang",
+            "country": ""
+        },
+        {
+            "name": "Xiaokang Hu",
+            "country": ""
+        },
+        {
+            "name": "Jian Li",
+            "country": ""
+        },
+        {
+            "name": "Haibing Guan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

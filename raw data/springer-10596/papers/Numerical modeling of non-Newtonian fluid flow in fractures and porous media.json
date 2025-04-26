@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-017-9639-y",
+    "title": "Numerical modeling of non-Newtonian fluid flow in fractures and porous media",
+    "abstract": "Non-Newtonian fluids having Bingham or power-law rheology are common in many applications within drilling and reservoir engineering. Examples of such fluids are drilling muds, foams, heavy oil, hydraulic-fracturing and other stimulation fluids, and cement slurries. Despite the importance of non-Newtonian rheology, it is rarely used in reservoir simulators and fracture flow simulations. We study two types of non-Newtonian rheology: the truncated power-law (Ostwald-de Waele) fluid and the Bingham fluid. For either of the two types of non-Newtonian rheology, we construct relationships between the superficial fluid velocity and the pressure gradient in fractures and porous media. The Bingham fluid is regularized by means of Papanastasiou-type regularization for porous media and by means of a simple hyperbolic function for fracture flow. Approximation by Taylor expansion is used to evaluate the fluid velocity for small pressure gradients to reduce rounding errors. We report simulations of flow in rough-walled fractures for different rheologies and study the effect of fluid parameters on the flow channelization in rough-walled fractures. This effect is known from previous studies. We demonstrate how rheologies on different domains can be included in a fully-unstructured reservoir simulation that incorporates discrete fracture modeling (DFM). The above formulation was implemented in the open-source MATLAB Reservoir Simulation Toolbox (MRST), which uses fully implicit discretization on general polyhedral grids, including industry standard grids with DFM. This robust implementation is an important step towards hydro-mechanically coupled simulation of hydraulic fracturing with realistic non-Newtonian fluid rheology since most hydraulic fracturing models implemented so far make use of oversimplified rheological models (e.g., Newtonian or pure power-law).",
+    "citation_count": 36,
+    "year": "2017/12",
+    "authors": [
+        {
+            "name": "Bao, Kai",
+            "country": "Norway"
+        },
+        {
+            "name": "Lavrov, Alexandre",
+            "country": "Norway"
+        },
+        {
+            "name": "Nilsen, Halvor Møll",
+            "country": "Norway"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

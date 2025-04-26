@@ -1,0 +1,36 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-024-10320-y",
+    "title": "Application of deep learning reduced-order modeling for single-phase flow in faulted porous media",
+    "abstract": "Our research is positioned within the framework of subsurface resource utilization for sustainable economies. We concentrate on modeling the underground single-phase fluid flow affected by geological faults using numerical simulations. The study of such flows is characterized by strong uncertainites in the data defing the problem due to the difficulty of taking precise measurements in the subsoil. We aim to demonstrate the feasibility of a reduced order model that is both reliable and computationally efficient, thereby facilitating the incorporation of uncertainties. We account for the uncertainities of the properties of the rock and the geometry of the fault. The latter is achieved by using a radial basis function mesh deformation method. This approach benefits from a mixed-dimensional framework to model the rock matrix and faults as n and $${n-1}$$ dimensional domains, allowing for non-conforming meshes. Our primary focus is on a reduced-order model capable of reproducing flow variables across the entire domain. We utilize the Deep Learning Reduced Order Model (DL-ROM), a nonintrusive neural network-based technique, and we compare it against the traditional Proper Orthogonal Decomposition (POD) method across various scenarios. The most relevant contributions of this work are: the proof of concept of the use of neural network for reduced order models for subsoil flow, dealing with non-affine problems and mixed dimensional domain. Additionally, we generalize an existing mesh deformation method for discontinuous deformation maps. Our analysis highlights the capability of reduced order model, highlighting DL-ROM’s capacity to expedite complex analyses with promising accuracy and efficiency, making multi-query analyses with various quantities of interest affordable.",
+    "citation_count": 56,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "Ballini, Enrico",
+            "country": "Italy"
+        },
+        {
+            "name": "Formaggia, Luca",
+            "country": "Italy"
+        },
+        {
+            "name": "Fumagalli, Alessio",
+            "country": "Italy"
+        },
+        {
+            "name": "Scotti, Anna",
+            "country": "Italy"
+        },
+        {
+            "name": "Zunino, Paolo",
+            "country": "Italy"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

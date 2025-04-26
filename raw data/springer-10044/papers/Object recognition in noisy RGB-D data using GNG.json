@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-016-0546-y",
+    "title": "Object recognition in noisy RGB-D data using GNG",
+    "abstract": "Object recognition in 3D scenes is a research field in which there is intense activity guided by the problems related to the use of 3D point clouds. Some of these problems are influenced by the presence of noise in the cloud that reduces the effectiveness of a recognition process. This work proposes a method for dealing with the noise present in point clouds by applying the growing neural gas (GNG) network filtering algorithm. This method is able to represent the input data with the desired number of neurons while preserving the topology of the input space. The GNG obtained results which were compared with a Voxel grid filter to determine the efficacy of our approach. Moreover, since a stage of the recognition process includes the detection of keypoints in a cloud, we evaluated different keypoint detectors to determine which one produces the best results in the selected pipeline. Experiments show how the GNG method yields better recognition results than other filtering algorithms when noise is present.",
+    "citation_count": 29,
+    "year": "2017/11",
+    "authors": [
+        {
+            "name": "Rangel, José Carlos",
+            "country": "Spain"
+        },
+        {
+            "name": "Morell, Vicente",
+            "country": "Spain"
+        },
+        {
+            "name": "Cazorla, Miguel",
+            "country": "Spain"
+        },
+        {
+            "name": "Orts-Escolano, Sergio",
+            "country": "Spain"
+        },
+        {
+            "name": "García-Rodríguez, José",
+            "country": "Spain"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

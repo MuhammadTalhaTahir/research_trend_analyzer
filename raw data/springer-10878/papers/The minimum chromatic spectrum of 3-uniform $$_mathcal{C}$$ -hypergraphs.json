@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-013-9625-9",
+    "title": "The minimum chromatic spectrum of 3-uniform $$\\mathcal{C}$$ -hypergraphs",
+    "abstract": "Let $$S(n,k)$$ be the Stirling number of the second kind. In this paper, we prove that for any integer $$n$$ at least three, there exists a 3-uniform $$\\mathcal{C}$$ -hypergraph $$\\mathcal{H}$$ with chromatic spectrum $$R(\\mathcal{H})=(1,r_2,S(n,3),\\ldots , S(n,n))$$ , which is the minimum chromatic spectrum of 3-uniform $$\\mathcal{C}$$ -hypergraphs with upper chromatic number n.",
+    "citation_count": 9,
+    "year": "2015/05",
+    "authors": [
+        {
+            "name": "Zhang, Ruixue",
+            "country": "China"
+        },
+        {
+            "name": "Zhao, Ping",
+            "country": "China"
+        },
+        {
+            "name": "Diao, Kefeng",
+            "country": "China"
+        },
+        {
+            "name": "Lu, Fuliang",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621000019",
+    "title": "Knowledge distillation methods for efficient unsupervised adaptation across multiple domains",
+    "abstract": "Beyond the complexity of  CNNs  that require training on large annotated datasets, the domain shift between design and operational data has limited the adoption of  CNNs  in many real-world applications. For instance, in person re-identification, videos are captured over a distributed set of cameras with non-overlapping viewpoints. The shift between the source (e.g. lab setting) and target (e.g. cameras) domains may lead to a significant decline in  recognition accuracy . Additionally, state-of-the-art  CNNs  may not be suitable for such real-time applications given their computational requirements. Although several techniques have recently been proposed to address domain shift problems through  unsupervised domain adaptation  (UDA), or to accelerate/compress  CNNs  through  knowledge distillation  (KD), we seek to simultaneously adapt and compress CNNs to generalize well across multiple target domains. In this paper, we propose a progressive KD approach for unsupervised single-target DA (STDA) and multi-target DA (MTDA) of CNNs. Our method for KD-STDA adapts a CNN to a single target domain by distilling from a larger teacher CNN, trained on both target and  source domain data  in order to maintain its consistency with a common representation. This method is extended to address MTDA problems, where multiple teachers are used to distill multiple target domain knowledge to a common student CNN. A different target domain is assigned to each teacher model for UDA, and they alternatively distill their knowledge to the student model to preserve specificity of each target, instead of directly combining the knowledge from each teacher using fusion methods. Our proposed approach is compared against state-of-the-art methods for compression and STDA of CNNs on the Office31 and ImageClef-DA  image classification  datasets. It is also compared against state-of-the-art methods for MTDA on Digits, Office31, and OfficeHome. In both settings – KD-STDA and KD-MTDA – results indicate that our approach can achieve the highest level of accuracy across target domains, while requiring a comparable or lower CNN complexity.",
+    "citation_count": "16",
+    "year": "2021/04/01",
+    "authors": [
+        {
+            "name": "Le Thanh Nguyen-Meidine",
+            "country": ""
+        },
+        {
+            "name": "Atif Belal",
+            "country": ""
+        },
+        {
+            "name": "Madhu Kiran",
+            "country": ""
+        },
+        {
+            "name": "Jose Dolz",
+            "country": ""
+        },
+        {
+            "name": "Louis-Antoine Blais-Morin",
+            "country": ""
+        },
+        {
+            "name": "Eric Granger",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,21 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-019-00444-8",
+    "title": "Approximation of Steiner forest via the bidirected cut relaxation",
+    "abstract": "The classical algorithm of Agrawal et al. (SIAM J Comput 24(3):440–456, 1995), stated in the setting of the primal-dual schema by Goemans and Williamson (SIAM J Comput 24(2):296–317, 1995) uses the undirected cut relaxation for the Steiner forest problem. Its approximation ratio is $$2-\\frac{1}{k}$$ , where k is the number of terminal pairs. A variant of this algorithm more recently proposed by Könemann et al. (SIAM J Comput 37(5):1319–1341, 2008) is based on the lifted cut relaxation. In this paper, we continue this line of work and consider the bidirected cut relaxation for the Steiner forest problem, which lends itself to a novel algorithmic idea yielding the same approximation ratio as the classical algorithm. In doing so, we introduce an extension of the primal-dual schema in which we run two different phases to satisfy connectivity requirements in both directions. This reveals more about the combinatorial structure of the problem. In particular, there are examples on which the classical algorithm fails to give a good approximation, but the new algorithm finds a near-optimal solution.",
+    "citation_count": 11,
+    "year": "2019/11",
+    "authors": [
+        {
+            "name": "Çivril, Ali",
+            "country": "Turkey"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

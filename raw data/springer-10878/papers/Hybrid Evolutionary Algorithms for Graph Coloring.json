@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1009823419804",
+    "title": "Hybrid Evolutionary Algorithms for Graph Coloring",
+    "abstract": "A recent and very promising approach for combinatorial optimization is to embed local search into the framework of evolutionary algorithms. In this paper, we present such hybrid algorithms for the graph coloring problem. These algorithms combine a new class of highly specialized crossover operators and a well-known tabu search algorithm. Experiments of such a hybrid algorithm are carried out on large DIMACS Challenge benchmark graphs. Results prove very competitive with and even better than those of state-of-the-art algorithms. Analysis of the behavior of the algorithm sheds light on ways to further improvement.",
+    "citation_count": 24,
+    "year": "1999/12",
+    "authors": [
+        {
+            "name": "Galinier, Philippe",
+            "country": "France"
+        },
+        {
+            "name": "Hao, Jin-Kao",
+            "country": "France"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

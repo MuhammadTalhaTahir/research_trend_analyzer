@@ -1,0 +1,21 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-004-4836-8",
+    "title": "On Combinatorial Approximation of Covering 0-1 Integer Programs and Partial Set Cover",
+    "abstract": "The problems dealt with in this paper are generalizations of the set cover problem, min{cx | Ax ≥ b, x ∈{0,1} n }, where c ∈ Q+ n , A ∈ {0,1}m × n, b ∈ 1. The covering 0-1 integer program is the one, in this formulation, with arbitrary nonnegative entries of A and b, while the partial set cover problem requires only m–K constrains (or more) in Ax ≥ b to be satisfied when integer K is additionall specified. While many approximation algorithms have been recently developed for these problems and their special cases, using computationally rather expensive (albeit polynomial) LP-rounding (or SDP-rounding), we present a more efficient purely combinatorial algorithm and investigate its approximation capability for them. It will be shown that, when compared with the best performance known today and obtained by rounding methods, although its performance comes short in some special cases, it is at least equally good in general, extends for partial vertex cover, and improves for weighted multicover, partial set cover, and further generalizations.",
+    "citation_count": 0,
+    "year": "2004/12",
+    "authors": [
+        {
+            "name": "Fujito, Toshihiro",
+            "country": "Japan"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

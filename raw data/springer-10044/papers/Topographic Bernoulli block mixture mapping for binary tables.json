@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-014-0368-8",
+    "title": "Topographic Bernoulli block mixture mapping for binary tables",
+    "abstract": "Co-clustering methods are valuable parsimonious approaches for the analysis of a binary data table by a simultaneous partitioning of the rows or the columns. Bringing the property of visualization to co-clustering is of first importance for a fast access to the essential topics and their relations. We propose a new generative self-organizing map by a particular parameterization of the Bernoulli block mixture model. The method is called block GTM or topographic block model. Thanks to the underlying probabilistic framework, the inference of the parameters of the method is performed with the block EM algorithm. At the maximization step, two local quadratic approximations of the objective function arise from a second-order optimization, respectively, with the Newton–Raphson algorithm and with a variational bound of the sigmoid function. In the experiments with several datasets, the two algorithms are able to outperform former approaches and lead to similar results when the parameters are regularized with a $$L_1$$ -norm. The conclusion summarizes the contribution and some perspectives.",
+    "citation_count": 36,
+    "year": "2014/11",
+    "authors": [
+        {
+            "name": "Priam, Rodolphe",
+            "country": "United Kingdom"
+        },
+        {
+            "name": "Nadif, Mohamed",
+            "country": "France"
+        },
+        {
+            "name": "Govaert, Gérard",
+            "country": "France"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

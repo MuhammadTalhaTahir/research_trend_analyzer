@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-022-01077-0",
+    "title": "Sensitivity analysis of feature weighting for classification",
+    "abstract": "Feature weighting is a well-known approach for improving the performance of machine learning algorithms that has been gaining a lot of traction recently. It rescales the feature space such that models of learning algorithms fit better. Although it helps in obtaining high performance in numerous applications, the sensitivity of machine learning algorithms to the weighting, which depends upon their learning mechanisms, has not been explored yet. Such analysis is essential for the practical use of weighting in boosting performance. Therefore, this work presents a empirical assessment of four popular machine learning algorithms which are sensitive to the changes in the feature space. This assessment determines the improvements in performance with weighted features compared to unweighted ones and also identifies the best learning algorithms. The wrapper approach utilizing whale optimization algorithm is used to search for the best feature weights and the parameters of classifiers. The outcomes of experiments combined with the learning mechanism of classifiers show the high sensitivity with k-NN, MLP, and SVM with RBF kernel classifiers while the NB classifier shows the least sensitivity. In terms of practical use, k-NN and SVM-RBF are the best choices for applications demanding accurate predictions, whereas Naive Bayes is the best choice for applications requiring minimal time.",
+    "citation_count": 71,
+    "year": "2022/11",
+    "authors": [
+        {
+            "name": "Singh, Dalwinder",
+            "country": "India"
+        },
+        {
+            "name": "Singh, Birmohan",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

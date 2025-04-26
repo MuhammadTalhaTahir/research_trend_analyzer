@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959519302978",
+    "title": "UAV-assisted cooperative downlink NOMA with virtual full-duplex operation",
+    "abstract": "In this paper, we consider an unmanned aerial vehicle (UAV)-assisted downlink cellular network consisting of a single base station (BS), two mobile stations (MSs) with  N  antennas, and  K  UAV relay stations (RSs). We assume that there exists no direct link between the BS and the MSs due to unexpected blockages such as obstacles and disasters. We propose a UAV-assisted cooperative downlink non-orthogonal multiple access (NOMA) with virtual full-duplex (VFD) operation for improving spectral efficiency in such an environment. In the proposed VFD technique, a single UAV-RS is selected among multiple UAV-RS. Through computer simulations, we verify that the proposed cooperative NOMA technique with VFD operation significantly outperforms the conventional cooperative NOMA technique with half-duplex operation in terms of outage probability.",
+    "citation_count": "0",
+    "year": "2019/12/01",
+    "authors": [
+        {
+            "name": "Jeong Seon Yeom",
+            "country": ""
+        },
+        {
+            "name": "Young-bin Kim",
+            "country": ""
+        },
+        {
+            "name": "Bang Chul Jung",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

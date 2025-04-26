@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S026288560600285X",
+    "title": "Interaction framework for home environment using speech and vision",
+    "abstract": "In this article we describe an  interaction framework  that uses speech recognition and computer-vision to model new generation of interfaces in the residential environment. We outline the blueprints of the architecture and describe the main  building blocks . We show a concrete prototype platform where this novel architecture has been deployed and tested at the user field trials. The work is co-funded by EC as part of “HomeTalk” IST-2001-33507 project.",
+    "citation_count": "2",
+    "year": "2007/12/03",
+    "authors": [
+        {
+            "name": "Jan Kleindienst",
+            "country": ""
+        },
+        {
+            "name": "Tomáš Macek",
+            "country": ""
+        },
+        {
+            "name": "Ladislav Serédi",
+            "country": ""
+        },
+        {
+            "name": "Jan Šedivý",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,134 @@
+[
+    {
+        "title": "Editorial Board",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001750"
+    },
+    {
+        "title": "Effective hybrid attention network based on pseudo-color enhancement in ultrasound image segmentation",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001166"
+    },
+    {
+        "title": "FSformer: Fast-Slow Transformer for video action recognition",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001142"
+    },
+    {
+        "title": "Discriminable feature enhancement for unsupervised domain adaptation",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001294"
+    },
+    {
+        "title": "Joint representation and classifier learning for long-tailed image classification",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001336"
+    },
+    {
+        "title": "USMLP: U-shaped Sparse-MLP network for mass segmentation in mammograms",
+        "url": "https://www.sciencedirect.com/science/article/pii/S026288562300135X"
+    },
+    {
+        "title": "VAESim: A probabilistic approach for self-supervised prototype discovery",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001208"
+    },
+    {
+        "title": "Generation-based contrastive model with semantic alignment for generalized zero-shot learning",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001324"
+    },
+    {
+        "title": "WPE: Weighted prototype estimation for few-shot learning",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001312"
+    },
+    {
+        "title": "EatSense: Human centric, action recognition and localization dataset for understanding eating behaviors and quality of motion assessment",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001361"
+    },
+    {
+        "title": "Visual tracking using transformer with a combination of convolution and attention",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001348"
+    },
+    {
+        "title": "Transformer-based feature interactor for person re-identification with margin self-punishment loss",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001269"
+    },
+    {
+        "title": "Attentive spatial-temporal contrastive learning for self-supervised video representation",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001397"
+    },
+    {
+        "title": "LDWS-net: A learnable deep wavelet scattering network for RGB salient object detection",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001221"
+    },
+    {
+        "title": "Dynamic texture analysis using Temporal Gray scale Pattern Image for water surface velocity measurement",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001233"
+    },
+    {
+        "title": "Distilling knowledge for occlusion robust monocular 3D face reconstruction",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001373"
+    },
+    {
+        "title": "Efficient unsupervised learning of biological images with compressed deep features",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001385"
+    },
+    {
+        "title": "FgbCNN: A unified bilinear architecture for learning a fine-grained feature representation in facial expression recognition",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001440"
+    },
+    {
+        "title": "Multi parallel U-net encoder network for effective polyp image segmentation",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001415"
+    },
+    {
+        "title": "Deep robust multi-channel learning subspace clustering networks",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001439"
+    },
+    {
+        "title": "Qualitative failures of image generation models and their application in detecting deepfakes",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001452"
+    },
+    {
+        "title": "Temporally consistent reconstruction of 3D clothed human surface with warp field",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001567"
+    },
+    {
+        "title": "PatchMixer: Rethinking network design to boost generalization for 3D point cloud understanding",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001427"
+    },
+    {
+        "title": "Unsupervised person re-identification by dynamic hybrid contrastive learning",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001609"
+    },
+    {
+        "title": "Temporal information oriented motion accumulation and selection network for RGB-based action recognition",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001592"
+    },
+    {
+        "title": "Anchor-based discriminative dual distribution calibration for transductive zero-shot learning",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001464"
+    },
+    {
+        "title": "Perceiving local relative motion and global correlations for weakly supervised group activity recognition",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001634"
+    },
+    {
+        "title": "A novel approach for bias mitigation of gender classification algorithms using consistency regularization",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001671"
+    },
+    {
+        "title": "An end-to-end anti-shaking multi-focus image fusion approach",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001622"
+    },
+    {
+        "title": "3D human body modeling with orthogonal human mask image based on multi-channel Swin transformer architecture",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001695"
+    },
+    {
+        "title": "GW-net: An efficient grad-CAM consistency neural network with weakening of random erasing features for semi-supervised person re-identification",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001646"
+    },
+    {
+        "title": "Lightweight image denoising network with four-channel interaction transform",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001403"
+    },
+    {
+        "title": "ATOM: Self-supervised human action recognition using atomic motion representation learning",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001245"
+    }
+]

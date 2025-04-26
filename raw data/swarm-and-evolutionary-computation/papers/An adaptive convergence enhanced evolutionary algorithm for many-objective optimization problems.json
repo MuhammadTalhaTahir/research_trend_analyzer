@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S221065022200147X",
+    "title": "An adaptive convergence enhanced evolutionary algorithm for many-objective optimization problems",
+    "abstract": "For evolutionary computation, how to balance the convergence and diversity of populations is a challenging problem for solving many-objective optimization problems. In particular, with the increasing of the number of objectives, the non-dominated solutions in the population increase sharply, and there is no sufficient convergence pressure for the population to converge to the true Pareto front. How to solve this problem, we propose a new preferred solution selection strategy by finding non-dominated solutions with better convergence to enhance the convergence pressure of evolution, where a number of special solutions are selected with the best convergence index value from the surviving solutions of the previous generation. The number of special solutions determines the convergence pressure, so an adaptive updating method of the number of special solutions is further proposed to dynamically adjust the convergence pressure of the population, the aim is to guide the convergence direction to the Pareto front. Based on these strategies, we propose a convergence enhanced evolutionary algorithm (CEEA) to balance the convergence and diversity of the search algorithm. A large number of experiments have been carried out on some benchmark many-objective problems with 3–15 objectives, experimental results demonstrate that CEEA has better results compared with some state-of-the-art many-objective evolutionary algorithms.",
+    "citation_count": "11",
+    "year": "2022/12/01",
+    "authors": [
+        {
+            "name": "Ying Xu",
+            "country": ""
+        },
+        {
+            "name": "Huan Zhang",
+            "country": ""
+        },
+        {
+            "name": "Xiangxiang Zeng",
+            "country": ""
+        },
+        {
+            "name": "Yusuke Nojima",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

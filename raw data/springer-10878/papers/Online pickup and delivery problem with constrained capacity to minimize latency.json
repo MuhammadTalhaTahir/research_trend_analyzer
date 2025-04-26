@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-020-00615-y",
+    "title": "Online pickup and delivery problem with constrained capacity to minimize latency",
+    "abstract": "The online pickup and delivery problem is motivated by the takeaway order delivery on crowdsourcing delivery platform, which is a newly emerged online to offline business model based on sharing economy. Considering the features of crowdsourcing delivery, an online pickup and delivery problem with constrained capacity is proposed, whose objective is to route a delivery man with constrained capacity to serve requests released over time so as to minimize the total latency. We consider online point-to-point requests with single pickup location where each request has to be picked up at the single pickup location and delivered to its destination, and each request become available at its release time, which is not known in advance. The lower bound of this problem for various capacities is proved. Two online algorithms WR and WI are presented, the competitive ratios on a half line and on general metric space are proved respectively. Further, a computational study is conducted to compare the performance of these two online algorithms on random instances of general metric space. The result shows algorithm WR performs better than WI in random cases but not in the worst case.",
+    "citation_count": 12,
+    "year": "2022/07",
+    "authors": [
+        {
+            "name": "Yu, Haiyan",
+            "country": "China"
+        },
+        {
+            "name": "Luo, Xianwei",
+            "country": "China"
+        },
+        {
+            "name": "Wu, Tengyu",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

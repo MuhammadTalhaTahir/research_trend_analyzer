@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885616301226",
+    "title": "Estimation of mirror shape and extrinsic parameters in axial non-central catadioptric systems",
+    "abstract": "We propose a method to estimate the mirror shape and position, and the  extrinsic parameters  in axial non-central  catadioptric systems  (i.e. systems with an axial symmetrical mirror and a pinhole camera with its optical center located at the mirror axis). Our method requires one or more images of a planar calibration pattern consisting of points and lines with known position (e.g. a checkerboard), and that the camera be internally calibrated. We also present an alternative algorithm for the particular case of catadioptric systems with spherical mirror, were the estimation is achieved by fitting quartic curves to the images of lines of the calibration pattern. An analytical solution is presented for every method. Each analytical solution is then refined by a non-linear  optimization procedure . We present experimental results, on simulated and real images, that demonstrate the validity of our work.",
+    "citation_count": "4",
+    "year": "2016/10/01",
+    "authors": [
+        {
+            "name": "Luis Perdigoto",
+            "country": ""
+        },
+        {
+            "name": "Helder Araujo",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

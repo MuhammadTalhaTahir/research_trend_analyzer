@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650222001614",
+    "title": "A hybrid meta-heuristic for the flexible flow shop scheduling with blocking",
+    "abstract": "This paper investigates a multi-stage flexible  flow shop scheduling  problem with blocking on batch processing machines. The objective is to minimize the makespan and the  total energy consumption  of machines, simultaneously. We first describe the problem and formulate its  mathematical model . Based on problem characteristics, we design a hybrid meta-heuristic algorithm based on  ant colony optimization  and  genetic algorithms  to solve the problem. In order to solve this problem efficiently, the proposed algorithm consists of two components, which are used to construct batch and achieve overall scheduling, respectively. The search strategy based on ant colony  optimization algorithm  is designed to construct batches to improve the convergence of the algorithm. Based on this, a global scheduling strategy based on genetic algorithm is proposed to intensify the diversity. Finally, extensive simulation experiments are conducted to verify the effectiveness and efficiency of the proposed algorithm.",
+    "citation_count": "11",
+    "year": "2022/12/01",
+    "authors": [
+        {
+            "name": "Yan Wang",
+            "country": ""
+        },
+        {
+            "name": "Zhao-hong Jia",
+            "country": ""
+        },
+        {
+            "name": "Xing-yi Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,37 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-012-9548-x",
+    "title": "Bandwidth sums of block graphs and cacti",
+    "abstract": "A labeling of a graph G is an injective function f:V(G)→ℤ. The bandwidth sum of a graph G with respect to a labeling f is $B_{s}^{f}(G) = \\sum_{uv \\in E(G)} |f(u)-f(v)|$ and the bandwidth sum of G is $B_{s}(G) = \\min\\{B_{s}^{f}(G)\\colon f\\mbox{ is a labeling of }G\\}$ . In this paper, we determine bandwidth sums for some block graphs and cacti.",
+    "citation_count": 6,
+    "year": "2014/05",
+    "authors": [
+        {
+            "name": "Chang, Gerard Jennhwa",
+            "country": "Taiwan"
+        },
+        {
+            "name": "Chia, Ma-Lian",
+            "country": "Taiwan"
+        },
+        {
+            "name": "Kuo, David",
+            "country": "Taiwan"
+        },
+        {
+            "name": "Lin, Ji-Yin",
+            "country": "Taiwan"
+        },
+        {
+            "name": "Yan, Jing-Ho",
+            "country": "Taiwan"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

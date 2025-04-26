@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224002256",
+    "title": "Parallel fractional dominance MOEAs for feature subset selection in big data",
+    "abstract": "In this paper, we solve the feature subset selection (FSS) problem with three objective functions namely, cardinality, area under receiver operating characteristic curve (AUC) and Matthews correlation coefficient (MCC) using novel multi-objective evolutionary algorithms (MOEAs). MOEAs often encounter poor convergence due to the increase in non-dominated solutions and getting entrapped in the local optima. This situation worsens when dealing with large, voluminous big and high-dimensional datasets. To address these challenges, we propose parallel, fractional dominance-based MOEAs for FSS under Spark. Further, to improve the exploitation of MOEAs, we introduce a novel batch opposition-based learning (BOP) along with a cardinality constraint on the opposite solution. Accordingly, we propose two variants, namely, BOP1 and BOP2. In BOP1, a single neighbour is randomly chosen in the opposite solution space, whereas in BOP2, a group of randomly chosen neighbours in the opposite solution space. In either case, the opposite solutions are evaluated to improve the exploitation capability of the underlying MOEAs. We observe that in terms of mean optimal objective function values and across all datasets, the proposed BOP2 variant of parallel fractional dominance-based algorithms emerges as the top performer in obtaining efficient solutions. Further, we introduce a novel metric, namely the ratio of hypervolume (HV) and inverted generated distance (IGD), HV/IGD, that combines both diversity and convergence. With respect to the mean HV/IGD computed over 20 runs and Formula 1 racing, the BOP1 variants of fractional dominance-based MOEAs outperformed other algorithms.",
+    "citation_count": "1",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Yelleti Vivek",
+            "country": ""
+        },
+        {
+            "name": "Vadlamani Ravi",
+            "country": ""
+        },
+        {
+            "name": "Ponnuthurai Nagaratnam Suganthan",
+            "country": ""
+        },
+        {
+            "name": "P. Radha Krishna",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

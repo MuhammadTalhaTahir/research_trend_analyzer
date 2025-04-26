@@ -1,0 +1,36 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-022-10169-z",
+    "title": "The traveling wavefront for foam flow in two-layer porous media",
+    "abstract": "The injection of foams into porous media has gained importance as a method of controlling gas mobility. The multilayer structure of the porous medium raises a question on its efficiency in dealing with layers of different permeabilities. The present work shows the existence of a single traveling wavefront in a two-layer porous medium for a simplified model, which was derived from a realistic two-dimensional one. Besides the necessary conditions for the solution’s existence, we prove that the traveling wave velocity is a weighted average of the velocities as if both layers were isolated. All theoretical estimates were validated through one- and two-dimensional simulations. Finally, we estimated the order of magnitude of the characteristic time the traveling wavefront needs to stabilize.",
+    "citation_count": 49,
+    "year": "2022/12",
+    "authors": [
+        {
+            "name": "Vásquez, A. J. Castrillón",
+            "country": "Brazil"
+        },
+        {
+            "name": "Lozano, L. F.",
+            "country": "Brazil"
+        },
+        {
+            "name": "Pereira, W. S.",
+            "country": "Brazil"
+        },
+        {
+            "name": "Cedro, J. B.",
+            "country": "USA"
+        },
+        {
+            "name": "Chapiro, G.",
+            "country": "Brazil"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

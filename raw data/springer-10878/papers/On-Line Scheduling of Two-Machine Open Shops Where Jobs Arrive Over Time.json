@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1009786526733",
+    "title": "On-Line Scheduling of Two-Machine Open Shops Where Jobs Arrive Over Time",
+    "abstract": "We investigate the problem of on-line scheduling two-machine open shops with the objective of minimizing the makespan.Jobs arrive independently over time, and the existence of a job is not known until its arrival. In the clairvoyant on-line model, the processing requirement of every job becomes fully known at the arrival of the job, while inthe non-clairvoyant on-line model, this processing requirement is notknown until the job is processed and completed.In both models, scheduling of a job is irrevocable. We study the two-machine open shop problem for both models in the preemptive and in the non-preemptive version. For each of the four variants, we provide an algorithm that is best possible with respect to the worst-case performance. In the clairvoyant on-line model, the best worst-case performance ratios are 5/4 (preemptive) and 3/2 (non-preemptive), and in the non-clairvoyant on-line model, they are 3/2 (preemptive and non-preemptive).",
+    "citation_count": 8,
+    "year": "1998/12",
+    "authors": [
+        {
+            "name": "Chen, Bo",
+            "country": "United Kingdom"
+        },
+        {
+            "name": "Vestjens, Arjen P.A.",
+            "country": "The Netherlands"
+        },
+        {
+            "name": "Woeginger, Gerhard J.",
+            "country": "Austria"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

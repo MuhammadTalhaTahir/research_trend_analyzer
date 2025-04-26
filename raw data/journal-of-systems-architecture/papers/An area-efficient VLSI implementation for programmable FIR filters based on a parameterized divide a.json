@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762108000891",
+    "title": "An area-efficient VLSI implementation for programmable FIR filters based on a parameterized divide and conquer approach",
+    "abstract": "In this paper, we propose an optimal  VLSI  implementation for a class of programmable  FIR filters  with  binary coefficients , whose architecture is based on a parameterized divide and  conquer approach . The proposed design is shown to be easily extendable to FIR filters with multibit coefficients of arbitrary sign. The area efficiency achieved in comparison to direct form realization is demonstrated by VLSI implementation examples, synthesized in TSMC 0.18-μm single poly six metal layer  CMOS  process using state-of-art VLSI  EDA  tools. The possible saving in average  power consumption  is estimated using gate-level power analysis. Suggestions for applications and topics for further research conclude the paper.",
+    "citation_count": "0",
+    "year": "2008/12/01",
+    "authors": [
+        {
+            "name": "Thomas Poonnen",
+            "country": ""
+        },
+        {
+            "name": "Adly T. Fam",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

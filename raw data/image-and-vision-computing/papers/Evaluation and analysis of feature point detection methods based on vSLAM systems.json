@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624001197",
+    "title": "Evaluation and analysis of feature point detection methods based on vSLAM systems",
+    "abstract": "Feature point detection  is identified as a significant issue in the field of  computer vision . Quantitative conclusions have been established regarding the performance evaluation of feature point detection using manually annotated datasets. However, these datasets, obtained through affine transformations with preset parameters on images, exhibit limitations in terms of variety, quantity, and challenges, differing from real-world application scenarios. In actual scenes, Vision  Simultaneous Localization and Mapping  (vSLAM) systems are extensively applied, and the precision of their localization and mapping is directly linked to the performance of feature points. To profoundly understand the performance of feature point detection in practical applications, vSLAM systems are chosen for evaluation in this study. More diverse and challenging datasets are utilized, encompassing real datasets covering variations in lighting, rotation, occlusion, and camera angle changes, as well as  synthetic datasets  reflecting complex conditions such as time, season, motion patterns, and environmental textures. Based on the evaluation results, the applicability of various feature point detection methods in different environments is thoroughly discussed, and the underlying principles are analyzed (Table 13). The conclusions drawn from this research provide references for the development of new feature point detection methods, the selection of such methods in vSLAM systems, and other related studies in the field of computer vision.",
+    "citation_count": "3",
+    "year": "2024/06/01",
+    "authors": [
+        {
+            "name": "Chenyang Xie",
+            "country": ""
+        },
+        {
+            "name": "Qiang Liu",
+            "country": ""
+        },
+        {
+            "name": "Baojia Chen",
+            "country": ""
+        },
+        {
+            "name": "Zhiqiang Hao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

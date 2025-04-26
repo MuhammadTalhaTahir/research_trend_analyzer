@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-015-9862-1",
+    "title": "A fast greedy sequential heuristic for the vertex colouring problem based on bitwise operations",
+    "abstract": "In this paper a fast greedy sequential heuristic for the vertex colouring problem is presented. The suggested algorithm builds the same colouring of the graph as the well-known greedy sequential heuristic in which on every step the current vertex is coloured in the minimum possible colour. Our main contributions include introduction of a special matrix of forbidden colours and application of efficient bitwise operations on bit representations of the adjacency and forbidden colours matrices. Computational experiments show that in comparison with the classical greedy heuristic the average speedup of the developed approach is 2.6 times on DIMACS instances.",
+    "citation_count": 23,
+    "year": "2016/05",
+    "authors": [
+        {
+            "name": "Komosko, Larisa",
+            "country": "Russia"
+        },
+        {
+            "name": "Batsyn, Mikhail",
+            "country": "Russia"
+        },
+        {
+            "name": "Segundo, Pablo San",
+            "country": "Spain"
+        },
+        {
+            "name": "Pardalos, Panos M.",
+            "country": "Russia"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

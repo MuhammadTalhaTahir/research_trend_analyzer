@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624004141",
+    "title": "Fine-grained semantic oriented embedding set alignment for text-based person search",
+    "abstract": "Text-based person search aims to retrieve images of a person that are highly semantically relevant to a given textual description. The difficulty of this retrieval task is modality heterogeneity and fine-grained matching. Most existing methods only consider the alignment using global features, ignoring the fine-grained matching problem. The cross-modal attention interactions are popularly used for image patches and text markers for direct alignment. However, cross-modal attention may cause a huge overhead in the reasoning stage and cannot be applied in actual scenarios. In addition, it is unreasonable to perform patch-token alignment, since image patches and text tokens do not have complete semantic information. This paper proposes an Embedding Set Alignment (ESA) module for fine-grained alignment. The module can preserve fine-grained semantic information by merging token-level features into embedding sets. The ESA module benefits from pre-trained cross-modal large models, and it can be combined with the backbone non-intrusively and trained in an end-to-end manner. In addition, an Adaptive Semantic Margin (ASM) loss is designed to describe the alignment of embedding sets, instead of adapting a loss function with a fixed margin. Extensive experiments demonstrate that our proposed fine-grained semantic embedding set alignment method achieves state-of-the-art performance on three popular benchmark datasets, surpassing the previous best methods.",
+    "citation_count": "0",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Jiaqi Zhao",
+            "country": ""
+        },
+        {
+            "name": "Ao Fu",
+            "country": ""
+        },
+        {
+            "name": "Yong Zhou",
+            "country": ""
+        },
+        {
+            "name": "Wen-liang Du",
+            "country": ""
+        },
+        {
+            "name": "Rui Yao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

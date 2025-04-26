@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624000222",
+    "title": "Multi-view daily action recognition based on Hooke balanced matrix and broad learning system",
+    "abstract": "Daily action recognition is a challenging task in  computer vision , and so the multi-layer methods are proposed recently. However, the feature concatenation strategy in multi-view clustering can be regarded as equal-scale  feature fusion  and ignores the information difference between views. To deal with this problem, we firstly propose the multi-view feature fusion strategy, which constructs Hooke balanced matrix to complete multi-view unsupervised clustering in preparation for more discriminative motion atoms. Secondly, we build the coverage detection network model based on the broad  learning system  (BLS) to mine the relationship between the features and labels of motion atoms and obtain more accurate labels of motion atoms. Finally, the experimental results based on the WVU dataset, the NTU RGB-D 120 dataset and the N-UCLA dataset show that the proposed UVS-H-BLS method has state-of-the-art performance, compared with the classic methods such as iDT, MoFAP, JLMF, FGCN, MVMLR, and UVS.",
+    "citation_count": "1",
+    "year": "2024/03/01",
+    "authors": [
+        {
+            "name": "Zhigang Liu",
+            "country": ""
+        },
+        {
+            "name": "Bingshuo Lu",
+            "country": ""
+        },
+        {
+            "name": "Yin Wu",
+            "country": ""
+        },
+        {
+            "name": "Chunlei Gao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,16 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-013-0318-x",
+    "title": "Fixed-size ensemble classifier system evolutionarily adapted to a recurring context with an unlimited pool of classifiers",
+    "abstract": "This paper presents a novel ensemble classifier system designed to process data streams featuring occasional changes in their characteristics (concept drift). The ensemble is especially effective when the concepts reappear (recurring context). The system collects information on emerging contexts in a pool of elementary classifiers trained on subsequent data chunks. The pool is updated only when concept drift is detected. In contrast to other ensemble solutions, classifiers are not removed from the pool, and therefore, knowledge of past contexts is preserved for future use. To ensure high classification performance, the number of classifiers contributing to decision-making is fixed and limited. Only selected elements from the pool can join the decision-making ensemble. The process of selecting classifiers and adjusting their weights is realized by an evolutionary-based optimization algorithm that aims to minimize the system misclassification rate. Performance of the system is evaluated through a series of experiments presenting some key features of the system.",
+    "citation_count": 64,
+    "year": "2014/11",
+    "authors": [
+        {
+            "name": "Jackowski, Konrad",
+            "country": "Poland"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

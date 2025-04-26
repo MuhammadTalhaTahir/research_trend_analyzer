@@ -1,0 +1,30 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10617-014-9133-x",
+    "title": "Randomizing task placement and route selection do not randomize traffic (enough)",
+    "abstract": "Dragonflies are one of the most promising topologies for the Exascale effort for their scalability and cost. Dragonflies achieve very high throughput under uniform traffic, but have a pathological behavior under other regular traffic patterns, some of them very common in HPC applications, such as the multi-dimensional stencil communication pattern or certain permutation patterns. A recent study showed that randomization of task placement greatly improves the performance of these pathological traffic patterns by increasing the similarity of the load they induce to a uniformly distributed load. In this work we provide a theoretical model that is able to predict the expected performance of a generic dragonfly network under uniform traffic and characterize performance-optimal, minimal cost dragonflies. We then match the predictions of this model with the performance obtained through the detailed simulation of a wide range of dragonfly configurations. In these same scenarios, we explore the performance of other non-uniform traffic patterns and investigate the impact of randomization techniques based on both task placement and indirect routing. For these previously unexplored traffic patterns, we obtain similar results to those obtained in previous works for the multi-dimensional stencil communication pattern: randomizing task placement and/or path choice is effective in improving the performance of pathological workloads. However, we also show that neither uniformization technique is able to close the gap between the performance of these traffic patterns and the ideal performance of uniform random traffic, leaving significant room for improvement (best achieved performance is only roughly $$50~\\%$$ of uniform performance).",
+    "citation_count": 9,
+    "year": "2014/09",
+    "authors": [
+        {
+            "name": "Prisacari, Bogdan",
+            "country": "Switzerland"
+        },
+        {
+            "name": "Rodriguez, German",
+            "country": "Switzerland"
+        },
+        {
+            "name": "Jokanovic, Ana",
+            "country": "Spain"
+        },
+        {
+            "name": "Minkenberg, Cyriel",
+            "country": "Switzerland"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

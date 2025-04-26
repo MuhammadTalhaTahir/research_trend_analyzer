@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-014-9441-z",
+    "title": "A backward automatic differentiation framework for reservoir simulation",
+    "abstract": "In numerical reservoir simulations, Newton’s method is a concise, robust and, perhaps the most commonly used method to solve nonlinear partial differential equations (PDEs). However, as reservoir simulators incorporate more and more physical and chemical phenomena, writing codes that compute gradients for reservoir simulation equations can become quite complicated. This paper presents an automatic differentiation (AD) framework that is specially designed for simplifying coding and simultaneously maintaining computational efficiency. First a parse tree for a mathematical expression is built and evaluated with the backward mode AD, and then the derivatives with respect to the expression’s arguments are transformed to derivatives with respect to the PDE’s independent variables. The first stage can be realized either by runtime polymorphism to gain higher flexibility or by compile-time polymorphism to gain faster execution speed; the second stage is realized by linear combinations of sparse vectors, which can be accelerated by recording the target column indices. The AD framework has been implemented in an in-house reservoir simulator. Individual tests on some complex mathematical expressions were carried out to compare the speed of the manual implementation, the runtime polymorphic implementation and the compile-time polymorphic implementation of the differentiation. Then the performance of the three was analyzed in complete simulations. These cases indicate that the proposed approach has good efficiency and is applicable to reservoir simulations.",
+    "citation_count": 35,
+    "year": "2014/12",
+    "authors": [
+        {
+            "name": "Li, Xiang",
+            "country": "China"
+        },
+        {
+            "name": "Zhang, Dongxiao",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

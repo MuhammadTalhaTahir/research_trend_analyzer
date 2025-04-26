@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-017-9631-6",
+    "title": "On obtaining optimal well rates and placement for CO2 storage",
+    "abstract": "Large-scale storage of CO2 in saline aquifers is considered an essential technology to mitigate CO2 emissions. Storage potential has mainly been estimated based on volumetrics or detailed simulations for specific injection scenarios. In practice, achievable storage capacity will depend on engineering, economical, and political restrictions and be limited by the length of the injection period, costs associated with potential CO2 leakage, pressure management, etc. We show how achievable storage volumes can be estimated and maximized using adjoint-based optimization and a hierarchy of simulation methods. In particular, vertical equilibrium models provide the simplest possible description of the flow dynamics during the injection and early post-injection period, while percolation type methods provide effective means for forecasting the long-term fate of CO2 during the later migration stages. We investigate the storage volumes that can be achieved for several formations found along the Norwegian Continental Shelf by optimizing well placement and injection rates, and using production wells for pressure management when necessary. Optimal strategies are obtained under various objectives and simple but realistic constraints, namely: penalization of CO2 leakage, minimization of well cost, and restriction of pressure buildup.",
+    "citation_count": 51,
+    "year": "2017/12",
+    "authors": [
+        {
+            "name": "Allen, Rebecca",
+            "country": "Norway"
+        },
+        {
+            "name": "Nilsen, Halvor Møll",
+            "country": "Norway"
+        },
+        {
+            "name": "Andersen, Odd",
+            "country": "Norway"
+        },
+        {
+            "name": "Lie, Knut-Andreas",
+            "country": "Norway"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

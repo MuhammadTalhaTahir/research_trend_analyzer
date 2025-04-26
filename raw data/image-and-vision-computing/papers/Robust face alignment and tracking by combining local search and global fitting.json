@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885616300737",
+    "title": "Robust face alignment and tracking by combining local search and global fitting",
+    "abstract": "When a face in an image is considerably occluded, existing local search and global fitting methods often cannot find the  facial features  due to failures in the local facial feature detectors or the fitting limitations of appearance modeling. To solve these problems, we propose a new face alignment method that combines the local search and global fitting methods, where local misalignments in the  local search method  are restricted by holistic appearance fitting in the global fitting method and the divergent or shrinking alignments in the global fitting method are avoided by the restricting local movements in the local search method. The proposed alignment method consists of two stages: the  initialization stage  detects the face, estimates the facial pose and obtains the initial facial features by locating a pose-specific mean shape on the detected face; the  optimization stage  then obtains the facial features by updating the parameter set from the combined  Hessian matrix  and the combined  gradient vector . We also extend the proposed face alignment to face tracking by adding a  template  image that is warped from the facial features obtained in the previous frame. In the experiments, the proposed method yields more accurate and stable face alignment or tracking under heavy occlusion and pose variation than the existing methods.",
+    "citation_count": "4",
+    "year": "2016/07/01",
+    "authors": [
+        {
+            "name": "Jongju Shin",
+            "country": ""
+        },
+        {
+            "name": "Daijin Kim",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

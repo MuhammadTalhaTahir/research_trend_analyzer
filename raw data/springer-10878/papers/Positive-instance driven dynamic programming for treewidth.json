@@ -1,0 +1,21 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-018-0353-z",
+    "title": "Positive-instance driven dynamic programming for treewidth",
+    "abstract": "Consider a dynamic programming scheme for a decision problem in which all subproblems involved are also decision problems. An implementation of such a scheme is positive-instance driven (PID), if it generates positive subproblem instances, but not negative ones, building each on smaller positive instances. We take the dynamic programming scheme due to Bouchitté and Todinca for treewidth computation, which is based on minimal separators and potential maximal cliques, and design a variant (for the decision version of the problem) with a natural PID implementation. The resulting algorithm performs extremely well: it solves a number of standard benchmark instances for which the optimal solutions have not previously been known. Incorporating a new heuristic algorithm for detecting safe separators, it also solves all of the 100 public instances posed by the exact treewidth track in PACE 2017, a competition on algorithm implementation. We describe the algorithm, prove its correctness, and give a running time bound in terms of the number of positive subproblem instances. We perform an experimental analysis which supports the practical importance of such a bound.",
+    "citation_count": 21,
+    "year": "2019/05",
+    "authors": [
+        {
+            "name": "Tamaki, Hisao",
+            "country": "Japan"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

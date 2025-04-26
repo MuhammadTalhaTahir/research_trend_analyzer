@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885622002402",
+    "title": "Face reenactment via generative landmark guidance",
+    "abstract": "The identity preserving problem is one of the major obstacles in face reenactment. The problem occurs when the model fails to preserve the detailed information of the source identity, and especially obvious when reenacting different identities. The underlying factors may include the leaking of driver identity, due to the identity mismatch, and unseen large head poses. In this paper, we propose a novel face reenactment approach via generative landmark coordinates. Specifically, a conditional generative adversarial network is developed to estimate reenacted landmark coordinates for the driving image, which successfully excludes its identity information. These generated coordinates are further injected into the subsequent inference style transferal module to increase the realism of face images. We evaluated our method on the VoxCeleb1 dataset for self-reenactment and the CelebV dataset for reenacting different identities. Extensive experiments demonstrate that our method can produce more realistic reenacted face images.",
+    "citation_count": "8",
+    "year": "2023/02/01",
+    "authors": [
+        {
+            "name": "Chen Hu",
+            "country": ""
+        },
+        {
+            "name": "Xianghua Xie",
+            "country": ""
+        },
+        {
+            "name": "Lin Wu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

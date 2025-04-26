@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-024-10327-5",
+    "title": "A discrete fracture matrix framework for simulating single-phase flow and non-isothermal reactive transport",
+    "abstract": "Simulating reactive transport in fractured porous media is computationally demanding since it requires solving physical and chemical processes that non-linearly affect each other. At the same time, the processes strongly depend on the presence of fractures. Fractures typically behave as shortcuts for flow and transport, while chemical reactions can trigger mineral dissolution or precipitation that might alter the fracture conductivity, thereby modifying the flow regime. The computational demands increase with the number of chemical species, subject to chemical equilibrium and kinetics, and with the complexity of fracture networks. In the case of reservoir simulations, where there are a considerable number of chemical species and fracture networks are highly complex, the computational requirements are severe. In this paper, we present a simulation strategy that handles reactive transport processes with numerous chemical reactions and their two-way interaction with fractures. The governing processes are modelled by conservation equations, joint with ordinary differential equations and non-linear algebraic equations. The fractures are explicitly represented and treated as lower-dimensional objects. We propose a sequential fully implicit procedure to solve the model equations, where the flow and transport equations are solved in a global sense using the open-source code PorePy and the chemical equations are solved using the open-source code Reaktoro. The implementation is established by comparing our simulation results to those from a previously presented study. Moreover, we also show that the presented simulation strategy can handle the coupled processes in porous media with numerous chemical species and intersecting fractures.",
+    "citation_count": 62,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "Banshoya, Shin Irgens",
+            "country": "Norway"
+        },
+        {
+            "name": "Berre, Inga",
+            "country": "Norway"
+        },
+        {
+            "name": "Keilegavlen, Eirik",
+            "country": "Norway"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

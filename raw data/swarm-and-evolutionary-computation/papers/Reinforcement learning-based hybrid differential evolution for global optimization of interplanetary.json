@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223001244",
+    "title": "Reinforcement learning-based hybrid differential evolution for global optimization of interplanetary trajectory design",
+    "abstract": "The global optimization and design of interplanetary trajectories is one of the most important tasks in  deep space exploration . Its search space is often characterized by multi-constraints, extreme non-linearity and sensitivity to initial conditions. To cope with these difficulties, an improved reinforcement learning-based hybrid differential evolution (DE) named RL_HDE is proposed in this paper. In RL_HDE, a novel multi-mutation strategy LSHADE based on an adaptive Q-Learning framework is proposed for global exploration. To further balance the global exploration and local exploitation of RL_HDE, a new parameter adaptive strategy based on Q-Learning is designed to control two trigger parameters. The performance of RL_HDE is verified by the well-known Global  Trajectory Optimization  Problems (GTOP), which are developed by Advanced Concepts Team of European Space Agency (ESA-ACT). A comparison of RL_HDE with three sets of algorithms, including ten state-of-the-art hybrid evolutionary algorithms, four interplanetary trajectory design algorithms, and seven reinforcement learning-based hybridizations. Experimental statistical results demonstrate that RL_HDE outperforms other competitors in terms of convergence efficiency and accuracy. RL_HDE has better performance for solving complex interplanetary trajectory design problems such as Cassini2 and Messenger-full.",
+    "citation_count": "9",
+    "year": "2023/08/01",
+    "authors": [
+        {
+            "name": "Lei Peng",
+            "country": ""
+        },
+        {
+            "name": "Zhuoming Yuan",
+            "country": ""
+        },
+        {
+            "name": "Guangming Dai",
+            "country": ""
+        },
+        {
+            "name": "Maocai Wang",
+            "country": ""
+        },
+        {
+            "name": "Zhe Tang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

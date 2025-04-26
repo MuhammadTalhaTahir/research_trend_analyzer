@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S026288562100216X",
+    "title": "Multi-view self-supervised learning for 3D facial texture reconstruction from single image",
+    "abstract": "Recent years witnessed that  deep learning  based methods have achieved significant progresses in recovering 3D face shape from single image. However, reconstructing realistic 3D facial texture from single image is still a challenging task due to the unavailability of large-scale training datasets and the low expression ability of previous statistical texture models (e.g. 3DMM). In this paper, we introduce a novel deep architecture trained by self-supervision with multi-view setup, to reconstruct 3D facial texture. Specifically, we first obtain incomplete UV texture map from input  facial image , and then introduce a Texture Completion Network (TC-Net) to inpaint missing areas. To train TC-Net, firstly, we collect 50,000 triplets of facial images from in-the-wild videos, each triplet consists of a nearly frontal, a left-side, and a right-side facial images. With this dataset, we propose a novel multi-view consistency loss that ensures consistent photometric, face identity,  3DMM  identity, and UV texture among multi-view facial images. This loss allows to optimize TC-Net in a self-supervision way without using ground-truth texture map as supervision. In addition, multi-view input images are only required in training to provide self-supervision, and our method only needs single input image in inference. Extensive experiments show that our method achieves state-of-the-art performance in both qualitative and  quantitative comparisons .",
+    "citation_count": "6",
+    "year": "2021/11/01",
+    "authors": [
+        {
+            "name": "Xiaoxing Zeng",
+            "country": ""
+        },
+        {
+            "name": "Ruyun Hu",
+            "country": ""
+        },
+        {
+            "name": "Wu Shi",
+            "country": ""
+        },
+        {
+            "name": "Yu Qiao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

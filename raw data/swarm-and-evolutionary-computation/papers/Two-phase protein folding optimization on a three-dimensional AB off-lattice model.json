@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650220303618",
+    "title": "Two-phase protein folding optimization on a three-dimensional AB off-lattice model",
+    "abstract": "This paper presents a two-phase  protein folding  optimization on a three-dimensional AB off-lattice model. The first phase is responsible for forming conformations with a good hydrophobic core or a set of compact hydrophobic  amino acid  positions. These conformations are forwarded to the second phase, where an accurate search is performed with the aim of locating conformations with the best energy value. The optimization process switches between these two phases until the stopping condition is satisfied. An auxiliary fitness function was designed for the first phase, while the original fitness function is used in the second phase. The auxiliary fitness function includes an expression about the quality of the hydrophobic core. This expression is crucial for leading the search process to the promising solutions that have a good hydrophobic core and, consequently, improves the efficiency of the whole optimization process. Our differential evolution algorithm was used for demonstrating the efficiency of two-phase optimization. It was analyzed on well-known  amino acid  sequences that are used frequently in the literature. The obtained experimental results show that the employed two-phase optimization improves the efficiency of our algorithm significantly and that the proposed algorithm is superior to other state-of-the-art algorithms.",
+    "citation_count": "6",
+    "year": "2020/09/01",
+    "authors": [
+        {
+            "name": "Borko Bošković",
+            "country": ""
+        },
+        {
+            "name": "Janez Brest",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

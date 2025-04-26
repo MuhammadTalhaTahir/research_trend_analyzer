@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650212000405",
+    "title": "A multi structure genetic algorithm for integrated design space exploration of scheduling and allocation in high level synthesis for DSP kernels",
+    "abstract": "This paper presents an integrated  design space exploration  of scheduling and allocation problem in high level synthesis using the heuristic based multi structure  genetic algorithm . A  cost function  based on a combination of  power consumption  and pipelined  execution time  as well as a scheme to select functional unit type in case of multiple versions is proposed that can guide the genetic algorithm to near-optimal/optimal solution. The cost function model takes the functional units, registers,  multiplexers  and  demultiplexers  into consideration. The encoding process of the parent chromosome incorporates a special seeding process that enables the genetic algorithm to search for an optimal solution. This type of seeding process was specifically incorporated because the optimal solution to a problem always lies between the maximum serial and parallel implementation. Therefore it is always capable of finding a near-optimal/optimal solution to the combined problem of scheduling and allocation based on the provided user specified constraints. Results of the comparison with another recent genetic algorithm based exploration technique indicated considerable reduction of execution clock cycle as well as power consumption for almost all the benchmarks.",
+    "citation_count": "34",
+    "year": "2012/12/01",
+    "authors": [
+        {
+            "name": "Anirban Sengupta",
+            "country": ""
+        },
+        {
+            "name": "Reza Sedaghat",
+            "country": ""
+        },
+        {
+            "name": "Pallabi Sarkar",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

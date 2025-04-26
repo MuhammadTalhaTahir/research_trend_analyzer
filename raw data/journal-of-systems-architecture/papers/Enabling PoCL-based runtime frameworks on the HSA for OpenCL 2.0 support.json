@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762117301121",
+    "title": "Enabling PoCL-based runtime frameworks on the HSA for OpenCL 2.0 support",
+    "abstract": "The heterogeneous  system architecture  (HSA), announced by the HSA Foundation, is an approach to integrate  central processing unit  (CPU) and  graphics processing unit  (GPU) architectures. The open computing language (OpenCL) is a programming framework that can help utilize  heterogeneous architectures . The well-known OpenCL framework, currently in version 1.2, provides programming models for  heterogeneous computing . The proposed specifications of OpenCL 2.0 can help utilize HSA features, such as  shared virtual memory  (SVM). In previous work, we helped enable Portable Computing Language (PoCL)-based OpenCL 1.2 runtime frameworks on the HSA. In this paper, we further extend the PoCL-based runtime on the HSA to support OpenCL 2.0 features. In addition, this is the first work, to our best knowledge, to support PoCL-based OpenCL 2.0 features on HSA. Compared with the widely used OpenCL 1.2, OpenCL 2.0 will support SVM,  nested parallelism , pipes, and  atomic operations . It can further support parallel  design patterns  such as tree searches, pointer-based programming and nested parallelism models. Note that PoCL is a widely used open source implementation of OpenCL. Our design flow can help academics to enable OpenCL 2.0 flow on the HSA and benefit further from advanced academic research. The experimental results indicate that our framework provides adequate features to support advanced research.",
+    "citation_count": "8",
+    "year": "2017/11/01",
+    "authors": [
+        {
+            "name": "Yuan-Ming Chang",
+            "country": ""
+        },
+        {
+            "name": "Shao-Chung Wang",
+            "country": ""
+        },
+        {
+            "name": "Chun-Chieh Yang",
+            "country": ""
+        },
+        {
+            "name": "Yuan-Shin Hwang",
+            "country": ""
+        },
+        {
+            "name": "Jenq-Kuen Lee",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

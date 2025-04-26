@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-016-0034-8",
+    "title": "Optimal RSUs placement with delay bounded message dissemination in vehicular networks",
+    "abstract": "In order to transfer emergency messages from the accident site to the control center as soon as possible, the Roadside Units (RSUs) act as the most important roles in vehicular ad hoc networks (VANETs). However, we always hope to deploy the minimum number of RSUs because of the low market penetration of VANET-enabled vehicles and the deployment cost of RSUs. This paper presents a transmission delay analysis in urban areas with IID vehicles, and then reveal the relationship between the transmission time and message dissemination distance. According to the analysis, the optimal RSUs deployment problem is formulated. We propose three heuristic greedy strategies as code methods of genetic algorithms to solve the optimal RSUs placement problem with delay bound. Simulation results show that the solutions are efficient and the time complexity is lower than those existing algorithms.",
+    "citation_count": 35,
+    "year": "2017/05",
+    "authors": [
+        {
+            "name": "Liu, Chunyan",
+            "country": "China"
+        },
+        {
+            "name": "Huang, Hejiao",
+            "country": "China"
+        },
+        {
+            "name": "Du, Hongwei",
+            "country": "China"
+        },
+        {
+            "name": "Jia, Xiaohua",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

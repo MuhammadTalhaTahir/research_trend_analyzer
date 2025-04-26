@@ -1,0 +1,40 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-024-10302-0",
+    "title": "Contact algorithm of the material point method and comparison with the finite element method",
+    "abstract": "Being a fully Lagrangian particle method, the material point method (MPM) discretizes a material domain by using a collection of material points. The momentum equations in MPM are solved on a predefined regular background grid, so that the grid distortion and entanglement are completely avoided in MPM. The contact algorithm of MPM is developed via the background grid and the impenetrability condition between bodies. The contact algorithm of MPM is applied to solve some impact and perforation problems. This study concerns the validation of the contact algorithm of MPM. Solutions from MPM with the contact algorithm are compared to those from the finite element method (FEM) with the penalty method. For two impact problems, the results from MPM with the contact algorithm are in good agreement with those obtained with the FEM penalty method. For the perforation problem of aluminum plate, the results obtained using MPM with the contact algorithm are better than those from the FEM penalty method. We think that for impact problems without extreme large deformations, it is better to use the FEM penalty method. For impact problems with extreme large deformations, it is better to use the contact algorithm of MPM.",
+    "citation_count": 39,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "Huang, Peng",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Liu, Dong-huan",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Guo, Hu",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Xie, Ke",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Zhang, Qing-ping",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Deng, Zhi-fang",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

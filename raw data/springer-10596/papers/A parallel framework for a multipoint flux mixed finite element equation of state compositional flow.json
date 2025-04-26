@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-017-9683-7",
+    "title": "A parallel framework for a multipoint flux mixed finite element equation of state compositional flow simulator",
+    "abstract": "Mathematical models of physical problems are becoming increasingly complex and computationally intensive. At the same time, computing hardware is becoming more parallelized with an increasing number of cores promoting simultaneous tasks. In this work, we present a parallel, equation of state (EOS), compositional flow simulator for evaluating CO2 sequestration, enhanced oil recovery techniques such as gas flooding, and other subsurface porous media applications. Using the multipoint flux mixed finite element (MFMFE) method for spatial discretization, it can handle complex reservoir geometries using general distorted hexahedral grid elements, as well as satisfy local mass conservation and compute accurate phase fluxes. A parallel framework for the MFMFE is presented that has been extended to the highly non-linear, EOS, compositional flow model. Much of the non-linearity is due to the local flash and stability calculations associated with interphase mass transfer and phase behavior. Parallel multigrid linear solver libraries such as HYPRE are utilized to solve the algebraic problems on each Newton step. We perform a variety of strong and weak parallel scaling studies up to 10 million elements and 1024 processors, and discuss possible load balancing issues.",
+    "citation_count": 27,
+    "year": "2017/12",
+    "authors": [
+        {
+            "name": "Ganis, Benjamin",
+            "country": "USA"
+        },
+        {
+            "name": "Singh, Gurpreet",
+            "country": "USA"
+        },
+        {
+            "name": "Wheeler, Mary F.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

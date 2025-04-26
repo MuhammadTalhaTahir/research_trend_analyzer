@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-005-9006-2",
+    "title": "The representer method for data assimilation in single-phase Darcy flow in porous media",
+    "abstract": "We apply the representer method, a data assimilation algorithm, to single-phase Darcy flow in porous media. The measurement array that yields the assimilated data can be expressed as a vector of linear functionals of pressure. The a priori discretization errors in the representer method are analyzed in terms of the convergence properties of the underlying numerical schemes used in each part of the algorithm. We formulate some proof-of-concept numerical experiments that illustrate the error analysis.",
+    "citation_count": 13,
+    "year": "2005/12",
+    "authors": [
+        {
+            "name": "Baird, John",
+            "country": "USA"
+        },
+        {
+            "name": "Dawson, Clint",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

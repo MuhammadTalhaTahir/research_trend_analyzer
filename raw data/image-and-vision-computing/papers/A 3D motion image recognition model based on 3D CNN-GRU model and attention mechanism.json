@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624000957",
+    "title": "A 3D motion image recognition model based on 3D CNN-GRU model and attention mechanism",
+    "abstract": "Moving image recognition has become a well-explored problem in  computer vision . However, it is difficult for the traditional  convolutional neural network  (CNN) model to effectively capture timing information in motion. For better use of video sequence features and to improve the accuracy of action recognition, Therefore, this paper proposes a Three-dimensional CNN (3DCNN) model based on  Gated Recurrent Unit  (GRU) with an  attention mechanism . The model leverages 3DCNN for deep feature extraction from video frames, employs GRU to capture the temporal dynamics of feature sequences and incorporates an attention mechanism to emphasize key frames, which improves moving image recognition. Demonstrating superior accuracy in’Cross-Subject’ and’Cross-View’ evaluations, our model surpasses standard benchmarks with accuracies of 83.2% and 87.3% respectively.",
+    "citation_count": "4",
+    "year": "2024/06/01",
+    "authors": [
+        {
+            "name": "Chen Cheng",
+            "country": ""
+        },
+        {
+            "name": "Huahu Xu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

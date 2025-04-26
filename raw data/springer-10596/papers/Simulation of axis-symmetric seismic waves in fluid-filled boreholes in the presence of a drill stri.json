@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-008-9099-5",
+    "title": "Simulation of axis-symmetric seismic waves in fluid-filled boreholes in the presence of a drill string",
+    "abstract": "A numerical algorithm for simulation of 2-D (axis-symmetric) wave propagation using a multidomain approach is proposed. The method uses a cylindrical coordinate system, Chebyshev and Fourier differential operators to calculate the spatial derivatives along the radial and vertical direction, respectively, and a Runge–Kutta time-integration scheme. The numerical technique is based on the solution of the equations of momentum conservation combined with the stress–strain relations of the fluid (drilling mud) and isotropic elastic media (drill string and formation). Wave modes and radiated waves are simulated in the borehole-formation system. The algorithm satisfies the reciprocity condition and the results agree with an analytical solution and low-frequency simulation of wave-propagation modes reported in the literature. Examples illustrating the propagation of waves are presented for hard and soft formations. Moreover, the presence of casing, cement, and formation heterogeneity have been considered. Since the algorithm is based on a direct (grid) method, the geometry and the properties defining the media at each grid point, can be general, i.e., there are no limitations such as planar interfaces or uniform (homogeneous) properties for each medium.",
+    "citation_count": 22,
+    "year": "2008/12",
+    "authors": [
+        {
+            "name": "Carcione, José M.",
+            "country": "Italy"
+        },
+        {
+            "name": "Poletto, Flavio",
+            "country": "Italy"
+        },
+        {
+            "name": "Farina, Biancamaria",
+            "country": "Italy"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

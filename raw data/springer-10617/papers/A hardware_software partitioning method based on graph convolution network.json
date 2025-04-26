@@ -1,0 +1,26 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10617-021-09255-9",
+    "title": "A hardware/software partitioning method based on graph convolution network",
+    "abstract": "Hardware/software (HW/SW) partitioning is the crucial step in HW/SW co-design, which can significantly reduce the time-to-market and improves the performance of an embedded system. Due to that the majority of previous works have large exploration time and generate often low-quality solutions for large scale systems, we propose a fast HW/SW partitioning approach based on graph convolution network (GCN) to address this problem. To the best of our knowledge, it is a new partitioning method based on GCN which is a gradient-based optimization approach. It can aggressively speed up the partitioning process. To quantify the quality of solutions, the scheduling is integrated into the partitioning process. The experiment results show that not only does our proposed method outperform existing metaheuristics approaches in terms of the efficiency (e.g., 18 $$\\times $$ faster than Kernighan–Lin algorithm for the task graphs with 1000 nodes), but it also improves the quality of HW/SW partitioning (e.g., more than 10% acceleration ratio (AR) improvement for the 1000 nodes graphs).",
+    "citation_count": 55,
+    "year": "2021/12",
+    "authors": [
+        {
+            "name": "Zheng, Xin",
+            "country": "China"
+        },
+        {
+            "name": "Liang, Shouzhi",
+            "country": "Sweden"
+        },
+        {
+            "name": "Xiong, Xiaoming",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

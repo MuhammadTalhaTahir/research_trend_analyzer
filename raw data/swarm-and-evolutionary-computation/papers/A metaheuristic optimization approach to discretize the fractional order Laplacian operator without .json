@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217306909",
+    "title": "A metaheuristic optimization approach to discretize the fractional order Laplacian operator without employing a discretization operator",
+    "abstract": "A single-step procedure to obtain first and higher order discrete-time models in terms of infinite impulse response templates of the  fractional order   Laplacian  operator  s α , where  0 < α < 1 ,  is proposed in this paper. The Moth Flame Optimization (MFO) algorithm based rational approximations are generated using a  discretization  operator-free method. Solution accuracy and the convergence performance of MFO are extensively compared with several other advanced evolutionary algorithms. Simulations justify the improved modelling accuracy of the proposed models over the recently published designs. The effects due to the finite word length leading to truncated  filter coefficients  are also considered, and the design stability robustness is demonstrated. The efficacy of the proposed model as a fractional order proportional-derivative controller is also validated.",
+    "citation_count": "21",
+    "year": "2019/02/01",
+    "authors": [
+        {
+            "name": "Shibendu Mahata",
+            "country": ""
+        },
+        {
+            "name": "Suman Kumar Saha",
+            "country": ""
+        },
+        {
+            "name": "Rajib Kar",
+            "country": ""
+        },
+        {
+            "name": "Durbadal Mandal",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

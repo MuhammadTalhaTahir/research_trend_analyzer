@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762119304552",
+    "title": "Dynamic reconfiguration of embedded-DRAM caches employing zero data detection based refresh optimisation",
+    "abstract": "Muti-level cache hierarchy with large sized last level caches (LLCs) have emerged to minimise the performance gap between the processing cores and the main memory. Traditionally, LLCs are made using SRAM technology, however, recent trends have shown that dense and low leakage consuming embedded-DRAMs (eDRAM) are a good alternative to SRAM. The only challenge for this replacement is the time and energy consumed by the periodic refresh demanded by eDRAMs. Towards minimising the number of refreshes and in turn to save energy, in this paper we propose a value based refresh saving method. In particular, certain blocks of data may have zero content and such blocks do not need refreshing. Such zero valued blocks are kept in a dedicated partition in the cache and this partition is never refreshed. The size of the zero value partition is also dynamically reconfigured depending on the variation in the number of zero blocks or the miss rate during the execution of the application. These two  dynamic reconfiguration  policies save number of refreshes by 38% and 43% respectively. The consequent reduction in stall cycles results in  performance improvement  of 6 to 9% and also gives considerable  energy savings .",
+    "citation_count": "8",
+    "year": "2019/11/01",
+    "authors": [
+        {
+            "name": "Sheel Sindhu Manohar",
+            "country": ""
+        },
+        {
+            "name": "Hemangee K. Kapoor",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

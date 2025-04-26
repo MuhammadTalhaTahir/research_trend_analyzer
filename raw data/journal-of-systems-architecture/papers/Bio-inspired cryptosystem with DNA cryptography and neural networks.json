@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762118304077",
+    "title": "Bio-inspired cryptosystem with DNA cryptography and neural networks",
+    "abstract": "Bio-Inspired  Cryptosystems  are a modern form of Cryptography where bio-inspired and  machine learning techniques  are used for the purpose of securing data. A system has been proposed based on the Central Dogma of Molecular Biology (CDMB) for the Encryption and Decryption Algorithms by simulating the natural processes of Genetic Coding (conversion from binary to DNA bases), Transcription (conversion from DNA to mRNA) and Translation (conversion from mRNA to Protein) as well as the reverse processes to allow for encryption and decryption respectively. All inputs are considered to be in the form of blocks of 16-bits. The final outputs from the blocks can be concatenated to form the final  cipher text  in the form of protein bases. A Bidirectional  Associative Memory   Neural Network  (BAMNN) has been trained using randomized data for key generation which is capable of saving memory space by remembering and regenerating the sets of keys in a  recurrent  fashion. The proposed bio-inspired cryptosystem shows competent encryption and decryption times even on large data sizes when compared with existing systems.",
+    "citation_count": "44",
+    "year": "2019/03/01",
+    "authors": [
+        {
+            "name": "Sayantani Basu",
+            "country": ""
+        },
+        {
+            "name": "Marimuthu Karuppiah",
+            "country": ""
+        },
+        {
+            "name": "Mita Nasipuri",
+            "country": ""
+        },
+        {
+            "name": "Anup Kumar Halder",
+            "country": ""
+        },
+        {
+            "name": "Niranchana Radhakrishnan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,98 @@
+[
+    {
+        "title": "Quantum particle swarm optimization with chaotic encoding schemes for flexible job-shop scheduling problem",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650224003742"
+    },
+    {
+        "title": "Mde-EvoNAS: Automatic network architecture design for monocular depth estimation via evolutionary neural architecture search",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650224003754"
+    },
+    {
+        "title": "Evolution of path costs for efficient decentralized multi-agent pathfinding",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650224003717"
+    },
+    {
+        "title": "A consensus optimization mechanism with Q-learning-based distributed PSO for large-scale group decision-making",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650224003791"
+    },
+    {
+        "title": "Meta-Black-Box optimization for evolutionary algorithms: Review and perspective",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650224003766"
+    },
+    {
+        "title": "Multi-modal multi-objective wolf pack algorithm with circumferential scouting and intra-niche interactions",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650224003808"
+    },
+    {
+        "title": "A reinforcement learning-based ranking teaching-learning-based optimization algorithm for parameters estimation of photovoltaic models",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650225000021"
+    },
+    {
+        "title": "An improved shuffled frog leaping algorithm based on support vector machine for hybrid flow shop rescheduling with disturbance prediction",
+        "url": "https://www.sciencedirect.com/science/article/pii/S221065022500001X"
+    },
+    {
+        "title": "An enhanced decomposition-based multi-objective evolutionary algorithm with neighborhood search for multi-resource constrained job shop scheduling problem",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650224003729"
+    },
+    {
+        "title": "Multi-objective orbital maneuver optimization of multi-satellite using an adaptive feedback learning NSGA-II",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650224003730"
+    },
+    {
+        "title": "Multi-objective optimal power flow problem using constrained dynamic multitasking multi-objective optimization algorithm",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650225000082"
+    },
+    {
+        "title": "A correlation-guided cooperative coevolutionary method for feature selection via interaction learning-based space division",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650225000045"
+    },
+    {
+        "title": "A constrained multimodal multi-objective evolutionary algorithm based on adaptive epsilon method and two-level environmental selection",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650225000033"
+    },
+    {
+        "title": "Dual-stage self-adaptive differential evolution with complementary and ensemble mutation strategies",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650225000136"
+    },
+    {
+        "title": "Text clustering with a hybrid multi-objective optimization approach: The multi-objective firefly differential Jaya Algorithm",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650225000057"
+    },
+    {
+        "title": "An effective cooperative coevolutionary algorithm with global and local-oriented cooperative mechanisms for multi-objective hybrid flowshop lot-streaming scheduling with limited and flexible sub-lots",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650224003535"
+    },
+    {
+        "title": "An interval evolutionary algorithm based on dynamic relation adjustment strategy for many-objective problems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650225000112"
+    },
+    {
+        "title": "Integrated scheduling in sea–rail intermodal terminals with flexible transshipment routes",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650225000100"
+    },
+    {
+        "title": "Enhancing Quality-Diversity algorithm by reinforcement learning for Flexible Job Shop Scheduling with transportation constraints",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650225000070"
+    },
+    {
+        "title": "Fuzzy clustering-based large-scale multimodal multi-objective differential evolution algorithm",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650225000148"
+    },
+    {
+        "title": "Diversity-based adaptive differential evolution algorithm for multimodal optimization problems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650225000276"
+    },
+    {
+        "title": "New heterogeneous comprehensive learning particle swarm optimizer enhanced with low-discrepancy sequences and conjugate gradient method",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650225000069"
+    },
+    {
+        "title": "Multi-UAV reconnaissance mission planning via deep reinforcement learning with simulated annealing",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650225000161"
+    },
+    {
+        "title": "A learning-enhanced ant colony optimization algorithm for integrated planning and scheduling in hot rolling production lines under uncertainty",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650225000094"
+    }
+]

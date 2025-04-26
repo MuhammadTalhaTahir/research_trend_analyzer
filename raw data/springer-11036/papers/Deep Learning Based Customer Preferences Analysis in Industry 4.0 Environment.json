@@ -1,0 +1,39 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-021-01830-5",
+    "title": "Deep Learning Based Customer Preferences Analysis in Industry 4.0 Environment",
+    "abstract": "Customer preferences analysis and modelling using deep learning in edge computing environment are critical to enhance customer relationship management that focus on a dynamically changing market place. Existing forecasting methods work well with often seen and linear demand patterns but become less accurate with intermittent demands in the catering industry. In this paper, we introduce a throughput deep learning model for both short-term and long-term demands forecasting aimed at allowing catering businesses to be highly efficient and avoid wastage. Moreover, detailed data collected from a business online booking system in the past three years have been used to train and verify the proposed model. Meanwhile, we carefully analyzed the seasonal conditions as well as past local or national events (event analysis) that could have had critical impact on the sales. The results are compared with the best performing forecast methods Xgboost and autoregressive moving average model (ARMA), and they suggest that the proposed method significantly improves demand forecasting accuracy (up to 80%) for dishes demand along with reduction in associated costs and labor allocation.",
+    "citation_count": 26,
+    "year": "2021/12",
+    "authors": [
+        {
+            "name": "Sun, Qindong",
+            "country": "China"
+        },
+        {
+            "name": "Feng, Xingyu",
+            "country": "China"
+        },
+        {
+            "name": "Zhao, Shanshan",
+            "country": "China"
+        },
+        {
+            "name": "Cao, Han",
+            "country": "UK"
+        },
+        {
+            "name": "Li, Shancang",
+            "country": "China"
+        },
+        {
+            "name": "Yao, Yufeng",
+            "country": "UK"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

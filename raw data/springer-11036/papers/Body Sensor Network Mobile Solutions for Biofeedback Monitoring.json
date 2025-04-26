@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-010-0278-y",
+    "title": "Body Sensor Network Mobile Solutions for Biofeedback Monitoring",
+    "abstract": "Body sensor networks (BSN) appeared as an application of Wireless Sensor Networks (WSN) to medicine and biofeedback. Such networks feature smart sensors (biosensors) that capture bio-physiological parameters from people and can offer an easy way for data collection. BSNs also need suitable interfaces for data processing, presentation, and storage for latter retrieval. As a result, Bluetooth technology can be used to communicate with several more powerful and graphical user interface (GUI)-enabled devices such as mobile phones or regular computers. Taking into account that people currently use mobile and smart phones, it offers a good opportunity to propose a suitable mobile system for BSN networks. This paper presents a BSN mobile solution for biofeedback monitoring using the four major smart phone platforms: Symbian, Windows Mobile, Android, and iPhone. As case study, a sensing health with intelligence modularity, mobility and experimental reusability (SHIMMER) platform with a core-body temperature sensor enabled to construct the BSN was used. The four mobile applications were evaluated and validated, and are ready for use.",
+    "citation_count": 43,
+    "year": "2011/12",
+    "authors": [
+        {
+            "name": "Pereira, Orlando",
+            "country": "Portugal"
+        },
+        {
+            "name": "Caldeira, João M. L. P.",
+            "country": "Portugal"
+        },
+        {
+            "name": "Rodrigues, Joel J. P. C.",
+            "country": "Portugal"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

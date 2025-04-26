@@ -1,0 +1,37 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-013-9616-x",
+    "title": "Loyalty improvement beyond the seeds in social networks",
+    "abstract": "The influence maximization problem in modular social networks is to find a set of seed nodes such that the total influence effect is maximized. Difference with the previous research, in this paper we propose a novel task of influence improving, which is to find strategies to increase the members’ investments. The problem is studied under two influence propagation models: independent cascade (IC) and linear threshold (LT) models. We prove that our influence improving problem is $$\\mathcal{NP }$$ -hard, and propose new algorithms under both IC and LT models. To the best of our knowledge, our work is the first one that studies influence improving problem under bounded budget. Finally, we implement extensive experiments over a large data collection obtained from real-world social networks, and evaluate the performance of our approach.",
+    "citation_count": 18,
+    "year": "2015/05",
+    "authors": [
+        {
+            "name": "Ma, Huan",
+            "country": "China"
+        },
+        {
+            "name": "Zhu, Yuqing",
+            "country": "USA"
+        },
+        {
+            "name": "Li, Deying",
+            "country": "China"
+        },
+        {
+            "name": "Li, Songsong",
+            "country": "China"
+        },
+        {
+            "name": "Wu, Weili",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

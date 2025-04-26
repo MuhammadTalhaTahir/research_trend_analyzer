@@ -1,0 +1,26 @@
+{
+    "url": "https://link.springer.com/article/10.1023/B:DAEM.0000013065.87652.df",
+    "title": "Hybrid Multi-FPGA Board Evaluation by Permitting Limited Multi-Hop Routing",
+    "abstract": "Multi-FPGA Boards (MFBs) have been in use for more than a decade for implementing systems requiring high performance and for emulation/prototyping of multimillion gate chips. It is important to develop an MFB architecture which can be used for emulation or prototyping of a large number of circuits. A key feature of an MFB is its routing architecture defined by its inter-Field-Programmable Gate Array (FPGA) connections. There are two types of inter-FPGA connections, namely–fixed connections (FCs) connecting a pair of FPGAs through dedicated wires and programmable connections (PCs) which connect a pair of FPGAs through a programmable switch. An architecture which has a mix of both these type of connections is called a hybrid routing architecture. It has been shown in the literature [7] that a hybrid MFB architecture is more efficient for emulation than an architecture with only one type of connections. The cost of an MFB and delay of the emulated circuit on it depends on the number of PCs used for emulation. An objective of a designer of an MFB for circuit emulation is to minimize the required number of PCs. In this paper, we describe algorithms to evaluate the requirement of PCs for many hybrid routing architectures. The requirement of PCs can be reduced if some programmable connections are replaced by a connection using only FCs by routing through FPGAs. Such a routing is called multi-hop routing. We present an optimal and a heuristic algorithm for estimation of PCs when limited number of hops through FPGAs are permitted. The unique feature of our evaluation scheme is that it is generic and treat routing architecture as a parameter. We have used benchmark circuits as well as synthetic cloned circuits for testing our algorithms. Our heuristic algorithm is very fast and gives optimal results most of the time. Our algorithms can be used for actual routing during circuit emulation.",
+    "citation_count": 13,
+    "year": "2003/12",
+    "authors": [
+        {
+            "name": "Jain, Sushil Chandra",
+            "country": "Delhi"
+        },
+        {
+            "name": "Kumar, Anshul",
+            "country": "Delhi"
+        },
+        {
+            "name": "Kumar, Shashi",
+            "country": "Delhi"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

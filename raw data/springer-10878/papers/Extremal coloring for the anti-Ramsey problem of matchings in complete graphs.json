@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-017-0125-1",
+    "title": "Extremal coloring for the anti-Ramsey problem of matchings in complete graphs",
+    "abstract": "Given a graph G, the anti-Ramsey number $$AR(K_n,G)$$ is defined to be the maximum number of colors in an edge-coloring of $$K_n$$ which does not contain any rainbow G (i.e., all the edges of G have distinct colors). The anti-Ramsey number was introduced by Erdős et al. (Infinite and finite sets, pp 657–665, 1973) and so far it has been determined for several special graph classes. Another related interesting problem posed by Erdős et al. is the uniqueness of the extremal coloring for the anti-Ramsey number. Contrary to the anti-Ramsey number, there are few results about the extremal coloring. In this paper, we show the uniqueness of such extremal coloring for the anti-Ramsey number of matchings in the complete graph.",
+    "citation_count": 29,
+    "year": "2017/11",
+    "authors": [
+        {
+            "name": "Jin, Zemin",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Sun, Yuefang",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Yan, Sherry H. F.",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Zang, Yuping",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

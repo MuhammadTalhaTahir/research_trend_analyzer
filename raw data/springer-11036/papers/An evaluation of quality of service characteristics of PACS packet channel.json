@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1019115319152",
+    "title": "An evaluation of quality of service characteristics of PACS packet channel",
+    "abstract": "A novel application on the recently emerging wireless Personal Communications Systems (PCS) is the multimedia communication. In this paper, we evaluate multimedia communications capability and quality of service characteristics of one of the PCS standards, Personal Access Communications System's (PACS) packet channel (PPC) using simulation modeling. The performance of PPC's slot aggregation and data-sense multiple access techniques are studied by considering the downlink and uplink in a single cell and combined uplink/downlink in two cells and changing various parameters such as the number of users and certain protocol parameters. Interconnection of PPC with the Internet is discussed next. Frame rates of MPEG-1 coded images transmitted in a PACS cell as IP datagrams are determined. Handover characteristics of PPC downlink are studied by changing different parameters such as the cell size, the speed of the mobile host and time between handovers. The results clearly establish that multimedia communication on PPC is only feasible at lower bandwidths and frame rates and only a few users per cell can be supported. Careful tuning of PPC protocol parameters is required. There is one parameter whose variation gives opposite results on the downlink and uplink.",
+    "citation_count": 19,
+    "year": "1999/12",
+    "authors": [
+        {
+            "name": "Sarikaya, Behcet",
+            "country": "Japan"
+        },
+        {
+            "name": "Ulema, Mehmet",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

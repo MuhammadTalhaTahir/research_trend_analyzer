@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003950",
+    "title": "A dual-channel network based on occlusion feature compensation for human pose estimation",
+    "abstract": "Human pose estimation is an important technique in computer vision. Existing methods perform well in ideal environments, but there is room for improvement in occluded environments. The specific reasons are that the ambiguity of the features in the occlusion area makes the network pay insufficient attention to it, and the inadequate expressive ability of the features in the occlusion part cannot describe the true keypoint features. To address the occlusion issue, we propose a dual-channel network based on occlusion feature compensation. The dual channels are occlusion area enhancement channel based on convolution and occlusion feature compensation channel based on graph convolution, respectively. In the convolution channel, we propose an occlusion handling enhanced attention mechanism (OHE-attention) to improve the attention to the occlusion area. In the graph convolution channel, we propose a node feature compensation module that eliminates the obstacle features and integrates the shared and private attributes of the keypoints to improve the expressive ability of the node features. We conduct experiments on the COCO2017 dataset, COCO-Wholebody dataset, and CrowdPose dataset, achieving accuracy of 78.7%, 66.4%, and 77.9%, respectively. In addition, a series of ablation experiments and visualization demonstrations verify the performance of the dual-channel network in occluded environments.",
+    "citation_count": "2",
+    "year": "2024/11/01",
+    "authors": [
+        {
+            "name": "Jiahong Jiang",
+            "country": ""
+        },
+        {
+            "name": "Nan Xia",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

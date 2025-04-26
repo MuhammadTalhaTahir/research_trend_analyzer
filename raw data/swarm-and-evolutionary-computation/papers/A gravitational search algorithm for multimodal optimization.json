@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650213000503",
+    "title": "A gravitational search algorithm for multimodal optimization",
+    "abstract": "Gravitational search algorithm (GSA) has been recently presented as a new heuristic search algorithm with good results in real-valued and binary encoded optimization problems which is categorized in  swarm intelligence  optimization techniques. The aim of this article is to show that GSA is able to find multiple solutions in multimodal problems. Therefore, in this study ,  a new technique, namely Niche GSA (NGSA) is introduced for multimodal optimization. NGSA extends the idea of partitioning the main population (swarm) of masses into smaller sub-swarms and also preserving them by introducing three strategies: a  K -nearest neighbors ( K-NN ) strategy, an elitism strategy and modification of active gravitational mass formulation. To evaluate the performance of the proposed algorithm several experiments are performed. The results are compared with those of state-of-the-art niching algorithms. The experimental results confirm the efficiency and effectiveness of the NGSA in finding  multiple optima  on the set of unconstrained and constrained standard benchmark functions.",
+    "citation_count": "126",
+    "year": "2014/02/01",
+    "authors": [
+        {
+            "name": "Sajjad Yazdani",
+            "country": ""
+        },
+        {
+            "name": "Hossein Nezamabadi-pour",
+            "country": ""
+        },
+        {
+            "name": "Shima Kamyab",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

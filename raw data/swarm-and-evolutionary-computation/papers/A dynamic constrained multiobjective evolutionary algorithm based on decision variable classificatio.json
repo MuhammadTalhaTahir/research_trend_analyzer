@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223001931",
+    "title": "A dynamic constrained multiobjective evolutionary algorithm based on decision variable classification",
+    "abstract": "In dynamic constrained multiobjective optimization problems (DCMOPs), dynamics may arise from time-varying objective functions or/and constraints. To solve these problems, maintaining a good balance among feasibility, convergence and diversity of a population under dynamic environments is a critical challenge. Although appropriately utilizing the characteristic of decision variables can promote algorithms to better track the Pareto optima under dynamic environments, their sensitivity to constraints is neglected. Therefore, a dynamic constrained multiobjective  evolutionary algorithm  based on decision variable classification (DC-MOEA-DVC) is proposed. Under each environment, decision variables are classified into four types in terms of their influence on convergence, distribution, and constraint violation. Based on them, a new  offspring  generation method is developed, decision variables with different characteristics are rationally combined to generate offspring, with the purpose of accelerating the convergence of the population. Once an environmental change appears, a hybrid strategy consisting of four change response techniques is introduced for the corresponding types of decision variables, producing a new initial population. The experimental results show that DC-MOEA-DVC is superior to the other five state-of-the-art algorithms.",
+    "citation_count": "10",
+    "year": "2023/12/01",
+    "authors": [
+        {
+            "name": "Yinan Guo",
+            "country": ""
+        },
+        {
+            "name": "Mingyi Huang",
+            "country": ""
+        },
+        {
+            "name": "Guoyu Chen",
+            "country": ""
+        },
+        {
+            "name": "Dunwei Gong",
+            "country": ""
+        },
+        {
+            "name": "Jing Liang",
+            "country": ""
+        },
+        {
+            "name": "Zekuan Yu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

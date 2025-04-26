@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-011-9407-1",
+    "title": "Algebraic connectivity of an even uniform hypergraph",
+    "abstract": "We generalize Laplacian matrices for graphs to Laplacian tensors for even uniform hypergraphs and set some foundations for the spectral hypergraph theory based upon Laplacian tensors. Especially, algebraic connectivity of an even uniform hypergraph based on Z-eigenvalues of the corresponding Laplacian tensor is introduced and its connections with edge connectivity and vertex connectivity are discussed.",
+    "citation_count": 16,
+    "year": "2012/11",
+    "authors": [
+        {
+            "name": "Hu, Shenglong",
+            "country": "Hong Kong"
+        },
+        {
+            "name": "Qi, Liqun",
+            "country": "Hong Kong"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

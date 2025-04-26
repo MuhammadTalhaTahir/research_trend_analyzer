@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218300701",
+    "title": "A performance-driven multi-algorithm selection strategy for energy consumption optimization of sea-rail intermodal transportation",
+    "abstract": "Various powerful differential evolution (DE) algorithms have been developed in the past years, although none of them can consistently perform well on all types of problems. However, it is not straightforward to choose an appropriate algorithm for solving a real-world problem, as the properties of the problem are usually not well understood beforehand. Therefore, how to automatically select an appropriate DE variant for solving a particular problem at hand is an important and challenging task. In the present work, a performance-driven multi-algorithm selection strategy (PMSS) is proposed to alleviate the above mentioned problems for single  objective optimization . In PMSS, a learning-forgetting mechanism is introduced to update the selection probability of each algorithm from a pool of DE variants to make sure that the best performing one is chosen during the search process. The effectiveness of PMSS is carefully examined on two suites of widely used test problems and the results indicate that the PMSS is highly effective and computationally efficient. Finally, the proposed algorithm is employed to optimize the energy consumption of sea-rail intermodal transportation. Our simulation results demonstrate that the proposed algorithm is successful achieving satisfactory solution that are able to provide insights into the problem and the algorithm is promising to be applied for solving real sea-rail intermodal and other multimodal transportation planning problems.",
+    "citation_count": "23",
+    "year": "2019/02/01",
+    "authors": [
+        {
+            "name": "Qinqin Fan",
+            "country": ""
+        },
+        {
+            "name": "Yaochu Jin",
+            "country": ""
+        },
+        {
+            "name": "Weili Wang",
+            "country": ""
+        },
+        {
+            "name": "Xuefeng Yan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

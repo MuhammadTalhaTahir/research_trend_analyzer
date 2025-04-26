@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885697000383",
+    "title": "Accurate matching of two-dimensional shapes using the minimal tolerance zone error",
+    "abstract": "Automated visual geometric inspection of machined parts depends upon the ability to determine the underlying parameters of a shape model that will best fit the reference shape to the real shape captured. This paper presents a parametric approach for the matching of two-dimensional profiles, which are composed of straight-line segments and circular arcs, based on the tolerancing requirements defined by the AINSI standards. The shape matching problem is formulated as a minimax optimization model and a procedure for solving this optimization model is developed. Experimental results have shown the proposed algorithm to be consistently accurate and extremely fast.",
+    "citation_count": "13",
+    "year": "1997/12/01",
+    "authors": [
+        {
+            "name": "Jose A. Ventura",
+            "country": ""
+        },
+        {
+            "name": "Wenhua Wan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

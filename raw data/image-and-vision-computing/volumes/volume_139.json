@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Editorial Board",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623002238"
+    },
+    {
+        "title": "Two-stage coarse-to-fine image anomaly segmentation and detection model",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001919"
+    },
+    {
+        "title": "One-shot Ultra-high-Resolution Generative Adversarial Network That Synthesizes 16K Images On A Single GPU",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001890"
+    },
+    {
+        "title": "Self-supervised Vision Transformers for 3D pose estimation of novel objects",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001907"
+    },
+    {
+        "title": "Dual-scale point cloud completion network based on high-frequency feature fusion",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001920"
+    },
+    {
+        "title": "Exploring cross-video matching for few-shot video classification via dual-hierarchy graph neural network learning",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001968"
+    },
+    {
+        "title": "Diabetic retinopathy grading review: Current techniques and future directions",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001956"
+    },
+    {
+        "title": "μPEWFace: Parallel ensemble of weighted deep convolutional neural networks with novel loss functions for face-based authentication",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001932"
+    },
+    {
+        "title": "Lightweight multi-scale attention-guided network for real-time semantic segmentation",
+        "url": "https://www.sciencedirect.com/science/article/pii/S026288562300197X"
+    },
+    {
+        "title": "GFFT: Global-local feature fusion transformers for facial expression recognition in the wild",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001981"
+    },
+    {
+        "title": "Frequency and content dual stream network for image dehazing",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001944"
+    },
+    {
+        "title": "Multi-layer capsule network with joint dynamic routing for fire recognition",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001993"
+    },
+    {
+        "title": "BF3D: Bi-directional fusion 3D detector with semantic sampling and geometric mapping",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623002093"
+    },
+    {
+        "title": "SDE-RAE:CLIP-based realistic image reconstruction and editing network using stochastic differential diffusion",
+        "url": "https://www.sciencedirect.com/science/article/pii/S026288562300210X"
+    }
+]

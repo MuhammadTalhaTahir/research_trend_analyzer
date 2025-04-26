@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650214000030",
+    "title": "Investigating aesthetic measures for unsupervised evolutionary art",
+    "abstract": "We present an extensive study into aesthetic measures in unsupervised evolutionary art (EvoArt). In contrast to several mainstream EvoArt approaches we evolve images without  human interaction , using one or more aesthetic measures as fitness functions. We perform a series of systematic experiments, comparing 7 different aesthetic measures through subjective criteria (‘style’) as well as by quantitative measures reflecting properties of the evolved images. Next, we investigate the correlation between aesthetic scores by aesthetic measures and calculate how aesthetic measures judge each others′ image. Furthermore, we run experiments in which two aesthetic measures are acting simultaneously using a Multi-Objective Evolutionary Algorithm. Hereby we gain insights in the  joint  effects on the resulting images and the compatibility of different aesthetic measures.",
+    "citation_count": "24",
+    "year": "2014/06/01",
+    "authors": [
+        {
+            "name": "Eelco den Heijer",
+            "country": ""
+        },
+        {
+            "name": "A.E. Eiben",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

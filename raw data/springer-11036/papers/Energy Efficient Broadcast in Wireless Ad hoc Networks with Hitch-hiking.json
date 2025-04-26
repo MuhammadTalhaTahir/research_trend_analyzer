@@ -1,0 +1,31 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-005-4446-4",
+    "title": "Energy Efficient Broadcast in Wireless Ad hoc Networks with Hitch-hiking",
+    "abstract": "In this paper, we propose a novel concept called Hitch-hiking in order to reduce the energy consumption of broadcast application for wireless networks. Hitch-hiking takes advantage of the physical layer design that facilitates the combining of partial signals to obtain the complete information. The concept of combining partial signals using maximal ratio combiner [15] has been used to improve the reliability of the communication link but has never been exploited to reduce energy consumption in broadcasting over wireless ad hoc networks. We study the advantage of Hitch-hiking for the scenario when the transmission power level of nodes is fixed as well as the scenario when the nodes can adjust their power level. For both scenarios, we show that Hitch-hiking is advantageous and have proposed algorithms to construct broadcast tree with Hitch-hiking taken into consideration. For fixed transmission power case, we propose and analyze a centralized heuristic algorithm called SPWMH (Single Power Wireless Multicast with Hitch-hiking) to construct a broadcast tree with minimum forwarding nodes. For the latter case, we propose a centralized heuristic algorithm called Wireless Multicast with Hitch-hiking (WMH) to construct an energy efficient tree using Hitch-hiking and also present a distributed version of the heuristic. We also evaluate the proposed heuristics through simulation. Simulation results show that Hitch-hiking can reduce the transmission cost of broadcast by as much as 50%. Further, we propose and evaluate a protocol called Power Saving with Broadcast Tree (PSBT) that reduces energy consumption of broadcast by eliminating redundancy in receive operation. Finally, we propose an algorithm that takes advantage of both Hitch-hiking and PSBT in conserving energy.",
+    "citation_count": 25,
+    "year": "2005/12",
+    "authors": [
+        {
+            "name": "Agarwal, Manish",
+            "country": "USA"
+        },
+        {
+            "name": "Gao, Lixin",
+            "country": "USA"
+        },
+        {
+            "name": "Cho, Joon Ho",
+            "country": "Korea"
+        },
+        {
+            "name": "Wu, Jie",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

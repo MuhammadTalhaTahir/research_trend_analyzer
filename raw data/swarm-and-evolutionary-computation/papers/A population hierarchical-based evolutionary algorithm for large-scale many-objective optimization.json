@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224002906",
+    "title": "A population hierarchical-based evolutionary algorithm for large-scale many-objective optimization",
+    "abstract": "In large-scale many-objective optimization problems (LMaOPs), the performance of algorithms faces significant challenges as the number of objective functions and decision variables increases. The main challenges in addressing this type of problem are as follows: the large number of decision variables creates an enormous decision space that needs to be explored, leading to slow convergence; and the high-dimensional objective space presents difficulties in selecting dominant individuals within the population. To address this issue, this paper introduces an evolutionary algorithm based on population hierarchy to address LMaOPs. The algorithm employs different strategies for offspring generation at various population levels. Initially, the population is categorized into three levels by fitness value: poorly performing solutions with higher fitness ( P h ), better solutions with lower fitness ( P l ), and excellent individuals stored in the archive set ( P a ). Subsequently, a hierarchical knowledge integration strategy (HKI) guides the evolution of individuals at different levels. Individuals in  P l  generate offspring by integrating differential knowledge from  P a  and  P h , while individuals in  P h  generate offspring by learning prior knowledge from  P a . Finally, using a cluster-based environment selection strategy balances population diversity and convergence. Extensive experiments on LMaOPs with up to 10 objectives and 5000 decision variables validate the algorithm’s effectiveness, demonstrating superior performance.",
+    "citation_count": "0",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Shiting Wang",
+            "country": ""
+        },
+        {
+            "name": "Jinhua Zheng",
+            "country": ""
+        },
+        {
+            "name": "Yingjie Zou",
+            "country": ""
+        },
+        {
+            "name": "Yuan Liu",
+            "country": ""
+        },
+        {
+            "name": "Juan Zou",
+            "country": ""
+        },
+        {
+            "name": "Shengxiang Yang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

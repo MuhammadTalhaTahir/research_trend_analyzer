@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121001090",
+    "title": "Global emergency-based job-level scheduling for weakly-hard real-time systems",
+    "abstract": "Weakly-hard real-time scheduling enables to tolerate certain execution  timeouts  of tasks, and has been widely exploited in those intelligent embedded systems over the past two decades. In general, the current weakly-hard real-time scheduling algorithms try to rapidly raise the priorities of jobs (instances) of those tasks that have missed deadlines to guarantee their individual weakly-hard constraints, while neglecting the impacts of whole task system emergency on the schedulability results. From the perspective of increasing the schedulability ratio of weakly-hard real-time task set upon a uniprocessor platform, we develop a  Global Emergency-Based Scheduling  (GEBS) algorithm. First, with the goal of guaranteeing the weakly-hard timeliness of jobs, the GEBS scheme formulates a set of  global  job-level policies for priority allocations based on the emergency-classes of jobs. With the  emergency degree  of whole task system being considered, GEBS intends to  fairly  tune the priorities of those urgent jobs following our priority adjustment scheme to reduce the possibility of dynamic failures (i.e., deadline misses) of jobs. Moreover, for a task, the minimum arrival-interval of two jobs that have the same emergency-class is thoroughly analyzed, and then its WCRT (Worst-Case Response Time) corresponding to each emergency-class can be obtained recursively. Furthermore, the  schedulability test  is discussed based on the WCRT analysis, followed by the investigation of a new  LCM (Least Common Multiple)-based method  under weakly-hard constraints for better feasibility of task set. Finally, the extensive results from simulations and  case study  demonstrate that the GEBS algorithm can effectively improve the schedulability performance with regard to acceptance ratio (e.g., 50% more) with acceptable running time, when compared to the existing task-level and job-class-level scheduling. The empirical results in Linux kernel further exhibit the applicability of GEBS that can experience comparable online overhead in contrast with other schemes.",
+    "citation_count": "1",
+    "year": "2021/08/01",
+    "authors": [
+        {
+            "name": "Sunlu Gong",
+            "country": ""
+        },
+        {
+            "name": "Jian-Jun Han",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

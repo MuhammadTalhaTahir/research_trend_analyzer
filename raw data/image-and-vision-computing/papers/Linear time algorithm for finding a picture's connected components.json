@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/0262885684900222",
+    "title": "Linear time algorithm for finding a picture's connected components",
+    "abstract": "An algorithm that identifies the connnected components of a thresholded digitized picture is presented. The time complexity of the algorithm is linear in the number of runs of object pixels in the picture.",
+    "citation_count": "13",
+    "year": "1984/11/01",
+    "authors": [
+        {
+            "name": "P Thanisch",
+            "country": ""
+        },
+        {
+            "name": "BV McNally",
+            "country": ""
+        },
+        {
+            "name": "A Robin",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

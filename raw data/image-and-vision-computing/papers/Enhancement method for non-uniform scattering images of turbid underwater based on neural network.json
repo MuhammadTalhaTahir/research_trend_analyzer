@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001877",
+    "title": "Enhancement method for non-uniform scattering images of turbid underwater based on neural network",
+    "abstract": "Due to the influence of  light absorption  and scattering in the water medium, underwater images often appear with different degrees of blur, color distortion, and so on. The physical model-based method needs to establish image  degradation processes  and improve image quality by assuming and estimating complex parameters, which limits the generalization ability and practical application effect of these methods. To solve the above problems, this paper proposes an image enhancement method of non-uniform scattering in turbid underwater based on  neural network . First, the high-frequency and low-frequency components of underwater images were obtained through the difference of  gaussian  (DOG) and bilateral filtering (BF), respectively. Then, for the high-frequency component, pulse coupled neural networks (PCNN) to improve the edge details of the image. For low-frequency components, it is carried out in two steps: an adaptive automatic white balance and polynomial regression (AAWBPR) algorithm is proposed, which can effectively eliminate the color bias under different color temperatures and improve the brightness of images; the adaptive color and contrast enhancement (ACCE) method is used to further enhance the color and contrast of images. Finally, Decom-Net and the improved U-Net method are used to reduce the errors caused by the non-uniform scattering effect, weaken the noise interference, and enhance the overall effect of images. Extensive experiments show that the proposed method can effectively improve the quality of turbid underwater non-uniform scattering images, enhance the contrast of images, reduce the complexity of parameters, and has good generalization performance and practical application effects.",
+    "citation_count": "5",
+    "year": "2023/10/01",
+    "authors": [
+        {
+            "name": "Ke Liu",
+            "country": ""
+        },
+        {
+            "name": "Yongquan Liang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762116300868",
+    "title": "Exploring the Processing-in-Memory design space",
+    "abstract": "With the emergence of 3D-DRAM, Processing-in-Memory has once more become of great interest to the research community and industry. Here we present our observations on a subset of the PIM design space. We show how the  architectural choices  for PIM core frequency and cache sizes will affect the overall  power consumption  and energy efficiency. We include a detailed power consumption breakdown for an ARM-like core as a PIM core. We show the maximum possible number of PIM cores we can place in the logic layer with respect to a predefined power budget. Additionally, we catalog additional sources of power consumption in a system with PIM such as 3D-DRAM link power and discuss the possible power reduction techniques. We describe the shortcomings of using ARM-like cores for PIM and discuss other alternatives for the PIM cores. Finally, we explore the optimal design choices for the number of cores as a function of performance, utilization, and energy efficiency.",
+    "citation_count": "13",
+    "year": "2017/04/01",
+    "authors": [
+        {
+            "name": "Marko Scrbak",
+            "country": ""
+        },
+        {
+            "name": "Mahzabeen Islam",
+            "country": ""
+        },
+        {
+            "name": "Krishna M. Kavi",
+            "country": ""
+        },
+        {
+            "name": "Mike Ignatowski",
+            "country": ""
+        },
+        {
+            "name": "Nuwan Jayasena",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

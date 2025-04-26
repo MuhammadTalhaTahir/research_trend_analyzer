@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624001513",
+    "title": "A three in one bottom-up framework for simultaneous semantic segmentation, instance segmentation and classification of multi-organ nuclei in digital cancer histology",
+    "abstract": "Simultaneous segmentation  and classification of nuclei in digital histology remains challenging. The highest achieved Panoptic Quality (PQ) remains low due to overlapping nuclei, higher staining and tissue variability, and rough clinical conditions. The generic deep-learning methods usually rely on end-to-end models, which fail to address these problems associated explicitly with digital histology. We resolve these issues using a dual attention-based model combined with post-processing in a bottom-up fashion. We use three attention decoder heads, which produce  semantic segmentation , edge proposals, and classification maps. We use these outputs to apply post-processing, including controlled watershed and pixel grouping, to produce  instance segmentation  and classification. Our multi-stage approach utilizes edge proposals and semantic segmentations compared to direct segmentation and classification strategies followed by most generic state-of-the-art methods. Due to this, we demonstrate a significant  performance improvement  in producing high-quality instance segmentation and nuclei classification. We have achieved a 0.841 Dice score for semantic segmentation, 0.713 bPQ scores for instance segmentation, and 0.633 mPQ for nuclei classification. Furthermore, the framework is less complex compared to the state-of-the-art.",
+    "citation_count": "0",
+    "year": "2024/06/01",
+    "authors": [
+        {
+            "name": "Ibtihaj Ahmad",
+            "country": ""
+        },
+        {
+            "name": "Syed Muhammad Israr",
+            "country": ""
+        },
+        {
+            "name": "Zain Ul Islam",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

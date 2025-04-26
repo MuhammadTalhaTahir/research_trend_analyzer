@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000485",
+    "title": "A cross-layer fault propagation analysis method for edge intelligence systems deployed with DNNs",
+    "abstract": "To evaluate the impact of soft errors on  convolutional neural networks  (CNNs) deployed in edged computation systems, we propose a data-driven assessment strategy to characterize the propagation flow across hardware and software abstraction layers of the system in an interpretable way. Single-bit-flip injections in underlying hardware architecture are performed on virtual embedded system with a CNN-based image classifier deployed on it. We depict the local activation and global dependencies caused by soft errors across the system in form of a directed acyclic graph by using  generative adversarial networks  and  Bayesian networks  as  data modeling  methods. The cross-layer fault  propagation paths  and component sensitivities show that the  deep neural networks  like CNNs can effectively prevent the faults that may cause critical failures from propagating to the system output via the channel  sparsity  and regular pooling mechanism in the network pipelines.",
+    "citation_count": "3",
+    "year": "2021/06/01",
+    "authors": [
+        {
+            "name": "Ting Liu",
+            "country": ""
+        },
+        {
+            "name": "Yuzhuo Fu",
+            "country": ""
+        },
+        {
+            "name": "Xiaotong Xu",
+            "country": ""
+        },
+        {
+            "name": "Wei Yan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S221065022200075X",
+    "title": "A comprehensive investigation on novel center-based sampling for large-scale global optimization",
+    "abstract": "During the last decade, metaheuristic algorithms have been well-established approaches which are utilized for solving complex real-world optimization problems. The most metaheuristic algorithms uses stochastic strategies in their initialization phase as well as during their new candidate generation steps when there is no a-priori knowledge about the solution, which is a common valid assumption for any black-box optimization algorithm. In recent years, researchers have introduced a new concept called center-based sampling which can be utilized in any search component of the optimization process, but so far it mainly has been used just for population initialization. This novel concept clarifies that in a  search space , the center point has a higher chance to be closer to an unknown solution compared to a random point, especially when the dimension of the search space increases. Thus, this concept helps the optimizer to find a better solution in a shorter time. In this paper, a comprehensive study has been conducted on the effect of center-based sampling to solve an optimization problem using three different levels of detailed investigation. These levels are as the follows: 1) considering no specific algorithm and no specific landscape (i.e., Monte-Carlo simulation); 2) considering a specific landscape but no specific algorithm (i.e., random search vs. center-based random search), and finally, 3) considering a specific algorithm and specific landscape which includes the proposing three different schemes for using center-based sampling scheme for solving Large-scale Global Optimization (LSGO) problems effectively. Furthermore, in this study, we seek to investigate the properties and capabilities of center-based sampling during optimization, which can be extended to utilize it in machine learning too, because optimization is a key role player in search and learning models. The proposed methods in this paper are evaluated on CEC 2013 LSGO benchmark functions and a real-world optimization problem, i.e., evolving  ANN  on two medical data sets. The experimental results confirm that center-based sampling has a crucial impact in improving the convergence rate of optimization/search algorithms when solving high-dimensional optimization problems.",
+    "citation_count": "7",
+    "year": "2022/08/01",
+    "authors": [
+        {
+            "name": "Hanan Hiba",
+            "country": ""
+        },
+        {
+            "name": "Shahryar Rahnamayan",
+            "country": ""
+        },
+        {
+            "name": "Azam Asilian Bidgoli",
+            "country": ""
+        },
+        {
+            "name": "Amin Ibrahim",
+            "country": ""
+        },
+        {
+            "name": "Rasa khosroshahli",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

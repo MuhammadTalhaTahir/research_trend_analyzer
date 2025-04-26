@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650215000991",
+    "title": "Structural damage detection using artificial bee colony algorithm with hybrid search strategy",
+    "abstract": "An approach for structural damage detection using the artificial bee colony (ABC) algorithm with hybrid search strategy based on modal data is presented. More search strategies are offered and the bee will choose one search mode based on the tournament selection strategy. And a kind of elimination mechanism is introduced to improve the convergence rate. A truss and a plate are studied as two numerical examples to illustrate the efficiency of proposed method. An experimental work on a beam is studied for further verification. Final results show the present method can acquire the better identification results, compared with those from  GA , the original ABC and quick ABC (QABC) algorithm, even under some measurement noise.",
+    "citation_count": "121",
+    "year": "2016/06/01",
+    "authors": [
+        {
+            "name": "Z.H. Ding",
+            "country": ""
+        },
+        {
+            "name": "M. Huang",
+            "country": ""
+        },
+        {
+            "name": "Z.R. Lu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,35 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-019-01339-y",
+    "title": "A Routing Protocol Combining Link State and Distance Vector for GEO-GEO Satellite Backbone Network",
+    "abstract": "For the demand of GEO-GEO satellite backbone networking construction based on inter-satellite link and satellite-to-ground link, this study focuses on satellite routing protocol solution. At the beginning, the deficiency of terrestrial network routing protocol based on distance vector (for example: RIP) and link state (for example: OSPF) applied directly to GEO-GEO satellite backbone network is analyzed. It proves to have problems such as excessive link cost and slow routing convergence rate. Therefore a novel satellite routing protocol for GEO-GEO satellite backbone network is proposed, which is called SDSRP (the link State and Distance vector combined Satellite Routing Protocol). Then the cost of satellite-to-ground link and route convergence are analyzed and simulated. The simulation results indicate that the proposed protocol can greatly reduce the satellite-to-ground link cost, and can obviously improve the routing convergence rate, which meet the requirements of GEO-GEO satellite backbone network application scenarios.",
+    "citation_count": 10,
+    "year": "2019/12",
+    "authors": [
+        {
+            "name": "Sun, Chenhua",
+            "country": "China"
+        },
+        {
+            "name": "Yin, Bo",
+            "country": "China"
+        },
+        {
+            "name": "Dou, Zhibin",
+            "country": "China"
+        },
+        {
+            "name": "Jia, Dai",
+            "country": "China"
+        },
+        {
+            "name": "Pang, Ce",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

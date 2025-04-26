@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-017-9669-5",
+    "title": "Higher resolution total velocity Vt and Va finite-volume formulations on cell-centred structured and unstructured grids",
+    "abstract": "Novel cell-centred finite-volume formulations are presented for incompressible and immiscible two-phase flow with both gravity and capillary pressure effects on structured and unstructured grids. The Darcy-flux is approximated by a control-volume distributed multipoint flux approximation (CVD-MPFA) coupled with a higher resolution approximation for convective transport. The CVD-MPFA method is used for Darcy-flux approximation involving pressure, gravity, and capillary pressure flux operators. Two IMPES formulations for coupling the pressure equation with fluid transport are presented. The first is based on the classical total velocity Vt fractional flow (Buckley Leverett) formulation, and the second is based on a more recent Va formulation. The CVD-MPFA method is employed for both Vt and Va formulations. The advantages of both coupled formulations are contrasted. The methods are tested on a range of structured and unstructured quadrilateral and triangular grids. The tests show that the resulting methods are found to be comparable for a number of classical cases, including channel flow problems. However, when gravity is present, flow regimes are identified where the Va formulation becomes locally unstable, in contrast to the total velocity formulation. The test cases also show the advantages of the higher resolution method compared to standard first-order single-point upstream weighting.",
+    "citation_count": 19,
+    "year": "2017/12",
+    "authors": [
+        {
+            "name": "Xie, Ya-wei",
+            "country": "UK"
+        },
+        {
+            "name": "Edwards, Michael G.",
+            "country": "UK"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S138376211930503X",
+    "title": "An inaudible voice attack to context-based device authentication in smart IoT systems",
+    "abstract": "As a typical application of Cyber-physical systems (CPS), a smart  Internet of Things  (IoT) system integrates computation, networking, and physical processes from embedded computing devices. To protect the confidentiality and authenticity of IoT systems, device authentication/pairing is a critical operation for securing networking and communication. Context-based pairing aims to provide more practical methods of pairing, using the common events in the same trust domain as the basis for  device authentication . However, the inaccuracy of event recognition and context noise sensitivity are inherent flaws that greatly affect the robustness and efficiency of these approaches. In this paper, we analyze the weakness of context-based pairing methods and present a jamming-based attack named  Pairjam , which interferes with the device authentication of these context-based device pairing methods. Due to the unknown  noise threshold  in signal detection, we design two attack model and validate that both attacks lead to misclassified of attack signal and decrease the similarity of fingerprint. The experiment results demonstrate that  Pairjam  can successfully disturb the device pairing by interfere with the fingerprint similarity of the microphone-equipped devices with other non-acoustic  IoT devices .",
+    "citation_count": "14",
+    "year": "2020/03/01",
+    "authors": [
+        {
+            "name": "Jian Mao",
+            "country": ""
+        },
+        {
+            "name": "Shishi Zhu",
+            "country": ""
+        },
+        {
+            "name": "Jianwei Liu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

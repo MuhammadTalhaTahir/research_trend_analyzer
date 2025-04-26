@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624004001",
+    "title": "Background debiased class incremental learning for video action recognition",
+    "abstract": "In this work, we tackle class incremental learning (CIL) for video action recognition, a relatively under-explored problem despite its practical importance. Directly applying image-based CIL methods does not work well in the video action recognition setting. We hypothesize the major reason is the spurious correlation between the action and background in video action recognition datasets/models. Recent literature shows that the spurious correlation hampers the generalization of models in the conventional action recognition setting. The problem is even more severe in the CIL setting due to the limited exemplars available in the rehearsal memory. We empirically show that mitigating the spurious correlation between the action and background is crucial to the CIL for video action recognition. We propose to learn background invariant action representations in the CIL setting by providing training videos with diverse backgrounds generated from background augmentation techniques. We validate the proposed method on public benchmarks: HMDB-51, UCF-101, and Something-Something-v2.",
+    "citation_count": "1",
+    "year": "2024/11/01",
+    "authors": [
+        {
+            "name": "Le Quan Nguyen",
+            "country": ""
+        },
+        {
+            "name": "Jinwoo Choi",
+            "country": ""
+        },
+        {
+            "name": "L. Minh Dang",
+            "country": ""
+        },
+        {
+            "name": "Hyeonjoon Moon",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-008-9085-y",
+    "title": "A continuous/discontinuous Galerkin framework for modeling coupled subsurface and surface water flow",
+    "abstract": "We consider conjunctive surface-subsurface flow modeling, where surface water flow is described by the shallow water equations and ground water flow by Richards’ equation for the vadose zone. Coupling between the models is based on the continuity of flux and water pressure. Numerical approximation of the coupled model using the framework of discontinuous Galerkin (DG) methods is formulated. In the subsurface, the local discontinuous Galerkin (LDG) method is used to approximate ground water velocity and hydraulic head; a DG method is also used to approximate surface water velocity and elevation. This approach allows for a weak coupling of the models and the use of different approximating spaces and/or meshes within each regime. A simplified LDG method based on continuous approximations to water head is also described. Numerical results that investigate physical and numerical aspects of surface–subsurface flow modeling are presented.",
+    "citation_count": 40,
+    "year": "2008/12",
+    "authors": [
+        {
+            "name": "Dawson, Clint",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

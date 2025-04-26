@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885613001522",
+    "title": "Keyword spotting in unconstrained handwritten Chinese documents using contextual word model",
+    "abstract": "This paper proposes a method for keyword spotting in off-line Chinese handwritten documents using a contextual word model, which measures the similarity between the query word and every candidate word in the document by combining a character classifier and the geometric context as well as linguistic context. The geometric context model characterizes the single-character likeliness and between-character relationship. The  linguistic model  utilizes the dependency of the word with the external adjacent characters. The combining weights are optimized on training documents. Experiments on a large handwriting database CASIA-HWDB demonstrate the effectiveness of the proposed method and justify the benefits of geometric and linguistic contexts. Compared to transcription-based text search, the proposed method can provide higher recall rate, and for spotting words of four characters, the proposed method provides both higher precision and recall rate.",
+    "citation_count": "13",
+    "year": "2013/12/01",
+    "authors": [
+        {
+            "name": "Liang Huang",
+            "country": ""
+        },
+        {
+            "name": "Fei Yin",
+            "country": ""
+        },
+        {
+            "name": "Qing-Hu Chen",
+            "country": ""
+        },
+        {
+            "name": "Cheng-Lin Liu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

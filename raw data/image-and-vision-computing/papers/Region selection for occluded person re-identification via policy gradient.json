@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623000227",
+    "title": "Region selection for occluded person re-identification via policy gradient",
+    "abstract": "Person re-identification (re-id) has attracted lots of attention in the past few years. However, most of work in this area focus on the re-identification of the holistic pedestrian images. In the real application scenarios, the task of re-identification is usually influenced by the occlusion problems. Most of previous work tackle occlusion problem through pose estimation, human parsing or manually labelling occlusion objects. Such reliance on additional annotation information severely limits the generalization ability on practical usage. To address this problem, we propose a novel region selection learning strategy based on the policy gradient to remove irrelevant parts without using any extra information outside dataset. A transformer-based feature extractor is also constructed to learn discriminate features with self-attention mechanism. We evaluate the performance of the proposed method on three occluded re-identification datasets. The experiments show that we achieve 87%, 85.2% and 68.3% in Rank-1 accuracy on Occluded-REID, Partial-REID and Occluded-Duke datasets respectively.",
+    "citation_count": "2",
+    "year": "2023/04/01",
+    "authors": [
+        {
+            "name": "Bolei Xu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

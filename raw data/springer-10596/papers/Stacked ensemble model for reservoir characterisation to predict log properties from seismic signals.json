@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-023-10248-9",
+    "title": "Stacked ensemble model for reservoir characterisation to predict log properties from seismic signals",
+    "abstract": "Sparse and limited well data in oil fields pose challenges in accurately estimating petrophysical properties for reservoir characterization. Conventional Machine Learning (ML) models often struggle to provide accurate estimations in such scenarios. This paper presents an ensemble modeling solution, named ”SEMoRC”, which effectively predicts various log (petrophysical) properties using seismic data, when the conventional models fail to achieve it. The model architecture in the ensemble is dynamically determined at runtime to build an optimized ensemble of ML models. The proposed approach has been applied to a real-world dataset and has shown superior performance in terms of root mean square error (RMSE) and correlation coefficient (CC), compared to its constituent ML models. Our analysis conducted on different log properties demonstrates the efficacy of the proposed approach and its potential in enhancing reservoir characterization with sparse and limited oil wells, and hence can facilitate decision-making in oil well drilling.",
+    "citation_count": 34,
+    "year": "2023/12",
+    "authors": [
+        {
+            "name": "Saikia, Pallabi",
+            "country": "India"
+        },
+        {
+            "name": "Baruah, Rashmi Dutta",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

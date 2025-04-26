@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1014594922928",
+    "title": "Multi-Parameter Identification and Applications in Well-Logging",
+    "abstract": "We deal with a multi-parameter identification problem arising in oil industry. In the general case, we give a local solvability condition to guarantee the well-posedness of the problem. We discuss in detail the identification of two parameters for which some numerical results are given.",
+    "citation_count": 12,
+    "year": "2001/12",
+    "authors": [
+        {
+            "name": "Peng, Yue-Jun",
+            "country": "France"
+        },
+        {
+            "name": "Tan, Yongji",
+            "country": "P.R. China"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

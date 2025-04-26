@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-016-0038-4",
+    "title": "Even factors of graphs",
+    "abstract": "An even factor of a graph is a spanning subgraph in which each vertex has a positive even degree. Favaron and Kouider (J Gr Theory 77:58–67, 2014) showed that if a simple graph G has an even factor, then it has an even factor F with $$|E(F)| \\ge \\frac{7}{16} (|E(G)| + 1)$$ . This ratio was improved to $$\\frac{4}{7}$$ recently by &nbsp;Chen and Fan&nbsp;(J Comb Theory Ser B 119:237–244, 2016), which is the best possible. In this paper, we take the set of vertices of degree 2 (say $$V_{2}(G)$$ ) into consideration and further strengthen this lower bound. Our main result is to show that for any simple graph G having an even factor, G has an even factor F with $$|E(F)| \\ge \\frac{4}{7} (|E(G)| + 1)+\\frac{1}{7}|V_{2}(G)|$$ .",
+    "citation_count": 7,
+    "year": "2017/05",
+    "authors": [
+        {
+            "name": "Cheng, Jian",
+            "country": "USA"
+        },
+        {
+            "name": "Zhang, Cun-Quan",
+            "country": "USA"
+        },
+        {
+            "name": "Zhu, Bao-Xuan",
+            "country": "PR China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

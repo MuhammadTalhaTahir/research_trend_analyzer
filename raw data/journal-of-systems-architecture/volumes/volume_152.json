@@ -1,0 +1,86 @@
+[
+    {
+        "title": "Editorial Board",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762124001413"
+    },
+    {
+        "title": "SHREG: Mitigating register redundancy in GPUs",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762124000894"
+    },
+    {
+        "title": "Dynamic zone redistribution for key-value stores on zoned namespaces SSDs",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762124000961"
+    },
+    {
+        "title": "CEIU: Consistent and Efficient Incremental Update mechanism for mobile systems on flash storage",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762124000882"
+    },
+    {
+        "title": "DReP: Deep ReLU pruning for fast private inference",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762124000936"
+    },
+    {
+        "title": "Day–Night architecture: Development of an ultra-low power RISC-V processor for wearable anomaly detection",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762124000985"
+    },
+    {
+        "title": "Flash controller-based secure execution environment for protecting code confidentiality",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762124001097"
+    },
+    {
+        "title": "Energy-efficient scheduling for parallel applications with reliability and time constraints on heterogeneous distributed systems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762124001103"
+    },
+    {
+        "title": "Timing-accurate scheduling and allocation for parallel I/O operations in real-time systems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S138376212400095X"
+    },
+    {
+        "title": "An improved lightweight and privacy preserving authentication scheme for smart grid communication",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762124001139"
+    },
+    {
+        "title": "IPCAS: An improved conditional privacy-preserving certificateless aggregate signature scheme without bilinear pairing for VANETs",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762124001127"
+    },
+    {
+        "title": "Flexibly expressive and revocable multi-authority KP-ABE scheme from RLWE for Internet of Medical Things",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762124001164"
+    },
+    {
+        "title": "Migration-aware slot-based memory request scheduler to guarantee QoS in DRAM-PCM hybrid memories",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762124001115"
+    },
+    {
+        "title": "A high-performance dataflow-centric optimization framework for deep learning inference on the edge",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762124001176"
+    },
+    {
+        "title": "Designated-tester Identity-Based Authenticated Encryption with Keyword Search with applications in cloud systems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762124001206"
+    },
+    {
+        "title": "Towards Efficient On-Chip Communication: A Survey on Silicon Nanophotonics and Optical Networks-on-Chip",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762124001085"
+    },
+    {
+        "title": "Towards transferable adversarial attacks on vision transformers for image classification",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762124000924"
+    },
+    {
+        "title": "ALERT: A lightweight defense mechanism for enhancing DNN robustness against T-BFA",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762124000973"
+    },
+    {
+        "title": "BFL-SA: Blockchain-based federated learning via enhanced secure aggregation",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762124001000"
+    },
+    {
+        "title": "Practicable live container migrations in high performance computing clouds: Diskless, iterative, and connection-persistent",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762124000948"
+    },
+    {
+        "title": "Exploring energy efficiency of LSTM accelerators: A parameterized architecture design for embedded FPGAs",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762124001188"
+    }
+]

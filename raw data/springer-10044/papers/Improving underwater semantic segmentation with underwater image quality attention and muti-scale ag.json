@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-025-01460-7",
+    "title": "Improving underwater semantic segmentation with underwater image quality attention and muti-scale aggregation attention",
+    "abstract": "Underwater image understanding is crucial for both submarine navigation and seabed exploration. However, the low illumination in underwater environments degrades the imaging quality, which in turn seriously deteriorates the performance of underwater semantic segmentation, particularly for outlining the object region boundaries. To tackle this issue, we present UnderWater SegFormer (UWSegFormer), a transformer-based framework for semantic segmentation of low-quality underwater images. Firstly, we propose the Underwater Image Quality Attention (UIQA) module. This module enhances the representation of high-quality semantic information in underwater image feature channels through a channel self-attention mechanism. In order to address the issue of loss of imaging details due to the underwater environment, the Multi-scale Aggregation Attention (MAA) module is proposed. This module aggregates sets of semantic features at different scales by extracting discriminative information from high-level features, thus compensating for the semantic loss of detail in underwater objects. Finally, during training, we introduce Edge Learning Loss (ELL) in order to enhance the model’s learning of underwater object edges and improve the model’s prediction accuracy. Experiments conducted on the SUIM and DUT-USEG (DUT) datasets have demonstrated that the proposed method has advantages in terms of segmentation completeness, boundary clarity, and subjective perceptual details when compared to SOTA methods. In addition, the proposed method achieves the highest mIoU of 82.12 and 71.41 on the SUIM and DUT datasets, respectively. Code will be available at https://github.com/SAWRJJ/UWSegFormer .",
+    "citation_count": 44,
+    "year": "2025/06",
+    "authors": [
+        {
+            "name": "Zuo, Xin",
+            "country": "China"
+        },
+        {
+            "name": "Jiang, Jiaran",
+            "country": "China"
+        },
+        {
+            "name": "Shen, Jifeng",
+            "country": "China"
+        },
+        {
+            "name": "Yang, Wankou",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

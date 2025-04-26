@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S026288562200097X",
+    "title": "Multi–feature fusion tracking algorithm based on peak–context learning",
+    "abstract": "Object tracking is considered a critical process in most applications of  computer vision . Recently, tracking algorithms that include correlation filter in their frameworks have gained massive popularity due to their high efficiency. The previous algorithms aim to learn the correlation filter by leveraging over all features of the target and its neighbors. However, in this paper, a new tracking algorithm that merges an elastic net constraint and a contextual information into the training scheme is proposed to estimate the target location successfully. The novel  optimization problem  can significantly strengthen the peak value of the target and effectively eliminate the distractive features. Moreover, most of the correlation filter trackers only use one  single feature , which has poor ability under a sophisticated environment. For this reason, a multi–feature fusion strategy is proposed in the framework that embeds multiple features to enhance the tracking performance. Consequently, a multi–scale adaptive model is implemented to improve the tracking stability through scale variations. Besides, an updating mechanism is applied within the proposed framework to reduce the tracking drift. Extensive quantitative and qualitative experiments on challenging benchmarks show that this unified tracker model achieves impressive performance compared to correlation filter and deep trackers.",
+    "citation_count": "8",
+    "year": "2022/07/01",
+    "authors": [
+        {
+            "name": "Tayssir Bouraffa",
+            "country": ""
+        },
+        {
+            "name": "Zihang Feng",
+            "country": ""
+        },
+        {
+            "name": "Liping Yan",
+            "country": ""
+        },
+        {
+            "name": "Yuanqing Xia",
+            "country": ""
+        },
+        {
+            "name": "Bo Xiao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

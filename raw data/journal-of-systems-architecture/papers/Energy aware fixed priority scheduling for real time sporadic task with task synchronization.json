@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762116301916",
+    "title": "Energy aware fixed priority scheduling for real time sporadic task with task synchronization",
+    "abstract": "Energy management  is one of the key issues in the real-time embedded systems. The slowdown method based on the  dynamic voltage scaling  (DVS) and the shutdown method based on the dynamic power management (DPM) can effectively reduce energy consumption. The previous algorithm which uses the static speed to deal with the blocking situation is too conservative. We present a static task  synchronization  for sporadic  tasks scheduling  (STSST) algorithm. The dynamic speed is computed to minimize energy consumption while satisfying the time constraints in the STSST algorithm. But, the STSST algorithm assumes that each task executes with its  worst case execution time . As the actual  execution time  of the task is often lower than its worst case execution time. A dynamic task  synchronization  for sporadic task (DTSST) algorithm which can reclaim the slack time generated from the early completion task is proposed. It combines the  DVS technique  and the  DPM technique  to reduce energy consumption. Furthermore, the feasibility conditions are given and proved. The experimental results show that the DTSST algorithm can reduce energy consumption up to 20.57%∼67.66% over the STSST algorithm and it consumes 43.79%∼67.66% less energy than that of the DS algorithm.",
+    "citation_count": "28",
+    "year": "2018/02/01",
+    "authors": [
+        {
+            "name": "Yi-wen Zhang",
+            "country": ""
+        },
+        {
+            "name": "Cheng Wang",
+            "country": ""
+        },
+        {
+            "name": "Jin Liu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

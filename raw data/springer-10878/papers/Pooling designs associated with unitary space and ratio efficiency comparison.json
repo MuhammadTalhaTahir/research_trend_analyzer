@@ -1,0 +1,21 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-008-9185-6",
+    "title": "Pooling designs associated with unitary space and ratio efficiency comparison",
+    "abstract": "Let $\\mathbb{F}^{(2\\nu+\\delta)}_{q^{2}}$ be a (2ν+δ)-dimensional unitary space of $\\mathbb{F}_{q^{2}}$ , where δ=0 or 1. In this paper we construct a family of inclusion matrices associated with subspaces of $\\mathbb{F}^{(2\\nu+\\delta)}_{q^{2}}$ , and exhibit its disjunct property. Moreover, we compare the ratio efficiency of this construction with others, and find it smaller under some conditions.",
+    "citation_count": 16,
+    "year": "2010/05",
+    "authors": [
+        {
+            "name": "Guo, Jun",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

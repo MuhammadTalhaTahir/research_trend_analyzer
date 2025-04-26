@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885612001448",
+    "title": "On the dynamic time warping of cyclic sequences for shape retrieval",
+    "abstract": "In recent years, in shape retrieval, methods based on dynamic time warping and sequences where each point of the contour is represented by elements of several dimensions have had a significant presence. In this approach each point of the  closed contour  contains information with respect to the other ones, this global information is very discriminant. The current state-of-the-art shape retrieval is based on the analysis of these distances to learn better ones. These methods are robust to noise and invariant to transformations, but, they obtain the invariance to the starting point with a brute force cyclic alignment which has a high computational time. In this work, we present cyclic dynamic time warping. It can obtain the cyclic alignment in  O ( n 2 logn ) time, where  n  is the size of both sequences. Experimental results show that our proposal is a better alternative than the brute force cyclic alignment and other heuristics for obtaining this invariance.",
+    "citation_count": "33",
+    "year": "2012/12/01",
+    "authors": [
+        {
+            "name": "Vicente Palazón-González",
+            "country": ""
+        },
+        {
+            "name": "Andrés Marzal",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

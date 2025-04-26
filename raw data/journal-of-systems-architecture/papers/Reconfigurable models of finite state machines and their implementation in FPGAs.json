@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S138376210200067X",
+    "title": "Reconfigurable models of finite state machines and their implementation in FPGAs",
+    "abstract": "This paper examines some models of  finite state machines  (FSMs) that can be implemented in dynamically and statically reconfigurable  FPGAs . They enable circuits for the FSMs to be constructed in such a way that allows their behavior to be modified before and during run-time. This is achieved either by swapping pre-allocated areas on a chip in partially dynamically reconfigurable FPGAs, or by reloading memory-based cells in statically configured FPGAs. The initial behavioral description is presented in the form of hierarchical graph-schemes that can be formally translated to traditional FSM specifications such as state diagrams and  state transition tables . The description supports modularity and a hierarchical structure, both of which are important for modifiable circuits. The results of experiments with software models that permit  reconfigurable systems  to be simulated and verified and with a hardware implementation of a FSM have shown that such reusable circuits require very limited FPGA resources and they can be reprogrammed in much the same way as for software development.",
+    "citation_count": "50",
+    "year": "2002/08/01",
+    "authors": [
+        {
+            "name": "V. Sklyarov",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

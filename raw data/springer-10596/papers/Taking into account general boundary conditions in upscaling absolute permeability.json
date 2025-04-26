@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-005-9007-1",
+    "title": "Taking into account general boundary conditions in upscaling absolute permeability",
+    "abstract": "Upscaling methods that need to solve local problems subject to boundary conditions are addressed in this article. We define a new upscaling method based on optimization problems, which can take into account general boundary conditions applied to local problems. The determination of upscaled permeability leads to minimizing the difference of dissipated energies (or averaged velocity) at fine and large scale. Using optimal control techniques, we obtain an effective computing algorithm that allows us to recover, with classical boundary conditions, the well-known results. The uniqueness issue is tackled for the optimization problems introduced in our approach. We show that the method is stable with respect to G-convergence, a property that establishes a link with homogenization theory, and finally, 2D numerical experiments are presented.",
+    "citation_count": 35,
+    "year": "2005/12",
+    "authors": [
+        {
+            "name": "Hontans, T.",
+            "country": "France"
+        },
+        {
+            "name": "Terpolilli, P.",
+            "country": "France"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224002724",
+    "title": "Solving multi-objective robust optimization problems via Stakelberg-based game model",
+    "abstract": "Real-world multi-objective engineering problems frequently involve uncertainties stemming from environmental factors, production inaccuracies, and other sources. A critical aspect of addressing these problems, termed Multi-Objective Robust Optimization (MORO) problems, is the development of solutions that are both optimal and resilient to uncertainties. This paper proposes addressing these uncertainties through the application of Stackelberg game models, a novel approach involving the interaction of two players. The Leader searches for optimal and robust solutions and the Follower generates uncertainties based on the Leader’s chosen solutions. The Follower seeks to tackle the most challenging uncertainties associated with the Leader’s candidate solutions. Additionally, this paper introduces a novel metric to assess the robustness of a given set of solutions concerning specified uncertainties. Based on the proposed approach, a co-evolutionary algorithm is developed. A numerical study is then conducted to evaluate the algorithm by comparing its performance with those obtained by four benchmark algorithms on nine benchmark MORO problems. The numerical study also aims to assess its sensitivity to run parameter variations. The experimental results demonstrate the proposed approach’s effectiveness in identifying a non-dominated robust set of solutions.",
+    "citation_count": "0",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Adham Salih",
+            "country": ""
+        },
+        {
+            "name": "Erella Eisenstadt Matalon",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

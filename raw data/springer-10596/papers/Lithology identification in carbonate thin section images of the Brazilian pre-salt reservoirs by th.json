@@ -1,0 +1,52 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-022-10168-0",
+    "title": "Lithology identification in carbonate thin section images of the Brazilian pre-salt reservoirs by the computational vision and deep learning",
+    "abstract": "Currently, the computer vision area, which represents one of the subfields of artificial intelligence and machine learning, has been widely used to process data in the oil and gas industry. In this context, the detection of specific properties inside carbonate rocks in different datasets from petroleum reservoirs represents a considerable challenge, that consumes enormous resources and time. Therefore, the automatic separation of the lithologies within rocks of reservoirs has attracted the increasing attention of many research groups. The consistent classification of these lithologies is the main factor for the construction of reliable depositional, diagenetic, and reservoir models. This work deals with this last issue by presenting the development of a technique for the automatic classification of carbonate thin sections obtained from plane-polarized and cross-polarized microscopy images corresponding to natural rocks belonging to the Brazilian pre-salt reservoir. Our proposed model transforms the analyzed images into structured data by defining texture parameters (Haralick parameters), and Wavelets transforms. Later, a stacked autoencoder neural network is used to eliminate images with anomalies and/or distortions in order to define relevant characteristics of the data. This stage is followed by supervised classifier called multilayer feed-forward neural network. The definition of the model’s hyperparameters is tuned by Bayesian optimization and the Gaussian process. For training and testing of the network, images of 570 thin sections were used (each image obtained with plane-polarized and cross-polarized light) totaling 1140 images. Our model reported an accuracy of 83% for the test samples, confirming the validity of the proposed model in the automatic classification of carbonate rocks.",
+    "citation_count": 44,
+    "year": "2022/12",
+    "authors": [
+        {
+            "name": "Faria, E. L.",
+            "country": "Brazil"
+        },
+        {
+            "name": "Coelho, Juliana. M.",
+            "country": "Brazil"
+        },
+        {
+            "name": "Matos, Thais F.",
+            "country": "Brazil"
+        },
+        {
+            "name": "Santos, Bernardo C. C.",
+            "country": "Brazil"
+        },
+        {
+            "name": "Trevizan, Willian A.",
+            "country": "Brazil"
+        },
+        {
+            "name": "Gonzalez, J. L.",
+            "country": "Brazil"
+        },
+        {
+            "name": "Bom, Clécio R.",
+            "country": "Brazil"
+        },
+        {
+            "name": "de Albuquerque, Márcio P.",
+            "country": "Brazil"
+        },
+        {
+            "name": "de Albuquerque, Marcelo P.",
+            "country": "Brazil"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-018-0722-3",
+    "title": "CNN-based gender classification in near-infrared periocular images",
+    "abstract": "Periocular region has emerged as a key biometric trait with potential applications in the forensics domain. In this paper, we explore two convolutional neural network (CNN)-based approaches for gender classification using near-infrared images of the periocular region. In the first stage, our approaches automatically detect and extract left and right periocular regions. The first approach utilizes a domain-specific pre-trained CNN to extract deep features from the periocular images. A trained support vector machine&nbsp;(SVM) then utilizes these features to predict the gender information. The second approach employs an end-to-end classifier obtained by fine-tuning a pre-trained CNN on the periocular images. Performance evaluations have been carried out on three databases, which includes an in-house and two public databases. Local binary pattern and histogram of oriented gradient-based methods have been used as baseline methods to ascertain the effectiveness of the proposed approaches. Our results indicate that the proposed approaches achieve higher classification accuracy than the baseline methods, particularly on one of the public databases that contains a large number of non-ideal images. In addition, accuracy of the proposed approaches is consistently higher than the existing eyebrow feature-based method.",
+    "citation_count": 33,
+    "year": "2019/11",
+    "authors": [
+        {
+            "name": "Manyala, Anirudh",
+            "country": "India"
+        },
+        {
+            "name": "Cholakkal, Hisham",
+            "country": "Singapore"
+        },
+        {
+            "name": "Anand, Vijay",
+            "country": "India"
+        },
+        {
+            "name": "Kanhangad, Vivek",
+            "country": "India"
+        },
+        {
+            "name": "Rajan, Deepu",
+            "country": "Singapore"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

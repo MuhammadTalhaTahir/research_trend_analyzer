@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-016-0048-2",
+    "title": "The (vertex-)monochromatic index of a graph",
+    "abstract": "A tree T in an edge-colored (vertex-colored) graph H is called a monochromatic (vertex-monochromatic) tree if all the edges (internal vertices) of T have the same color. For $$S\\subseteq V(H)$$ , a monochromatic (vertex-monochromatic) S-tree in H is a monochromatic (vertex-monochromatic) tree of H containing the vertices of S. For a connected graph G and a given integer k with $$2\\le k\\le |V(G)|$$ , the k -monochromatic index $$mx_k(G)$$ (k -monochromatic vertex-index $$mvx_k(G)$$ ) of G is the maximum number of colors needed such that for each subset $$S\\subseteq V(G)$$ of k vertices, there exists a monochromatic (vertex-monochromatic) S-tree. For $$k=2$$ , Caro and Yuster showed that $$mc(G)=mx_2(G)=|E(G)|-|V(G)|+2$$ for many graphs, but it is not true in general. In this paper, we show that for $$k\\ge 3$$ , $$mx_k(G)=|E(G)|-|V(G)|+2$$ holds for any connected graph G, completely determining the value. However, for the vertex-version $$mvx_k(G)$$ things will change tremendously. We show that for a given connected graph G, and a positive integer L with $$L\\le |V(G)|$$ , to decide whether $$mvx_k(G)\\ge L$$ is NP-complete for each integer k such that $$2\\le k\\le |V(G)|$$ . Finally, we obtain some Nordhaus–Gaddum-type results for the k-monochromatic vertex-index.",
+    "citation_count": 15,
+    "year": "2017/05",
+    "authors": [
+        {
+            "name": "Li, Xueliang",
+            "country": "China"
+        },
+        {
+            "name": "Wu, Di",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

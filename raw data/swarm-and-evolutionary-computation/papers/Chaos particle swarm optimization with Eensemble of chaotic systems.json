@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650215000838",
+    "title": "Chaos particle swarm optimization with Eensemble of chaotic systems",
+    "abstract": "In this study the Chaotic  Particle Swarm Optimization  (CPSO) algorithm with six simultaneously used chaotic pseudo-random number generators (CPRNG) is investigated. The implementation of chaotic sequences is detailed and discussed. The Ensemble learning approach is used for assigning CPRNGs to particles. The results of proposed algorithm on IEEE CEC′13 Real-Parameter Single  Objective Optimization  benchmark set are presented and compared with the SPSO-2011.",
+    "citation_count": "54",
+    "year": "2015/12/01",
+    "authors": [
+        {
+            "name": "Michal Pluhacek",
+            "country": ""
+        },
+        {
+            "name": "Roman Senkerik",
+            "country": ""
+        },
+        {
+            "name": "Donald Davendra",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

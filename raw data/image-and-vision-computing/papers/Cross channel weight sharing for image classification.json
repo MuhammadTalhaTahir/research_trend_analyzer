@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623002469",
+    "title": "Cross channel weight sharing for image classification",
+    "abstract": "Hypercomplex convolutional  neural networks  (HCNNs) have recently been used to improve  deep learning  architectures due to their ability to share weights across input channels and thus improve the cohesiveness of learned representations within the layers. Much work has been done to study the effect of hypercomplex representation in CNNs. However, to date, none of these models have used fully hypercomplex architectures, meaning that some of the layers in these earlier networks used conventional real-valued calculations that did not engage cross-channel weight sharing. Here, we introduce and study full hypercomplex CNNs by ensuring all layers perform hypercomplex calculations. For the earlier HCNNs, the real-valued layers are found in: (I) in the front end of the networks, (II) in the back end of the networks, and (III) in the residual blocks of the networks. The present research examines the performance of HCNNs when the modules mentioned above are replaced with hypercomplex equivalents. These representational networks have outperformed and shown state-of-the-art results compared to previous hypercomplex models (on some specific datasets). A disadvantage of these representational networks is that they consume high computational costs. To reduce this cost, novel separable hypercomplex networks (SHNNs) are proposed. They are created by factoring a quaternion convolutional module into two consecutive separable vectormap convolutional modules. As the successive layers of deep HCNNs perform local hierarchical grouping on increasingly abstract features, these groupings are responsible for the long-distance interaction problems found in the dense layers. To handle these problems, researchers have applied attention mechanisms in hypercomplex space. This paper offers a perspective on the basic concepts of representational networks and attention-based representational networks with the focus on (1) reviewing deep full HCNNs, including hypercomplex-based fully connected dense layer; (2) analyzing hypercomplex-based separable concept; (3) describing how the hypercomplex spatial layer of residual bottleneck block is replaced with an attention layer; and (4) providing a comprehensive summary comparing the performance of recent deep HCNNs, deep  convolutional neural networks , and original attention based networks. We compare the performance of the networks in terms of accuracy and the number of trainable parameters on several  image classification  datasets.",
+    "citation_count": "3",
+    "year": "2024/01/01",
+    "authors": [
+        {
+            "name": "Nazmul Shahadat",
+            "country": ""
+        },
+        {
+            "name": "Anthony S. Maida",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

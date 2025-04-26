@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224002359",
+    "title": "A self-adaptive memetic algorithm with Q-learning for solving the multi-AGVs dispatching problem",
+    "abstract": "In this paper, we address the problem of dispatching multiple automated guided vehicles (AGVs) in an actual production workshop, aiming to minimize the transportation cost. To solve this problem, a self-adaptive memetic algorithm with Q-learning (Q-SAMA) is proposed. An improved nearest-neighbor task division heuristic is used for generating premium solutions. Additionally, a Q-learning is integrated to select appropriate neighborhood operators, thereby enhancing the algorithm's exploration ability. To prevent the algorithm from falling into a local optimum, the restart strategy is offered. In order to adapt Q-SAMA to different stages in the search process, the traditional crossover and mutation probabilities are no longer used. Instead, a self-adaptive probability is obtained based on the population's degree of concentration, and the sparsity relationship among individuals' fitness. Finally, experimental results validate the effectiveness of the proposed method. It is able to yield better results compared with other five state-of-the-art algorithms.",
+    "citation_count": "4",
+    "year": "2024/10/01",
+    "authors": [
+        {
+            "name": "Chang-Zhe Zheng",
+            "country": ""
+        },
+        {
+            "name": "Hong-Yan Sang",
+            "country": ""
+        },
+        {
+            "name": "Li-Ning Xing",
+            "country": ""
+        },
+        {
+            "name": "Wen-Qiang Zou",
+            "country": ""
+        },
+        {
+            "name": "Lei-Lei Meng",
+            "country": ""
+        },
+        {
+            "name": "Tao Meng",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1023/B:MONE.0000042497.03569.17",
+    "title": "Topology Management for Improving Routing and Network Performances in Mobile Ad Hoc Networks",
+    "abstract": "A distributed topology management algorithm based on the construction of a forest from the topology of the network is proposed. In this algorithm, each tree of the forest forms a zone, and each zone is maintained proactively. As a result, the network can be seen as a set of non-overlapping zones. We introduce the concept of quality of connectivity for extracting the links connecting the pair of best nodes, and use this quality to construct the forest. We characterize the behaviors of the proposed topology management algorithm under various network density. We study the effect of the topology management on the performance of an ad hoc routing protocol. The results demonstrate that the performance of routing can be significantly improved with the help of topology management.",
+    "citation_count": 27,
+    "year": "2004/12",
+    "authors": [
+        {
+            "name": "Nikaein, Navid",
+            "country": "France"
+        },
+        {
+            "name": "Bonnet, Christian",
+            "country": "France"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

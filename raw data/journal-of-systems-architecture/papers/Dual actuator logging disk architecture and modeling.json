@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762107000471",
+    "title": "Dual actuator logging disk architecture and modeling",
+    "abstract": "In this paper, we present a dual  actuator  logging disk architecture to minimize write access latencies. We reduce small synchronous write latency using the notion of logging writes, i.e. writing to free sectors near the current disk head location. However, we show through analytic models and simulations that logging writes by itself is not sufficient to reduce write access latencies, particularly in environments with writes to new data and intermixed reads and writes. Therefore, we augment the logging write method with the addition of a second  disk actuator . Our models and simulations show that the addition of the second actuator offers significant performance benefits over a normal disk over a wide range of disk access patterns, and comparisons to strictly logging disk architectures show advantages over a range of disk access patterns.",
+    "citation_count": "5",
+    "year": "2007/12/01",
+    "authors": [
+        {
+            "name": "John A. Chandy",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

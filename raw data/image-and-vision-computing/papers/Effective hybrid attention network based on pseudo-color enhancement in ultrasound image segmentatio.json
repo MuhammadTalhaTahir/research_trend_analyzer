@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001166",
+    "title": "Effective hybrid attention network based on pseudo-color enhancement in ultrasound image segmentation",
+    "abstract": "Ultrasound image segmentation plays a vital role in the early diagnosis of human diseases. It helps diagnose many diseases, such as breast cancer, hemangioma, and other gynecological disorders. However, the intrinsic imaging characteristics of ultrasound images result in substantially lower resolution and clarity than CT, MRI, and other imaging modalities, and they are sensitive to interference from external influences. With its inherent artifacts, blurred lesion boundaries, and uneven intensity distribution, ultrasound images present a challenging task when it comes to segmenting lesion areas accurately. In recent years, convolutional neural networks (CNNs) have achieved remarkable results in medical image segmentation tasks. However, CNNs are limited in capturing the remote dependencies of the input image, leading to degraded accuracy in segmenting ultrasound lesions. In this paper, we developed a deep convolutional neural network that incorporates the pseudo-color enhancement algorithm and hybrid attention modules that enhance the network’s ability to extract fine features and remote modeling capabilities. We propose a novel multi-scale channel attention-based decoder that efficiently uses the feature maps from the encoder as a complement and fuses them with the upsampled feature maps. The hybrid attention combination captures cross-channel interactions efficiently and enhances the context modeling capability, further improving the extraction of coarse and delicate features, and resulting in significant performance improvements. We found that the dice performance improved by 2.54%, 2.47%, 1.39%, 0.99%, and 1.23% on the BUL, BUSI, Hemangioma, BP, and VUI. Results from four public datasets and one self-collected dataset indicate that the proposed method outperforms other medical image segmentation methods for ultrasound image lesion segmentation.",
+    "citation_count": "11",
+    "year": "2023/09/01",
+    "authors": [
+        {
+            "name": "Xuping Huang",
+            "country": ""
+        },
+        {
+            "name": "Qian Wang",
+            "country": ""
+        },
+        {
+            "name": "Junxi Chen",
+            "country": ""
+        },
+        {
+            "name": "Lingna Chen",
+            "country": ""
+        },
+        {
+            "name": "Zhiyi Chen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

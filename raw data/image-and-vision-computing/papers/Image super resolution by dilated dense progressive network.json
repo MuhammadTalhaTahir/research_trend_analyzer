@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885619300344",
+    "title": "Image super resolution by dilated dense progressive network",
+    "abstract": "Image super-resolution (SR) is an interesting topic in  computer vision . However, it remains challenging to achieve high-resolution image from the corresponding low-resolution version due to inherent variability,  high dimensionality , and small ground targets images. In this paper, a new model based on dilated  convolutional neural network  is proposed to improve the image resolution. Recently,  deep learning  methods have led to significant improvements and completely outpace other models. However, these methods have not fully exploited all the features of the original low-resolution image, because of complex imaging conditions and the  degradation process . To address this issue, we proposed an effective model based on dilated dense network operations to accelerate deep networks for image SR, which support the  exponential growth  of the receptive field parallel by increasing the filter size. In particular,  residual network  and skip connections are used for deep recovery. The experimental evaluations on several datasets prove the efficiency and stability of the proposed model. The proposed model not only achieves state-of-the-art performance but also has more efficient computation.",
+    "citation_count": "49",
+    "year": "2019/08/01",
+    "authors": [
+        {
+            "name": "Pourya Shamsolmoali",
+            "country": ""
+        },
+        {
+            "name": "Masoumeh zareapoor",
+            "country": ""
+        },
+        {
+            "name": "Junhao Zhang",
+            "country": ""
+        },
+        {
+            "name": "Jie Yang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

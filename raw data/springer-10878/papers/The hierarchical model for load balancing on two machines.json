@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-007-9078-0",
+    "title": "The hierarchical model for load balancing on two machines",
+    "abstract": "Following previous work, we consider the hierarchical load balancing model on two machines of possibly different speeds. We first focus on maximizing the minimum machine load and show that no competitive algorithm exists for this problem. We overcome this barrier in two ways, both related to previously known models. The first one is fractional assignment, where each job can be arbitrarily split between the machines. The second one is a&nbsp;semi-online model where the sum of jobs is known in advance. We design algorithms of best possible competitive ratios for both these cases. Furthermore, we show that the combination of the two models leads to the existence of an optimal algorithm (i.e., an algorithm of competitive ratio&nbsp;1). This algorithm is clearly optimal for the makespan minimization problem as well. For the latter problem, we consider the fractional assignment model and design an algorithm of best possible competitive ratio for it.",
+    "citation_count": 13,
+    "year": "2008/05",
+    "authors": [
+        {
+            "name": "Chassid, Orion",
+            "country": "Israel"
+        },
+        {
+            "name": "Epstein, Leah",
+            "country": "Israel"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

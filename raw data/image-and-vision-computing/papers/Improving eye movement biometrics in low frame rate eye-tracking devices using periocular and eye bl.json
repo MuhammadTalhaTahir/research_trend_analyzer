@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621000299",
+    "title": "Improving eye movement biometrics in low frame rate eye-tracking devices using periocular and eye blinking features",
+    "abstract": "In this paper, the  biometric  potential of eye movement patterns extracted from low frame rate eye-tracking devices is evaluated. Also, possible improvement in recognition rates is investigated using other static and dynamic features extracted from the eyes including eye blinking patterns and periocular shape features. These modalities can be applicable for specific  biometric  applications like continuous driver  authentication  for law enforcement. For this purpose, two databases are collected with two low frame rate eye-tracking systems that capture the eye movements. Data were recorded from 55 participants while watching real driving sessions. For eye gaze, features from fixations and  saccades  are extracted separately including duration, amplitude, and statistical features. For eye blinking, features from the blinking pattern, its speed, acceleration, and power per unit mass profiles are extracted. Periocular features include the eye-opening height, width,  axial ratio , etc. Each modality is evaluated first, then, these modalities are combined in a multi-modal setup for  performance improvement . While each trait achieved a moderate performance in a single-modality setup, the fusion of the static and the dynamic features from the eye provides a great performance improvement up to 98.5% recognition rate and 0% error rate in both modes of authentication. Although the single-modality setup might not be secure enough, the fusion of these traits achieves high levels of identification making these traits effective for continuous driver authentication application.",
+    "citation_count": "12",
+    "year": "2021/04/01",
+    "authors": [
+        {
+            "name": "Sherif Nagib Abbas Seha",
+            "country": ""
+        },
+        {
+            "name": "Dimitrios Hatzinakos",
+            "country": ""
+        },
+        {
+            "name": "Ali Shahidi Zandi",
+            "country": ""
+        },
+        {
+            "name": "Felix J.E. Comeau",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650221000080",
+    "title": "Multi-objective particle swarm optimization with adaptive strategies for feature selection",
+    "abstract": "Feature selection is a multi-objective optimization problem since it has two conflicting objectives: maximizing the  classification accuracy  and minimizing the number of the selected features. Due to the lack of selection pressures, most feature  selection algorithms  based on multi-objective optimization obtain many optimal solutions around the center of  Pareto fronts . The penalty boundary interaction (PBI) decomposition approach provides fixed selection pressures for the population, but fixed selection pressures are hard to solve feature selection problems with complicated Pareto fronts. This paper proposes a novel feature selection algorithm based on multi-objective  particle swarm optimization  with adaptive strategies (MOPSO-ASFS) to improve the selection pressures of the population. An adaptive penalty mechanism based on PBI parameter adjusts penalty values adaptively to enhance the selection pressures of the archive. An adaptive leading particle selection based on feature information combines the opposite mutation and the feature frequencies to improve the selection pressure of each particle. The proposed algorithm is compared with 6 related algorithms on 14 benchmark UCI datasets and 6 gene datasets. The experimental results show that MOPSO-ASFS can find optimal solutions with better convergence and diversity than comparison algorithms especially on the high dimensional datasets.",
+    "citation_count": "135",
+    "year": "2021/04/01",
+    "authors": [
+        {
+            "name": "Fei Han",
+            "country": ""
+        },
+        {
+            "name": "Wen-Tao Chen",
+            "country": ""
+        },
+        {
+            "name": "Qing-Hua Ling",
+            "country": ""
+        },
+        {
+            "name": "Henry Han",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

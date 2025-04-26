@@ -1,0 +1,38 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002046",
+    "title": "A machine learning assisted data placement mechanism for hybrid storage systems",
+    "abstract": "Emerging applications produce massive files that show different properties in file size, lifetime, and read/write frequency. Existing hybrid storage systems place these files onto different storage mediums assuming that the access patterns of files are fixed. However, we find that the access patterns of files are changeable during their lifetime. The key to improve the file access performance is to adaptively place the files on the hybrid storage system using the run-time status and the properties of both files and the storage systems. In this paper, we propose a  machine learning  assisted data placement mechanism that adaptively places files onto the proper storage medium by predicting access patterns of files. We design a PMFS based tracer to collect file access features for prediction and show how this approach is adaptive to the changeable access pattern. Based on data access prediction results, we present a linear data  placement algorithm  to optimize the data access performance on the hybrid storage mediums. Extensive experimental results show that the proposed learning algorithm can achieve over 90% accuracy for predicting file access patterns. Meanwhile, this paper can achieve over 17% improvement of  system performance  for file accesses compared with the state-of-the-art linear-time data placement methods.",
+    "citation_count": "8",
+    "year": "2021/11/01",
+    "authors": [
+        {
+            "name": "Jinting Ren",
+            "country": ""
+        },
+        {
+            "name": "Xianzhang Chen",
+            "country": ""
+        },
+        {
+            "name": "Duo Liu",
+            "country": ""
+        },
+        {
+            "name": "Yujuan Tan",
+            "country": ""
+        },
+        {
+            "name": "Moming Duan",
+            "country": ""
+        },
+        {
+            "name": "Ruolan Li",
+            "country": ""
+        },
+        {
+            "name": "Liang Liang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

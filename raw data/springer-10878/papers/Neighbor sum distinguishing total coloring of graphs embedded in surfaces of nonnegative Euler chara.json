@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-015-9832-7",
+    "title": "Neighbor sum distinguishing total coloring of graphs embedded in surfaces of nonnegative Euler characteristic",
+    "abstract": "A total coloring of a graph $$G$$ is a coloring of its vertices and edges such that adjacent or incident vertices and edges are not colored with the same color. A total $$[k]$$ -coloring of a graph $$G$$ is a total coloring of $$G$$ by using the color set $$[k]=\\{1,2,\\ldots ,k\\}$$ . Let $$f(v)$$ denote the sum of the colors of a vertex $$v$$ and the colors of all incident edges of $$v$$ . A total $$[k]$$ -neighbor sum distinguishing-coloring of $$G$$ is a total $$[k]$$ -coloring of $$G$$ such that for each edge $$uv\\in E(G)$$ , $$f(u)\\ne f(v)$$ . Let $$G$$ be a graph which can be embedded in a surface of nonnegative Euler characteristic. In this paper, it is proved that the total neighbor sum distinguishing chromatic number of $$G$$ is $$\\Delta (G)+2$$ if $$\\Delta (G)\\ge 14$$ , where $$\\Delta (G)$$ is the maximum degree of $$G$$ .",
+    "citation_count": 31,
+    "year": "2016/05",
+    "authors": [
+        {
+            "name": "Xu, Renyu",
+            "country": "China"
+        },
+        {
+            "name": "Wu, Jianliang",
+            "country": "China"
+        },
+        {
+            "name": "Xu, Jin",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

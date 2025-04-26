@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621001025",
+    "title": "Feedback-driven loss function for small object detection",
+    "abstract": "In the recent years,  Convolutional Neural Network-based  object detection has experienced impressive progress. Despite these improvements, the performance on the small object detection leaves much to be desired, small objects are often missed or wrongly detected. The reasonable explanation is that the supervisory signals on the small objects are insufficient, and through the analysis of loss distribution over different scales in the iterations, there is a significant gap between the loss provided by the small objects and large objects. In order to balance the loss distribution and alleviate the insufficient supervisory on the small objects, a Feedback-driven loss function is presented in this paper. The Feedback-driven loss function uses the loss distribution information as the feedback signal, compared with the original loss function, the Feedback-driven loss function can supervise small objects more effectively, and train the detectors in a more balanced way. Experiments have been conducted on various detectors, backbones, training periods and datasets. Compared to the current state-of-the-art method, the novel Feedback-driven loss function can achieve 2.3% relative improvement on the  Mean Average Precision , and especially 3.5% improvement on the detection of small objects, with nearly no additional computation both in training and testing stages.",
+    "citation_count": "39",
+    "year": "2021/07/01",
+    "authors": [
+        {
+            "name": "Gen Liu",
+            "country": ""
+        },
+        {
+            "name": "Jin Han",
+            "country": ""
+        },
+        {
+            "name": "Wenzhong Rong",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

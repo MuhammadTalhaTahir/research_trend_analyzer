@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-024-01234-7",
+    "title": "On injective chromatic index of sparse graphs with maximum degree 5",
+    "abstract": "A k-edge coloring $$\\varphi $$ of a graph G is injective if $$\\varphi (e_1)\\ne \\varphi (e_3)$$ for any three consecutive edges $$e_1, e_2$$ and $$e_3$$ of a path or a triangle. The injective chromatic index $$\\chi _i'(G)$$ of G is the smallest k such that G admits an injective k-edge coloring. By discharging method, we demonstrate that any graph with maximum degree $$\\Delta \\le 5$$ has $$\\chi _i'(G)\\le 12$$ (resp. 13) if its maximum average degree is less than $$\\frac{20}{7}$$ (resp. 3), which improves the results of Zhu (2023).",
+    "citation_count": 11,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "Lu, Jian",
+            "country": "China"
+        },
+        {
+            "name": "Hong, Zhen-Mu",
+            "country": "China"
+        },
+        {
+            "name": "Xia, Zheng-Jiang",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762111000798",
+    "title": "Soft core based embedded systems in critical aerospace applications",
+    "abstract": "There is an increasing interest in the aerospace industry to reduce the cost of the systems by means of using Commercial Off The Shelf ( COTS ) devices. The engineering of novel microsatellites and nanosatellites are clear examples of this new trend. However, the use of sub-micron technologies has led to greater sensitivity of these devices to radiation-induced  transient faults , limiting the exploitation of this approach in critical systems. This paper presents an innovative application of soft-core microprocessor based embedded systems, to design dependable and reduced-cost critical systems with  COTS  reconfigurable devices (flash based  FPGAs ). To make this possible, it is necessary to fine-tune the protection strategy by combining selectively fault mitigation techniques based on hardware or software. In this way, the resultant system not only fulfills both the design constraints and the dependability requirements, but also avoids the cost provoked by excessive use of protection mechanisms. A case study is presented in which the design space exploration between hardware and software protection techniques permits to find the best trade-offs among performance, reliability, memory size and hardware cost in a dependable subsystem.",
+    "citation_count": "8",
+    "year": "2011/11/01",
+    "authors": [
+        {
+            "name": "Sergio Cuenca-Asensi",
+            "country": ""
+        },
+        {
+            "name": "Antonio Martínez-Álvarez",
+            "country": ""
+        },
+        {
+            "name": "Felipe Restrepo-Calle",
+            "country": ""
+        },
+        {
+            "name": "Francisco R. Palomo",
+            "country": ""
+        },
+        {
+            "name": "Hipólito Guzmán-Miranda",
+            "country": ""
+        },
+        {
+            "name": "Miguel A. Aguirre",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

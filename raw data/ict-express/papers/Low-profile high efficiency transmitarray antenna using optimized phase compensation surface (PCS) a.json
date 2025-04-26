@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959521000461",
+    "title": "Low-profile high efficiency transmitarray antenna using optimized phase compensation surface (PCS) and PEC sidewalls",
+    "abstract": "A low-profile high efficiency transmitarray antenna (TA) using an optimized phase compensation surface (PCS) and PEC sidewalls is proposed in this paper. Generally, TAs are composed of a source antenna and a planar PCS, and the PCS makes the phase of transmitted wave through the PCS be in-phase, resulting in a highly directive beam. The unit cells of a PCS cannot have a 100% transmittance at all transmission phases. Since there may be combinations of PCS that make various in-phases, the transmit efficiency of the TA can be improved. Also, the four PEC sidewalls are employed to maximize the amount of power reaching the PCS from the source antenna. As a result, the 100% spillover efficiency is achieved without diminishing taper efficiency. To verify its feasibility, the square TA was designed and measured at 5.8 GHz and a high aperture efficiency of 54% was obtained through the above design methodology.",
+    "citation_count": "0",
+    "year": "2021/12/01",
+    "authors": [
+        {
+            "name": "Jeong-Hyun Park",
+            "country": ""
+        },
+        {
+            "name": "Jae-Gon Lee",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

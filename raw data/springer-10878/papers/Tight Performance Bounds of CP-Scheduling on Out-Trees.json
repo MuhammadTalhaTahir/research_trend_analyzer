@@ -1,0 +1,21 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1011676725533",
+    "title": "Tight Performance Bounds of CP-Scheduling on Out-Trees",
+    "abstract": "The worst-case behavior of the “critical path” (CP) algorithm for multiprocessor scheduling with an out-tree task dependency structure is studied. The out-tree is not known in advance and the tasks are released on-line over time (each task is released at the completion time of its direct predecessor task in the out-tree). For each task, the processing time and the remainder (the length of the longest chain of the future tasks headed by this task) become known at its release time. The tight worst-case ratio and absolute error are derived for this strongly clairvoyant on-line model. For out-trees with a specific simple structure, essentially better worst-case ratio and absolute error are derived. Our bounds are given in terms of t max, the length of the longest chain in the out-tree, and it is shown that the worst-case ratio asymptotically approaches 2 for large t max when the number of processors $$m=\\widetilde {\\tau}(\\widetilde{\\tau}+1)/2-2$$ , where $$\\widetilde{\\tau}$$ is an integer close to $$\\sqrt {t_{\\max}}$$ . A non-clairvoyant on-line version (without knowledge of task processing time and remainder at the release time of the task) is also considered and is shown that the worst-case behavior of width-first search is better or the same as that of the depth-first search.",
+    "citation_count": 25,
+    "year": "2001/12",
+    "authors": [
+        {
+            "name": "Vakhania, Nodari",
+            "country": "Mexico"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

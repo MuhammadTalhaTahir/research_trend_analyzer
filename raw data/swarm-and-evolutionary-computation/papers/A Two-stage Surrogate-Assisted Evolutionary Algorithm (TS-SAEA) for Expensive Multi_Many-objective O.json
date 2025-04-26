@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650222000773",
+    "title": "A Two-stage Surrogate-Assisted Evolutionary Algorithm (TS-SAEA) for Expensive Multi/Many-objective Optimization",
+    "abstract": "In this paper, a two-stage surrogate-assisted  evolutionary algorithm  (TS-SAEA) is presented for computationally expensive multi/many-objective optimization, which consists of a convergence stage and a diversity stage. In the convergence stage, the objective space is partitioned into several sub-regions by reference vectors, where the individuals compete with each other. In the diversity stage, the converged individuals and the current non-dominated solutions are combined to form a potential sample set, on which a secondary selection is conducted to further improve the diversity. Specifically, the proposed diversity strategy firstly defines the initial boundary individuals and a candidate pool. The individuals with “max-min angles” will continuously be selected from the pool to supplement the boundary individuals until the number of the boundary individuals equals the number of the current non-dominated solutions. At last, the points with the better space-filling features are picked out from the updated boundary individuals to evaluate the true objectives. The above-mentioned process keeps running until the maximal number of function evaluations is satisfied. To evaluate the performance of TS-SAEA on both low and high-dimensional multi/many-objective problems, it is compared with four state-of-art algorithms on 52 benchmark problems and one  engineering application . The experimental results show that TS-SAEA has significant advantages on computationally expensive multi/many-objective optimization problems.",
+    "citation_count": "15",
+    "year": "2022/08/01",
+    "authors": [
+        {
+            "name": "Jinglu Li",
+            "country": ""
+        },
+        {
+            "name": "Peng Wang",
+            "country": ""
+        },
+        {
+            "name": "Huachao Dong",
+            "country": ""
+        },
+        {
+            "name": "Jiangtao Shen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

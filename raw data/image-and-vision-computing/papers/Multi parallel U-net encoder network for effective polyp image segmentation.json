@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001415",
+    "title": "Multi parallel U-net encoder network for effective polyp image segmentation",
+    "abstract": "Automating polyps' detection and segmentation is very helpful in achieving early detection and potentially effective treatment of colon cancer. Because of the constant rise in processing power at a reasonable cost and the availability of  training data ,  deep learning  more than ever is becoming very powerful and increasingly widespread in many domains, including  computer vision  and medical  image processing  and segmentation. In this paper, we propose a novel method for polyp  image segmentation  using  convolutional neural networks  (CNNs) and utilizing multi-parallel U-Net encoder architecture. The proposed method uses multiple encoders that utilize pre-trained CNNs to enrich the extracted features. Skip connections from these parallel encoders are concatenated and propagated to the decoder in partially and fully meshed fashions allowing for data from shallow to deeper layers in the network to be exchanged and vice versa. We trained and tested the method on five publicly available datasets: Kvasir, CVC-Clinic DB, CVC-Colon DB, CVC-T, and ETIS-Larib, which are well-known benchmark datasets for polyp image segmentation. We tested the performance of the method on these five datasets using multiple testing scenarios including the effect of using attention,  vision transformers , and multiple decoders. Experimental results showed that the proposed method outperforms other state-of-the-art methods on two of the used benchmark datasets and ranked second on a third.",
+    "citation_count": "15",
+    "year": "2023/09/01",
+    "authors": [
+        {
+            "name": "Hamdan Al Jowair",
+            "country": ""
+        },
+        {
+            "name": "Mansour Alsulaiman",
+            "country": ""
+        },
+        {
+            "name": "Ghulam Muhammad",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

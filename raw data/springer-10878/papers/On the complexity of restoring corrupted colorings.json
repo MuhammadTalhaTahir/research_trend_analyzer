@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-018-0342-2",
+    "title": "On the complexity of restoring corrupted colorings",
+    "abstract": "In the $$r$$ -Fix problem, we are given a graph G, a (non-proper) vertex-coloring $$c : V(G) \\rightarrow [r]$$ , and a positive integer&nbsp;k. The goal is to decide whether a proper r-coloring $$c'$$ is obtainable from&nbsp;c by recoloring at most k vertices of G. Recently, Junosza-Szaniawski et al. (in: SOFSEM 2015: theory and practice of computer science, Springer, Berlin, 2015) asked whether the problem has a polynomial kernel parameterized by the number of recolorings&nbsp;k. In a full version of the manuscript, the authors together with Garnero and Montealegre, answered the question in the negative: for every $$r \\ge 3$$ , the problem $$r$$ -Fix does not admit a polynomial kernel unless . Independently of their work, we give an alternative proof of the theorem. Furthermore, we study the complexity of $$r$$ -Swap, where the only difference from $$r$$ -Fix is that instead of&nbsp;k recolorings we have a budget of&nbsp;k color swaps. We show that for every $$r \\ge 3$$ , the problem $$r$$ -Swap is -hard whereas $$r$$ -Fix is known to be FPT. Moreover, when&nbsp;r is part of the input, we observe both Fix and Swap are -hard parameterized by the treewidth of the input graph. We also study promise variants of the problems, where we are guaranteed that a proper r-coloring&nbsp; $$c'$$ is indeed obtainable from&nbsp;c by some finite number of swaps. For instance, we prove that for $$r=3$$ , the problems $$r$$ -Fix-Promise and $$r$$ -Swap-Promise are -hard for planar graphs. As a consequence of our reduction, the problems cannot be solved in $$2^{o(\\sqrt{n})}$$ time unless the Exponential Time Hypothesis fails.",
+    "citation_count": 32,
+    "year": "2019/05",
+    "authors": [
+        {
+            "name": "De Biasi, Marzio",
+            "country": "Italy"
+        },
+        {
+            "name": "Lauri, Juho",
+            "country": "Finland"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

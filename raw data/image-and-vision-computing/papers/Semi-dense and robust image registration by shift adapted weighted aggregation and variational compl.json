@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885619301040",
+    "title": "Semi-dense and robust image registration by shift adapted weighted aggregation and variational completion",
+    "abstract": "This work presents a novel approach for both stereo and optical flow that deals with large displacements, depth/motion discontinuities and occlusions. The proposed method comprises two main steps. First, a novel local  stereo matching  algorithm is presented, whose main novelty relies in the block-matching aggregation step. We adopt an adaptive support weights approach in which the weight distribution favors pixels that share the same displacement with the reference one. State-of-the-art methods make the weight function depend only on  image features . On the contrary, the proposed weight function depends additionally on the tested shift, by giving more importance to those pixels in the block-matching with smaller cost, as these are supposed to have the tested displacement. Moreover, the method is embedded into a pyramidal procedure to locally limit the search range, which helps to reduce ambiguities in the  matching process  and saves  computational time . Second, the non-dense local estimation is filtered and interpolated by means of a new  variational formulation  making use of intermediate scale estimates of the local procedure. This permits to keep the fine details estimated at full resolution while being robust to noise and untextured areas using estimates at coarser scales. The introduced variational formulation as well as the block-matching algorithm are robust to illumination changes. We test our algorithm for both stereo and optical flow public datasets showing competitive results.",
+    "citation_count": "9",
+    "year": "2019/09/01",
+    "authors": [
+        {
+            "name": "Julia Navarro",
+            "country": ""
+        },
+        {
+            "name": "Antoni Buades",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

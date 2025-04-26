@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-022-02072-9",
+    "title": "A Novel Natural Language Processing Model in Mobile Communication Networks",
+    "abstract": "To improve the ability of natural language information processing in mobile communication networks, a system based on recurrent neural networks (RNN) is designed. The feedback connection is transformed into a hidden layer pointing to the input layer. According to the physiological process of human speech and the acoustic characteristics of a speech signal, a model is designed using an excitation model, channel model, and radiation model, respectively. The experimental results show that the information processing accuracy of the designed system is high and the processing time is short.",
+    "citation_count": 30,
+    "year": "2022/12",
+    "authors": [
+        {
+            "name": "Ren, Dan",
+            "country": "China"
+        },
+        {
+            "name": "Srivastava, Gautam",
+            "country": "Canada"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S026288560800108X",
+    "title": "An improvement of EMD embedding method for large payloads by pixel segmentation strategy",
+    "abstract": "In this paper, a novel data hiding method by using pixel segmentation strategy is proposed. The proposed paper keeps (16   −   p m ) MSBs of a pixel-pair unchanged and alters  p m  LSBs to indicate the virtual modifications on an  m -dimensional pseudo-random vectors for carrying the  secret data , where  m = 2 p m - 1 - 1 . The  embedding rate  of proposed method is  R   =   (log 2 (2 m   +   1))/2, which is greater than that of the EMD  embedding method  proposed by Zhang and Wang [X. Zhang, S. Wang, Efficient steganographic embedding by exploiting modification direction, IEEE Communication Letters 10 (2006) (113), pp.781–783], because the embedding rate of EMD embedding method is  R   =   (log 2 (2 n   +   1))/ n , when  m   >   2 and  n   ≧   2. The experimental results show that the proposed method increases the number of embedded secret bits more than 1.7 times compared with the EMD embedding method. Even with such high embedding capacity, the average PSNR of 44.3   dB shows that the visual quality does not decline to an unacceptable degree.",
+    "citation_count": "56",
+    "year": "2008/12/01",
+    "authors": [
+        {
+            "name": "Chin-Feng Lee",
+            "country": ""
+        },
+        {
+            "name": "Chin-Chen Chang",
+            "country": ""
+        },
+        {
+            "name": "Kuo-Hua Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,31 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-016-0732-6",
+    "title": "Design and Performance Evaluation of Two Approaches to Obtain Anonymity in Transferable Electronic Ticketing Schemes",
+    "abstract": "Electronic tickets demonstrate, without the use of paper, the possession of the right to access or use of a service. In this scenario, the security and privacy achieved in the paper-based system must be preserved in the electronic ticketing systems. In addition to these requirements, the transferability of a ticket from one user to another (without involving a third party) is very useful but also generates other issues to be solved in terms of security and privacy. For example, the users that transfer the same ticket twice must be identified (it is a fraud), but the rest of users have to preserve their privacy (anonymity). In this article we present two proposals of an electronic ticketing system with anonymity and transferability, based on the use of RSA signatures or group signatures, respectively, thus presenting different levels of complexity and anonymity. Moreover, we have implemented both proposals and its performance has been evaluated. The results of this evaluation are useful in order to prove the viability of the proposals even when complex cryptography is used. The strength of the anonymity and the execution costs are the parameters to take into account to choose the more adequate proposal for a specific application.",
+    "citation_count": 16,
+    "year": "2017/12",
+    "authors": [
+        {
+            "name": "Payeras-Capellà, M. Magdalena",
+            "country": "Spain"
+        },
+        {
+            "name": "Mut-Puigserver, Macià",
+            "country": "Spain"
+        },
+        {
+            "name": "Castellà-Roca, Jordi",
+            "country": "Spain"
+        },
+        {
+            "name": "Bondia-Barceló, Julio",
+            "country": "Spain"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

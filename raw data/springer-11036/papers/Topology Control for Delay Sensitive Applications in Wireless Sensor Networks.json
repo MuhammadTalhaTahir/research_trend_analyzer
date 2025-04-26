@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-008-0049-1",
+    "title": "Topology Control for Delay Sensitive Applications in Wireless Sensor Networks",
+    "abstract": "Wakeup scheduling in wireless sensor networks is known as the most effective way to conserve the limited amount of available energy for each sensor node. Such schedules are applicable to protocols of different network layers and often result in higher latency. Tolerance to latency varies greatly depending on the application so that it is low for a large class of delay sensitive applications. In this paper, we present a unified approach in the design of wakeup schedules in different network layers. A new distributed wakeup schedule is introduced in the context of topology control which aims to conserve more energy while not compromising on the delay performance of the system. The proposed protocol addresses the problem of increasing the network longevity for a given upper bound on the average end-to-end delay. In this scheme neither localization nor synchronization is required and only local information about the network topology is used. In addition to its simplicity of implementation, its energy overhead is negligible and it implicitly determines the routing paths. Our simulation results show that the performance of this protocol is close to the optimal schedule and significantly higher than SPAN, an existing topology control mechanism.",
+    "citation_count": 11,
+    "year": "2007/12",
+    "authors": [
+        {
+            "name": "Ahdi, Farshad",
+            "country": "Singapore"
+        },
+        {
+            "name": "Srinivasan, Vikram",
+            "country": "Singapore"
+        },
+        {
+            "name": "Chua, Kee-Chaing",
+            "country": "Singapore"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

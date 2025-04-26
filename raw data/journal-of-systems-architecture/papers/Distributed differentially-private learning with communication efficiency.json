@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001084",
+    "title": "Distributed differentially-private learning with communication efficiency",
+    "abstract": "In this paper, we propose a new algorithm for learning over distributed data such as in the  IoT  environment, in a privacy-preserving way. Our algorithm is a differentially private variant of distributed synchronous stochastic  gradient descent method  with multiple workers and one parameter server, and has the following two features: (1) each distributed worker only needs to send as small as  O ( 1 )  gradients in each iteration, so that the communication from worker to server is modest; (2) the dataset of each worker is protected quantitatively by differential privacy. We mathematically prove the convergence of our algorithm, and experimentally verify that it converges and reaches standard testing results on a benchmark dataset, while simultaneously maintaining reasonable privacy budgets. Our results address two equally important issues in the  IoT  environment, communication efficiency and differential privacy, and potentially help reducing the  tension  caused by the issues.",
+    "citation_count": "8",
+    "year": "2022/07/01",
+    "authors": [
+        {
+            "name": "Tran Thi Phuong",
+            "country": ""
+        },
+        {
+            "name": "Le Trieu Phong",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

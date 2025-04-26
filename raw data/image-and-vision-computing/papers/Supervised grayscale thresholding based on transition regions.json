@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885608001066",
+    "title": "Supervised grayscale thresholding based on transition regions",
+    "abstract": "A new thresholding framework is proposed which is transition region based, and consists of deriving the transition region with the help of supervision and calculating the threshold from the transition region. Four ways of supervision are studied: picking up an object and a background pixel, from other clustering or segmentation results, based on sample statistics, and exploration of background proportions. The approach has been validated both quantitatively and qualitatively. It is found that the proposed approach: (1) is more robust, consistent and reliable than the conventional transition-region-based thresholding methods; and (2) is easier to implement and has wider applicability than existing supervised thresholding methods. The approach is especially useful for segmenting difficult images with multiple objects and/or serious imaging artifacts.",
+    "citation_count": "11",
+    "year": "2008/12/01",
+    "authors": [
+        {
+            "name": "Qingmao Hu",
+            "country": ""
+        },
+        {
+            "name": "Suhuai Luo",
+            "country": ""
+        },
+        {
+            "name": "Yu Qiao",
+            "country": ""
+        },
+        {
+            "name": "Guoyu Qian",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

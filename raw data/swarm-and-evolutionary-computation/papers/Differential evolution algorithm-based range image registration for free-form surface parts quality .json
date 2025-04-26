@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650216300566",
+    "title": "Differential evolution algorithm-based range image registration for free-form surface parts quality inspection",
+    "abstract": "Increasing demands on precision manufacturing of complex free-form surface parts have been observed in the past several years. Although some advanced techniques have been employed to solve the design and machining problems for such parts, quality inspection remains a difficult problem. Registration is a crucial issue in surface inspection; it is used to transform the design model and measurement model into a common coordinate system. The comparison results are then outputted in a report and displayed visually by color gradients. This paper presents a design model-based inspection method with range image registration, in which the measurement model is represented by a series of 3D discrete points. In the model preprocessing, the directed Hausdorff distance (DHD) method is employed for point cloud simplification, and a novel point descriptor is designed to evaluate the property of each point. Subsequently, a differential evolution (DE) algorithm-based optimizer is proposed for error evaluation. Combined with the properties of 3D points, the optimizer can measure the similarity between the design model and the measurement model with a recursive process. The proposed algorithms have been implemented and tested with several sets of simulated and real data. The experiment results illustrate that they are effective and efficient for free-form surface part quality inspection.",
+    "citation_count": "21",
+    "year": "2017/10/01",
+    "authors": [
+        {
+            "name": "Taifeng Li",
+            "country": ""
+        },
+        {
+            "name": "Quanke Pan",
+            "country": ""
+        },
+        {
+            "name": "Liang Gao",
+            "country": ""
+        },
+        {
+            "name": "Peigen Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

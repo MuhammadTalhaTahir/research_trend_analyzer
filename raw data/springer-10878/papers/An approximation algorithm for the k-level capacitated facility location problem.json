@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-009-9213-1",
+    "title": "An approximation algorithm for the k-level capacitated facility location problem",
+    "abstract": "We consider the k-level capacitated facility location problem (k-CFLP), which is a natural variant of the classical facility location problem and has applications in supply chain management. We obtain the first (combinatorial) approximation algorithm with a performance factor of $k+2+\\sqrt{k^{2}+2k+5}+\\varepsilon$ (ε&gt;0) for this problem.",
+    "citation_count": 17,
+    "year": "2010/11",
+    "authors": [
+        {
+            "name": "Du, Donglei",
+            "country": "Canada"
+        },
+        {
+            "name": "Wang, Xing",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Xu, Dachuan",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762123000280",
+    "title": "DVFS-based energy-aware scheduling of imprecise mixed-criticality real-time tasks",
+    "abstract": "Energy-aware mixed-criticality (MC) real-time scheduling has attracted the attention of many researchers. However, they only focus on the conventional MC task model, in which all low-criticality (LO) tasks are discarded in the high-criticality (HI) mode. In this work, we focus on an imprecise mixed-criticality (IMC) task model that provides degraded service for LO tasks in HI mode. Firstly, we address the energy  minimization problem  of scheduling IMC task sets with  dynamic voltage and frequency scaling  (DVFS). Secondly, we present an energy-aware IMC  scheduling algorithm  (EA-IMC) to solve this problem while it schedules tasks with the energy-efficient speed of the LO mode  S L O , and the maximum processor speed  S m a x  in HI mode. Finally, the experiments are applied to evaluate the EA-IMC algorithm and the experimental results show that it can achieve on average 24.55% energy reduction compared with the existing algorithms.",
+    "citation_count": "15",
+    "year": "2023/04/01",
+    "authors": [
+        {
+            "name": "Yi-Wen Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

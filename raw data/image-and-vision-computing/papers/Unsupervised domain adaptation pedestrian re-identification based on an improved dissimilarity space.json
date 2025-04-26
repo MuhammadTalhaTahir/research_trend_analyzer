@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621002596",
+    "title": "Unsupervised domain adaptation pedestrian re-identification based on an improved dissimilarity space",
+    "abstract": "Pedestrian re-identification is a key and challenging research topic in intelligent security applications. Because of the need for large-scale manual labeling, pedestrian re-identification methods based on supervised learning cannot be widely used in practical applications. Research on unsupervised pedestrian re-identification has therefore become a hot topic. The DMMD model published in ECCV2020 successfully applied the dissimilarity space to unsupervised pedestrian re-identification. Based on the analysis of the deficiencies of DMMD, a new strong baseline model is composed, an improved dissimilarity space is constructed, a new  transfer learning  optimization method is proposed, and a time-space-appearance constraint is proposed. The test results show that the R1 accuracy of our model is improved by 21.4% compared with DMMD in the experiment from Market1501 to DukeMTMC.",
+    "citation_count": "3",
+    "year": "2022/02/01",
+    "authors": [
+        {
+            "name": "Xiaofeng Yang",
+            "country": ""
+        },
+        {
+            "name": "Qianshan Wang",
+            "country": ""
+        },
+        {
+            "name": "Wenkuan Li",
+            "country": ""
+        },
+        {
+            "name": "Zihao Zhou",
+            "country": ""
+        },
+        {
+            "name": "Haifang Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

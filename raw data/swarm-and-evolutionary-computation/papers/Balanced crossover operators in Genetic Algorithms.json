@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650219302974",
+    "title": "Balanced crossover operators in Genetic Algorithms",
+    "abstract": "In several combinatorial  optimization problems  arising in cryptography and design theory, the  admissible solutions  must often satisfy a balancedness constraint, such as being represented by bitstrings with a fixed number of ones. For this reason, several works in the literature tackling these optimization problems with  Genetic Algorithms  (GA) introduced new balanced  crossover operators  which ensure that the offspring has the same balancedness characteristics of the parents. However, the use of such operators has never been thoroughly motivated, except for some generic considerations about  search space  reduction. In this paper, we undertake a rigorous statistical investigation on the effect of balanced and unbalanced crossover operators against three optimization problems from the area of cryptography and coding theory: nonlinear balanced  Boolean functions , binary  Orthogonal Arrays  (OA) and bent functions. In particular, we consider three different balanced crossover operators (each with two variants: “left-to-right” and “shuffled”), two of which have never been published before, and compare their performances with classic one-point crossover. We are able to confirm that the balanced crossover operators perform better than one-point crossover. Furthermore, in two out of three crossovers, the “left-to-right” version performs better than the “shuffled” version.",
+    "citation_count": "45",
+    "year": "2020/05/01",
+    "authors": [
+        {
+            "name": "Luca Manzoni",
+            "country": ""
+        },
+        {
+            "name": "Luca Mariot",
+            "country": ""
+        },
+        {
+            "name": "Eva Tuba",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

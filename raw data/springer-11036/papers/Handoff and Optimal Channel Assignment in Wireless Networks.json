@@ -1,0 +1,19 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1011810104864",
+    "title": "Handoff and Optimal Channel Assignment in Wireless Networks",
+    "abstract": "In this paper, a non-preemptive prioritization scheme for access control in cellular networks is analyzed. Two kinds of users are assumed to compete for the access to the limited number of frequency channels available in each cell: the high priority users represent handoff requests, while the low priority users correspond to initial access requests originated within the same cell. Queueing of handoff requests is also considered. The research for the best access policy is carried out by means of a Markov decision model which allows us to study a very wide class of policies which includes some well known pure stationary policies, as well as randomized ones. The cutoff priority policy, consisting in reserving a certain number of channels to the high priority stream of requests, is proved to be optimal within this class while using an objective function in the form of a linear combination of some quality of service parameters, when no queueing device is considered. Numerical results confirm the optimality of the cutoff priority policy when queueing of handoff requests is allowed.",
+    "citation_count": 15,
+    "year": "2001/11",
+    "authors": [
+        {
+            "name": "Bartolini, Novella",
+            "country": "Italy"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650220303977",
+    "title": "New insights into position optimisation of wave energy converters using hybrid local search",
+    "abstract": "Renewable energy  will play a  pivotal role  in meeting future global energy demand. Of current renewable sources, wave energy offers enormous potential for growth. This research investigates the optimisation of the placement of oscillating buoy-type wave  energy converters  (WECs). This work explores the design of a wave farm consisting of an array of fully submerged three-tether buoys. In a wave farm, buoy positions strongly determine the farm's output. Optimising the buoy positions is a challenging research problem due to complex and extensive interactions (constructive and destructive) between buoys. This research focuses on maximising the  power output  of the farm through the placement of buoys in a size-constrained environment, and we propose a new hybrid approach mixing local search, using a surrogate power model, and  numerical optimisation  methods. The proposed hybrid method is compared with other state-of-the-art search methods in five different wave scenarios – one simplified irregular wave model and four real wave regimes. The new hybrid methods outperform well-known previous  heuristic methods  in terms of both quality of achieved solutions and the convergence-rate of search in all tested wave regimes. The best performing method in real-wave scenarios uses the active set non-linear optimisation method to tune final placements. The effectiveness of this method seems to stem for its capacity to search over a larger area than other compared tuning methods.",
+    "citation_count": "26",
+    "year": "2020/12/01",
+    "authors": [
+        {
+            "name": "Mehdi Neshat",
+            "country": ""
+        },
+        {
+            "name": "Bradley Alexander",
+            "country": ""
+        },
+        {
+            "name": "Nataliia Y. Sergiienko",
+            "country": ""
+        },
+        {
+            "name": "Markus Wagner",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

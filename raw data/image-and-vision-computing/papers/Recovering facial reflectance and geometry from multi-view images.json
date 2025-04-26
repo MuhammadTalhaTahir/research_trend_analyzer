@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885620300299",
+    "title": "Recovering facial reflectance and geometry from multi-view images",
+    "abstract": "While the problem of estimating shapes and  diffuse reflectances  of human faces from images has been extensively studied, there is relatively less work done on recovering the specular  albedo . This paper presents a  lightweight  solution for inferring photorealistic facial reflectance and geometry. Our system processes video streams from two views of a subject, and outputs two  reflectance maps  for diffuse and specular albedos, as well as a vector map of surface normals. A model-based optimization approach is used, consisting of the three stages of multi-view  face model  fitting, facial reflectance inference and facial geometry refinement. Our approach is based on a novel formulation built upon the 3D  morphable model  (3DMM) for representing 3D textured faces in conjunction with the Blinn-Phong reflection model. It has the advantage of requiring only a simple setup with two video streams, and is able to exploit the interaction between the diffuse and  specular reflections  across multiple views as well as time frames. As a result, the method is able to reliably recover high-fidelity facial reflectance and geometry, which facilitates various applications such as generating photorealistic  facial images  under new viewpoints or  illumination conditions .",
+    "citation_count": "5",
+    "year": "2020/04/01",
+    "authors": [
+        {
+            "name": "Guoxian Song",
+            "country": ""
+        },
+        {
+            "name": "Jianmin Zheng",
+            "country": ""
+        },
+        {
+            "name": "Jianfei Cai",
+            "country": ""
+        },
+        {
+            "name": "Tat-Jen Cham",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

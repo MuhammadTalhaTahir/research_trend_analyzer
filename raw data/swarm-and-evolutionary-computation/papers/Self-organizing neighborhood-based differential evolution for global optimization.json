@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650219303669",
+    "title": "Self-organizing neighborhood-based differential evolution for global optimization",
+    "abstract": "Combining neighborhood utilization technique (NUT) has shown a tremendous benefit to differential evolution (DE) due to that the acquired neighborhood information of population is of great help in guiding the search. However, in most NUT-based  DE algorithms , on the one hand, the neighborhood relationships between individuals cannot be effectively and properly learned, and on the other hand, the search roles of different individuals have not yet been fully considered in the design of the NUT. Therefore, this study develops a novel NUT, termed self-organizing neighborhood (SON), with three features: 1) the neighborhood relationships between individuals are incrementally learned and extracted by self-organizing map with the  cosine similarity ; 2) the neighborhood sizes for different individuals are adaptively adjusted according to their distinct roles in the search; 3) the evolution direction constructed with the neighborhood of each individual is incorporated into the mutation process to guide the search. By combining SON with DE, a SON-based DE (SON-DE) framework is proposed for global optimization. Experimental results on 58 real-parameter functions and 17 real-world problems have demonstrated the superiority of SON-DE in comparison with several state-of-the-art DE algorithms and  evolutionary algorithms  (EAs).",
+    "citation_count": "27",
+    "year": "2020/08/01",
+    "authors": [
+        {
+            "name": "Yiqiao Cai",
+            "country": ""
+        },
+        {
+            "name": "Duanwei Wu",
+            "country": ""
+        },
+        {
+            "name": "Ying Zhou",
+            "country": ""
+        },
+        {
+            "name": "Shunkai Fu",
+            "country": ""
+        },
+        {
+            "name": "Hui Tian",
+            "country": ""
+        },
+        {
+            "name": "Yongqian Du",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

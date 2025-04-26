@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762120301958",
+    "title": "A secure and privacy preserving lightweight authentication scheme for smart-grid communication using elliptic curve cryptography",
+    "abstract": "In last few decades, smart-grid architecture has evolved as a new power service provider that can accomplish regulations of  power generation  with significant capabilities to monitor  power consumption  behaviour of the consumers and help in stabilization of the  power system . With the huge progress of the delay sensitive  smart grid network , it has to encounter various challenges. One of them is cyber-threats to the transmitted messages,  control information  of the smart-grid, and privacy-preservation of the consumers over smart-grid environment that leave annihilate consequences in real word. One of the key solutions of these cyber-threats is mutual authentication and setting up safe communication between the consumer and the utility-provider. In this paper, we have addressed novel mutual  authentication scheme  between consumer and  substations  formed on  elliptic curve cryptography  with trifling operations for smart-grid environment that is robust against all possible security threats. This scheme also provides a session key negotiation phase to provide secure communication with significantly less communication and computation overheads. The mathematical security testingand formal security testing using broadly-accepted BAN-logic has established that our scheme is robust against all relevant security threats. Further, the simulation result of the proposed schemethrough well-known  AVISPA  confirms that our scheme is well secure.Finally, to validate the practical ability, the proposed scheme is evaluated using well-accepted  network simulator  tool NS-2, that shows the proposed scheme is efficient to be implemented in realistic scenario.",
+    "citation_count": "73",
+    "year": "2021/03/01",
+    "authors": [
+        {
+            "name": "Dipanwita Sadhukhan",
+            "country": ""
+        },
+        {
+            "name": "Sangram Ray",
+            "country": ""
+        },
+        {
+            "name": "Mohammad S. Obaidat",
+            "country": ""
+        },
+        {
+            "name": "Mou Dasgupta",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

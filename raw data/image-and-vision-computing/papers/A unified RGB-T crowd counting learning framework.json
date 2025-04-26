@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623000057",
+    "title": "A unified RGB-T crowd counting learning framework",
+    "abstract": "In this paper, a novel Unified RGB-T Crowd Counting Learning Framework (UCCF) is proposed, which utilizes an image fusion network architecture and a crowd counting network architecture to estimate the density map and count results simultaneously. Since there are few deep learning methods for the RGB-T crowd counting task, current research lacks unified learning frameworks to solve the image fusion and crowd counting problems synchronously. To fill this gap, our framework aims to fuse two modalities, visible and thermal infrared images, that exploit the complementary information to accurately count the dense population and construct the end-to-end training process. To this end, we first propose the unified RGB-T crowd counting learning framework to complete the image fusion and crowd counting tasks simultaneously by redesigning the unified training loss function. Also, to further narrow the gap between the two models and simplify the end-to-end training process, we design the Assisted Learning Module (ALM) by merging the density map feature into the image fusion encoding process. Meanwhile, we propose an Extensive Context Extraction Module (ECEM) and apply the Multi-domain Attention Block (MAB) to further improve the counting accuracy. The experimental results show that our method outperforms all single-modal input methods (26.9 %  improvements over the best RGB-input approaches and 3 %  improvements over the best thermal infrared input methods for MAE) and is at the forefront of multi-modal input methods, which demonstrates the robustness and effectiveness of our framework.",
+    "citation_count": "11",
+    "year": "2023/03/01",
+    "authors": [
+        {
+            "name": "Siqi Gu",
+            "country": ""
+        },
+        {
+            "name": "Zhichao Lian",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

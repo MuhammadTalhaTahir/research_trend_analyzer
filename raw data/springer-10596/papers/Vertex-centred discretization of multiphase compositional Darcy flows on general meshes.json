@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-012-9299-x",
+    "title": "Vertex-centred discretization of multiphase compositional Darcy flows on general meshes",
+    "abstract": "This paper concerns the discretisation on general 3D meshes of multiphase compositional Darcy flows in heterogeneous anisotropic porous media. Extending Coats’ formulation [15] to an arbitrary number of phases, the model accounts for the coupling of the mass balance of each component with the pore volume conservation and the thermodynamical equilibrium and dynamically manages phase appearance and disappearance. The spatial discretisation of the multiphase compositional Darcy flows is based on a generalisation of the Vertex Approximate Gradient scheme, already introduced for single-phase diffusive problems in [24]. It leads to an unconditionally coercive scheme for arbitrary meshes and permeability tensors. The stencil of this vertex-centred scheme typically comprises 27 points on topologically Cartesian meshes, and the number of unknowns on tetrahedral meshes is considerably reduced, compared with the usual cell-centred approaches. The efficiency of our approach is exhibited on several examples, including the nearwell injection of miscible CO2 in a saline aquifer taking into account the vaporisation of H2O in the gas phase as well as the precipitation of salt.",
+    "citation_count": 37,
+    "year": "2012/09",
+    "authors": [
+        {
+            "name": "Eymard, Robert",
+            "country": "France"
+        },
+        {
+            "name": "Guichard, Cindy",
+            "country": "France"
+        },
+        {
+            "name": "Herbin, Raphaele",
+            "country": "France"
+        },
+        {
+            "name": "Masson, Roland",
+            "country": "France"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

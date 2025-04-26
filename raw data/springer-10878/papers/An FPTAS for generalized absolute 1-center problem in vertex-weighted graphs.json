@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-017-0130-4",
+    "title": "An FPTAS for generalized absolute 1-center problem in vertex-weighted graphs",
+    "abstract": "Given a vertex-weighted undirected connected graph $$G = (V, E, \\ell , \\rho )$$ , where each edge $$e \\in E$$ has a length $$\\ell (e) &gt; 0$$ and each vertex $$v \\in V$$ has a weight $$\\rho (v) &gt; 0$$ , a subset $$T \\subseteq V$$ of vertices and a set S containing all the points on edges in a subset $$E' \\subseteq E$$ of edges, the generalized absolute 1-center problem (GA1CP), an extension of the classic vertex-weighted absolute 1-center problem (A1CP), asks to find a point from S such that the longest weighted shortest path distance in G from it to T is minimized. This paper presents a simple FPTAS for GA1CP by traversing the edges in $$E'$$ using a positive real number as step size. The FPTAS takes $$O( |E| |V| + |V|^2 \\log \\log |V| + \\frac{1}{\\epsilon } |E'| |T| {\\mathcal {R}})$$ time, where $${\\mathcal {R}}$$ is an input parameter size of the problem instance, for any given $$\\epsilon &gt; 0$$ . For instances with a small input parameter size $${\\mathcal {R}}$$ , applying the FPTAS with $$\\epsilon = \\Theta (1)$$ to the classic vertex-weighted A1CP can produce a $$(1 + \\Theta (1))$$ -approximation in at most O(|E| |V|) time when the distance matrix is known and $$O(|E| |V| + |V|^2 \\log \\log |V|)$$ time when the distance matrix is unknown, which are smaller than Kariv and Hakimi’s $$O(|E| |V| \\log |V|)$$ -time algorithm and $$O(|E| |V| \\log |V| + |V|^3)$$ -time algorithm, respectively.",
+    "citation_count": 11,
+    "year": "2017/11",
+    "authors": [
+        {
+            "name": "Ding, Wei",
+            "country": "China"
+        },
+        {
+            "name": "Qiu, Ke",
+            "country": "Canada"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

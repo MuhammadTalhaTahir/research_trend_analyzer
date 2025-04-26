@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762123001443",
+    "title": "Certificateless public auditing scheme with sensitive information hiding for data sharing in cloud storage",
+    "abstract": "In the cloud storage environment, users can store their data on cloud servers to save local storage resources and also share data with other users through cloud servers. Nevertheless, the outsourced data in cloud is vulnerable to tampering or loss due to software or hardware failures, hacker attacks, and other unforeseen issues. Public auditing technique have been developed to safeguard the integrity of the outsourced data. In addition, outsourced data typically contains users’ sensitive information like their names and ages, which are likely to be unavoidably exposed to cloud servers and other users. To tackle the aforementioned issues, a certificateless public auditing scheme with sensitive information hiding (CPAS-SIH) for data sharing is presented in this paper, which introduces a third-party sanitizer to sanitize the data blocks encompassing sensitive information in outsourced data and converts their tags into the valid ones for sanitized data blocks. Meanwhile, an extended double linked list information table is utilized to enable data dynamic operations, including the data blocks modification, insertion, as well as deletion. The security analysis demonstrates that CPAS-SIH satisfies unforgeability, auditing soundness, immutability, and data privacy preservation. The performance evaluation indicates that CPAS-SIH is efficient and practical.",
+    "citation_count": "8",
+    "year": "2023/10/01",
+    "authors": [
+        {
+            "name": "Yang Ming",
+            "country": ""
+        },
+        {
+            "name": "Weixin Zhang",
+            "country": ""
+        },
+        {
+            "name": "Hang Liu",
+            "country": ""
+        },
+        {
+            "name": "Chenhao Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

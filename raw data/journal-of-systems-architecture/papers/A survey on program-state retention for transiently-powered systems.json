@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000242",
+    "title": "A survey on program-state retention for transiently-powered systems",
+    "abstract": "Low-power small-scale embedded sensing systems employing  batteries  generally impose high maintenance costs. To enable maintenance-free operation, they are powered from energy harvested from the environment thus making them batteryless. However, due to high variance of ambient energy, these batteryless embedded devices are unable to harvest enough energy from the environment required for continuous device operation thus hampering application progress and causing frequent loss of volatile program-state. Therefore, these batteryless devices have to employ state retention mechanisms to save the volatile program-state to non-volatile storage before interruption. These batteryless embedded sensing devices are known as  transiently-powered systems  (TPS). In this article, we survey existing literature to identify strategies and techniques used by each existing literature to decide  what  amount of volatile program-state needs to be saved and  when  to save it. We list the challenges in retaining program-state across periods of energy unavailability and how existing state-of-the-art solutions tackle them. We also describe different memory models and discuss factors governing the choice of each model for TPS deployment.",
+    "citation_count": "10",
+    "year": "2021/05/01",
+    "authors": [
+        {
+            "name": "Saad Ahmed",
+            "country": ""
+        },
+        {
+            "name": "Naveed Anwar Bhatti",
+            "country": ""
+        },
+        {
+            "name": "Martina Brachmann",
+            "country": ""
+        },
+        {
+            "name": "Muhammad Hamad Alizai",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

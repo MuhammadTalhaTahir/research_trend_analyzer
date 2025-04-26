@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218302712",
+    "title": "Ensemble prediction-based dynamic robust multi-objective optimization methods",
+    "abstract": "Many real-world multi-objective optimization problems are subject to environmental changes over time, resulting in changing Pareto-optima. Wide studies on solving dynamic multi-objective optimization problems have so far concentrated on tracking moving Pareto-optima as soon as possible. In practice, however, a new solution every time the environmental change may be different from the previous optima, causing the expensive switching-cost. To this end, dynamic robust multi-objective optimization method is developed to find robust Pareto-optima over time whose performance is acceptable for the current and subsequently changed environments. With the purpose of measuring the robustness of a candidate, its fitness values in the subsequent environments are estimated by ensemble prediction methods constructed by moving average(MA), autoregressive(AR), and single exponential smoothing(SES). MA-, SES- and AR-based sub-prediction models are synthesized by the weight sum. The weights can be the pre-set constant or the binary/real number adjusted in terms of the prediction error. To examine the performance of the developed algorithm, the proposed prediction strategies are compared with three single prediction methods for 11 dynamic benchmark functions. The experimental results indicate that ensemble prediction methods have the better robustness than the single prediction models and can effectively tackle dynamic robust multi-objective optimization problems.",
+    "citation_count": "113",
+    "year": "2019/08/01",
+    "authors": [
+        {
+            "name": "Yinan Guo",
+            "country": ""
+        },
+        {
+            "name": "Huan Yang",
+            "country": ""
+        },
+        {
+            "name": "Meirong Chen",
+            "country": ""
+        },
+        {
+            "name": "Jian Cheng",
+            "country": ""
+        },
+        {
+            "name": "Dunwei Gong",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

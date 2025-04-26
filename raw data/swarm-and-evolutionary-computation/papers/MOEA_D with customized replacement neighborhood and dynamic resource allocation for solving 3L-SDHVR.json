@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223002353",
+    "title": "MOEA/D with customized replacement neighborhood and dynamic resource allocation for solving 3L-SDHVRP",
+    "abstract": "Split delivery heterogeneous  vehicle routing problem  with three-dimensional loading (3L-SDHVRP) is a critical issue in manufacturing logistics. Current mainstream research formulates this problem as a  single objective optimization problem , which fails to reveal the relationship among multiple conflicting objectives and cannot provide various trade-off solutions for decision-makers in real-world logistics scenarios. This paper concentrates on a multi-objective 3L-SDHVRP and proposes a multi-objective evolutionary algorithm based on decomposition with customized replacement neighborhood and dynamic  resource allocation  (called MOEA/D-RD) to deal with it. The numerical experiments on the dataset from the 11th International Conference on Evolutionary Multi-Criterion Optimization (EMO 2021) show the superior performance of the proposed method over some state-of-the-art ones. The  source code  of MOEA/D-RD is available at  https://github.com/CIAM-Group/EvolutionaryAlgorithm_Codes/tree/main/MOEAD-RD .",
+    "citation_count": "7",
+    "year": "2024/03/01",
+    "authors": [
+        {
+            "name": "Han Li",
+            "country": ""
+        },
+        {
+            "name": "Genghui Li",
+            "country": ""
+        },
+        {
+            "name": "Qiaoyong Jiang",
+            "country": ""
+        },
+        {
+            "name": "Jiashu Wang",
+            "country": ""
+        },
+        {
+            "name": "Zhenkun Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

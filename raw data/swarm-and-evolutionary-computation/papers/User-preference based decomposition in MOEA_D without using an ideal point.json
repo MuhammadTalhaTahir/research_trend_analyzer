@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217309860",
+    "title": "User-preference based decomposition in MOEA/D without using an ideal point",
+    "abstract": "This paper proposes a novel  decomposition method  based on user-preference and developed a variation of the decomposition based multi-objective  optimization algorithm  (MOEA/D) targeting only solutions in a small region of the Pareto-front defined by the preference information supplied by the  decision maker  (DM). This is particularly advantageous for solving multi-objective  optimization problems  (MOPs) with more than 3 objectives, i.e., many-objective optimization problems (MaOPs). As the number of objectives increases, the ability of an  EMO  algorithm to approximate the entire  Pareto front  ( PF ) is rapidly diminishing. In this paper, we first propose a novel scalarizing function making use of a series of new  reference points  derived from a reference point specified by the DM in the preference model. Based on this scalarizing function, we then develop a user-preference-based EMO algorithm, namely R-MOEA/D. One key merit of R-MOEA/D is that it does not rely on an estimation of the ideal point, which may impact significantly the performances of state-of-the-art decomposition based EMO algorithms. Our experimental results on multi-objective and many-objective benchmark problems have shown that R-MOEA/D provides a more direct and efficient search towards the preferred  PF  region, resulting in competitive performances. In an interactive setting when the DM changes the reference point during optimization, R-MOEA/D has a faster response speed and performance than the compared algorithms, showing its robustness and adaptability to changes of the preference model. Furthermore, the effectiveness of R-MOEA/D is verified on a real-world problem of reservoir flood control operations.",
+    "citation_count": "41",
+    "year": "2019/02/01",
+    "authors": [
+        {
+            "name": "Yutao Qi",
+            "country": ""
+        },
+        {
+            "name": "Xiaodong Li",
+            "country": ""
+        },
+        {
+            "name": "Jusheng Yu",
+            "country": ""
+        },
+        {
+            "name": "Qiguang Miao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

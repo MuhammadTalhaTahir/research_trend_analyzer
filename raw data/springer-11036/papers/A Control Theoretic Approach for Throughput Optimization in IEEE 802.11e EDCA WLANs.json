@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-008-0121-x",
+    "title": "A Control Theoretic Approach for Throughput Optimization in IEEE 802.11e EDCA WLANs",
+    "abstract": "The MAC layer of the 802.11 standard, based on the CSMA/CA mechanism, specifies a set of parameters to control the aggressiveness of stations when trying to access the channel. However, these parameters are statically set independently of the conditions of the WLAN (e.g. the number of contending stations), leading to poor performance for most scenarios. To overcome this limitation previous work proposes to adapt the value of one of those parameters, namely the CW, based on an estimation of the conditions of the WLAN. However, these approaches suffer from two major drawbacks: i) they require extending the capabilities of standard devices or ii) are based on heuristics. In this paper we propose a control theoretic approach to adapt the CW to the conditions of the WLAN, based on an analytical model of its operation, that is fully compliant with the 802.11e standard. We use a Proportional Integrator controller in order to drive the WLAN to its optimal point of operation and perform a theoretic analysis to determine its configuration. We show by means of an exhaustive performance evaluation that our algorithm maximizes the total throughput of the WLAN and substantially outperforms previous standard-compliant proposals.",
+    "citation_count": 24,
+    "year": "2009/12",
+    "authors": [
+        {
+            "name": "Patras, Paul",
+            "country": "Spain"
+        },
+        {
+            "name": "Banchs, Albert",
+            "country": "Spain"
+        },
+        {
+            "name": "Serrano, Pablo",
+            "country": "Spain"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

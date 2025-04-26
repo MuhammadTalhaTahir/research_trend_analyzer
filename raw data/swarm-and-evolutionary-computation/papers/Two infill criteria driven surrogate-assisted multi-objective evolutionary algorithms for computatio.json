@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650220304272",
+    "title": "Two infill criteria driven surrogate-assisted multi-objective evolutionary algorithms for computationally expensive problems with medium dimensions",
+    "abstract": "This paper proposed a surrogate-assisted dominance-based multi-objective evolutionary algorithm to solve multi-objective computationally expensive problems with medium dimensions. Two infill criteria are collaboratively used to select promising individuals for exact evaluations. The convergence-based criterion is used to promote the exploitation of current promising areas. This criterion also considers the dispersion of selected solutions to exploit current non-dominant front. The diversity-based criterion is used to enhance the exploration of the population and enhance the accuracy of surrogate models. The feedback information from the convergence-based criterion is used to adjust the frequency of using the diversity-based criterion in order to reduce the consumed function evaluations. Benchmark functions with dimensions varying from 8 to 30 and a reactive power optimization problem are used to test the proposed algorithm. The experimental results demonstrate that the proposed algorithm significantly outperforms some state-of-the-art evolutionary algorithms on most problems.",
+    "citation_count": "39",
+    "year": "2021/02/01",
+    "authors": [
+        {
+            "name": "Fan Li",
+            "country": ""
+        },
+        {
+            "name": "Liang Gao",
+            "country": ""
+        },
+        {
+            "name": "Akhil Garg",
+            "country": ""
+        },
+        {
+            "name": "Weiming Shen",
+            "country": ""
+        },
+        {
+            "name": "Shifeng Huang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

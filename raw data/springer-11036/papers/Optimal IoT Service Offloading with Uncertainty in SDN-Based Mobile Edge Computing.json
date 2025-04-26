@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-021-01796-4",
+    "title": "Optimal IoT Service Offloading with Uncertainty in SDN-Based Mobile Edge Computing",
+    "abstract": "To solve the problem of limited computing ability in mobile devices, edge computing is adopted as a feasible solution which provides services for IoT devices in different geographical locations. However, due to the service uncertainties, including the network congestion and the performance degradation of edge nodes, novel offloading strategies must be developed to accommodate the uncertain situations. In view of this challenge, software-defined network (SDN) is integrated with edge computing to make service offloading more flexible. Technically, an optimal IoT service offloading (OSO) method with uncertainty is proposed. In OSO, the completion time and load balance variance are two optimization goals for developing offloading strategies, and then the non-dominated sorting genetic algorithm-II (NSGA-II) is fully investigated to improve the performance in completion time and load balance variance. Moreover, the optimal strategy is selected by using Simple Additive Weighting (SAW) and Multiple Criteria Decision Making (MCDW). Finally, the experimental evaluation is conducted by comparing OSO with other methods to verify the superiority of it.",
+    "citation_count": 32,
+    "year": "2022/12",
+    "authors": [
+        {
+            "name": "Hao, Huizhen",
+            "country": "China"
+        },
+        {
+            "name": "Zhang, Jie",
+            "country": "China"
+        },
+        {
+            "name": "Gu, Qing",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

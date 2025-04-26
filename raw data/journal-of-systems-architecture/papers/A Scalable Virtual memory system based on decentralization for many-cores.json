@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762120300965",
+    "title": "A Scalable Virtual memory system based on decentralization for many-cores",
+    "abstract": "Traditional centralized  virtual memory system  design encounters severe scalability problems, which impede the multithreaded applications’ performance increment on many-core systems. In this paper, we propose a decentralized system model to scale the VM systems for many-cores. Our model improves system  parallelism  by avoiding resource sharing and minimizing state coordination. By applying the model, we build a novel scalable virtual memory system called  MedusaVM+ .  MedusaVM+  presents a decentralized  system architecture , which avoids resource conflicts or cache line contention among processors or threads. Furthermore,  MedusaVM+  provides a scalable address space by incorporating decentralized VM space management and a hybrid page table design.  Critical system  services and internal system operations, such as  TLB  coherence, are also fully optimized to maximize the system parallelism. Our prototype system is implemented based on the Linux kernel 4.4.0 and glibc 2.23. Experimental results evaluated on a 72-core machine demonstrate that  MedusaVM+  scales much better than the state-of-the-art systems and decreases the memory consumption by up to 27 ×  compared with current approaches. For  microbenchmark  experiments,  MedusaVM+  achieves nearly linear performance speedup. When evaluated with multithreaded applications,  MedusaVM+  also outperforms other systems by up to a factor of 4.5 × .",
+    "citation_count": "4",
+    "year": "2020/08/01",
+    "authors": [
+        {
+            "name": "Miao Cai",
+            "country": ""
+        },
+        {
+            "name": "Diming Zhang",
+            "country": ""
+        },
+        {
+            "name": "Hao Huang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

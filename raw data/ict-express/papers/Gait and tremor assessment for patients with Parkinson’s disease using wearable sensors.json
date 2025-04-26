@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959516301382",
+    "title": "Gait and tremor assessment for patients with Parkinson’s disease using wearable sensors",
+    "abstract": "Typically, subjects with Parkinson’s disease (PD) display instances of tremor at an early stage of the disease and later on develop gait impairments and postural instability. In this research, we have investigated the effect of using both gait and tremor features for an early detection and monitoring of PD. Various features were extracted from the data collected from the wearable sensors and further analyzed using statistical analysis and machine learning techniques to find the most significant features that would best distinguish between the two groups: subjects with PD and healthy control subjects. The analysis of our results shows that the features of step distance, stance and swing phases, heel and normalized heel forces contributed more significantly to achieving a better classification between the two groups in comparison with other features. Moreover, the tremor analysis based on the frequency-domain characteristics of the signal including amplitude, power distribution, frequency dispersion, and median frequency was carried out to identify PD tremor from atypical Parkinsonism tremor.",
+    "citation_count": "0",
+    "year": "2016/12/01",
+    "authors": [
+        {
+            "name": "Shyam V. Perumal",
+            "country": ""
+        },
+        {
+            "name": "Ravi Sankar",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

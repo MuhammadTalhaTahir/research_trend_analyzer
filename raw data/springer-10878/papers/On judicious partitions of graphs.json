@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-015-9828-3",
+    "title": "On judicious partitions of graphs",
+    "abstract": "Let $$k, m$$ be positive integers, let $$G$$ be a graph with $$m$$ edges, and let $$h(m)=\\sqrt{2m+\\frac{1}{4}}-\\frac{1}{2}$$ . Bollobás and Scott asked whether $$G$$ admits a $$k$$ -partition $$V_{1}, V_{2}, \\ldots , V_{k}$$ such that $$\\max _{1\\le i\\le k} \\{e(V_{i})\\}\\le \\frac{m}{k^2}+\\frac{k-1}{2k^2}h(m)$$ and $$e(V_1, \\ldots , V_k)\\ge {k-1\\over k} m +{k-1\\over 2k}h(m) -\\frac{(k-2)^{2}}{8k}$$ . In this paper, we present a positive answer to this problem on the graphs with large number of edges and small number of vertices with degrees being multiples of $$k$$ . Particularly, if $$d$$ is not a multiple of $$k$$ and $$G$$ is $$d$$ -regular with $$m\\ge {9\\over 128}k^4(k-2)^2$$ , then $$G$$ admits a $$k$$ -partition as desired. We also improve an earlier result by showing that $$G$$ admits a partition $$V_{1}, V_{2}, \\ldots , V_{k}$$ such that $$e(V_{1},V_{2},\\ldots ,V_{k})\\ge \\frac{k-1}{k}m+\\frac{k-1}{2k}h(m)-\\frac{(k-2)^{2}}{2(k-1)}$$ and $$\\max _{1\\le i\\le k}\\{e(V_{i})\\}\\le \\frac{m}{k^{2}}+\\frac{k-1}{2k^{2}}h(m)$$ .",
+    "citation_count": 14,
+    "year": "2016/05",
+    "authors": [
+        {
+            "name": "Liu, Muhuo",
+            "country": "China"
+        },
+        {
+            "name": "Xu, Baogang",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885622000749",
+    "title": "Facial expression recognition system based on variational mode decomposition and whale optimized KELM",
+    "abstract": "In this paper, a methodology for the  Facial Expression Recognition  (FER) system is proposed using the  Variational Mode Decomposition  (VMD) and Whale Optimization (WO) with Kernel  Extreme Learning Machine  (KELM) classifier. A non-stationary, adaptive, and variational signal analysis technique called VMD is adopted in this work, which depends on the signal's  frequency information  content. The VMD decomposed the input image into four modes, and the 4 th  mode of the VMD decomposition is considered for feature representation, a high-frequency band. This VMD mode preserves the edge and shape features from the face image efficiently. The high dimensional features are reduced using the  Principal Component  Analysis +  Linear Discriminant Analysis  (PCA + LDA) method, which minimizes the feature dimension and retains the high variance among emotion classes. A hybrid classifier with better scalability and faster learning speed than SVM and  Least Squares  SVM (LS-SVM), namely WO-KELM, is proposed to discriminate facial expressions accurately. The  WO algorithm  is employed for optimal parameter tuning of the KELM with the  RBF kernel . The performance of the proposed framework are compared with state-of-the-art methods. Extensive experiments are assessed on the two benchmark datasets, namely Japanese Female Facial Expression (JAFFE) and the Extended Cohn-Kanade (CK   +). Experimental results founded on 5-fold Stratified Cross-Validation (SCV) test reveal the superiority of the proposed method over state-of-the-art systems.",
+    "citation_count": "5",
+    "year": "2022/07/01",
+    "authors": [
+        {
+            "name": "Nikunja Bihari Kar",
+            "country": ""
+        },
+        {
+            "name": "Korra Sathya Babu",
+            "country": ""
+        },
+        {
+            "name": "Sambit Bakshi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885615000128",
+    "title": "Incorporating higher order models for occlusion resilient motion segmentation in streaming videos",
+    "abstract": "Video segmentation is a fundamental problem in  computer vision  and aims to extract meaningful entities from a video. One of the most useful cues in this quest is motion as is described by the trajectories of tracked points. In this paper we present a  motion segmentation  method attempting to address some of the major issues in the area. Namely, we propose an efficient framework where more complex motion models can be seamlessly integrated both maintaining computational tractability and not penalizing non  translational motion . Moreover, we expose in depth the problem of object leakage due to occlusion and highlight that  motion segmentation  could be treated as a  graph coloring problem . Our algorithm uses an approach based on graph theory and resolves occlusion cases in a robust manner. To endow our method with scalability, we follow the previously presented  subsequence  architecture and test it in a streaming setup. Extensive experiments demonstrate the flexibility and robustness of the method. The segmentation results are competitive compared to the state of the art.",
+    "citation_count": "8",
+    "year": "2015/04/01",
+    "authors": [
+        {
+            "name": "Nikolaos Dimitriou",
+            "country": ""
+        },
+        {
+            "name": "Anastasios Delopoulos",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S221065021730072X",
+    "title": "A multi-objective optimization method for service composition problem with sharing property",
+    "abstract": "For service level agreement aware service  composition problem , the resource sharing property is integrated into it to further decrease the cost and make more applications can be successfully deployed. Based on the characteristic of this problem, a multi-objective service sharing optimization model is built, in which the attributes of throughput, latency and cost are simultaneous considered. To make more feasible service composition candidates be included, a  particle swarm optimization  based multi-objective algorithm is proposed to solve it. A new particle position form is defined to reflect the sharing relationship of concrete services among different service levels composite services, and a particle  deployment strategy  is designed to map a particle position to a resource sharing scheme composition. The proposed algorithm is compared with some recently proposed related algorithms on different scale cases. The results show that more  feasible solutions  with lower cost can be found when the resource sharing property is considered.",
+    "citation_count": "9",
+    "year": "2019/09/01",
+    "authors": [
+        {
+            "name": "Changsheng Zhang",
+            "country": ""
+        },
+        {
+            "name": "Jiaxu Ning",
+            "country": ""
+        },
+        {
+            "name": "Jiaxuan Wu",
+            "country": ""
+        },
+        {
+            "name": "Bin Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

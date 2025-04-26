@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885616301494",
+    "title": "Pain intensity estimation by a self-taught selection of histograms of topographical features",
+    "abstract": "Pain assessment through observational pain scales is necessary for special categories of patients such as neonates, patients with dementia, and critically ill patients. The recently introduced Prkachin–Solomon score allows pain assessment directly from  facial images  opening the path for multiple assistive applications. In this paper, we proposed a system built upon the Histograms of Topographical (HoT) features, which are a generalization of the topographical primal sketch, for the description of the face parts contributing to the mentioned score. We further propose a semi-supervised, clustering oriented self-taught learning procedure developed on the Cohn–Kanade emotion oriented database by adapting the spectral regression. To make use of inter-frame pain correlation we introduce a  machine learning  based  temporal filtering . We use this procedure to improve the discrimination between different pain intensity levels and the generalization with respect to the monitored persons, while testing on the UNBC McMaster Shoulder Pain database.",
+    "citation_count": "12",
+    "year": "2016/12/01",
+    "authors": [
+        {
+            "name": "Corneliu Florea",
+            "country": ""
+        },
+        {
+            "name": "Laura Florea",
+            "country": ""
+        },
+        {
+            "name": "Raluca Butnaru",
+            "country": ""
+        },
+        {
+            "name": "Alessandra Bandrabur",
+            "country": ""
+        },
+        {
+            "name": "Constantin Vertan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

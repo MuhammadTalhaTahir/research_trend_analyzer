@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762116000151",
+    "title": "A safe-by-design programming language for wireless sensor networks",
+    "abstract": "Wireless sensor networks  are notoriously difficult to program and debug. This fact not only stems from the nature of the hardware, but also from the current approaches for developing programming languages and  runtime systems  for these platforms. In particular, current systems do not place enough stress on providing formal descriptions of the language and its runtime system, and on proving static properties, like type-safety and soundness. In this paper, we present the design, specification, and implementation of a programming language and a runtime system for wireless sensor networks that are safe by design. We say this in the sense that we can statically detect a large set of would-be runtime errors, and that the runtime system will not incorrectly execute an application, once the latter is deployed. We have a full prototype implementation of the system that supports SunSPOT devices, the simulation tool VisualSense, and local computer networks for fast deployment and testing of applications. Development is supported by an IDE implemented on top of the Eclipse tool that embeds both the compiler and the virtual machine seamlessly, and is used to produce software releases.",
+    "citation_count": "11",
+    "year": "2016/02/01",
+    "authors": [
+        {
+            "name": "Luís Lopes",
+            "country": ""
+        },
+        {
+            "name": "Francisco Martins",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

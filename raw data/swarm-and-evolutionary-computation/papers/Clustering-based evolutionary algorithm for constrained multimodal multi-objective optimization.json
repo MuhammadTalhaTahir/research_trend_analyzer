@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224002529",
+    "title": "Clustering-based evolutionary algorithm for constrained multimodal multi-objective optimization",
+    "abstract": "Handling constrained multimodal multi-objective optimization problems (CMMOPs) is a tremendous challenge as it involves the discovery of multiple equivalent constrained Pareto sets (CPSs) with the identical constrained Pareto front (CPF). However, the existing constrained multi-objective evolutionary algorithms are rarely suitable for solving CMMOPs due to the fact that they focus solely on locating CPF and do not intend to search for multiple equivalent CPSs. To address this issue, this paper proposes a framework of clustering-based constrained multimodal multi-objective evolutionary algorithm, termed FCCMMEA. In the proposed FCCMMEA, we adopt a clustering method to separate the population into multiple subpopulations for locating diverse CPSs and maintaining population diversity. Subsequently, each subpopulation evolves independently to produce offspring by an evolutionary algorithm. To balance the convergence and feasibility, we develop a quality evaluation metric in the classification strategy that considers the local convergence quality and constraint violation values, and it divides the populations into superior and inferior populations according to the quality evaluation of individuals. Furthermore, we also employ a diversity maintenance methodology in environmental selection to maintain the diverse population. The proposed FCCMMEA algorithm is compared with seven state-of-the-art competing algorithms on a standard CMMOP test suite, and the experimental results validate that the proposed FCCMMEA enables to find multiple CPSs and is suitable for handling CMMOPs. Also, the proposed FCCMMEA won the first place in the 2023 IEEE Congress on Evolutionary Computation competition on CMMOPs.",
+    "citation_count": "2",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Guoqing Li",
+            "country": ""
+        },
+        {
+            "name": "Weiwei Zhang",
+            "country": ""
+        },
+        {
+            "name": "Caitong Yue",
+            "country": ""
+        },
+        {
+            "name": "Gary G. Yen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

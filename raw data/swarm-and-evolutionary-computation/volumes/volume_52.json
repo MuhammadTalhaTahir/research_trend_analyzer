@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Editorial Board",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650219310582"
+    },
+    {
+        "title": "On the efficient computation and use of multi-objective descent directions within constrained MOEAs",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650219302470"
+    },
+    {
+        "title": "A discrete-time switched linear model of the particle swarm optimization algorithm",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650219300951"
+    },
+    {
+        "title": "Preference-based cone contraction algorithms for interactive evolutionary multiple objective optimization",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650218308782"
+    },
+    {
+        "title": "A novel design of differential evolution for solving discrete traveling salesman problems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650219304468"
+    },
+    {
+        "title": "Multimodal Memetic Framework for low-resolution protein structure prediction",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650218301081"
+    },
+    {
+        "title": "An optimized model based on convolutional neural networks and orthogonal learning particle swarm optimization algorithm for plant diseases diagnosis",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650219305462"
+    },
+    {
+        "title": "Dimensionality reduction in evolutionary algorithms-based feature selection for motor imagery brain-computer interface",
+        "url": "https://www.sciencedirect.com/science/article/pii/S221065021930286X"
+    },
+    {
+        "title": "A benchmark for equality constrained multi-objective optimization",
+        "url": "https://www.sciencedirect.com/science/article/pii/S221065021930149X"
+    },
+    {
+        "title": "Efficient multi-objective algorithm for the lot-streaming hybrid flowshop with variable sub-lots",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650219300392"
+    },
+    {
+        "title": "Handling bound constraints in CMA-ES: An experimental study",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650219301622"
+    },
+    {
+        "title": "Unsupervised feature selection based on bio-inspired approaches",
+        "url": "https://www.sciencedirect.com/science/article/pii/S221065021830347X"
+    },
+    {
+        "title": "Improved differential evolution for noisy optimization",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650218308265"
+    },
+    {
+        "title": "A multi-objective adaptive evolutionary algorithm to extract communities in networks",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650219304171"
+    }
+]

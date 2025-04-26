@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-024-01325-5",
+    "title": "Variational inference based adversarial domain adaptation",
+    "abstract": "Deep learning methods demand enormous amounts of labeled data. Although collecting labeled data is a challenge but it can be accomplished with difficulty. Nevertheless, domain shift or bias may occur due to some conditions. Recollecting data under similar conditions is too expensive or impossible. Domain adaptation is an effective technique to deal with this problem. Among domain adaptation methods, adversarial learning models handled domain shifts well. Adversarial learning’s biggest issue is matching the features to the appropriate classes. In other words, domain adaptation may lead to negative transfer. Utilizing adversarial learning and Variational Auto-Encoder (VAE) cluster-forming capabilities, we propose a method that overcomes these limitations. Our structure attempts to generate a smooth latent representation based on both the target and the source data using a variational auto-encoder. Then the affected data are fed into an adversarial learning component. The component includes an encoder and a discriminator. The discriminator aims to identify the source and target encoders’ features. The target encoder uses inverted domain labels to mislead the discriminator. To emphasize the desired effect of VAE on domain adaptation, we test the model performance without adversarial training. In comparison to the most prevalent adversarial domain adaptation benchmarks, our method yields approving and comparable results.",
+    "citation_count": 51,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "Zonoozi, Mahta Hassan Pour",
+            "country": "Iran"
+        },
+        {
+            "name": "Seydi, Vahid",
+            "country": "Iran"
+        },
+        {
+            "name": "Deypir, Mahmood",
+            "country": "UK"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

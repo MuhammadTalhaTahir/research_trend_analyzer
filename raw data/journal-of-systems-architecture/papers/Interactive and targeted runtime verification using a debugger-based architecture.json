@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000187",
+    "title": "Interactive and targeted runtime verification using a debugger-based architecture",
+    "abstract": "Runtime verification  of software (RV) often relies on two categories of tools : dynamic heavy-weight tools, which significantly impact performance, and lighter and more efficient but static tools, which require recompiling the binary. In this paper we propose a new framework for building efficient and targeted dynamic  RV tools , bridging the gap between those two categories. This framework is separated into two domains : source and binary. On the source level, a modular development environment provides a custom user interface which allows for precise targeting of instrumentation, as well as advanced interactivity. The binary level revolves around a  debugger , which controls binary manipulation and library loading. In order to create fully dynamic tools, we added new instrumentation capabilities to the GNU debugger, using trampoline-based probes to inject code in the binary efficiently and interactively. Our framework focuses on accessibility for users via the  graphical interface , and for developers by making it easy to adapt existing tools and by relying on popular programming languages such as Python and C++. As a demonstration of our framework capabilities, we provide a significantly faster implementation of conditional  breakpoints  for GDB, as well as targeted and fully dynamic versions of two state-of-the-art runtime verification tools : Address Sanitizer and Data Watch.",
+    "citation_count": "0",
+    "year": "2021/05/01",
+    "authors": [
+        {
+            "name": "Paul Naert",
+            "country": ""
+        },
+        {
+            "name": "Seyed Vahid Azhari",
+            "country": ""
+        },
+        {
+            "name": "Michel Dagenais",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

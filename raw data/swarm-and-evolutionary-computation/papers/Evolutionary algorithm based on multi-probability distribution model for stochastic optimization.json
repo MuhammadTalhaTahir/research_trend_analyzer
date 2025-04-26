@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224003778",
+    "title": "Evolutionary algorithm based on multi-probability distribution model for stochastic optimization",
+    "abstract": "Stochastic optimization, which aims at optimizing the expected value of a stochastic objective function, is challenging and commonly-seen in engineering applications. One crucial challenge of stochastic optimization problems (SOPs) is that the objective function value is impossible to calculate accurately due to the existence of uncertainty. As probability distribution is a common mathematical tool for handling uncertainty, this paper intends to explore the use of probability-distribution-based evolutionary algorithms (EAs) for solving complicated SOPs. First, an in-depth analysis of how to sample and construct probability distributions for probability-distribution-based EAs in SOPs is performed through both empirical and theoretical studies. Based on the analysis, it can be concluded that the implicit averaging method is helpful for probability-distribution-based EAs to solve SOPs. Second, evolutionary algorithm based on multiple probability distribution models (EA-mPD) framework is proposed. Instead of using a single probability distribution, the whole population is divided into several clusters by clustering, and several local probability models are built for different clusters. Finally, probability-distribution-based EAs such as estimation of distribution algorithm (EDA) and ant colony optimization (ACO) are introduced in the proposed EA-mPD to solve SOPs. Experimental results show that the proposed EA-mPD method is promising in terms of both accuracy and efficiency.",
+    "citation_count": "0",
+    "year": "2025/04/01",
+    "authors": [
+        {
+            "name": "Hao Cong",
+            "country": ""
+        },
+        {
+            "name": "Xiao-Min Hu",
+            "country": ""
+        },
+        {
+            "name": "Wei-Neng Chen",
+            "country": ""
+        },
+        {
+            "name": "Wen Shi",
+            "country": ""
+        },
+        {
+            "name": "Jun Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

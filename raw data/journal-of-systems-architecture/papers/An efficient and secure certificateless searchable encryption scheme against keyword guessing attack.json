@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121001879",
+    "title": "An efficient and secure certificateless searchable encryption scheme against keyword guessing attacks",
+    "abstract": "As the wave of data breaches continues crashing down on companies, specially for companies that provide  cloud storage services , the  data security  and privacy have become the main concern of most clients that use this kind of services. Certificateless  public key encryption  with  keyword search  (CLPEKS) is a novel  cryptographic primitives  that if implemented correctly, provides the possibility to search over an  encrypted data  that has been outsourced to the cloud server, while guaranteeing the privacy of the search-keyword used in the process. Several CLPEKS schemes have been presented in the literature, but many of them are found vulnerable to offline/online keyword guessing attacks either performed by inside attackers, outside attackers or by both. To overcome these security weaknesses, we propose an efficient and secure certificateless  searchable encryption scheme  that is proven to be resistant against different keyword guessing attacks under both, the hardness of solving the  discrete logarithm  (DL) and the computational Diffie-Hellman (CDH) problems in the  random oracle model . Then, by conducting a comprehensive comparison between our proposed scheme and other related schemes, we found that the proposed scheme has better overall performance in terms of communication and computation complexities, while guaranteeing security against online and offline KGA performed by either outside attackers or inside attacker.",
+    "citation_count": "32",
+    "year": "2021/10/01",
+    "authors": [
+        {
+            "name": "Mohammed Raouf Senouci",
+            "country": ""
+        },
+        {
+            "name": "Ilyas Benkhaddra",
+            "country": ""
+        },
+        {
+            "name": "Abdelkader Senouci",
+            "country": ""
+        },
+        {
+            "name": "Fagen Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

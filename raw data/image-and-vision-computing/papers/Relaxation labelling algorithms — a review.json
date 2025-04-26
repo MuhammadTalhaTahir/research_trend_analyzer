@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/0262885685900095",
+    "title": "Relaxation labelling algorithms — a review",
+    "abstract": "An important research topic in image processing and image interpretation methodology is the development of methods to incorporate contextual information into the interpretation of objects. Over the last decade, relaxation labelling has been a useful and much studied approach to this problem. It is an attractive technique because it is highly parallel, involving the propagation of local information via iterative processing. The paper. surveys the literature pertaining to relaxation labelling and highlights the important theoretical advances and the interesting applications for which it has proven useful.",
+    "citation_count": "133",
+    "year": "1985/11/01",
+    "authors": [
+        {
+            "name": "J Kittler",
+            "country": ""
+        },
+        {
+            "name": "J Illingworth",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

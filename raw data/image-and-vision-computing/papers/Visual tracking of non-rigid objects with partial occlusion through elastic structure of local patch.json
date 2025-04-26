@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885615000487",
+    "title": "Visual tracking of non-rigid objects with partial occlusion through elastic structure of local patches and hierarchical diffusion",
+    "abstract": "In this paper, a tracking method based on sequential Bayesian inference is proposed. The proposed method focuses on solving both the problem of tracking under  partial occlusions  and the problem of non-rigid object tracking in real-time on a desktop  personal computer  (PC). The proposed method is mainly composed of two parts: (1) modeling the target object using  elastic structure  of local patches for robust performance; and (2) efficient hierarchical diffusion method to perform the tracking procedure in real-time. The elastic structure of local patches allows the proposed method to handle partial occlusions and non-rigid deformations through the relationship among neighboring patches. The proposed hierarchical diffusion method  generates samples  from the region where the posterior is concentrated to reduce  computation time . The method is extensively tested on a number of challenging image sequences with occlusion and non-rigid deformation. The experimental results show the real-time capability and the robustness of the proposed method under various situations.",
+    "citation_count": "3",
+    "year": "2015/07/01",
+    "authors": [
+        {
+            "name": "Kwang Moo Yi",
+            "country": ""
+        },
+        {
+            "name": "Hawook Jeong",
+            "country": ""
+        },
+        {
+            "name": "Soo Wan Kim",
+            "country": ""
+        },
+        {
+            "name": "Shimin Yin",
+            "country": ""
+        },
+        {
+            "name": "Songhwai Oh",
+            "country": ""
+        },
+        {
+            "name": "Jin Young Choi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

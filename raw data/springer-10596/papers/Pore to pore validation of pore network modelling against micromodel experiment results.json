@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-017-9630-7",
+    "title": "Pore to pore validation of pore network modelling against micromodel experiment results",
+    "abstract": "Pore network modelling (PNM) has been widely used to study the multiphase flow and transport in porous media. Although a number of recent papers discussed the PNM validation on core-scale parameters such as permeability, relative permeability and capillary pressure; quantitative predictive potential of PNM on pore by pore basis has rarely been studied. The aim of this paper is to present a direct comparison between PNM simulations and corresponding micro-model experiments at the same scale and the same geometry. A number of well-defined and constrained two-phase flow in porous medium experimental scenarios were utilized to validate the physics solving part in PNM (filling rules, capillary and viscous pressure). This work validates that a dynamic pore network flow solver can predict two-phase flow displacements for these experiments for drainage situations at both pore and plug scales. A glass-etched micro-model is used to quantify the accuracy of a dynamic PNM solver on pore and core levels. Two-phase drainage micro fluidic experiments at different flow conditions are performed on micro-models. PNM simulations are performed on the same pattern and flow conditions as used in micro-model experiments. The two-phase distribution extracted from experiment images is registered onto rsults of PNM simulations for direct pore to pore comparison. Pore-scale matching level is found at around 75 % for all three test cases. The matching level of core-scale parameters such as S w c and oil-phase permeability varies from case to case; the relative error to micro-model experiment measurements varies from 15 to 60 %. Possible reasons leading to discrepancies on core-scale parameters are discussed: missing considerations during validation of the combination of uncertainty in both simulator input parameters and experiments are seen as the principal factors.",
+    "citation_count": 41,
+    "year": "2017/12",
+    "authors": [
+        {
+            "name": "Yang, Jianhui",
+            "country": "UK"
+        },
+        {
+            "name": "Bondino, Igor",
+            "country": "France"
+        },
+        {
+            "name": "Regaieg, Mohamed",
+            "country": "UK"
+        },
+        {
+            "name": "Moncorgé, Arthur",
+            "country": "UK"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

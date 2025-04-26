@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650225000689",
+    "title": "A cooperative discrete artificial bee colony algorithm with Q-learning for solving the distributed permutation flowshop group scheduling problem with preventive maintenance",
+    "abstract": "With the rapid development of manufacturing technology, the multi-factory production considering group-based job processing and machine maintenance is being given increased focus, due to its potential for enhancing cost efficiency and productivity. Group constraints and machine maintenance play a critical role in modern manufacturing by reducing machine downtime, balancing production loads, and extending equipment lifespan. This paper studies the distributed permutation flowshop group scheduling problem with preventive maintenance (DPFGSP/PM) by proposing a cooperative discrete artificial bee colony (CDABC) algorithm, which is based on cooperative strategy, with the objective of minimizing the total flow time (TFT). A novel heuristic based on the group scheduling principles and TFT optimization is introduced in the initialization phase. In the evolutionary phase, the decomposition strategy and the Q-learning strategy are applied to evolve the populations of jobs and groups. Subsequently, these populations are merged to construct the complete solution, and the evaluation criterion is used to determine whether to expand the solution space. Extensive computational experiments and comparisons with state-of-the-art algorithms demonstrate that the proposed CDABC algorithm is an effective solution for DPFGSP/PM.",
+    "citation_count": "0",
+    "year": "2025/06/01",
+    "authors": [
+        {
+            "name": "Wan-Zhong Wu",
+            "country": ""
+        },
+        {
+            "name": "Hong-Yan Sang",
+            "country": ""
+        },
+        {
+            "name": "Quan Ke Pan",
+            "country": ""
+        },
+        {
+            "name": "Qiu-Yang Han",
+            "country": ""
+        },
+        {
+            "name": "Heng-Wei Guo",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

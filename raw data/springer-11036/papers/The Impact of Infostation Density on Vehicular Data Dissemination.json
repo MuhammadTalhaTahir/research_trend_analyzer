@@ -1,0 +1,31 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-010-0277-z",
+    "title": "The Impact of Infostation Density on Vehicular Data Dissemination",
+    "abstract": "Vehicle-to-Vehicle and Vehicle-to-Roadside communications are going to become an indispensable part of the modern day automotive experience. For people on the move, vehicular networks can provide critical network connectivity and access to real-time information. Infostations play a vital role in these networks by acting as gateways to the Internet and by extending network connectivity. In this context, an important question is “What is the minimum number of infostations that need to be deployed in an area in order to support vehicular applications?” Optimizing infostation density is vital to understanding and reducing the cost of deployment and management. In this paper, we examine the required infostation density in a highway scenario using different data dissemination models. We start from a simple analysis that captures the required density under idealized assumptions. These models are validated by an event-driven simulator. We then run detailed QualNet simulations on both controlled and realistic vehicular traces to observe the information density trends in practical environments, and consequently propose techniques to improve dissemination performance and reduce the required infostation density.",
+    "citation_count": 25,
+    "year": "2011/12",
+    "authors": [
+        {
+            "name": "Kone, Vinod",
+            "country": "USA"
+        },
+        {
+            "name": "Zheng, Haitao",
+            "country": "USA"
+        },
+        {
+            "name": "Rowstron, Antony",
+            "country": "UK"
+        },
+        {
+            "name": "Zhao, Ben Y.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

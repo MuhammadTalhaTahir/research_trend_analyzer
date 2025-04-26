@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217307587",
+    "title": "Chaos-enhanced mobility models for multilevel swarms of UAVs",
+    "abstract": "The number of civilian and military applications using  Unmanned Aerial Vehicles  (UAVs) has increased during the last years and the forecasts for upcoming years are exponential. One of the current major challenges consist in considering UAVs as autonomous  swarms  to address some limitations of single UAV usage such as  autonomy , range of operation and resilience. In this article we propose novel  mobility models  for multi-level swarms of collaborating UAVs used for the coverage of a given area. These mobility models generate unpredictable trajectories using a chaotic solution of a  dynamical system . We detail how the chaotic properties are used to structure the exploration of an unknown area and enhance the exploration part of an  Ant Colony Optimization  method. Empirical evidence of the improvement of the coverage efficiency obtained by our mobility models is provided via simulation. It clearly outperforms state-of-the-art approaches.",
+    "citation_count": "59",
+    "year": "2018/08/01",
+    "authors": [
+        {
+            "name": "Martin Rosalie",
+            "country": ""
+        },
+        {
+            "name": "Grégoire Danoy",
+            "country": ""
+        },
+        {
+            "name": "Serge Chaumette",
+            "country": ""
+        },
+        {
+            "name": "Pascal Bouvry",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

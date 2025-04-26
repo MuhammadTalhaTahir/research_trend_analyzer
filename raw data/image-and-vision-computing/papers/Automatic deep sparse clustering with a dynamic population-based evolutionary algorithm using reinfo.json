@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003639",
+    "title": "Automatic deep sparse clustering with a dynamic population-based evolutionary algorithm using reinforcement learning and transfer learning",
+    "abstract": "Clustering data effectively remains a significant challenge in machine learning, particularly when the optimal number of clusters is unknown. Traditional deep clustering methods often struggle with balancing local and global search, leading to premature convergence and inefficiency. To address these issues, we introduce ADSC-DPE-RT (Automatic Deep Sparse Clustering with a Dynamic Population-based Evolutionary Algorithm using Reinforcement Learning and Transfer Learning), a novel deep clustering approach. ADSC-DPE-RT builds on Multi-Trial Vector-based Differential Evolution (MTDE), an algorithm that integrates sparse auto-encoding and manifold learning to enable automatic clustering without prior knowledge of cluster count. However, MTDE's fixed population size can lead to either prolonged computation or premature convergence. Our approach introduces a dynamic population generation technique guided by Reinforcement Learning (RL) and Markov Decision Process (MDP) principles. This allows for flexible adjustment of population size, preventing premature convergence and reducing computation time. Additionally, we incorporate Generative Adversarial Networks (GANs) to facilitate dynamic knowledge transfer between MTDE strategies, enhancing diversity and accelerating convergence towards the global optimum. This is the first work to address the dynamic population issue in deep clustering through RL, combined with Transfer Learning to optimize evolutionary algorithms. Our results demonstrate significant improvements in clustering performance, positioning ADSC-DPE-RT as a competitive alternative to state-of-the-art deep clustering methods.",
+    "citation_count": "1",
+    "year": "2024/11/01",
+    "authors": [
+        {
+            "name": "Parham Hadikhani",
+            "country": ""
+        },
+        {
+            "name": "Daphne Teck Ching Lai",
+            "country": ""
+        },
+        {
+            "name": "Wee-Hong Ong",
+            "country": ""
+        },
+        {
+            "name": "Mohammad H. Nadimi-Shahraki",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

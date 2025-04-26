@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885620302183",
+    "title": "Pixel-wise ordinal classification for salient object grading",
+    "abstract": "Driven by  business intelligence  applications for rating attraction of products in shops, a new problem — salient object grading is studied in this paper. In  computer vision , plenty of  salient object detection  approaches have been proposed, while most existing studies detect objects in a binary manner: salient or not. This paper focuses on a new problem setting that requires detecting all salient objects and categorizing them into different salient levels. Based on that, a pixel-wise ordinal classification method is proposed. It consists of a multi-resolution saliency detector which detects and segments objects, an ordinal classifier which grades pixels into different salient levels, and a binary saliency enhancer which sharpens the difference between non-saliency and all other salient levels. Two new image datasets with salient level labels are constructed. Experimental results demonstrate that, on the one hand, the proposed method provides effective salient level predictions and on the other hand, offers very comparable performance with state-of-the-art salient object detection methods in the traditional problem setting.",
+    "citation_count": "6",
+    "year": "2021/02/01",
+    "authors": [
+        {
+            "name": "Yanzhu Liu",
+            "country": ""
+        },
+        {
+            "name": "Yanan Wang",
+            "country": ""
+        },
+        {
+            "name": "Adams Wai Kin Kong",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

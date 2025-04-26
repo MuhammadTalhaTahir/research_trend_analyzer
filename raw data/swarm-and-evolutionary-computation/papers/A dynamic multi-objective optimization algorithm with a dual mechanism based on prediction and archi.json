@@ -1,0 +1,38 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224002311",
+    "title": "A dynamic multi-objective optimization algorithm with a dual mechanism based on prediction and archive",
+    "abstract": "In the dynamic multi-objective optimization problems, if the environmental changes are detected, an appropriate response strategy be employed to respond quickly to the change. The predictive mechanism is effective in detecting the patterns of change in a problem and is often used to track the Pareto Frontier (PF) in a new environment. However, these methods often rely on the historical optimization results to approximate new environmental solutions, which can lead to back-predictions and mislead population convergence because of the low quality of historical solutions. This paper proposes a dual mechanism of prediction and archive (DMPA_DMOEA) to address the problem. The improvements include: (1) The well-distributed solutions from the previous environment be retained to ensure that reliable solutions exist in the new environment. (2) An LSTM neural network model is used to construct the predictor, which makes full use of the historical information and fits the nonlinear relationship between the pareto set (PS), thus improving the accuracy of the predicted solution. (3) These archived solutions and the predicted solutions collectively form the initial population for the new environment, which improves the quality of the initial population and maintains excellent tracking performance. Finally, Multiple benchmark problems and different variation types are tested to validate the effectiveness of the proposed algorithm. Experiment results show that the proposed algorithm can effectively handle DMOPs and has shown its remarkable superiority in comparison with state-of-the-art algorithms.",
+    "citation_count": "2",
+    "year": "2024/10/01",
+    "authors": [
+        {
+            "name": "Maocai Wang",
+            "country": ""
+        },
+        {
+            "name": "Bin Li",
+            "country": ""
+        },
+        {
+            "name": "Guangming Dai",
+            "country": ""
+        },
+        {
+            "name": "Zhiming Song",
+            "country": ""
+        },
+        {
+            "name": "Xiaoyu Chen",
+            "country": ""
+        },
+        {
+            "name": "Qian Bao",
+            "country": ""
+        },
+        {
+            "name": "Lei Peng",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

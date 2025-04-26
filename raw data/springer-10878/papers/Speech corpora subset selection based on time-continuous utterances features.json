@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-018-0350-2",
+    "title": "Speech corpora subset selection based on time-continuous utterances features",
+    "abstract": "An extremely large corpus with rich acoustic properties is very useful for training new speech recognition and semantic analysis models. However, it also brings some troubles, because the complexity of the acoustic model training usually depends on the size of the corpora. In this paper, we propose a corpora subset selection method considering data contributions from time-continuous utterances and multi-label constraints that are not limited to single-scale metrics. Our goal is to extract a sufficiently rich subset from large corpora under certain meaningful constraints. In addition, taking into account the uniform coverage of the target subset and its internal property, we design a constrained subset selection algorithm. Specifically, a fast subset selection algorithm is designed by introducing n-grams models. Experiments are implemented based on very large real speech corpora database and validate the effectiveness of our method.",
+    "citation_count": 22,
+    "year": "2019/05",
+    "authors": [
+        {
+            "name": "Dong, Luobing",
+            "country": "China"
+        },
+        {
+            "name": "Guo, Qiumin",
+            "country": "China"
+        },
+        {
+            "name": "Wu, Weili",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

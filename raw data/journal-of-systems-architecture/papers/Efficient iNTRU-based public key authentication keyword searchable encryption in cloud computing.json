@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124001681",
+    "title": "Efficient iNTRU-based public key authentication keyword searchable encryption in cloud computing",
+    "abstract": "With the popularity of cloud computing, a large number of personal and corporate data are outsourced to the cloud. This centralized storage and processing mode not only improves the efficiency of data processing, but also brings challenges to data security and privacy. In view of the development of quantum computing, the traditional public key encryption may no longer be secure in the future. Therefore, it is particularly important to study the public key authenticated keyword searchable encryption (PEAKS) scheme which can resist quantum. This scheme can provide double guarantee for the data in cloud storage: one is to ensure the confidentiality of the data, so that the original content cannot be decrypted even within the cloud service provider; the other is to allow users to perform keyword searches on encrypted data without decrypting the data. This provides a balance of security and efficiency for data search and analysis in cloud computing environment. Recently, Genise et al. designed a Gadget-based iNTRU trapdoor, which has the advantages of small size and high efficiency. Therefore, we design an efficient and secure public key authentication keyword searchable encryption scheme based on iNTRU lattice. The overall running time of this scheme is only more than 300ms.",
+    "citation_count": "0",
+    "year": "2024/09/01",
+    "authors": [
+        {
+            "name": "Yunfei Yao",
+            "country": ""
+        },
+        {
+            "name": "Huiyan Chen",
+            "country": ""
+        },
+        {
+            "name": "Ke Wang",
+            "country": ""
+        },
+        {
+            "name": "Haoyang Yu",
+            "country": ""
+        },
+        {
+            "name": "Yu Wang",
+            "country": ""
+        },
+        {
+            "name": "Qingnan Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

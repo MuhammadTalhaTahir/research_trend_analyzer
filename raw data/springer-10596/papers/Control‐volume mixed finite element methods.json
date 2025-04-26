@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1011577530905",
+    "title": "Control‐volume mixed finite element methods",
+    "abstract": "A key ingredient in simulation of flow in porous media is accurate determination of the velocities that drive the flow. Large‐scale irregularities of the geology (faults, fractures, and layers) suggest the use of irregular grids in simulation. This paper presents a control‐volume mixed finite element method that provides a simple, systematic, easily implemented procedure for obtaining accurate velocity approximations on irregular (i.e., distorted logically rectangular) block‐centered quadrilateral grids. The control‐volume formulation of Darcy’s law can be viewed as a discretization into element‐sized “tanks” with imposed pressures at the ends, giving a local discrete Darcy law analogous to the block‐by‐block conservation in the usual mixed discretization of the mass‐conservation equation. Numerical results in two dimensions show second‐order convergence in the velocity, even with discontinuous anisotropic permeability on an irregular grid. The method extends readily to three dimensions.",
+    "citation_count": 25,
+    "year": "1997/09",
+    "authors": [
+        {
+            "name": "Cai, Z.",
+            "country": "USA"
+        },
+        {
+            "name": "Jones, J.E.",
+            "country": "USA"
+        },
+        {
+            "name": "McCormick, S.F.",
+            "country": "USA"
+        },
+        {
+            "name": "Russell, T.F.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

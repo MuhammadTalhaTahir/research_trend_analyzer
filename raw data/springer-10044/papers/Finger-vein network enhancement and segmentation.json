@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-013-0325-y",
+    "title": "Finger-vein network enhancement and segmentation",
+    "abstract": "Recently, an emerging biometric recognition based on human finger-vein patterns has received considerable attention. Due to light attenuation in imaging finger tissues, the finger-vein imagery is often seriously degraded. This makes network-based finger-vein feature representation greatly difficult in practice. In order to obtain perfect finger-vein networks, in this paper, we propose a novel scheme for venous region enhancement and finger-vein network segmentation. First, a method aimed at scattering removal, directional filtering and false vein information suppression is put forward to effectively enhance finger-vein images. Then, to achieve the high-fidelity extraction of finger-vein networks in an automated manner, a matting-based segmentation approach is presented considering the variations of veins in intensity and diameter. Extensive experiments are finally conducted to validate the proposed method.",
+    "citation_count": 36,
+    "year": "2014/11",
+    "authors": [
+        {
+            "name": "Yang, Jinfeng",
+            "country": "China"
+        },
+        {
+            "name": "Shi, Yihua",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

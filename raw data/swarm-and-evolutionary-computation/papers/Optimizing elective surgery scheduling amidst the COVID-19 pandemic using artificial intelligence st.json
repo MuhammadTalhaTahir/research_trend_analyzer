@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224002281",
+    "title": "Optimizing elective surgery scheduling amidst the COVID-19 pandemic using artificial intelligence strategies",
+    "abstract": "The COVID-19 pandemic profoundly affects elective surgery and healthcare resources. Efficient management of resources, like ward capacity and operating theaters, is crucial. The operations research community explores solutions, notably leveraging artificial intelligence, to address scheduling challenges amid COVID-19 restrictions. In this situation, applying AI becomes essential to getting the best results. In this paper, we address the problem of daily scheduling elective surgeries while accounting for hospital ward capacity. It is possible to reduce this issue to a scheduling puzzle that, given a variety of restrictions, resembles a four-stage hybrid flow shop. These limitations include the availability of resources, patient flow control, wait time avoidance, patient prioritizing, and resource coordination. With the crucial aid of artificial intelligence, our main goal is to assign patients to different surgical resources to minimize the length of time they spend on average in the hospital ward. We suggest putting into practice effective optimization strategies that make use of AI-based algorithms, particularly the variable neighborhood search (VNS) and variable neighborhood descent (VND) algorithms, which are inextricably linked with artificial intelligence concepts. Our studies demonstrate the effectiveness and efficiency of the general VNS in addressing the daily elective surgical scheduling issue (SSP) with the priceless assistance of artificial intelligence. The experiments are based on novel data instances that were inspired by current literature guidelines. The test results conclusively demonstrate the ability of our algorithms to find virtually perfect solutions. Moreover, our results highlight that the use of these methods, strengthened by AI, can significantly increase the size of the solved issue by a remarkable factor of 19.54. In light of the current COVID-19 pandemic, AI thus becomes a key factor in optimizing the scheduling of elective surgeries and the allocation of resources.",
+    "citation_count": "2",
+    "year": "2024/10/01",
+    "authors": [
+        {
+            "name": "Manel Belkhamsa",
+            "country": ""
+        },
+        {
+            "name": "Jalel Euchi",
+            "country": ""
+        },
+        {
+            "name": "Patrick siarry",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

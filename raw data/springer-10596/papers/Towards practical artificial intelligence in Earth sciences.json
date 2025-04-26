@@ -1,0 +1,108 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-024-10317-7",
+    "title": "Towards practical artificial intelligence in Earth sciences",
+    "abstract": "Although Artificial Intelligence (AI) projects are common and desired by many institutions and research teams, there are still relatively few success stories of AI in practical use for the Earth science community. Many AI practitioners in Earth science are trapped in the prototyping stage and their results have not yet been adopted by users. Many scientists are still hesitating to use AI in their research routine. This paper aims to capture the landscape of AI-powered geospatial data sciences by discussing the current and upcoming needs of the Earth and environmental community, such as what practical AI should look like, how to realize practical AI based on the current technical and data restrictions, and the expected outcome of AI projects and their long-term benefits and problems. This paper also discusses unavoidable changes in the near future concerning AI, such as the fast evolution of AI foundation models and AI laws, and how the Earth and environmental community should adapt to these changes. This paper provides an important reference to the geospatial data science community to adjust their research road maps, find best practices, boost the FAIRness (Findable, Accessible, Interoperable, and Reusable) aspects of AI research, and reasonably allocate human and computational resources to increase the practicality and efficiency of Earth AI research.",
+    "citation_count": 113,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "Sun, Ziheng",
+            "country": "USA"
+        },
+        {
+            "name": "ten Brink, Talya",
+            "country": "USA"
+        },
+        {
+            "name": "Carande, Wendy",
+            "country": "USA"
+        },
+        {
+            "name": "Koren, Gerbrand",
+            "country": "Netherlands"
+        },
+        {
+            "name": "Cristea, Nicoleta",
+            "country": "USA"
+        },
+        {
+            "name": "Jorgenson, Corin",
+            "country": "Switzerland"
+        },
+        {
+            "name": "Janga, Bhargavi",
+            "country": "USA"
+        },
+        {
+            "name": "Asamani, Gokul Prathin",
+            "country": "USA"
+        },
+        {
+            "name": "Achan, Sanjana",
+            "country": "USA"
+        },
+        {
+            "name": "Mahoney, Mike",
+            "country": "USA"
+        },
+        {
+            "name": "Huang, Qian",
+            "country": "USA"
+        },
+        {
+            "name": "Mehrabian, Armin",
+            "country": "USA"
+        },
+        {
+            "name": "Munasinghe, Thilanka",
+            "country": "USA"
+        },
+        {
+            "name": "Liu, Zhong",
+            "country": "USA"
+        },
+        {
+            "name": "Margolis, Aaron",
+            "country": "USA"
+        },
+        {
+            "name": "Webley, Peter",
+            "country": "USA"
+        },
+        {
+            "name": "Gong, Bing",
+            "country": "USA"
+        },
+        {
+            "name": "Rao, Yuhan",
+            "country": "Germany"
+        },
+        {
+            "name": "Burgess, Annie",
+            "country": "USA"
+        },
+        {
+            "name": "Huang, Andrew",
+            "country": "USA"
+        },
+        {
+            "name": "Sandoval, Laura",
+            "country": "USA"
+        },
+        {
+            "name": "Pagán, Brianna R.",
+            "country": "USA"
+        },
+        {
+            "name": "Duzgun, Sebnem",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

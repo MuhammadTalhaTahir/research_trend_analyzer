@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-019-00787-2",
+    "title": "Multi-channel local ternary pattern for content-based image retrieval",
+    "abstract": "A feature based on a single modality such as color or texture is not sufficient to investigate the appearance variation across multiple images. In this paper, a novel feature referred to as multi-channel local ternary pattern is proposed for image retrieval. The proposed method captures cross-channel color–texture information through the combination of H–V, S–V and V–V channels obtained from HSV representation of the image. Not only texture statistics extracted in this manner contain color information but local texture information is also incorporated in such representations. The effectiveness of the proposed image retrieval method is measured by performing experiments on popular natural, face and texture databases including Corel 1000, Corel 10k, CMU-PIE, STex and MIT VisTex, and results are compared with the existing state-of-the-art techniques. Retrieval results clearly highlight the superior performance of the proposed approach in terms of average precision and average recall.",
+    "citation_count": 41,
+    "year": "2019/11",
+    "authors": [
+        {
+            "name": "Agarwal, Megha",
+            "country": "India"
+        },
+        {
+            "name": "Singhal, Amit",
+            "country": "India"
+        },
+        {
+            "name": "Lall, Brejesh",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

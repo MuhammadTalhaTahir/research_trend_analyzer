@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650221001012",
+    "title": "A partition-based constrained multi-objective evolutionary algorithm",
+    "abstract": "Solving constrained multi-objective optimization problems (CMOPs) is full of challenges due to the difficulties in balancing between feasibility, convergence and distribution. To remedy this issue, this paper proposes a multi-objective differential evolutionary algorithm based on partition selection (MODE-PS). Firstly, MODE-PS divides a CMOP into a series of optimization sub-problems by objective space partition to maintain the distribution. Then, to keep the feasibility of the subspaces, one feasible solution of each subspace is saved to a partition feasible solution set. Next, once there are feasible solutions in one subspace, the individual selection strategy of this subspace is changed from constraint search to non-constraint search. By this way, the convergence is accelerated. Finally, all the feasible solutions are archived and evolved together with the population by a mating-pool selection to balance the feasibility, convergence and distribution. Twenty-two benchmark test problems are used to test the performance of MODE-PS in comparison with five state-of-the-art constrained multi-objective evolution algorithms. Moreover, a real-world problem, i.e., bi-source compressed-air pipeline optimization, is used to test the performance of algorithms. The experimental results have demonstrated the high competitiveness of MODE-PS for solving CMOPs.",
+    "citation_count": "19",
+    "year": "2021/10/01",
+    "authors": [
+        {
+            "name": "Yongkuan Yang",
+            "country": ""
+        },
+        {
+            "name": "Jianchang Liu",
+            "country": ""
+        },
+        {
+            "name": "Shubin Tan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

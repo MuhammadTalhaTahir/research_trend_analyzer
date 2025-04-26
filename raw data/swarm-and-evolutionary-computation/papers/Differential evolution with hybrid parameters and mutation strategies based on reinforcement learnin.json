@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650222001602",
+    "title": "Differential evolution with hybrid parameters and mutation strategies based on reinforcement learning",
+    "abstract": "Differential evolution (DE) has recently attracted a lot of attention as a simple and powerful numerical optimization approach for solving various real-world applications. However, the performance of DE is significantly influenced by the configuration of control parameters and mutation strategy. To address this issue, we proposed reinforcement learning-based hybrid parameters and mutation strategies differential evolution (RL-HPSDE) in this paper. The RL-HPSDE is based on the Q-learning framework, the population individual is regarded as an agent. The optimization problem's dynamic fitness landscape analysis results are utilized to represent the environmental states. The ensemble of parameters and mutation strategy is employed as optional actions for the agent. Furthermore, a reward function is designed to guide the agent to perform the optimal action strategy. Based on its reinforcement learning experience stored by the corresponding  Q  table, the agent could adaptively select an optimal combination of mutation strategy and parameters to generate offspring individual during each generation. The proposed algorithm is evaluated using the CEC2017 single objective test function set. Several well-known DE variants are also compared with the proposed algorithm. Empirical studies suggest that the proposed RL-HPSDE algorithm is competitive with all other competitors.",
+    "citation_count": "30",
+    "year": "2022/12/01",
+    "authors": [
+        {
+            "name": "Zhiping Tan",
+            "country": ""
+        },
+        {
+            "name": "Yu Tang",
+            "country": ""
+        },
+        {
+            "name": "Kangshun Li",
+            "country": ""
+        },
+        {
+            "name": "Huasheng Huang",
+            "country": ""
+        },
+        {
+            "name": "Shaoming Luo",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-022-02073-8",
+    "title": "Design of Distance Assistance System for Intelligent Education Based on WEB",
+    "abstract": "In order to improve the effect and satisfaction of distance education, an intelligent education distance assistance system based on web is designed. Based on the application development structure of C/S, clarify the overall structure of intelligent education distance assistance system. The hardware part is optimized from four aspects: interface layer, business layer, data layer and distance education auxiliary system management module. The software part optimizes the courseware learning process on the basis of considering the students' personal ability, and uses the collaborative filtering algorithm to recommend the distance auxiliary teaching resources of intelligent education. Thus, the remote assistance of intelligent education is completed. The experiment part is tested from the aspects of remote connection, response ability, web network interruption probability and F1 value. The experimental results show that the remote connection performance of the designed system is good, and all functions can respond normally and quickly; It can improve the effect of distance education and has high user satisfaction.",
+    "citation_count": 23,
+    "year": "2022/12",
+    "authors": [
+        {
+            "name": "Li, Yange",
+            "country": "China"
+        },
+        {
+            "name": "García-Díaz, Vicente",
+            "country": "Spain"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

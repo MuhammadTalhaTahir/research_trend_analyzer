@@ -1,0 +1,30 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10617-013-9107-4",
+    "title": "SoC based floating point implementation of differential evolution algorithm using FPGA",
+    "abstract": "This paper presents floating point design and implementation of System on Chip (SoC) based Differential Evolution (DE) algorithm using Xilinx Virtex-5 Field Programmable Gate Array (FPGA). The hardware implementation is carried out to enhance the execution speed of the embedded applications. Intellectual Property (IP) of DE algorithm is developed and interfaced with the 32-bit PowerPC 440 processor using processor local bus (PLB) of Xilinx Virtex-5 FPGA. In the proposed architecture the algorithmic parameters of DE are scalable. The software and hardware implementation of the DE algorithm is carried out in PowerPC embedded processor and hardware IP respectively. The optimization of numerical benchmark functions and system identification in control systems are implemented to verify the proposed hardware SoC platform. The performance of the IP is measured in terms of acceleration gain of the DE algorithm. The optimization problems are solved by using floating point arithmetic in both embedded processor and hardware. The experimental result concludes that the hardware DE IP accelerates the execution speed approximately by 200&nbsp;times compared to equivalent software implementation of DE algorithm on PowerPC 440 processor. Further, as a case study an Infinite Impulse Response (IIR) based system identification task on SoC using the developed hardware accelerator is implemented.",
+    "citation_count": 27,
+    "year": "2012/11",
+    "authors": [
+        {
+            "name": "Anumandla, Kiran Kumar",
+            "country": "India"
+        },
+        {
+            "name": "Peesapati, Rangababu",
+            "country": "India"
+        },
+        {
+            "name": "Sabat, Samrat L.",
+            "country": "India"
+        },
+        {
+            "name": "Udgata, Siba K.",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

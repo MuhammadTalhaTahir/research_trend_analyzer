@@ -1,0 +1,31 @@
+{
+    "url": "https://link.springer.com/article/10.1007/BF01193259",
+    "title": "Forward error control for MPEG-2 video transport in a wireless ATM LAN",
+    "abstract": "The possibility of providing multimedia services to mobile users has led to interest in designing broadband wireless networks that can guarantee quality of service for traffic flows. However, a fundamental problem in these networks is that severe losses may occur due to the random fading characteristics of the wireless channel. Error control algorithms which compensate for these losses are required in order to achieve reasonable loss rates. In this paper, the performance of error control based on forward error correction (FEC) for MPEG-2 video transmission in an indoor wireless ATM LAN is studied. A random bit error model and a multipath fading model are used to investigate the effect of errors on video transport. Combined source and channel coding techniques that employ single-layer and scalable MPEG-2 coding to combat channel errors are compared. Simulation results indicate that FEC-based error control in combination with 2-layer video coding techniques can lead to acceptable quality for indoor wireless ATM video.",
+    "citation_count": 14,
+    "year": "1996/10",
+    "authors": [
+        {
+            "name": "Ayanoglu, Ender",
+            "country": "USA"
+        },
+        {
+            "name": "Pancha, Pramod",
+            "country": "USA"
+        },
+        {
+            "name": "Reibman, Amy R.",
+            "country": "USA"
+        },
+        {
+            "name": "Talwar, Shilpa",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885615000104",
+    "title": "Robust stereo matching using adaptive random walk with restart algorithm",
+    "abstract": "In this paper, we propose a robust dense stereo  reconstruction algorithm  using a  random walk  with restart. The pixel-wise matching costs are aggregated into  superpixels  and the modified random walk with restart algorithm updates the matching cost for all possible disparities between the superpixels. In comparison to the majority of existing stereo methods using the  graph cut , belief propagation, or semi-global matching, our proposed method computes the final reconstruction through the determination of the best disparity at each pixel in the matching cost update. In addition, our method also considers occlusion and depth discontinuities through the visibility and fidelity terms. These terms assist in the cost update procedure in the calculation of the standard smoothness constraint. The method results in minimal computational costs while achieving high accuracy in the reconstruction. We test our method on standard benchmark datasets and challenging real-world sequences. We also show that the processing time increases linearly in relation to an increase in the disparity search range.",
+    "citation_count": "53",
+    "year": "2015/05/01",
+    "authors": [
+        {
+            "name": "Sehyung Lee",
+            "country": ""
+        },
+        {
+            "name": "Jin Han Lee",
+            "country": ""
+        },
+        {
+            "name": "Jongwoo Lim",
+            "country": ""
+        },
+        {
+            "name": "Il Hong Suh",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

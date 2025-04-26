@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224002554",
+    "title": "Manifold-assisted coevolutionary algorithm for constrained multi-objective optimization",
+    "abstract": "In constrained multi-objective optimization problems (CMOPs), constraints often fragment the Pareto solution space into multiple feasible and infeasible regions. This fragmentation presents a challenge for evolutionary optimization methods as feasible regions can be discrete and isolated by infeasible areas, making exploration difficult and leading to populations getting trapped in local optima. To address these issues, this paper introduces a manifold assisted coevolutionary algorithm for solving CMOPs. Firstly, a guided feasible search strategy is proposed to explore feasible regions, especially those isolated by infeasible barriers. This is achieved by estimating directions to the Constrained Pareto Set (CPS). Secondly, a manifold learning-based exploration strategy is employed to spread the population along the Pareto Set (PS) manifold by estimating the manifold distribution. Moreover, two populations are exploited, where the first population serves as the primary population, considering both constraints and objectives to explore the feasible region and search along the CPS. The second population, on the other hand, does not consider constraints and serves as an auxiliary population to explore the Unconstrained PS. By cooperating, these two populations effectively approach and cover separated CPS segments. The proposed algorithm is evaluated against seven state-of-the-art algorithms on 37 CMOP test functions and 5 CMOPs with fraudulent constraints. The experimental results clearly demonstrate that our algorithm can reliably locate multiple CPSs and is considered state-of-the-art in handling CMOPs.",
+    "citation_count": "1",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Weiwei Zhang",
+            "country": ""
+        },
+        {
+            "name": "Jiaxin Yang",
+            "country": ""
+        },
+        {
+            "name": "Guoqing Li",
+            "country": ""
+        },
+        {
+            "name": "Weizheng Zhang",
+            "country": ""
+        },
+        {
+            "name": "Gary G. Yen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

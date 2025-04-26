@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885622001822",
+    "title": "Online multi-object tracking with δ-GLMB filter based on occlusion and identity switch handling",
+    "abstract": "In this paper, we propose an online multi-object tracking (MOT) method based on the delta Generalized Labeled Multi-Bernoulli ( δ -GLMB) filter framework to address occlusion and miss-detection issues and recover identity switch (ID switch). Along with the principal  δ -GLMB filter that performs multi-object tracking, we propose a one-step  δ -GLMB filter to handle occlusion and miss-detection. The one-step  δ -GLMB filter is non-iterative and only requires current measurements. The filter is based on a proposed measurement-to-reappeared track association method and addresses MOT issues by incorporating all occluded and miss-detected objects. We introduce a novel similarity metric to apply in the measurement-to-reappeared track association process to define the weight of hypothesized reappeared tracks. To ensure the track consistency, we also extend the principal  δ -GLMB filter to efficiently recover switched IDs using the cardinality density, size, and visual features of the hypothesized tracks. In addition, we perform an ablation study to demonstrate the contribution of the main parts of the proposed method. We evaluate the proposed method on well-known and publicly available test datasets focused on pedestrian tracking. Note that our proposed method is online and not based on the learning paradigm. So it does not use any additional source of information such as private detections and pre-trained networks. Despite that, we achieved a reliable performance in multiple persons tracking at complex scenes by applying occlusion/miss-detection and ID switch handlers. Experimental results show that the proposed tracker performs better or at least at the same level of the state-of-the-art online and offline MOT methods.",
+    "citation_count": "13",
+    "year": "2022/11/01",
+    "authors": [
+        {
+            "name": "Mohammadjavad Abbaspour",
+            "country": ""
+        },
+        {
+            "name": "Mohammad Ali Masnadi-Shirazi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

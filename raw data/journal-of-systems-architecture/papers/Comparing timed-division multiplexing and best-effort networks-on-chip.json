@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S138376212200251X",
+    "title": "Comparing timed-division multiplexing and best-effort networks-on-chip",
+    "abstract": "Best-effort (BE) networks-on-chips (NOCs) are usually preferred over time-division multiplexed (TDM) NOCs in multi-core platforms because they are work-conserving and have lower (zero-load) latency. On the other hand, BE NOCs are significantly more expensive to implement than TDM NOCs because of their virtual channel buffers, allocators/arbiters, and (credit-based) flow control; functionality that a TDM NOC avoids altogether. The objective of this paper is to compare the performance of BE and TDM NOCs, taking hardware cost into consideration. The networks are compared using graphs showing average latency as a function of offered load. For the BE NOCs, we use the BookSim simulator, and for the TDM NOCs, we derive a queuing theory model and an associated TDM NOC simulator. Through experiments with both router architectures, packet length, link width, and different traffic patterns, we show that for the same hardware cost, a TDM NOC can provide higher bandwidth and comparable latency. We also show that the packet length is the most important factor affecting the TDM period, which again is the primary factor affecting latency. The best TDM NOC design for BE traffic uses single flit packets, wide links/flits, and a router with two pipeline stages: link and router traversal.",
+    "citation_count": "0",
+    "year": "2022/12/01",
+    "authors": [
+        {
+            "name": "Jens Sparsø",
+            "country": ""
+        },
+        {
+            "name": "Hans Jakob Damsgaard",
+            "country": ""
+        },
+        {
+            "name": "Dimitrios Katsamanis",
+            "country": ""
+        },
+        {
+            "name": "Martin Schoeberl",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

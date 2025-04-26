@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-025-01452-7",
+    "title": "Texture-driven pose-guided human image synthesis",
+    "abstract": "With the rapid development of computer vision and artificial intelligence, significant breakthroughs have been made in the field of character image synthesis. Although existing methods can synthesize target pose images, there are still limitations in handling complex textures and pose alignment, such as texture distortion, pose misalignment, and missing information. To address this, this paper proposes a pose-guided human image synthesis method called Human Pose Transfer Generative Adversarial Network (HPT-GAN). The model significantly improves the quality and efficiency of synthetic images by introducing ResBlocks module, designing a Texture Transfer Module (TTM) and a ToRGB module. Specifically, ResBlocks enhance gradient stability while preserving context information, TTM efficiently aligns textures through a multi-head attention mechanism, and the ToRGB module optimizes the fusion of multi-resolution features. HPT-GAN has a small number of parameters while achieving faster processing speed than similar methods. Moreover, it has achieved good results on the DeepFashion and Market-1501 datasets.",
+    "citation_count": 50,
+    "year": "2025/06",
+    "authors": [
+        {
+            "name": "Wei, Wei",
+            "country": "China"
+        },
+        {
+            "name": "Qin, Chao",
+            "country": "China"
+        },
+        {
+            "name": "Duan, Xiaodong",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

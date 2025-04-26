@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650225000203",
+    "title": "A dual-population co-evolution algorithm with balanced environmental selection for constrained multimodal multiobjective optimization problems",
+    "abstract": "In constrained multimodal multiobjective optimization problems (CMMOPs), the principal challenge is to explore multiple conflicting objectives and multiple equivalent Pareto sets under complex constraints, while balancing feasibility, convergence, and diversity of solutions. This paper proposes the DPCMMOEA-BES algorithm, which is based on dual-population co-evolution and incorporates a balanced environmental selection (BES) component to solve CMMOPs. In DPCMMOEA-BES, parent information from dual populations is shared through the mating selection operator based on speciation to generate offspring. Additionally, the BES component proposed in this paper enhances the algorithm’s overall performance by utilizing the dynamic-range-based constrained dominance principle and the accurate selection operation based on global Bi-crowding Distance, where the introduction of Bi-crowding Distance effectively balances the diversity of solutions in both the objective and decision spaces. The BES component also demonstrates its potential as a universal plugin, which can be integrated into various constrained multiobjective evolutionary algorithms and multimodal multiobjective evolutionary algorithms. The proposed DPCMMOEA-BES is evaluated on 31 test instances and compared with other state-of-the-art algorithms. The experimental results show that it is a highly competitive approach. Moreover, the comparative results confirm that integrating the BES component significantly improves the algorithm’s performance in solving CMMOPs.",
+    "citation_count": "0",
+    "year": "2025/04/01",
+    "authors": [
+        {
+            "name": "FuLong Wu",
+            "country": ""
+        },
+        {
+            "name": "Yu Sun",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762120301132",
+    "title": "A Maude-Based rewriting approach to model and verify Cloud/Fog self-adaptation and orchestration",
+    "abstract": "In the IoT-Fog-Cloud landscape,  IoT  devices are connected to numerous  software applications  in order to fully operate. Some applications are deployed on the Fog layer, providing low-latency access to resource, whilst others are deployed on the Cloud to provide important resource capabilities and process heavy computation. In this distributed landscape, the deployment infrastructure has to adapt to the highly dynamic requirements of the  IoT  layer. However, due to their  intrinsic properties , the Fog layer may lack of providing sufficient amount of resource while the Cloud layer fails ensuring low-latency requirements. In this paper, we present a rewriting-based approach to design and verify the Cloud-Fog self-adaption and orchestration behaviors in order to manage infrastructure  reconfiguration  towards achieving low-latency and resources quantity trade-offs. We rely of the formal specification language Maude to provide an executable solution of these behaviors basing on the rewriting logic and we express properties with  linear temporal logic  (LTL) to qualitatively verify the adaptations correctness.",
+    "citation_count": "15",
+    "year": "2020/11/01",
+    "authors": [
+        {
+            "name": "Khaled Khebbeb",
+            "country": ""
+        },
+        {
+            "name": "Nabil Hameurlain",
+            "country": ""
+        },
+        {
+            "name": "Faiza Belala",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

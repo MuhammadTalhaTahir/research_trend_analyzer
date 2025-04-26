@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624004967",
+    "title": "Enhancing weakly supervised semantic segmentation with efficient and robust neighbor-attentive superpixel aggregation",
+    "abstract": "Image-level Weakly-Supervised Semantic Segmentation (WSSS) has become prominent as a technique that utilizes readily available image-level supervisory information. However, traditional methods that rely on pseudo-segmentation labels derived from Class Activation Maps (CAMs) are limited in terms of segmentation accuracy, primarily due to the incomplete nature of CAMs. Despite recent advancements in improving the comprehensiveness of CAM-derived pseudo-labels, challenges persist in handling ambiguity at object boundaries, and these methods also tend to be computationally intensive. To address these challenges, we propose a novel framework called Neighbor-Attentive Superpixel Aggregation (NASA). Inspired by the effectiveness of superpixel segmentation in homogenizing images through color and texture analysis, NASA enables the transformation from superpixel-wise to pixel-wise pseudo-labels. This approach significantly reduces semantic uncertainty at object boundaries and alleviates the computational overhead associated with direct pixel-wise label generation from CAMs. Besides, we introduce a superpixel augmentation strategy to enhance the model’s discrimination capabilities across different superpixels. Empirical studies demonstrate the superiority of NASA over existing WSSS methodologies. On the PASCAL VOC 2012 and MS COCO 2014 datasets, NASA achieves impressive mIoU scores of 73.5% and 46.4%, respectively.",
+    "citation_count": "0",
+    "year": "2025/02/01",
+    "authors": [
+        {
+            "name": "Chen Wang",
+            "country": ""
+        },
+        {
+            "name": "Huifang Ma",
+            "country": ""
+        },
+        {
+            "name": "Di Zhang",
+            "country": ""
+        },
+        {
+            "name": "Xiaolong Li",
+            "country": ""
+        },
+        {
+            "name": "Zhixin Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

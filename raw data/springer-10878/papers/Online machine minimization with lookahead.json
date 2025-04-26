@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-020-00633-w",
+    "title": "Online machine minimization with lookahead",
+    "abstract": "This paper studies the online machine minimization problem, where the jobs have real release times, uniform processing times and a common deadline. We investigate how the lookahead ability improves the performance of online algorithms. Two lookahead models are studied, that is, the additive lookahead and the multiplicative lookahead. At any time t, the online algorithm knows all the jobs to be released before time $$t+L$$ (or $$\\beta \\cdot t$$ ) in the additive (or multiplicative) lookahead model. We propose a $$\\frac{e}{\\alpha (e-1)+1}$$ -competitive online algorithm with the additive lookahead, where $$\\alpha = \\frac{L}{T} \\le 1$$ and T is the common deadline of the jobs. For the multiplicative lookahead, we provide an online algorithm with a competitive ratio of $$\\frac{\\beta e}{(\\beta -1) e +1}$$ , where $$\\beta \\ge 1$$ . Lower bounds are also provided for both of the two models, which show that our algorithms are optimal for two extreme cases, that is, $$\\alpha = 0$$ (or $$\\beta = 1$$ ) and $$\\alpha = 1$$ (or $$\\beta \\rightarrow \\infty $$ ), and remain a small gap for the cases in between. Particularly, for $$\\alpha = 0$$ (or $$\\beta = 1$$ ), the competitive ratio is e, which corresponds to the problem without lookahead. For $$\\alpha = 1$$ (or $$\\beta \\rightarrow \\infty $$ ), the competitive ratio is 1, which corresponds to the offline version (with full information).",
+    "citation_count": 16,
+    "year": "2022/07",
+    "authors": [
+        {
+            "name": "Chen, Cong",
+            "country": "China"
+        },
+        {
+            "name": "Zhang, Huili",
+            "country": "China"
+        },
+        {
+            "name": "Xu, Yinfeng",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

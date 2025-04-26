@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S138376212200131X",
+    "title": "A revocable multi-authority fine-grained access control architecture against ciphertext rollback attack for mobile edge computing",
+    "abstract": "Mobile edge computing  is an emerging decentralized cloud paradigm that can provide real-time  mobile services  for users. But there are some limitations in the existing access control architectures for mobile edge computing, such as low efficiency, poor expansibility and high  algorithm complexity . Therefore in this paper, we propose a decentralized ciphertext-policy attribute-based  encryption scheme  which with mutually verifiable outsourced decryption and non-delegated computing mode attribute  revocation  as the fine-grained  access control model  for the mobile edge cloud. Compared with the state-of-art access control models with revocation function, first, our scheme is based on Type-3 pairing, which has higher efficiency and stronger security. Second, our outsourcing decryption algorithm can realize mutual verification, that is, not only the server can verify the validity of the user’s outsourcing key, but also the user can verify the correctness of the decrypted plaintext. Thirdly, our revocation algorithm can not only resist  ciphertext  rollback attacks to achieve the genuine backward and forward security, but also does not need the assistance of any intermediate proxy server, which greatly simplifies the  network topology .",
+    "citation_count": "7",
+    "year": "2022/08/01",
+    "authors": [
+        {
+            "name": "Zhishuo Zhang",
+            "country": ""
+        },
+        {
+            "name": "Wen Huang",
+            "country": ""
+        },
+        {
+            "name": "Shijie Zhou",
+            "country": ""
+        },
+        {
+            "name": "Yongjian Liao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

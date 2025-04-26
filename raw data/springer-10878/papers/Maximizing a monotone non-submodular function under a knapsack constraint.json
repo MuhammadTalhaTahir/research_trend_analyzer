@@ -1,0 +1,37 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-020-00620-1",
+    "title": "Maximizing a monotone non-submodular function under a knapsack constraint",
+    "abstract": "Submodular optimization has been well studied in combinatorial optimization. However, there are few works considering about non-submodular optimization problems which also have many applications, such as experimental design, some optimization problems in social networks, etc. In this paper, we consider the maximization of non-submodular function under a knapsack constraint, and explore the performance of the greedy algorithm, which is characterized by the submodularity ratio $$\\beta $$ and curvature $$\\alpha $$ . In particular, we prove that the greedy algorithm enjoys a tight approximation guarantee of $$ (1-e^{-\\alpha \\beta })/{\\alpha }$$ for the above problem. To our knowledge, it is the first tight constant factor for this problem. We further utilize illustrative examples to demonstrate the performance of our algorithm.",
+    "citation_count": 19,
+    "year": "2022/07",
+    "authors": [
+        {
+            "name": "Zhang, Zhenning",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Liu, Bin",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Wang, Yishui",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Xu, Dachuan",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Zhang, Dongmei",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

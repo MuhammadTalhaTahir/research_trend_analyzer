@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001890",
+    "title": "One-shot Ultra-high-Resolution Generative Adversarial Network That Synthesizes 16K Images On A Single GPU",
+    "abstract": "We propose a one-shot ultra-high-resolution generative adversarial network (OUR-GAN) framework that generates non-repetitive 16K ( 16 , 384 × 8 , 640 ) images from a single training image and is trainable on a single consumer GPU. OUR-GAN generates an initial image that is visually plausible and varied in shape at low resolution, and then gradually increases the resolution by adding detail through super-resolution. Since OUR-GAN learns from a real ultra-high-resolution (UHR) image, it can synthesize large shapes with fine details and long-range coherence, which is difficult to achieve with conventional generative models that rely on the patch distribution learned from relatively small images. OUR-GAN can synthesize high-quality 16K images with 12.5 GB of GPU memory and 4K images with only 4.29 GB as it synthesizes a UHR image part by part through seamless subregion-wise super-resolution. Additionally, OUR-GAN improves visual coherence while maintaining diversity by applying vertical positional convolution. In experiments on the ST4K and RAISE datasets, OUR-GAN exhibited improved fidelity, visual coherency, and diversity compared with the baseline one-shot synthesis models. To the best of our knowledge, OUR-GAN is the first one-shot image synthesizer that generates non-repetitive UHR images on a single consumer GPU. The synthesized image samples are presented at  https://our-gan.github.io .",
+    "citation_count": "1",
+    "year": "2023/11/01",
+    "authors": [
+        {
+            "name": "Junseok Oh",
+            "country": ""
+        },
+        {
+            "name": "Donghwee Yoon",
+            "country": ""
+        },
+        {
+            "name": "Injung Kim",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

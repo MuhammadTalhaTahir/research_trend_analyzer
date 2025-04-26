@@ -1,0 +1,21 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-020-00637-6",
+    "title": "Connected max cut is polynomial for graphs without the excluded minor $$K_5\\backslash e$$",
+    "abstract": "Given a graph $$G=(V, E)$$ , a connected cut $$\\delta (U)$$ is the set of edges of E linking all vertices of U to all vertices of $$V\\backslash U$$ such that the induced subgraphs G[U] and $$G[V\\backslash U]$$ are connected. Given a positive weight function w defined on E, the connected maximum cut problem (CMAX CUT) is to find a connected cut $$\\varOmega $$ such that $$w(\\varOmega )$$ is maximum among all connected cuts. CMAX CUT is NP-hard even for planar graphs, and thus for graph without the excluded minor $$K_5$$ . In this paper, we prove that CMAX CUT is polynomial for the class of graphs without the excluded minor $$K_5\\backslash e$$ , denoted by $${\\mathcal {G}}(K_5\\backslash e)$$ . We deduce two quadratic time algorithms: one for the minimum cut problem in $${\\mathcal {G}}(K_5\\backslash e)$$ without computing the maximum flow, and another one for Hamilton cycle problem in the class of graphs without the two excluded minors the prism $$P_6$$ and $$K_{3, 3}$$ . This latter problem is NP-complete for maximal planar graphs.",
+    "citation_count": 24,
+    "year": "2020/11",
+    "authors": [
+        {
+            "name": "Chaourar, Brahim",
+            "country": "Saudi Arabia"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

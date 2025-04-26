@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624000192",
+    "title": "Weakly supervised point cloud semantic segmentation with the fusion of heterogeneous network features",
+    "abstract": "Weakly supervised  point cloud segmentation  has emerged as a prominent research area to address the problem of manual annotation costs. A crucial challenge in weakly supervised point cloud segmentation is the implicit augmentation of the total amount of supervision signals. In this article, we propose a novel method that utilizes the fusion of features from different networks to enhance the supervision signals. Specifically, we utilize a deep Encoder-Decoder network to capture high-level  semantic features  of labeled points, while a shallow Encoder network captures multi-scale detail features of labeled data. By combining these two  heterogeneous networks , we acquire richer feature representations that implicitly enhance the supervision signal.Furthermore, we introduce scene-level and instance-level contrast to enhance feature representations in both coarse-grained and fine-grained manners, thus further boosting the supervisory signal. To validate the effectiveness of our approach, we conducted experiments on the large-scale indoor scene dataset, S3DIS, and the outdoor datasets, Toronto3D and Semantic3D, achieving convincing results.",
+    "citation_count": "7",
+    "year": "2024/02/01",
+    "authors": [
+        {
+            "name": "Yingchun Niu",
+            "country": ""
+        },
+        {
+            "name": "Jianqin Yin",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

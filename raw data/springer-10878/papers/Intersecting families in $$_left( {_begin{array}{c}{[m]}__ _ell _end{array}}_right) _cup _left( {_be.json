@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-020-00648-3",
+    "title": "Intersecting families in $$\\left( {\\begin{array}{c}{[m]}\\\\ \\ell \\end{array}}\\right) \\cup \\left( {\\begin{array}{c}{[n]}\\\\ k\\end{array}}\\right) $$",
+    "abstract": "Let $$m,n,\\ell $$ and k be positive integers with $$\\ell \\ne k$$ , $$n&gt;2k$$ , $$m&lt;2\\ell $$ and $$n=\\max \\{m,n\\}\\ge \\ell +k$$ . If $$\\mathcal {F}$$ is an intersecting family in $$\\left( {\\begin{array}{c}[m]\\\\ \\ell \\end{array}}\\right) \\cup \\left( {\\begin{array}{c}[n]\\\\ k\\end{array}}\\right) $$ , then $$\\begin{aligned} |\\mathcal {F}|\\le \\max \\left\\{ \\left( {\\begin{array}{c}m\\\\ \\ell \\end{array}}\\right) , \\left( {\\begin{array}{c}m-1\\\\ \\ell -1\\end{array}}\\right) +\\left( {\\begin{array}{c}n-1\\\\ k-1\\end{array}}\\right) \\right\\} . \\end{aligned}$$ Unless $$n=\\ell +k\\ge m$$ , equality holds if and only if $$\\left( {\\begin{array}{c}m-1\\\\ \\ell \\end{array}}\\right) \\ge \\left( {\\begin{array}{c}n-1\\\\ k-1\\end{array}}\\right) $$ and $$\\mathcal {F}=\\left( {\\begin{array}{c}[m]\\\\ \\ell \\end{array}}\\right) $$ or $$\\left( {\\begin{array}{c}m-1\\\\ \\ell \\end{array}}\\right) \\le \\left( {\\begin{array}{c}n-1\\\\ k-1\\end{array}}\\right) $$ and $$\\mathcal {F}$$ consists of all members of $$\\left( {\\begin{array}{c}[m]\\\\ \\ell \\end{array}}\\right) \\cup \\left( {\\begin{array}{c}[n]\\\\ k\\end{array}}\\right) $$ that contain a fixed element of $$[m]\\cap [n]$$ .",
+    "citation_count": 14,
+    "year": "2020/11",
+    "authors": [
+        {
+            "name": "Wang, Jun",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Zhang, Huajun",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

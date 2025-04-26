@@ -1,0 +1,36 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-017-9643-2",
+    "title": "Novel basin modelling concept for simulating deformation from mechanical compaction using level sets",
+    "abstract": "As sedimentation progresses in the formation and evolution of a depositional geologic basin, the rock strata are subject to various stresses. With increasing lithostatic pressure, compressional forces act to compact the porous rock matrix, leading to overpressure buildup, changes in the fluid pore pressure and fluid flow. In the context of petroleum systems modelling, the present study concerns the geometry changes that a compacting basin experiences subject to deposition. The purpose is to track the positions of the rock layer interfaces as compaction occurs. To handle the challenge of potentially large geometry deformations, a new modelling concept is proposed that couples the pore pressure equation with a level set method to determine the movement of lithostratigraphic interfaces. The level set method propagates an interface according to a prescribed speed. The coupling term for the pore pressure and level-set equations consists of this speed function, which is dependent on the compaction law. The two primary features of this approach are the simplicity of the grid and the flexibility of the speed function. A first evaluation of the model concept is presented based on an implementation for one spatial dimension accounting for vertical effective stress. Isothermal conditions with a constant fluid density and viscosity were assumed. The accuracy of the implemented numerical solution for the case of a single stratigraphic unit with a linear compaction law was compared to the available analytical solution [38]. The multi-layer setup and the nonlinear case were tested for plausibility.",
+    "citation_count": 39,
+    "year": "2017/12",
+    "authors": [
+        {
+            "name": "McGovern, Sean",
+            "country": "Germany"
+        },
+        {
+            "name": "Kollet, Stefan",
+            "country": "Germany"
+        },
+        {
+            "name": "Bürger, Claudius M.",
+            "country": "The Netherlands"
+        },
+        {
+            "name": "Schwede, Ronnie L.",
+            "country": "The Netherlands"
+        },
+        {
+            "name": "Podlaha, Olaf G.",
+            "country": "The Netherlands"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

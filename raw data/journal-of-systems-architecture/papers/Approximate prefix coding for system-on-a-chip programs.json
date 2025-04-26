@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762103000237",
+    "title": "Approximate prefix coding for system-on-a-chip programs",
+    "abstract": "The redundancy available in binary programs presents an opportunity for better utilization of limited memory resources in systems-on-a-chip by compressing the instruction memory. Class-based coding, a form of approximate prefix coding, simplifies the code and thus is a suitable  compression method  for low-cost systems. We present a detailed frequency analysis of the SPEC2000 Alpha binary programs. Based on the results of this analysis, we introduce a new method for constructing classes. Then we apply this method and use it to compress the SPEC2000 Alpha binaries, and show that, in comparison with optimal prefix coding, the loss in  compression efficiency  is minimal. With some hardware support, the proposed method reduces the on-chip code by 43%.",
+    "citation_count": "0",
+    "year": "2003/05/01",
+    "authors": [
+        {
+            "name": "Shlomo Weiss",
+            "country": ""
+        },
+        {
+            "name": "Roman Tsikel",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

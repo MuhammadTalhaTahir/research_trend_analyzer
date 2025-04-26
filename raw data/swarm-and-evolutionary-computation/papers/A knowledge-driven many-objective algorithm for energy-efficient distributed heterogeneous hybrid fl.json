@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224003092",
+    "title": "A knowledge-driven many-objective algorithm for energy-efficient distributed heterogeneous hybrid flowshop scheduling with lot-streaming",
+    "abstract": "More enterprises are enhancing their productive capacity to keep up with the rapidly shifting market demands. Meanwhile, with increasing environmental consciousness, sustainable manufacturing has drawn greater attention. In this paper, the many-objective energy-efficient distributed heterogeneous hybrid flowshop scheduling problem with lot-streaming (DHHFSPLS) is investigated, where the number of sublots is variable. To settle this challenging issue, a mathematical model is established, and a knowledge-driven many-objective optimization evolutionary algorithm (KDMaOEA) is proposed for minimizing makespan, total earliness, total tardiness and total energy consumption. In the KDMaOEA, a knowledge-driven multiple populations collaborative search strategy is devised to strengthen exploitation capabilities. Specifically, the population is divided into five subpopulations, where four superior subpopulations are employed to facilitate the optimization of each objective and one inferior subpopulation learns from four superior subpopulations to effectively utilize the optimization knowledge. Furthermore, an adaptive switching-based environmental selection strategy is fulfilled to guarantee the distribution and convergence of the solution set. Finally, extensive numerical simulations are undertaken to verify the effectiveness of the KDMaOEA in solving the many-objective energy-efficient DHHFSPLS.",
+    "citation_count": "3",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Sanyan Chen",
+            "country": ""
+        },
+        {
+            "name": "Xuewu Wang",
+            "country": ""
+        },
+        {
+            "name": "Ye Wang",
+            "country": ""
+        },
+        {
+            "name": "Xingsheng Gu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

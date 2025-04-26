@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001898",
+    "title": "Offline/Online lattice-based ciphertext policy attribute-based encryption",
+    "abstract": "Attribute Based Encryption  (ABE) is a new public key  encryption scheme  which allows users to encrypt and decrypt messages based on user attributes, and it can enforce fine  grained access control  over the  encrypted data . However, encryption and key generation computational costs grow with the complexity of the access policy or number of attributes, which makes it unsuitable for mobile device scenario. To address this problem, we propose an offline/online lattice-based  ciphertext  policy attribute-based encryption scheme under the Ring  Learning with Errors  (R-LWE) assumption where the computations for the algorithms are split into two phases: offline and online. In the process of generating the private key, the offline stage generates the intermediate private key before the attributes are known, and the online stage generates the corresponding private key based on the attributes. In the  encryption process , the offline stage generates the intermediate  ciphertext  before the  plaintext message  and access policy are known, and preprocesses the complex computations required for encryption. After the online stage knows the plaintext message and access policy, it only needs to perform a small amount of simple computations to generate the final ciphertext. Compared with the Learning with Errors (LWE) based attribute-based encryption scheme, our scheme has better computational performance. Compared with the regular lattice based attribute based encryption scheme, our scheme is suitable for mobile devices. Compared with the attribute-based encryption schemes based on  bilinear pairing , our scheme is resistant against  quantum computing  attacks.",
+    "citation_count": "15",
+    "year": "2022/09/01",
+    "authors": [
+        {
+            "name": "Xingbing Fu",
+            "country": ""
+        },
+        {
+            "name": "Yinglun Wang",
+            "country": ""
+        },
+        {
+            "name": "Lin You",
+            "country": ""
+        },
+        {
+            "name": "Jianting Ning",
+            "country": ""
+        },
+        {
+            "name": "Ziquan Hu",
+            "country": ""
+        },
+        {
+            "name": "Fagen Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

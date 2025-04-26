@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218304577",
+    "title": "Identifying influential nodes based on ant colony optimization to maximize profit in social networks",
+    "abstract": "One of the most important applications for identification of  influential nodes  in social networks is viral marketing. In viral marketing, there are valuable users from which companies or smaller businesses benefit most at the lowest cost. Inspired from the behavior of real ants and based on the ant colony  optimization algorithm , we propose new methods named PMACO and IMOACO in this paper to find the most valuable users. First, the influence graph is derived from the analysis of users’ interactions and communications in a social network. The negative influence among users is also considered in the process of generating the influence graph. For reduction of  computational complexity  and removal of unimportant nodes from the influence graph, the nodes the levels of influence of which on their neighbors are less than a specific threshold value are eliminated. Then, the representation of the  search space  as a  weighted graph  is constructed by the remaining nodes, where the weight of each edge is the similarity between the two nodes of which that edge is composed. Next, the ants begin their search processes with the goal of maximizing profit and minimizing the similarity among the selected nodes. Assessments have been made on real and  synthetic datasets , and compared the proposed algorithm with well-known ones. The results of the experiments demonstrate the efficiency of the proposed algorithm.",
+    "citation_count": "23",
+    "year": "2019/12/01",
+    "authors": [
+        {
+            "name": "Chiman Salavati",
+            "country": ""
+        },
+        {
+            "name": "Alireza Abdollahpouri",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

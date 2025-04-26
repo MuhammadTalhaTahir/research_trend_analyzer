@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650211000277",
+    "title": "Energy-aware evolutionary routing protocol for dynamic clustering of wireless sensor networks",
+    "abstract": "The main challenges in designing and planning the operations of  Wireless Sensor Networks  (WSNs) are to optimize energy consumption and prolong network lifetime. Cluster-based routing techniques, such as the well-known low-energy adaptive clustering hierarchy (LEACH), are used to achieve scalable solutions and extend the network lifetime until the last node dies (LND). Also,  evolutionary algorithms  (EAs), have been successfully used in recent years as meta-heuristics to address energy-aware routing challenges by designing intelligent models that collaborate together to optimize an appropriate energy-aware objective function. On the other hand, some protocols, such as stable election protocol (SEP), are concerned with another objective: extending the stability time until the first node dies (FND). Often, there is a tradeoff between extending the time until FND and the time until LND. To our knowledge, no attempt has been made to obtain a better compromise between the stability time and network lifetime. This paper reformulates the design of the most important characteristic of the EA (i.e., the objective function), so as to obtain a routing protocol that can provide more robust results than the existing heuristic and meta-heuristic protocols in terms of network stability period, lifetime, and energy consumption. An evolutionary-based routing protocol is proposed, which can guarantee better tradeoff between the lifespan and the stability period of the network with efficient energy utilization. To support this claim, extensive simulations on 90 homogeneous and heterogeneous WSN models are evaluated and compared against the LEACH, SEP, and one of the existing evolutionary-based routing protocols, hierarchical clustering-algorithm-based  genetic algorithm  (HCR).",
+    "citation_count": "167",
+    "year": "2011/12/01",
+    "authors": [
+        {
+            "name": "Enan A. Khalil",
+            "country": ""
+        },
+        {
+            "name": "Bara’a A. Attea",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-006-8209-3",
+    "title": "Strongly 2-shape-sortability of vector partitions",
+    "abstract": "Partitioning points optimally in ℝ1 have been well studied. Hwang et al. (2003) first extended the optimal partitioning problems from ℝ1 to ℝ d . In particular, they studied the “sortability” of some partition properties. They also constructed examples to show that some partition properties, like Disjoint and Cone disjoint, are not sortable under some constraints 핊. In this note we construct a more concise example than theirs and also prove that another partition property, Nonpenetrating, is not sortable under 핊.",
+    "citation_count": 6,
+    "year": "2006/06",
+    "authors": [
+        {
+            "name": "Chang, Huilan",
+            "country": "R.O.C."
+        },
+        {
+            "name": "Guo, Junyi",
+            "country": "R.O.C."
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

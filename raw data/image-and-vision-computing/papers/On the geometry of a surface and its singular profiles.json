@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/0262885688900121",
+    "title": "On the geometry of a surface and its singular profiles",
+    "abstract": "Previous work by a number of authors has considered the relationship between the smooth profiles of a surface (under orthogonal projection) and the geometry of the surface. In this paper, information is obtained about the surface (Gaussian curvature etc.) from singular points of profiles. These singular points can be followed as the viewing direction changes; the paper shows how to obtain information by following the cusp on a profile. It also shows that singular profiles can be used in the reconstruction procedure of Giblin and Weiss, and presents other generalizations of Koenderink's formula to the singular case.",
+    "citation_count": "8",
+    "year": "1988/11/01",
+    "authors": [
+        {
+            "name": "PJ Giblin",
+            "country": ""
+        },
+        {
+            "name": "MG Soares",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

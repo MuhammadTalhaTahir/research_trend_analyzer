@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762118300560",
+    "title": "Last level cache layout remapping for heterogeneous systems",
+    "abstract": "Heterogeneous systems  with CPU and  GPGPU  sharing the last level cache (LLC) provide viability and flexibility. However, the different programming models lead to conflicting  memory layouts , which are required for best performance of different processors. Software converting that directly accesses target layout is subject to sub-optimal localities. Converting in  GPGPU  shared memory also incurs copying and  synchronization  overhead. In this paper, we analyze the memory layout requirement and propose to remap the memory layout in the shared LLC. A remap controller in LLC executes a simple program that calculates target requests from an LLC request in the source memory space. The LLC request is thus remapped to the target memory space with the generated requests. Consequently, all processors always access memory in their optimal data layouts. The locality is thus kept through all the private caches, and software remapping overhead is also eliminated. The tiled-matrix multiplication is discussed as a  case study  and benchmarks from Polybench/GPU and  Rodinia  are modified to take advantage of the LLC layout remapping. The experiment results show the average benchmark  execution time  is decreased to 69%. Compared with CPU software layout converting, the CPU time is decreased to 41%–73%.",
+    "citation_count": "1",
+    "year": "2018/06/01",
+    "authors": [
+        {
+            "name": "Licheng Yu",
+            "country": ""
+        },
+        {
+            "name": "Tianzhou Chen",
+            "country": ""
+        },
+        {
+            "name": "Minghui Wu",
+            "country": ""
+        },
+        {
+            "name": "Xueqing Lou",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

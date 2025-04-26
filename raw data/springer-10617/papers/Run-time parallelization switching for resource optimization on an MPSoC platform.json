@@ -1,0 +1,22 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10617-014-9128-7",
+    "title": "Run-time parallelization switching for resource optimization on an MPSoC platform",
+    "abstract": "The recent development of multimedia applications on mobile terminals raised the need for flexible and scalable computing platforms that are capable of providing considerable (application specific) computational performance within a low cost and a low energy budget. The MPSoC with multi-disciplinary approach, resolving application mapping, platform architecture and runtime management issues, provides such multiple heterogeneous, flexible processing elements. In MPSoC, the run-time manager takes the design time exploration information as an input and selects an active Pareto point based on quality requirement and available platform resources, where a Pareto point corresponds to a particular parallelization possibility of the target application. To use system’s scalability at best and enhance application’s flexibility a step further, the resource management and Pareto point selection decisions need to be adjustable at run-time. This research work experiment run-time Pareto point switching for the MPEG-4 encoder. The work involves design time exploration and then embedding of two parallelization possibilities of the MPEG-4 encoder into one single component and enabling run-time switching between these parallelizations, to give run-time control over adjusting performance-cost criteria and allocation deallocation of hardware resources at run-time. The new system has the capability to encode each video frame with different parallelization. The obtained results offer a number of operating points on the Pareto curve in between the previous ones at sequence encoding level. The run-time manager can improve application performance up to 50&nbsp;% or can save memory bandwidth up to 15&nbsp;%, according to quality request.",
+    "citation_count": 24,
+    "year": "2014/09",
+    "authors": [
+        {
+            "name": "Abbas, Naeem",
+            "country": "Belgium"
+        },
+        {
+            "name": "Ma, Zhe",
+            "country": "Pakistan"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

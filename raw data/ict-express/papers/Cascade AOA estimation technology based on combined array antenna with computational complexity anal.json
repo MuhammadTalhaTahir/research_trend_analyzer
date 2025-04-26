@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959521001521",
+    "title": "Cascade AOA estimation technology based on combined array antenna with computational complexity analysis",
+    "abstract": "Since most studies for estimating an angle-of-arrival (AOA) based on the antenna array have considered the antenna array with a single configuration, they are not proper to simultaneously estimate AOAs of multiple signals with various frequencies. In this paper, we introduce a cascade AOA estimation technique consisting of CAPON and Beamspace Multiple Signal Classification (MUSIC), based on a Combined Array Antenna (CAA) with Uniform Rectangular Frame Array (URFA) and Uniform Circular Array (UCA), for enhancing the above problem. In addition, we provide the computational complexity analysis for showing the low computational complexity of this technique comparing to the conventional technique.",
+    "citation_count": "0",
+    "year": "2022/12/01",
+    "authors": [
+        {
+            "name": "Tae-yun Kim",
+            "country": ""
+        },
+        {
+            "name": "Hua Lee",
+            "country": ""
+        },
+        {
+            "name": "Suk-seung Hwang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

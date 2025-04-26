@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-024-01347-z",
+    "title": "An fMRI-based visual decoding framework combined with two-stage learning and asynchronous iterative update strategy",
+    "abstract": "Reconstructing visual stimulus information from evoked brain activity is a significant task of visual decoding of the human brain. However, due to the limited size of published functional magnetic resonance imaging (fMRI) datasets, it is difficult to adequately train a complex network with a large number of parameters. Furthermore, the dimensions of fMRI data in existing datasets are extremely high, and the signal-to-noise ratio of the data is relatively low. To address these issues, we design an fMRI-based visual decoding framework that incorporates additional self-supervised training on the encoder and decoder to alleviate the problem of insufficient model training due to limited datasets. Furthermore, we propose a iterative Two Part and Two Stage learning method involving a teacher (supervised)-student (self-supervised) setup and encoder-decoder asynchronous updates strategy. This approach allows the encoder and decoder to mutually reinforce and iteratively update each other under the guidance of a teacher model. The analysis of the ablation experiments demonstrates that the proposed framework can effectively improve the reconstruction accuracy. The experimental results show that the proposed method achieves better visual reconstruction from evoked brain activity of the human brain and that its reconstruction accuracy is superior to that of existing methods.",
+    "citation_count": 31,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "Zhang, Yuanyuan",
+            "country": "P. R. China"
+        },
+        {
+            "name": "Li, Xinyu",
+            "country": "P. R. China"
+        },
+        {
+            "name": "Liu, Baolin",
+            "country": "P. R. China"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

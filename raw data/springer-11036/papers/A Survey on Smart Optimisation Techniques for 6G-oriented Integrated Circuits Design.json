@@ -1,0 +1,35 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-024-02343-7",
+    "title": "A Survey on Smart Optimisation Techniques for 6G-oriented Integrated Circuits Design",
+    "abstract": "With the rapid development of next-generation wireless communications, there is a growing demand for high-quality integrated circuits (ICs), particularly analog ICs, which play a pivotal role for the full roll-out sixth-generation (6G) technology. So far, the IC design has been performed through manual approaches which sometimes results in time-consuming turnaround, especially the sizing phase of analog IC design. In order to make the IC design process much faster, recently automated methods for optimizing IC design has gained a lot of attention. From this perspective, this paper aims at providing a survey of the most recent works on optimization strategies for analog IC sizing, as well as a related categorization into two main categories: analytical methods and simulation-based methods. A further sub-classification within the realm of simulation-based methods is also provided by dividing the core mathematical principles into three major sub-methods: Bayesian-based, metaheuristic-based, and reinforcement-learning-based techniques. In addition, with the main aim of providing insights on the utilization of optimization algorithms for the IC sizing process, we present a case study involving the utilization of various metaheuristic algorithms in the design of a bandgap reference circuit - an essential analog IC component. The paper is concluded by highlighting potential future research directions in the field of analog IC design optimization and automation, which include exploration of multi-agent reinforcement learning, integration of quantum computing, and further development of full-flow automated tools for analog IC design.",
+    "citation_count": 68,
+    "year": "2023/12",
+    "authors": [
+        {
+            "name": "Nguyen, Thang Quoc",
+            "country": "Canada"
+        },
+        {
+            "name": "Hoang, Trang",
+            "country": "Vietnam"
+        },
+        {
+            "name": "Zhang, Lihong",
+            "country": "Vietnam"
+        },
+        {
+            "name": "Dobre, Octavia A.",
+            "country": "Canada"
+        },
+        {
+            "name": "Duong, Trung Q.",
+            "country": "Canada"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

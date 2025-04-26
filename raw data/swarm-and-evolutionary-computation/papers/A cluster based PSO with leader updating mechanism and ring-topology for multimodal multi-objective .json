@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650219300550",
+    "title": "A cluster based PSO with leader updating mechanism and ring-topology for multimodal multi-objective optimization",
+    "abstract": "In the multimodal multi-objective optimization problems (MMOPs), there exists more than one  Pareto optimal solutions  in the decision space corresponding to the same location on the  Pareto front  in the objective space. To solve the MMOPs, the designed algorithm is supposed to converge to the accurate and well-distributed Pareto front, and at the same time to search for the multiple Pareto optimal solutions in the decision space. This paper presents a new cluster based  particle swarm optimization  algorithm (PSO) with leader updating mechanism and ring-topology for solving MMOPs. Multiple subpopulations are formed by a new decision variable clustering method with the aim of searching for the multiple  Pareto optima  solutions and maintaining the diversity. Global-best PSO is employed for independent evolution of subpopulations, while local-best PSO with ring topology is used to enhance the information interaction among subpopulations. Seamlessly integrated, the proposed algorithm provides a good balance between exploration and exploitation. In addition, leader updating strategy is introduced to identify the best leaders in PSO. The performance of the proposed algorithm is compared with six state-of-the-art designs over 11 multimodal multi-objective optimization test functions. Experimental results demonstrate the effectiveness of the proposed algorithm.",
+    "citation_count": "118",
+    "year": "2019/11/01",
+    "authors": [
+        {
+            "name": "Weizheng Zhang",
+            "country": ""
+        },
+        {
+            "name": "Guoqing Li",
+            "country": ""
+        },
+        {
+            "name": "Weiwei Zhang",
+            "country": ""
+        },
+        {
+            "name": "Jing Liang",
+            "country": ""
+        },
+        {
+            "name": "Gary G. Yen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

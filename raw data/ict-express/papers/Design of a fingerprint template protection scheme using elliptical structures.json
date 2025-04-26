@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S240595952100045X",
+    "title": "Design of a fingerprint template protection scheme using elliptical structures",
+    "abstract": "Although biometric authentication is viewed as more prominent than password or token-based methodology in identity verification, biometric templates are vulnerable to attacks. This paper proposes a new approach for securing fingerprint templates using elliptical structures generated from the fingerprint minutiae. Authors generate a feature vector from the ellipse and will be projected onto a 3D-space to compute a binary string. The resultant binary string is transformed to frequency domain (DFT) and multiplied with a user specific random matrix to make it permanently non-invertible and secure. The results show the efficacy of the proposed method for protecting the fingerprints.",
+    "citation_count": "0",
+    "year": "2021/12/01",
+    "authors": [
+        {
+            "name": "Ilaiah Kavati",
+            "country": ""
+        },
+        {
+            "name": "A. Mallikarjuna Reddy",
+            "country": ""
+        },
+        {
+            "name": "E. Suresh Babu",
+            "country": ""
+        },
+        {
+            "name": "K. Sudheer Reddy",
+            "country": ""
+        },
+        {
+            "name": "Ramalinga Swamy Cheruku",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

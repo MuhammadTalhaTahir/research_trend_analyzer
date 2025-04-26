@@ -1,0 +1,26 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10617-017-9186-8",
+    "title": "A novel input data transition aware dynamic voltage scaling based low power MAC architecture for DSP applications",
+    "abstract": "A novel input transition aware dynamic voltage scaling based low power 8 bit Multiplier–Accumulator (MAC) architecture for Digital Signal Processing (DSP) has been presented in this paper. MAC is one of the main modules used in the various DSP applications like filtering, convolution and so on. The proposed input data transition aware dynamic voltage scaling is very effective method to minimize the dynamic power consumption without degrading the performance of the system. The input data transition detector circuit in the proposed low power MAC detects the transition and applies the dynamic voltage scaling adaptively so that the dynamic power is reduced to greater extent. The dynamic power consumed by the conventional MAC is 662.59&nbsp;mW when all inputs are switching and it is only 475.75&nbsp;mW for the proposed MAC with the same conditions. The proposed MAC consumes 28.19% less power than the conventional MAC for the same set of inputs and simulation environment.",
+    "citation_count": 20,
+    "year": "2017/12",
+    "authors": [
+        {
+            "name": "Haripriya, D.",
+            "country": "India"
+        },
+        {
+            "name": "Govindaraju, C.",
+            "country": "India"
+        },
+        {
+            "name": "Sumathi, M.",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

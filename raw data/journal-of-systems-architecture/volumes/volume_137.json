@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Editorial Board",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762123000450"
+    },
+    {
+        "title": "Facilitating hardware-aware neural architecture search with learning-based predictive models",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762123000176"
+    },
+    {
+        "title": "Stackelberg game-based task offloading and pricing with computing capacity constraint in mobile edge computing",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762123000267"
+    },
+    {
+        "title": "DVFS-based energy-aware scheduling of imprecise mixed-criticality real-time tasks",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762123000280"
+    },
+    {
+        "title": "A more efficient public-key authenticated encryption scheme with keyword search",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762123000188"
+    },
+    {
+        "title": "FedEntropy: Information-entropy-aided training optimization of semi-supervised federated learning",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762123000309"
+    },
+    {
+        "title": "MOPTIC-SM: Sleep mode-enabled multi-optimized intermittent computing for transiently powered systems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762123000292"
+    },
+    {
+        "title": "An energy-efficient cache replacement policy for ultra-dense racetrack memory",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762123000164"
+    },
+    {
+        "title": "Composable distributed real-time systems with deterministic network channels",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762123000322"
+    },
+    {
+        "title": "Blockchain-based auditing with data self-repair: From centralized system to distributed storage",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762123000334"
+    },
+    {
+        "title": "High-performance hard-input LDPC decoding on multi-core devices for optical space links",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762123000115"
+    },
+    {
+        "title": "Enabling memory access isolation in real-time cloud systems using Intel’s detection/regulation capabilities",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762123000279"
+    }
+]

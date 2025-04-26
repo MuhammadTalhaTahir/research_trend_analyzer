@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-005-9002-6",
+    "title": "Fast computation of arrival times in heterogeneous media",
+    "abstract": "We continue the work that was initiated in (K. H. Karlsen, K.-A. Lie, and N. H. Risebro. A fast marching method for reservoir simulation. Comp. Geo., 4(2) (2000)185–206) on a marching method for simulating two-phase incompressible immiscible flow of water and oil in a porous medium. We first present an alternative derivation of the marching method that reveals a strong connection to modern streamline methods. Then, through the study of three numerical test cases we present two deficiencies: (i) the original marching algorithm does not always compute the correct solution of the underlying difference equations, and (ii) the method gives largely inaccurate arrival times in the presence of large jumps within the upwind difference stencil. As a remedy of the first problem, we present a new advancing-front method, which is faster than the original marching method and guarantees a correct solution of the underlying discrete linear system. To cure the second problem, we present two adaptive strategies that avoid the use of finite-difference stencils containing large jumps in the arrival times. The original marching method was introduced as a fast tool for simulating two-phase flow scenarios in heterogeneous formations. The new advancing-front method has limited applicability in this respect, but may rather be used as a fast and relatively accurate method for computing arrival times and derived quantities in heterogeneous media.",
+    "citation_count": 17,
+    "year": "2005/12",
+    "authors": [
+        {
+            "name": "Berre, Inga",
+            "country": "Norway"
+        },
+        {
+            "name": "Karlsen, Kenneth Hvistendal",
+            "country": "Norway"
+        },
+        {
+            "name": "Lie, Knut-Andreas",
+            "country": "Norway"
+        },
+        {
+            "name": "Natvig, Jostein R.",
+            "country": "Norway"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

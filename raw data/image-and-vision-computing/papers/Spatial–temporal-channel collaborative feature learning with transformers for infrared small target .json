@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S026288562500023X",
+    "title": "Spatial–temporal-channel collaborative feature learning with transformers for infrared small target detection",
+    "abstract": "Infrared small target detection holds significant importance for real-world applications, particularly in military applications. However, it encounters several notable challenges, such as limited target information. Due to the localized characteristic of Convolutional Neural Networks (CNNs), most methods based on CNNs are inefficient in extracting and preserving global information, potentially leading to the loss of detailed information. In this work, we propose a transformer-based method named Spatial-Temporal-Channel collaborative feature learning network (STC). Recognizing the difficulty in detecting small targets solely based on spatial information, we incorporate temporal and channel information into our approach. Unlike the Vision Transformer used in other vision tasks, our STC comprises three distinct transformer encoders that extract spatial, temporal and channel information respectively, to obtain more accurate representations. Subsequently, a transformer decoder is employed to fuse the three attention features in a way that akin to human vision system. Additionally, we propose a new Semantic-Aware positional encoding method for video clips that incorporate temporal information into positional encoding and is scale-invariant. Through the multiple experiments and comparisons with current methods, we demonstrate the effectiveness of STC in addressing the challenges of infrared small target detection. Our source codes are available at  https://github.com/UESTC-nnLab/STC .",
+    "citation_count": "0",
+    "year": "2025/02/01",
+    "authors": [
+        {
+            "name": "Sicheng Zhu",
+            "country": ""
+        },
+        {
+            "name": "Luping Ji",
+            "country": ""
+        },
+        {
+            "name": "Shengjia Chen",
+            "country": ""
+        },
+        {
+            "name": "Weiwei Duan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

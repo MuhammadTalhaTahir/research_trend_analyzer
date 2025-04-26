@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650216304837",
+    "title": "Large-scale cooperative co-evolution using niching-based multi-modal optimization and adaptive fast clustering",
+    "abstract": "The  divide-and-conquer  problem-solving manner endows the cooperative co-evolutionary (CC) algorithms with a promising perspective for the large-scale global optimization (LSGO). However, by dividing a problem into several sub-components, the co-evolutionary information can be lost to some extent, which may lead to sub-optimization. Thus, information compensation is a crucial aspect of the design of efficient CC algorithms. This paper aims to  scale up  the information compensation for the LSGO. First, a niching-based multi-modal  optimization procedure  was introduced into the canonical CC framework to provide more informative collaborators for the sub-components. The information compensation was achieved with these informative collaborators, which is positive for the LSGO. Second, a simple but efficient clustering method was extended to run without manually setting the cut-off distance and identifying clusters. This clustering method, together with a simple scheme, was incorporated to prevent the combinational explosion when mixing the collaborator with a given individual to conduct the fitness evaluation. The effectiveness and superiority of the proposed algorithm were justified by a comprehensive experimental study that compared 8 state-of-the-art large-scale CC algorithms and 8 metaheuristic algorithms on two 1000-dimensional benchmark suites with 20 and 15 test functions, respectively.",
+    "citation_count": "40",
+    "year": "2017/08/01",
+    "authors": [
+        {
+            "name": "Xingguang Peng",
+            "country": ""
+        },
+        {
+            "name": "Yapei Wu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

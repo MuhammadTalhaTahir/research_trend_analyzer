@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-011-0229-7",
+    "title": "Iris recognition using shape-guided approach and game theory",
+    "abstract": "Most state-of-the-art iris recognition algorithms claim to perform with a very high recognition accuracy in a strictly controlled environment. However, their recognition accuracies significantly decrease when the acquired images are affected by different noise factors including motion blur, camera diffusion, head movement, gaze direction, camera angle, reflections, contrast, luminosity, eyelid and eyelash occlusions, and problems due to contraction and dilation. The novelty of this research effort is that we propose to apply a variational model to localize the iris region belonging to given shape space using active contour method, a geometric shape prior, and the Mumford–Shah functional. This variational model is robust against noise, poor localization and weak iris/sclera boundaries. Furthermore, we apply the Modified Contribution-Selection Algorithm (MCSA) for iris feature ranking based on the Multi-Perturbation Shapley Analysis (MSA), a framework which relies on cooperative game theory to estimate the effectiveness of the features iteratively and select them accordingly, using either forward selection or backward elimination approaches. The verification and identification performance of the proposed scheme is validated using the ICE 2005, the UBIRIS Version 1, the CASIA Version 3 Interval, and WVU Nonideal datasets.",
+    "citation_count": 52,
+    "year": "2011/11",
+    "authors": [
+        {
+            "name": "Roy, Kaushik",
+            "country": "Canada"
+        },
+        {
+            "name": "Bhattacharya, Prabir",
+            "country": "USA"
+        },
+        {
+            "name": "Suen, Ching Y.",
+            "country": "Canada"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

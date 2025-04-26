@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650221000699",
+    "title": "Finding all Pareto optimal paths by simulating ripple relay race in multi-objective networks",
+    "abstract": "This paper proposes a novel nature-inspired method, so-called ripple-spreading algorithm (RSA) for multi-objective path  optimization problem  (MOPOP). Unlike most existing methods mainly capable of finding partial or approximated  Pareto front , this paper focuses on calculating the complete Pareto front. This is achieved by taking advantage of the  optimality  principle in natural ripple-spreading phenomenon. Basically, the proposed RSA carries out a one-off ripple relay race in the route network, and then the complete Pareto front will be identified with guaranteed  optimality  by  backtracking  those Pareto non-dominated ripples (PNDRs) which reached the  destination node . Theoretical analyses and comprehensive experiments show that all complete Pareto fronts of a one-to-all MOPOP can also be found in just a single run of ripple relay race, and the reported method can be further extended to calculate all Pareto  optimal paths  in dynamical networks, which have rarely been touched by existing MOPOP methods. Since many real-world application problems can be converted into MOPOP, the reported method has a great potential of applications.",
+    "citation_count": "21",
+    "year": "2021/07/01",
+    "authors": [
+        {
+            "name": "Xiao-Bing Hu",
+            "country": ""
+        },
+        {
+            "name": "Sheng-Hao Gu",
+            "country": ""
+        },
+        {
+            "name": "Chi Zhang",
+            "country": ""
+        },
+        {
+            "name": "Gong-Peng Zhang",
+            "country": ""
+        },
+        {
+            "name": "Ming-Kong Zhang",
+            "country": ""
+        },
+        {
+            "name": "Mark S. Leeson",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

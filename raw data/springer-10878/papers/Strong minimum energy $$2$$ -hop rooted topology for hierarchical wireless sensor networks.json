@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-013-9683-z",
+    "title": "Strong minimum energy $$2$$ -hop rooted topology for hierarchical wireless sensor networks",
+    "abstract": "Given a set of sensors, the strong minimum energy topology (SMET) problem is to assign transmit power to each sensor such that the sum of the transmit powers of all the sensors is minimum subject to the constraint that the resulting topology containing only bidirectional links is strongly connected. This problem is known to be NP-hard. However, most of the wireless sensor networks are hierarchical in nature, where shorter path lengths are preferred for communication between any two nodes. Given a set of sensors and a specified sensor, say $$r$$ , the strong minimum energy $$2$$ -hop rooted topology problem ( $$2$$ h-SMERT) is to assign transmit power to each sensor such that the sum of the transmit powers of all the sensors is minimum subject to the constraints that the resulting topology containing only bidirectional links is strongly connected and the length of the path from $$r$$ to any other node is at most $$2$$ . We prove that the $$2$$ h-SMERT problem is NP-hard. We also prove that $$2$$ h-SMERT problem is APX-hard. We then show that $$2$$ h-SMERT problem is not approximable within a factor of $$\\frac{1}{2}(1-\\epsilon ) \\ln n$$ unless NP $$\\subseteq DTIME(n^{\\log \\log n})$$ . On the positive side, we propose a $$2(1+ \\ln n)$$ -approximation algorithm for the $$2$$ h-SMERT problem. We also study two special cases of the $$2$$ h-SMERT problem, namely, the $$d$$ -rest- $$2$$ h-SMERT problem and the $$k$$ -int- $$2$$ h-SMERT problem. We propose a $$2(1+ \\ln d)$$ -approximation algorithm for the $$d$$ -rest- $$2$$ h-SMERT problem. The $$k$$ -int- $$2$$ h-SMERT problem is NP-hard for arbitrary $$k$$ . However, for fixed constant $$k$$ , we propose a $$\\frac{k+1}{2}$$ -approximation algorithm for the $$k$$ -int- $$2$$ h-SMERT problem and obtain a polynomial time optimal algorithm for the $$k$$ -int- $$2$$ h-SMERT problem for $$k=2$$ .",
+    "citation_count": 15,
+    "year": "2015/11",
+    "authors": [
+        {
+            "name": "Panda, B. S.",
+            "country": "India"
+        },
+        {
+            "name": "Pushparaj Shetty, D.",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

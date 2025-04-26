@@ -1,0 +1,36 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1011573429996",
+    "title": "Pulsing of multiple nutrients as a strategy to achieve large biologically active zones during in situ carbon tetrachloride remediation",
+    "abstract": "When injecting nutrients during active bioremediation, various nutrient addition strategies can be employed in order to remediate the site at minimal expense. In particular, if more than one nutrient is required, a pulse addition strategy can be devised in which these nutrients are added as temporally separated pulses such that the biostimulated portion of the flow field can be maximized. In this manuscript, results of numerical simulations are reported which demonstrate this effect. Previously published kinetic expressions describing microbial growth and carbon tetrachloride degradation under denitrifying conditions are used in these simulations. The simulations indicate that volumetric treatment can be accomplished by injecting long duration nutrient pulses of different nutrients that are separated by a long period where only unamended water is injected. This strategy will cause the nutrient pulses to overlap at a considerable distance from the injection point, while maintaining concentrations that are high enough to ensure significantbiomass growth and contaminant destruction.",
+    "citation_count": 18,
+    "year": "1997/09",
+    "authors": [
+        {
+            "name": "Franzen, Marlee E.L.",
+            "country": "USA"
+        },
+        {
+            "name": "Petersen, James N.",
+            "country": "USA"
+        },
+        {
+            "name": "Clement, T. Prabhakar",
+            "country": "USA"
+        },
+        {
+            "name": "Hooker, Brian S.",
+            "country": "USA"
+        },
+        {
+            "name": "Skeen, Rodney S.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

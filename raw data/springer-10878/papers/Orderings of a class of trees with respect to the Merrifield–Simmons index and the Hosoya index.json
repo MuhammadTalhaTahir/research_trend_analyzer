@@ -1,0 +1,37 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-019-00447-5",
+    "title": "Orderings of a class of trees with respect to the Merrifield–Simmons index and the Hosoya index",
+    "abstract": "The Merrifield–Simmons index and the Hosoya index are two prominent molecular graph descriptors in mathematical chemistry. The Merrifield–Simmons index of a graph is defined as the total number of the independent sets of the graph and the Hosoya index of a graph is defined as the total number of the matchings of the graph. In this paper, the Merrifield–Simmons index and the Hosoya index of a class of trees $$ \\Gamma $$ are investigated, and their orderings and extremal trees with respect to these two topological indices are obtained, respectively.",
+    "citation_count": 28,
+    "year": "2019/11",
+    "authors": [
+        {
+            "name": "Tian, Wenwen",
+            "country": "China"
+        },
+        {
+            "name": "Zhao, Fei",
+            "country": "China"
+        },
+        {
+            "name": "Sun, Zheng",
+            "country": "China"
+        },
+        {
+            "name": "Mei, Xuesong",
+            "country": "China"
+        },
+        {
+            "name": "Chen, Guangde",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

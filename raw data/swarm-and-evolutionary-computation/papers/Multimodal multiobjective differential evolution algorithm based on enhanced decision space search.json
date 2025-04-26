@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224002207",
+    "title": "Multimodal multiobjective differential evolution algorithm based on enhanced decision space search",
+    "abstract": "Multimodal multiobjective optimization problems (MMOPs) have attracted extensive research interest. These problems are characterized by the presence of multiple equivalent optimal solutions in the decision space, all corresponding to the same optimal values in the objective space. However, effectively finding a high-quality and evenly distributed Pareto sets (PSs) remains a challenge for researchers. This paper introduces a multimodal multiobjective differential evolution algorithm based on enhanced decision space search (MMODE_EDSS). By adopting two types of strategies to enhance the decision space search capability, the algorithm generates multiple high-quality non-dominated solutions. In the early stages of evolution, neighborhood information is used to enhance search capabilities, while in the later stages, data interpolation methods following clustering are employed for searching. Moreover, to improve the overall population distribution, an environmental selection mechanism based on dual-space crowding distance is adopted. The effectiveness of the proposed algorithm, MMODE_EDSS, is evaluated by comparing it with eight state-of-the-art multimodal multiobjective evolutionary algorithms (MMOEAs). Experimental results confirm the significant advantages of MMODE_EDSS.",
+    "citation_count": "3",
+    "year": "2024/10/01",
+    "authors": [
+        {
+            "name": "Jing Liang",
+            "country": ""
+        },
+        {
+            "name": "Xudong Sui",
+            "country": ""
+        },
+        {
+            "name": "Caitong Yue",
+            "country": ""
+        },
+        {
+            "name": "Mingyuan Yu",
+            "country": ""
+        },
+        {
+            "name": "Guang Li",
+            "country": ""
+        },
+        {
+            "name": "Mengmeng Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

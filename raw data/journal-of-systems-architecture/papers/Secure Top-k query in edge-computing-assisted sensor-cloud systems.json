@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121001685",
+    "title": "Secure Top-k query in edge-computing-assisted sensor-cloud systems",
+    "abstract": "Sensor cloud provides a new way for the owners of different WSNs (Wireless Sensor Networks) to share their data to other parties (users/organizations). The edge-computing-assisted sensor-cloud systems (EC-assisted SCSs) can even supply real-time services for different parties. However, both the edge servers and the cloud servers in the systems are prone to be attacked in insecure network environments, since they are the bridges connecting both the end users and the WSNs in EC-assisted SCSs and attacking the servers can bring much more benefits for the attackers than just compromising some  sensor nodes . In this paper, the problem of secure Top- k  query in EC-assisted SCSs was studied, considering that non-trusted edge servers and non-trusted cloud servers exist in the systems, and a novel scheme was proposed to solve the problem. To achieve  privacy preservation  of the sensed  data items  and their scores, a secure key distribution protocol was designed, and some data-processing or  integrity verification  algorithms were also developed in the proposed scheme to preserve the data integrity of the query results. Thorough security analyses and extensive simulations show that the proposed scheme is efficient and secure, and it is perfectly fit for Top- k  query in EC-assisted SCSs.",
+    "citation_count": "3",
+    "year": "2021/10/01",
+    "authors": [
+        {
+            "name": "Jie Min",
+            "country": ""
+        },
+        {
+            "name": "Xiaoyan Kui",
+            "country": ""
+        },
+        {
+            "name": "Junbin Liang",
+            "country": ""
+        },
+        {
+            "name": "Xingpo Ma",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

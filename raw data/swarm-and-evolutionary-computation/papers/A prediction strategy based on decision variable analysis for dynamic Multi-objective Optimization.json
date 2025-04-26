@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650220304399",
+    "title": "A prediction strategy based on decision variable analysis for dynamic Multi-objective Optimization",
+    "abstract": "Many multi-objective optimization problems in reality are dynamic, requiring the optimization algorithm to quickly track the moving optima after the environment changes. Therefore, response strategies are often used in dynamic multi-objective algorithms to find Pareto optimal. In this paper, we propose a hybrid prediction strategy based on the classification of decision variables, which consists of three steps. After detecting the environment change, the first step is to analyze the influence of each decision variable on individual convergence and distribution in the new environment. The second step is to adopt different prediction methods for different decision variables. Finally, adaptive selection is applied to the solution set generated in the first and second steps, and solutions with good convergence and diversity are selected to make the initial population more adaptable to the new environment. The prediction strategy can help the solution set converge while maintaining its diversity. The experimental results and performance show that the proposed algorithm is capable of significantly improving the dynamic optimization performance compared with five state-of-the-art  evolutionary algorithms .",
+    "citation_count": "52",
+    "year": "2021/02/01",
+    "authors": [
+        {
+            "name": "Jinhua Zheng",
+            "country": ""
+        },
+        {
+            "name": "Yubing Zhou",
+            "country": ""
+        },
+        {
+            "name": "Juan Zou",
+            "country": ""
+        },
+        {
+            "name": "Shengxiang Yang",
+            "country": ""
+        },
+        {
+            "name": "Junwei Ou",
+            "country": ""
+        },
+        {
+            "name": "Yaru Hu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

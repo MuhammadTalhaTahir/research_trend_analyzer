@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650220304570",
+    "title": "A distributed heterogeneous permutation flowshop scheduling problem with lot-streaming and carryover sequence-dependent setup time",
+    "abstract": "We solve a distributed permutation  flowshop scheduling  problem (DPFSP) with non-identical factories, which is also referred to as the distributed heterogeneous permutation flowshop scheduling problem (DHPFSP). Stemming from the practical demands, we introduce the lot-streaming and carryover sequence-dependent setup time into our problem, both of which have not been previously studied under the DPFSP environment. The objective is to minimize the makespan among factories. To address this problem, we first present a mixed integer linear model. Next, we develop five constructive heuristics to find high-quality solutions in a timely manner. Moreover, we propose an enhanced artificial bee colony algorithm (NEABC). In the NEABC, an initialization method with strong intensification is proposed to generate promising  swarm . Then, a collaboration mechanism among individuals is presented in the onlooker bee stage to improve the search capability. Besides, a restart strategy is designed in the scout bee stage with the consideration of the special onlooker bee stage of the algorithm. Comprehensive experiments based on instances with a wide range of scales are carried out and the results prove the validity of presented algorithms for the problem under study.",
+    "citation_count": "111",
+    "year": "2021/02/01",
+    "authors": [
+        {
+            "name": "Tao Meng",
+            "country": ""
+        },
+        {
+            "name": "Quan-Ke Pan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

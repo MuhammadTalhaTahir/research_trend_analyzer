@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224002426",
+    "title": "Failure-aware resource provisioning for hybrid computation offloading in cloud-assisted edge computing using gravity reference approach",
+    "abstract": "This paper tackles the challenges of computation offloading in the cloud–edge paradigm. Although many solutions exist for enhancing the server’s computational and communication efficiency, they mainly focus on reducing latency and often neglect the impact of overlapping multi-request processing on scheduling reliability. Additionally, these approaches do not account for the preemptive characteristics of applications running in the VMs that lead to higher energy consumption. We propose a novel hybrid integer multi-objective dynamic decision-making approach enhanced with the gravity reference point method. This method determines the proportion of computations executed on cloud servers versus those handled locally on edge servers. Our hybrid approach leverages the gravitational potential reference point and crowding degrees to improve the characteristics of whale populations, addressing the limitations of the traditional whale algorithm, which depends on individual whales’ varying foraging behaviors influenced by a random probability number. By evaluating the crowding level around the prey, the foraging behavior of individual whales is adjusted to enhance the algorithm’s convergence speed and optimization accuracy, thereby increasing its reliability. The results show that our hybrid computation offloading model significantly improves time latency by 76.45%, energy efficiency by 63.12%, reliability by 82%, quality of service by 83.78%, distributor throughput by 87.31%, asset availability by 73.05%, and guarantee ratio by 89.72% compared to traditional offloading methods.",
+    "citation_count": "4",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Mustafa Ibrahim Khaleel",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

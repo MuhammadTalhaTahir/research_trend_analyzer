@@ -1,0 +1,43 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-012-0387-x",
+    "title": "A New Cooperative Spectrum Sensing Scheme for Cognitive Ad-Hoc Networks",
+    "abstract": "As the radio spectrum is becoming more and more crowded, cognitive radio has recently become a hot research topic to improve the spectrum utilization efficiency. It is well known that the success of cognitive radio depends heavily on fast and efficient spectrum sensing that is very difficult in practice. Toward this end, this paper introduces a new guard-resident cooperative spectrum sensing scheme for a cognitive ad-hoc network. In particular, we classify cognitive nodes as either resident or guard based on the spectrum neighbor decision and distributed boundary search. The guard nodes sense the spectrum and then inform the resident nodes that are greatly relieved from spectrum sensing about the radio environmental changes. The analysis and simulation results show that the proposed algorithm can significantly reduce the total spectrum sensing load without sacrificing the sensing accuracy.",
+    "citation_count": 22,
+    "year": "2012/12",
+    "authors": [
+        {
+            "name": "Du, Yang",
+            "country": "China"
+        },
+        {
+            "name": "Li, Hongxiang",
+            "country": "USA"
+        },
+        {
+            "name": "Lin, Weiyao",
+            "country": "China"
+        },
+        {
+            "name": "Liu, Lingjia",
+            "country": "USA"
+        },
+        {
+            "name": "Wang, Xudong",
+            "country": "China"
+        },
+        {
+            "name": "Khan, Samee U.",
+            "country": "USA"
+        },
+        {
+            "name": "Wu, Sentang",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

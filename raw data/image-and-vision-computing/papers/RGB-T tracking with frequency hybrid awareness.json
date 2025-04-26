@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624004359",
+    "title": "RGB-T tracking with frequency hybrid awareness",
+    "abstract": "Recently, impressive progress has been made with transformer-based RGB-T trackers due to the transformer’s effectiveness in capturing low-frequency information (i.e., high-level semantic information). However, some studies have revealed that the transformer exhibits limitations in capturing high-frequency information (i.e., low-level texture and edge details), thereby restricting the tracker’s capacity to precisely match target details within the search area. To address this issue, we propose a frequency hybrid awareness modeling RGB-T tracker, abbreviated as FHAT. Specifically, FHAT combines the advantages of convolution and maximum pooling in capturing high-frequency information on the architecture of transformer. In this way, it strengthens the high-frequency features and enhances the model’s perception of detailed information. Additionally, to enhance the complementary effect between the two modalities, the tracker utilizes low-frequency information from both modalities for modality interaction, which can avoid interaction errors caused by inconsistent local details of the multimodality. Furthermore, these high-frequency information and interaction low-frequency information will then be fused, allowing the model to adaptively enhance the frequency features of the modal expression. Through extensive experiments on two mainstream RGB-T tracking benchmarks, our method demonstrates competitive performance.",
+    "citation_count": "0",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Lei Lei",
+            "country": ""
+        },
+        {
+            "name": "Xianxian Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

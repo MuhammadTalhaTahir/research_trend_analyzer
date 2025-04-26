@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S026288561500013X",
+    "title": "Precise localization of eye centers in low resolution color images",
+    "abstract": "The localization of eye centers and tracking of gaze constitutes an integral component of many human–computer interaction applications. A number of constraints including intrusiveness, mobility, robustness and high-price of eye tracking systems have hindered the way of the integration of eye trackers in everyday applications. Several ‘passive’ systems based on a single camera have been lately proposed in the literature, exhibiting though subordinate precision compared to the commercial, hardware-based eye tracking devices. In this paper we introduce an automatic, non-intrusive method for precise eye center localization in  low resolution images , acquired from single low-cost cameras. To this end, the proposed system uses color information to derive a novel  eye map  that emphasizes the iris area and a  radial symmetry  transform which operates both on the original eye images and the  eye map . The performance of the proposed method is extensively evaluated on four publicly available databases containing  low resolution images  and videos. Experimental results demonstrate great accuracy in challenging cases and resilience to pose and  illumination variations , achieving significant improvement over existing methods.",
+    "citation_count": "40",
+    "year": "2015/04/01",
+    "authors": [
+        {
+            "name": "Evangelos Skodras",
+            "country": ""
+        },
+        {
+            "name": "Nikos Fakotakis",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

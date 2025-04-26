@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224001287",
+    "title": "The SVD-enhanced bees algorithm, a novel procedure for point cloud registration",
+    "abstract": "Point cloud registration entails the estimation of the rigid transformation which best aligns two point sets. At present, Iterative Closest Point is arguably the best-known and one of the most effective algorithms for point cloud registration. Iterative Closest Point uses  singular value decomposition  to optimise the alignment of two point sets via  least squares  fit. However, the algorithm is liable to converge to sub-optimal solutions due to its greedy search strategy. In this study, the problem of point cloud registration is addressed using the popular Bees Algorithm metaheuristic. Thanks to its global search strategy, the Bees Algorithm is known to be impervious to sub-optimal convergence. Singular value decomposition is used as a problem-specific operator within the Bees Algorithm to improve the efficiency of the search. Experimental tests showed that the standard Bees Algorithm outperformed Iterative Closest Point, an Evolutionary Algorithm, and  Particle Swarm Optimisation  in terms of consistency and precision of the point cloud registration results. The Bees Algorithm also excelled for its robustness to noisy data. When enhanced by singular value decomposition, the Bees Algorithm outperformed the standard Bees Algorithm, and similarly enhanced evolutionary and  particle swarm  optimisers. The running times of the proposed method were compatible with online implementation. It is concluded that the proposed combination of bees-inspired optimisation and least squares fitting allows accurate, efficient, and consistent registration of point cloud models.",
+    "citation_count": "3",
+    "year": "2024/07/01",
+    "authors": [
+        {
+            "name": "Feiying Lan",
+            "country": ""
+        },
+        {
+            "name": "Marco Castellani",
+            "country": ""
+        },
+        {
+            "name": "Senjing Zheng",
+            "country": ""
+        },
+        {
+            "name": "Yongjing Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

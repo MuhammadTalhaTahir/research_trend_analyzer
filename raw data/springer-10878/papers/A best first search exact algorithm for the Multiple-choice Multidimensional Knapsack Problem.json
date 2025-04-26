@@ -1,0 +1,21 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-006-9035-3",
+    "title": "A best first search exact algorithm for the Multiple-choice Multidimensional Knapsack Problem",
+    "abstract": "In this paper, we propose an optimal algorithm for the Multiple-choice Multidimensional Knapsack Problem MMKP. The main principle of the approach is twofold: (i) to generate an initial feasible solution as a starting lower bound, and (ii) at different levels of the search tree to determine an intermediate upper bound obtained by solving an auxiliary problem called MMKPaux and perform the strategy of fixing items during the exploration. The approach which we develop is of best-first search strategy. The method was able to optimally solve the MMKP. The performance of the exact algorithm is evaluated on a set of small and medium instances, some of them are extracted from the literature and others are randomly generated. This algorithm is parallelizable and it is one of its important feature.",
+    "citation_count": 23,
+    "year": "2007/05",
+    "authors": [
+        {
+            "name": "Sbihi, Abdelkader",
+            "country": "United Kingdom"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

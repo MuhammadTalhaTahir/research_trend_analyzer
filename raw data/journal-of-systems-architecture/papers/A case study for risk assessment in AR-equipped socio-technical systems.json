@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121001715",
+    "title": "A case study for risk assessment in AR-equipped socio-technical systems",
+    "abstract": "Augmented Reality (AR) technologies are used as human–machine interface within various types of safety-critical systems. Several studies have shown that AR improves human performance. However, the introduction of AR might introduce risks due to new types of dependability threats. In order to avoid unreasonable risk, it is required to detect new types of dependability threats (faults, errors, failures). In our previous work, we have designed extensions for the SafeConcert metamodel (a metamodel for modeling socio-technical systems) to capture AR-related dependability threats (focusing on faults and failures). Despite the availability of various modeling techniques, there has been no detailed investigation of providing an integrated framework for risk assessment in AR-equipped socio-technical systems. Hence, in this paper, we provide an integrated framework based on our previously proposed extensions. In addition, in cooperation with our industrial partners, active in the automotive domain, we design and execute a case study. We aim at verifying the modeling and analysis capabilities of our framework and finding out if the proposed extensions are helpful in capturing system risks caused by new AR-related dependability threats. Our conducted qualitative analysis is based on the Concerto-FLA analysis technique, which is included in the CHESS toolset and targets socio-technical systems.",
+    "citation_count": "0",
+    "year": "2021/10/01",
+    "authors": [
+        {
+            "name": "Soheila Sheikh Bahaei",
+            "country": ""
+        },
+        {
+            "name": "Barbara Gallina",
+            "country": ""
+        },
+        {
+            "name": "Marko Vidović",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

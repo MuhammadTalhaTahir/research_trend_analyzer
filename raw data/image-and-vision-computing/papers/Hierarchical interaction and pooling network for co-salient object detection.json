@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623000215",
+    "title": "Hierarchical interaction and pooling network for co-salient object detection",
+    "abstract": "Co-salient object detection (CoSOD) aims to detect common and salient objects across the given image group. Due to the particularity of CoSOD, images in the given group are processed synergistically to excavate the relevance between them. Inspired by the tracking methods, previous works tend to utilize pixel-wise correspondences to measure the relevance. However, because of the complexity of the image groups, the obtained feature maps could be easily affected by the common interference. Moreover, current works tend to utilize classification labels to ensure intra-group coherence and inter-group separability, which may cause some overfitting problems. In this paper, we propose the hierarchical interaction and pooling network to alleviate the above problems. We first design a pyramid pooling interaction module and perform convolution with dimension permutation, making full use of convolution and multi-receptive field information. We further propose the coherence confirmation module along with the four-branch architecture. Without the classification labels, the module achieves comparable or even better performance. Extensive experiments demonstrate that the proposed method can detect common and salient objects more accurately and achieves the new state-of-the-art.",
+    "citation_count": "2",
+    "year": "2023/04/01",
+    "authors": [
+        {
+            "name": "Yu Wang",
+            "country": ""
+        },
+        {
+            "name": "Shuxiao Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

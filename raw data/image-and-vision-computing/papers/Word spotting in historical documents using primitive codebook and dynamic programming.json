@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885615001122",
+    "title": "Word spotting in historical documents using primitive codebook and dynamic programming",
+    "abstract": "Word searching and indexing in historical document collections are a challenging problem because text characters are often touching or broken due to degradation or aging effects. In this paper, we present a novel approach towards word spotting using text line decomposition into character primitives and string matching. The text lines are initially separated by a  segmentation process . Then each text line is described as sequences of primitive labels which correspond to single characters or parts of characters. These representative primitives are considered from a codebook of shapes generated from training pages taken from the collection. During indexation, the text lines are transcribed into strings of primitives in off-line stage and stored in files. For this purpose, an efficient indexation strategy using multi-label approach is used by a combination of two-level analysis of the primitives: coarse and fine levels. During retrieval, the query word image is encoded into strings of coarse and fine primitives chosen according to the codebook. Finally, a  dynamic programming  method based on approximate string matching is used to find similar primitive sequences in the text lines from the collection in runtime. We present the experimental evaluation on datasets of real life  document images , gathered from historical books of different scripts. Experimental results show that the method is robust in searching text in noisy documents.",
+    "citation_count": "15",
+    "year": "2015/12/01",
+    "authors": [
+        {
+            "name": "Partha Pratim Roy",
+            "country": ""
+        },
+        {
+            "name": "Frédéric Rayar",
+            "country": ""
+        },
+        {
+            "name": "Jean-Yves Ramel",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124001590",
+    "title": "A revocable and comparable attribute-based signature scheme from lattices for IoMT",
+    "abstract": "The Internet of Medical Things (IoMT) refers to the utilization of the Internet of Things (IoT) technology in the healthcare industry. Access control is particularly important for IoMT due to the sensitive nature of patient data, such as  electronic health records  (EHR). Although fine-grained access control can be achieved by attribute-based signature (ABS), existing ABS schemes lacks the ability to provide range comparison access policy in which patients can check whether the attribute value is within a certain range. In addition, the dynamic change of doctors’ permissions and the development of quantum technology also require that ABS can provide user  revocation  and resist quantum attacks. In order to solve these problems and make ABS schemes for IoMT more useful and more secure, we come up with a novel revocable and comparable ABS (RC-ABS) from lattices for IoMT, enabling fine-grained access control, attribute range comparison, and user revocation. First of all, we provide a proof of the unforgeability of our scheme in the standard model (SM) under the selective user revocation list semi-adaptive attribute adaptive message attack, which can resist attacks by semi-honest adversaries and prevent adversaries from attacking the weaknesses of hash functions in IoMT. Furthermore, our ABS scheme leverages the small  integer solution  problem (SIS) to effectively defends against  quantum algorithm  attacks. Finally, detailed performance analysis demonstrates that our solution not only possesses enhanced security features and functionalities, such as revocability,  comparability , and resistance against quantum attacks, but also maintains a constant computation cost of user revocation, making it more efficient compared to other revocation schemes.",
+    "citation_count": "3",
+    "year": "2024/09/01",
+    "authors": [
+        {
+            "name": "Liu Liu",
+            "country": ""
+        },
+        {
+            "name": "Chingfang Hsu",
+            "country": ""
+        },
+        {
+            "name": "Man Ho Au",
+            "country": ""
+        },
+        {
+            "name": "Lein Harn",
+            "country": ""
+        },
+        {
+            "name": "Jianqun Cui",
+            "country": ""
+        },
+        {
+            "name": "Zhuo Zhao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

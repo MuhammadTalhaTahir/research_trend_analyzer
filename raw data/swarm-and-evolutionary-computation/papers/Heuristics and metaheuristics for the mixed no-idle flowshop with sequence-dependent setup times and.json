@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S221065021930608X",
+    "title": "Heuristics and metaheuristics for the mixed no-idle flowshop with sequence-dependent setup times and total tardiness minimisation",
+    "abstract": "This paper analyses the mixed no-idle flowshop scheduling problem by adding the sequence-dependent setup times constraint and focusing on minimising the total tardiness criterion. In the mixed no-idle flowshop environment, machines that allow idleness, and also those that do not, coexist. In this paper, an extension of this problem in which dependent setup times are included in machines that permit idleness is studied. In order to do so, a mixed integer linear programming (MILP) model is developed. Furthermore, a method to assess the total tardiness of a permutation sequence is provided. Moreover, a partial acceleration method is devised so as to compute the total tardiness in an insertion neighbourhood. Since this problem has not yet been studied in the literature, this research adapted the best known heuristics and metaheuristics available from related problems. Moreover, a new heuristic was developed in order to provide an efficient solving mechanism for the problem. The proposed heuristic was incorporated in the best metaheuristics found in the literature. The adapted methods, as well as our proposal, were tested and compared through statistical and computational experimentation in an extensive benchmark. The MILP was also evaluated and the optimal solutions were compared to those found by the new proposed heuristic. The results show that the proposed heuristic perform extremely well in terms of solution quality and computational efficiency, providing near optimal solutions in some cases.",
+    "citation_count": "21",
+    "year": "2020/06/01",
+    "authors": [
+        {
+            "name": "Fernando Luis Rossi",
+            "country": ""
+        },
+        {
+            "name": "Marcelo Seido Nagano",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

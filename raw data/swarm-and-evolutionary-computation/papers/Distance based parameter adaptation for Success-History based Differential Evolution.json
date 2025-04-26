@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218303043",
+    "title": "Distance based parameter adaptation for Success-History based Differential Evolution",
+    "abstract": "This paper proposes a simple, yet effective, modification to scaling factor and crossover rate adaptation in Success-History based Adaptive Differential Evolution (SHADE), which can be used as a framework to all SHADE-based algorithms. The performance impact of the proposed method is shown on the real-parameter single objective optimization (CEC2015 and CEC2017) benchmark sets in 10, 30, 50, and 100 dimensions for all SHADE, L-SHADE (SHADE with linear decrease of population size), and jSO algorithms. The proposed distance based parameter adaptation is designed to address the premature convergence of SHADE–based algorithms in higher dimensional search spaces to maintain a longer exploration phase. This design effectiveness is supported by presenting a population clustering analysis, along with a population diversity measure. Also, the new distance based algorithm versions (Db_SHADE, DbL_SHADE, and DISH) have obtained significantly better optimization results than their canonical counterparts (SHADE, L_SHADE, and jSO) in 30, 50, and 100 dimensional functions.",
+    "citation_count": "117",
+    "year": "2019/11/01",
+    "authors": [
+        {
+            "name": "Adam Viktorin",
+            "country": ""
+        },
+        {
+            "name": "Roman Senkerik",
+            "country": ""
+        },
+        {
+            "name": "Michal Pluhacek",
+            "country": ""
+        },
+        {
+            "name": "Tomas Kadavy",
+            "country": ""
+        },
+        {
+            "name": "Ales Zamuda",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

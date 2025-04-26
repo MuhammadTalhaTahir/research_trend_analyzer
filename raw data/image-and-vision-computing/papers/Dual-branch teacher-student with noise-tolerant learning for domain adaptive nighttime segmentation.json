@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003160",
+    "title": "Dual-branch teacher-student with noise-tolerant learning for domain adaptive nighttime segmentation",
+    "abstract": "While significant progress has been achieved in the field of image semantic segmentation, the majority of research has been primarily concentrated on daytime scenes. Semantic segmentation of nighttime images is equally critical for autonomous driving; however, this task presents greater challenges due to inadequate lighting and difficulties associated with obtaining accurate manual annotations. In this paper, we introduce a novel method called the Dual-Branch Teacher-Student (DBTS) framework for unsupervised nighttime semantic segmentation. Our approach combines domain alignment and knowledge distillation in a mutually reinforcing manner. Firstly, we employ a photometric alignment module to dynamically generate target-like latent images, bridging the appearance gap between the source domain (daytime) and the target domain (nighttime). Secondly, we establish a dual-branch framework, where each branch enhances collaboration between the teacher and student networks. The student network utilizes adversarial learning to align the target domain with another domain (i.e., source or latent domain), while the teacher network generates reliable pseudo-labels by distilling knowledge from the latent domain. Furthermore, recognizing the potential noise present in pseudo-labels, we propose a noise-tolerant learning method to mitigate the risks associated with overreliance on pseudo-labels during domain adaptation. When evaluated on benchmark datasets, the proposed DBTS achieves state-of-the-art performance. Specifically, DBTS, using different backbones, outperforms established baseline models by approximately 25% in mIoU on the Zurich dataset and by over 26% in mIoU on the ACDC dataset, demonstrating the effectiveness of our method in addressing the challenges of domain-adaptive nighttime segmentation.",
+    "citation_count": "0",
+    "year": "2024/10/01",
+    "authors": [
+        {
+            "name": "Ruiying Chen",
+            "country": ""
+        },
+        {
+            "name": "Yunan Liu",
+            "country": ""
+        },
+        {
+            "name": "Yuming Bo",
+            "country": ""
+        },
+        {
+            "name": "Mingyu Lu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

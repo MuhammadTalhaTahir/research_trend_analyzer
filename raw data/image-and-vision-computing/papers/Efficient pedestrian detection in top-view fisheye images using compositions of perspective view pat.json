@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885620302018",
+    "title": "Efficient pedestrian detection in top-view fisheye images using compositions of perspective view patches",
+    "abstract": "Pedestrian detection in images is a topic that has been studied extensively, but existing detectors designed for perspective images do not perform as successfully on images taken with top-view fisheye cameras, mainly due to the orientation variation of people in such images. In our proposed approach, several perspective views are generated from a fisheye image and then concatenated to form a composite image. As pedestrians in this composite image are more likely to be upright, existing detectors designed and trained for perspective images can be applied directly without additional training. We also describe a new method of mapping detection  bounding boxes  from the perspective views to the fisheye frame. The detection performance on several public datasets compare favorably with state-of-the-art results.",
+    "citation_count": "31",
+    "year": "2021/01/01",
+    "authors": [
+        {
+            "name": "Sheng-Ho Chiang",
+            "country": ""
+        },
+        {
+            "name": "Tsaipei Wang",
+            "country": ""
+        },
+        {
+            "name": "Yi-Fu Chen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

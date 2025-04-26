@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-022-00875-w",
+    "title": "Private non-monotone submodular maximization",
+    "abstract": "We propose a private algorithm for the problem of maximizing a submodular but not necessary monotone set function over a down-closed family of sets. The constraint is very general since it includes some important and typical constraints such as knapsack and matroid constraints. Our algorithm Differentially Private Measure Continuous Greedy is proved to be $${\\mathcal {O}}(\\epsilon )$$ -differential private. For the multilinear relaxation of the above problem, it yields $$\\left( Te^{-T}-o(1)\\right) $$ -approximation guarantee with additive error $${\\mathcal {O}}\\left( \\frac{2\\varDelta }{\\epsilon n^4}\\right) $$ , where $$T\\in [0,1]$$ is the stopping time of the algorithm, $$\\varDelta $$ is the defined sensitivity of the objective function, which is associated to a sensitive dataset, and n is the size of the given ground set. For a specific matroid constraint, we could obtain a discrete solution with near 1/e-approximation guarantee and same additive error by lossless rounding technique. Besides, our algorithm can be also applied in monotone case. The approximation guarantee is $$\\left( 1-e^{-T}-o(1)\\right) $$ when the submodular set function is monotone. Furthermore, we give a conclusion in terms of the density of the relaxation constraint, which is always at least as good as the tight bound $$(1-1/e)$$ .",
+    "citation_count": 35,
+    "year": "2022/12",
+    "authors": [
+        {
+            "name": "Sun, Xin",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Li, Gaidi",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Zhang, Yapu",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Zhang, Zhenning",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

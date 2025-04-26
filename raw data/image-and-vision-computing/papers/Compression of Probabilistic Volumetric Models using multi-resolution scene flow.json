@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885617301014",
+    "title": "Compression of Probabilistic Volumetric Models using multi-resolution scene flow",
+    "abstract": "This paper presents a novel method to estimate dense scene flow using volumetric and probabilistic 3-d models. The method first reconstructs 3-d models at each time step using images synchronously captured from multiple views. Then, the 3-d motion between two consecutive 3-d models is estimated using a formulation that is the analog of Horn and Schunck's optical flow method. This particular choice of 3-d model representation allows estimating highly dense scene flow results, tracking of surfaces undergoing topological change and reliably recovering large motion displacements. The benefits of the method and the accuracy of 3-d flow results are demonstrated on recent multi-view datasets. The second goal of this work is to compress and reconstruct 3-d scenes at various time points using the estimated flow. A new method of scene warping is proposed that involves partitioning the  optical flow field  in regions of coherent motion which are subsequently parametrized by affine transformations. The compression objective of this work is achieved by the low storage requirements of the affine parameters that describe the  optical flow field  and the efficient reconstruction method through warping.",
+    "citation_count": "0",
+    "year": "2017/08/01",
+    "authors": [
+        {
+            "name": "Octavian Biris",
+            "country": ""
+        },
+        {
+            "name": "Ali O. Ulusoy",
+            "country": ""
+        },
+        {
+            "name": "Joseph L. Mundy",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217302419",
+    "title": "A niche GSA method with nearest neighbor scheme for multimodal optimization",
+    "abstract": "In this paper, a new niching method based on Gravitational Search Algorithm (GSA) is proposed in which species are formed within the population (swarm) based on a nearest neighbor (NN) scheme. Also, we suggest a scheme to detect the niches inside the population by using the hill valley algorithm without the need of a  pairwise comparison  between any pair of solutions inside the population. In order to improve the exploitation capability of the proposed niching method, the formed species are balanced such that they are forced to have almost equal number of members. This mechanism enables the species to explore more optima via diversity conservation in the swarm. Experimental results of using several multimodal benchmark functions confirm the effectiveness of the proposed niching scheme compared to well-known existing niching methods.",
+    "citation_count": "37",
+    "year": "2017/08/01",
+    "authors": [
+        {
+            "name": "Pourya Haghbayan",
+            "country": ""
+        },
+        {
+            "name": "Hossein Nezamabadi-pour",
+            "country": ""
+        },
+        {
+            "name": "Shima Kamyab",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

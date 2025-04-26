@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885622002438",
+    "title": "Feature enhancement network for stereo matching",
+    "abstract": "In general  stereo matching  methods, there are mainly two kinds of weaknesses: the interior of large objects with unclear texture; object boundaries and small objects. One of the reasons for the first case is the underuse of inter-feature and intra-feature contexts, leading to the lack of  discriminability  of feature representations. And the second case could be caused result from the loss of fine-grained structural information in the features. In this work, we present a novel  stereo matching  network to enhance the feature representations, which contains two prominent components: pyramid context  enhancement module  and cross-modal enhancement module. Pyramid context enhancement module first constructs multi-scale pyramid features to promote global representation, and then exploits the inter-feature and intra-feature contextual information to improve the discriminability of features. Cross-modal enhancement module proactively degrades features of  RGB image  and  disparity map  to implicitly extract structures, and fuses both structures to recover the modal consistent structural information of features. Moreover, we design a disparity weight loss function which can calculates the adaptive weight according to prediction error to balance the loss response. Extensive experiments demonstrate that our method boosts the performance, and achieves better results on five challenging datasets than other typical methods. Code is available at:  https://github.com/csl1994/FENet .",
+    "citation_count": "7",
+    "year": "2023/02/01",
+    "authors": [
+        {
+            "name": "Shenglun Chen",
+            "country": ""
+        },
+        {
+            "name": "Hong Zhang",
+            "country": ""
+        },
+        {
+            "name": "Baoli Sun",
+            "country": ""
+        },
+        {
+            "name": "Haojie Li",
+            "country": ""
+        },
+        {
+            "name": "Xinchen Ye",
+            "country": ""
+        },
+        {
+            "name": "Zhihui Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

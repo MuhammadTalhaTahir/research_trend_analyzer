@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218300683",
+    "title": "Information exchange based clustered differential evolution for constrained generation-transmission expansion planning",
+    "abstract": "Proper investments for expansion of generation, transmission and distribution systems in an  electric grid  is a very important issue that rely on optimal expansion planning of the  grid resources . Investments on  transmission network  influence those in generation and distribution side which motivates a co-optimization of all these different resources of a grid. The co-optimization based Generation - Transmission Expansion planning is a large scale, constrained, hard bound  optimization problem . This research article proposes an Information exchange based Clustered  Differential Evolution algorithm  (IE-CDE) for solving the problem of expansion planning of generation and transmission resources in an electric grid. The proposed algorithm is first tested extensively on the CEC 2017  constrained optimization  benchmark problems and the results are compared with those obtained by state-of-the art algorithms to investigate the efficiency of the proposed algorithm in solving challenging  constrained optimization  problems. Then the proposed algorithm IE-CDE is used to solve the challenging Generation-Transmission expansion planning problem (GT) on a test system called Garver system. The implementation is also extended to incorporate the expansion planning of demand management resources along with generation and transmission resources (GTD) on the same test system mentioned before as well as an additional one called IEEE 24 bus system. The results obtained by proposed IE-CDE on the GT and GTD expansion planning problems are compared with state of the art algorithms in the literature and the comparison reveal that the proposed method is able to find better solutions than the other algorithms yielding lower cost of expansion for the electric grid. The claim for superiority of the proposed method over others is also substantiated by statistical  significance tests  on the obtained results.",
+    "citation_count": "12",
+    "year": "2019/02/01",
+    "authors": [
+        {
+            "name": "Pranjal Verma",
+            "country": ""
+        },
+        {
+            "name": "Krishnendu Sanyal",
+            "country": ""
+        },
+        {
+            "name": "Dipti Srinivsan",
+            "country": ""
+        },
+        {
+            "name": "K.S. Swarup",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

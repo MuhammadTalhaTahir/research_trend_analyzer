@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-018-0723-2",
+    "title": "Relevant feature selection in the context of painting classification",
+    "abstract": "In this paper, a painting genre classification system is proposed. Four feature descriptors about the color and texture defined in the MPEG-7 specification, which are more against painting characteristics, are extracted from data sets. Then, we use a self-adaptive harmony search algorithm to select relevant features (or a local feature set) to train each one-against-one SVM classifier. Finally, a majority voting strategy on N(N − 1)/2 prediction results would determine their respective genres of paintings. The experimental results show that the overall accuracy reaches 69.8%, and this demonstrates more precise features can be selected for each pair of genres to get better classification results. Besides, we also verify that if the number of painting genres is few, the classification method without feature selection will be sufficient to obtain good results. Finally, we propose new measurement to assess the methods with different datasets.",
+    "citation_count": 34,
+    "year": "2019/11",
+    "authors": [
+        {
+            "name": "Huang, Yin-Fu",
+            "country": "ROC"
+        },
+        {
+            "name": "Wang, Chang-Tai",
+            "country": "ROC"
+        },
+        {
+            "name": "Hsieh, Yun-Shin",
+            "country": "ROC"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

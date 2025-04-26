@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762118302960",
+    "title": "Reinforcement learning-driven address mapping and caching for flash-based remote sensing image processing",
+    "abstract": "Flash memory is featured with salient advantages over conventional  hard disks  for massive data storage and efficient on-board data processing. A  flash translation layer  (FTL) is a critical component for flash-based storage devices to handle particular technical constraints of flash. It is desirable to use flash memory for the storage of massive  remote sensing  images and support on-board remote sensing  data processing applications , which typically require high I/O performance and hence call for advanced FTL design and implementations. In this paper, we introduce our efforts in developing a  reinforcement learning  driven page-level mapping and caching scheme (named Q-FTL) that is adaptive and responsive to ever-changing I/O streams of on-board remote sensing  image processing  operations. The adaptability and responsiveness are achieved by the separation of large and small I/O requests, an integrated weighting scheme to measure access costs of cached translation pages, and a reinforcement learning driven cache replacement algorithm. We demonstrate the efficiency of the proposed approach using actual I/O traces generated from on-board remote sensing  image processing  applications. Experimental results show that Q-FTL improves over several current state-of-the-art FTLs by a large margin and even achieves competitive performance close to an idealized pure page mapping FTL in some cases.",
+    "citation_count": "6",
+    "year": "2019/09/01",
+    "authors": [
+        {
+            "name": "Tong Zhang",
+            "country": ""
+        },
+        {
+            "name": "Ze Cheng",
+            "country": ""
+        },
+        {
+            "name": "Jing Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-017-9692-6",
+    "title": "A model for non-Newtonian flow in porous media at different flow regimes",
+    "abstract": "Polymeric liquids are of great practical importance for porous media flow as they can be used to improve the sweep of water in the reservoir and therefore improve the recovery of oil. Due to the non-Newtonian behavior of these liquids, they are extremely challenging to model. In this paper, we present a model that is capable of describing the most commonly observed flow regimes in porous media: (i) Newtonian, (ii) Shear thinning, (iii) Shear thickening, and (iv) Mechanical degradation. The novel feature of our model is that the time constants for the shear thinning and shear thickening behavior are related to variations in reservoir properties and conditions, thus making it possible to translate lab results to larger scale without introducing new fitting parameters. Furthermore, we present a way to estimate polymer mechanical degradation in porous media. In our model, the polymer degradation rate is linked to the effective pore radius (using a Kozeny-Carman type equation), shear stress, and polymer molecular weight, M w . The degradation results in a lower M w , while the polymer volumetric concentration is unaffected. The model is applied to a series of laboratory core flood experiments conducted with partially hydrolyzed polyacrylamide, HPAM, of different initial M w ranging from 5 to 20 MDa in seawater, and core permeability varied from 137 to 2019 mD. The flow rate is varied approximately three orders of magnitude and covers the shear thinning, shear thickening, and degradation flow regimes. We show that our model is able to reproduce experimental rate-dependent flow resistance, as well as viscosity of effluent samples. An important aspect supporting the use of the model as a predictive tool is that all the simulations with a given brine have made use of a single set of input parameters to describe the observed shear thickening and degradation behavior. Simulation of a second experimental series using low salinity brine required a separate set of input parameters for the shear thickening and shear degradation. The onset of shear thickening was not affected while shear thickening was reduced and degradation appeared to be slower.",
+    "citation_count": 72,
+    "year": "2017/12",
+    "authors": [
+        {
+            "name": "Lohne, Arild",
+            "country": "Norway"
+        },
+        {
+            "name": "Nødland, Oddbjørn",
+            "country": "Norway"
+        },
+        {
+            "name": "Stavland, Arne",
+            "country": "Norway"
+        },
+        {
+            "name": "Hiorth, Aksel",
+            "country": "Norway"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

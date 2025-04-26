@@ -1,0 +1,46 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S138376212300111X",
+    "title": "A review of sensory interactions between autonomous vehicles and drivers",
+    "abstract": "Nowadays, human-oriented has already become the direction of the development of the intelligent vehicle, among which, the cabin, in constant contact with drivers, is getting more and more attention. Intelligent assisted systems have alleviated the burden on drivers during long journeys and provided a remedy for operational errors. As the trend towards increasingly intelligent vehicles, the issue of human–machine co-driving is receiving attention from scientific researchers. The technologies of human–machine interactions usually contain two parts, the human-to-vehicle and vehicle-to-human. This paper analyzes the potential innovation of human–machine systems from the perspective of human sensing, including visual, auditory, tactile, and olfactory. Based on the review of human–machine technologies, the current intelligentization of vehicles is divided into driver interaction and crew service systems. Then, the structure of a future intelligent interaction system considering multi-sensing is proposed and further discussed. Finally, by analyzing the relationship between the system for human and autonomous systems, a classification of the intelligence level for interaction systems is presented.",
+    "citation_count": "0",
+    "year": "2023/08/01",
+    "authors": [
+        {
+            "name": "Jiayi Lu",
+            "country": ""
+        },
+        {
+            "name": "Zhaoxia Peng",
+            "country": ""
+        },
+        {
+            "name": "Shichun Yang",
+            "country": ""
+        },
+        {
+            "name": "Yuan Ma",
+            "country": ""
+        },
+        {
+            "name": "Rui Wang",
+            "country": ""
+        },
+        {
+            "name": "Zhaowen Pang",
+            "country": ""
+        },
+        {
+            "name": "Xinjie Feng",
+            "country": ""
+        },
+        {
+            "name": "Yuyi Chen",
+            "country": ""
+        },
+        {
+            "name": "Yaoguang Cao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

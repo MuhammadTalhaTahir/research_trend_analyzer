@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885620302092",
+    "title": "Bias alleviating generative adversarial network for generalized zero-shot classification",
+    "abstract": "Generalized zero-shot classification is predicting the labels of the test images coming from seen or unseen classes. The task is difficult because of the bias problem, that is, unseen samples are easily to be misclassified to seen classes. Many methods have handled the problem by training a  generative adversarial network  (GAN) to generate fake samples. However, the GAN model trained with seen samples might not be appropriate for generating unseen samples. For dealing with this problem, we learn a bias alleviating generative adversarial network for generalized zero-shot classification by generating seen and unseen samples, simultaneously. We train the generator to generate more realistic unseen samples by adding  semantic similarity  and cluster center  regularizations  to alleviate the bias problem. The semantic similarity regularization is to restrict the relationships of the generated unseen visual prototypes and seen visual prototypes by their class prototypes to avoid the generated unseen samples similar to the seen samples. The cluster center regularization is to utilize the cluster property of target data to make the generated unseen visual prototypes near to the most similar cluster centers, generating realistic unseen samples. From the experiments, we can see the proposed method achieves promising results.",
+    "citation_count": "8",
+    "year": "2021/01/01",
+    "authors": [
+        {
+            "name": "Xiao Li",
+            "country": ""
+        },
+        {
+            "name": "Min Fang",
+            "country": ""
+        },
+        {
+            "name": "Haikun Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

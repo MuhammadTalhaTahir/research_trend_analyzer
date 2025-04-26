@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959515300539",
+    "title": "Tx scenario analysis of FBMC based LDM system",
+    "abstract": "Filter bank multiple carrier (FBMC) technology is one of the alternative solutions for multicarrier modulation. FBMC does not need cyclic prefix (CP) and guard band utilized for orthogonal frequency division multiplexing (OFDM) and CP and guard band cause loss of spectral efficiency. FBMC features offset QAM (OQAM) and band-limited filtering on each subcarrier, which eliminate the need of CP and guard band. FBMC filtering could maintain the orthogonality in a real signal domain by using well localized filter. Meanwhile layer division multiplexing (LDM) is also introduced to increase the spectral efficiency. In LDM, low density parity check (LDPC) coded multi signals are transmitted simultaneously with different power levels in same frequency band and these signals form signal layers. Combination of FBMC and LDM techniques can maximize the spectral efficiency. In this paper, LDM system which adopts FBMC is proposed. The LDM system has both OFDM and FBMC modulated layers. To apply FBMC to LDM system, log-likelihood ratio (LLR) calculation scheme for FBMC is needed for LDPC decoding. Three scenarios for LDM system are considered and BER performance of each scenario is analyzed to find proper scenario.",
+    "citation_count": "0",
+    "year": "2015/12/01",
+    "authors": [
+        {
+            "name": "Soonki Jo",
+            "country": ""
+        },
+        {
+            "name": "Jong-Soo Seo",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

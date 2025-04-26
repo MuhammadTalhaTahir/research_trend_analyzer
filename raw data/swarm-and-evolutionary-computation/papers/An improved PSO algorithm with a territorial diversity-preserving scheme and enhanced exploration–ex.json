@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650213000023",
+    "title": "An improved PSO algorithm with a territorial diversity-preserving scheme and enhanced exploration–exploitation balance",
+    "abstract": "Despite its relatively high convergence rate, the  particle swarm optimization  (PSO) algorithm is quite vulnerable to premature convergence to local minima. To tackle this problem an improved territorial particle swarm optimization (TPSO) algorithm is presented in which diversity is actively preserved by avoiding overcrowded clusters of particles and encouraging broader exploration. A new “collision operator” and adaptively varying “territories” are used to prevent the particles from premature clustering and encouraged them to explore new neighborhoods based on a hybrid self-social metric, and thus improves exploration ability. The collision operator is shown to provide the algorithm with the ability of controlling the diversity throughout the different stages of the search process. Also, a new social interaction scheme is introduced which guided particles towards the weighted average of their “elite” neighbors' best found positions instead of their own personal bests which in turn helps the particles to exploit the candidate local optima more effectively and thus provides the algorithm with a local search ability. The efficiency and robustness of the proposed algorithm is demonstrated using multiple traditional and newly-composed benchmark functions presented in CEC2005 competition and the results are compared with recent variants of the original PSO and CMA-ES the winner of CEC2005 competition.",
+    "citation_count": "93",
+    "year": "2013/08/01",
+    "authors": [
+        {
+            "name": "Behrooz Ostadmohammadi Arani",
+            "country": ""
+        },
+        {
+            "name": "Pooya Mirzabeygi",
+            "country": ""
+        },
+        {
+            "name": "Masoud Shariat Panahi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

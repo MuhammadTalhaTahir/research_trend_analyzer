@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224002086",
+    "title": "A hybrid genetic tabu search algorithm for distributed job-shop scheduling problems",
+    "abstract": "The distributed job-shop scheduling problem (DJSP) is an extension of the traditional job-shop scheduling problem, which are composed of two sub-problems, assigning jobs to suitable factories and deciding the operation sequence on machines. To evaluate the performance of algorithms for solving DJSP, several famous benchmark instances have been proposed, and most of these instances have not been solved so far. This paper proposes a hybrid genetic tabu search algorithm (HGTSA) for solving DJSP. The proposed HGTSA combines the global search ability of the genetic algorithm (GA) and the local search ability of the tabu search (TS) well. In GA part, a crossover operation and a mutation operation are devised based on the critical factory. The two operations can effectively improve the discreteness of the population. In TS part, a tabu search procedure is performed on the critical factory. The procedure can effectively enhance the local search ability of HGTSA. For evaluating the performance of HGTSA, it has been compared with five classical algorithms on 240 benchmark instances. The computational results show the efficiency and effectiveness of HGTSA for solving DJSP. In particular, the proposed HGTSA updates the upper bounds for 235 out of these difficult instances.",
+    "citation_count": "1",
+    "year": "2024/10/01",
+    "authors": [
+        {
+            "name": "Jin Xie",
+            "country": ""
+        },
+        {
+            "name": "Liang Gao",
+            "country": ""
+        },
+        {
+            "name": "Xinyu Li",
+            "country": ""
+        },
+        {
+            "name": "Lin Gui",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

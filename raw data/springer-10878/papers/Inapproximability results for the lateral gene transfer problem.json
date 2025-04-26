@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-006-8212-8",
+    "title": "Inapproximability results for the lateral gene transfer problem",
+    "abstract": "This paper concerns the Lateral Gene Transfer Problem. This minimization problem, defined by Hallett and Lagergren (2001), is that of finding the most parsimonious lateral gene transfer scenario for a given pair of gene and species trees. Our main results are the following:",
+    "citation_count": 10,
+    "year": "2006/06",
+    "authors": [
+        {
+            "name": "Dasgupta, Bhaskar",
+            "country": "Chicago"
+        },
+        {
+            "name": "Ferrarini, Sergio",
+            "country": "Italy"
+        },
+        {
+            "name": "Gopalakrishnan, Uthra",
+            "country": "Chicago"
+        },
+        {
+            "name": "Paryani, Nisha Raj",
+            "country": "Chicago"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217306387",
+    "title": "An overview and comparative analysis of recent bio-inspired optimization techniques for wind integrated multi-objective power dispatch",
+    "abstract": "Over the last few decades, bio-inspired (BI) evolutionary optimization techniques have experienced overwhelming popularity, extraordinary growth and large number of applications, particularly, in the field of engineering and technology. These techniques present a tough competition to traditional  numerical methods  which suffer from convexity and continuity assumptions and which normally employ a gradient based search that is sensitive to the initial solution. While initial BI techniques suffered from limitations such as premature convergence and dependence on control parameters, eventually, these issues were specifically addressed by improved variants and many novel BI methods. The population based computing methods are particularly attractive for solving multi-objective (MO) problems due to their capability of producing a large number of Pareto-optimal solutions in one run. In this paper, an integrated ranking index (IRI) composed of TOPSIS and fuzzy-min concept is proposed as a performance metrics to aggregate the different objectives. The performance of eight handpicked recent BI techniques is compared for the solution of wind integrated multi-objective optimal power dispatch (MOOD) problem for simultaneous minimization of fuel cost and emission. Due to the uncertain nature of wind power (WP), the effect of its over and underestimation on both economic as well as environmental aspects, has also been considered. Six standard test cases having non-convex, multi-modal and discontinuous objective functions, dynamic operation and complex equality/inequality constraints, are selected for testing Flower Pollination Algorithm (FPA), Mine Blast Algorithm (MBA), Backtracking Search Algorithm (BSA), Symbiotic Organisms Search (SOS), Ant Lion Optimizer (ALO), Moth-Flame Optimization (MFO), Stochastic Fractal Search (SFS) and Lightning Search Algorithm (LSA).",
+    "citation_count": "55",
+    "year": "2018/02/01",
+    "authors": [
+        {
+            "name": "Hari Mohan Dubey",
+            "country": ""
+        },
+        {
+            "name": "Manjaree Pandit",
+            "country": ""
+        },
+        {
+            "name": "B.K. Panigrahi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

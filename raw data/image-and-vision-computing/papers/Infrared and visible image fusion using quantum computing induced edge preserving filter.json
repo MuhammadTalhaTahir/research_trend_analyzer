@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624004499",
+    "title": "Infrared and visible image fusion using quantum computing induced edge preserving filter",
+    "abstract": "Information fusion by utilization of visible and thermal images provides a more comprehensive scene understanding in the resulting image rather than individual source images. It applies to wide areas of applications such as navigation, surveillance, remote sensing, and military where significant information is obtained from diverse modalities making it quite challenging. The challenges involved in integrating the various sources of data are due to the diverse modalities of imaging sensors along with the complementary information. So, there is a need for precise information integration in terms of infrared (IR) and visible image fusion while retaining useful information from both sources. Therefore, in this article, a unique image fusion methodology is presented that focuses on enhancing the prominent details of both images, preserving the textural information with reduced noise from either of the sources. In this regard, we put forward a quantum computing-induced IR and visible image fusion technique which preserves the required information with highlighted details from the source images efficiently. Initially, the proposed edge detail preserving strategy is capable of retaining the salient details accurately from the source images. Further, the proposed quantum computing-induced weight map generation mechanism preserves the complementary details with fewer redundant details which produces quantum details. Again the prominent features of the source images are retained using highly rich information. Finally, the quantum and the prominent details are utilized to produce the fused image for the corresponding source image pair. Both subjective and objective analyses are utilized to validate the effectiveness of the proposed algorithm. The efficacy of the developed model is validated by comparing the outcomes attained by it against twenty-six existing fusion algorithms. From various experiments, it is observed that the developed framework achieved higher accuracy in terms of visual demonstration as well as quantitative assessments compared to different deep-learning and non-deep learning-based state-of-the-art (SOTA) techniques.",
+    "citation_count": "2",
+    "year": "2025/01/01",
+    "authors": [
+        {
+            "name": "Priyadarsan Parida",
+            "country": ""
+        },
+        {
+            "name": "Manoj Kumar Panda",
+            "country": ""
+        },
+        {
+            "name": "Deepak Kumar Rout",
+            "country": ""
+        },
+        {
+            "name": "Saroj Kumar Panda",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10617-008-9031-1",
+    "title": "CAD tool for hardware software co-synthesis of heterogeneous multiple processor embedded architectures",
+    "abstract": "Hardware software co-synthesis process intends to determine an optimal architecture for an embedded application specified by a task graph or a specification language. In this paper, we present a co-synthesis approach targeting MPSoCs and distributed memory multiprocessor architectures for high performance embedded applications. Our co-synthesis approach produces pipelined multiprocessor architectures consisting of heterogeneous processing elements connected by a point-to-point communication structure. The co-synthesis process consists of four distinct phases; processing element selection for addition to the system, pipelined task allocation, scheduling and a regular interconnection topology mapping. Initially, an irregular topology is generated that is mapped to a regular architecture. Our co-synthesis methodology performs system partitioning and produces an irregular topology multiprocessor system. It also generates an optimal (or sub-optimal) regular topology architecture after considering some of the well-known regular topologies like mesh, hypercube, tree, etc. The co-synthesis method is demonstrated by exploring embedded architectures for MPEG encoder and artificially generated application task graphs representing complex embedded systems.",
+    "citation_count": 32,
+    "year": "2008/12",
+    "authors": [
+        {
+            "name": "Khan, Gul Nawaz",
+            "country": "Canada"
+        },
+        {
+            "name": "Ahmed, Usman",
+            "country": "Canada"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

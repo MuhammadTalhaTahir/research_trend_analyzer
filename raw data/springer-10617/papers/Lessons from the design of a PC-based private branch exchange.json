@@ -1,0 +1,38 @@
+{
+    "url": "https://link.springer.com/article/10.1007/BF00209907",
+    "title": "Lessons from the design of a PC-based private branch exchange",
+    "abstract": "We designed TigerSwitch, a digital private branch exchange (PBX) implemented on an IBM PC-compatible platform, as an experiment in embedded system design. A telephone switching system is an interesting example of embedded system co-design because it combines a rich functionality with deadlines ranging from seconds to tenths of a millisecond. This paper uses design decisions from TigerSwitch to illustrate the difficulties faced in the partitioning and allocation of a system specification into an architecture: the critical performance paths may not be obvious from the initial specification, and it is often difficult to obtain the performance data required to allocate functions in the architecture.",
+    "citation_count": 14,
+    "year": "1996/10",
+    "authors": [
+        {
+            "name": "Wolf, Wayne",
+            "country": ""
+        },
+        {
+            "name": "Wolfe, Andrew",
+            "country": ""
+        },
+        {
+            "name": "Chinatti, Steve",
+            "country": ""
+        },
+        {
+            "name": "Koshy, Ravi",
+            "country": ""
+        },
+        {
+            "name": "Slater, Gary",
+            "country": ""
+        },
+        {
+            "name": "Sun, Spencer",
+            "country": ""
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

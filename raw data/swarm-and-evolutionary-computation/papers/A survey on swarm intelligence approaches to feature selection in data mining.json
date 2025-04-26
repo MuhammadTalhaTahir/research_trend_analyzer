@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650219303104",
+    "title": "A survey on swarm intelligence approaches to feature selection in data mining",
+    "abstract": "One of the major problems in  Big Data  is a large number of features or dimensions, which causes the issue of “the curse of dimensionality” when applying  machine learning , especially  classification algorithms . Feature selection is an important technique which selects small and informative feature subsets to improve the learning performance. Feature selection is not an easy task due to its large and complex  search space . Recently,  swarm intelligence  techniques have gained much attention from the feature selection community because of their simplicity and potential global search ability. However, there has been no comprehensive surveys on  swarm intelligence  for feature selection in classification which is the most widely investigated area in feature selection. Only a few short surveys is this area are still lack of in-depth discussions on the state-of-the-art methods, and the strengths and limitations of existing methods, particularly in terms of the representation and search mechanisms, which are two key components in adapting swarm intelligence to address feature selection problems. This paper presents a comprehensive survey on the state-of-the-art works applying swarm intelligence to achieve feature selection in classification, with a focus on the representation and search mechanisms. The expectation is to present an overview of different kinds of state-of-the-art approaches together with their advantages and disadvantages, encourage researchers to investigate more advanced methods, provide practitioners guidances for choosing the appropriate methods to be used in real-world scenarios, and discuss potential limitations and issues for future research.",
+    "citation_count": "328",
+    "year": "2020/05/01",
+    "authors": [
+        {
+            "name": "Bach Hoai Nguyen",
+            "country": ""
+        },
+        {
+            "name": "Bing Xue",
+            "country": ""
+        },
+        {
+            "name": "Mengjie Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

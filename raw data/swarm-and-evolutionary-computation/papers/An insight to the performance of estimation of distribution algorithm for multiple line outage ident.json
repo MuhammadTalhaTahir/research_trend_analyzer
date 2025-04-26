@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217307423",
+    "title": "An insight to the performance of estimation of distribution algorithm for multiple line outage identification",
+    "abstract": "Realtime information relating to line outages has significant importance to pre-empt against the  power system  blackouts. Realtime information can be obtained by using  phasor measurement units  (PMUs) facilitating the realtime synchronized observations of voltage and current  phasors  at buses being monitored. Different optimization formulations including but not limited to linear, integer, stochastic, mixed integer and NP hard combinatorial optimization have been used to manipulate these  phasor measurements  for the detection of line outages. Single and double line outages can be addressed using combinatorial optimization but these are infeasible to apply for the detection of multiple line outages as the increased number of lines increases computational complexity. To alleviate the exponentially increased complexities of these combinatorial optimization problems, while investigating for multiple line outage, evolutionary, Estimation of Distribution Algorithm is used. This method gives near optimal solution in which computational complexity and time is reduced efficiently. In this paper we scrutinize the use of phasor angle measurements to detect multiple power line outages. The proposed EDA is compared with binary  particle swarm optimization  (BPSO) algorithm, adaptive BPSO and  genetic algorithm  (GA) in terms of line outage detection performance, fitness convergence w.r.t. iterations and time consumption. The simulation results depict that the proposed EDA outperforms the other state of the art algorithms.",
+    "citation_count": "12",
+    "year": "2018/04/01",
+    "authors": [
+        {
+            "name": "A. Ahmed",
+            "country": ""
+        },
+        {
+            "name": "Q. Khan",
+            "country": ""
+        },
+        {
+            "name": "M. Naeem",
+            "country": ""
+        },
+        {
+            "name": "M. Iqbal",
+            "country": ""
+        },
+        {
+            "name": "A. Anpalagan",
+            "country": ""
+        },
+        {
+            "name": "M. Awais",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

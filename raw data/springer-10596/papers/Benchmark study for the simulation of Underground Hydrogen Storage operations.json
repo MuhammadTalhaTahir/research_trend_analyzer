@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-022-10163-5",
+    "title": "Benchmark study for the simulation of Underground Hydrogen Storage operations",
+    "abstract": "While the share of renewable energy sources increased within the last years with an ongoing upward trend, the energy sector is facing the problem of storing large amounts of electrical energy properly. To compensate daily and seasonal fluctuations, a sufficient storage system has to be developed. The storage of hydrogen in the subsurface, referred to as Underground Hydrogen Storage (UHS), shows potential to be a solution for this problem. Hydrogen, produced from excess energy via electrolysis, is injected into a subsurface reservoir and withdrawn when required. As hydrogen possesses unique thermodynamic properties, many commonly used correlations can not be simply transferred to a system with a high hydrogen content. Mixing processes with the present fluids are essential to be understood to achieve high storage efficiencies. Additionally, in the past, microbial activity, e.g. by methanogenic archaea, was observed, leading to a changing fluid composition over time. To evaluate the capability of reservoir simulators to cover these processes, the present study establishes a benchmark scenario of an exemplary underground hydrogen storage scenario. The benchmark comprises of a generic sandstone gas reservoir and a typical gas storage schedule is defined. Based on this benchmark, the present study assesses the capabilities of the commercial simulator Schlumberger ECLIPSE and the open-source simulator DuMux to mimic UHS related processes such as hydrodynamics but also microbial activity. While ECLIPSE offers a reasonable mix of user-friendliness and computation time, DuMux allows for a better adjustment of correlations and the implementation of biochemical reactions. The corresponding input data (ECLIPSE format) and relevant results are provided in a repository to allow this simulation study’s reproduction and extension.",
+    "citation_count": 29,
+    "year": "2022/12",
+    "authors": [
+        {
+            "name": "Hogeweg, Sebastian",
+            "country": "Germany"
+        },
+        {
+            "name": "Strobel, Gion",
+            "country": "Germany"
+        },
+        {
+            "name": "Hagemann, Birger",
+            "country": "Germany"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Second special issue on SystemC",
+    "url": "https://link.springer.com/article/10.1007/s10617-006-0655-8"
+  },
+  {
+    "title": "RTOS modeling in SystemC for real-time embedded SW simulation: A POSIX model",
+    "url": "https://link.springer.com/article/10.1007/s10617-006-9725-1"
+  },
+  {
+    "title": "Target software generation: an approach for automatic mapping of SystemC specifications onto real-time operating systems",
+    "url": "https://link.springer.com/article/10.1007/s10617-006-0590-8"
+  },
+  {
+    "title": "Platform designer: An approach for modeling multiprocessor platforms based on SystemC",
+    "url": "https://link.springer.com/article/10.1007/s10617-006-0654-9"
+  },
+  {
+    "title": "A methodology aimed at better integration of functional verification and RTL design",
+    "url": "https://link.springer.com/article/10.1007/s10617-006-9587-6"
+  }
+]

@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762118304521",
+    "title": "A survey of encoding techniques for reducing data-movement energy",
+    "abstract": "In modern processors, data-movement consumes two orders of magnitude higher energy than a floating-point operation and hence, data-movement is becoming the primary bottleneck in scaling the performance of modern processors within the fixed power budget. Intelligent data-encoding techniques hold the promise of reducing the data-movement energy. In this paper, we present a survey of encoding techniques for reducing data-movement energy. By classifying the works on key metrics, we bring out their similarities and differences. This paper is expected to be useful for computer architects, processor designers and researchers in the area of interconnect and memory system design.",
+    "citation_count": "20",
+    "year": "2019/08/01",
+    "authors": [
+        {
+            "name": "Sparsh Mittal",
+            "country": ""
+        },
+        {
+            "name": "Subhrajit Nag",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

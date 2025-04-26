@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762123001406",
+    "title": "Similarity-based deduplication and secure auditing in IoT decentralized storage",
+    "abstract": "Data storage is becoming more difficult due to the network technology’s rapid development, especially with the significant advancement in  Internet of Things  ( IoT ). To solve this problem, various cloud storage-based  deduplication  schemes have been extensively studied to alleviate the storage burden of local  IoT devices . However, recent evidence has revealed the deficiencies of these centralized data management schemes related to poor adaptability and lack of resistance to the  single point of failure . Most existing deduplication approaches only perform deduplication on the same data, lacking consideration of the IoT data similarity characteristics. Also, these approaches keep only one copy of all data stored on the cloud server, making them valid only if the  cloud storage provider  is fully trustable, and the applicability of the solution is significantly reduced. What is important, outsourcing storage takes away control of data from their owners, security audits thus should also be considered in secure data storage research. To tackle these issues, we propose a similarity-based deduplication and secure auditing in the IoT decentralized storage scheme. Specifically, our scheme utilizes a novel similarity-based deduplication method based on the multi-server storage model to achieve efficient space saving while protecting  data security . Furthermore, the proposed scheme ensures the integrity and availability of data by introducing similarity-based proofs of data ownership and similarity-based data integrity auditing. On this basis, our scheme further adopts a similarity-based secure auditing mechanism to achieve decentralized public auditing without the third-party auditor, in which the audit results of  outsourced data  are shared on  blockchain  to avoid repetitive audit tasks. We verify the correctness and effectiveness of our proposed scheme through rigorous theoretical analysis and extensive experimental results.",
+    "citation_count": "10",
+    "year": "2023/09/01",
+    "authors": [
+        {
+            "name": "Yuan Gao",
+            "country": ""
+        },
+        {
+            "name": "Liquan Chen",
+            "country": ""
+        },
+        {
+            "name": "Jinguang Han",
+            "country": ""
+        },
+        {
+            "name": "Ge Wu",
+            "country": ""
+        },
+        {
+            "name": "Suhui Liu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

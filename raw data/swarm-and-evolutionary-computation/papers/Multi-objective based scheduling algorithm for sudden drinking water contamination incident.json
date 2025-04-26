@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S221065021830988X",
+    "title": "Multi-objective based scheduling algorithm for sudden drinking water contamination incident",
+    "abstract": "In recent years,  drinking water  contamination incidents have been occurring at an increasingly frequent rate, leading to significant economic losses and social issues. Establishing and improving emergency disposal mechanisms for  water contamination  incidents is an important issue that has become a foremost concern globally. In this study, we first perform a theoretical analysis on an optimal scheduling problem and then prove that the scheduling of the valve and hydrant is NP-complete. Subsequently, we propose a multi-objective optimization model for contaminant response and primarily investigate two conflicting objectives: first, to minimize the volume of contaminated water exposed to the public; and second, to minimize the operational costs of the hydrant and valves. Finally, a customized multi-objective non-dominated sorted genetic algorithm-II (NSGA-II) coupling with an EPANET simulation is proposed and two different sizes of water  distribution networks  are employed to demonstrate the validity of the proposed model and methodology. Furthermore, we investigate the impact of different parameters on the performance of our proposed algorithm.",
+    "citation_count": "26",
+    "year": "2020/06/01",
+    "authors": [
+        {
+            "name": "Chengyu Hu",
+            "country": ""
+        },
+        {
+            "name": "Xuesong Yan",
+            "country": ""
+        },
+        {
+            "name": "Wenyin Gong",
+            "country": ""
+        },
+        {
+            "name": "Xiaobo Liu",
+            "country": ""
+        },
+        {
+            "name": "Ling Wang",
+            "country": ""
+        },
+        {
+            "name": "Liang Gao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-012-9293-3",
+    "title": "Numerical simulation and optimization of CO2 sequestration in saline aquifers for vertical and horizontal well injection",
+    "abstract": "With heightened concerns on CO2 emissions from pulverized-coal (PC) power plants, there has been major emphasis in recent years on the development of safe and economical geological carbon sequestration (GCS) technology. Saline aquifers are considered very attractive for GCS because of their large storage capacity in U.S. and other parts of the world for long-term sequestration. However, uncertainties about storage efficiency as well as leakage risks remain major areas of concern that need to be addressed before the saline aquifers can be fully exploited for carbon sequestration. A genetic algorithm-based optimizer has been developed and coupled with the well-known multiphase numerical solver TOUGH2 to optimally examine various injection strategies for increasing the CO2 storage efficiency as well as for reducing its plume migration. The optimal injection strategies for CO2 injection employing a vertical injection well and a horizontal injection well are considered. To ensure the accuracy of the results, the combined hybrid numerical solver/optimizer code was validated by conducting simulations of three widely used benchmark problems employed by carbon sequestration researchers worldwide. The validated code is then employed to optimize the proposed water-alternating-gas injection scheme for CO2 sequestration using both the vertical and the horizontal injection wells. The results suggest the potential benefits of CO2 migration control and dissolution. The optimization capability of the hybrid code holds a great promise in studying a host of other problems in GCS, namely how to optimally enhance capillary trapping, accelerate the dissolution of CO2 in water or brine, and immobilize the CO2 plume.",
+    "citation_count": 10,
+    "year": "2012/09",
+    "authors": [
+        {
+            "name": "Zhang, Zheming",
+            "country": "USA"
+        },
+        {
+            "name": "Agarwal, Ramesh K.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

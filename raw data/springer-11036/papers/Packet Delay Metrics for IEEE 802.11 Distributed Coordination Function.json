@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-008-0124-7",
+    "title": "Packet Delay Metrics for IEEE 802.11 Distributed Coordination Function",
+    "abstract": "In this paper, we introduce a comprehensive packet delay analysis for wireless networks based on IEEE 802.11 Distributed Coordination Function (DCF). We develop mathematical models that calculate a set of packet delay metrics, namely a) the average packet delay for successfully transmitted packets, b) the average packet delay of successfully transmitted packets experiencing a specific number of collisions, c) the average packet drop time, d) the delay jitter and e) the delay distribution by computing the probability of a packet to be successfully transmitted experiencing delay time lower than a given value. All the developed models are based on calculating station’s delay time at the transmission slot(s) plus the average time that station defers at backoff slots before successful transmission. The mathematical models are simple, computationally fast and can be used to build admission control algorithms. Simulation results show that our proposed mathematical analysis is highly accurate.",
+    "citation_count": 18,
+    "year": "2009/12",
+    "authors": [
+        {
+            "name": "Raptis, P.",
+            "country": "Greece"
+        },
+        {
+            "name": "Vitsas, V.",
+            "country": "Greece"
+        },
+        {
+            "name": "Paparrizos, K.",
+            "country": "Greece"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

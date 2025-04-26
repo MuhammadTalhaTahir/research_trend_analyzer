@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-005-4923-5",
+    "title": "Preemptive Machine Covering on Parallel Machines",
+    "abstract": "This paper investigates the preemptive parallel machine scheduling to maximize the minimum machine completion time. We first show the off-line version can be solved in O(mn) time for general m-uniform-machine case. Then we study the on-line version. We show that any randomized on-line algorithm must have a competitive ratio m for m-uniform-machine case and ∑i = 1 m 1/i for m-identical-machine case. Lastly, we focus on two-uniform-machine case. We present an on-line deterministic algorithm whose competitive ratio matches the lower bound of the on-line problem for every machine speed ratio s≥ 1. We further consider the case that idle time is allowed to be introduced in the procedure of assigning jobs and the objective becomes to maximize the continuous period of time (starting from time zero) when both machines are busy. We present an on-line deterministic algorithm whose competitive ratio matches the lower bound of the problem for every s≥ 1. We show that randomization does not help.",
+    "citation_count": 20,
+    "year": "2005/12",
+    "authors": [
+        {
+            "name": "Jiang, Yiwei",
+            "country": "P.R. China"
+        },
+        {
+            "name": "Tan, Zhiyi",
+            "country": "P.R. China"
+        },
+        {
+            "name": "He, Yong",
+            "country": "P.R. China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

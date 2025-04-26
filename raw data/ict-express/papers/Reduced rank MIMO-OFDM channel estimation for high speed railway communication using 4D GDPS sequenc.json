@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959517302436",
+    "title": "Reduced rank MIMO-OFDM channel estimation for high speed railway communication using 4D GDPS sequences",
+    "abstract": "This paper presents a reduced rank channel estimator for multiple-input multiple-output orthogonal frequency-division multiplexing (MIMO-OFDM) high speed railway (HSR) systems. Conventional interpolation based channel estimators require high pilot load for robust estimation of the rapidly time varying frequency-selective MIMO-OFDM HSR channel. To relax the high pilot overhead requirement, we take advantage of the channel’s restriction to low dimensional subspaces due to the time, frequency and spatial correlation and propose a low complexity linear minimum mean square error (LMMSE) channel estimator. The channel estimator utilizes a four-dimensional (4D) basis expansion channel model obtained from band-limited generalized discrete prolate spheroidal (GDPS) sequences. Simulation results validate that the mean square estimation error of the proposed estimator is smaller than that of the conventional interpolation based least square (LS) estimator and the performance is robust to different delay, Doppler and angular spreads.",
+    "citation_count": "0",
+    "year": "2017/12/01",
+    "authors": [
+        {
+            "name": "Farnoosh Talaei",
+            "country": ""
+        },
+        {
+            "name": "Xiaodai Dong",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

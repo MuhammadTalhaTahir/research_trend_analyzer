@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885625000794",
+    "title": "Early progression detection from MCI to AD using multi-view MRI for enhanced assisted living",
+    "abstract": "Alzheimer's disease (AD) is a progressive neurodegenerative disorder. Early detection is crucial for timely intervention and treatment to improve assisted living. Although magnetic resonance imaging (MRI) is a widely used neuroimaging modality for the diagnosis of AD, most studies focus on a single MRI plane, missing comprehensive spatial information. In this study, we proposed a novel approach that leverages multiple MRI planes (axial, coronal, and sagittal) from 3D MRI volumes to predict progression from stable mild cognitive impairment (sMCI) to progressive MCI (pMCI) and AD. We employed a list of convolutional neural networks, including EfficientNet-B7, ConvNext, and DenseNet-121, to extract deep features from each MRI plane, followed by a feature enhancement step through an attention module. The optimized feature set was then passed through a Bayesian-optimized pool of classification heads (i.e., multilayer perceptron (MLP), long short-term memory (LSTM), and multi-head attention (MHA)) to obtain the most effective model for each MRI plane. The optimal model for each MRI plane was then integrated into homogeneous and heterogeneous ensembles to further enhance the performance of the model. Using the ADNI dataset, the proposed model achieved 91% accuracy, 87% sensitivity, 88% specificity, and 92% AUC. To enhance the interpretability of the model, we used the Grad-CAM explainability technique to generate attention maps for each MRI plane, which identified critical brain regions affected by disease progression. These attention maps revealed consistent patterns of tissue damage across the MRI scans. The results demonstrate the effectiveness of combining multiplane MRI data with ensemble learning and attention mechanisms to improve the early detection and tracking of AD progression in patients with MCI, offering a more comprehensive diagnostic tool and enhanced clinical decision-making. The datasets, results, and code used to conduct the comprehensive analysis are made available to the research community through the following link:  https://github.com/nasir3843/Early_Progression_detection_MCI-to_AD",
+    "citation_count": "0",
+    "year": "2025/05/01",
+    "authors": [
+        {
+            "name": "Nasir Rahim",
+            "country": ""
+        },
+        {
+            "name": "Naveed Ahmad",
+            "country": ""
+        },
+        {
+            "name": "Waseem Ullah",
+            "country": ""
+        },
+        {
+            "name": "Jatin Bedi",
+            "country": ""
+        },
+        {
+            "name": "Younhyun Jung",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-013-9685-x",
+    "title": "An accelerated continuous greedy algorithm for maximizing strong submodular functions",
+    "abstract": "An accelerated continuous greedy algorithm is proposed for maximization of a special class of non-decreasing submodular functions $$f:2^{X} \\rightarrow \\mathfrak {R}_{+}$$ subject to a matroid constraint with a $$\\frac{1}{c} (1 - e^{-c} - \\varepsilon ) $$ approximation for any $$\\varepsilon &gt; 0$$ , where $$c$$ is the curvature with respect to the optimum. Functions in the special class of submodular functions satisfy the criterion $$\\forall A, B \\subseteq X,\\, \\forall j \\in X {\\setminus } (A \\cup B)$$ , $$\\triangle f_j(A,B) \\mathop {=}\\limits ^{\\Delta } f(A \\cup \\{j\\}) + f(B \\cup \\{j\\}) - f((A \\cap B) \\cup \\{j\\}) - f(A \\cup B \\cup \\{j\\}) - [f(A) + f(B) - f(A \\cap B) - f(A \\cup B)] \\le 0$$ . As an alternative to the standard continuous greedy algorithm, the proposed algorithm can substantially reduce the computational expense by removing redundant computational steps and, therefore, is able to efficiently handle the maximization problems for this special class of submodular functions. Examples of such functions are presented.",
+    "citation_count": 21,
+    "year": "2015/11",
+    "authors": [
+        {
+            "name": "Wang, Zengfu",
+            "country": "China"
+        },
+        {
+            "name": "Moran, Bill",
+            "country": "Australia"
+        },
+        {
+            "name": "Wang, Xuezhi",
+            "country": "Australia"
+        },
+        {
+            "name": "Pan, Quan",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762118303357",
+    "title": "Decomposition of distributed edge systems based on the Petri nets and linear algebra technique",
+    "abstract": "Edge computing , the architecture of  cloud computing systems  in which operations and computation tasks are shifted from the centralized cloud-based system to the devices being close to end users, has been gaining increasing popularity in recent years. Prototyping of such systems involves several tasks, including decomposition (splitting) of the system into distributed components. This paper proposes a novel decomposition algorithm oriented to the distributed edge systems specified by  Petri nets . Formal proof of the correctness of the proposed algorithm is presented, together with corresponding theoretical results. The idea is illustrated by a real-life example of the distributed edge system. The experimental verification and comparison with the traditional decomposition technique gives proof of the efficiency of the proposed technique.",
+    "citation_count": "16",
+    "year": "2019/06/01",
+    "authors": [
+        {
+            "name": "R. Wiśniewski",
+            "country": ""
+        },
+        {
+            "name": "A. Karatkevich",
+            "country": ""
+        },
+        {
+            "name": "Ł. Stefanowicz",
+            "country": ""
+        },
+        {
+            "name": "M. Wojnakowski",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

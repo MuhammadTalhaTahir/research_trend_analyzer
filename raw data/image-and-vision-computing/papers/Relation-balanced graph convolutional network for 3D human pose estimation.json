@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623002159",
+    "title": "Relation-balanced graph convolutional network for 3D human pose estimation",
+    "abstract": "Graph convolutional networks  (GCNs) have been applied to 2D-to-3D human pose estimation (HPE) and have shown encouraging performance. However, existing GCNs model the relations between  joints  via individual kernels, which can be overly flexible and fail to capture common relational patterns due to the symmetric nature of the human body. Although some GCNs share kernels to capture common relations, the unified way for all neighbors limits relational diversity to some extent. In order to balance the diversity and commonality of relations, we conduct a comprehensive study of existing kernel-sharing strategies and propose a Relation-balanced Graph Convolutional Network (RbGC-Net). RbGC-Net introduces the Part-Specific Kernel-Sharing strategy (PSKS) that assigns kernels based on the semantic meanings of neighbors to establish specific relational patterns for different types of neighborhoods. Furthermore, RbGC-Net incorporates a Local–Global  Feature Fusion  module (LGFF) that extracts the local relations among joints and balances them with the final global relations to improve the interactions between joints. Compared with state-of-the-art methods for 3D HPE, our RbGC-Net achieves the optimal balance between model size and  estimation errors . Results on two benchmark Human3.6 M and MPI-INF-3DHP datasets demonstrate the excellent performance and strong  generalization ability  of our pure GCN-based method.",
+    "citation_count": "2",
+    "year": "2023/12/01",
+    "authors": [
+        {
+            "name": "Lu Chen",
+            "country": ""
+        },
+        {
+            "name": "Qiong Liu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

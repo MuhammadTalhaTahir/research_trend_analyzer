@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885619301477",
+    "title": "Salient object detection via double random walks with dual restarts",
+    "abstract": "In this paper, we propose a novel saliency model based on double  random walks  with dual restarts. Two agents (also known as walkers) respectively representing the foreground and background properties simultaneously walk on a graph to explore saliency distribution. First, we propose the propagation  distance measure  and use it to calculate the  initial distributions  of the two agents instead of using  geodesic distance . Second, the two agents traverse the graph starting from their own initial distribution, and then interact with each other to correct their travel routes by the restart mechanism, which enforces the agents to return to some specific nodes with a certain probability after every movement. We define the dual restarts to take into account interaction between and weighting of two agents. Extensive evaluations demonstrate that the proposed algorithm performs favorably against other state-of-the-art methods on four benchmark datasets.",
+    "citation_count": "6",
+    "year": "2020/01/01",
+    "authors": [
+        {
+            "name": "Jiaxing Yang",
+            "country": ""
+        },
+        {
+            "name": "Xiang Fang",
+            "country": ""
+        },
+        {
+            "name": "Lihe Zhang",
+            "country": ""
+        },
+        {
+            "name": "Huchuan Lu",
+            "country": ""
+        },
+        {
+            "name": "Guohua Wei",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

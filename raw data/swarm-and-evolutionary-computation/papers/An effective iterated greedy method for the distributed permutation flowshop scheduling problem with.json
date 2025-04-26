@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650220303953",
+    "title": "An effective iterated greedy method for the distributed permutation flowshop scheduling problem with sequence-dependent setup times",
+    "abstract": "The distributed permutation  flowshop scheduling  problem (DPFSP) has attracted much attention in recent years. In this paper, we extend the DPFSP by considering the sequence-dependent setup time (SDST), and present a mathematical model and an iterated  greedy algorithm  with a restart scheme (IGR). In the IGR, we discard the simulated annealing-like acceptance criterion commonly used in traditional iterated greedy algorithms. A restart scheme with six different operators is proposed to ensure the diversity of the solutions and help the algorithm to escape from local optimizations. Furthermore, to achieve a balance between the exploitation and exploration, we introduce an algorithmic control parameter in the IG stage. Additionally, to further improve the performance of the algorithm, we propose two local search methods based on a job block which is built in the evolution process. A detailed design experiment is carried out to calibrate the parameters for the presented IGR algorithm. The IGR is assessed through comparing with the state-of-the-art algorithms in the literature. The experimental results show that the proposed IGR algorithm is the best-performing one among all the algorithms in comparison.",
+    "citation_count": "122",
+    "year": "2020/12/01",
+    "authors": [
+        {
+            "name": "Jiang-Ping Huang",
+            "country": ""
+        },
+        {
+            "name": "Quan-Ke Pan",
+            "country": ""
+        },
+        {
+            "name": "Liang Gao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

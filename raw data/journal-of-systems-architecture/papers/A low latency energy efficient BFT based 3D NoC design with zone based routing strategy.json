@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762120300321",
+    "title": "A low latency energy efficient BFT based 3D NoC design with zone based routing strategy",
+    "abstract": "NoC , along with 3D IC technology, successfully addresses communication needs in complex many-core systems today. Major challenges are scalability, network efficiency,  power consumption , and  energy dissipation . Topology along with an efficient routing strategy, can mitigate such issues. This work proposes a scalable 3D BFT based design along with a zone-based routing policy. 12–76% minimum latency improvement has been observed compared to the state-of-the-art across eight different traffic patterns under heavy traffic. An average gain of 22–88% in router power consumption prevents traffic  hot spots  achieving 4–32% throughput improvement.",
+    "citation_count": "7",
+    "year": "2020/09/01",
+    "authors": [
+        {
+            "name": "Avik Bose",
+            "country": ""
+        },
+        {
+            "name": "Prasun Ghosal",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

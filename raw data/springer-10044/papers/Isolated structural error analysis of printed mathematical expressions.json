@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-017-0667-y",
+    "title": "Isolated structural error analysis of printed mathematical expressions",
+    "abstract": "Recognition of mathematical expressions (MEs) has two stages: symbol recognition and structural analysis. Symbols are recognized in the first stage, while structure (spatial relationships like superscript, subscript) is interpreted in the second stage. Errors in any stage may affect the overall recognition performance. Due to complex two-dimensional nature of MEs, structural analysis is a challenging task eventhough all symbols are properly recognized. In our present work, we have focused on structural analysis of printed mathematical expressions in an isolated manner. We have analyzed various structural errors and presented the behavior of isolated structural analysis module in the context of perfect symbol recognition. For our error analysis, we have created a database of 829 expression images. For each image in the database, we have also generated ground truth symbol labels to simulate perfect symbol recognition. As ground truth symbol labels are readily available, our database can also be used as a benchmark to compare various structural analysis approaches.",
+    "citation_count": 68,
+    "year": "2018/11",
+    "authors": [
+        {
+            "name": "Kumar, P. Pavan",
+            "country": "India"
+        },
+        {
+            "name": "Agarwal, Arun",
+            "country": "India"
+        },
+        {
+            "name": "Bhagvati, Chakravarthy",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

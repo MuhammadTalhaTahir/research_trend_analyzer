@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885617301221",
+    "title": "Analyzing of facial paralysis by shape analysis of 3D face sequences",
+    "abstract": "In this paper, we address the problem of quantifying the facial asymmetry from 3D face sequence (4D). We investigate the role of 4D data to reveal the amount of both static and dynamic asymmetry in the clinical case of facial paralysis. The goal is to provide tools to clinicians to evaluate quantitatively facial paralysis treatment based on  Botulinum Toxin  (BT), which can provide qualitative and  quantitative evaluations . To this end, Dense  Scalar Fields  (DSFs), based on Riemannian analysis of 3D facial shape, is proposed to quantify facial deformations. To assess this approach, a new 3D facial sequences of 16 patients data set is collected, before and after injecting the BT. For each patient, we have collected 8 facial expressions before and after injecting BT. Experimental results obtained on this data set show that the proposed approach allows clinicians to evaluate more accurately the facial asymmetry before and after the treatment.",
+    "citation_count": "13",
+    "year": "2017/11/01",
+    "authors": [
+        {
+            "name": "Paul Audain Desrosiers",
+            "country": ""
+        },
+        {
+            "name": "Yasmine Bennis",
+            "country": ""
+        },
+        {
+            "name": "Mohamed Daoudi",
+            "country": ""
+        },
+        {
+            "name": "Boulbaba Ben Amor",
+            "country": ""
+        },
+        {
+            "name": "Pierre Guerreschi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,46 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650216305879",
+    "title": "Lifecycle coevolution framework for many evolutionary and swarm intelligence algorithms fusion in solving complex optimization problems",
+    "abstract": "In last few decades, many different evolutionary and  swarm intelligence  (EA and SI) algorithms have been delicately developed for solving complex optimization problems. However, according to  no free lunch theorem  (NFL), a general-purpose universal EA or SI algorithm that is efficient for various types of optimization problems is theoretically impossible. The main focus in this research is to prove that there are potential free lunches in coevolutionary optimization mode. The significant improvements in the generality and effectiveness of EA and SI search ability can be achieved by fusing unlimited number of optimization algorithms based on the new concept of Lifecycle  Coevolution  Framework (LCF). The main innovation of LCF is to run the different SI algorithms simultaneously, in which individuals of each optimizer dynamically shift their states of birth, searching, learning, reproduction, and death throughout the whole colony  life cycle . Based on LCF, we instantiate a novel coevolutionary optimization algorithm called a Lifecycle Framework of Multiple Evolution Algorithms (LCFMEAs). For purposes of examining the success of LCFMEAs in solving complex optimization problems, 50 benchmark functions with different specifications are employed. The results show that LCFMEAs provide extremely competitive performance when it is compared with six widely used evolutionary and  swarm intelligence  algorithms.",
+    "citation_count": "5",
+    "year": "2019/06/01",
+    "authors": [
+        {
+            "name": "Maowei He",
+            "country": ""
+        },
+        {
+            "name": "Yabao Hu",
+            "country": ""
+        },
+        {
+            "name": "Hanning Chen",
+            "country": ""
+        },
+        {
+            "name": "Liling Sun",
+            "country": ""
+        },
+        {
+            "name": "Xiaoxuan Wang",
+            "country": ""
+        },
+        {
+            "name": "Weixing Su",
+            "country": ""
+        },
+        {
+            "name": "Fang Liu",
+            "country": ""
+        },
+        {
+            "name": "Xiaodan Liang",
+            "country": ""
+        },
+        {
+            "name": "Lianbo Ma",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

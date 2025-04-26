@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959519303455",
+    "title": "The effect of batch size on the generalizability of the convolutional neural networks on a histopathology dataset",
+    "abstract": "Many hyperparameters have to be tuned to have a robust convolutional neural network that will be able to accurately classify images. One of the most important hyperparameters is the batch size, which is the number of images used to train a single forward and backward pass. In this study, the effect of batch size on the performance of convolutional neural networks and the impact of learning rates will be studied for image classification, specifically for medical images. To train the network faster, a VGG16 network with ImageNet weights was used in this experiment. Our results concluded that a higher batch size does not usually achieve high accuracy, and the learning rate and the optimizer used will have a significant impact as well. Lowering the learning rate and decreasing the batch size will allow the network to train better, especially in the case of fine-tuning.",
+    "citation_count": "0",
+    "year": "2020/12/01",
+    "authors": [
+        {
+            "name": "Ibrahem Kandel",
+            "country": ""
+        },
+        {
+            "name": "Mauro Castelli",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

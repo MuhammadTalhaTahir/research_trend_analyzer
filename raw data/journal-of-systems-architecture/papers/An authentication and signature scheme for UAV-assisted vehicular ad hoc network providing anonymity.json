@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762123001145",
+    "title": "An authentication and signature scheme for UAV-assisted vehicular ad hoc network providing anonymity",
+    "abstract": "Cybersecurity is a hot issue in our times. People try to keep digital attacks away from cyberspace, to finish the task of cybersecurity. A vehicular ad hoc network (VANET) with drone assistance is an important part of cyberspace, which can be used in disastrous or rural areas. The data produced on the vehicle side should go through different channels to the central server for processing. However, various attacks may occur in communication, and the tasks of data security in VANETs attract researchers to solve them. Although, researchers have come up with various solutions to overcome the flaws, the various security loopholes are still needed to be addressed. In this paper, we present a new and secure signature-based scheme for UAV-assisted VANETs, which can ensure that the produced data on the vehicles are transmitted securely. Also, the identities of vehicles can be tracked, if they should be monitored by the police. We present the formal and informal security analysis of the proposed scheme to prove its security against well-known security attacks. The formal security analysis is presented based on the widely used random oracle model. The informal analysis is presented using the assumptions of the threat model. Also, Proverif is used to illustrate the security of our scheme under Dolev-Yao model. Furthermore, we present a detailed performance analysis of the proposed protocol along with a simulation to show that the proposed scheme is practical.",
+    "citation_count": "3",
+    "year": "2023/09/01",
+    "authors": [
+        {
+            "name": "Yangyang Liu",
+            "country": ""
+        },
+        {
+            "name": "Qi Xia",
+            "country": ""
+        },
+        {
+            "name": "Xiong Li",
+            "country": ""
+        },
+        {
+            "name": "Jianbin Gao",
+            "country": ""
+        },
+        {
+            "name": "Xiaosong Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

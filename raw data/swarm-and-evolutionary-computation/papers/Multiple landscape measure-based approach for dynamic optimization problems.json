@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224001160",
+    "title": "Multiple landscape measure-based approach for dynamic optimization problems",
+    "abstract": "Many practical decision-making problems involve dynamic scenarios, where the decision variables, conditions and/or parameters of their optimization models change over time. Such problems are known as dynamic optimization problems (DOPs). Although evolutionary algorithms (EAs) have been effective in solving static optimization problems, they face challenges in handling DOPs. To improve the performance of EAs in dealing with DOPs, this paper proposes a new evolutionary framework that uses different landscape measures to analyze problem landscapes and utilizes the information gained from this to improve the searching process. The proposed method is adopted in three EAs to deal with dynamic functions from IEEE-CEC2009 and two real-world problems. According to the experimental results, LIDOA with multi-measure methods improves the performance of GA, jDE and CMA-ES, on average by 6.71%, 3.03% and 7.78% on benchmark problems, respectively.",
+    "citation_count": "0",
+    "year": "2024/07/01",
+    "authors": [
+        {
+            "name": "Kangjing Li",
+            "country": ""
+        },
+        {
+            "name": "Saber Elsayed",
+            "country": ""
+        },
+        {
+            "name": "Ruhul Sarker",
+            "country": ""
+        },
+        {
+            "name": "Daryl Essam",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762120300527",
+    "title": "Command queue-aware host I/O stack for mobile flash storage",
+    "abstract": "Recently, mobile storage devices such as an embedded multimedia card (eMMC) and universal flash storage (UFS) support command queuing. However, the current Linux I/O stack is not designed considering flash memory devices that support command queuing. In this paper, we observe the I/O performance at a command queue-supporting device and introduce several pitfalls of the current host I/O stack. First, although the latency of synchronous I/O requests can be increased due to the  priority inversion  in the command queue, the Linux I/O scheduler has no concern about the issue. Second, although the I/O bandwidth is determined by the total size of pending I/O requests rather than the total number of them in the command queue, the current I/O scheduler does not have a size-based scheduling scheme. Third, there can be interference between different types of requests in the command queue degrading the overall I/O performance. To resolve these problems, we introduce a novel command queue-aware host I/O stack, which consists of three techniques, latency-aware throttling, aggressive readahead, and interference-preventive scheduling. The experiments show that the command queue-aware techniques can improve both the foreground synchronous request latency and the background sequential I/O bandwidth when the two different types of tasks run concurrently.",
+    "citation_count": "7",
+    "year": "2020/10/01",
+    "authors": [
+        {
+            "name": "Kyuhwa Han",
+            "country": ""
+        },
+        {
+            "name": "Dongkun Shin",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

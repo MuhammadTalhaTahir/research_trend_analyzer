@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762116000199",
+    "title": "Definitions of predictability for Cyber Physical Systems",
+    "abstract": "With the recent proliferation of different types of  Cyber Physical Systems  (CPS), it is critically important to investigate the predictability of such systems. Along with functional correctness of the components, these systems must also ensure that timing and delay constraints of components are properly for the entire system to behave in a predictable manner in presence of various kinds of uncertainties. While the functional correctness of the CPS components has been investigated in the past, very little is available about the timing issues. The objective of this paper is to conduct an investigation of key issues involved to ensure the predictability of the system, introduce rigorous definitions of performance parameters, and propose metrics for their evaluation and analyze their suitability to be used in the presence of uncertainties in which CPS operate. The results are expected to provide greater insight into the time  critical behavior  of CPS components.",
+    "citation_count": "30",
+    "year": "2016/02/01",
+    "authors": [
+        {
+            "name": "Beilei Sun",
+            "country": ""
+        },
+        {
+            "name": "Xi Li",
+            "country": ""
+        },
+        {
+            "name": "Bo Wan",
+            "country": ""
+        },
+        {
+            "name": "Chao Wang",
+            "country": ""
+        },
+        {
+            "name": "Xuehai Zhou",
+            "country": ""
+        },
+        {
+            "name": "Xianglan Chen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218301482",
+    "title": "A study on rotation invariance in differential evolution",
+    "abstract": "Epistasis is the correlation between the variables of a function and is a challenge often posed by real-world optimisation problems. Synthetic benchmark problems simulate a highly epistatic problem by performing a so-called problem's rotation. Mutation in Differential Evolution (DE) is inherently rotational invariant since it simultaneously perturbs all the variables. On the other hand, crossover, albeit fundamental for achieving a good performance, retains some of the variables, thus being inadequate to tackle highly epistatic problems. This article proposes an extensive study on rotational invariant crossovers in DE. We propose an analysis of the literature, a taxonomy of the proposed method and an experimental setup where each problem is addressed in both its non-rotated and rotated version. Our experimental study includes 280 problems over five different levels of dimensionality and nine algorithms. Numerical results show that 1) for a fixed quota of transferred design variables, the exponential crossover displays a better performance, on both rotated and non-rotated problems, in high dimensions while the binomial crossover seems to be preferable in low dimensions; 2) the rotational invariant mutation DE/current-to-rand is not competitive with standard DE implementations throughout the entire set of experiments we have presented; 3) DE crossovers that perform a change of coordinates to distribute the moves over the components of the offspring offer high-performance results on some problems. However, on average the standard DE/rand/1/exp appears to achieve the best performance on both rotated and non-rotated testbeds.",
+    "citation_count": "26",
+    "year": "2019/11/01",
+    "authors": [
+        {
+            "name": "Fabio Caraffini",
+            "country": ""
+        },
+        {
+            "name": "Ferrante Neri",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

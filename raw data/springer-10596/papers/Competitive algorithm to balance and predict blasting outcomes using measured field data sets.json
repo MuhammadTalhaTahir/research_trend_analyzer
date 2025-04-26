@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-023-10254-x",
+    "title": "Competitive algorithm to balance and predict blasting outcomes using measured field data sets",
+    "abstract": "In this investigation, a new technique termed Firefly-XGBoost was developed to forecast and reconcile blasting results like mean fragmentation size (MFS) and peak particle velocity (PPV). As a result, the particle swarm optimization (PSO) algorithm and firefly algorithm were used to enhance the effectiveness of the XG Boost conventional model. A total of 152 blast experiments were performed at three different mines, and data acquired from these experiments were used to train the model. This data included special feature of joints spanning height (JSH), and other blast parameters like the number of joint sets, the total quantity of explosives, stemming length, decking length, maximum charge/delay, and rock uni-axial compressive strength (UCS).The XG Boost, PSO-XG Boost, and Firefly XG Boost algorithms were compared, and the Firefly-XG Boost findings were superior according to&nbsp;RMSE and R2 values.",
+    "citation_count": 72,
+    "year": "2023/12",
+    "authors": [
+        {
+            "name": "Chandrahas, N. Sri",
+            "country": "India"
+        },
+        {
+            "name": "Choudhary, B. S.",
+            "country": "India"
+        },
+        {
+            "name": "Venkataramayya, M. S.",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

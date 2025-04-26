@@ -1,0 +1,42 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224001871",
+    "title": "Solving dynamic multimodal optimization problems via a niching-based brain storm optimization with two archives algorithm",
+    "abstract": "Dynamic and multimodal properties are simultaneously possessed in the dynamic multimodal optimization problems (DMMOPs), which aim to find multiple optimal solutions in a dynamic environment. However, more work still needs to be devoted to solving DMMOPs, which still require significant attention. A niching-based brain storm optimization with two archives (NBSO2A) algorithm is proposed to solve DMMOPs. The two niching methods,  i.e. , neighborhood-based speciation (NS), and nearest-better clustering (NBC), are incorporated into a BSO algorithm to generate new solutions. The two archives preserve the optimal solutions that meet the requirements and practical, inferior solutions discarded during the generation. Improved taboo area (ITA) removes highly similar individuals from the population. An evolution strategy with  covariance matrix  adaptation (CMA-ES) is adopted to enhance the local search ability and improve the quality of the solutions. The NBSO2A algorithm and four other algorithms were tested on 12 benchmark problems to validate the performance of the NBSO2A algorithm on DMMOPs. The experimental results show that the NBSO2A algorithm outperforms the other compared algorithms on most tested benchmark problems.",
+    "citation_count": "4",
+    "year": "2024/08/01",
+    "authors": [
+        {
+            "name": "Honglin Jin",
+            "country": ""
+        },
+        {
+            "name": "Xueping Wang",
+            "country": ""
+        },
+        {
+            "name": "Shi Cheng",
+            "country": ""
+        },
+        {
+            "name": "Yifei Sun",
+            "country": ""
+        },
+        {
+            "name": "Mingming Zhang",
+            "country": ""
+        },
+        {
+            "name": "Hui Lu",
+            "country": ""
+        },
+        {
+            "name": "Husheng Wu",
+            "country": ""
+        },
+        {
+            "name": "Yuhui Shi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

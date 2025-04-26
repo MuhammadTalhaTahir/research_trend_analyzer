@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-015-9854-1",
+    "title": "Two-person cooperative games on scheduling problems in outpatient pharmacy dispensing process",
+    "abstract": "This paper considers two-person cooperative games on scheduling problem which is motivated by the medication dispensing at outpatient pharmacies. We prove that two-person cooperative games on minimizing the number of tardy jobs is NP-hard, and two-person cooperative games on minimizing the total weighted number of tardy jobs and on minimizing the total weighted completion time are NP-hard even if the jobs have the same processing times. We develop dynamic programming algorithms for problems of two-person cooperative games on minimizing the total (weighted) number of tardy jobs and on minimizing the total (weighted) completion time respectively, which run in pseudo-polynomial time and indicate that they are binary NP-hard.",
+    "citation_count": 14,
+    "year": "2015/11",
+    "authors": [
+        {
+            "name": "Liu, Lili",
+            "country": "China"
+        },
+        {
+            "name": "Tang, Guochun",
+            "country": "China"
+        },
+        {
+            "name": "Fan, Baoqiang",
+            "country": "China"
+        },
+        {
+            "name": "Wang, Xingpeng",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218309787",
+    "title": "Improved NSGA-III with selection-and-elimination operator",
+    "abstract": "A fast non-dominated sorting  genetic algorithm  based on reference-point strategy (NSGA-III) is a well-known many-objective  optimization algorithm  in which the reference-point strategy is incorporated to maintain population diversity. However, the convergence capability of NSGA-III is poor in many cases. In this paper, a new selection-and-elimination operator is designed to balance convergence and diversity. First, a selection operator is employed to identify the  reference point  with the minimum niche count, and then one individual with the shortest penalty-based boundary intersection distance is chosen. Second, a  reference point  with the maximum niche count is identified, and one individual with the longest penalty-based boundary intersection distance is removed by the elimination operator. To test performance, this modification is verified on benchmark problems with up to 15 objectives, and compared with five other state-of-the-art algorithms. Simulation results demonstrate that our modified strategy can achieve the better performance.",
+    "citation_count": "141",
+    "year": "2019/09/01",
+    "authors": [
+        {
+            "name": "Zhihua Cui",
+            "country": ""
+        },
+        {
+            "name": "Yu Chang",
+            "country": ""
+        },
+        {
+            "name": "Jiangjiang Zhang",
+            "country": ""
+        },
+        {
+            "name": "Xingjuan Cai",
+            "country": ""
+        },
+        {
+            "name": "Wensheng Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

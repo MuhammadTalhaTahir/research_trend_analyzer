@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223000093",
+    "title": "An adaptive two-stage evolutionary algorithm for large-scale continuous multi-objective optimization",
+    "abstract": "This paper proposes an adaptive two-stage large-scale multi-objective  evolutionary algorithm , in which a neural network-based accelerating optimizer is designed in the first stage to speed up the population's convergence and a layer-based competitive swarm optimizer is used in the second stage to maintain the population's diversity by spreading the solutions obtained in the first stage. To properly train the  neural network  in the first stage, the whole population, i.e., the training data, is evenly divided into two subsets with different qualities based on the dominant relationship between solutions. Then, the paired low-quality solutions and high-quality solutions, respectively, act as the input and the expected output when training the neural network. In this way, the potentially directional improvement information of the evolutionary population can be learned by this neural network, which is used to guide the adopted differential evolution in promising search directions. Once the population is detected to be evolutionarily stagnated in the first stage, the second stage will be activated for remedying the population's diversity. Specifically, the promising solutions gained in the first stage are assigned into four layers with different qualities by sequentially implementing reference vectors-guided sorting and shift-based density estimation. After that, the solutions in low-quality layers can learn from that in high-quality layers in the proposed competitive swarm optimizer, which allows the population to evolve further in appreciable directions while increasing its diversity. Experimental studies validate the performance of the proposed evolutionary large-scale optimizer when compared with eight state-of-the-art algorithms in solving two widely tested benchmark suites of large-scale multi-objective optimization problems with decision variables ranging from 100 to 1000 under a limited computational resource.",
+    "citation_count": "18",
+    "year": "2023/03/01",
+    "authors": [
+        {
+            "name": "Qiuzhen Lin",
+            "country": ""
+        },
+        {
+            "name": "Jun Li",
+            "country": ""
+        },
+        {
+            "name": "Songbai Liu",
+            "country": ""
+        },
+        {
+            "name": "Lijia Ma",
+            "country": ""
+        },
+        {
+            "name": "Jianqiang Li",
+            "country": ""
+        },
+        {
+            "name": "Jianyong Chen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

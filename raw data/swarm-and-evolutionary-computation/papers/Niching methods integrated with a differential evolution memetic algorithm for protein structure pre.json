@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650222000347",
+    "title": "Niching methods integrated with a differential evolution memetic algorithm for protein structure prediction",
+    "abstract": "A memetic version between an evolutionary algorithm (differential evolution) and the local search provided by protein fragment replacements was defined for protein structure prediction. In this problem, it is intended to find the global minimum in a high-dimensional energy landscape to discover the native structure of the protein. This problem presents a multimodal energy landscape which can additionally present deceptiveness when searching for the protein structure with minimum energy. One strategy is to try to obtain a diverse set of optimized and different protein conformations, which can be located in different local minima of the energy landscape. For this purpose, different niching methods (crowding, fitness sharing and speciation) were integrated into the memetic algorithm. The integration of niching makes it possible to obtain in a straightforward way a diverse set of optimized and structurally different protein conformations. Compared to previous studies, as well as to the widely used Rosetta protein structure prediction method, the potential solutions offered here present a diverse set of folds with different distances (RMSD) from the real native conformation, with wide RMSD distributions, and obtaining conformations closer to the native structure (in RMSD values) in some proteins.",
+    "citation_count": "0",
+    "year": "2022/06/01",
+    "authors": [
+        {
+            "name": "Daniel Varela",
+            "country": ""
+        },
+        {
+            "name": "José Santos",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

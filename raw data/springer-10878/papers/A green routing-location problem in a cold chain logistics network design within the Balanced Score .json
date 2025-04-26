@@ -1,0 +1,37 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-023-01056-z",
+    "title": "A green routing-location problem in a cold chain logistics network design within the Balanced Score Card pillars in fuzzy environment",
+    "abstract": "Providing a greenhouse gas emissions perspective based on the characteristics of perishable products has made the cold chain an important topic. This paper develops a mixed integer nonlinear programming routing-location model to improve the cold chain logistics network design within the Balanced Score Card (BSC) pillars by maximizing the customer satisfaction and minimizing unit cost and greenhouse gas emissions in order to solve the optimization problem of the marine product distribution logistics system. Seven different costs are considered to deal with the characteristics of the cold chain logistics industry. An uncertain routing-location problem has been analyzed, as well as Methane and Nitrogen Oxide emissions. On the other hand, BSC has been utilized to evaluate the performance of the organization. This paper presents a mathematical optimization model for reducing system costs and evaluating system performance based on BSC, while accounting for greenhouse gas emissions and uncertainty in problem parameter values. The desired model has subsequently been solved using the BARON solver. Due to its consideration of seven types of costs, the proposed model is able to assess the costs of the cold chain logistics system with greater precision, as demonstrated by the findings of this study. In addition, these results indicate that a rise in customer satisfaction raises the overall system’s expenses, but increases customer loyalty. The proposed model assists supply chain managers in selecting the optimal number of distribution centers and the most efficient routes to reduce overall system costs. They can attempt to protect the environment by establishing a relationship between customer satisfaction and greenhouse gas emissions, such as carbon dioxide, methane, and nitrogen oxide.",
+    "citation_count": 58,
+    "year": "2023/07",
+    "authors": [
+        {
+            "name": "Moghaddasi, Benyamin",
+            "country": "Iran"
+        },
+        {
+            "name": "Majid, Amir Salar Ghafari",
+            "country": "Iran"
+        },
+        {
+            "name": "Mohammadnazari, Zahra",
+            "country": "UK"
+        },
+        {
+            "name": "Aghsami, Amir",
+            "country": "Iran"
+        },
+        {
+            "name": "Rabbani, Masoud",
+            "country": "Iran"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

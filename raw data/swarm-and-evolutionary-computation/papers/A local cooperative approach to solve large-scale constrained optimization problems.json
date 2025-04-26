@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218307429",
+    "title": "A local cooperative approach to solve large-scale constrained optimization problems",
+    "abstract": "Cooperative Co-evolutionary algorithms are very popular to solve large-scale problems. A significant part of these algorithms is the decomposition of the problems according to the  variables interaction . In this paper, an approach based on a memetic scheme, where its local stage (and not the global stage) is guided by the  decomposition method  (Local Cooperative Search LoCoS), is presented to solve large-scale  constrained optimization  problems. Two decomposition methods are tested: the improved version of the Variable Interdependence Identification for Constrained problems and Differential Grouping version 2. A recently-proposed benchmark with eighteen test problems with different features is solved to assess the performance of LoCoS when compared against a similar memetic algorithm but without decomposition and also against a state-of-the-art cooperative co-evolutionary algorithm. The results show a faster convergence, better  final results  and higher feasibility ratio by LoCosS with respect to the values provided by the compared algorithms.",
+    "citation_count": "14",
+    "year": "2019/12/01",
+    "authors": [
+        {
+            "name": "Adan E. Aguilar-Justo",
+            "country": ""
+        },
+        {
+            "name": "Efrén Mezura-Montes",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

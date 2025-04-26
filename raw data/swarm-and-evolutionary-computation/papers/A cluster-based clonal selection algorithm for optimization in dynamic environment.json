@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218300944",
+    "title": "A cluster-based clonal selection algorithm for optimization in dynamic environment",
+    "abstract": "Comparing with stationary  optimization problems ,  dynamic optimization  problems pose more serious challenge to traditional  optimization algorithms . For solving such problem, the algorithms should track the changing optima persistently. In this paper, a cluster based  clonal selection  algorithm for global optimization in a dynamic fitness landscape is presented. The population is partitioned into  multiple clusters  according to the  spatial locations  at first, and then each cluster is evolved separately by using a learning based clonal  selection algorithm , in which, the learning strategy within the cluster and interaction among clusters are introduced to the hypermutation operator to improve search ability. In addition, memory mechanism is presented to deposit the previous searching information and reused for optima tracking after environmental change. Experimental results demonstrate that the proposed algorithm is superior to the immune based algorithms and is competitive with respect to the state of the art designs for dynamic optimization problems.",
+    "citation_count": "35",
+    "year": "2019/11/01",
+    "authors": [
+        {
+            "name": "Weiwei Zhang",
+            "country": ""
+        },
+        {
+            "name": "Weizheng Zhang",
+            "country": ""
+        },
+        {
+            "name": "Gary G. Yen",
+            "country": ""
+        },
+        {
+            "name": "HongLei Jing",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

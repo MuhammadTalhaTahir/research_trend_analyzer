@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762116300583",
+    "title": "Write reconstruction for write throughput improvement on MLC PCM based main memory",
+    "abstract": "The emerging  Phase Change Memory  (PCM) is considered as one of the most promising candidates to replace DRAM as main memory due to its better scalability and non-volatility. With multi-bit storage capability, Multiple-Level-Cell (MLC) PCM outperforms Single-Level-Cell (SLC) in density. However, the high write latency has been a  performance bottleneck  for MLC PCM for two reasons: First, MLC PCM has a much longer programming time; Second, the write latencies of different cell  state transitions  range significantly. When cells are concurrently written in the burst mode, the write latency of a burst is delayed by the worst state transitions. To improve the write throughput of MLC PCM based main memory, this paper proposes a Write Reconstruction (WR) scheme. WR reconstructs multiple burst writes targeting the same memory row, where the worst case cells are grouped together at some writes. With this approach, the write latency of other writes will be reduced. WR incurs low implementation overhead and shows significant efficiency. Experimental results show that WR achieves 18.1% of write  latency reduction  on average, with negligible power overhead.",
+    "citation_count": "3",
+    "year": "2016/11/01",
+    "authors": [
+        {
+            "name": "Huizhang Luo",
+            "country": ""
+        },
+        {
+            "name": "Penglin Dai",
+            "country": ""
+        },
+        {
+            "name": "Liang Shi",
+            "country": ""
+        },
+        {
+            "name": "Chun Jason Xue",
+            "country": ""
+        },
+        {
+            "name": "Qingfeng Zhuge",
+            "country": ""
+        },
+        {
+            "name": "Edwin H.M. Sha",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

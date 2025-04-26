@@ -1,0 +1,35 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-019-01337-0",
+    "title": "Co-Existence Analysis on Satellite-Terrestrial Integrated IMT System",
+    "abstract": "As a powerful supplement, satellite component has been already investigated into international mobile telecommunications (IMT) systems. In accordance with the Radio Regulation of International Telecommunication Union (ITU), satellite components of IMT are being considered for deployment in adjacent or even the same frequency bands of IMT terrestrial components being deployed. Since the satellite and terrestrial components of IMT under consideration are envisaged to cover multiple countries, the potential electromagnetic interference (EMI) issues need to be studied. In this paper, electromagnetic compatibility (EMC) between satellite and terrestrial components of IMT is studied. Numerical simulations show that mutual interference between satellite and terrestrial components cannot be ignored no matter which orbit altitude is chosen. Therefore, several anti-interference measures are also analyzed to avoid harmful mutual interference between them.",
+    "citation_count": 22,
+    "year": "2019/12",
+    "authors": [
+        {
+            "name": "Qu, Zhicheng",
+            "country": "China"
+        },
+        {
+            "name": "Liu, Ziwei",
+            "country": "China"
+        },
+        {
+            "name": "Ding, Xiaojin",
+            "country": "China"
+        },
+        {
+            "name": "Cao, Haotong",
+            "country": "China"
+        },
+        {
+            "name": "Zhang, Gengxin",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

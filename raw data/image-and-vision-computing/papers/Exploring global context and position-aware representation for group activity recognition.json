@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002865",
+    "title": "Exploring global context and position-aware representation for group activity recognition",
+    "abstract": "This paper explores the context and  position information  in the scene for group activity understanding. Firstly, previous group activity recognition methods strive to reason on individual features without considering the information in the scene. Besides correlations among actors, we argue that integrating the scene context simultaneously can afford us more useful and supplementary cues. Therefore, we propose a new network, termed Contextual Transformer Network (CTN), to incorporate global contextual information into individual representations. In addition, the position of individuals also plays a vital role in group activity understanding. Unlike previous methods that explore correlations among individuals semantically, we propose Clustered  Position Embedding  (CPE) to integrate the spatial structure of actors and produce position-aware representations. Experimental results on two widely used datasets for sports video and  social activity  (i.e.,  Volleyball  and Collective Activity datasets) show that the proposed method outperforms state-of-the-art approaches. Especially, when using ResNet-18 as the backbone, our method achieves 93.6/93.9% MCA/MPCA on the Volleyball dataset and 95.4/96.3% MCA/MPCA on the Collective Activity dataset.",
+    "citation_count": "0",
+    "year": "2024/09/01",
+    "authors": [
+        {
+            "name": "Zexing Du",
+            "country": ""
+        },
+        {
+            "name": "Qing Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217309653",
+    "title": "A distance between populations for n-points crossover in genetic algorithms",
+    "abstract": "The theoretical study of  Genetic Algorithms  and the  dynamics  induced by their  genetic  operators is a research field with a long history and many different approaches. In this paper we complete a recently presented approach to model one-point crossover using pretopologies (or Čechtopologies) in two ways. First, we extend it to the case of  n -points crossover. We extend the definition of crossover distance between populations to work for  n -points crossover, proving that computing it can be performed in  polynomial time  for any fixed number of crossover points. Secondly, we experimentally study how the distance distribution changes when the number of crossover points increases. In particular, the average distance between a population and the optimum  decreases  with the increase in the number of crossover points, showing that increasing the latter can reduce the number of crossover operations needed to evolve an optimal solution.",
+    "citation_count": "6",
+    "year": "2019/02/01",
+    "authors": [
+        {
+            "name": "Mauro Castelli",
+            "country": ""
+        },
+        {
+            "name": "Gianpiero Cattaneo",
+            "country": ""
+        },
+        {
+            "name": "Luca Manzoni",
+            "country": ""
+        },
+        {
+            "name": "Leonardo Vanneschi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650212000132",
+    "title": "Comparison of computational intelligence algorithms for loadability enhancement of restructured power system with FACTS devices",
+    "abstract": "This paper proposes the use of computational intelligence algorithms to determine the optimal location and control of  Flexible AC Transmission System  (FACTS) devices to enhance the loadability of pool and hybrid models in restructured  power system .  Particle Swarm Optimization  (PSO), Differential Evolution (DE) and  Composite Differential Evolution (CoDE) algorithms  are used and their performances were compared. For this study,  Thyristor  Controlled Series Compensator (TCSC), Static VAR Compensator (SVC) and  Thyristor  Controlled Phase Shifting Transformer (TCPST) are considered. This approach uses AC load flow equations with constraints on real and reactive  power generations , transmission line flow, magnitude of  bus voltages  and FACTS device settings. For the hybrid model, bilateral transactions are modeled using secured bilateral transaction matrix utilizing the AC distribution factor with slack bus contribution. Simulations are performed on IEEE 118 bus system. Maximum loadability, computation time and convergence characteristics are compared. The results indicate that by optimal location and control of FACTS devices, DE enhances the loadability of the pool and hybrid models with less computation time and faster convergence than PSO.  Further the performance of DE is improved by using its variant, CoDE . Among the three FACTS devices, TCSC gives maximum loadability than SVC and TCPST. To conclude, for enhancing the loadability of restructured power system with FACTS devices using the computational intelligence algorithm, DE with TCSC gives maximum loadability with less computational time and faster convergence.  The computational effort is further reduced by using CoDE.",
+    "citation_count": "34",
+    "year": "2012/08/01",
+    "authors": [
+        {
+            "name": "S. Nagalakshmi",
+            "country": ""
+        },
+        {
+            "name": "N. Kamaraj",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

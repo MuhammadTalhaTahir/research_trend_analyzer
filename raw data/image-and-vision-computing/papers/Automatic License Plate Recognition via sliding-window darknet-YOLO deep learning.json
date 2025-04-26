@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885619300575",
+    "title": "Automatic License Plate Recognition via sliding-window darknet-YOLO deep learning",
+    "abstract": "Automatic  License Plate Recognition  (ALPR) is an important  research topic  in the  intelligent transportation system  and image recognition fields. In this work, we address the problem of car license plate detection using a You Only Look Once (YOLO)-darknet  deep learning  framework. In this paper, we use YOLO's 7  convolutional layers  to detect a single class. The detection method is a sliding-window process. The object is to recognize Taiwan's car license plates. We use an AOLP dataset which contained 6 digit car license plates. The sliding window detects each digit of the license plate, and each window is then detected by a single YOLO framework. The system achieves approximately 98.22% accuracy on license plate detection and 78% accuracy on license plate recognition. The system executes a single detection recognition phase, which needs around 800 ms to 1 s for each input image. The system is also tested with different condition complexities, such as rainy background, darkness and dimness, and different hues and saturation of images.",
+    "citation_count": "254",
+    "year": "2019/07/01",
+    "authors": [
+        {
+            "name": "Rung-Ching Hendry",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S221065021730086X",
+    "title": "Micro-time variant multi-objective particle swarm optimization (micro-TVMOPSO) of a solar thermal combisystem",
+    "abstract": "Multi-objective optimization (MOO) algorithms usually require a high number of objective function evaluations to approximate the Pareto-optimal solutions, which can be time-consuming in many  engineering applications . To overcome this issue, MOO algorithms using a small population, often referred to as micro-MOO algorithms, aim at approximating the true  Pareto front  using a smaller number of objective function evaluations. Such algorithms are not common in the evolutionary algorithms literature and their usage in building engineering is seldom. This paper proposes a micro-time variant multi-objective  particle swarm optimization  (micro-TVMOPSO), which is a revised version of the micro-MOPSO algorithm. First, the proposed algorithm is applied along with eight other MOO algorithms to 24 benchmark problems, and their performance is compared by using two metrics. Although the proposed micro-TVMOPSO algorithm faced difficulties in solving some complicated Pareto fronts, it outperformed the eight optimization algorithms on 10 of the 24 selected benchmark problems. After the comparison of proposed micro-TVMOPSO with several MOO algorithms for different benchmark problems, the micro-TVMOPSO is applied to a  case study  in engineering: the design optimization of a residential solar thermal combisystem using two conflicting objective functions, the  life cycle cost  (LCC) and energy use (LCE). Different patterns of variation of the decision variables were observed from the non-dominated solutions found by micro-TVMOPSO, which would have not been possible to notice by performing a single-objective optimization. For instance, the increase of number of solar collectors from 1 to 10 had the impact of increasing the LCC by 84% and decreasing the LCE by 63%. The results indicated that the number of solar thermal collectors is the variable having the most effect on both LCC and LCE. When the number of collectors increases, more energy is harvested, and larger tanks and less  auxiliary  electric power are needed.",
+    "citation_count": "12",
+    "year": "2017/10/01",
+    "authors": [
+        {
+            "name": "Anthony Rey",
+            "country": ""
+        },
+        {
+            "name": "Radu Zmeureanu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

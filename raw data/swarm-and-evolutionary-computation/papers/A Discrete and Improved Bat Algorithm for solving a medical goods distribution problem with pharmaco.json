@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217307630",
+    "title": "A Discrete and Improved Bat Algorithm for solving a medical goods distribution problem with pharmacological waste collection",
+    "abstract": "The work presented in this paper is focused on the resolution of a real-world drugs distribution problem with pharmacological waste collection. With the aim of properly meeting all the real-world restrictions that comprise this complex problem, we have modeled it as a multi-attribute or rich  vehicle routing problem  (RVRP). The problem has been modeled as a Clustered Vehicle Routing Problem with Pickups and Deliveries, Asymmetric  Variable Costs , Forbidden Roads and Cost Constraints. To the best of authors knowledge, this is the first time that such a RVRP problem is tackled in the literature. For this reason, a benchmark composed of 24 datasets, from 60 to 1000 customers, has also been designed. For the developing of this benchmark, we have used real geographical positions located in Bizkaia, Spain. Furthermore, for the proper dealing of the proposed RVRP, we have developed a Discrete and Improved  Bat Algorithm  (DaIBA). The main feature of this adaptation is the use of the well-known  Hamming Distance  to calculate the differences between the bats. An effective improvement has been also contemplated for the proposed DaIBA, which consists on the existence of two different neighborhood structures, which are explored depending on the bat's distance regarding the best individual of the  swarm . For the experimentation, we have compared the performance of our presented DaIBA with three additional approaches: an  evolutionary algorithm , an evolutionary simulated annealing and a  firefly algorithm . Additionally, with the intention of obtaining rigorous conclusions, two different statistical tests have been conducted: the Friedman's non-parametric test and the Holm's post-hoc test. Furthermore, an additional experimentation has been performed in terms of convergence. Finally, the obtained outcomes conclude that the proposed DaIBA is a promising technique for addressing the designed problem.",
+    "citation_count": "126",
+    "year": "2019/02/01",
+    "authors": [
+        {
+            "name": "Eneko Osaba",
+            "country": ""
+        },
+        {
+            "name": "Xin-She Yang",
+            "country": ""
+        },
+        {
+            "name": "Iztok Fister",
+            "country": ""
+        },
+        {
+            "name": "Javier Del Ser",
+            "country": ""
+        },
+        {
+            "name": "Pedro Lopez-Garcia",
+            "country": ""
+        },
+        {
+            "name": "Alejo J. Vazquez-Pardavila",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

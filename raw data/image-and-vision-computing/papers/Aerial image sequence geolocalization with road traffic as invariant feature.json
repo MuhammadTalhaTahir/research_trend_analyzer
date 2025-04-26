@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885616301056",
+    "title": "Aerial image sequence geolocalization with road traffic as invariant feature",
+    "abstract": "The geolocalization of  aerial images  is important for extracting geospatial information (e.g. the position of buildings, streets, and cars) and for creating maps. The standard is to use an expensive aerial  imaging system  equipped with an accurate  GPS  and IMU and/or do laborious ground control point measurements. In this paper we present a novel method to recognize the  geolocation  of aerial images automatically without any GPS or IMU. We extract road segments in the image sequence by detecting and tracking cars. We search in a database created from a  road network  map for the best matches between the road database and the extracted road segments. Geometric hashing is used to retrieve a shortlist of matches. The matches in the shortlist are ranked by a  verification process . The highest scoring match gives the location and orientation of the images. We show in the experiments that our method can correctly geolocalize the aerial images in various scenes: e.g. urban, suburban, and rural with motorway. Besides the current images only the road map is needed over the search area. We can search an area of 22,500   km 2  containing 32,000   km of streets within minutes on a single cpu.",
+    "citation_count": "11",
+    "year": "2016/08/01",
+    "authors": [
+        {
+            "name": "Gellért Máttyus",
+            "country": ""
+        },
+        {
+            "name": "Friedrich Fraundorfer",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

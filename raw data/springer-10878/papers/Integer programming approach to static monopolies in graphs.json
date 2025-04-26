@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-018-0256-z",
+    "title": "Integer programming approach to static monopolies in graphs",
+    "abstract": "A subset M of vertices of a graph is called a static monopoly, if any vertex v outside M has at least $$\\lceil \\tfrac{1 }{2}\\deg (v)\\rceil $$ neighbors in M. The minimum static monopoly problem has been extensively studied in graph theoretical context. We study this problem from an integer programming point of view for the first time and give a linear formulation for it. We study the facial structure of the corresponding polytope, classify facet defining inequalities of the integer programming formulation and introduce some families of valid inequalities. We show that in the presence of a vertex cut or an edge cut in the graph, the problem can be solved more efficiently by adding some strong valid inequalities. An algorithm is given that solves the minimum monopoly problem in trees and cactus graphs in linear time. We test our methods by performing several experiments on randomly generated graphs. A software package is introduced that solves the minimum monopoly problem using open source integer linear programming solvers.",
+    "citation_count": 21,
+    "year": "2018/05",
+    "authors": [
+        {
+            "name": "Moazzez, Babak",
+            "country": "USA"
+        },
+        {
+            "name": "Soltani, Hossein",
+            "country": "Iran"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

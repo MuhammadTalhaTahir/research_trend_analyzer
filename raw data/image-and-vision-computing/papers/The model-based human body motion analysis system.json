@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885600000469",
+    "title": "The model-based human body motion analysis system",
+    "abstract": "In this paper, we propose a model-based method to analyze the human walking motion. This system consists of three phases: the  preprocessing phase , the model construction phase, and the motion analysis phase. In the experimental results, we show that our system not only analyzes the motion characteristics of the human body, but also recognizes the motion type of the input image sequences. Finally, the synthesized motion sequences are illustrated for verification. The major contributions of this research are: (1) developing a skeleton-based method to analyze the human motion; (2) using  Hidden Markov Model  (HMM) and posture patterns to describe the motion type.",
+    "citation_count": "29",
+    "year": "2000/11/01",
+    "authors": [
+        {
+            "name": "I.-Cheng Chang",
+            "country": ""
+        },
+        {
+            "name": "Chung-Lin Huang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

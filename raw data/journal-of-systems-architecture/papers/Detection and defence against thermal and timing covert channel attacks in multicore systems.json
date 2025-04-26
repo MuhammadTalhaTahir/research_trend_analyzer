@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762125000529",
+    "title": "Detection and defence against thermal and timing covert channel attacks in multicore systems",
+    "abstract": "As interest in multicore systems grows, so does the potential for information leakage through covert channel communication. Covert channel attacks pose severe risks because they can expose confidential information and data. Countering these attacks requires a deep understanding of various covert channel attack types and their characteristics. Thermal covert channel and covert timing channel attacks, which use temperature and timing, respectively to transfer information, are two dominant examples that can compromise sensitive data. In this paper, we propose a methodology for jointly detecting and mitigating these types of attacks, which has been lacking in the literature. Our experiments have demonstrated that the proposed countermeasures can increase the bit error rate (BER) for mitigation while maintaining comparable power consumption to that of the state-of-the-art.",
+    "citation_count": "0",
+    "year": "2025/04/01",
+    "authors": [
+        {
+            "name": "Parisa Rahimi",
+            "country": ""
+        },
+        {
+            "name": "Amit Kumar Singh",
+            "country": ""
+        },
+        {
+            "name": "Xiaohang Wang",
+            "country": ""
+        },
+        {
+            "name": "Seyedali Pourmoafi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

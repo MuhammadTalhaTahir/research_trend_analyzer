@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885605001496",
+    "title": "3D object segmentation using B-Surface",
+    "abstract": "3D object segmentation is important in  computer vision  such as target detection in biomedical image analysis. A new method, called B-Surface algorithm, is generated for 3D object segmentation. An improved 3D external force field combined with the normalized GVF is utilized. After the initialization of a surface model near the target, B-Surface starts to deform to locate the boundary of the object. First, it overcomes the difficulty that comes from analyzing 3D volume image slice by slice. And the speed of B-Surface deformation is enhanced since the internal forces are not needed to compute in every iteration deformation step. Next, the normal at every surface point can be calculated easily since B-Surface is a continuous  deformable model . And it has the ability to achieve high compression ratio (ratio of data to parameters) by presenting the whole surface with only a relatively small number of control points. Experimental results and analysis are presented in this paper. We can see that the B-Surface algorithm can find the surface of the target efficiently.",
+    "citation_count": "8",
+    "year": "2005/12/12",
+    "authors": [
+        {
+            "name": "Xujian Chen",
+            "country": ""
+        },
+        {
+            "name": "Eam Khwang Teoh",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

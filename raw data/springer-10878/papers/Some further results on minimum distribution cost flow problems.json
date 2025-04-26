@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-006-8211-9",
+    "title": "Some further results on minimum distribution cost flow problems",
+    "abstract": "Manufacturing network flow (MNF) is a generalized network model that can model more complicated manufacturing scenarios, such as the synthesis of different materials to one product and/or the distilling of one material to many different products. Minimum distribution cost flow problem (MDCF) is a simplified version of MNF optimization problems, in which a general supplier wants to proportionally distribute certain amount of a particular product from a source node to several retailers at different destinations through a distribution network. A network simplex algorithm has been outlined in recent years for solving a special case of MDCF. In this paper, we characterize the network structure of the bases of the MDCF problem and develop a primal simplex algorithm that exploits the network structure of the problem. These results are extensions of those of the ordinary network flow problems. In conclusion, some related interesting problems are proposed for future research.",
+    "citation_count": 15,
+    "year": "2006/06",
+    "authors": [
+        {
+            "name": "Lu, Haiyan",
+            "country": "China"
+        },
+        {
+            "name": "Yao, Enyu",
+            "country": "China"
+        },
+        {
+            "name": "Qi, Liqun",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

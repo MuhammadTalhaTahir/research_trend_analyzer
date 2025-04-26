@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885625000198",
+    "title": "Partitioned token fusion and pruning strategy for transformer tracking",
+    "abstract": "Transformer-based tracking algorithms have shown outstanding performance in the field of object tracking due to their powerful global information capture capability. However, the redundant background information in the search region results in interference and high computational complexity in searching for the tracked object. To address this problem, we design a partitioned token fusion and pruning strategy for one-stream transformer trackers. The strategy can achieve a better balance between information retention and interference reduction, and it can improve tracking robustness while accelerating inference. Specifically, we partition search tokens into high-correlation, medium-correlation, and low-correlation based on their relevance to the object template. The feature information in the medium-correlation part is fused into the high-correlation part. Low-correlation tokens are directly discarded. Through the differentiated partitioned token fusion and pruning strategy, we not only reduce the number of tokens in the input network, thus reducing the high computational cost of the transformer, but also improve the robustness of tracking by retaining the useful information of the medium-relevant features while reducing the weight of the accompanying background noise information. The proposed strategy has been comprehensively evaluated experimentally in several challenging public benchmarks, and the results show that our approach achieves excellent overall performance compared with current state-of-the-art tracking methods.",
+    "citation_count": "0",
+    "year": "2025/02/01",
+    "authors": [
+        {
+            "name": "Chi Zhang",
+            "country": ""
+        },
+        {
+            "name": "Yun Gao",
+            "country": ""
+        },
+        {
+            "name": "Tao Meng",
+            "country": ""
+        },
+        {
+            "name": "Tao Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

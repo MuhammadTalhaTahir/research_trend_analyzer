@@ -1,0 +1,44 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-024-10315-9",
+    "title": "A recipe to generate sustainably maintainable and extensible hydrogeological datasets to prepare large-scale groundwater models for multiple aquifer systems",
+    "abstract": "Regional groundwater modelling can provide decision-makers and scientists with valuable information required for the sustainable use and protection of groundwater resources in the future. In order to assess and manage the impact of climate change on regional aquifer systems, numerical groundwater models are required which represent the subsurface structures of aquifers and aquitards in 3D at the regional scale and beyond in the most efficient way. A workflow to clearly generate these structural subsurface representations from a variety of data sources is introduced, applying open-source Geographical Information Systems. The resulting structural models can be used with finite element method-based simulation tools, such as the open-source environment OpenGeoSys. The preparation workflow of the structure model is presented for a large river basin in Germany, indicating the applicability of the method even in a challenging hydrogeological region with several stockworks of dipped and fractured sedimentary aquifers, partially showing significantly changing hydraulic conditions due to natural lateral facies changes.",
+    "citation_count": 31,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "Siebert, Christian",
+            "country": "Germany"
+        },
+        {
+            "name": "Rödiger, Tino",
+            "country": "Germany"
+        },
+        {
+            "name": "Houben, Timo",
+            "country": "Germany"
+        },
+        {
+            "name": "diDato, Mariaines",
+            "country": "Germany"
+        },
+        {
+            "name": "Fischer, Thomas",
+            "country": "Germany"
+        },
+        {
+            "name": "Attinger, Sabine",
+            "country": "Germany"
+        },
+        {
+            "name": "Kalbacher, Thomas",
+            "country": "Germany"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

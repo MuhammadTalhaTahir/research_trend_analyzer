@@ -1,0 +1,37 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-020-00646-5",
+    "title": "An approximation algorithm for a general class of parametric optimization problems",
+    "abstract": "In a (linear) parametric optimization problem, the objective value of each feasible solution is an affine function of a real-valued parameter and one is interested in computing a solution for each possible value of the parameter. For many important parametric optimization problems including the parametric versions of the shortest path problem, the assignment problem, and the minimum cost flow problem, however, the piecewise linear function mapping the parameter to the optimal objective value of the corresponding non-parametric instance (the optimal value function) can have super-polynomially many breakpoints (points of slope change). This implies that any optimal algorithm for such a problem must output a super-polynomial number of solutions. We provide a method for lifting approximation algorithms for non-parametric optimization problems to their parametric counterparts that is applicable to a general class of parametric optimization problems. The approximation guarantee achieved by this method for a parametric problem is arbitrarily close to the approximation guarantee of the algorithm for the corresponding non-parametric problem. It outputs polynomially many solutions and has polynomial running time if the non-parametric algorithm has polynomial running time. In the case that the non-parametric problem can be solved exactly in polynomial time or that an FPTAS is available, the method yields an FPTAS. In particular, under mild assumptions, we obtain the first parametric FPTAS for each of the specific problems mentioned above and a $$(3/2 + \\varepsilon )$$ -approximation algorithm for the parametric metric traveling salesman problem. Moreover, we describe a post-processing procedure that, if the non-parametric problem can be solved exactly in polynomial time, further decreases the number of returned solutions such that the method outputs at most twice as many solutions as needed at minimum for achieving the desired approximation guarantee.",
+    "citation_count": 31,
+    "year": "2022/07",
+    "authors": [
+        {
+            "name": "Bazgan, Cristina",
+            "country": "France"
+        },
+        {
+            "name": "Herzel, Arne",
+            "country": "Germany"
+        },
+        {
+            "name": "Ruzika, Stefan",
+            "country": "Germany"
+        },
+        {
+            "name": "Thielen, Clemens",
+            "country": "Germany"
+        },
+        {
+            "name": "Vanderpooten, Daniel",
+            "country": "France"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

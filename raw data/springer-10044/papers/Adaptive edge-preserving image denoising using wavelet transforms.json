@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-012-0266-x",
+    "title": "Adaptive edge-preserving image denoising using wavelet transforms",
+    "abstract": "Image denoising is a relevant issue found in diverse image processing and computer vision problems. It is a challenge to preserve important features, such as edges, corners and other sharp structures, during the denoising process. Wavelet transforms have been widely used for image denoising since they provide a suitable basis for separating noisy signal from the image signal. This paper describes a novel image denoising method based on wavelet transforms to preserve edges. The decomposition is performed by dividing the image into a set of blocks and transforming the data into the wavelet domain. An adaptive thresholding scheme based on edge strength is used to effectively reduce noise while preserving important features of the original image. Experimental results, compared to other approaches, demonstrate that the proposed method is suitable for different classes of images contaminated by Gaussian noise.",
+    "citation_count": 53,
+    "year": "2013/11",
+    "authors": [
+        {
+            "name": "da Silva, Ricardo Dutra",
+            "country": "Brazil"
+        },
+        {
+            "name": "Minetto, Rodrigo",
+            "country": "Brazil"
+        },
+        {
+            "name": "Schwartz, William Robson",
+            "country": "Brazil"
+        },
+        {
+            "name": "Pedrini, Helio",
+            "country": "Brazil"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1026078510855",
+    "title": "Ubiquitous Information Services with JAIN Platform",
+    "abstract": "To provide responsive information services in a ubiquitous computing environment, service software and system development are indispensable. A component-based ubiquitous information system with a JAIN (Java APIs for Integrated Networks) platform to achieve seamless transmissions and reach-everywhere communications was designed in our research. In this development, numerous ubiquitous service modules were identified: location management, roaming, mobile IP and WAP networking. These component-based network modules were constructed using a component composition language with component specification and interface definition, running on top of a distributed service architecture using a JAIN platform to distribute the ubiquitous information services to mobile users. Two applications, Wireless-Application-Protocol (WAP) Mail and Video-on-Demand (VoD) services, show that the JAIN-like platform with the developed networking components effectively fills the gap for application developers between mobile appliances and various kinds of ubiquitous information services.",
+    "citation_count": 15,
+    "year": "2003/12",
+    "authors": [
+        {
+            "name": "Tsuei, Tak-Goa",
+            "country": "Taiwan"
+        },
+        {
+            "name": "Sung, Chih-Yang",
+            "country": "Taiwan"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

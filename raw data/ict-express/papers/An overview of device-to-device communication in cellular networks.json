@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959517301467",
+    "title": "An overview of device-to-device communication in cellular networks",
+    "abstract": "Device-to-device (D2D) communication is expected to play a significant role in upcoming cellular networks as it promises ultra-low latency for communication among users. This new mode may operate in licensed or unlicensed spectrum. It is a novel addition to the traditional cellular communication paradigm. Its benefits are, however, accompanied by many technical and business issues that must be resolved before integrating it into the cellular ecosystem. This paper discusses the main characteristics of D2D communication including its usage scenarios, architecture, technical features, and areas of active research.",
+    "citation_count": "0",
+    "year": "2018/12/01",
+    "authors": [
+        {
+            "name": "Udit Narayana Kar",
+            "country": ""
+        },
+        {
+            "name": "Debarshi Kumar Sanyal",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

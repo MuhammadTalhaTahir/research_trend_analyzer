@@ -1,0 +1,39 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-021-01780-y",
+    "title": "Fast Blind Deblurring of QR Code Images Based on Adaptive Scale Control",
+    "abstract": "With the development of 5G technology, the short delay requirements of commercialization and large amounts of data change our lifestyle day-to-day. In this background, this paper proposes a fast blind deblurring algorithm for QR code images, which mainly achieves the effect of adaptive scale control by introducing an evaluation mechanism. Its main purpose is to solve the out-of-focus caused by lens shake, inaccurate focus, and optical noise by speeding up the latent image estimation in the process of multi-scale division iterative deblurring. The algorithm optimizes productivity under the guidance of collaborative computing, based on the characteristics of the QR codes, such as the features of gradient and strength. In the evaluation step, the Tenengrad method is used to evaluate the image quality, and the evaluation value is compared with the empirical value obtained from the experimental data. Combining with the error correction capability, the recognizable QR codes will be output. In addition, we introduced a scale control parameter to study the relationship between the recognition rate and restoration time. Theoretical analysis and experimental results show that the proposed algorithm has high recovery efficiency and well recovery effect, can be effectively applied in industrial applications.",
+    "citation_count": 40,
+    "year": "2021/12",
+    "authors": [
+        {
+            "name": "Chen, Rongjun",
+            "country": "China"
+        },
+        {
+            "name": "Zheng, Zhijun",
+            "country": "China"
+        },
+        {
+            "name": "Pan, Junfeng",
+            "country": "China"
+        },
+        {
+            "name": "Yu, Yongxing",
+            "country": "China"
+        },
+        {
+            "name": "Zhao, Huimin",
+            "country": "China"
+        },
+        {
+            "name": "Ren, Jinchang",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224000300",
+    "title": "A Q-learning memetic algorithm for energy-efficient heterogeneous distributed assembly permutation flowshop scheduling considering priorities",
+    "abstract": "Most studies on distributed assembly permutation  flowshop scheduling  do not consider product priorities and factory heterogeneity. This causes delays in  critical products  and cannot reflect the real-world production situation. This paper focuses on the energy-efficient heterogeneous distributed assembly permutation  flowshop scheduling  considering priorities (EHDAPFS-P) to minimize total tardiness and  total energy consumption  simultaneously. Unlike traditional models, factory heterogeneity and product priorities are considered to better reflect the production environment and customer satisfaction in real-world situations. Then, a Q-learning  memetic algorithm  (QLMA) is proposed to solve this problem: (i) a high-quality initial population is obtained using a hybrid initialization strategy that combines four problem-specific heuristics; (ii) six efficient neighborhood structures are tailored to guide the population to converge to the promising areas; (iii) the most useful neighborhood structure is selected among the six structures using the Q-learning algorithm to accelerate the convergence, thus maximizing the cumulative and future improvements according to the population state; and (iv) an energy-saving strategy is developed to optimize the total energy consumption without deteriorating the total tardiness. The proposed QLMA is compared with seven state-of-the-art algorithms on 261 benchmark instances to demonstrate its superiority or at least competitiveness.",
+    "citation_count": "23",
+    "year": "2024/03/01",
+    "authors": [
+        {
+            "name": "Cong Luo",
+            "country": ""
+        },
+        {
+            "name": "Wenyin Gong",
+            "country": ""
+        },
+        {
+            "name": "Fei Ming",
+            "country": ""
+        },
+        {
+            "name": "Chao Lu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

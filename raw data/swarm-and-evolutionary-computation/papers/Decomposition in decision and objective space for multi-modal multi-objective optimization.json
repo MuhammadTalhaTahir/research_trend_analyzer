@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650221000031",
+    "title": "Decomposition in decision and objective space for multi-modal multi-objective optimization",
+    "abstract": "Multi-modal multi-objective optimization problems (MMMOPs) have multiple subsets within the Pareto-optimal Set, each independently mapping to the same Pareto-Front. Prevalent multi-objective  evolutionary algorithms  are not purely designed to search for multiple solution subsets, whereas, algorithms designed for MMMOPs demonstrate degraded performance in the objective space. This motivates the design of better algorithms for addressing MMMOPs. The present work identifies the crowding illusion problem originating from using crowding distance globally over the entire decision space. Subsequently, an evolutionary framework, called graph Laplacian based Optimization using Reference vector assisted Decomposition (LORD), is proposed, which uses decomposition in both objective and decision space for dealing with MMMOPs. Its filtering step is further extended to present LORD-II algorithm, which demonstrates its dynamics on multi-modal many-objective problems. The efficacies of the frameworks are established by comparing their performance on test instances from the CEC 2019 multi-modal multi-objective test suite and polygon problems with the state-of-the-art algorithms for MMMOPs and other multi- and many-objective evolutionary algorithms. The manuscript is concluded by mentioning the limitations of the proposed frameworks and future directions to design still better algorithms for MMMOPs. The  source code  is available at  https://worksupplements.droppages.com/lord .",
+    "citation_count": "36",
+    "year": "2021/04/01",
+    "authors": [
+        {
+            "name": "Monalisa Pal",
+            "country": ""
+        },
+        {
+            "name": "Sanghamitra Bandyopadhyay",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217309343",
+    "title": "Hybrid improved firefly-pattern search optimized fuzzy aided PID controller for automatic generation control of power systems with multi-type generations",
+    "abstract": "This article deals with frequency control of five area  power systems  employing a technique which based on the hybridization of improved Firefly optimization Algorithm and Pattern Search technique (hIFA-PS) to tune the parameters of fuzzy aided PID controller. The performance of original  firefly algorithm  (FA) is improved by adding memory, newborn fireflies and using a new updating formula of fireflies which eliminate the wandering movement of the fireflies during the  iteration process . The proposed hIFA-PS technique gets the benefits of FA's global explore capability and local search ability of PS. At first, an interconnected five area  thermal power system  with appropriate Generation Rate Constraints (GRC) and Dead Bands (DB) is considered and the integral constants are optimized by FA. To demonstrate the superiority of the proposed hIFA-PS algorithm results are compared with other soft computing approaches. To improve the dynamic performance, different controller structures are considered and a comparative study of hIFA-PS optimized I/PI/PID/Fuzzy aided PID is presented. The proposed design method is also applied to a five area ten unit system consisting of diverse generation sources such as thermal, hydro, wind,  diesel ,  gas turbine . Performance analysis of the designed controller has been carried out for different system parameters and loading conditions. It has been observed that the designed hIFA-PS based fuzzy logic PID controller performs satisfactorily with varied conditions. The superiority of proposed  AGC approach  over some recently published AGC approaches is also demonstrated.",
+    "citation_count": "104",
+    "year": "2019/02/01",
+    "authors": [
+        {
+            "name": "K.S. Rajesh",
+            "country": ""
+        },
+        {
+            "name": "S.S. Dash",
+            "country": ""
+        },
+        {
+            "name": "Ragam Rajagopal",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

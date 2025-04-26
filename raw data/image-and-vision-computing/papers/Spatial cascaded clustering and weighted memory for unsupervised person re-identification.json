@@ -1,0 +1,38 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885625000666",
+    "title": "Spatial cascaded clustering and weighted memory for unsupervised person re-identification",
+    "abstract": "Recent advancements in unsupervised person re-identification (re-ID) methods have demonstrated high performance by leveraging fine-grained local context, often referred to as part-based methods. However, many existing part-based methods rely on horizontal division to obtain local contexts, leading to misalignment issues caused by various human poses. Moreover, misalignment of semantic information within part features hampers the effectiveness of metric learning, thereby limiting the potential of part-based methods. These challenges result in under-utilization of part features in existing approaches. To address these issues, we introduce the Spatial Cascaded Clustering and Weighted Memory (SCWM) method. SCWM aims to parse and align more accurate local contexts for different human body parts while allowing the memory module to balance hard example mining and noise suppression. Specifically, we first analyze the issues of foreground omissions and spatial confusions in previous methods. We then propose foreground and space corrections to enhance the completeness and reasonableness of human parsing results. Next, we introduce a weighted memory and utilize two weighting strategies. These strategies address hard sample mining for global features and enhance noise resistance for part features, enabling better utilization of both global and part features. Extensive experiments conducted on Market-1501, DukeMTMC-reID and MSMT17 datasets validate the effectiveness of the proposed method over numerous state-of-the-art methods.",
+    "citation_count": "0",
+    "year": "2025/04/01",
+    "authors": [
+        {
+            "name": "Jiahao Hong",
+            "country": ""
+        },
+        {
+            "name": "Jialong Zuo",
+            "country": ""
+        },
+        {
+            "name": "Chuchu Han",
+            "country": ""
+        },
+        {
+            "name": "Ruochen Zheng",
+            "country": ""
+        },
+        {
+            "name": "Ming Tian",
+            "country": ""
+        },
+        {
+            "name": "Changxin Gao",
+            "country": ""
+        },
+        {
+            "name": "Nong Sang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

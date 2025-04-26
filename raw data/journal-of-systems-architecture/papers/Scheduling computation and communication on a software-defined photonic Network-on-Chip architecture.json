@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762117304034",
+    "title": "Scheduling computation and communication on a software-defined photonic Network-on-Chip architecture for high-performance real-time systems",
+    "abstract": "This paper presents a novel scheduling approach that efficiently schedules the computational and the communicational resources of a Software-Defined  Photonic  Network-on-Chip (SD-PNoC) Architecture designed for high-performance real-time systems. The proposed scheduling approach extends the conventional cyclic executive  scheduling algorithm  from the one that schedules solely the  computational resources  into a general one that schedules both the computational and the communicational resources together in a synchronized manner. The proposed SD-PNoC architecture employs  Software Defined Network  (SDN) approach by using application specific conflict-free and contention-free communication patterns to solve the routing and  wavelength assignment  (RWA) problem exists in photonic networks. The implementations of the collective communication primitives such as broadcast and all-to-broadcast are also presented to demonstrate the system as a whole.",
+    "citation_count": "9",
+    "year": "2018/10/01",
+    "authors": [
+        {
+            "name": "Hüseyin Temuçin",
+            "country": ""
+        },
+        {
+            "name": "Kayhan M. İmre",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

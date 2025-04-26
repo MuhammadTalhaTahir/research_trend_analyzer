@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-015-9534-3",
+    "title": "Extension of the Henry semi-analytical solution for saltwater intrusion in stratified domains",
+    "abstract": "The Henry semi-analytical solution is developed for stratified aquifers with exponential and Gaussian permeability–depth relationships and small dispersion. The semi-analytical solution is sought by expanding the stream function and the concentration in an infinite Fourier series truncated at given orders. Due to the heterogeneity, the semi-analytical solution contains additional terms and quickly becomes impractical because of the high truncation orders required to yield stable results. An appropriate evaluation of the most expensive term, involving fairly complex summations, is proposed to render the computation of the semi-analytical solution affordable. Three configurations with the same transmissivity as that for the homogeneous Henry problem are investigated. The first configuration considers an exponential decay of the permeability (k) with depth. The second and third configurations consider an exponential increase and a Gaussian high-low-high distribution of k with depth, respectively. The three configurations are also investigated numerically using an accurate numerical code based on the method of lines and advanced spatial discretization schemes. An excellent agreement is obtained between the semi-analytical and the numerical solutions for all test cases. The results show that the amount of saltwater intrusion is strongly dependent on the heterogeneity. Further, the heterogeneous Henry problem is found to be more suitable for benchmarking density-driven numerical codes because the numerical solution is more sensitive to the grid size than for the homogeneous problem.",
+    "citation_count": 35,
+    "year": "2015/12",
+    "authors": [
+        {
+            "name": "Younes, Anis",
+            "country": "France"
+        },
+        {
+            "name": "Fahs, Marwan",
+            "country": "France"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

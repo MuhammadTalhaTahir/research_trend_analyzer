@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-013-9370-2",
+    "title": "Efficient methods for computing observation impact in 4D-Var data assimilation",
+    "abstract": "This paper presents a practical computational approach to quantify the effect of individual observations in estimating the state of a system. Such a methodology can be used for pruning redundant measurements and for designing future sensor networks. The mathematical approach is based on computing the sensitivity of the analyzed model states (unconstrained optimization solution) with respect to the data. The computational cost is dominated by the solution of a linear system, whose matrix is the Hessian of the cost function, and is only available in operator form. The right-hand side is the gradient of a scalar cost function that quantifies the forecast error of the numerical model. The use of adjoint models to obtain the necessary first- and second-order derivatives is discussed. We study various strategies to accelerate the computation, including matrix-free iterative solvers, preconditioners, and an in-house multigrid solver. Experiments are conducted on both a small-size shallow-water equations model and on a large-scale numerical weather prediction model, in order to illustrate the capabilities of the new methodology.",
+    "citation_count": 51,
+    "year": "2013/12",
+    "authors": [
+        {
+            "name": "Cioaca, Alexandru",
+            "country": "USA"
+        },
+        {
+            "name": "Sandu, Adrian",
+            "country": "USA"
+        },
+        {
+            "name": "de Sturler, Eric",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

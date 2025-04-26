@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762120300734",
+    "title": "Enhancing Internet of Things Security using Software-Defined Networking",
+    "abstract": "Access control technologies are fundamental for addressing the security and privacy requirements of the  Internet of Things  (IoT). This paper proposes an access control solution for  Constrained Application Protocol  (CoAP)-based IoT services. The proposed solution considers a network of a single provider that interconnects various IoT endpoints. It leverages the Software-Defined Networking (SDN) paradigm and implements application aware policy enforcement at the network level. All operations are transparent to the IoT endpoints and no modifications are required to the IoT communication protocol. Furthermore, our solution is built on standard  OpenFlow , hence it is realistic and it can be easily deployed to an existing network. We prove the feasibility of our solution through a  proof of concept  implementation using network emulation.",
+    "citation_count": "25",
+    "year": "2020/11/01",
+    "authors": [
+        {
+            "name": "Bander Alzahrani",
+            "country": ""
+        },
+        {
+            "name": "Nikos Fotiou",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

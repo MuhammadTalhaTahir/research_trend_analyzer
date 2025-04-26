@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1019127721878",
+    "title": "Diversity reception in a multihop packet radio network",
+    "abstract": "The performance improvement which results from the use of multiple antennas at each node in a multihop packet radio network is examined. Four transmission strategies based on three previously proposed routing schemes and one new routing scheme, MTP, are studied. It is found that the use of two antennas can improve the performance of all four transmission strategies by about 25% in a Rayleigh fading environment. The transmission strategy based on the MTP routing scheme is shown to be generally superior to those based on the other three routing schemes.",
+    "citation_count": 14,
+    "year": "2004/04",
+    "authors": [
+        {
+            "name": "Wong, Victor",
+            "country": "Canada"
+        },
+        {
+            "name": "Leung, Cyril",
+            "country": "Canada"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

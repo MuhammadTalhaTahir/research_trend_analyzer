@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624000040",
+    "title": "Noisy label facial expression recognition via face-specific label distribution learning",
+    "abstract": "The uncertainty in Facial expression recognition (FER) data is caused by factors such as ambiguous facial expressions, low-resolution  facial images , the subjectivity of the annotator or subject of expression, and compound expression. FER has been steadily evolving with the advent of  deep learning , but the label inconsistency problem due to the uncertainty in large FER datasets is one of the challenges in FER. Noisy labels in the label inconsistency problem adversely affect emotion recognition results. In this paper, we propose a Face-Specific Label Distribution Learning (FSLDL) method, which encourages deep networks to predict the actual emotion distribution of the input itself, rather than the noisy single label. Under the assumption that the emotion distribution of a specific sample is similar to the emotion distribution of the augmented sample from a different viewpoint, we generate a new target label distribution using facial expression-specific augmented samples. In order to generate a sophisticated target label distribution, the importance weights of the augmented samples are extracted and multiplied by each predicted emotion distribution. In addition, we compensate for the lack of information in the target label distribution by calculating the uncertainty of the provided label, and use it for model training. Finally, we make a more robust model by adding a rank  regularization  loss function for the importance weights and a discriminative loss function for the feature vectors. Representative experiments demonstrated that FSLDL outperforms the state-of-the-art on FER datasets such as RAF-DB, AffectNet, and SFEW. In addition, we demonstrated the effectiveness of the proposed method through various noisy label injection experiments.",
+    "citation_count": "4",
+    "year": "2024/03/01",
+    "authors": [
+        {
+            "name": "Hyunuk Shin",
+            "country": ""
+        },
+        {
+            "name": "Bokyeung Lee",
+            "country": ""
+        },
+        {
+            "name": "Bonhwa Ku",
+            "country": ""
+        },
+        {
+            "name": "Hanseok Ko",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

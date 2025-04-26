@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124001498",
+    "title": "GNSS spoofing detection for UAVs using Doppler frequency and Carrier-to-Noise Density Ratio",
+    "abstract": "Unmanned Aerial Vehicles  (UAVs) are typical real-time embedded systems, which require precise locations for completing flight missions. The  Global Navigation Satellite System  (GNSS) plays a crucial role in navigation and positioning for UAVs. However, GNSS  spoofing attacks  pose an increasing threat to GNSS-dependent UAVs. Existing spoofing detection methods primarily rely on  simulated data , perception data from multiple UAVs, or various  control parameters . This paper proposes SigFeaDet, a signal feature-based GNSS spoofing detection approach for UAVs utilizing  machine learning techniques . The core concept revolves around identifying anomalies in signal features arising from differences between authentic and spoofing signals. Key signal features, including Carrier-to-Noise Density Ratio (CN0) and  Doppler frequency  crucial for GNSS positioning, are employed to discern spoofing signals. Various  machine learning algorithms  are leveraged to train on GNSS signal data, determining the most effective classifier.  TEXBAT  GNSS dataset is processed to extract spoofing signal data, and flight experiments are conducted to gather GNSS data, augmenting the authentic GNSS signal dataset. The detection accuracy exceeds 95%.  Equal Error Rate  (EER) is approximately 5%. We evaluate various impact factors on SigFeaDet to show its robustness, including differences in velocities, altitudes, and experimental locations (10 kilometers apart), and the accuracy consistently surpasses 99%.",
+    "citation_count": "5",
+    "year": "2024/08/01",
+    "authors": [
+        {
+            "name": "Xiaomin Wei",
+            "country": ""
+        },
+        {
+            "name": "Cong Sun",
+            "country": ""
+        },
+        {
+            "name": "Xinghua Li",
+            "country": ""
+        },
+        {
+            "name": "Jianfeng Ma",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

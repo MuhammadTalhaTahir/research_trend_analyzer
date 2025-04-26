@@ -1,0 +1,54 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223001761",
+    "title": "Differential evolution with alternation between steady monopoly and transient competition of mutation strategies",
+    "abstract": "Real parameter single  objective optimization  has been studied for decades. In recent, long-term search is emphasized based on the consideration that, in the field, solving difficulty often scales exponentially with the increase of function dimensionality. For long-term search, Differential Evolution (DE) still performs outstanding among types of population-based  metaheuristics . In this paper, based on IMODE – a  DE algorithm  with three mutation strategies, we propose AMCDE – Differential Evolution with Alternation between steady Monopoly and transient Competition of mutation strategies. Our algorithm has two states. In the  steady state  – monopoly, a selected mutation  strategy controls  the whole population. Once improvement in fitness becomes difficult, the transient state – competition – arises. In the competition state, similar with IMODE, each of the mutation strategies controls a proportion of positions in the population and competes with the others. For enhancement, we propose that positions controlled by the winner among the three mutation strategies continue to be controlled by the mutation strategy in the next generation. Besides, in the competition state, the original selection strategy of IMODE is revised by us for diversification, while adaptation of the crossover rate is updated. Our experiment is based on three CEC benchmark test suites and the CEC 2011 suite of real world  optimization problems . AMCDE is compared with seven peers. Based on experimental results, our algorithm demonstrates superior or at the very least comparable performance for long-term search compared to the peers. Moreover, we do experimental observation on AMCDE.",
+    "citation_count": "7",
+    "year": "2023/12/01",
+    "authors": [
+        {
+            "name": "Chenxi Ye",
+            "country": ""
+        },
+        {
+            "name": "Chengjun Li",
+            "country": ""
+        },
+        {
+            "name": "Yang Li",
+            "country": ""
+        },
+        {
+            "name": "Yufei Sun",
+            "country": ""
+        },
+        {
+            "name": "Wenxuan Yang",
+            "country": ""
+        },
+        {
+            "name": "Mingyuan Bai",
+            "country": ""
+        },
+        {
+            "name": "Xuanyu Zhu",
+            "country": ""
+        },
+        {
+            "name": "Jinghan Hu",
+            "country": ""
+        },
+        {
+            "name": "Tingzi Chi",
+            "country": ""
+        },
+        {
+            "name": "Hongbo Zhu",
+            "country": ""
+        },
+        {
+            "name": "Luqi He",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

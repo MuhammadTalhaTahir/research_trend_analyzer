@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S221065022200133X",
+    "title": "An evolutionary correlation-aware feature selection method for classification problems",
+    "abstract": "As global search techniques, population-based  optimization algorithms  have provided promising results in feature selection (FS) problems. However, their major challenge is high time complexity associated with the exploration of a large  search space  and consequently a large number of fitness  function evaluations . Moreover, the interaction between features is another key issue in FS problems, directly affecting the classification performance through selecting correlated features. In this paper, an  estimation of distribution algorithm  (EDA)-based method is proposed with three important contributions. Firstly, as an extension of EDA, the proposed method in each iteration generates only two individuals competing based on a fitness function, evolving during the algorithm using our proposed update procedure. Secondly, we provide a guiding technique to determine the number of features to be selected for individuals in each iteration. As a result, the number of selected features in the final solution would be optimized during the evolution process. These two would lead to increasing the  convergence speed of  the algorithm. Thirdly, as the main contribution of the paper, in addition to considering the importance of each feature alone, the proposed method can consider the interaction between features, being able to deal with complementary features and consequently increase classification performance. To do this, we provide a  conditional probability  scheme that considers the  joint probability distribution  of selecting two features. The introduced  probabilities  successfully detect correlated features. Experimental results on a  synthetic dataset  with correlated features proved the performance of our proposed approach facing these types of features. Furthermore, the results on 13 real-world datasets obtained from the UCI repository showed the superiority of the proposed method in comparison with some state-of-the-art approaches. To evaluate the effectiveness of each feature subset,  support vector machines  are used as classifier. The efficiency analysis of the experimental results using two non-parametric statistical tests proved that the proposed method had significant advantages in comparison to other approaches.",
+    "citation_count": "11",
+    "year": "2022/12/01",
+    "authors": [
+        {
+            "name": "Motahare Namakin",
+            "country": ""
+        },
+        {
+            "name": "Modjtaba Rouhani",
+            "country": ""
+        },
+        {
+            "name": "Mostafa Sabzekar",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

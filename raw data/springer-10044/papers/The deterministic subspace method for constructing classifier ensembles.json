@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-017-0655-2",
+    "title": "The deterministic subspace method for constructing classifier ensembles",
+    "abstract": "Ensemble classification remains one of the most popular techniques in contemporary machine learning, being characterized by both high efficiency and stability. An ideal ensemble comprises mutually complementary individual classifiers which are characterized by the high diversity and accuracy. This may be achieved, e.g., by training individual classification models on feature subspaces. Random Subspace is the most well-known method based on this principle. Its main limitation lies in stochastic nature, as it cannot be considered as a stable and a suitable classifier for real-life applications. In this paper, we propose an alternative approach, Deterministic Subspace method, capable of creating subspaces in guided and repetitive manner. Thus, our method will always converge to the same final ensemble for a given dataset. We describe general algorithm and three dedicated measures used in the feature selection process. Finally, we present the results of the experimental study, which prove the usefulness of the proposed method.",
+    "citation_count": 41,
+    "year": "2017/11",
+    "authors": [
+        {
+            "name": "Koziarski, Michał",
+            "country": "Poland"
+        },
+        {
+            "name": "Krawczyk, Bartosz",
+            "country": "USA"
+        },
+        {
+            "name": "Woźniak, Michał",
+            "country": "Poland"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

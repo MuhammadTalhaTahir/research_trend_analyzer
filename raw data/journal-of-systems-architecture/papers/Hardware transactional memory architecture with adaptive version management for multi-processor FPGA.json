@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762116302727",
+    "title": "Hardware transactional memory architecture with adaptive version management for multi-processor FPGA platforms",
+    "abstract": "Multiprocessor  embedded systems integrates diverse dedicated processing units to handle high performance applications such as in multimedia and network processing. However, lock-based synchronization limits the efficiency of such heterogeneous concurrent systems. Hardware Transactional Memory (HTM) is a promising approach in creating an abstraction layer for multi-threaded programming. However, HTM performance is application-specific and determined by version and conflict  management configurations . Most previous HTM implementations for embedded system in literature were built on fixed version management that result in significant  performance loss  when transaction behaviour changes. In this paper, we propose a HTM targeted for embedded applications which is able to adapt its version management based on application behaviour at runtime. It is prototyped and analysed on Altera Cyclone IV platform. Random requests at different contention levels and different transaction sizes are used to verify the performance of the proposed HTM. Based on our experiments, lazy version management is able to obtain up to 12.82% speed-up compared to eager version management at high contention level. Meanwhile, eager version management obtains up to 37.84% speed-up compared to lazy version management at low contention. The adaptive mechanism is able to switch configuration at runtime based on applications behaviour for maximum performance.",
+    "citation_count": "3",
+    "year": "2017/02/01",
+    "authors": [
+        {
+            "name": "Jeevan Sirkunan",
+            "country": ""
+        },
+        {
+            "name": "Chia Yee Ooi",
+            "country": ""
+        },
+        {
+            "name": "N. Shaikh-Husin",
+            "country": ""
+        },
+        {
+            "name": "Yuan Wen Hau",
+            "country": ""
+        },
+        {
+            "name": "M.N. Marsono",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

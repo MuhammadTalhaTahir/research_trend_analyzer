@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-024-01180-4",
+    "title": "New efficient algorithms for the two-machine no-wait chain-reentrant shop problem",
+    "abstract": "This paper tackles the two-machine chain-reentrant flow shop scheduling problem with the no-wait constraint; we assume that each job passes from the first machine to the second and returns back to the first machine in order to execute its last operation. The objective is to minimize the makespan. In this work, we prove that the symmetric case of this problem, which is proven to be $$\\mathcal NP$$ -hard in the strong sense, remains $$\\mathcal NP$$ -hard. Then we provide two polynomial subproblems. For the main problem’s resolution, we propose two new efficient heuristics as well as two improved lower bounds that consistently outperform the existing methods. Additionally, we provide an effective Branch &amp; Bound algorithm that can solve up to 100 jobs for some types of instances. These contributions not only enhance the theoretical comprehension of the problem but also offer efficient solutions supported by extensive statistical analysis over randomly generated instances.",
+    "citation_count": 32,
+    "year": "2024/07",
+    "authors": [
+        {
+            "name": "Sami, Nazim",
+            "country": "Algeria"
+        },
+        {
+            "name": "Amrouche, Karim",
+            "country": "Algeria"
+        },
+        {
+            "name": "Boudhar, Mourad",
+            "country": "Algeria"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

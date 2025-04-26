@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885606002873",
+    "title": "An augmented reality human–computer interface for object localization in a cognitive vision system",
+    "abstract": "The European Cognitive Vision project VAMPIRE uses mobile AR-kits to interact with a visual active memory for teaching and retrieval purposes. This paper describes concept and technical realization of the used mobile AR-kits and discusses interactive learning and retrieval in office environments, and the active memory infrastructure. The focus is on 3D interaction for pointing in a scene  coordinate system . This is achieved by 3D augmented pointing, which combines inside-out tracking for head pose recovery and 3D stereo human–computer interaction. Experimental evaluation shows that the accuracy of this 3D cursor is within a few centimeters, which is sufficient to point at an object in an office. Finally, an application of the cursor in VAMPIRE is presented, where in addition to the mobile system, at least one stationary active camera is used to obtain different views of an object. There are many  potential applications , for example an improved view-based object recognition.",
+    "citation_count": "11",
+    "year": "2007/12/03",
+    "authors": [
+        {
+            "name": "H. Siegl",
+            "country": ""
+        },
+        {
+            "name": "M. Hanheide",
+            "country": ""
+        },
+        {
+            "name": "S. Wrede",
+            "country": ""
+        },
+        {
+            "name": "A. Pinz",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

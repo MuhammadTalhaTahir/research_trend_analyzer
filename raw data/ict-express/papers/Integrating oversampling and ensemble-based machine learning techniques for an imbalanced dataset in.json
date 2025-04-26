@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959522000327",
+    "title": "Integrating oversampling and ensemble-based machine learning techniques for an imbalanced dataset in dyslexia screening tests",
+    "abstract": "Developmental Dyslexia is a learning disorder often discovered in school-aged children who face difficulties while reading or spelling words even though they may have average or above-average levels of intelligence. This ultimately results in anger, frustration, low self-esteem, and other negative feelings. Early detection of Dyslexia can be highly beneficial for dyslexic children as their learning needs can be properly addressed. Researchers have used several testing techniques for early discovery where the data is collected from reading and writing tests, online games, Magnetic reasoning imaging (MRI) and Electroencephalography (EEG) scans, picture and video recording. Several Machine learning techniques have also been used in this regard recently. However, existing works did not focus on the problem of the imbalanced dataset where the percentage of dyslexic participants is much higher compared to non-dyslexic participants, which is expected to be the case for pre-screening among a random population. This paper addresses the imbalanced dataset obtained from dyslexia pre-screening tests and proposes an oversampling and ensemble-based machine learning technique for the detection of Dyslexia. Simulation results show that the proposed approach improves the detection accuracy of the minority class, i.e., dyslexic patients from 80.61% to 83.52%.",
+    "citation_count": "0",
+    "year": "2022/12/01",
+    "authors": [
+        {
+            "name": "Shahriar Kaisar",
+            "country": ""
+        },
+        {
+            "name": "Abdullahi Chowdhury",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

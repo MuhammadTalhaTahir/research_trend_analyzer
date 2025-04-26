@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885605001502",
+    "title": "Adaptive robust estimation of affine parameters from block motion vectors",
+    "abstract": "In this paper, we propose an affine parameter  estimation algorithm  from block  motion vectors  for extracting accurate motion information with the assumption that the undergoing motion can be characterized by an  affine model . The motion may be caused either by a moving camera or a moving object. The proposed method first extracts motion vectors from a sequence of images by using size-variable  block matching  and then processes them by adaptive robust estimation to estimate affine parameters. Typically, a robust estimation filters out outliers (velocity vectors that do not fit into the model) by fitting  velocity vectors  to a predefined model. To filter out potential outliers, our adaptive robust estimation defines a continuous weight function based on a  Sigmoid function . During the estimation process, we tune the  Sigmoid function  gradually to its hard-limit as the errors between the model and input data are decreased, so that we can effectively separate non-outliers from outliers with the help of the finally tuned hard-limit form of the weight function. Experimental results show that the suggested approach is very effective in estimating affine parameters reliably.",
+    "citation_count": "22",
+    "year": "2005/12/12",
+    "authors": [
+        {
+            "name": "Seok-Woo Jang",
+            "country": ""
+        },
+        {
+            "name": "Marc Pomplun",
+            "country": ""
+        },
+        {
+            "name": "Gye-Young Kim",
+            "country": ""
+        },
+        {
+            "name": "Hyung-Il Choi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

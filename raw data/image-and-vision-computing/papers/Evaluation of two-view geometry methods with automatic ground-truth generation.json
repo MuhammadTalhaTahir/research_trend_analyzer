@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885613001431",
+    "title": "Evaluation of two-view geometry methods with automatic ground-truth generation",
+    "abstract": "A large number of methods have been published that aim to evaluate various components of multi-view geometry systems. Most of these have focused on the feature extraction, description and matching stages (the visual front end), since geometry computation can be evaluated through simulation. Many data sets are constrained to small scale scenes or planar scenes that are not challenging to new algorithms, or require special equipment. This paper presents a method for automatically generating geometry ground truth and challenging test cases from high spatio-temporal resolution video. The objective of the system is to enable data collection at any physical scale, in any location and in various parts of the  electromagnetic spectrum . The data generation process consists of collecting high resolution video, computing accurate sparse 3D reconstruction, video frame culling and down sampling, and test case selection. The evaluation process consists of applying a test 2-view geometry method to every test case and comparing the results to the ground truth. This system facilitates the evaluation of the whole geometry computation process or any part thereof against data compatible with a realistic application. A collection of example data sets and evaluations is included to demonstrate the range of applications of the proposed system.",
+    "citation_count": "3",
+    "year": "2013/12/01",
+    "authors": [
+        {
+            "name": "Ruan Lakemond",
+            "country": ""
+        },
+        {
+            "name": "Clinton Fookes",
+            "country": ""
+        },
+        {
+            "name": "Sridha Sridharan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

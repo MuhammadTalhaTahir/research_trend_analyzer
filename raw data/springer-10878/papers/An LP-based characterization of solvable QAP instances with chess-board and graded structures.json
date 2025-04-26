@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-023-01044-3",
+    "title": "An LP-based characterization of solvable QAP instances with chess-board and graded structures",
+    "abstract": "The quadratic assignment problem (QAP) is perhaps the most widely studied nonlinear combinatorial optimization problem. It has many applications in various fields, yet has proven to be extremely difficult to solve. This difficulty has motivated researchers to identify special objective function structures that permit an optimal solution to be found efficiently. Previous work has shown that certain such structures can be explained in terms of a mixed 0–1 linear reformulation of the QAP known as the level-1 reformulation–linearization-technique (RLT) form. Specifically, the objective function structures were shown to ensure that a binary optimal extreme point solution exists to the continuous relaxation. This paper extends that work by considering classes of solvable cases in which the objective function coefficients have special chess-board and graded structures, and similarly characterizing them in terms of the level-1 RLT form. As part of this characterization, we develop a new relaxed version of the level-1 RLT form, the structure of which can be readily exploited to study the special instances under consideration.",
+    "citation_count": 40,
+    "year": "2023/07",
+    "authors": [
+        {
+            "name": "Waddell, Lucas A.",
+            "country": "USA"
+        },
+        {
+            "name": "Phillips, Jerry L.",
+            "country": "USA"
+        },
+        {
+            "name": "Liu, Tianzhu",
+            "country": "USA"
+        },
+        {
+            "name": "Dhar, Swarup",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

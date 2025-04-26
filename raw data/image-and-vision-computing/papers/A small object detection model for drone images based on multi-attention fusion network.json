@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885625000241",
+    "title": "A small object detection model for drone images based on multi-attention fusion network",
+    "abstract": "Object detection in aerial images is crucial for various applications, including precision agriculture, urban planning, disaster management, and military surveillance, as it enables the automated identification and localization of ground objects from high-altitude images. However, this field encounters several significant challenges: (1) The uneven distribution of objects; (2) High-resolution aerial images contain numerous small objects and complex backgrounds; (3) Significant variation in object sizes. To address these challenges, this paper proposes a new detection network architecture based on the fusion of multiple attention mechanisms named MAFDet. MAFDet comprises three main components: the multi-attention focusing sub-network, the multi-scale Swin transformer backbone, and the detection head. The multi-attention focusing sub-network generates attention maps to identify regions with dense small objects for precise detection. The multi-scale Swin transformer embeds the efficient multi-scale attention module into the Swin transformer block to extract better multi-layer features and mitigate background interference, thereby significantly enhancing the model’s feature extraction capability. Finally, the detector processes regions with dense small objects and global images separately, subsequently fusing the detection results to produce the final output. Experimental results demonstrate that MAFDet outperforms existing methods on widely used aerial image datasets, VisDrone and UAVDT, achieving improvements in small object detection average precision ( A P s ) of 1.21% and 1.98%, respectively.",
+    "citation_count": "0",
+    "year": "2025/03/01",
+    "authors": [
+        {
+            "name": "Jie Hu",
+            "country": ""
+        },
+        {
+            "name": "Ting Pang",
+            "country": ""
+        },
+        {
+            "name": "Bo Peng",
+            "country": ""
+        },
+        {
+            "name": "Yongguo Shi",
+            "country": ""
+        },
+        {
+            "name": "Tianrui Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650221001462",
+    "title": "Multi-operator continuous ant colony optimisation for real world problems",
+    "abstract": "A Multi-operator continuous  Ant Colony Optimisation  (MACO R ) is proposed in this paper to solve the real-world problems. An adaptive multi-operator framework is proposed for selecting the suitable operator during different evolutionary stages by considering the historical performance of operators and the convergence status of the population. To improve the search accuracy, four operators are presented to construct new ant solutions in different ways. A success-based random-walk selection strategy and local search method are also combined with MACO R  to better balance the algorithmic ability of exploration and exploitation. Experiments are conducted on the test suite of real-world problems to demonstrate the superiority of the proposed MACO R  by comparing it to state-of-the-art algorithms. The influences of the multi-operator framework and different combinations of operators on the algorithmic performance are also investigated.",
+    "citation_count": "12",
+    "year": "2022/03/01",
+    "authors": [
+        {
+            "name": "Jing Liu",
+            "country": ""
+        },
+        {
+            "name": "Sreenatha Anavatti",
+            "country": ""
+        },
+        {
+            "name": "Matthew Garratt",
+            "country": ""
+        },
+        {
+            "name": "Hussein A. Abbass",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

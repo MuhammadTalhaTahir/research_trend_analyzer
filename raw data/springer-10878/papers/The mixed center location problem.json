@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-017-0183-4",
+    "title": "The mixed center location problem",
+    "abstract": "This paper studies a new version of the location problem called the mixed center location problem. Let P be a set of n points in the plane. We first consider the mixed 2-center problem, where one of the centers must be in P, and we solve it in $$O(n^2\\log n)$$ time. Second, we consider the mixed k-center problem, where m of the centers are in P, and we solve it in $$O(n^{m+O(\\sqrt{k-m})})$$ time. Motivated by two practical constraints, we propose two variations of the problem. Third, we present a 2-approximation algorithm and three heuristics solving the mixed k-center problem ( $$k&gt;2$$ ).",
+    "citation_count": 24,
+    "year": "2018/11",
+    "authors": [
+        {
+            "name": "Xu, Yi",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Peng, Jigen",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Xu, Yinfeng",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

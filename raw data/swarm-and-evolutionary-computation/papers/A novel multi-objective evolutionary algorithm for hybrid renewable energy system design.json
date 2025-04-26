@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650222001535",
+    "title": "A novel multi-objective evolutionary algorithm for hybrid renewable energy system design",
+    "abstract": "As a result of the  fossil fuel  energy crisis and the focus on environmental protection, renewable energy is favoured throughout the world. Due to the unstable and unpredictable nature of renewable energy, a hybrid  renewable energy system  (HRES) that integrates traditional fossil fuel and renewable energy is a promising solution to overcome this challenge. In this paper, a novel multi-objective evolutionary algorithm with a diversity-maintained mechanism (MOEA-DM) is applied to the design of a multi-objective HRES. We propose a special environmental selection strategy to enhance the diversity of solutions, considering the discrete optimization of the  HRES design . In the experiments, a stand-alone hybrid system including  photovoltaic  (PV) panels, wind power generators,  batteries  and diesel generators is applied to find the optimal combination of components with a set of  nondominated solutions . The effectiveness, superiority and generalizability of the proposed algorithm are validated through a comparison with state-of-the-art algorithms.",
+    "citation_count": "11",
+    "year": "2022/12/01",
+    "authors": [
+        {
+            "name": "Bo Jiang",
+            "country": ""
+        },
+        {
+            "name": "Hongtao Lei",
+            "country": ""
+        },
+        {
+            "name": "Wenhua Li",
+            "country": ""
+        },
+        {
+            "name": "Rui Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

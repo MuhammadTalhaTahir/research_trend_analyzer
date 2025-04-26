@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223001591",
+    "title": "An adaptive tradeoff evolutionary algorithm with composite differential evolution for constrained multi-objective optimization",
+    "abstract": "Convergence, diversity, and feasibility are crucial factors in solving constrained multi-objective optimization problems (CMOPs). Their imbalance can result in the algorithm failing to converge well to the Pareto front, especially when dealing with complex CMOPs. To address this issue, we propose an adaptive tradeoff evolutionary algorithm (ATEA), which can adjust the environment selection strategy based on the characteristics of problem, aiming to achieve a balance between convergence and diversity while ensuring feasibility of the population. The ATEA divides the search process into three phases: In the extended exploration phase, a global search is conducted using a guided constraint relaxation technique to enable the population to quickly traverse the infeasible region and approach the feasible region. In the tradeoff exploration phase, constraints are further detected and estimated to retain more feasible individuals and competing infeasible individuals, allowing the population to accurately identify all possible feasible regions and gradually expand towards the feasible boundary. The exploitation phase explores under-explored regions in the earlier phases with the aim of accelerating the convergence of the population and escaping from the local optima. Extensive experiments conducted on four benchmark test suites demonstrate that ATEA exhibits superior performance in three benchmark test suites compared with six other state-of-the-art algorithms.",
+    "citation_count": "7",
+    "year": "2023/12/01",
+    "authors": [
+        {
+            "name": "Jian Feng",
+            "country": ""
+        },
+        {
+            "name": "Shaoning Liu",
+            "country": ""
+        },
+        {
+            "name": "Shengxiang Yang",
+            "country": ""
+        },
+        {
+            "name": "Jun Zheng",
+            "country": ""
+        },
+        {
+            "name": "Jinze Liu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

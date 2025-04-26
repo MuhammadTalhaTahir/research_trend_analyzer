@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762123001315",
+    "title": "A comprehensive survey on mobile crowdsensing systems",
+    "abstract": "In recent times, Mobile Crowdsensing (MCS) has garnered considerable attention and emerged as a promising sensing paradigm. The MCS approach leverages the capabilities of intelligent devices and human intelligence to collect and sense data. Moreover, the mobility of individuals and platform independence of MCS enables extensive coverage and contextual awareness, thereby providing valuable insights for various applications in the present era. However, these advancements also raise concerns about user privacy, network dynamics, data reliability, and data integrity. Over the years, researchers have proposed various solutions to address these issues while simultaneously enhancing MCS. In this paper, we extend the existing body of MCS research by providing a comprehensive survey on recent advancements. We present the MCS architecture from two perspectives and systematically categorize and classify MCS components. Additionally, we offer a taxonomy of incentive mechanisms, conduct a thorough analysis of privacy-preserving task allocation and truth discovery, and discuss potential research issues and existing solutions. Moreover, the paper presents the broader categorization of MCS applications. Furthermore, we examine existing platforms, simulators, and operating systems for MCS applications. The objective of this paper is not only to analyse and consolidate existing research but also to identify new opportunities for future research and establish connections with other research disciplines that can inspire further research endeavours in the MCS system and promote its advancement.",
+    "citation_count": "25",
+    "year": "2023/09/01",
+    "authors": [
+        {
+            "name": "Deepika Suhag",
+            "country": ""
+        },
+        {
+            "name": "Vivekanand Jha",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

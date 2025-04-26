@@ -1,0 +1,38 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122000844",
+    "title": "Towards highly-concurrent leaderless state machine replication for distributed systems",
+    "abstract": "State Machine Replication (SMR) is a fault-tolerant service implementation technique used by many modern Internet services. A single leader is used in classic SMR to order all state machine commands. Due to the scalability and availability difficulties of the single-leader approach, recent protocols propose a leaderless technique in which each replica can make progress using a quorum of replicas. While the leaderless strategy is gaining traction, it necessitates all replicas serializing a  directed graph  with the precise specification, which usually results in sequential execution. When employing popular multicore servers, sequential execution also limits performance. We propose an efficient scheduler termed CCDG (Concurrent Construct Dependency Graphs) for Leaderless State Machine Replication to increase  parallelization  to fully exploit multicore capabilities and boost performance. To reach higher  parallelism levels  and make better use of multicore technology, CCDG provides concurrent construction of dependency graphs with guaranteed linearizability. Meanwhile, CCDG improves tail latency by eliminating unnecessary dependencies to reduce scheduling wait times. Our extensive experimental study shows that CCDG achieves up to 3.3 times the throughput in workloads with conflicting commands compared to EPaxos, one of the most popular leaderless SMR consensus protocols.",
+    "citation_count": "1",
+    "year": "2022/06/01",
+    "authors": [
+        {
+            "name": "Weilue Wang",
+            "country": ""
+        },
+        {
+            "name": "Yujuan Tan",
+            "country": ""
+        },
+        {
+            "name": "Changze Wu",
+            "country": ""
+        },
+        {
+            "name": "Duo Liu",
+            "country": ""
+        },
+        {
+            "name": "Yu Wu",
+            "country": ""
+        },
+        {
+            "name": "Longpan Luo",
+            "country": ""
+        },
+        {
+            "name": "Xianzhang Chen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

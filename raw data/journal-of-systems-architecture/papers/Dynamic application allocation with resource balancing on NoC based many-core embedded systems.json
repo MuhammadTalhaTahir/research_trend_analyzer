@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762117300267",
+    "title": "Dynamic application allocation with resource balancing on NoC based many-core embedded systems",
+    "abstract": "It is a fundamental challenge to manage on-chip resources for future embedded applications executing concurrently on a NoC (network on chip) based many-core embedded system (MES). Embedded application allocation is required under constraints in the form of computing resources or communication resources. However, most existing techniques only focus on the optimization of communications between application threads and ignore a balanced utilization of on-chip resources, which is critical for embedded systems. In this paper, we propose a dynamic resource balance (DRB) algorithm to achieve a higher  system performance  by balancing the utilization of on-chip computing resources and communication resources. The DRB algorithm first constructs a mapping scheme using a dynamic communication optimization (DCO) algorithm and then chooses a corresponding number of resource regions for the constructed mapping scheme to allocate the application using a multi-rectangle selection (MRS) algorithm. We evaluate DRB algorithm in a popular simulator Graphite whose results reveal that DRB algorithm improves system throughput by at most up to 31.6%, 25.2%, and 9.4% compared with FF ( F irst  F ree) algorithm, NN ( N earest  N eighbor) algorithm, and CoNA-SHiC ( Co ntiguous  N eighbor  A llocation and  S mart  Hi ll  C limbing) algorithm, respectively.",
+    "citation_count": "9",
+    "year": "2017/09/01",
+    "authors": [
+        {
+            "name": "Chang Wang",
+            "country": ""
+        },
+        {
+            "name": "Yongxin Zhu",
+            "country": ""
+        },
+        {
+            "name": "Jiang Jiang",
+            "country": ""
+        },
+        {
+            "name": "Meikang Qiu",
+            "country": ""
+        },
+        {
+            "name": "Xu Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

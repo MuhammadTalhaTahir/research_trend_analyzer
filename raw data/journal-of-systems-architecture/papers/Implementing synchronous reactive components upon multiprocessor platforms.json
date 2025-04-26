@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000308",
+    "title": "Implementing synchronous reactive components upon multiprocessor platforms",
+    "abstract": "Model-based design methodologies based on the synchrony assumption are widely used in many safety-critical application domains. The synchrony assumption asserts that actions (such as the execution of code) occur instantaneously; however, physical platforms obviously do not possess this property. This paper considers a scheduling problem that arises when one seeks to implement programs that are written under the synchrony assumption upon actual  multiprocessor  platforms, and proposes algorithms for solving this problem exactly and approximately.",
+    "citation_count": "2",
+    "year": "2021/06/01",
+    "authors": [
+        {
+            "name": "Sanjoy Baruah",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

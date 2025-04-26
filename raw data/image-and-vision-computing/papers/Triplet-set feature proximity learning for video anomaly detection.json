@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S026288562400310X",
+    "title": "Triplet-set feature proximity learning for video anomaly detection",
+    "abstract": "The identification of anomalies in videos is a particularly complex visual challenge, given the wide variety of potential real-world events. To address this issue, our paper introduces a unique approach for detecting divergent behavior in surveillance videos, utilizing triplet-loss for video anomaly detection. Our method involves selecting a triplet set of video segments from normal (n) and abnormal (a) data points for deep feature learning. We begin by creating a database of triplet sets of two types: a-a-n and n-n-a. By computing a triplet loss, we model the proximity between n-n chunks and the distance between ‘a’ chunks from the n-n ones. Additionally, we train the deep network to model the closeness of a-a chunks and the divergent behavior of ‘n’ from the a-a chunks. The model acquired in the initial stage can be viewed as a prior, which is subsequently employed for modeling normality. As a result, our method can leverage the advantages of both straightforward classification and normality modeling-based techniques. We also present a data selection mechanism for the efficient generation of triplet sets. Furthermore, we introduce a novel video anomaly dataset, AnoVIL, designed for human-centric anomaly detection. Our proposed method is assessed using the UCF-Crime dataset encompassing all 13 categories, the IIT-H accident dataset, and AnoVIL. The experimental findings demonstrate that our method surpasses the current state-of-the-art approaches. We conduct further evaluations of the performance, considering various configurations such as cross-dataset evaluation, loss functions, siamese structure, and embedding size. Additionally, an ablation study is carried out across different settings to provide insights into our proposed method.",
+    "citation_count": "0",
+    "year": "2024/10/01",
+    "authors": [
+        {
+            "name": "Kuldeep Marotirao Biradar",
+            "country": ""
+        },
+        {
+            "name": "Murari Mandal",
+            "country": ""
+        },
+        {
+            "name": "Sachin Dube",
+            "country": ""
+        },
+        {
+            "name": "Santosh Kumar Vipparthi",
+            "country": ""
+        },
+        {
+            "name": "Dinesh Kumar Tyagi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

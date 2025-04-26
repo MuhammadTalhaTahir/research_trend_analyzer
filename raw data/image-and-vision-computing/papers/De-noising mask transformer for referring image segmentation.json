@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S026288562400461X",
+    "title": "De-noising mask transformer for referring image segmentation",
+    "abstract": "Referring Image Segmentation (RIS) is a challenging computer vision task that involves identifying and segmenting specific objects in an image based on a natural language description. Unlike conventional segmentation methodologies, RIS needs to bridge the gap between visual and linguistic modalities to exert the semantic information provided by natural language. Most existing RIS approaches are confronted with the common issue that the intermediate predicted target region also participates in the later feature generation and parameter updating. Then the wrong prediction, especially occurs in the early training stage, will bring the gradient misleading and ultimately affect the training stability. To tackle this issue, we propose de-noising mask (DNM) transformer to fuse the cross-modal integration, a novel framework to replace the cross-attention by DNM-attention in traditional transformer. Furthermore, two kinds of DNM-attention, named mask-DNM and cluster-DNM, are proposed, where noisy ground truth information is adopted to guide the attention mechanism to produce accurate object queries,  i.e. , de-nosing query. Thus, DNM-attention leverages noisy ground truth information to guide the attention mechanism to produce additional de-nosing queries, which effectively avoids the gradient misleading. Experimental results show that the DNM transformer improves the performance of RIS and outperforms most existing RIS approaches on three benchmarks.",
+    "citation_count": "0",
+    "year": "2025/02/01",
+    "authors": [
+        {
+            "name": "Yehui Wang",
+            "country": ""
+        },
+        {
+            "name": "Fang Lei",
+            "country": ""
+        },
+        {
+            "name": "Baoyan Wang",
+            "country": ""
+        },
+        {
+            "name": "Qiang Zhang",
+            "country": ""
+        },
+        {
+            "name": "Xiantong Zhen",
+            "country": ""
+        },
+        {
+            "name": "Lei Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

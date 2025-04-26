@@ -1,0 +1,39 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-022-02003-8",
+    "title": "Unlicensed Assisted Ultra-Reliable and Low-Latency Communications",
+    "abstract": "The ultra-reliable and low-latency communication (URLLC) in the fifth generation (5G) communication has emerged many potential applications, which promotes the development of the internet of things (IoTs). In this paper, the URLLC system adopts the duty-cycle muting (DCM) mechanism to share unlicensed spectrums with the WiFi network, which guarantees the fair coexistence. Meanwhile, we use the mini-slot, user grouping, and finite block length regime to satisfy the low latency and high reliability requirements. We establish a non-convex optimization model with respect to power and spectrum, and solve it to minimize the power consumption at the devices, where the closed-form expressions are given by several mathematical derivations and the Lagrangian multiplier method. Numerical simulation results are provided to verify the feasibility and effectiveness of the proposed scheme, which improves the system spectrum efficiency and energy efficiency.",
+    "citation_count": 27,
+    "year": "2022/12",
+    "authors": [
+        {
+            "name": "Yuan, Jiantao",
+            "country": "China"
+        },
+        {
+            "name": "Xiao, Qiqi",
+            "country": "China"
+        },
+        {
+            "name": "Yin, Rui",
+            "country": "China"
+        },
+        {
+            "name": "Qi, Wei",
+            "country": "China"
+        },
+        {
+            "name": "Wu, Celimuge",
+            "country": "Japan"
+        },
+        {
+            "name": "Chen, Xianfu",
+            "country": "Finland"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

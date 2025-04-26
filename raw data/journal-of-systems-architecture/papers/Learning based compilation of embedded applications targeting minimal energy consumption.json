@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000886",
+    "title": "Learning based compilation of embedded applications targeting minimal energy consumption",
+    "abstract": "The choice of correct optimization passes during compilation is one of the major factors that determines the performance and energy consumption of an application when executed on a target hardware. However, making such a choice is challenging since it requires knowledge of target architecture, code features and compiler pass interdependence. Software developers mostly rely on heuristic approaches while choosing the optimization passes. However, such  heuristic solutions  and random choices often yield sub-optimal results. In this work, we propose an automated technique of determining the optimal  compiler optimization  setting for minimum energy consumption utilizing power profile results and performance characteristics from real hardware and  machine learning  models. The proposed approach on one hand brings about reduction in energy consumption and on the other releases  embedded software  developers from making the complicated compiler optimization choices for each application. Our proposed five phase strategy when implemented on multi-core ARM based ODROID-XU4 experimental platform using the  Clang Compiler  shows a maximum of 8.43% improvement in  power dissipation  and a maximum of 27.27% in energy consumption for  MiBench  and  Polybench  representative benchmarks in comparison to state-of-art energy aware compilation strategies.",
+    "citation_count": "5",
+    "year": "2021/06/01",
+    "authors": [
+        {
+            "name": "Akash Sachan",
+            "country": ""
+        },
+        {
+            "name": "Bibhas Ghoshal",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

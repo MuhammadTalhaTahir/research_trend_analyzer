@@ -1,0 +1,35 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-021-01792-8",
+    "title": "A Time-aware Hybrid Algorithm for Online Recommendation Services",
+    "abstract": "With the rapid development of cloud computing technology, online recommendation services have been a new trend for providing specific information on topics such as lifestyle, fashion news and a variety of other activities. Recommendation algorithm is crucially important for the delivery of personalized services to users. Currently, the key important problem is how to improve the quality of online recommendation services. To solve the problem of goods popularity bias, this paper introduces the prevalence of items into user interest model, and proposes an item popularity model based on user interest feature. Usually, traditional models do not consider the stable of users’ interests, which may make it hard to capture their interest. To deal with the above situation, we propose a time-sensitive and stable interest similarity model to calculate the similarity of user interest. Furthermore, a novel algorithm termed as item popularity similarity with time sensitivity (IPSTS)is proposed by combining the above two kinds of similarity model, and they are assigned different weight factors to balance their impacts. In this paper, we conduct the comparative experiments to evaluate the proposed approach and the traditional collaborative filtering algorithms. The final experimental results indicate that IPSTS can effectively reduce the value of Mean Absolute Error (MAE) and Root Mean Square Error (RMSE).",
+    "citation_count": 32,
+    "year": "2022/12",
+    "authors": [
+        {
+            "name": "Sun, Fuzhen",
+            "country": "China"
+        },
+        {
+            "name": "Zhuang, Haiyan",
+            "country": "China"
+        },
+        {
+            "name": "Xu, Shangshang",
+            "country": "China"
+        },
+        {
+            "name": "Wang, Zhen",
+            "country": "China"
+        },
+        {
+            "name": "Zheng, Kai",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

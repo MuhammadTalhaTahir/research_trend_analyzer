@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-012-9589-1",
+    "title": "$$\\lambda $$ -numbers of several classes of snarks",
+    "abstract": "In the paper we study $$\\lambda $$ -numbers of several classes of snarks. We show that the $$\\lambda $$ -number of each Blanu $$\\breve{s}$$ a snark, Flower snark and Goldberg snark is $$6$$ . For $$n\\ge 2$$ , we show that there is a dot product of $$n$$ Petersen graphs such that its $$\\lambda $$ -number is 6.",
+    "citation_count": 10,
+    "year": "2014/11",
+    "authors": [
+        {
+            "name": "Ma, Dengju",
+            "country": "China"
+        },
+        {
+            "name": "Zhu, Hengfeng",
+            "country": "China"
+        },
+        {
+            "name": "He, Jianbao",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

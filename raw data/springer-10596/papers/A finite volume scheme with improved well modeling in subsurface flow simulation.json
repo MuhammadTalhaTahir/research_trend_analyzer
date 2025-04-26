@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-017-9685-5",
+    "title": "A finite volume scheme with improved well modeling in subsurface flow simulation",
+    "abstract": "We present the latest enhancement of the nonlinear monotone finite volume method for the near-well regions. The original nonlinear method is applicable for diffusion, advection-diffusion, and multiphase flow model equations with full anisotropic discontinuous permeability tensors on conformal polyhedral meshes. The approximation of the diffusive flux uses the nonlinear two-point stencil which reduces to the conventional two-point flux approximation (TPFA) on cubic meshes but has much better accuracy for the general case of non-orthogonal grids and anisotropic media. The latest modification of the nonlinear method takes into account the nonlinear (e.g., logarithmic) singularity of the pressure in the near-well region and introduces a correction to improve accuracy of the pressure and the flux calculation. In this paper, we consider a linear version of the nonlinear method waiving its monotonicity for sake of better accuracy. The new method is generalized for anisotropic media, polyhedral grids and nontrivial cases such as slanted, partially perforated wells or wells shifted from the cell center. Numerical experiments show noticeable reduction of numerical errors compared to the original monotone nonlinear FV scheme with the conventional Peaceman well model or with the given analytical well rate.",
+    "citation_count": 21,
+    "year": "2017/12",
+    "authors": [
+        {
+            "name": "Kramarenko, Vasiliy",
+            "country": "Russia"
+        },
+        {
+            "name": "Nikitin, Kirill",
+            "country": "Russia"
+        },
+        {
+            "name": "Vassilevski, Yuri",
+            "country": "Russia"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

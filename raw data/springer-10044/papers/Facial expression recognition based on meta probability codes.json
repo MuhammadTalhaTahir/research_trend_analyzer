@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-012-0315-5",
+    "title": "Facial expression recognition based on meta probability codes",
+    "abstract": "Automatic facial expression recognition has made considerable gains in the body of research available due to its vital role in human–computer interaction. So far, research on this problem or problems alike has proposed a wide verity of techniques and algorithms for both information representation and classification. Very recently, Farajzadeh et al. in Int J Pattern Recognit Artif Intell 25(8):1219–1241, (2011) proposed a novel information representation approach that uses machine-learning techniques to derive a set of new informative and descriptive features from the original features. The new features, so called meta probability codes (MPC), have shown a good performance in a wide range of domains. In this paper, we aim to study the performance of the MPC features for the recognition of facial expression via proposing an MPC-based framework. In the proposed framework any feature extractor and classifier can be incorporated using the meta-feature generation mechanism. In the experimental studies, we use four state-of-the-art information representation techniques; local binary pattern, Gabor-wavelet, Zernike moment and facial fiducial point, as the original feature extractors; and four multiclass classifiers, support vector machine, k-nearest neighbor, radial basis function neural network, and sparse representation-based classifier. The results of the extensive experiments conducted on three facial expression datasets, Cohn–Kanade, JAFFE, and TFEID, show that the MPC features promote the performance of facial expression recognition inherently.",
+    "citation_count": 62,
+    "year": "2014/11",
+    "authors": [
+        {
+            "name": "Farajzadeh, Nacer",
+            "country": "China"
+        },
+        {
+            "name": "Pan, Gang",
+            "country": "China"
+        },
+        {
+            "name": "Wu, Zhaohui",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

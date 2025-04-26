@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762123000164",
+    "title": "An energy-efficient cache replacement policy for ultra-dense racetrack memory",
+    "abstract": "Racetrack memory (RTM) based caches provide improved energy and area efficiencies compared to traditional SRAM caches via multi-bit storage capability. The RTM cell arranges multiple bits in a magnetic  nanowire  track and is equipped with a shared port to access the data. Accessing a bit necessitates to shift the bit under the port. Since the serial access nature of the RTM cell induces energy penalty, it is crucial to reduce the number of shifts. To do so, we have devised an energy-efficient  cache replacement policy  that first calculates the shift cost of a group of rarely reused cache lines in a cache set. After that, it chooses a victim cache line from that group that incurs minimum shift cost. Employing 1   MB RTM cache for single-programmed workloads, the proposed policy outperforms the state-of-the-art by 23.2% and 48.8% in terms of energy consumption and shift cost respectively. For multi-programmed workloads, the  energy saving  and shift improvement translates to 22.8% and 39.8% respectively using 4   MB RTM shared cache.",
+    "citation_count": "0",
+    "year": "2023/04/01",
+    "authors": [
+        {
+            "name": "Fazal Hameed",
+            "country": ""
+        },
+        {
+            "name": "Moazam Maqsood",
+            "country": ""
+        },
+        {
+            "name": "Syed Ali Irtaza",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

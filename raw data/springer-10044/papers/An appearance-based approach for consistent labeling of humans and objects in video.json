@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-004-0237-y",
+    "title": "An appearance-based approach for consistent labeling of humans and objects in video",
+    "abstract": "In this paper, we present an approach for consistently labeling people and for detecting human–object interactions using mono-camera surveillance video. The approach is based on a robust appearance-based correlogram model combined with histogram information to model color distributions of people and objects in the scene. The models are dynamically built from non-stationary objects, which are the outputs of background subtraction, and are used to identify objects on a frame-by-frame basis. We are able to detect when people merge into groups and to segment them even during partial occlusion. We can also detect when a person deposits or removes an object. The models persist when a person or object leaves the scene and are used to identify them when they reappear. Experiments show that the models are able to accommodate perspective foreshortening that occurs with overhead camera angles, as well as partial occlusion. The results show that this is an effective approach that is able to provide important information to algorithms performing higher-level analysis, such as activity recognition, where human–object interactions play an important role.",
+    "citation_count": 26,
+    "year": "2004/12",
+    "authors": [
+        {
+            "name": "Balcells, Martí",
+            "country": "USA"
+        },
+        {
+            "name": "DeMenthon, Daniel",
+            "country": "USA"
+        },
+        {
+            "name": "Doermann, David",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

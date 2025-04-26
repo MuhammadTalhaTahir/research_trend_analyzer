@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-019-01382-9",
+    "title": "Service Level Agreement Based Catalogue Management and Resource Provisioning in Cloud for Optimal Resource Utilization",
+    "abstract": "Cloud computing, which uses a pay as you go model is the most widely adopted IT infrastructure model by most of the users now. As the Cloud is growing, energy efficiency is a major concern in the Cloud Data center. Most of the Cloud providers are providing the services through their Service Level Agreement (SLA) mainly focusing on the Quality of Service provided. But not all the machines are 100% utilized. The knowledge base of the same from different clients can be monitored, catalogued and this information can be effectively used to manage and re-negotiate the services offered. This work presents a SLA catalogue based model to effectively utilize the Cloud recourses based on the frequency and bandwidth parameters of SLA. The SLA catalogue and resources are frequently monitored and the underutilized recourses are sent to idle state or switched off. This not only ensures optimal resource utilization but also maintain the quality of service.",
+    "citation_count": 27,
+    "year": "2019/12",
+    "authors": [
+        {
+            "name": "S, Suprakash",
+            "country": "India"
+        },
+        {
+            "name": "S P, Balakannan",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

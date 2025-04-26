@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885602001002",
+    "title": "Classification of hand postures against complex backgrounds using elastic graph matching",
+    "abstract": "A system for person-independent classification of hand postures against complex backgrounds in video images is presented. The system employs elastic  graph matching , which has already been successfully applied for object and  face recognition . We use the bunch graph technique to model variance in hand posture appearance between different subjects and variance in backgrounds. Our system does not need a separate segmentation stage but closely integrates finding the object boundaries with posture classification.",
+    "citation_count": "83",
+    "year": "2002/12/01",
+    "authors": [
+        {
+            "name": "Jochen Triesch",
+            "country": ""
+        },
+        {
+            "name": "Christoph von der Malsburg",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

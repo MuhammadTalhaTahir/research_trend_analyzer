@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-014-0374-x",
+    "title": "Combining local and global learners in the pairwise multiclass classification",
+    "abstract": "Pairwise classification is a well-known class binarization technique that converts a multiclass problem into a number of two-class problems, one problem for each pair of classes. However, in the pairwise technique, nuisance votes of many irrelevant classifiers may result in a wrong class prediction. To overcome this problem, a simple, but efficient method is proposed and evaluated in this paper. The proposed method is based on excluding some classes and focusing on the most probable classes in the neighborhood space, named Local Crossing Off (LCO). This procedure is performed by employing a modified version of standard K-nearest neighbor and large margin nearest neighbor algorithms. The LCO method takes advantage of nearest neighbor classification algorithm because of its local learning behavior as well as the global behavior of powerful binary classifiers to discriminate between two classes. Combining these two properties in the proposed LCO technique will avoid the weaknesses of each method and will increase the efficiency of the whole classification system. On several benchmark datasets of varying size and difficulty, we found that the LCO approach leads to significant improvements using different base learners. The experimental results show that the proposed technique not only achieves better classification accuracy in comparison to other standard approaches, but also is computationally more efficient for tackling classification problems which have a relatively large number of target classes.",
+    "citation_count": 30,
+    "year": "2015/11",
+    "authors": [
+        {
+            "name": "Bagheri , Mohammad Ali",
+            "country": "Canada"
+        },
+        {
+            "name": "Gao, Qigang",
+            "country": "Canada"
+        },
+        {
+            "name": "Escalera, Sergio",
+            "country": "Spain"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

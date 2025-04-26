@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885620300652",
+    "title": "Dense convolutional feature histograms for robust visual object tracking",
+    "abstract": "Despite recent breakthroughs in the field, Visual Object Tracking remains an open and challenging task in  Computer Vision . Modern applications require trackers to not only be accurate but also very fast, even on embedded systems. In this work, we use features from  Convolutional Neural Networks  to build histograms, which are more adept at handling appearance variations, in an end-to-end trainable architecture. To deal with the internal  covariate shift  that occurs when extracting histograms from convolutional features as well as to incorporate informations from the multiple levels of the neural hierarchy, we propose and use a novel densely connected architecture where histograms from multiple layers are concatenated to produce the final representation. Experimental results validate our hypotheses on the benefits of using histograms as opposed to standard convolutional features, as the proposed histogram-based tracker surpasses recently proposed sophisticated trackers on multiple benchmarks. Long-term tracking results also reaffirm the usefulness of the proposed tracker in more challenging scenarios, where appearance variations are more severe and traditional trackers fail.",
+    "citation_count": "14",
+    "year": "2020/07/01",
+    "authors": [
+        {
+            "name": "Paraskevi Nousi",
+            "country": ""
+        },
+        {
+            "name": "Anastasios Tefas",
+            "country": ""
+        },
+        {
+            "name": "Ioannis Pitas",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

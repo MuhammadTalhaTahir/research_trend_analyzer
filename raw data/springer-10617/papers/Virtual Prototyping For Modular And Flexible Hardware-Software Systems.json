@@ -1,0 +1,26 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1008829719142",
+    "title": "Virtual Prototyping For Modular And Flexible Hardware-Software Systems",
+    "abstract": "The goal of this work is to develop a methodology for fast prototyping of highly modular and flexible electronic systems including both, software and hardware. The main contribution of this work is the ability to handle a wide range of architectures. We assume that hardware/software partitioning is already made. This stage of the codesign process starts with a virtual prototype, an heterogeneous architecture composed of a set of distributed modules, represented in VHDL for hardware elements and in C for software elements, communicating through communication modules. This work concentrates on a modelling strategy that allow virtual prototype to be used for both cosynthesis (mapping hardware and software modules onto an architectural platform) and cosimulation (that is the joint simulation of hardware and software components) into an unified environment. The main contribution is the use of a multi-view library concept in order to hide specific hardware/software implementation details and communication schemes. In particular this approach addresses the problem of communication between the hardware and software modules.",
+    "citation_count": 25,
+    "year": "1997/05",
+    "authors": [
+        {
+            "name": "Valderrama, Carlos A.",
+            "country": "FRANCE"
+        },
+        {
+            "name": "Changuel, Adel",
+            "country": "FRANCE"
+        },
+        {
+            "name": "Jerraya, Ahmed A.",
+            "country": "FRANCE"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

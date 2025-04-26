@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885616301275",
+    "title": "Recompression effects in iris recognition",
+    "abstract": "Rating a compression algorithms' performance is usually done in experimental studies, where researchers have frequently used JPEG pre-compressed data. It is not clear yet, if results of such compression experiments are reliable when conducted on pre-compressed data. To investigate this issue, we first study the impact of using pre-compressed data in iris segmentation and evaluate the relation between iris  segmentation performance  and general image quality metrics. In this context we propose a method to overcome potential problems in case using pre-compressed data sets cannot be avoided. As the second step, we conduct experimentation on the entire  iris recognition  pipeline. We find that overall,  recognition accuracy  results might not be entirely reliable in case of applying JPEG XR or  JPEG2000  to JPEG pre-compressed data.",
+    "citation_count": "10",
+    "year": "2017/02/01",
+    "authors": [
+        {
+            "name": "Thomas Bergmüller",
+            "country": ""
+        },
+        {
+            "name": "Eleftherios Christopoulos",
+            "country": ""
+        },
+        {
+            "name": "Kevin Fehrenbach",
+            "country": ""
+        },
+        {
+            "name": "Martin Schnöll",
+            "country": ""
+        },
+        {
+            "name": "Andreas Uhl",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

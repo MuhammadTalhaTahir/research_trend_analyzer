@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-019-00484-0",
+    "title": "A novel kernel-free nonlinear SVM for semi-supervised classification in disease diagnosis",
+    "abstract": "Semi-supervised classification methods are widely-used and attractive for dealing with both labeled and unlabeled data in real-world problems. In this paper, a novel kernel-free Laplacian twin support vector machine method is proposed for semi-supervised classification. Its main idea is to classify data points into two classes by constructing two nonparallel quadratic surfaces so that each surface is close to one class of points and far away from the other class of points. The proposed method not only saves much computational time by avoiding choosing a kernel function and its related parameters in the classical support vector machine, but also addresses the issue of computational complexity by adopting manifold regularization technique. Moreover, two small-sized convex quadratic programming problems need to be solved to implement the proposed method, which is much easier than solving the non-convex problem of mixed integer programming to implement the well-known semi-supervised support vector machine. Finally, the numerical results on some artificial and benchmark data sets validate the competitive performance of proposed method in terms of efficiency, classification accuracy and generalization ability, by comparing to well-known semi-supervised methods. In particular, the proposed method handles five benchmarking disease diagnosis problems well and efficiently, which indicates the potential of proposed method in diagnosing and forecasting the diseases.",
+    "citation_count": 25,
+    "year": "2021/11",
+    "authors": [
+        {
+            "name": "Yan, Xin",
+            "country": "China"
+        },
+        {
+            "name": "Zhu, Hongmiao",
+            "country": "China"
+        },
+        {
+            "name": "Luo, Jian",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

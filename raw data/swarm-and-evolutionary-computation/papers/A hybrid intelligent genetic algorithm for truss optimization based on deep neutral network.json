@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650222000906",
+    "title": "A hybrid intelligent genetic algorithm for truss optimization based on deep neutral network",
+    "abstract": "The truss optimization problem has been extensively investigated, and the optimized trusses have been widely used in various fields. Truss optimization is a challenging optimization involving many difficulties, such as discrete variables and non-convex problems. In order to solve these problems, various  metaheuristic optimization  methods have been proposed. Due to the stochastic feature of these methods, it is always computationally intensive, and the optimization results may vary greatly in different optimization runs. In this paper, a hybrid intelligent genetic algorithm (HIGA) is proposed to improve the effectiveness and efficiency of truss optimization problems. This method systematically integrates deep neural network (DNN) and genetic algorithm (GA) in the optimization process. A two-step training procedure is proposed where the data generated during the optimization process is exploited to update  DNN . Next, based on the generated DNN model, an optimization prediction procedure is proposed to seek more optimized trusses in an efficient manner. Through the investigation of three classical truss problems (size optimization, shape optimization and size-shape integrated optimization), the effectiveness of the proposed method is validated. In addition, the influence of different settings on the optimization performance and efficiency is investigated to demonstrate the applicability and robustness of the proposed method.",
+    "citation_count": "41",
+    "year": "2022/08/01",
+    "authors": [
+        {
+            "name": "Jiepeng Liu",
+            "country": ""
+        },
+        {
+            "name": "Yi Xia",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

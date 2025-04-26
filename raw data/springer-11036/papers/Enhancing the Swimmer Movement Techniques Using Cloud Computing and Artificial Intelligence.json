@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-023-02167-x",
+    "title": "Enhancing the Swimmer Movement Techniques Using Cloud Computing and Artificial Intelligence",
+    "abstract": "Nowadays, miniature sensors can communicate with intelligent tools and pervasive computing devices to analyze and assess sports and physical activities. These sensors allow us to collect data from various physical activities using the underlying framework from anywhere, at any time, and in any location. However, these devices generate a large volume of data. Thus, having as much data as possible to assess a sports person’s physical activity is critical. Wearable devices with tiny sensors, edge and cloud computing, and artificial intelligence are the pillars that are capable to change the current level of analysing physical activities in sports. Based on these features, this paper aims to combine these three pillars of physical activities to enhance the athlete’s profile by predicting their physique, and recommend special training. For this purpose, a novel framework is proposed that allows us to generate a dataset from the realistic ecological conditions. To ensure the efficiency of this work, we have conducted a comprehensive literature on sports and physical activities. We underlined the limitations of the data collection, sensors, and processing techniques from literature. We hypothesize that the acquisition of data, continuous measurement, and analysis of different processes will end up in a more reliable model with the help of edge and cloud computing devices that allow the data to stream without restriction. Personalized training and profile-type approaches are used for swimmer athletes in this paper. The experimental results show that the suggested integrated method provides significant data to coaches and players, enabling focused training, performance optimisation, and improved athlete healthcare.",
+    "citation_count": 22,
+    "year": "2023/12",
+    "authors": [
+        {
+            "name": "Xurui, Liu",
+            "country": "China"
+        },
+        {
+            "name": "Guobao, Zhang",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

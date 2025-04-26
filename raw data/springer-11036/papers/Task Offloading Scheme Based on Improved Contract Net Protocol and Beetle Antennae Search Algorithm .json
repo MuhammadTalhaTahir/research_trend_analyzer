@@ -1,0 +1,31 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-020-01593-5",
+    "title": "Task Offloading Scheme Based on Improved Contract Net Protocol and Beetle Antennae Search Algorithm in Fog Computing Networks",
+    "abstract": "For fog computing network, how to effectively and quickly offload the task to fog nodes is a big challenge. In this paper, a task offloading scheme based on improved contract net protocol and beetle antennae search algorithm in fog computing networks is proposed. Firstly, the system mode of task offloading in fog computing network is described. Then, a contract net protocol is presented to obtain the information from the fog nodes. Based on the information, the agent will allocate the sub-tasks to the fog nodes. And the task offloading issue in fog computing network is formulated and analyzed. Next, an efficient task offloading scheme based on improved contract net protocol and beetle antennae search algorithm is proposed. Finally, the analysis and simulation results validate the efficiency of the proposed scheme compared with other algorithms.",
+    "citation_count": 35,
+    "year": "2020/12",
+    "authors": [
+        {
+            "name": "Li, Xujie",
+            "country": "China"
+        },
+        {
+            "name": "Zang, Zhennan",
+            "country": "China"
+        },
+        {
+            "name": "Shen, Fei",
+            "country": "China"
+        },
+        {
+            "name": "Sun, Ying",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

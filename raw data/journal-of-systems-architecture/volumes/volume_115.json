@@ -1,0 +1,90 @@
+[
+    {
+        "title": "Editorial Board",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000977"
+    },
+    {
+        "title": "A secure index resisting keyword privacy leakage from access and search patterns in searchable encryption",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000217"
+    },
+    {
+        "title": "HEVC hardware vs software decoding: An objective energy consumption analysis and comparison",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000199"
+    },
+    {
+        "title": "Improving in-memory file system reading performance by fine-grained user-space cache mechanisms",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000151"
+    },
+    {
+        "title": "Interactive and targeted runtime verification using a debugger-based architecture",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000187"
+    },
+    {
+        "title": "Dynamic task allocation and scheduling with contention-awareness for Network-on-Chip based multicore systems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000291"
+    },
+    {
+        "title": "Public-key authenticated encryption with keyword search achieving both multi-ciphertext and multi-trapdoor indistinguishability",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000643"
+    },
+    {
+        "title": "A priority, power and traffic-aware virtual machine placement of IoT applications in cloud data centers",
+        "url": "https://www.sciencedirect.com/science/article/pii/S138376212100014X"
+    },
+    {
+        "title": "A survey on program-state retention for transiently-powered systems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000242"
+    },
+    {
+        "title": "A survey of accelerator architectures for 3D convolution neural networks",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000400"
+    },
+    {
+        "title": "Guest editorial: Special issue on design architecture and applications of smart embedded devices in internet of things",
+        "url": "https://www.sciencedirect.com/science/article/pii/S138376212100028X"
+    },
+    {
+        "title": "On blockchain integration into mobile crowdsensing via smart embedded devices: A comprehensive survey",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000229"
+    },
+    {
+        "title": "Online cycle detection for models with mode-dependent input and output dependencies",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000254"
+    },
+    {
+        "title": "SparkNoC: An energy-efficiency FPGA-based accelerator using optimized lightweight CNN for edge computing",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000138"
+    },
+    {
+        "title": "Mitigating service-oriented attacks using context-based trust for smart cities in IoT networks",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000345"
+    },
+    {
+        "title": "A provably secure and lightweight authentication scheme for Internet of Drones for smart city surveillance",
+        "url": "https://www.sciencedirect.com/science/article/pii/S138376212030206X"
+    },
+    {
+        "title": "TP2SF: A Trustworthy Privacy-Preserving Secured Framework for sustainable smart cities by leveraging blockchain and machine learning",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762120302071"
+    },
+    {
+        "title": "Wireless edge caching based on content similarity in dynamic environments",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000163"
+    },
+    {
+        "title": "SimEdgeIntel: A open-source simulation platform for resource management in edge intelligence",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000266"
+    },
+    {
+        "title": "Blockchain-assisted handover authentication for intelligent telehealth in multi-server edge computing environment",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000333"
+    },
+    {
+        "title": "Crown-scheduling of sets of parallelizable tasks for robustness and energy-elasticity on many-core systems with discrete dynamic voltage and frequency scaling",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000175"
+    },
+    {
+        "title": "Feasibility interval and sustainable scheduling simulation with CRPD on uniprocessor platform",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000205"
+    }
+]

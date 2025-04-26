@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762117300395",
+    "title": "FPGA based real-time on-road stereo vision system",
+    "abstract": "Accurate and Real-Time  stereo vision  is an essential need for many  computer vision applications , such as On-Road  stereo vision system . In this paper, a fast and accurate system for On-Road  stereo vision  application is presented. In order to achieve this purpose, first, an algorithm is presented that is optimized for hardware implementation and On-Road application, then an appropriate hardware architecture for this algorithm is proposed. The approach uses gradient and Census transform as initial  cost function , then cost is aggregate in cross-based supported reign. LR-check and disparity refinement is also utilized to improve final disparity. The proposed design is a standalone stereo vision system where all steps of algorithm is implemented on a hardware platform. Overall system is implemented on  FPGA  platform and it is tested on KITTI Database. The proposed system is also tested on Middlebury database without any changes in parameters. Experimental results show that the proposed system has high accuracy in KITTI and Middlebury database. In term of hardware resource, the system occupy %%66 of XC6VLX240T  FPGA  device for 1920 × 1080 image with 96 disparity levels that operated at 53.5 Fps.",
+    "citation_count": "22",
+    "year": "2017/11/01",
+    "authors": [
+        {
+            "name": "M. Dehnavi",
+            "country": ""
+        },
+        {
+            "name": "M. Eshghi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

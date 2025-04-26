@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885620301165",
+    "title": "Geometry consistency aware confidence evaluation for feature matching",
+    "abstract": "Most existing approaches prune wrong matches via estimating an image transformation or solving a graph-based global matching  optimization problem , which usually suffers from varying local transformations and outliers. Inspired by the insight that neighboring true matches usually hold consistent local  topological structures  across images, in this paper we propose a new approach to evaluate the confidence of each putative match based on how well its two  keypoints  can predict each other by exploring the  geometric constraint  with its neighboring matches. With the evaluation, a two-stage approach combining recursively false match pruning and correct match incrementing is presented to obtain the reliable matches. Experiments on various image pairs demonstrate that our approach can conduct robust feature matching in  challenging conditions  and outperform state-of-the-art approaches.",
+    "citation_count": "10",
+    "year": "2020/11/01",
+    "authors": [
+        {
+            "name": "Linbo Wang",
+            "country": ""
+        },
+        {
+            "name": "Binbin Chen",
+            "country": ""
+        },
+        {
+            "name": "Peng Xu",
+            "country": ""
+        },
+        {
+            "name": "Honglong Ren",
+            "country": ""
+        },
+        {
+            "name": "Xianyong Fang",
+            "country": ""
+        },
+        {
+            "name": "Shaohua Wan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

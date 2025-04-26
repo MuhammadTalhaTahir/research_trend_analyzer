@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1009728720073",
+    "title": "Generalized Diameters and Rabin Numbers of Networks",
+    "abstract": "Reliability and efficiency are important criteria in the design of interconnection networks. Recently, the w-wide diameter dw(G), the (w − 1)-fault diameter Dw(G), and the w-Rabin number rw(G) have been used to measure network reliability and efficiency. In this paper, we study dw(G), Dw(G) and rw(G) using the strong w-Rabin number rw *(G) for 1 ≤ w ≤ k(G) and G is a circulant network G(dn; {1, d,..., dn −1}), a d-ary cube network C(d, n), a generalized hypercube GH(mn − 1,..., m0), a folded hypercube FH(n) or a WK-recursive network WK(d, t).",
+    "citation_count": 15,
+    "year": "1998/12",
+    "authors": [
+        {
+            "name": "Liaw, Sheng-Chyang",
+            "country": "Taiwan"
+        },
+        {
+            "name": "Chang, Gerard J.",
+            "country": "Taiwan"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

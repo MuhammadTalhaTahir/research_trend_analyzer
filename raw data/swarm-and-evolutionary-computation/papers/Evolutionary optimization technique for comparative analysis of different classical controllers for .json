@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650215000693",
+    "title": "Evolutionary optimization technique for comparative analysis of different classical controllers for an isolated wind–diesel hybrid power system",
+    "abstract": "In this paper, the considered hybrid  power system  (HPS) is having a wind  turbine generator , a  diesel  engine generator (DEG) and a storage device (such as capacitive energy storage). This paper presents a comparative study of frequency and power control for the studied isolated wind–diesel HPS with four different classical controllers for the pitch control of wind turbines and the speed governor control of DEG The classical controllers considered are integral, proportional-integral, integral-derivative and proportional-integral-derivative (PID) controller. A quasi-oppositional harmony search (QOHS) algorithm is proposed for the tuning of the  controller gains . The comparative dynamic simulation response results indicate that better performance may be achieved with choosing PID controller among the considered classical controllers, when subjected to different perturbation. Stability and sensitivity analysis, presented in this paper, reveals that the optimized PID controller gains offered by the proposed QOHS algorithm are quite robust and need not be reset for wide changes in system perturbations.",
+    "citation_count": "35",
+    "year": "2016/02/01",
+    "authors": [
+        {
+            "name": "V. Tarkeshwar Mahto",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-009-9170-x",
+    "title": "Solving 3D boundary element problems using constrained iterative approach",
+    "abstract": "Some major challenges for geophysicists and structural geologists using three-dimensional boundary element method codes (3D-BEM) are: (1) reducing the amount of memory required to solve large and dense systems and (2) incorporation of inequality constraints such as traction inequality constraints (TIC) and displacement inequality constraints (DIC). The latter serves two purposes. First, for example, inequality constraints can be used to simulate frictional slip (using TIC). Second, these constraints can prevent element interpenetration while allowing opening mode (using DIC). We have developed a method that simultaneously incorporates both types of functionality of the inequality constraints. We show that the use of an appropriate iterative solver not only avoids the allocation of significant memory for solving the system (allowing very large model computation and simplifying parallelization on multi-core processors), but also admits interesting features such as natural incorporation of TICs and DICs. Compared to other techniques of contact management (e.g., Lagrange multipliers, penalty method, or complementarity problem), this new simple methodology, which does not use any incremental trial-and-error procedures, brings more flexibility, while making the system more stable and less subject to round-off errors without any computational overhead. We provide validations and comparisons of the inequality constraints implementation using 2D analytical and numerical solutions.",
+    "citation_count": 46,
+    "year": "2010/09",
+    "authors": [
+        {
+            "name": "Maerten, Frantz",
+            "country": "France"
+        },
+        {
+            "name": "Maerten, Laurent",
+            "country": "France"
+        },
+        {
+            "name": "Cooke, Michele",
+            "country": "France"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

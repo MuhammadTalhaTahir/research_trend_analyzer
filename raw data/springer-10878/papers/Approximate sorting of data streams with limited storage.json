@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-015-9930-6",
+    "title": "Approximate sorting of data streams with limited storage",
+    "abstract": "We consider the problem of approximate sorting of a data stream (in one pass) with limited internal storage where the goal is not to rearrange data but to output a permutation that reflects the ordering of the elements of the data stream as closely as possible. Our main objective is to study the relationship between the quality of the sorting and the amount of available storage. To measure quality, we use permutation distortion metrics, namely the Kendall tau, Chebyshev, and weighted Kendall metrics, as well as mutual information, between the output permutation and the true ordering of data elements. We provide bounds on the performance of algorithms with limited storage and present a simple algorithm that asymptotically requires a constant factor as much storage as an optimal algorithm in terms of mutual information and average Kendall tau distortion. We also study the case in which only information about the most recent elements of the stream is available. This setting has applications to learning user preference rankings in services such as Netflix, where items are presented to the user one at a time.",
+    "citation_count": 22,
+    "year": "2016/11",
+    "authors": [
+        {
+            "name": "Farnoud, Farzad",
+            "country": "USA"
+        },
+        {
+            "name": "Yaakobi, Eitan",
+            "country": "USA"
+        },
+        {
+            "name": "Bruck, Jehoshua",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650221000870",
+    "title": "Stable switched controllers for a swarm of UGVs for hierarchal landmark navigation",
+    "abstract": "This paper presents the development of a new set of switched velocity controllers of a  swarm  of  unmanned ground vehicles  (UGVs) from  multiple Lyapunov functions , which are invoked according to a switching rule. The Lyapunov-based Control Scheme (LbCS) has derived the multiple Lyapunov functions that fall under the artificial potential field method of the classical approach. Interaction of the three main pillars of LbCS, which are safety, shortness, and smoothest path for motion planning, bring about cost and time effectiveness and efficiency of the velocity controllers. The switched controllers enable the UGVs to navigate autonomously via hierarchal landmarks in a cluttered workspace to their equilibrium state. The switched controllers give rise to a  switched system  whose stability is proven using Branicky’s stability criteria for switched systems based on multiple Lyapunov functions. Simulations results are presented to show the effectiveness of the nonlinear time-invariant controllers. Later, effects of noise are included in the velocity controllers to show system robustness.",
+    "citation_count": "27",
+    "year": "2021/08/01",
+    "authors": [
+        {
+            "name": "Sandeep A. Kumar",
+            "country": ""
+        },
+        {
+            "name": "B. Sharma",
+            "country": ""
+        },
+        {
+            "name": "J. Vanualailai",
+            "country": ""
+        },
+        {
+            "name": "A. Prasad",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

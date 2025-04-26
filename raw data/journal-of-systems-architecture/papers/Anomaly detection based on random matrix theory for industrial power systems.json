@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762118305113",
+    "title": "Anomaly detection based on random matrix theory for industrial power systems",
+    "abstract": "The identification of abnormal  power consumption  state is an important but difficult issue in power consumption. The State Grid Corporation of China’s electric energy data acquisition system is only capable of acquiring power consumption  big data  collected by smart energy meter terminals. In view of this fact, this study presents a method for identifying abnormal power consumption state. First, the  spectral distribution  of eigenvalues of the  covariance matrix  of the high-dimensional random matrix of massive volumes of power consumption data is analyzed based on high-dimensional random  matrix theory . Then, a power consumption big data-based abnormal power consumption state identification method is proposed based on the statistical properties of random matrices. Finally, simulations are performed based on actual power consumption data from  Guizhou Province , China. The simulation results show that the proposed method can not only satisfy urgent requirements of power grids for visualization, timeliness, reliability and security but also provide a new approach for data-driven smart visual monitoring of power consumption.",
+    "citation_count": "25",
+    "year": "2019/05/01",
+    "authors": [
+        {
+            "name": "Qiuyan Zhang",
+            "country": ""
+        },
+        {
+            "name": "Shaohua Wan",
+            "country": ""
+        },
+        {
+            "name": "Bo Wang",
+            "country": ""
+        },
+        {
+            "name": "David Wenzhong Gao",
+            "country": ""
+        },
+        {
+            "name": "Hengrui Ma",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621000251",
+    "title": "A study on attention-based LSTM for abnormal behavior recognition with variable pooling",
+    "abstract": "Behavior recognition is a well-known  computer vision  mobile technology. It has been used in many applications such as video surveillance, motion detection on devices, human-computer interaction and sports video, etc. However, most of the existing works ignored the depth and spatio-temporal information so that they resulted in over-fitting and inferior performance. Consequently, a novel framework for behavior recognition is proposed in this paper. In this framework, we propose a target depth  estimation algorithm  to calculate the 3D spatial  position information  of the target, and take this information as the input of the behavior recognition model. Simultaneously, in order to obtain more Spatio-temporal information and better handle long-term video, combining with the idea of  attention mechanism , we propose a skeleton behavior recognition model which is based on spatio-temporal convolution and attention-based  LSTM  (ST-CNN & ATT-LSTM). The deep spatial information is merged into each segment, and the model focuses on the key information extraction, which is essential for improving behavior recognition performance. Meanwhile, we use a feature  compression method  based on variable pooling to solve the problem of inconsistent input sizes caused by multi-person behavior recognition, so that the network can flexibly recognize multi-person skeleton sequences. Finally, the proposed framework is evaluated with real-world  surveillance video  data, and the results indicate that our framework is superior to existing methods.",
+    "citation_count": "18",
+    "year": "2021/04/01",
+    "authors": [
+        {
+            "name": "Kai Zhou",
+            "country": ""
+        },
+        {
+            "name": "Bei Hui",
+            "country": ""
+        },
+        {
+            "name": "Junfeng Wang",
+            "country": ""
+        },
+        {
+            "name": "Chunyu Wang",
+            "country": ""
+        },
+        {
+            "name": "Tingting Wu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

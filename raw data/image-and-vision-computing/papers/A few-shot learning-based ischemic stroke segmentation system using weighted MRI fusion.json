@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623002391",
+    "title": "A few-shot learning-based ischemic stroke segmentation system using weighted MRI fusion",
+    "abstract": "Stroke, particularly  ischemic stroke , is a major cause of disability and one of the leading causes of adult mortality worldwide. Early and prompt management of stroke patients can reduce the severity of the disease. Doctors usually determine the severity of a stroke by focusing on the region of interest (ROI) in the MRI or  CT scan  images. An accurate and effective automatic  image segmentation  system can assist medical professionals as well as automatic detection and classification systems.  Deep learning  is the current advanced approach for dealing with  machine learning  and  artificial intelligence . However, conventional deep learning requires a large amount of data for training, and the amount of labeled data in the medical field is limited. In this paper, we propose a few-shot learning strategy and integrate it with a base convolutional  neural network model , which utilizes a self-attention mechanism to segment MRI for ischemic stroke. By combining the base model with self-attention, we can focus more on the ROI and disregard less important features. Additionally, the proposed system only selects slices with lesions and ignores unlesioned slices. This helps to improve efficiency and reduce the  computational load  by eliminating the need to tune unnecessary parameters. To achieve even better results, the system also combines two weighted images, FLAIR and  DWI , as an early fusion process. Experiments have shown that this approach leads to higher performance compared to using the same system without fusion. The proposed system is evaluated using a publicly available dataset, ISLES 2015 SSIS, and compared with other state-of-the-art (SOTA) systems. It achieves a dice coefficient score of 0.68, which is significantly better than that of other SOTA systems.",
+    "citation_count": "15",
+    "year": "2023/12/01",
+    "authors": [
+        {
+            "name": "Fatima Alshehri",
+            "country": ""
+        },
+        {
+            "name": "Ghulam Muhammad",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

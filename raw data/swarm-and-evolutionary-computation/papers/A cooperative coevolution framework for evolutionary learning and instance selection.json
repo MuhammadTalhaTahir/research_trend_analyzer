@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650221000018",
+    "title": "A cooperative coevolution framework for evolutionary learning and instance selection",
+    "abstract": "Data science  becomes an emerging topic in developing computational and  artificial intelligence techniques  due to the rapid growth of information and data over past decade. Data-driven evaluation, through scanning data to validate the performance of a method, is the crux of effectively retrieving information. Ordinarily, the computational cost at data-driven evaluation is proportional to the volume, determined by the number of instances and the number of attributes, of the data. One straightforward way of reducing the volume of data is instance selection. Past studies have adopted  evolutionary algorithm  (EA) for instance selection, yet these studies are mainly based on  k  nearest  neighbors classifier  due to the high computational cost at learning process. Leveraging EA to learn patterns, models, or classifiers forms a famous branch of learning method known as evolutionary learning (EL). Nevertheless, EL requires immense amount of data-driven fitness evaluations, which detracts EL from efficiency and causes slow convergence. The issue of high computational cost at data-driven evaluation restricts the capability of evolutionary learning and evolutionary instance selection. This study proposes a novel framework called cooperative evolutionary learning and instance selection (CELIS) for addressing the above issues. There are three main features in the proposed CELIS: 1) cooperative evolutionary learning and instance selection in an adaptive manner, 2) fast solution evaluation based on the selected subset of data for evolutionary learning, and 3) effective data evaluation of  representativeness  as per promising solution for evolutionary instance selection. This study conducts a series of experiments for testing the effectiveness and efficiency of the proposed CELIS on  data mining , classification, and symbolic  regression problems . The results show that the proposed method can significantly enhance the performance of state-of-the-art EAs on the three types of problems in terms of solution quality and convergence speed. Further analysis also validates that CELIS is able to gain a small and representative subset of data.",
+    "citation_count": "13",
+    "year": "2021/04/01",
+    "authors": [
+        {
+            "name": "Rung-Tzuo Liaw",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124000390",
+    "title": "Analyzing the memory ordering models of the Apple M1",
+    "abstract": "The Apple M1 ARM processor family incorporates two memory consistency models: the conventional ARM weak memory ordering and the  Total store ordering (TSO)  model from the x86 architecture utilized by Apple’s x86 emulator, Rosetta 2. The presence of both memory ordering models on the same hardware enables us to thoroughly benchmark and compare their performance characteristics and worst-case workloads. In this paper, we assess the performance implications of TSO on the Apple M1 processor architecture. Based on the multi-threading workloads of the SPEC2017 CPU FP benchmark suite, our findings indicate that TSO is, on average, 8.94 percent slower than ARM’s weaker memory ordering. Through synthetic benchmarks, we further explore the workloads that experience the most significant performance degradation due to TSO. We also take a deeper look into the specific atomic instructions provided by the ARMv8.3 specification and their synchronization overheads.",
+    "citation_count": "0",
+    "year": "2024/04/01",
+    "authors": [
+        {
+            "name": "Lars Wrenger",
+            "country": ""
+        },
+        {
+            "name": "Dominik Töllner",
+            "country": ""
+        },
+        {
+            "name": "Daniel Lohmann",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

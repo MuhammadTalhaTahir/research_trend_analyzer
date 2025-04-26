@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224003791",
+    "title": "A consensus optimization mechanism with Q-learning-based distributed PSO for large-scale group decision-making",
+    "abstract": "Current industrial product design evaluation faces multiple challenges including shortened research and development (R&D) cycles, increased technical complexity and expanding expert teams, which exacerbate problems of incomplete information, uncertainty, and expert preference conflicts. Existing evaluation methods are difficult to capture linguistic ambiguity effectively and exhibit low consensus efficiency and optimization performance in large-scale group decision making (LSGDM). To address these challenges, this paper proposes a Q-learning-based distributed particle swarm optimization (QLDPSO) consensus mechanism for industrial product design evaluation. The proposed approach utilizes probabilistic linguistic term sets (PLTSs) to express expert preferences and capture evaluation uncertainties. An automated consensus optimization model is developed to eliminate preference conflicts, improve consensus efficiency and minimize time and effort spent on repeated negotiations by identifying optimization objectives and adjustment ranges. To overcome slow convergence and local optima issues in high-dimensional optimization, the method integrates Q-learning with distributed PSO, dividing the population into collaboratively evolving subpopulations and dynamically adjusting subpopulation sizes through reinforcement learning to balance exploration and exploitation. Finally, the proposed algorithm was validated through an aeroengine design case study and compared with existing algorithms. The experimental results demonstrate that the QLDPSO consensus optimization mechanism significantly improves both the consensus optimization efficiency and evaluation accuracy in LSGDM scenarios, offering an innovative and practical solution for design alternative selection of complex industrial products.",
+    "citation_count": "0",
+    "year": "2025/03/01",
+    "authors": [
+        {
+            "name": "Qingyang Jia",
+            "country": ""
+        },
+        {
+            "name": "Kewei Yang",
+            "country": ""
+        },
+        {
+            "name": "Yajie Dou",
+            "country": ""
+        },
+        {
+            "name": "Ziyi Chen",
+            "country": ""
+        },
+        {
+            "name": "Nan Xiang",
+            "country": ""
+        },
+        {
+            "name": "Lining Xing",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

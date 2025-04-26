@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-019-00478-y",
+    "title": "The new treatment mode research of hepatitis B based on ant colony algorithm",
+    "abstract": "Hepatitis B (HB) is a deadly disease that has a severe impact on infected individuals. In China, not only are the incidence and infection rates of HB very high, but also many HB patients suffer from mental illness associated with anxiety and fear because of HB-associated symptoms. This exacerbates the patients’ condition, potentially increasing the risk of mortality. In this paper, we propose a new treatment mode to improve the therapeutic efficiency and patients’ satisfaction with their healthcare. In a single process of this new treatment, several patients with similar disease symptoms are treated by one doctor at the same time. This new treatment mode can not only relieve the anxiety and fear of HB patients, and improve patients’ cognition rate of HB, but also reduce the HB infection rate, slow down the progression of disease symptoms, and shorten the course. If patients with similar disease symptoms are to be grouped together, there is a need to determine the optimal patient batch combination, which can be solved in the new mode, called patient combined problem (PCP). We also constructed a mathematical model of PCP, and present the ant colony (AC) algorithm and Enhanced AC with a P-3-exchange operator for PCP in the new treatment mode in this paper. We also performed an experiment that showed that our proposed algorithms are very fast and effective for solving this problem.",
+    "citation_count": 53,
+    "year": "2021/11",
+    "authors": [
+        {
+            "name": "Yu, Jing",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Xing, Lining",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Tan, Xu",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959523000917",
+    "title": "GraphSAGE with contrastive encoder for efficient fault diagnosis in industrial IoT systems",
+    "abstract": "Imbalanced datasets are common in industrial internet of things (IIoT) systems due to challenges in acquiring faulty labels. Augmentation and graph-based methods have been proposed to improve classification accuracy of deep learning-based systems. However, the conventional approaches can be limited by training complexity and inefficient memory usage. In this paper, GraphSAGE with contrastive encoder (GCE) is proposed to improve classification accuracy and memory utilization efficiency. From the simulation results, it is confirmed that the GCE can improve classification accuracy by up to 23% compared to conventional approaches.",
+    "citation_count": "0",
+    "year": "2023/12/01",
+    "authors": [
+        {
+            "name": "Joonho Seon",
+            "country": ""
+        },
+        {
+            "name": "Seongwoo Lee",
+            "country": ""
+        },
+        {
+            "name": "Young Ghyu Sun",
+            "country": ""
+        },
+        {
+            "name": "Soo Hyun Kim",
+            "country": ""
+        },
+        {
+            "name": "Dong In Kim",
+            "country": ""
+        },
+        {
+            "name": "Jin Young Kim",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

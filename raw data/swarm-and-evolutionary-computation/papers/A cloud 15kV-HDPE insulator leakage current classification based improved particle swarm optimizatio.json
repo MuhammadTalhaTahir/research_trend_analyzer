@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224002931",
+    "title": "A cloud 15kV-HDPE insulator leakage current classification based improved particle swarm optimization and LSTM-CNN deep learning approach",
+    "abstract": "Real-time insulator leakage current classification is crucial in preventing the pollution flashover phenomenon and providing appropriate maintenance schedules in high-voltage transmission towers. However, current methodologies only utilize traditional artificial neural networks, which have limitations when performing big data analysis. This research developed a novel cloud 15kV-HDPE insulator leakage current classified framework, utilizing a long short-term memory convolutional neural network (LSTM-CNN). The hybrid model structure is optimized through hyperparameter fine-tuning based on improved particle swarm optimization (IPSO), which reduces human effort and considerable time compared with PSO and random search (RS) techniques. The IPSO-LSTM-CNN model can productively identify correlations between selected weather features and target leakage current levels of 15kV-HDPE insulators. LSTM efficiently captures long-term patterns in sequential data, while CNN layers competently extract high-level dependency in time-invariant information. Four 15kV-HDPE insulators’ datasets, collected in high-voltage transmission lines in the coastal area of Taiwan for more than one year, are deployed for analyzing and comparing classified performance. Other conventional models are developed to evaluate and compare classified performance with the proposed IPSO-LSTM-CNN approach, which acquires the most significant enhancement of 48.08 % loss, 45.91 % validating loss, 52.57 % MAE, 35.47 % validating MAE, 47.34 % MSE, 27.02 % validating MSE, 9.15 % PRE, 3.40 % validating PRE, 4.76 % REC, and 6.17 % validating REC. The experiment outcomes demonstrate that the developed IPSO-LSTM-CNN model acquires improved robustness and accuracy in the leakage current classified capability of 15kV-HDPE insulators.",
+    "citation_count": "5",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Thao Nguyen Da",
+            "country": ""
+        },
+        {
+            "name": "Phuong Nguyen Thanh",
+            "country": ""
+        },
+        {
+            "name": "Ming-Yuan Cho",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

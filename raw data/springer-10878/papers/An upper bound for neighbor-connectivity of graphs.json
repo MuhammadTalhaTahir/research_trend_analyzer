@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-024-01235-6",
+    "title": "An upper bound for neighbor-connectivity of graphs",
+    "abstract": "The neighbor-connectivity of a graph G, denoted by $$\\kappa _{NB}(G)$$ , is the least number of vertices such that removing their closed neighborhoods from G results in a graph that is empty, complete, or disconnected. In the paper, we show that for any graph G of order n, $$\\kappa _{NB}(G)\\le \\lceil \\sqrt{2n}\\ \\rceil -2$$ . We pose a conjecture that $$\\kappa _{NB}(G)\\le \\lceil \\sqrt{n}\\ \\rceil -1$$ for a graph G of order n. For supporting it, we show that the conjecture holds for any triangle-free graphs, Cartesian, direct, lexicographic product of any two graphs.",
+    "citation_count": 14,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "Ma, Hongliang",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Wu, Baoyindureng",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-018-0727-y",
+    "title": "Human action recognition in videos with articulated pose information by deep networks",
+    "abstract": "Action recognition is of great importance in understanding human motion from video. It is an important topic in computer vision due to its many applications such as video surveillance, human–machine interaction and video retrieval. One key problem is to automatically recognize low-level actions and high-level activities of interest. This paper proposes a way to cope with low-level actions by combining information of human body joints to aid action recognition. This is achieved by using high-level features computed by a convolutional neural network which was pre-trained on Imagenet, with articulated body joints as low-level features. These features are then used to feed a Long Short-Term Memory network to learn the temporal dependencies of an action. For pose prediction, we focus on articulated relations between body joints. We employ a series of residual auto-encoders to produce multiple predictions which are then combined to provide a likelihood map of body joints. In the network topology, features are processed across all scales which capture the various spatial relationships associated with the body. Repeated bottom-up and top-down processing with intermediate supervision of each auto-encoder network is applied. We demonstrate state-of-the-art results on the popular FLIC, LSP and UCF Sports datasets.",
+    "citation_count": 77,
+    "year": "2019/11",
+    "authors": [
+        {
+            "name": "Farrajota, M.",
+            "country": "Portugal"
+        },
+        {
+            "name": "Rodrigues, João M. F.",
+            "country": "Portugal"
+        },
+        {
+            "name": "du Buf, J. M. H.",
+            "country": "Portugal"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003615",
+    "title": "Dual-branch underwater image enhancement network via multiscale neighborhood interaction attention learning",
+    "abstract": "Due to the light scattering and absorption, underwater images inevitably suffer from diverse quality degradation, including color distortion, low contrast, and blurred details. To address the problems, we present a dual-branch convolutional neural network via multiscale neighborhood interaction attention learning for underwater image enhancement. Specifically, the proposed network is trained by an ensemble of locally-aware and globally-aware branches processed in parallel, where the locally-aware branch with stronger representation ability aims to recover high-frequency local details sufficiently, and the globally-aware branch with weaker learning ability aims to prevent information loss in low-frequency global structure effectively. On the other hand, we develop a plug-and-play multiscale neighborhood interaction attention module, which further enhances image quality through appropriate cross-channel interactions with inputs from different receptive fields. Compared with the well-received methods, extensive experiments on both real-world and synthetic underwater images reveal that our proposed network can achieve superior color and contrast enhancement in terms of subjective visual perception and objective evaluation metrics. Ablation study is also conducted to demonstrate the effectiveness of each component in the network.",
+    "citation_count": "1",
+    "year": "2024/11/01",
+    "authors": [
+        {
+            "name": "Xun Ji",
+            "country": ""
+        },
+        {
+            "name": "Xu Wang",
+            "country": ""
+        },
+        {
+            "name": "Na Leng",
+            "country": ""
+        },
+        {
+            "name": "Li-Ying Hao",
+            "country": ""
+        },
+        {
+            "name": "Hui Guo",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-025-01434-9",
+    "title": "Complex image inpainting of cultural relics integrating multi-stage structural features and spatial textures",
+    "abstract": "Aiming at the shortcomings of the existing image inpainting algorithms in the inpainting of cultural relics images, an improved two-stage image inpainting model is proposed, which integrates multi-stage structural features and spatial textures. The first stage of structural restoration was carried out using lightweight axial attention and transformer structures to extract the structural features of the relic images. Through the structural coding module GLFSE, the global and local fusion of coherent structural features of the one-stage restoration is promoted. In the second stage, a texture restoration structure is introduced, utilizing the multi-scale sensing space denoising module MFDAF to enhance the reconstruction of fine textures. In view of the limited digital image data set of mural paintings in China, a new data set of Thangka mural paintings named Tangka was built by ourselves. The proposed method was tested on two cultural relic image data sets, Chinese landscape painting and Thangka mural painting, and Places2 realistic scene data set. We used seven metrics, namely PSNR, SSIM, FID, LPIPS, PIQE, NIQE, and BRISQUE, for objective evaluation and conducted subjective evaluations under five different mask ratios. The results confirm the effectiveness of the proposed method. The source code is publicly available at https://github.com/heart1128/Inpainting-CIOCR.",
+    "citation_count": 29,
+    "year": "2025/06",
+    "authors": [
+        {
+            "name": "Ning, Tao",
+            "country": "China"
+        },
+        {
+            "name": "Huang, Guowei",
+            "country": "China"
+        },
+        {
+            "name": "Li, Jiaxin",
+            "country": "China"
+        },
+        {
+            "name": "Huang, Shan",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

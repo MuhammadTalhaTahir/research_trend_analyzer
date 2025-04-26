@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-021-10077-8",
+    "title": "Effective viscoelastic representation of gas-hydrate bearing sediments from finite-element harmonic experiments",
+    "abstract": "We present a novel numerical upscaling technique for modeling the wave response of gas-hydrate bearing sediments composed of a rock frame, gas-hydrate and water, where the hydrate consists of ice-like lattice of water molecules with methane trapped inside. These sediments are highly heterogeneous at mesoscopic scales, much smaller than the wavelength but much larger than the pore size, inducing substantial seismic wave attenuation and dispersion due to mode conversions. The proposed numerical upscaling procedure simulates the wave-induced fluid-flow loss mechanism by computing an average effective viscoelastic medium having the same behavior of the original sediment. The method determines the complex stiffness coefficients associated with the viscoelastic medium by solving numerically boundary value problems formulated in the space-frequency domain, representing compressibility and shear experiments. The procedure is applied to composite media with regions of different amounts of hydrate with patchy or periodic-layer distributions, which define an anisotropic effective viscoelastic medium, respectively. The examples demonstrate that variations in hydrate content induce strong attenuation and dispersion effects on seismic waves due to the mesoscopic loss mechanism.",
+    "citation_count": 22,
+    "year": "2021/12",
+    "authors": [
+        {
+            "name": "Santos, Juan E.",
+            "country": "China"
+        },
+        {
+            "name": "Gauzellino, Patricia M.",
+            "country": "Argentina"
+        },
+        {
+            "name": "Carcione, José M.",
+            "country": "USA"
+        },
+        {
+            "name": "Ba, Jing",
+            "country": "Argentina"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

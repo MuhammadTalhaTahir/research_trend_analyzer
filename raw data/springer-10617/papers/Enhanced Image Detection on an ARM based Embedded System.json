@@ -1,0 +1,22 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1016528114740",
+    "title": "Enhanced Image Detection on an ARM based Embedded System",
+    "abstract": "This paper presents a new technique for thedetection of Integrated Circuits within images of Printed Circuit Boards autonomouslyand without the need to be assisted by CAD data. The technique is a key partof a suite of algorithms targeted for an embedded System On Chip architecturebased on the ARM7 platform for real time detection of PCB images for diagnosticpurposes. The technique has a significant reduction in complexity when comparedto conventional approaches such as the Hough Transform. The reduction in complexitymakes the approach ideal for an embedded vision application suchas the one described in this paper. This paper presents the technique, thetarget embedded architecture and results showing the reduction in complexitywhen compared to a Hough Transform.",
+    "citation_count": 10,
+    "year": "2002/07",
+    "authors": [
+        {
+            "name": "Evans, J. R.",
+            "country": "UK"
+        },
+        {
+            "name": "Arslan, T.",
+            "country": "UK"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

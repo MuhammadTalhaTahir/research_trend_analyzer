@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762118300596",
+    "title": "Energy-aware page replacement and consistency guarantee for hybrid NVM–DRAM memory systems",
+    "abstract": "Non-Volatile Memory (NVM) has been widely used in hybrid memory architecture due to the promising advantages like high density and  low power consumption . Most of existing page replacement methods focused on prolonging the life time of NVM memory systems, which either consider the energy cost or deal with consistency errors caused by system failures. This paper proposes a page replacement method based on NVM–DRAM hybrid main memory systems for low power and consistency guarantee, called Energy-Aware Page Replacement (EAPR). The energy consumption of page access in  DRAM  and NVM is modelled considering the memory access like reading, writing and idle. EAPR utilizes page grouping policy to improve the migration efficiency between NVM and  DRAM . Page groups are chosen to migrate according to their energy-related substitution degrees. To guarantee the consistency during page migration, this paper designs two consistency guarantee schemes in page replacement phase and transaction committing phase. Instead of deleting logs directly, our approach guarantees the consistency of hybrid memory systems by modifying the  data structures  of logs after the transactions of applications are submitted. Based on existing benchmarks, we conduct extensive experiments to evaluate the proposed method. Experimental results show that EAPR can reduce the energy consumption up to 40.19% compared with the existing page replacement algorithms, and also guarantee the consistency of transactions in NVM–DRAM hybrid memory systems.",
+    "citation_count": "22",
+    "year": "2018/09/01",
+    "authors": [
+        {
+            "name": "Jinyu Zhan",
+            "country": ""
+        },
+        {
+            "name": "Yiming Zhang",
+            "country": ""
+        },
+        {
+            "name": "Wei Jiang",
+            "country": ""
+        },
+        {
+            "name": "Junhuan Yang",
+            "country": ""
+        },
+        {
+            "name": "Lin Li",
+            "country": ""
+        },
+        {
+            "name": "Yixin Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

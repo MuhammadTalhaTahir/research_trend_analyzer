@@ -1,0 +1,35 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-013-0467-6",
+    "title": "Detecting Hot Road Mobility of Vehicular Ad Hoc Networks",
+    "abstract": "Vehicular Ad Hoc Networks (VANETs) can provide value-added services to both drivers and passengers with on-board vehicular communication systems. Node mobility and volatile wireless connection in VANETs affect inter-contact time (T I ) between mobile nodes, which greatly degrades the performance of vehicular applications. Nevertheless, the node spatial distribution in VANETs is another important factor especially in real applications. It positively affects the inter-contact time of vehicular nodes. By leveraging it, we can significantly improve the performance of data transmissions and inter-vehicle communication. To this end, we investigate the data collected from around 4,000 taxisin Shanghai and propose in this paper an efficient hot road mobility model. We find that most taxis distribute on some hot roads, which makes the node spatial distribution follow the power law. Based on this observation, we propose the concepts of indirect contact and heterogeneous inter-contact time (T H ) to reveal how hot roads can change the distribution of inter-contact time. We find that the tail distribution of T H also appears the power law, and both node spatial distribution and T H distribution decay at least as the power law. We further propose a model for detecting vehicle mobility in hot roads, which can generates synthetic traces that captures both spatial and temporal features of nodes in VANETs.",
+    "citation_count": 34,
+    "year": "2013/12",
+    "authors": [
+        {
+            "name": "Zhang, Daqiang",
+            "country": "China"
+        },
+        {
+            "name": "Huang, Hongyu",
+            "country": "China"
+        },
+        {
+            "name": "Zhou, Jingyu",
+            "country": "China"
+        },
+        {
+            "name": "Xia, Feng",
+            "country": "China"
+        },
+        {
+            "name": "Chen, Zhe",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

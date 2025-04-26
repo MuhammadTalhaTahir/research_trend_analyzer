@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885619304561",
+    "title": "A new cast shadow detection method for traffic surveillance video analysis using color and statistical modeling",
+    "abstract": "In traffic surveillance video analysis systems, the cast shadows of vehicles often have a negative effect on video analysis results. A novel cast shadow detection framework, which consists of a new foreground detection method and a cast shadow detection method, is presented in this paper to detect and remove the cast shadows from the foreground. The new foreground detection method applies an innovative Global Foreground Modeling (GFM) method, a Gaussian mixture model or GMM, and the Bayes classifier for foreground and background classification. While the GFM method is for global foreground modeling, the GMM is for local background modeling, and the Bayes classifier applies both the foreground and the background models for foreground detection. The rationale of the GFM method stems from the observation that the foreground objects often appear in recent frames and their trajectories often lead them to different locations in these frames. As a result, the statistical models used to characterize the foreground objects should not be pixel based or locally defined. The cast shadow detection method contains four hierarchical steps. First, a set of new chromatic criteria is presented to detect the candidate shadow pixels in the HSV color space. Second, a new shadow region detection method is proposed to cluster the candidate shadow pixels into shadow regions. Third, a statistical shadow model, which uses a single  Gaussian distribution  to model the shadow class, is presented for classifying shadow pixels. Fourth, an aggregated shadow detection method is presented for final shadow detection. Experiments using the public video data ‘Highway-1’ and ‘Highway-3’, and the New Jersey Department of Transportation (NJDOT) real traffic video sequences show the feasibility of the proposed method. In particular, the proposed method achieves better shadow detection performance than the popular shadow detection methods, and is able to improve the traffic video analysis results.",
+    "citation_count": "15",
+    "year": "2020/02/01",
+    "authors": [
+        {
+            "name": "Hang Shi",
+            "country": ""
+        },
+        {
+            "name": "Chengjun Liu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

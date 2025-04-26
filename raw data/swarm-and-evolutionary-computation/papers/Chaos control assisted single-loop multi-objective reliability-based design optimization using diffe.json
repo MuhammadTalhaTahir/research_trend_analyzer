@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S221065022300113X",
+    "title": "Chaos control assisted single-loop multi-objective reliability-based design optimization using differential evolution",
+    "abstract": "In this paper, a single-loop multi-objective formulation for reliability-based design optimization is proposed in which the reliability analysis is approximated using Karush–Kuhn Tucker optimality conditions. The concept of chaos control theory is coupled with the formulation for estimating the most probable target point in order to reduce its oscillation during convergence. The proposed formulation is solved using multi-objective differential evolution algorithm that is designed using non-dominated sorting and crowding distance. The algorithm is made adaptive for better convergence by introducing a heuristic parameter for generating mutant vectors from different variants of differential evolution. Two mathematical and one engineering bi-objective RBDO examples are solved. Results demonstrate the superiority of the proposed single-loop multi-objective differential evolution over its double-loop variant in generating the reliable Pareto-optimal solutions in less function evaluations.",
+    "citation_count": "6",
+    "year": "2023/08/01",
+    "authors": [
+        {
+            "name": "Raktim Biswas",
+            "country": ""
+        },
+        {
+            "name": "Deepak Sharma",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

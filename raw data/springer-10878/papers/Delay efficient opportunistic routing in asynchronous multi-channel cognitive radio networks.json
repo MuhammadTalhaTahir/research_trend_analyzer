@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-013-9623-y",
+    "title": "Delay efficient opportunistic routing in asynchronous multi-channel cognitive radio networks",
+    "abstract": "In this paper, we are interested in designing efficient distributed opportunistic routing protocols for multi-hop multi-channel cognitive radio networks (CRNs). In CRNs, secondary users (SUs) access unused primary channels opportunistically, which induces considerable end-to-end delays for multi-hop routing. The primary cause of the delay overhead is that the set of available channels change dynamically over time due to the activities of primary users, making it challenging to effectively explore the spectrum diversity. Our approach towards working with such a dynamic network is to construct a cross-layer distributed opportunistic routing protocol. Our protocol jointly considers the channel sensing strategy, the forwarder selection for each SU, and the package division scheme on each link. We mathematically model the expected delay of each hop along the routing path. This delay model sheds lights on our expected end-to-end delay analysis, from which we develop a distributed algorithm to derive the system parameters for the opportunistic routing protocol. Extensive simulation results indicate the improved performance of our opportunistic routing protocol in terms of end-to-end delay, especially for CRNs with highly dynamic channel conditions.",
+    "citation_count": 25,
+    "year": "2015/05",
+    "authors": [
+        {
+            "name": "Cai, Zhipeng",
+            "country": "USA"
+        },
+        {
+            "name": "Duan, Yueming",
+            "country": "USA"
+        },
+        {
+            "name": "Bourgeois, Anu G.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

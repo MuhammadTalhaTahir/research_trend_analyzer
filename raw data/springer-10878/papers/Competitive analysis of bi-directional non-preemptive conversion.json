@@ -1,0 +1,21 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-017-0131-3",
+    "title": "Competitive analysis of bi-directional non-preemptive conversion",
+    "abstract": "In an online conversion problem a player is converting one asset into another, e.g. dollars to yen, based on a finite sequence of unknown future conversion rates. When a new rate is announced the player must decide how many dollars (yen) to convert to yen (dollars) according to this rate. Conversion is over when the last rate has appeared. The objective is to maximize terminal wealth after conversion. In uni-directional conversion dollars are converted to yen and in bi-directional conversion not only dollars to yen but also yen to dollars may be converted. If all current wealth has to be converted at one rate we call the problem non-preemptive; if parts of the current wealth can be converted at one rate we call it preemptive. We assume that lower and upper bounds on conversion rates are given. Uni-directional preemptive and non-preemptive and bi-directional preemptive conversion is investigated in El Yaniv et al. (Proceeding 33rd annual symposium on foundations of computer science, pp 327–333, 1992, Algorithmica 30:101–139, 2001). Their results for bi-directional preemptive conversion are improved by Dannoura and Sakurai (Inf Process Lett 66:27–33, 1998). The suggested improvement is conjectured not to be optimal for bi-directional preemptive conversion. There are no results for optimal bi-directional non-preemptive conversion. We investigate the problem of bi-directional non-preemptive online conversion. We present lower bounds, upper bounds and an optimal algorithm to solve the problem. Moreover, we prove that the algorithm of Dannoura and Sakurai 1998 is not optimal for bi-directional preemptive conversion.",
+    "citation_count": 9,
+    "year": "2017/11",
+    "authors": [
+        {
+            "name": "Schmidt, Günter",
+            "country": "Germany"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

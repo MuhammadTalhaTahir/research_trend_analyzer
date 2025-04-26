@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959521001326",
+    "title": "Interference alignment with receive antenna partitioning for SWIPT-enabled fog RANs",
+    "abstract": "We propose a novel interference alignment (IA) technique with receive antenna partitioning (RAP) for simultaneous wireless information and power transfer (SWIPT)-enabled downlink fog radio access networks (F-RANs). The basic idea of the proposed scheme is to apply a generalized downlink IA for each access point (AP) and to divide receive antennas at each user into two groups for information decoding (ID) and energy harvesting (EH), respectively. With the proposed scheme, an optimal receive antenna configuration at each user is obtained to maximize the weighted sum of achievable rate and the sum of harvested energy of the network. Also we develop an antenna configuration selection algorithm to obtain near-optimal performance with low computational complexity. Through extensive computer simulations, it is shown that the proposed scheme significantly improves a rate-energy region compared with existing techniques.",
+    "citation_count": "0",
+    "year": "2022/12/01",
+    "authors": [
+        {
+            "name": "Yongjae Kim",
+            "country": ""
+        },
+        {
+            "name": "Janghyuk Youn",
+            "country": ""
+        },
+        {
+            "name": "Bang Chul Jung",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

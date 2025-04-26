@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885622000981",
+    "title": "Improving neural network robustness through neighborhood preserving layers",
+    "abstract": "High-dimensional embeddings are often projected via fully connected layers while training  neural networks . A major vulnerability that makes  neural networks  fail to be robust against  adversarial attack  is their use of overparameterized fully connected layers. We present a dimension reducing layer which preserves high-dimensional neighborhoods across the entire manifold. Atypically, our neighborhood preserving layer operates on non-static high dimensional inputs and can be trained efficiently via  gradient descent . Our interest is in developing a trainable manifold representation, whose low-dimensional embeddings can be re-used for other purposes, and in investigating its robustness against adversarial attack. Our layer internally uses nearest-neighbor attractive and repulsive forces to create a low dimensional output representation. We demonstrate a novel  neural network architecture  which can incorporate such a layer, and also can be trained efficiently. Our theoretical results show why linear layers, which have many parameters, are innately less robust. This is corroborated by experiments on MNIST and CIFAR10 replacing the first fully-connected layer with a neighborhood preserving layer by our proposed model.",
+    "citation_count": "4",
+    "year": "2022/07/01",
+    "authors": [
+        {
+            "name": "Bingyuan Liu",
+            "country": ""
+        },
+        {
+            "name": "Christopher Malon",
+            "country": ""
+        },
+        {
+            "name": "Lingzhou Xue",
+            "country": ""
+        },
+        {
+            "name": "Erik Kruus",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

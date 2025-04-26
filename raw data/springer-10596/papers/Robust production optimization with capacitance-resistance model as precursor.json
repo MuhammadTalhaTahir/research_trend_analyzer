@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-017-9666-8",
+    "title": "Robust production optimization with capacitance-resistance model as precursor",
+    "abstract": "Many model-based techniques for optimizing hydrocarbon production, especially robust optimization (RO), carry prohibitive computational cost. Ensemble-based optimization (EnOpt) is a promising RO method but is computationally intensive when based on rich grid-based reservoir models with hundreds of realizations. We present a proxy-model workflow where a grid-based model is supplemented by a useful yet tractable proxy model. A capacitance-resistance model (CRM) can be a proxy model for waterflooding systems. We illustrate the use of CRM-based models and investigate their pros and cons using synthetic 2D and 3D models. A selected proxy model is embedded into the proxy-model workflow. The results obtained from the proxy-model and traditional workflows are compared. The impact of any differences is assessed by considering a relevant decision-making context. The main contributions are (1) a general RO workflow that embeds proxy models, (2) a discussion of the desiderata of proxy models, (3) illustration and discussion of the use of CRM-based models in the proxy-model workflow, and (4) a discussion of the impact of using a proxy model for production optimization in a decision-making context. Based on our study, we conclude that CRM-based models have high potential to serve as a cogent proxy model for waterflooding related decision-making context and that the proxy-model workflow, leveraging a faster, but relevant, production model, significantly speeds up the optimization yet gives robust results that leads to a near-optimal solution.",
+    "citation_count": 37,
+    "year": "2017/12",
+    "authors": [
+        {
+            "name": "Hong, A. J.",
+            "country": "Norway"
+        },
+        {
+            "name": "Bratvold, R. B.",
+            "country": "Norway"
+        },
+        {
+            "name": "Nævdal, G.",
+            "country": "Norway"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

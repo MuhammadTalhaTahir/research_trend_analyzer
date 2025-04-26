@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959518300341",
+    "title": "Transmit power imbalance reduction method and nonlinear companding transform for beamforming OFDM systems",
+    "abstract": "Due to large peak-to-average power ratio (PAPR) at the time domain OFDM signal, various peak signal reduction methods for OFDM systems have been proposed. However, in a transmit OFDM beamforming, multiplication of the transmit signal using the weights causes transmit power imbalance between antennas and increases peak signal. We propose two approaches to mitigate these problems. Adding the pseudo-noise to covariance matrix at the process of weight calculation can alleviate the transmit power imbalance. Furthermore, the companding transform of time domain signal can reduce the peak signals. We show details of proposed methods and evaluate PAPR and BER performance.",
+    "citation_count": "0",
+    "year": "2019/12/01",
+    "authors": [
+        {
+            "name": "Satoshi Taroda",
+            "country": ""
+        },
+        {
+            "name": "Ken Tezuka",
+            "country": ""
+        },
+        {
+            "name": "Shoichi Higuchi",
+            "country": ""
+        },
+        {
+            "name": "Chang-Jun Ahn",
+            "country": ""
+        },
+        {
+            "name": "Kazuki Maruta",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

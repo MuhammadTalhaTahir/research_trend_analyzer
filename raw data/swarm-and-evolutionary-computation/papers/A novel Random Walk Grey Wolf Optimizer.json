@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217305333",
+    "title": "A novel Random Walk Grey Wolf Optimizer",
+    "abstract": "Grey Wolf Optimizer (GWO) algorithm is a relatively new algorithm in the field of  swarm intelligence  for solving continuous optimization problems as well as real world optimization problems. The Grey Wolf Optimizer is the only algorithm in the category of swam intelligence which is based on leadership hierarchy. This paper has three important aspects- Firstly, for improving the search ability by grey wolf a modified algorithm RW-GWO based on random walk has been proposed. Secondly, its performance is exhibited in comparison with GWO and state of art algorithms GSA, CS, BBO and SOS on IEEE CEC 2014 benchmark problems. A non-parametric test Wilcoxon and Performance Index Analysis has been performed to observe the impact of improving the leaders in the proposed algorithm. The results presented in this paper demonstrate that the proposed algorithm provide a better leadership to search a prey by grey wolves. The third aspect of the paper is to use the proposed algorithm and GWO on real life application problems. It is concluded from this article that RW-GWO algorithm is an efficient and reliable algorithm for solving not only continuous optimization problems but also for real life optimization problems.",
+    "citation_count": "355",
+    "year": "2019/02/01",
+    "authors": [
+        {
+            "name": "Shubham Gupta",
+            "country": ""
+        },
+        {
+            "name": "Kusum Deep",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

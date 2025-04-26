@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S240595951630162X",
+    "title": "Gyroscope vs. accelerometer measurements of motion from wrist PPG during physical exercise",
+    "abstract": "Many wearable devices include PPG (photoplethysmography) sensors for non-invasive heart rate monitoring. However, PPG signals are heavily corrupted by motion interference, and rely on simultaneous motion measurements to remove the interference. Accelerometers are used commonly, but cannot differentiate between acceleration due to movement and acceleration due to gravity. This paper compares measurements of motion using accelerometers and gyroscopes to give a more complete estimate of wrist motion. Results show the two sensor signals are very different, with low correlations present. When used in a wrist PPG heart rate algorithm gyroscope motion estimates obtain better performance in half of the cases.",
+    "citation_count": "0",
+    "year": "2016/12/01",
+    "authors": [
+        {
+            "name": "Alexander J. Casson",
+            "country": ""
+        },
+        {
+            "name": "Arturo Vazquez Galvez",
+            "country": ""
+        },
+        {
+            "name": "Delaram Jarchi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

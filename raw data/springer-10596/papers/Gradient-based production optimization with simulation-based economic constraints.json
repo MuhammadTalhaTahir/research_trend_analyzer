@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-017-9634-3",
+    "title": "Gradient-based production optimization with simulation-based economic constraints",
+    "abstract": "In reservoir management, production optimization is performed using gradient-based algorithms that commonly rely on an adjoint formulation to efficiently compute control gradients. Often, however, economic constraints are implicitly embedded within the optimization procedure through well performance limits enforced at each reservoir simulation time-step. These limits effectively restrict the operational capabilities of the wells, e.g., they stop or shut down production depending on a predetermined profitability threshold for the well. Various studies indicate that the accuracy of the gradient and, by consequence, the performance of the optimization algorithm suffer from this type of heuristic constraint enforcement. In this paper, an analytical framework is developed to study the effects of enforcing simulator-based economic constraints when performing gradient-based production optimization that relies on derivatives obtained through an adjoint formulation. The framework attributes the loss in control gradient sensitivity to non-differentiable unscheduled changes in the well model equations. The discontinuous nature of these changes leads to inconsistencies within the adjoint gradient formulation. These inconsistencies, in turn, reduce gradient quality and subsequently decrease algorithmic performance. Based on the developed framework, we devise an efficient simulator-based mode of constraint enforcement that yields gradients with fewer consistency errors. In this implementation, the well model equations that violate constraints are removed from the governing system right after the violation occurs and are not reinserted until the next well status update. The constraint enforcement modes are further coupled with a strategy that improves the selection of initial controls for subsequent iterations of the optimization procedure. After a given simulation, the resulting combination of open and shut-in periods generates a status update schedule, or shut-in history. The shut-in history of the current optimal solution is saved and used in subsequent optimization iterations to make the status update a part of the optimal solution. The novel simulation-based constraint implementation, with and without shut-in history, is applied to two production optimization cases where, for a large set of initial guesses, and different model realizations, it retains and improves the performance of the search procedure compared to when using common modes of economic constraint enforcement during production optimization.",
+    "citation_count": 25,
+    "year": "2017/12",
+    "authors": [
+        {
+            "name": "Volkov, Oleg",
+            "country": "USA"
+        },
+        {
+            "name": "Bellout, Mathias C.",
+            "country": "Norway"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

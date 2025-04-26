@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-010-9316-8",
+    "title": "Optimal semi-online algorithm for scheduling with rejection on two uniform machines",
+    "abstract": "In this paper we consider a semi-online scheduling problem with rejection on two uniform machines with speed 1 and s≥1, respectively. A sequence of independent jobs are given and each job is characterized by its size (processing time) and its penalty, in the sense that, jobs arrive one by one and can be either rejected by paying a certain penalty or assigned to some machine. No preemption is allowed. The objective is to minimize the sum of the makespan of schedule, which is yielded by all accepted jobs and the total penalties of all rejected ones. Further, two rejection strategies are permitted thus an algorithm can propose two different schemes, from which the better solution is chosen. For the above version, we present an optimal semi-online algorithm H that achieves a competitive ratio ρ H (s) as a piecewise function in terms of the speed ratio&nbsp;s.",
+    "citation_count": 11,
+    "year": "2011/11",
+    "authors": [
+        {
+            "name": "Min, Xiao",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Liu, Jing",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Wang, Yuqing",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122002855",
+    "title": "Blockchain-based decentralized data dissemination scheme in smart transportation",
+    "abstract": "Data dissemination of safety messages in smart transportation allows vehicles to broadcast safety-related information about their surroundings to other vehicles within their proximity for early warnings of endangering events. Safety can only be achieved if the data transmitted are reliable. However, this may violate the privacy of a vehicle. At the same time, malicious or defective vehicles should be held accountable when misbehavior occurs. Utilizing blockchain technology, we propose a secure data dissemination scheme for smart transportation that solves the conflicting security requirements of reliability, privacy and accountability simultaneously, which provides a desirable level of security through its decentralized system. The analysis evaluation and simulation experiments signify our proposed scheme achieves security and performance efficiency, robust against adversarial attacks and practical for real world deployment.",
+    "citation_count": "17",
+    "year": "2023/01/01",
+    "authors": [
+        {
+            "name": "Nur Fadhilah Mohd Shari",
+            "country": ""
+        },
+        {
+            "name": "Amizah Malip",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

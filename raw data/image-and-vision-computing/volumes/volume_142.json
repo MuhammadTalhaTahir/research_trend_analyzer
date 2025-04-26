@@ -1,0 +1,98 @@
+[
+    {
+        "title": "Editorial Board",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624000428"
+    },
+    {
+        "title": "Camera-aware re-identification feature for multi-target multi-camera tracking",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623002639"
+    },
+    {
+        "title": "SGF3D: Similarity-guided fusion network for 3D object detection",
+        "url": "https://www.sciencedirect.com/science/article/pii/S026288562300269X"
+    },
+    {
+        "title": "Improving multi-focus image fusion through Noisy image and feature difference network",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623002652"
+    },
+    {
+        "title": "SCTrans: Self-align and cross-align transformer for few-shot segmentation",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623002676"
+    },
+    {
+        "title": "Exploiting classifier inter-level features for efficient out-of-distribution detection",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623002718"
+    },
+    {
+        "title": "Top-tuning: A study on transfer learning for an efficient alternative to fine tuning for image classification with fast kernel methods",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623002688"
+    },
+    {
+        "title": "Universal domain adaptation from multiple black-box sources",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623002706"
+    },
+    {
+        "title": "Distance metric-based learning for long-tail object detection",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623002627"
+    },
+    {
+        "title": "EFDCNet: Encoding fusion and decoding correction network for RGB-D indoor semantic segmentation",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623002664"
+    },
+    {
+        "title": "Appearance flow estimation for online virtual clothing warping via optimal feature linear assignment",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624000027"
+    },
+    {
+        "title": "SDSDet: A real-time object detector for small, dense, multi-scale remote sensing objects",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624000015"
+    },
+    {
+        "title": "Speech driven video editing via an audio-conditioned diffusion model",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624000143"
+    },
+    {
+        "title": "Variation-aware semantic image synthesis",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624000179"
+    },
+    {
+        "title": "EESSO: Exploiting Extreme and Smooth Signals via Omni-frequency learning for Text-based Person Retrieval",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624000155"
+    },
+    {
+        "title": "Three dimensional tracking of rigid objects in motion using 2D optical flows",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624000167"
+    },
+    {
+        "title": "Enhancing lung abnormalities diagnosis using hybrid DCNN-ViT-GRU model with explainable AI: A deep learning approach",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624000210"
+    },
+    {
+        "title": "LSTPNet: Long short-term perception network for dynamic facial expression recognition in the wild",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624000180"
+    },
+    {
+        "title": "Weakly supervised point cloud semantic segmentation with the fusion of heterogeneous network features",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624000192"
+    },
+    {
+        "title": "One-shot lip-based biometric authentication: Extending behavioral features with authentication phrase information",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624000039"
+    },
+    {
+        "title": "A novel approach for breast cancer detection using optimized ensemble learning framework and XAI",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624000131"
+    },
+    {
+        "title": "A deep learning-based illumination transform for devignetting photographs of dermatological lesions",
+        "url": "https://www.sciencedirect.com/science/article/pii/S026288562400012X"
+    },
+    {
+        "title": "Research on efficient detection network method for remote sensing images based on self attention mechanism",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623002585"
+    },
+    {
+        "title": "Feature extraction and representation learning of 3D point cloud data",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885623002640"
+    }
+]

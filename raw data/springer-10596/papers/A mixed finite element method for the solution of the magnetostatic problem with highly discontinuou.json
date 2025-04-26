@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1011540222718",
+    "title": "A mixed finite element method for the solution of the magnetostatic problem with highly discontinuous coefficients in 3D",
+    "abstract": "This paper present a new a mixed finite element method for the simulation of magnetostatic problems with highly discontinuous permeability. The method is derived from the well studied mixed formulation for the div-grad system that is known to be accurate for very large discontinuities. The method robustness is demonstrated on a test model problem.",
+    "citation_count": 27,
+    "year": "2000/12",
+    "authors": [
+        {
+            "name": "Haber, E.",
+            "country": "Canada"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885608000693",
+    "title": "Hand gesture recognition and tracking based on distributed locally linear embedding",
+    "abstract": "In this paper, we present a  computer vision  system for human gesture recognition and tracking based on a new nonlinear dimensionality reduction method. Due to the variation of posture appearance, the recognition and tracking of human hand gestures from one single camera remain a difficult problem. We present an  unsupervised learning  algorithm, distributed locally linear embedding (DLLE), to discover the intrinsic structure of the data, such as neighborhood relationships information. After the embedding of input images are represented in a lower dimensional space, probabilistic  neural network  (PNN) is employed and a database is set up for static gesture classification. For dynamic gesture tracking, the similarity among the images sequence are utilized. Hand gesture motion can be tracked and dynamically reconstructed according to the image’s relative position in the corresponding motion database. The method is robust against the input sequence frames and bad  image qualities . Experimental results show that our approach is able to successfully separate different hand postures and track the dynamic gesture.",
+    "citation_count": "78",
+    "year": "2008/12/01",
+    "authors": [
+        {
+            "name": "S.S. Ge",
+            "country": ""
+        },
+        {
+            "name": "Y. Yang",
+            "country": ""
+        },
+        {
+            "name": "T.H. Lee",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

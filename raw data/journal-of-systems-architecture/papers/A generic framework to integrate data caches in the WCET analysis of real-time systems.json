@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002095",
+    "title": "A generic framework to integrate data caches in the WCET analysis of real-time systems",
+    "abstract": "Worst-case execution time (WCET) analysis of systems with data caches is one of the key challenges in real-time systems. Caches exploit the inherent reuse properties of programs by temporarily storing certain memory contents near the processor, in order that further accesses to such contents do not require costly memory transfers. Current worst-case data cache analysis methods focus on specific cache organizations (set-associative LRU, locked, ACDC, etc.), most of the times adapting techniques designed to analyze instruction caches. On the other hand, there are methodologies to analyze the data reuse of a program, independently of the data cache. In this paper we propose a generic WCET analysis framework to analyze data caches taking profit of such reuse information. It includes the categorization of data references and their integration in an IPET model. We apply it to a conventional LRU cache, an ACDC, and other baseline systems, and compare them using the TACLeBench benchmark suite. Our results show that persistence-based LRU analyses dismiss essential information on data, and a reuse-based analysis improves the WCET bound around 17% in average. In general, the best WCET estimations are obtained with optimization level 2, where the ACDC cache performs 39% better than a set-associative LRU.",
+    "citation_count": "0",
+    "year": "2021/11/01",
+    "authors": [
+        {
+            "name": "Juan Segarra",
+            "country": ""
+        },
+        {
+            "name": "Rubén Gran Tejero",
+            "country": ""
+        },
+        {
+            "name": "Víctor Viñals",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

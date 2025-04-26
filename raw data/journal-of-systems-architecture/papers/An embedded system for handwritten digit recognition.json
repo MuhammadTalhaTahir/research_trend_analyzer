@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762115000867",
+    "title": "An embedded system for handwritten digit recognition",
+    "abstract": "The goal of this work is the design and implementation of a low-cost system-on-FPGA for  handwritten digit recognition , based on a relatively deep and wide network of  perceptrons . In order to increase the performance of the application on embedded processors whose performances are way below standard general purpose CPUs, a  regularization method  was used during the training phase of the  neural network  that allows for the drastic reduction of  floating point operations . Our implementation achieves a 3 ×  speed-up toward a raw implementation without optimization, while keeping the accuracy in acceptable ranges. Our efforts reinforce the fact that FPGAs are suited for deploying complex  artificial intelligence  modules.",
+    "citation_count": "12",
+    "year": "2015/11/01",
+    "authors": [
+        {
+            "name": "Luca B. Saldanha",
+            "country": ""
+        },
+        {
+            "name": "Christophe Bobda",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

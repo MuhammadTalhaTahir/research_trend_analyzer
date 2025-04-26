@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002149",
+    "title": "An exact comparison of global, partitioned, and semi-partitioned fixed-priority real-time multiprocessor schedulers",
+    "abstract": "We evaluate the performance of global, partitioned, and semi-partitioned fixed-priority ( FP )  multiprocessor  schedulers for sporadic real-time tasks. By conducting a range of exhaustive experiments, we support a prior observation of  Baruah  regarding the  incomparability  of global and partitioned fixed-priority schedulers, by demonstrating the existence of multiple task sets, which are schedulable by either one or another approach, but not both simultaneously. In addition, we demonstrate that a suboptimal semi-partitioning heuristic, named Deadline Monotonic with Priority Migration ( DM - PM ), in certain cases outperforms both global and partitioned  FP  schedulers. Unlike other works, our evaluation is based on an exact  schedulability test  for global scheduling, as well as relies on optimal task priorities for global  FP , and an optimal partitioning of tasks to processors. However, due to the exponential  computational complexity  of the available exact schedulability test, our evaluation is constrained to a limited number of tasks in a set. On average, partitioned scheduling performs better for a lower number of heavy tasks in a task set, while global scheduling is the opposite. The schedulability gain of one approach over another might exceed 50%, for both cases. To make such an evaluation possible, we derive a method to compute optimal task priorities for global  FP  by using a set of pruning rules. We demonstrate that the gain of such optimal priorities over other widely used priority assignment heuristics, including Deadline Monotonic ( DM ), can be significant, in certain cases. Moreover, we evaluate the performance of an optimal task partitioning over the available suboptimal partition heuristics, namely first-fit decreasing (FFD) and worst-fit decreasing (WFD), and confirm no significant performance difference between them, for considered task settings.  Software tools  used in our evaluation are implemented using C++ libraries, and are publicly available.",
+    "citation_count": "3",
+    "year": "2021/12/01",
+    "authors": [
+        {
+            "name": "Artem Burmyakov",
+            "country": ""
+        },
+        {
+            "name": "Borislav Nikolić",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

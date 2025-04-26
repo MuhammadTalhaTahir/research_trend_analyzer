@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959516302107",
+    "title": "Analytical modelling of congestion for 6LoWPAN networks",
+    "abstract": "The IPv6 over Low-Power Wireless Personal Area Network (6LoWPAN) protocol stack is a key part of the Internet of Things (IoT) where the 6LoWPAN motes will account for the majority of the IoT ‘things’. In 6LoWPAN networks, heavy network traffic causes congestion which significantly affects the overall performance and the quality of service metrics. In this paper, a new analytical model of congestion for 6LoWPAN networks is proposed using Markov chain and queuing theory. The derived model calculates the buffer loss probability and the channel loss probability as well as the number of received packets at the final destination in the presence of congestion. Also, we calculate the actual wireless channel capacity of IEEE 802.15.4 with and without collisions based on Contiki OS implementation. The validation of the proposed model is performed with different scenarios through simulation by using Contiki OS and Cooja simulator. Simulation results show that the analytical modelling of congestion has an accurate agreement with simulation.",
+    "citation_count": "0",
+    "year": "2018/12/01",
+    "authors": [
+        {
+            "name": "Hayder A.A. Al-Kashoash",
+            "country": ""
+        },
+        {
+            "name": "Fadoua Hassen",
+            "country": ""
+        },
+        {
+            "name": "Harith Kharrufa",
+            "country": ""
+        },
+        {
+            "name": "Andrew H. Kemp",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-015-9530-7",
+    "title": "An improved multiscale method for life-cycle production optimization",
+    "abstract": "This work proposes a new hierarchical multiscale optimization technique to improve the performance of life-cycle production optimization. This approach represents a combination of two previous multiscale approaches presented in the literature and is theoretically motivated by the concept of refinement indicators. The new algorithm is applied to two example problems, and its performance is compared with other life-cycle production optimization algorithms that have been proposed in the literature including the two hierarchical multiscale optimization methods on which it is based. In a separate paper (Oliveira and Reynolds 2015), the proposed algorithm is successfully applied to a field case.",
+    "citation_count": 25,
+    "year": "2015/12",
+    "authors": [
+        {
+            "name": "Oliveira, Diego F. B.",
+            "country": "Brazil"
+        },
+        {
+            "name": "Reynolds, Albert C.",
+            "country": "USA"
+        },
+        {
+            "name": "Jansen, Jan Dirk",
+            "country": "The Netherlands"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

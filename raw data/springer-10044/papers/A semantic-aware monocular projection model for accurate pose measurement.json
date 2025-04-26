@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-023-01197-1",
+    "title": "A semantic-aware monocular projection model for accurate pose measurement",
+    "abstract": "Monocular vision system is widely used in many fields due to its simple structure, faster speed, and lower cost for object measurement. However, most of the current monocular methods have complicated mathematical models or require artificial markers to achieve accurate measurement results. In addition, it is not easy to precisely extract the features of objects in the captured image which are affected by many factors. In this paper, we present a semantic-aware monocular projection model for accurate pose measurement. Our mathematical model is simple and neat, and we use deep learning network to extract the semantic features in images. Finally, the relevant parameters of the projection model are further optimized with Kalman filter to make the measurement results more accurate and stable. The extensive experiments demonstrate that the proposed method is robust with high performance and accuracy. As a few constraints are required on the measured object and environment, our method is easy for installation.",
+    "citation_count": 37,
+    "year": "2023/11",
+    "authors": [
+        {
+            "name": "Weng, Libo",
+            "country": "China"
+        },
+        {
+            "name": "Chen, Xiuqi",
+            "country": "China"
+        },
+        {
+            "name": "Qiu, Qi",
+            "country": "China"
+        },
+        {
+            "name": "Zhuang, Yaozhong",
+            "country": "China"
+        },
+        {
+            "name": "Gao, Fei",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

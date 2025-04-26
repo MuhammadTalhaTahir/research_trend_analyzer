@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124000493",
+    "title": "FPGA approximate logic synthesis through catalog-based AIG-rewriting technique",
+    "abstract": "Due to their run-time reconfigurability, short time-to-market, and lower prototype costs, FPGAs have become increasingly popular since their introduction. They found use in a wide variety of applications, including high-performance computing. However, when compared to ASICs, FPGAs offer lower performance, and they are power-hungry devices with low energy-efficiency. The emergence of Approximate Computing (AxC) represents a significant advancement in terms of enabling technology when applied to FPGA-based computing platforms. It has been effectively exploited in several application fields, achieving significant savings in energy and latency through a selective degradation of the output quality. Nevertheless, a generalized and systematic methodology for FPGA-based circuit design is still lacking. Indeed, most of the methods target ASIC-based systems, and, consequently, they offer minimal advantages or even an increase in resources when synthesized for FPGAs due to the architectural differences between the technologies. In this paper, we attempt to address this shortcoming by introducing our method for designing combinational logic circuits. It is based on and-inverter graph rewriting and multi-objective optimization, aiming for optimal trade-offs between quality of results and hardware overhead. Extensive experimental campaigns empirically prove that both generic logic and arithmetic circuits benefit from this approach.",
+    "citation_count": "0",
+    "year": "2024/05/01",
+    "authors": [
+        {
+            "name": "Mario Barbareschi",
+            "country": ""
+        },
+        {
+            "name": "Salvatore Barone",
+            "country": ""
+        },
+        {
+            "name": "Nicola Mazzocca",
+            "country": ""
+        },
+        {
+            "name": "Alberto Moriconi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

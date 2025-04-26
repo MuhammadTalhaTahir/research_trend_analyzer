@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224001792",
+    "title": "A steady-state weight adaptation method for decomposition-based evolutionary multi-objective optimisation",
+    "abstract": "In decomposition-based multi-objective evolutionary algorithms (MOEAs), the inconsistency between a problem’s Pareto front shape and the distribution of the weights can lead to a poor, unevenly distributed solution set. A straightforward way to overcome this undesirable issue is to adapt the weights during the evolutionary process. However, existing methods, which typically adapt many weights at a time, may hinder the convergence of the population since changing weights essentially means changing sub-problems to be optimised. In this paper, we aim to tackle this issue by designing a steady-state weight adaptation (SSWA) method. SSWA employs a stable approach to maintain/update an archive (which stores high-quality solutions during the search). Based on the archive, at each generation, SSWA selects one solution from it to generate only one new weight while simultaneously removing an existing weight. We compare SSWA with eight state-of-the-art weight adaptative decomposition-based MOEAs and show its general outperformance on problems with various Pareto front shapes.",
+    "citation_count": "0",
+    "year": "2024/08/01",
+    "authors": [
+        {
+            "name": "Xiaofeng Han",
+            "country": ""
+        },
+        {
+            "name": "Tao Chao",
+            "country": ""
+        },
+        {
+            "name": "Ming Yang",
+            "country": ""
+        },
+        {
+            "name": "Miqing Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

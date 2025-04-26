@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122000054",
+    "title": "Adaptive weight-bit inversion for state error reduction for robust and efficient deep neural network inference using MLC NAND Flash",
+    "abstract": "When Flash memory is used to store the weights of a  deep neural network  (DNN), the inference accuracy can degrade owing to the state errors of the Flash memory. To protect the weights from state errors, the existing methods rely on an  error correction  code (ECC) or parity, which can incur power/storage overhead. We propose a weight-bit  inversion method  that minimizes accuracy loss caused by state errors without using ECC or parity. First, the method applies weight-bit inversion for state elimination (WISE), which removes the most error-prone state from MLC NAND, thereby improving the error robustness and the most significant bit (MSB) page read speed. If the initial accuracy loss caused by the WISE is unacceptable, we apply weight-bit inversion for state error reduction (WISER), which reduces weight mapping to error-prone states with minimum changes in weight value. To further improve the read speed with minimum accuracy loss, we propose an adaptive weight-bit inversion scheme that selectively applies WISE or WISER to the unit of a weight group. The simulation results imply that after 16K program-erase cycles in NAND Flash, WISER reduces the CIFAR-100 accuracy loss by 1.33X for LeNet-5, 2.92X for VGG-16, and 2.74X for Resnet-20 compared with the existing methods. In addition, the adaptive  inversion technique  improves the read speed by 48.6% without accuracy loss, compared with the WISER-only scheme.",
+    "citation_count": "2",
+    "year": "2022/03/01",
+    "authors": [
+        {
+            "name": "Jaehun Jang",
+            "country": ""
+        },
+        {
+            "name": "Jong Hwan Ko",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

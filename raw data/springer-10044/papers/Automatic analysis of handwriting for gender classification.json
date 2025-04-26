@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-014-0371-0",
+    "title": "Automatic analysis of handwriting for gender classification",
+    "abstract": "This paper presents a study to predict gender of individuals from scanned images of their handwritings. The proposed methodology is based on extracting a set of features from writing samples of male and female writers and training classifiers to learn to discriminate between the two. Writing attributes like slant, curvature, texture and legibility are estimated by computing local and global features. Classification is carried out using artificial neural networks and support vector machine. The proposed technique evaluated on two databases under a number of scenarios realized interesting results on predicting gender from handwriting.",
+    "citation_count": 53,
+    "year": "2015/11",
+    "authors": [
+        {
+            "name": "Siddiqi, Imran",
+            "country": "Pakistan"
+        },
+        {
+            "name": "Djeddi, Chawki",
+            "country": "Algeria"
+        },
+        {
+            "name": "Raza, Ahsen",
+            "country": "Algeria"
+        },
+        {
+            "name": "Souici-meslati, Labiba",
+            "country": "Pakistan"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

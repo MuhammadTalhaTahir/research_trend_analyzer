@@ -1,0 +1,38 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10617-023-09281-9",
+    "title": "On the impact of hardware-related events on the execution of real-time programs",
+    "abstract": "Estimating safe upper bounds on execution times of programs is required in the design of predictable real-time systems. When multi-core, instruction pipeline, branch prediction, or cache memory are in place, due to the considerable complexity traditional static timing analysis faces, measurement-based timing analysis (MBTA) is a more tractable option. MBTA estimates upper bounds on execution times using data measured under the execution of representative execution scenarios. In this context, understanding how hardware-related events affect the executing program under analysis brings about useful information for MBTA. This paper contributes to this need by modeling the execution behavior of programs in function of hardware-related events. More specifically, for a program under analysis, we show that the number of cycles per executed instruction can be correlated to hardware-related event occurrences. We apply our modeling methodology to two architectures, ARMv7 Cortex-M4 and Cortex-A53. While all hardware events can be monitored at once in the former, the latter allows simultaneous monitoring of up to 6 out of 59 events. We then describe a method to select the most relevant hardware events that affect the execution of a program under analysis. These events are then used to model the program behavior via machine learning techniques under different execution scenarios. The effectiveness of this method is evaluated by extensive experiments. Obtained results revealed prediction errors below 20%, showing that the chosen events can largely explain the execution behavior of programs.",
+    "citation_count": 56,
+    "year": "2023/12",
+    "authors": [
+        {
+            "name": "Andrade, Tadeu Nogueira C.",
+            "country": "Brazil"
+        },
+        {
+            "name": "Lima, George",
+            "country": "Brazil"
+        },
+        {
+            "name": "Lima, Veronica Maria Cadena",
+            "country": "Brazil"
+        },
+        {
+            "name": "Bem-Amor, Slim",
+            "country": "Brazil"
+        },
+        {
+            "name": "Hawila, Ismail",
+            "country": "France"
+        },
+        {
+            "name": "Cucu-Grosjean, Liliana",
+            "country": "France"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

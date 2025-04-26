@@ -1,0 +1,38 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224003808",
+    "title": "Multi-modal multi-objective wolf pack algorithm with circumferential scouting and intra-niche interactions",
+    "abstract": "The multi-objective wolf pack algorithm faces issues in solving multi-modal multi-objective optimization problems, such as the dominance of high-performing individuals, excessive reliance on the lead wolf, and ineffective learning among certain individuals, which result in poor diversity and convergence. Therefore, this paper presents a multi-modal multi-objective wolf pack algorithm with circumferential scouting and intra-niche interactions (MMOWPA-CN). To enhance algorithm's local search capability, a circumferential scouting technique is proposed. It divides the subpopulation using two different non-dominated levels of individuals, allowing individuals within the subpopulation to search in all directions, thereby improving the exploration capability. To prevent population from generating aggregation phenomenon, the neighbourhood elite bootstrapping strategy is introduced. It utilizes the neighbourhood lead wolf and the historical optimal solutions stored in archive to constrain individual movements, guiding them toward sparser areas and ensuring decision space's diversity. Additionally, in the decision space, a mechanism of intra-niche interactions is designed to avoid ineffective learning among individuals on different fronts. It allows individuals to interact with each other with information in a restricted area, ensuring the convergence of the algorithm. Comparative experiments on 17 test functions and one practical application have shown that MMOWPA-CN outperforms seven state-of-the-art algorithms, demonstrating its stronger optimization capabilities.",
+    "citation_count": "0",
+    "year": "2025/03/01",
+    "authors": [
+        {
+            "name": "Jia Zhao",
+            "country": ""
+        },
+        {
+            "name": "Fujun Chen",
+            "country": ""
+        },
+        {
+            "name": "Renbin Xiao",
+            "country": ""
+        },
+        {
+            "name": "Runxiu Wu",
+            "country": ""
+        },
+        {
+            "name": "Jeng-Shyang Pan",
+            "country": ""
+        },
+        {
+            "name": "Hui Wang",
+            "country": ""
+        },
+        {
+            "name": "Ivan Lee",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

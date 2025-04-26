@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-017-0198-x",
+    "title": "Cost-efficient scheduling on machines from the cloud",
+    "abstract": "We consider a scheduling problem where machines need to be rented from the cloud in order to process jobs. There are two types of machines available which can be rented for machine-type dependent prices and for arbitrary durations. However, a machine-type dependent setup time is required before a machine is available for processing. Jobs arrive online over time, have deadlines and machine-type dependent sizes. The objective is to rent machines and schedule jobs so as to meet all deadlines while minimizing the rental cost. As we observe the slack of jobs to have a fundamental influence on the competitiveness, we parameterize instances by their (minimum) slack. An instance is called to have a slack of $$\\beta $$ if, for all jobs, the difference between the job’s release time and the latest point in time at which it needs to be started is at least $$\\beta $$ . While for $$\\beta &lt; s$$ no finite competitiveness is possible, our main result is an online algorithm for $$\\beta = (1+\\varepsilon )s$$ with , where s denotes the largest setup time. Its competitiveness only depends on $$\\varepsilon $$ and the cost ratio of the machine types and is proven to be optimal up to a factor of .",
+    "citation_count": 20,
+    "year": "2018/11",
+    "authors": [
+        {
+            "name": "Mäcker, Alexander",
+            "country": "Germany"
+        },
+        {
+            "name": "Malatyali, Manuel",
+            "country": "Germany"
+        },
+        {
+            "name": "Meyer auf der Heide, Friedhelm",
+            "country": "Germany"
+        },
+        {
+            "name": "Riechers, Sören",
+            "country": "Germany"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

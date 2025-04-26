@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650215000784",
+    "title": "Analysis of particle swarm optimization based hierarchical data clustering approaches",
+    "abstract": "Data clustering  is one of the most widely used  data mining techniques , classifying similar  data items  into groups on the basis of similarity among the data items. Different issues have been observed while achieving the classification of data into the most suitable grouping. Efficiency of the  clustering techniques  and accuracy of the resulting groups are two of the main issues. To tackle these issues, recently, optimization based techniques have been used, resulting in enhanced quality of the output and improved efficiency of the  clustering process .  Swarm Intelligence  (SI) is one such technique whose different algorithms have been found effective for this purpose.  Particle Swarm Optimization  (PSO) and  Ant Colony Optimization  (ACO) are the two most prominent SI based techniques. In this paper we analyze the use of PSO for data clustering in particular for clustering in a hierarchical manner. We chose PSO based hierarchical techniques, Evolutionary PSO for clustering (EPSO-clustering) and Hierarchical PSO for clustering (HPSO-clustering). Both these techniques work in a hierarchical agglomerative manner, with HPSO-clustering an extension of EPSO-clustering. It combines the properties of hierarchical and partitional clustering and adds SI based optimization to the process. We evaluate our proposed clustering techniques on different benchmark datasets from UCI  machine learning  data repository as well as real data that we collected locally from a web server. We used inter-cluster and intra-cluster distances, and  execution time  to measure the performance of our proposed techniques. For evaluation we selected different clustering techniques that were previously used as benchmarks such as k-means, PSO-clustering, Hierarchical  Agglomerative Clustering  (HAC) and DBSCAN. The results verify that the proposed techniques perform better on the suggested measures against the benchmarks mentioned.",
+    "citation_count": "36",
+    "year": "2015/12/01",
+    "authors": [
+        {
+            "name": "Shafiq Alam",
+            "country": ""
+        },
+        {
+            "name": "Gillian Dobbie",
+            "country": ""
+        },
+        {
+            "name": "Saeed Ur Rehman",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

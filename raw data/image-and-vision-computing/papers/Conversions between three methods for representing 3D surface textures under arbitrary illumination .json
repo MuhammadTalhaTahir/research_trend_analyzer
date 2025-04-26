@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885608000310",
+    "title": "Conversions between three methods for representing 3D surface textures under arbitrary illumination directions",
+    "abstract": "Representing the appearances of surfaces illuminated from different directions has long been an active research topic. While many representation methods have been proposed, the relationships and conversion between different representations have been less well researched. These relationships are important, as they provide (a) an insight as to the different capabilities of the surface representations, and (b) a means by which they may be converted to common formats for  computer graphic  applications. In this paper, we introduce a single mathematical framework and use it to express three commonly used surface texture relighting representations: surface gradients (Gradient), Polynomial Texture Maps (PTM) and eigen base images (Eigen). The framework explicitly reveals the relations between the three methods, and from this we propose a set of conversion methods. We use 26 rough surface textures illuminated from 36 directions for our experiments and perform both quantitative and qualitative assessments to evaluate the conversion methods. The quantitative assessment uses a normalized root-mean-squared error as metric to compare the original images and those produced by proposed representation methods. The qualitative assessment is based on psychophysical experiments and non-parametric statistics. The results from the two assessments are consistent and show that the original Eigen representation produces the best performance. The second best performances are achieved by the original PTM representation and the conversion between Polynomial Texture Maps (PTM) and eigen base images (Eigen), while the performances of other representations are not significantly different.",
+    "citation_count": "6",
+    "year": "2008/12/01",
+    "authors": [
+        {
+            "name": "Junyu Dong",
+            "country": ""
+        },
+        {
+            "name": "Guimei Sun",
+            "country": ""
+        },
+        {
+            "name": "Guojiang Chen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

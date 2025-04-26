@@ -1,0 +1,16 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s100440200031",
+    "title": "Bagged Mixtures of Classifiers using Model Scoring Criteria",
+    "abstract": ": In the context of supervised statistical learning, we present a broad class of models named Generalised Additive Multi-Mixture Models (GAM-MM), based on a multiple combination of mixtures of classifiers to be used in both the regression and classification cases. In particular, we additively combine mixtures of different types of classifiers, defining an ensemble composed of nonparametric tools (tree-based methods), semiparametric tools (scatterplot smoothers) and parametric tools (linear regression). Within this approach, we define a classifier scoring criterion to be jointly used with the bagging procedure for estimation of the mixing parameters, and describe the GAM-MM estimation procedure, that adaptively works by iterating a backfitting-like algorithm and a local scoring procedure until convergence. The effectiveness of our approach in modelling complex data structures is evaluated by presenting the results of some applications on real and simulated data.",
+    "citation_count": 0,
+    "year": "2002/10",
+    "authors": [
+        {
+            "name": "Conversano, Claudio",
+            "country": "Italy"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885616000135",
+    "title": "Local part model for action recognition",
+    "abstract": "This paper introduces an action recognition system based on a multiscale local part model. This model includes both a coarse primitive level root patch covering local global information and higher resolution overlapping part patches incorporating local structure and temporal relations. Descriptors are then computed over the local part models by applying fast random sampling at very high density. We also improve the recognition performance using a discontinuity-preserving optical flow algorithm. The evaluation shows that the feature dimensions can be reduced by 7/8 through  PCA  while preserving high accuracy. Our system achieves state-of-the-art results on large challenging realistic datasets, namely, 61.0% on HMDB51, 92.0% on UCF50, 86.6% on UCF101 and 65.3% on Hollywood2.",
+    "citation_count": "8",
+    "year": "2016/02/01",
+    "authors": [
+        {
+            "name": "Feng Shi",
+            "country": ""
+        },
+        {
+            "name": "Robert Laganière",
+            "country": ""
+        },
+        {
+            "name": "Emil Petriu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

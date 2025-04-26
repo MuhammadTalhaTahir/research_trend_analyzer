@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885617301026",
+    "title": "Optimizing explicit feature maps on intervals",
+    "abstract": "Approximating non-linear kernels by finite-dimensional feature maps is a popular approach for accelerating training and evaluation of  support vector machines  or to encode information into efficient match kernels. We propose a novel method of data independent construction of low-dimensional feature maps. The problem is formulated as a  linear program  that jointly considers two competing objectives: the quality of the approximation and the dimensionality of the feature map. For both shift-invariant and homogeneous kernels the proposed method achieves better approximation at the same dimensionality or comparable approximations at lower dimensionality of the feature map compared with state-of-the-art methods.",
+    "citation_count": "2",
+    "year": "2017/10/01",
+    "authors": [
+        {
+            "name": "Ondřej Chum",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

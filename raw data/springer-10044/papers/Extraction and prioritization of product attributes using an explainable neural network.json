@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-020-00878-5",
+    "title": "Extraction and prioritization of product attributes using an explainable neural network",
+    "abstract": "Identification of product attributes is an important matter in real-world business environments because customers generally make purchase decisions based on their evaluation of the attributes of the product. Numerous studies on product attribute extraction have been performed on the basis of user-generated textual reviews. However, most of them focused only on the attribute extraction process itself and not on the relative importance of the extracted attributes, which are critical information that can be utilized for the promotion or development of specification sheets. Thus, in this study, we focused on the development of an attribute set for a product by considering the relative importance of the extracted attributes. First, we extracted the aspects by utilizing convolutional neural network-based approaches and transfer learning. Second, we propose a novel approach, consisting of variants of the Gradient-weighted class activation mapping (Grad-CAM) algorithm, one of the explainable neural network frameworks, to capture the importance score of each extracted aspect. Using a sentimental prediction model, we calculated the weight of each aspect that affects the sentiment decision. We verified the performance of our proposed method by comparing the similarity of the product attributes that it extracted and their relative importance with the product attributes that customers consider to be the most important and by comparing the attributes used to develop the specification sheet of an existing major commercial site.",
+    "citation_count": 41,
+    "year": "2020/11",
+    "authors": [
+        {
+            "name": "Lee, Younghoon",
+            "country": "Korea"
+        },
+        {
+            "name": "Park, Jungmin",
+            "country": "Korea"
+        },
+        {
+            "name": "Cho, Sungzoon",
+            "country": "Korea"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

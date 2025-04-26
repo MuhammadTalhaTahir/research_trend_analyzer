@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/PL00010987",
+    "title": "An Integrated Face Rec gniti n System Based n Multiscale L cal Discriminatory Features",
+    "abstract": "Despite some successes, the process of Automatic Facial Recognition (AFR) remains a significant challenge when unconstrained imaging conditions are involved. The authors believe that this occurs because an effective feature extraction method of facial images has not been found so far. In this paper a new approach to extract powerful local discriminatory features is described. First, the wavelet transform is used for extraction of multi-resolution coarse features, and then the emphasis is placed on the extraction of Multiscale fine Local Discriminatory Features (MLDFs). Instead of using traditional wavelet features, the authors examine the multiscale local statistical characteristics to derive stronger discriminatory features based on some important wavelet subbands. To efficiently utilise potentials of the extracted multi-MLDFs, an integrated recognition system is developed where the multi-classifiers first conduct the corresponding coarse classification, then a decision making scheme is used to associate different priorities with each of the classifiers to make the final recognition. Experiments have shown that this scheme provides superior performance to popular methods, such as Principal Components Analysis (PCA or Eigenface), wavelet features, neural networks, etc.",
+    "citation_count": 0,
+    "year": "2001/11",
+    "authors": [
+        {
+            "name": "Hong, Baoming",
+            "country": "Department of Electrical & Computer Engineering"
+        },
+        {
+            "name": "Tang, Songmei",
+            "country": "US"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885612001497",
+    "title": "Real-time robust background subtraction under rapidly changing illumination conditions",
+    "abstract": "Fast robust  background subtraction  under sudden lighting changes is a challenging problem in many applications. In this paper, we propose a real-time approach, which combines the Eigenbackground and Statistical Illumination method to address this issue. The first algorithm is used to reconstruct the background frame, while the latter improves the foreground segmentation. In addition, we introduce an online spatial likelihood model by detecting reliable background pixels. Extensive quantitative experiments illustrate our approach consistently achieves significantly higher precision at high recall rates, compared to several state-of-the-art  illumination invariant  background subtraction methods.",
+    "citation_count": "29",
+    "year": "2012/12/01",
+    "authors": [
+        {
+            "name": "Luc Vosters",
+            "country": ""
+        },
+        {
+            "name": "Caifeng Shan",
+            "country": ""
+        },
+        {
+            "name": "Tommaso Gritti",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-018-0259-9",
+    "title": "A continuous characterization of the maximum vertex-weighted clique in hypergraphs",
+    "abstract": "For a simple graph G on n vertices with adjacency matrix A, Motzkin and Strauss established a remarkable connection between the clique number and the global maximum value of the quadratic programm: $$\\textit{max}\\{ \\mathbf {x}^T A \\mathbf {x}\\}$$ on the standard simplex: $$\\{\\sum _{i=1}^{n} x_i =1, x_i \\ge 0 \\}$$ . In Gibbons et al. (Math Oper Res 122:754–768, 1997), an extension of the Motzkin–Straus formulation was provided for the vertex-weighted clique number of a graph. In this paper, we provide a continuous characterization of the maximum vertex-weighted clique problem for vertex-weighted uniform hypergraphs.",
+    "citation_count": 16,
+    "year": "2018/05",
+    "authors": [
+        {
+            "name": "Tang, Qingsong",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Zhang, Xiangde",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Wang, Guoren",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Zhao, Cheng",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

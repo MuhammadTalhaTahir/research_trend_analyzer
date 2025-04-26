@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959520300825",
+    "title": "MU-MIMO enabled uplink OFDMA MAC protocol in dense IEEE 802.11ax WLANs",
+    "abstract": "IEEE 802.11ax supports orthogonal frequency division multiple access (OFDMA) for uplink (UL) transmissions where stations (STAs) access randomly chosen resource units (RUs) in a distributed manner. Nevertheless, as the number of STAs increases, frequent collisions can occur, which lead to throughput degradation in UL transmissions. To address this problem, we propose a multi-user multiple-input multiple-output (MU-MIMO) enabled UL OFDMA random access (MORA) protocol. MORA combines the ideas of OFDMA and MU-MIMO, and thus more than one STA can share the same RU, which can significantly reduce the collision probability in congested situations. Analytical and simulation results demonstrate that MORA improves the throughput of the standard OFDMA-only protocol significantly.",
+    "citation_count": "0",
+    "year": "2020/12/01",
+    "authors": [
+        {
+            "name": "Sohyun Joo",
+            "country": ""
+        },
+        {
+            "name": "Taeyoon Kim",
+            "country": ""
+        },
+        {
+            "name": "Taewon Song",
+            "country": ""
+        },
+        {
+            "name": "Sangheon Pack",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

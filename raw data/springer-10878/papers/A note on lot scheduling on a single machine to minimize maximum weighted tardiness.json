@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-023-01040-7",
+    "title": "A note on lot scheduling on a single machine to minimize maximum weighted tardiness",
+    "abstract": "We study a single machine lot scheduling problem. Customers’ orders may be processed simultaneously in the same lot. The order sizes are assumed to be order-dependent, and the lots have identical size and identical processing time. Orders may be split, i.e., their processing may be performed on two consecutive lots. We assume order-dependent due-dates and weights, and the goal is to minimize the maximum weighted tardiness among all orders. A polynomial time solution algorithm is introduced.",
+    "citation_count": 10,
+    "year": "2023/07",
+    "authors": [
+        {
+            "name": "Mosheiov, Gur",
+            "country": "Israel"
+        },
+        {
+            "name": "Sarig, Assaf",
+            "country": "Israel"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

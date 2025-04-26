@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-017-0148-7",
+    "title": "2-Distance coloring of planar graphs with girth 5",
+    "abstract": "A vertex coloring is said to be 2-distance if any two distinct vertices of distance at most 2 receive different colors. Let G be a planar graph with girth at least 5. In this paper, we prove that G admits a 2-distance coloring with at most $$\\Delta (G)+3$$ colors if $$\\Delta (G)\\ge 339$$ .",
+    "citation_count": 23,
+    "year": "2017/11",
+    "authors": [
+        {
+            "name": "Dong, Wei",
+            "country": "China"
+        },
+        {
+            "name": "Xu, Baogang",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

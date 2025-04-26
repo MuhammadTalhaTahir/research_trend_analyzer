@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762123002242",
+    "title": "LAG-based schedulability analysis for preemptive global EDF scheduling with dynamic cache allocation",
+    "abstract": "In recent years, the maturation of modern  multicore processor  technology and its increasing adoption in critical industrial domains have posed significant challenges for real-time systems, primarily due to contention for shared cache resources and the resulting uncertainty. To address this issue, contemporary processors employ cache partitioning techniques, enhancing temporal predictability by isolating cache access among processor cores. However, this isolation technique may lead to real-time tasks missing their deadlines due to an insufficient number of cache partitions. Consequently, this paper investigates the schedulability of preemptive global Earliest Deadline First (EDF) real-time scheduling algorithms that support dynamic cache allocation. We propose an innovative LAG-based  schedulability analysis  method for these algorithms and present a utilization-based schedulability condition that reduces analysis time complexity while improving analysis accuracy. Building upon this foundation, and incorporating task characteristics into our analysis, this paper further introduces an optimization technique aimed at minimizing the pessimism inherent in the schedulability test. Lastly, the performance and efficiency of the proposed schedulability determination method are validated through simulation experiments with randomly  generated tasks .",
+    "citation_count": "3",
+    "year": "2024/02/01",
+    "authors": [
+        {
+            "name": "Yuhan Lin",
+            "country": ""
+        },
+        {
+            "name": "Qingxu Deng",
+            "country": ""
+        },
+        {
+            "name": "Meiling Han",
+            "country": ""
+        },
+        {
+            "name": "Zhiwei Feng",
+            "country": ""
+        },
+        {
+            "name": "Shumo Wang",
+            "country": ""
+        },
+        {
+            "name": "Qize Peng",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

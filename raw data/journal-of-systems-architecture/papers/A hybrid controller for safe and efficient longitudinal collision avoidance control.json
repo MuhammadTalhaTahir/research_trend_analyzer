@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122000315",
+    "title": "A hybrid controller for safe and efficient longitudinal collision avoidance control",
+    "abstract": "We design and experimentally evaluate a hybrid safe-by-construction longitudinal  collision avoidance  controller for autonomous vehicles. The controller combines into a single architecture the respective advantages of a model predictive controller and a discrete safe controller. The model predictive controller is used to achieve optimal efficiency in nominal conditions. The safe controller avoids collision by applying two different policies, for nominal and out-of-nominal conditions, respectively. We present design principles for both controllers and show how each one can contribute in the hybrid architecture to improve performance, road occupancy and passenger comfort while preserving safety. The experimental results confirm the feasibility of the approach and the practical relevance of hybrid controllers for safe and efficient driving.",
+    "citation_count": "2",
+    "year": "2022/04/01",
+    "authors": [
+        {
+            "name": "Qiang Wang",
+            "country": ""
+        },
+        {
+            "name": "Xinlei Zheng",
+            "country": ""
+        },
+        {
+            "name": "Jiyong Zhang",
+            "country": ""
+        },
+        {
+            "name": "Joseph Sifakis",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

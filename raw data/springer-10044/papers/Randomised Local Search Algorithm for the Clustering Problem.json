@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s100440070007",
+    "title": "Randomised Local Search Algorithm for the Clustering Problem",
+    "abstract": "We consider clustering as a combinatorial optimisation problem. Local search provides a simple and effective approach to many other combinatorial optimisation problems. It is therefore surprising how seldom it has been applied to the clustering problem. Instead, the best clustering results have been obtained by more complex techniques such as tabu search and genetic algorithms at the cost of high run time. We introduce a new randomised local search algorithm for the clustering problem. The algorithm is easy to implement, sufficiently fast, and competitive with the best clustering methods. The ease of implementation makes it possible to tailor the algorithm for various clustering applications with different distance metrics and evaluation criteria.",
+    "citation_count": 0,
+    "year": "2000/12",
+    "authors": [
+        {
+            "name": "Fränti, P.",
+            "country": "FI"
+        },
+        {
+            "name": "Kivijärvi, J.",
+            "country": "FI"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

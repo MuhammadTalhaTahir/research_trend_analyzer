@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-013-9619-7",
+    "title": "The $$r$$ -acyclic chromatic number of planar graphs",
+    "abstract": "A vertex coloring of a graph G is r-acyclic if it is a proper vertex coloring such that every cycle $$C$$ receives at least $$\\min \\{|C|,r\\}$$ colors. The $$r$$ -acyclic chromatic number $$a_{r}(G)$$ of $$G$$ is the least number of colors in an $$r$$ -acyclic coloring of $$G$$ . Let $$G$$ be a planar graph. By Four Color Theorem, we know that $$a_{1}(G)=a_{2}(G)=\\chi (G)\\le 4$$ , where $$\\chi (G)$$ is the chromatic number of $$G$$ . Borodin proved that $$a_{3}(G)\\le 5$$ . However when $$r\\ge 4$$ , the $$r$$ -acyclic chromatic number of a class of graphs may not be bounded by a constant number. For example, $$a_{4}(K_{2,n})=n+2=\\Delta (K_{2,n})+2$$ for $$n\\ge 2$$ , where $$K_{2,n}$$ is a complete bipartite (planar) graph. In this paper, we give a sufficient condition for $$a_{r}(G)\\le r$$ when $$G$$ is a planar graph. In precise, we show that if $$r\\ge 4$$ and $$G$$ is a planar graph with $$g(G)\\ge \\frac{10r-4}{3}$$ , then $$a_{r}(G)\\le r$$ . In addition, we discuss the $$4$$ -acyclic colorings of some special planar graphs.",
+    "citation_count": 19,
+    "year": "2015/05",
+    "authors": [
+        {
+            "name": "Wang, Guanghui",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Yan, Guiying",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Yu, Jiguo",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Zhang, Xin",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

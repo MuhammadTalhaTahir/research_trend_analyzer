@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-015-0461-7",
+    "title": "Fuzzy clustering with learnable cluster-dependent kernels",
+    "abstract": "We propose a new relational clustering approach, called Fuzzy clustering with Learnable Cluster-dependent Kernels (FLeCK), that learns the underlying cluster-dependent dissimilarity measure while seeking compact clusters. The learned dissimilarity is based on a Gaussian kernel function with cluster-dependent parameters. Each cluster’s parameter learned by FLeCK reflects the relative intra-cluster and inter-cluster characteristics. These parameters are learned by optimizing both the intra-cluster and the inter-cluster distances. This optimization is achieved iteratively by dynamically updating the partition and the local kernel. This makes the kernel learning task takes advantages of the available unlabeled data and reciprocally, the categorization task takes advantages of the learned local kernels. Another key advantage of FLeCK is that it is formulated to work on relational data. This makes it applicable to data where objects cannot be represented by vectors or when clusters of similar objects cannot be represented efficiently by a single prototype. Using synthetic and real data sets, we show that FLeCK learns meaningful parameters and outperforms several other algorithms. In particular, we show that when data include clusters with various inter- and intra-cluster distances, learning cluster-dependent parameters is crucial in obtaining a good partition.",
+    "citation_count": 49,
+    "year": "2016/11",
+    "authors": [
+        {
+            "name": "Bchir, Ouiem",
+            "country": "Saudi Arabia"
+        },
+        {
+            "name": "Frigui, Hichem",
+            "country": "USA"
+        },
+        {
+            "name": "Ismail, Mohamed Maher Ben",
+            "country": "Saudi Arabia"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

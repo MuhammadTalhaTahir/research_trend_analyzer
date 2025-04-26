@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762119300438",
+    "title": "Predicting performance in multi-core systems with shared reconfigurable accelerators",
+    "abstract": "Reconfigurable multi-core architectures, where general-purpose processors are extended with  reconfigurable logic , present an interesting design choice for their capacity of efficiently executing both sequential as well as  parallel workloads . Current state-of-the-art implementations distinguish between dedicated accelerators (where each core has access to its own  reconfigurable fabric , for maximum performance) and shared ones (where a reconfigurable fabric is shared among cores, for maximum resource utilization), but no design-time guidance is provided for choosing the best implementation. In this work, we propose a new metric to guide the design of shared reconfigurable accelerators (independent of the hardware implementation) in multi-core environments by numerically assessing their rate of concurrency. We evaluate it with an 8-core system where any given number of coarse-grained reconfigurable arrays supporting transparent acceleration (i.e. with no changes in the binary) are available to execute multi-threaded applications. Using performance simulation from gem5, we show that while poorly correlated with an application’s thread-level parallelism (TLP), the proposed metric correlates strongly with the speedup achieved when switching from a shared fabric to dedicated per-core accelerators, and therefore can aid the designer in choosing the best strategy for implementing a reconfigurable multi-core architecture.",
+    "citation_count": "2",
+    "year": "2019/09/01",
+    "authors": [
+        {
+            "name": "Marcelo Brandalero",
+            "country": ""
+        },
+        {
+            "name": "Thiago Dadalt Souto",
+            "country": ""
+        },
+        {
+            "name": "Luigi Carro",
+            "country": ""
+        },
+        {
+            "name": "Antonio Carlos Schneider Beck",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

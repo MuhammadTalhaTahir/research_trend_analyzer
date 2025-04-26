@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650213000679",
+    "title": "An efficient genetic algorithm for multi-objective solid travelling salesman problem under fuzziness",
+    "abstract": "In this paper, we have presented a multi-objective solid  travelling salesman problem  (TSP) in a fuzzy environment. The attraction of the solid TSP is that a traveller visits all the cities in his tour using multiple conveyance facilities. Here we consider cost and time as two objectives of the solid TSP. The objective of the study is to find a complete tour such that both the total cost and the time are minimized. We consider travelling costs and times for one city to another using different conveyances are different and fuzzy in nature. Since cost and time are considered as fuzzy in nature, so the total cost and the time for a particular tour are also fuzzy in nature. To find out Pareto-optimal solution of fuzzy objectives we use fuzzy possibility and necessity measure approach. A multi-objective genetic algorithm with cyclic crossover, two-point mutation, and refining operation is used to solve the TSP problem. In this paper a multi-objective genetic algorithm has been modified by introducing the refining operator. Finally, experimental results are given to illustrate the proposed approach; experimental results obtained are also highly encouraging.",
+    "citation_count": "66",
+    "year": "2014/04/01",
+    "authors": [
+        {
+            "name": "Chiranjit Changdar",
+            "country": ""
+        },
+        {
+            "name": "G.S. Mahapatra",
+            "country": ""
+        },
+        {
+            "name": "Rajat Kumar Pal",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

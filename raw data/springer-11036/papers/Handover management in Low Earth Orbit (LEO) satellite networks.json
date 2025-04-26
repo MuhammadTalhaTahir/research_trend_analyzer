@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1019167303222",
+    "title": "Handover management in Low Earth Orbit (LEO) satellite networks",
+    "abstract": "Low Earth Orbit (LEO) satellite networks will play an important role in the evolving information infrastructure. Satellites in the low earth orbits provide communication with shorter end-to-end delays and efficient frequency usage. However, some problems need to be solved before LEO satellite systems can be successfully deployed. One of these problems is the handover management. The objective of this paper is to survey the basic concepts of LEO satellite networks and the handover research.",
+    "citation_count": 35,
+    "year": "1999/12",
+    "authors": [
+        {
+            "name": "Akyildiz, Ian F.",
+            "country": "USA"
+        },
+        {
+            "name": "Uzunalioğlu, Hüseyin",
+            "country": "USA"
+        },
+        {
+            "name": "Bender, Michael D.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

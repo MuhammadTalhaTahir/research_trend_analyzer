@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1009833410742",
+    "title": "On Some Polyhedra Covering Problems",
+    "abstract": "Let P 0, P 1 be two simple polyhedra and let P 2 be a convex polyhedron in E 3. Polyhedron P 0 is said to be covered by polyhedra P 1 and P 2 if every point of P 0 is a point of P 1 ∪ P 2. The following polyhedron covering problem is studied: given the positions of P 0, P 1, and P 2 in the xy-coordinate system, determine whether or not P 0 can be covered by P 1 ∪ P 2 via translation and rotation of P 1 and P 2; furthermore, find the exact covering positions of these polyhedra if such a cover exists. It is shown in this paper that if only translation is allowed, then the covering problem of P 0, P 1 and P 2 can be solved in O(m 2 n 2(m + n)l)) polynomial time, where m, n, and l are the sizes of P 0, P 1, and P 2, respectively. The method can be easily extended to the problem in E d for any fixed d &gt; 3.",
+    "citation_count": 12,
+    "year": "2000/12",
+    "authors": [
+        {
+            "name": "Wang, Cao An",
+            "country": "Canada"
+        },
+        {
+            "name": "Yang, Bo-Ting",
+            "country": "Canada"
+        },
+        {
+            "name": "Zhu, Binhai",
+            "country": "Bozeman"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

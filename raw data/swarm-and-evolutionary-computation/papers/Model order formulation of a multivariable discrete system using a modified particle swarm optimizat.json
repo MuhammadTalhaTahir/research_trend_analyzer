@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650211000289",
+    "title": "Model order formulation of a multivariable discrete system using a modified particle swarm optimization approach",
+    "abstract": "This paper proposes an algorithm for model order formulation of an absolutely stable higher order  linear time invariant  multivariable discrete system using a new version of evolutionary computing technique namely, Modified  Particle Swarm Optimization  (MPSO). A simple adjunct polynomial method has been proposed for obtaining the initial seed values of the lower order  multivariable system . In the modified PSO, the movement of a particle is governed by three behaviors namely, inertia, cognitive and social. The cognitive behavior helps the particle to remember its previously visited best position. This paper proposes to split the cognitive behavior into two sections. This modification is efficiently utilized to obtain a better lower order system that reflects the characteristics of the original higher order system by minimizing the integral squared error with the  steady state  constraints. The results obtained are compared with the earlier techniques utilized, to validate its ease of computation. The proposed algorithm is illustrated with a numerical example from the literature.",
+    "citation_count": "33",
+    "year": "2011/12/01",
+    "authors": [
+        {
+            "name": "S.N. Deepa",
+            "country": ""
+        },
+        {
+            "name": "G. Sugumaran",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

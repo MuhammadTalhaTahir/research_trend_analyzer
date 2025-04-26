@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762119305077",
+    "title": "Adapting the concept of artificial DNA and hormone system to AUTOSAR environments",
+    "abstract": "Embedded systems are growing very complex because of the increasing chip integration density, larger number of chips in distributed applications and demanding application fields, e.g. in autonomous cars. Bio-inspired techniques like self-organization are a key feature to handle the increasing complexity of embedded systems. In biology the structure and organization of a system is coded in its DNA, while dynamic control flows are regulated by the hormone system. We adapted these concepts to embedded systems using an artificial DNA (ADNA) and an artificial hormone system (AHS). Based on these concepts, highly reliable, robust and flexible systems can be created. These properties predestine the ADNA and AHS for the use in future  automotive applications . However,  computational resources  and  communication bandwidth  are often limited in automotive environments. Furthermore, in many critical areas, the AUTOSAR Classic Platform in combination with CAN bus is used as a static operating system. Nevertheless, in this paper we show that the dynamic concept of ADNA and AHS can successfully be applied to a static system like the AUTOSAR Classic Platform and that the available computational resources are more than sufficient for  automotive applications . The major bottleneck becomes the CAN bus communication when implemented on top of AUTOSAR’s communication stack as this limits the maximum achievable throughput for a single device in order to provide bandwidth for numerous different participants. Implementing the CAN bus communication directly through AUTOSAR’s CAN driver mostly removed this problem. Furthermore, we lay the foundations of our concept’s adaption to the AUTOSAR Adaptive Platform, thus enabling interesting  interoperation  scenarios for ADNA-based  automotive systems  implemented on both AUTOSAR platforms.",
+    "citation_count": "2",
+    "year": "2020/03/01",
+    "authors": [
+        {
+            "name": "Eric Hutter",
+            "country": ""
+        },
+        {
+            "name": "Uwe Brinkschulte",
+            "country": ""
+        },
+        {
+            "name": "Felix Fastnacht",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

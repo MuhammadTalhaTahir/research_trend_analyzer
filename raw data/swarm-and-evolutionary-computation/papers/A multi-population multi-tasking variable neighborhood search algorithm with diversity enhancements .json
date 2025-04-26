@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224000348",
+    "title": "A multi-population multi-tasking variable neighborhood search algorithm with diversity enhancements for inter-domain path computation problem",
+    "abstract": "In recent years, as networks have become increasingly complex and expansive, network navigation  faces  new challenges in routing and  resource utilization , particularly in the case of multi-domain networks. The Inter-Domain Path Computation under Node-defined Domain Uniqueness Constraint (IDPC-NDU) problem is one of many such scenarios. The problem requires finding the shortest path in a multi-domain network, but it cannot visit any domain twice. Since this is a proven NP-Hard problem, it is reasonable to approach IDPC-NDU from a meta-heuristics perspective. By integrating the search prowess of  Variable Neighborhood Search  (VNS) with the meta-learning capabilities of Multi-population-based Multitasking (MM), this paper proposes a Multi-population multi-tasking VNS (MM-VNS) algorithm to solve the Inter-Domain Path Computation under Domain Uniqueness constraint (IDPC-DU). In this combination, VNS is used to exploit  solution space  while meta-learning maintains diversity by  transferring  knowledge. Numerous experiments performed indicate the proposed approach finds better solutions in comparison with the state-of-the-art  metaheuristics  in many cases.",
+    "citation_count": "2",
+    "year": "2024/04/01",
+    "authors": [
+        {
+            "name": "Do Tuan Anh",
+            "country": ""
+        },
+        {
+            "name": "Huynh Thi Thanh Binh",
+            "country": ""
+        },
+        {
+            "name": "Ban Ha Bang",
+            "country": ""
+        },
+        {
+            "name": "Nguyen Duc Thai",
+            "country": ""
+        },
+        {
+            "name": "Phung Bao Ha",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

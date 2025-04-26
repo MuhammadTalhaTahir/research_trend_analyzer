@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-019-00792-5",
+    "title": "Sparsity augmented discriminative sparse representation for face recognition",
+    "abstract": "Sparse representation-based classification (SRC) has acquired prominent capability in fields of machine learning and pattern recognition. Collaborative representation-based classification (CRC) has achieved a comparable recognition performance with higher speed compared to SRC, which has attracted much attention because it enables to forgo the computationally quite expensive l1-norm sparsity constraint. However, the traditional CRC method neglects the discriminability of representation and recent study has claimed that the sparsity should not be completely neglected for computational costs. In this paper, we propose a sparsity-augmented discriminative sparse representation-based classification method which considers the discriminability and sparsity of representation via augmenting an l2-norm regularization discriminative sparse representation with a computationally inexpensive sparse representation. We utilize an efficient classification method to achieve better performance with a comparable classification time. Experimental results on four face databases show the effectiveness of our proposed method.",
+    "citation_count": 31,
+    "year": "2019/11",
+    "authors": [
+        {
+            "name": "Liu, Zhen",
+            "country": "China"
+        },
+        {
+            "name": "Wu, Xiao-Jun",
+            "country": "China"
+        },
+        {
+            "name": "Shu, Zhenqiu",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

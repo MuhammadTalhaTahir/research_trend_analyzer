@@ -1,0 +1,37 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-018-0261-2",
+    "title": "A local search approximation algorithm for a squared metric k-facility location problem",
+    "abstract": "In this paper, we introduce a squared metric k-facility location problem (SM-k-FLP) which is a generalization of the squared metric facility location problem and k-facility location problem (k-FLP). In the SM-k-FLP, we are given a client set $$\\mathcal {C}$$ and a facility set $$\\mathcal {F} $$ from a metric space, a facility opening cost $$f_i \\ge 0$$ for each $$ i \\in \\mathcal {F}$$ , and an integer k. The goal is to open a facility subset $$F \\subseteq \\mathcal {F}$$ with $$ |F| \\le k$$ and to connect each client to the nearest open facility such that the total cost (including facility opening cost and the sum of squares of distances) is minimized. Using local search and scaling techniques, we offer a constant approximation algorithm for the SM-k-FLP.",
+    "citation_count": 18,
+    "year": "2018/05",
+    "authors": [
+        {
+            "name": "Zhang, Dongmei",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Xu, Dachuan",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Wang, Yishui",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Zhang, Peng",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Zhang, Zhenning",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

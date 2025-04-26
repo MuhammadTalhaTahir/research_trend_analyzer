@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959522000479",
+    "title": "Human activity recognition based on wrist PPG via the ensemble method",
+    "abstract": "Human activity recognition via Electrocardiography (ECG) and Photoplethysmography (PPG) is extensively researched. While ECG requires less filtering and is less prone to disturbance and artifacts, nonetheless, PPG is cheaper and widely available in smart devices, making it a desired alternative. In this study, we explore the employment of the ensemble method with several pre-trained machine learning models namely Resnet50V2, MobileNetV2, and Xception for the classification of wrist PPG data of human activity, in comparison to its ECG counterpart. The study produced promising results with a test classification accuracy of 88.91% and 94.28% for PPG and ECG, respectively.",
+    "citation_count": "0",
+    "year": "2022/12/01",
+    "authors": [
+        {
+            "name": "Omair Rashed Abdulwareth Almanifi",
+            "country": ""
+        },
+        {
+            "name": "Ismail Mohd Khairuddin",
+            "country": ""
+        },
+        {
+            "name": "Mohd Azraai Mohd Razman",
+            "country": ""
+        },
+        {
+            "name": "Rabiu Muazu Musa",
+            "country": ""
+        },
+        {
+            "name": "Anwar P.P. Abdul Majeed",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

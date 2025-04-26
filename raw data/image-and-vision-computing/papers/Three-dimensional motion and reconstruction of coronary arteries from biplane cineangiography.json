@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/0262885694900434",
+    "title": "Three-dimensional motion and reconstruction of coronary arteries from biplane cineangiography",
+    "abstract": "A new approach is described for reconstructing coronary arteries from two sequences of projection images. The estimation of motion is performed on three-dimensional line segments (or centrelines), and is based on a ‘predictionprojection-optimization’ loop. The method copes with time varying properties, deformations and superpositions of vessels. Experiments using simulated and real data have been carried out. and the results found to be robust over a full cycle of a human heart. Local and global kinetic features can then be derived to obtain a greater insight on the cardiac functional state",
+    "citation_count": "31",
+    "year": "1994/12/01",
+    "authors": [
+        {
+            "name": "S Ruan",
+            "country": ""
+        },
+        {
+            "name": "A Bruno",
+            "country": ""
+        },
+        {
+            "name": "JL Coatrieux",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

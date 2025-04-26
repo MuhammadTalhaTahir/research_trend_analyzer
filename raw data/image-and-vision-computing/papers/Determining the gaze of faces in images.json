@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/0262885694900396",
+    "title": "Determining the gaze of faces in images",
+    "abstract": "A person's gaze is a potentially powerful input device for human-computer interaction. Current approaches to gaze tracking tend to be highly intrusive: the subject must either remain perfectly still, or wear cumbersome headgear to maintain a constant separation between the sensor and the eye. This paper describes a more flexible vision-based approach, which can estimate the direction of gaze from a single, monocular view of a face. The technique makes minimal assumptions about the structure of the face, requires lew image measurements, and produces an accurate estimate of the facial orientation, which is relatively insensitive to noise in the image and errors in the underlying assumptions. The computational requirements are insignificant, so with automatic tracking of a few facial features it is possible to produce gaze estimates at video rate.",
+    "citation_count": "182",
+    "year": "1994/12/01",
+    "authors": [
+        {
+            "name": "Andrew Gee",
+            "country": ""
+        },
+        {
+            "name": "Roberto Cipolla",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

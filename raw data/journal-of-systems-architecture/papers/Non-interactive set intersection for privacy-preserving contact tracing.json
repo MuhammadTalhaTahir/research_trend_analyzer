@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124002443",
+    "title": "Non-interactive set intersection for privacy-preserving contact tracing",
+    "abstract": "Contact tracing (CT) is an effective method to combat the spread of infectious diseases like COVID-19, by notifying and alerting individuals who have been in contact with infected patients. One simple yet practical approach for implementing CT functionality is to directly publish the travel history and locations visited by infected users. However, this approach compromises the location privacy and makes infected individuals reluctant to participate in such systems. Private set intersection (PSI) is a promising candidate to protect the privacy of participants. But, interactive PSI protocols may not be friendly for querists with limited resources due to high local computation costs and communication bandwidth requirements. Additionally, concerns about identity leakage may result in infected users missing or providing erroneous information about their visited locations. To address the above issues, we propose a cloud-assisted non-interactive framework for privacy-preserving CT, which enables querists to obtain query results without multi-round interaction and addresses concerns regarding location and identity information leakage. Its core building block is a cloud-assisted non-interactive set intersection protocol, skillfully transformed from anonymous broadcast encryption (AnoBE). To our knowledge, this is the first derivation from AnoBE. We also instantiate the proposed framework and thoroughly evaluate its performance, demonstrating its efficiency.",
+    "citation_count": "0",
+    "year": "2025/01/01",
+    "authors": [
+        {
+            "name": "Axin Wu",
+            "country": ""
+        },
+        {
+            "name": "Yuer Yang",
+            "country": ""
+        },
+        {
+            "name": "Jinghang Wen",
+            "country": ""
+        },
+        {
+            "name": "Yu Zhang",
+            "country": ""
+        },
+        {
+            "name": "Qiuxia Zhao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

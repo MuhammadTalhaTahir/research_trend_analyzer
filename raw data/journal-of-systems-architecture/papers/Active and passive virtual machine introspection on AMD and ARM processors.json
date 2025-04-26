@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124000389",
+    "title": "Active and passive virtual machine introspection on AMD and ARM processors",
+    "abstract": "Active and passive virtual machine introspection mechanisms are pivotal for monitoring virtual machines on top of a  hypervisor . They enable external tools to monitor and inspect the state from the outside.  Active virtual machine  introspection mechanisms intercept the execution at  predetermined locations  of interest synchronous to the execution of the system. Such mechanisms, in particular, require support from the processor vendor by facilitating interpositioning. This support is missing on  AMD x86  processors, leading to inferior introspection solutions. We outline implicit assumptions about active introspection mechanisms in previous work, offer constructions for solution strategies on  AMD  systems, and discuss stealthiness and correctness. We show empirically that such retrofitted software solutions exhibit performance metrics in the same order of magnitude as native hardware solutions. Moreover, we highlight that the open problems for virtual machine introspection on  ARM  systems and those encountered on  AMD x86  are related. Hence, we present an introspection architecture based on  KVMi  that addresses these open problems. Finally, we demonstrate comparable and, in many cases, superior performance to state-of-the-art solutions on  Intel x86 .",
+    "citation_count": "0",
+    "year": "2024/04/01",
+    "authors": [
+        {
+            "name": "Thomas Dangl",
+            "country": ""
+        },
+        {
+            "name": "Stewart Sentanoe",
+            "country": ""
+        },
+        {
+            "name": "Hans P. Reiser",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

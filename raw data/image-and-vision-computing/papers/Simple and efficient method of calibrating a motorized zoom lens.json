@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885601000695",
+    "title": "Simple and efficient method of calibrating a motorized zoom lens",
+    "abstract": "In this work, three  servo motors  are used to independently control the aperture, zoom, and focus of our  zoom lens . Our goal is to calibrate, efficiently, the camera parameters for all the possible configurations of lens settings. We use a calibration object suitable for zoom lens calibration to deal with the defocusing problem. Instead of calibrating the zoom lens with respect to the three lens settings simultaneously, we perform the monofocal camera calibration, adaptively, over the ranges of the zoom and focus settings while fixing the aperture setting at a preset value.  Bilinear interpolation  is used to provide the values of the camera parameters for those lens settings where no observations are taken. The adaptive strategy requires the monofocal camera calibration only for the lens settings where the interpolated camera parameters are not accurate enough, and is hence referred to as the calibration-on-demand method. Our experiments show that the proposed calibration-on-demand method can provide accurate camera parameters for all the lens settings of a motorized zoom lens, even though the camera calibration is performed only for a few sampled lens settings.",
+    "citation_count": "27",
+    "year": "2001/12/01",
+    "authors": [
+        {
+            "name": "Yong-Sheng Chen",
+            "country": ""
+        },
+        {
+            "name": "Sheng-Wen Shih",
+            "country": ""
+        },
+        {
+            "name": "Yi-Ping Hung",
+            "country": ""
+        },
+        {
+            "name": "Chiou-Shann Fuh",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

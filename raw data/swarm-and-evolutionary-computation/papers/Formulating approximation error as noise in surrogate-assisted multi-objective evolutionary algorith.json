@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224002049",
+    "title": "Formulating approximation error as noise in surrogate-assisted multi-objective evolutionary algorithm",
+    "abstract": "Many real multi-objective optimization problems with 20-50 decision variables often have only a small number of function evaluations available, because of their heavy time/money burden. Therefore, surrogate models are often utilized as alternatives for expensive function evaluations. However, the approximation error of the surrogate model is inevitable compared to the real function evaluation. The approximation error has a similar impact on the algorithm as noise, i.e., different optimization stages suffer from various impacts. Therefore, the current optimization stage can be indirectly detected via measuring the impact of the noise formulated by the approximation error. In addition, the rising dimension of the search space leads to an increase in the approximation errors of the surrogate models, which poses a huge challenge for existing surrogate-assisted multi-objective evolutionary algorithms. In this work, we propose a stage-adaptive surrogate-assisted multi-objective evolutionary algorithm to solve the medium-scale optimization problems. In the proposed algorithm, the ensemble model consisting of the latest and historical models is used as the surrogate model, on the basis of which a set of potential candidates can be discovered. Then, a stage-adaptive infill sampling strategy selects the most suitable sampling strategy by analyzing the demand of the current optimization stage on convergence, diversity, model accuracy to sample from the candidates. As for the current optimization stage, it is detected by a noise impact indicator, where the approximation errors of surrogate models are formulated as noise. The experimental results on a series of medium-scale expensive test problems demonstrate the superiority of the proposed algorithm over six state-of-the-art compared algorithms.",
+    "citation_count": "2",
+    "year": "2024/10/01",
+    "authors": [
+        {
+            "name": "Nan Zheng",
+            "country": ""
+        },
+        {
+            "name": "Handing Wang",
+            "country": ""
+        },
+        {
+            "name": "Jialin Liu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

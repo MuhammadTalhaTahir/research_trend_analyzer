@@ -1,0 +1,42 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001606",
+    "title": "Inference replication at edges via combinatorial multi-armed bandit",
+    "abstract": "Inferences easily incur computation overload at the edge of the network, since they often consume plenty of resources and are often implemented by using  deep neural networks  (DNNs). Traditional approach via offloading those inference tasks to remote cloud is unsuitable, since the round-trip time is often a burden. As a result, offloading by using nearby idle edges is promising, which sacrifices the task replication overhead for speeding up the edge inference. Unfortunately, due to stochastic changes on both edge networks and edge inference, it is hard to determine the best suitable targets for replication, especially when those DNNs consist of multiple kernels for inference, the replication decision involves multiple edge candidates as the destinations, and the edges are further heterogeneous. In this paper, we propose to optimize the inference replication at edges, under the consideration of stochastic changes. We formulate related problem and design an  online algorithm  via combinatorial multi-armed bandit for the inference with minimum  response time , which decides multiple destinations simultaneously for replication, upon both revealed feedback after the deployment and the offline profile. By  rigorous proof , the sublinear regret is ensured, which measures the gap between our online decision and the offline optimum. Through extensive trace-driven experiments with Huawei Atlas and NVIDIA Jetson, the improvement earned by inference replication is confirmed, compared with other alternatives.",
+    "citation_count": "3",
+    "year": "2022/08/01",
+    "authors": [
+        {
+            "name": "Yitong Zhou",
+            "country": ""
+        },
+        {
+            "name": "Hesheng Sun",
+            "country": ""
+        },
+        {
+            "name": "Yibo Jin",
+            "country": ""
+        },
+        {
+            "name": "Yanfang Zhu",
+            "country": ""
+        },
+        {
+            "name": "Yuan Li",
+            "country": ""
+        },
+        {
+            "name": "Zhuzhong Qian",
+            "country": ""
+        },
+        {
+            "name": "Sheng Zhang",
+            "country": ""
+        },
+        {
+            "name": "Sanglu Lu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124001759",
+    "title": "Virtualized real-time workloads in containers and virtual machines",
+    "abstract": "Real-time virtualization is currently a hot topic, and there is much ongoing research on real-time Virtual Machines and hypervisors. However, most of the previous research focused either on reducing the latencies introduced by the virtualization stack (hypervisor, host Operating System, Virtual Machine scheduling, etc...) or analyzing the virtual CPU scheduling algorithms. Only a few works investigated the impact of the guest Operating System architecture on real-time performance or considered multiple performance metrics (latency, schedulability, startup times, resource consumption) at the same time. This paper compares various features of different virtualization technologies and guest Operating Systems, evaluating their suitability for serving real-time applications. The results indicate that solutions based on KVM (and an appropriate microvm) and the OSv unikernel can be considered viable alternatives to more traditional VMs or containers.",
+    "citation_count": "0",
+    "year": "2024/09/01",
+    "authors": [
+        {
+            "name": "Luca Abeni",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

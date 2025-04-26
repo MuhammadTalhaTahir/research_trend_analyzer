@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-012-9483-x",
+    "title": "Minimum paired-dominating set in chordal bipartite graphs and perfect elimination bipartite graphs",
+    "abstract": "A&nbsp;set D⊆V of a graph G=(V,E) is a dominating set of G if every vertex in V∖D has at least one neighbor in D. A&nbsp;dominating set D of G is a paired-dominating set of G if the induced subgraph, G[D], has a perfect matching. Given a graph G=(V,E) and a positive integer k, the paired-domination problem is to decide whether G has a paired-dominating set of cardinality at most k. The paired-domination problem is known to be NP-complete for bipartite graphs. In this paper, we, first, strengthen this complexity result by showing that the paired-domination problem is NP-complete for perfect elimination bipartite graphs. We, then, propose a linear time algorithm to compute a minimum paired-dominating set of a chordal bipartite graph, a well studied subclass of bipartite graphs.",
+    "citation_count": 26,
+    "year": "2013/11",
+    "authors": [
+        {
+            "name": "Panda, B. S.",
+            "country": "India"
+        },
+        {
+            "name": "Pradhan, D.",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s100440050036",
+    "title": "Multi-spectral Texture Segmentation Based on the Spectral Cooccurrence Matrix",
+    "abstract": "Multi-spectral images are becoming more common in industrial inspection tasks where the colour is used as a quality measure. In this paper we propose a spectral cooccurrence matrix-based method to analyse multi-spectral texture images, in which every pixel contains a measured colour spectrum. We first quantise the spectral domain of the multi-spectral images using the Self-Organising Map (SOM). Next we label the spectral domain according to the quantised spectra. In the spatial domain, we represent a multi-spectral texture using the spectral cooccurrence matrix, which we calculate from the labelled image. In the experimental part of this paper, we present the results of segmenting natural multi-spectral textures. We compared the k-nearest neighbour (k-NN) classifier and the multilayer perceptron (MLP) neural network-based segmentation results of the multi-spectral and RGB colour textures.",
+    "citation_count": 0,
+    "year": "1999/11",
+    "authors": [
+        {
+            "name": "Hauta-Kasari, M.",
+            "country": "FI"
+        },
+        {
+            "name": "Parkkinen, J.",
+            "country": "FI"
+        },
+        {
+            "name": "Jaaskelainen, T.",
+            "country": "FI"
+        },
+        {
+            "name": "Lenz, R.",
+            "country": "SE"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

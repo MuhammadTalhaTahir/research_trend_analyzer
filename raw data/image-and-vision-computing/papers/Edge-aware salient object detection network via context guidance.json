@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621000718",
+    "title": "Edge-aware salient object detection network via context guidance",
+    "abstract": "Fully  convolutional network  (FCN) based  salient object detection  methods have shown their advantages in highlighting  salient regions  because they can obtain global semantic information. And the high-level semantics are usually passed in a top-down pathway. However, the semantic information would be diluted progressively among different level features. To alleviate this issue, we propose a novel edge-aware salient object detection network. Our network utilizes high-level semantic information to assist the feature selection of shallower layers. Specifically, we extract refined features from different levels of the backbone. Then, we obtain global contextual information to locate the salient objects by extracting multi-scale features and emphasizing the important feature channels. In order to assist the shallower layers to pay attention to the learning of meaningful  local information , we adopt a context guidance strategy to fuse the high-level and low-level information. Finally, we supervise the generation of low-level  edge information  to preserve the salient object boundaries. Extensive experiments demonstrate that the proposed mode performs favorably against most state-of-the-art methods under different  evaluation metrics  on six popular benchmarks.",
+    "citation_count": "11",
+    "year": "2021/06/01",
+    "authors": [
+        {
+            "name": "Xiaowei Chen",
+            "country": ""
+        },
+        {
+            "name": "Qing Zhang",
+            "country": ""
+        },
+        {
+            "name": "Liqian Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

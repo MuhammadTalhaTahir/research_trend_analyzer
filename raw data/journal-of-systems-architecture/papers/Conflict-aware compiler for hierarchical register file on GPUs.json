@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124000365",
+    "title": "Conflict-aware compiler for hierarchical register file on GPUs",
+    "abstract": "Modern  graphics processing units  (GPUs) leverage a high degree of thread-level parallelism, necessitating large-sized register files for storing numerous thread contexts. To reduce the energy consumption in traditional  static random access memory  (SRAM)-based register files, recent research has explored non-volatile memory (NVM) for implementing register files. The hierarchical register file (HI-RF) combines SRAM-based register caches with NVM-based register files. In HI-RF, the register cache acts as a write buffer, indexed using both register IDs and warp IDs. HI-RF uses a direct-mapped register cache with two indexing schemes: a  concatenating  scheme and a  thread context-aware  scheme. Compiler-assigned register IDs significantly impact cache conflicts, particularly among registers sharing the same LSBs. To address this, we introduce a conflict-aware compiler (CAC) for GPUs equipped with HI-RF. CAC optimizes  register assignments  based on approximated register write counts. Our evaluation demonstrates that CAC improves performance by 11.1% and 5.9% with the concatenating and thread context-aware index schemes, respectively when compared to a conventional compiler. Simultaneously, it reduces the energy consumption by approximately 73.0 percentage points compared to SRAM for both indexing schemes.",
+    "citation_count": "0",
+    "year": "2024/04/01",
+    "authors": [
+        {
+            "name": "Eunbi Jeong",
+            "country": ""
+        },
+        {
+            "name": "Eun Seong Park",
+            "country": ""
+        },
+        {
+            "name": "Gunjae Koo",
+            "country": ""
+        },
+        {
+            "name": "Yunho Oh",
+            "country": ""
+        },
+        {
+            "name": "Myung Kuk Yoon",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

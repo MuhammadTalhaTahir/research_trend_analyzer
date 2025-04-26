@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624004098",
+    "title": "A review of recent advances in 3D Gaussian Splatting for optimization and reconstruction",
+    "abstract": "3D Gaussian Splatting (3DGS) represents a significant breakthrough in computer graphics and vision, offering an explicit scene representation and novel view synthesis without the reliance on neural networks, unlike Neural Radiance Fields (NeRF). This paper provides a comprehensive survey of recent research on 3DGS optimization and reconstruction, with a particular focus on studies featuring published or forthcoming open-source code. In terms of optimization, the paper examines techniques such as compression, densification, splitting, anti-aliasing, and reflection enhancement. For reconstruction, it explores methods including surface mesh extraction, sparse-view object and scene reconstruction, large-scale scene reconstruction, and dynamic object and scene reconstruction. Through comparative analysis and case studies, the paper highlights the practical advantages of 3DGS and outlines future research directions, offering valuable insights for advancing the field.",
+    "citation_count": "2",
+    "year": "2024/11/01",
+    "authors": [
+        {
+            "name": "Jie Luo",
+            "country": ""
+        },
+        {
+            "name": "Tianlun Huang",
+            "country": ""
+        },
+        {
+            "name": "Weijun Wang",
+            "country": ""
+        },
+        {
+            "name": "Wei Feng",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

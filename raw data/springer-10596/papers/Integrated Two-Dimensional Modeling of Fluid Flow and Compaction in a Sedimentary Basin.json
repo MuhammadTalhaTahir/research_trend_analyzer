@@ -1,0 +1,44 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1021211803088",
+    "title": "Integrated Two-Dimensional Modeling of Fluid Flow and Compaction in a Sedimentary Basin",
+    "abstract": "In this paper we employ mixed finite elements and numerically study an integrated two-dimensional model of fluid flow and compaction in a sedimentary basin. This model describes a single phase incompressible flow in a two-dimensional section of a sedimentary basin with vertical compaction. At each time step, an iterative algorithm is used to solve this model. The determination of the grid movement is based on the mass conservation and movement of sediments in the basin, while the mixed method is utilized to solve the fluid flow over the moving grid. Numerical experiments are presented to verify this iterative algorithm and show representative solutions for the model under consideration.",
+    "citation_count": 11,
+    "year": "2002/09",
+    "authors": [
+        {
+            "name": "Chen, Zhangxin",
+            "country": "USA"
+        },
+        {
+            "name": "Ewing, Richard E.",
+            "country": "USA"
+        },
+        {
+            "name": "Lu, Hao",
+            "country": "USA"
+        },
+        {
+            "name": "Lyons, Stephen L.",
+            "country": "USA"
+        },
+        {
+            "name": "Maliassov, Serguei",
+            "country": "USA"
+        },
+        {
+            "name": "Ray, Michael B.",
+            "country": "USA"
+        },
+        {
+            "name": "Sun, Tong",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

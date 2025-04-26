@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885619301465",
+    "title": "Multi-label learning for concept-oriented labels of product image data",
+    "abstract": "In the designing field, designers usually retrieve the images for reference according to product attributes when designing new proposals. To obtain the attributes of the product, the designers take lots of time and effort to collect product images and annotate them with multiple labels. However, the labels of product images represent the concept of subjective perception, which makes the multi-label learning more challenging to imitate the human aesthetic rather than discriminate the appearance. In this paper, a Feature Correlation Learning (FCL) network is proposed to solve this problem by exploiting the potential feature correlations of product images. Given a product image, the FCL network calculates the features of different levels and their correlations via gram matrices. The FCL is aggregated with the  DenseNet  to predict the labels of the input product image. The proposed method is compared with several outstanding multi-label learning methods, as well as DenseNet. Experimental results demonstrate that the proposed method outperforms the state-of-the-arts for multi-label learning problem of product  image data .",
+    "citation_count": "9",
+    "year": "2020/01/01",
+    "authors": [
+        {
+            "name": "Yong Dai",
+            "country": ""
+        },
+        {
+            "name": "Yi Li",
+            "country": ""
+        },
+        {
+            "name": "Shu-Tao Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

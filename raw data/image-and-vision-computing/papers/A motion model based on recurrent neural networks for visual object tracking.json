@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885622001627",
+    "title": "A motion model based on recurrent neural networks for visual object tracking",
+    "abstract": "Object tracking algorithms  typically leverage on either or both appearance and motion features of target(s). It is common in multi-object tracking to use both features, whereas the role of motion features in single-object trackers has less been explored. Based on the Long Short-Term Memory (LSTM) architecture of  recurrent neural networks , we train a novel motion model to be incorporated into the off-the-shelf single-object trackers. The developed model predicts the target location in each frame based on the history of processed motion features in a few prior frames. This aids the tracking algorithm in dynamically updating the search region location, as apposed to static or probabilistic region settings. We incorporate the model into three state-of-the-art CNN-based trackers, namely GOTURN, SiamFC, and DiMP and illustrate the tracking performance enhancements on popular benchmarks. Significant improvements are achieved specially on the sequences rendering challenging situations such as Low Resolution, Out-of-Plane Rotation,  Motion Blur , Fast Motion, and Occlusion. The motion model has a low computational cost and complies with the real-time execution of the base trackers.",
+    "citation_count": "13",
+    "year": "2022/10/01",
+    "authors": [
+        {
+            "name": "Mohammad Shahbazi",
+            "country": ""
+        },
+        {
+            "name": "Mohammad Hosein Bayat",
+            "country": ""
+        },
+        {
+            "name": "Bahram Tarvirdizadeh",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

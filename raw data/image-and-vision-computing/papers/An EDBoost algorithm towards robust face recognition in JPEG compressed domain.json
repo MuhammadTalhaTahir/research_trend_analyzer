@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885610000806",
+    "title": "An EDBoost algorithm towards robust face recognition in JPEG compressed domain",
+    "abstract": "In this paper, we describe a novel multiclass boosting algorithm, EDBoost, to achieve robust  face recognition  directly in JPEG compressed domain. In comparison with existing boosting algorithms, the proposed EDBoost exploits  Euclidean distance  (ED) to eliminate non-effective  weak classifiers  in each iteration of the boosted learning, and hence improves both feature selection and classifier learning by using fewer weak classifiers and producing lower error rates. When applied to face recognition, the EDBoost algorithm is capable of selecting the most discriminative  DCT  features directly in JPEG compressed domain to achieve high recognition performances. In addition, a new DC replacement scheme is also proposed to reduce the effect of illumination changes. In comparison with the existing techniques, the proposed scheme achieves robust face recognition without losing the important information carried by all DC coefficients. Extensive experiments support the conclusion that the proposed algorithm outperforms all representative existing techniques in terms of boosted learning,  multiclass classification , lighting effect reduction and face recognition rates.",
+    "citation_count": "4",
+    "year": "2010/12/01",
+    "authors": [
+        {
+            "name": "Chunmei Qing",
+            "country": ""
+        },
+        {
+            "name": "Jianmin Jiang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

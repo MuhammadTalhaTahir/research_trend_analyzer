@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621002158",
+    "title": "Context-based image explanations for deep neural networks",
+    "abstract": "With the increased use of machine learning in decision-making scenarios, there has been a growing interest in explaining and understanding the outcomes of machine learning models. Despite this growing interest, existing works on interpretability and explanations have been mostly intended for expert users. Explanations for general users have been neglected in many usable and practical applications (e.g., image tagging, caption generation). It is important for non-technical users to understand features and how they affect an instance-specific prediction to satisfy the need for justification. In this paper, we propose a model-agnostic method for generating context-based explanations aiming for general users. We implement partial masking on segmented components to identify the contextual importance of each segment in scene classification tasks. We then generate explanations based on feature importance. We present visual and text-based explanations: (i) saliency map presents the pertinent components with a descriptive textual justification, (ii) visual map with a color bar graph showing the relative importance of each feature for a prediction. Evaluating the explanations using a user study ( N  = 50), we observed that our proposed explanation method visually outperformed existing gradient and occlusion based methods. Hence, our proposed explanation method could be deployed to explain models’ decisions to non-expert users in real-world applications.",
+    "citation_count": "0",
+    "year": "2021/12/01",
+    "authors": [
+        {
+            "name": "Sule Anjomshoae",
+            "country": ""
+        },
+        {
+            "name": "Daniel Omeiza",
+            "country": ""
+        },
+        {
+            "name": "Lili Jiang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

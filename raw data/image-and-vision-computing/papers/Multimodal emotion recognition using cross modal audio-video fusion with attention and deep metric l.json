@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623000501",
+    "title": "Multimodal emotion recognition using cross modal audio-video fusion with attention and deep metric learning",
+    "abstract": "In the last few years, the multi-modal emotion recognition has become an important research issue in the  affective computing  community due to its wide range of applications that include mental disease diagnosis, human behavior understanding, human machine/robot interaction or  autonomous driving  systems. In this paper, we introduce a novel end-to-end multimodal emotion recognition methodology, based on audio and visual fusion designed to leverage the mutually complementary nature of features while maintaining the modality-specific information. The proposed method integrates spatial, channel and temporal  attention mechanisms  into a visual 3D  convolutional neural network  (3D-CNN) and temporal attention into an audio 2D convolutional  neural network  (2D-CNN) to capture the intra-modal features characteristics. Further, the inter-modal information is captured with the help of an audio-video (A-V) cross-attention fusion technique that effectively identifies salient relationships across the two modalities. Finally, by considering the  semantic relations  between the emotion categories, we design a novel classification loss based on an emotional metric constraint that guides the attention generation mechanisms. We demonstrate that by exploiting the relations between the emotion categories our method yields more discriminative embeddings, with more compact intra-class representations and increased inter-class separability. The experimental evaluation carried out on the RAVDESS ( The Ryerson Audio-Visual Database of Emotional Speech and Song ), and CREMA-D ( Crowd-sourced Emotional Multimodal Actors Dataset ) datasets validates the proposed methodology, which leads to average accuracy scores of 89.25% and 84.57%, respectively. In addition, when compared to state-of-the-art techniques, the proposed solution shows superior performances, with gains in accuracy ranging in the [1.72%, 11.25%] interval.",
+    "citation_count": "48",
+    "year": "2023/05/01",
+    "authors": [
+        {
+            "name": "Bogdan Mocanu",
+            "country": ""
+        },
+        {
+            "name": "Ruxandra Tapu",
+            "country": ""
+        },
+        {
+            "name": "Titus Zaharia",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S221065022100050X",
+    "title": "A novel scalable network architecture for the evolution of robot swarm networks with dual connectivity application in control-data plane",
+    "abstract": "The swarm robot network is the widely used  wireless communication  technology, and significantly, it has higher uplink and downlink throughput than the conventional communication networks. Apart from the appreciable advantages, there are various challenges like minimized  data retention  rate, low  data transmission rate , countless  handovers  over a short time, and a short transmission range due to higher data transmission usage. To resolve these challenges, Scalable  Network Architecture  with Dual Connectivity Application (SN-DCA) in control and data plane is proposed to improve data retention rates and minimize network usage by controlling unwanted access in the distributive clouds during transmission. Here, Two-stage control data plane splitting (TSCDP) is introduced to enhance network usage by optimizing unwanted access. It further improves the data retention rate during transmission. The analytical performance of the proposed techniques has been validated computationally and examined through simulation studies. The Simulation results show that these techniques achieve a higher performance ratio in the network with a minimum transmission delay and a high data retention rate.",
+    "citation_count": "6",
+    "year": "2021/07/01",
+    "authors": [
+        {
+            "name": "Ching-Hsien Hsu",
+            "country": ""
+        },
+        {
+            "name": "Kusuma Amilineni",
+            "country": ""
+        },
+        {
+            "name": "Hao Wu",
+            "country": ""
+        },
+        {
+            "name": "Christophe Cerin",
+            "country": ""
+        },
+        {
+            "name": "Yeh-Ching Chung",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

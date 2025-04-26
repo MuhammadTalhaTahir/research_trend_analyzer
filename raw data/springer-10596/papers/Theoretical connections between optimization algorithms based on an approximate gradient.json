@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-013-9368-9",
+    "title": "Theoretical connections between optimization algorithms based on an approximate gradient",
+    "abstract": "Performing a line search method in the direction given by the simplex gradient is a well-known method in the mathematical optimization community. For reservoir engineering optimization problems, both a modification of the simultaneous perturbation stochastic approximation (SPSA) and ensemble-based optimization (EnOpt) have recently been applied for estimating optimal well controls in the production optimization step of closed-loop reservoir management. The modified SPSA algorithm has also been applied to assisted history-matching problems. A recent comparison of the performance of EnOpt and a SPSA-type algorithm (G-SPSA) for a set of production optimization test problems showed that the two algorithms resulted in similar estimates of the optimal net-present-value and required roughly the same amount of computational time to achieve these estimates. Here, we show that, theoretically, this result is not surprising. In fact, we show that both the simplex, preconditioned simplex, and EnOpt algorithms can be derived directly from a modified SPSA-type algorithm where the preconditioned simplex algorithm is presented for the first time in this paper. We also show that the expectation of all these preconditioned stochastic gradients is a first-order approximation of the preconditioning covariance matrix times the true gradient or a covariance matrix squared times the true gradient.",
+    "citation_count": 47,
+    "year": "2013/12",
+    "authors": [
+        {
+            "name": "Do, Sy T.",
+            "country": "USA"
+        },
+        {
+            "name": "Reynolds, Albert C.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

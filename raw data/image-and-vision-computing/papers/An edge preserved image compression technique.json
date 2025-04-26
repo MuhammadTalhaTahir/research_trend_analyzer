@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/0262885689900279",
+    "title": "An edge preserved image compression technique",
+    "abstract": "An image compression technique that can preserve edges of objects is proposed here. This technique is developed by looking at small local regions of the image and classifying these regions as uniform, point, line or edge patterns from statistical likelihood ratio tests. The compression ratio depends on the size of the local region considered and the quality of the image will degrade as the size of the local region increases. Experimental results show good quality preservation when the sizes of the local region are 3 × 3, 4 × 4, 5 × 5 with the corresponding compression ratios less than or equal to  7 24 ,  1 5 ,  13 100  respectively. A comparison with discrete cosine transform is given here and shows that the new technique produces better quality in most cases.",
+    "citation_count": "0",
+    "year": "1989/11/01",
+    "authors": [
+        {
+            "name": "Huang Chia-Wei Liao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

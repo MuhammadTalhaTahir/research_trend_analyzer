@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-013-9376-9",
+    "title": "Analysis of the pressure projection stabilization method for the Darcy and coupled Darcy–Stokes flows",
+    "abstract": "In this paper, we systematically analyze the pressure projection stabilization method for the Darcy and coupled Darcy–Stokes flow problems in multiple dimensions. Stability results for this stabilization method are established. For the Darcy flow, optimal error estimates in the divergence norm for velocity and suboptimal error estimates in the $L^{2}$ -norm for pressure are obtained, and a superconvergence result for the pressure is derived; a local postprocessing scheme is constructed to generate optimal error estimates in the L 2-norm for pressure. For the coupled Darcy–Stokes flow, error estimates of optimal order are obtained in terms of the energy norm of velocity and pressure. Numerical results are presented to check the theory developed.",
+    "citation_count": 31,
+    "year": "2013/12",
+    "authors": [
+        {
+            "name": "Chen, Zhangxin",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Wang, Zhen",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Zhu, Liping",
+            "country": "Canada"
+        },
+        {
+            "name": "Li, Jian",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

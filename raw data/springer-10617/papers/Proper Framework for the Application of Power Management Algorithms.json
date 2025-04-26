@@ -1,0 +1,22 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10617-005-1197-1",
+    "title": "Proper Framework for the Application of Power Management Algorithms",
+    "abstract": "A power aware system can reduce its energy dissipation by dynamically powering off during idle periods and powering on again upon a new service request arrival. We minimize the dissipated energy, by selecting the optimal waiting interval before powering off, under consideration of the expected time of the next arrival. This approach has been already proposed in the past, using the idle times distribution, rather than the interarrival periods captured at the moment of service completion. Algorithms proposed in the literature utilize the history of idle periods or assume a vanishing service time. There has been no clear proposition on how service time affects the time instance of our power off decision; rather, whenever service time has been significant, a “blurred” image of the system’s characteristic and a corresponding approximated optimal policy occurred. We clearly show analytically and experimentally that the idle times distribution should not be used as a primary design input, since it is the product of two separate inputs; the interarrival times and the service times. We give insight to our problem, using a mechanical equivalent established at the moment of service completion of all pending requests and show through analytical examples how service time affects our power-off decision. We explain the paradox of being advantageous to wait for intervals more than the shutdown threshold (which is a system characteristic) and show how the introduction of idle period lengths instead of interarrival periods “blurs” the input distribution, leading to non-optimal decisions. Our contribution is to define and solve the proper problem, solely relying on the interarrival distribution. Further, we examine the problem under the framework of competitive analysis. We show how the interarrival distribution that maximizes the competitive ratio, being an exponential distribution, intervenes with power management; it renders the optimization procedure worthless through its “memoryless property”. Exponential interarrivals, irrespective of the service time pattern, are the marginal case where we cannot obtain energy gains. In all other cases the framework we promote ensures considerable advantages compared to other approaches in the literature. Moreover, it leads to a self contained module, implementable in software or hardware, which is based on an iterative formula and thus reduces power management calculations significantly. Here we exploit all operational features of the problem in proposing an implementation which spreads computations over the whole of the waiting period. We extensively compare our results numerically both against claimed expectations and against previous proposals. The outcome fully supports our framework as the one most appropriate for the application of power management.",
+    "citation_count": 25,
+    "year": "2004/12",
+    "authors": [
+        {
+            "name": "Thanos, George",
+            "country": "Greece"
+        },
+        {
+            "name": "Stassinopoulos, George",
+            "country": "Greece"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762123001194",
+    "title": "Verifiable fuzzy keyword search supporting sensitive information hiding for data sharing in cloud-assisted e-healthcare systems",
+    "abstract": "Nowadays, cloud-assisted e-healthcare systems are playing a more and more important role in intelligent medical services. By uploading  Electronic Medical Records  (EMRs) to the cloud, users can facilitate data sharing and decrease local data management overhead. Before EMRs are outsourced to the cloud, the sensitive information in them is usually encrypted for protecting the privacy. Though the techniques of traditional searchable encryption could achieve the retrieval of  ciphertext , it results in EMRs unable to be shared with external researchers. Moreover, the existing searchable encryption schemes for cloud-assisted e-healthcare systems rarely consider fault-tolerant search and result verification. To address these issues, this paper proposes a verifiable fuzzy keyword search scheme supporting sensitive information hiding for data sharing in cloud-assisted e-healthcare systems. We encrypt sensitive information and share the rest information in EMRs among all users. We improve the approaches of keyword transformation to support the type of keyword in EMRs and realize fuzzy keyword search. For purpose of accomplishing the public verification, we adopt the BLS signature algorithm to generate two kinds of verification tags. We also generate the  auxiliary  match information to realize condition search. To enhance search efficiency, we build a secure index based on the balanced  binary tree . In addition, the proposed scheme can also achieve dynamic update in real-time. We analyze the security and implement a series of experiments for evaluating the effectiveness of this scheme. The experimental results illustrate our scheme could reach high accuracy.",
+    "citation_count": "12",
+    "year": "2023/09/01",
+    "authors": [
+        {
+            "name": "Yunfeng Zhang",
+            "country": ""
+        },
+        {
+            "name": "Rong Hao",
+            "country": ""
+        },
+        {
+            "name": "Xinrui Ge",
+            "country": ""
+        },
+        {
+            "name": "Jia Yu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

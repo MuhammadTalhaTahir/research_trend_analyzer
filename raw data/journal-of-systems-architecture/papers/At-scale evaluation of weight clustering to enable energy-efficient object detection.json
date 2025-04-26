@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S138376212200159X",
+    "title": "At-scale evaluation of weight clustering to enable energy-efficient object detection",
+    "abstract": "Accelerators implementing  Deep Neural Networks  (DNNs) for image-based object detection operate on large volumes of data due to fetching images and  neural network  parameters, especially if they need to process video streams, hence with high  power dissipation  and  bandwidth requirements  to fetch all those data. While some solutions exist to mitigate power and bandwidth demands for data fetching, they are often assessed in the context of limited evaluations with a scale much smaller than that of the target application, which challenges finding the best tradeoff in practice. This paper sets up the infrastructure to assess at-scale a key power and bandwidth optimization – weight clustering – for You Only Look Once v3 (YOLOv3), a neural network-based object detection system, using videos of real driving conditions. Our assessment shows that accelerators such as  systolic arrays  with an Output Stationary architecture turn out to be a highly effective solution combined with weight clustering. In particular, applying weight clustering independently per  neural network  layer, and using between 32 (5-bit) and 256 (8-bit) weights allows achieving an accuracy close to that of the original YOLOv3 weights (32-bit weights). Such bit-count reduction of the weights allows shaving  bandwidth requirements  down to 30%–40% of the original requirements, and reduces energy consumption down to 45%. This is based on the fact that (i) energy due to multiply-and-accumulate operations is much smaller than DRAM data fetching, and (ii) designing accelerators appropriately may make that most of the data fetched corresponds to  neural network weights , where clustering can be applied. Overall, our at-scale assessment provides key results to architect camera-based object detection accelerators by putting together a real-life application (YOLOv3), and real driving videos, in a unified setup so that trends observed are reliable.",
+    "citation_count": "4",
+    "year": "2022/08/01",
+    "authors": [
+        {
+            "name": "Martí Caro",
+            "country": ""
+        },
+        {
+            "name": "Hamid Tabani",
+            "country": ""
+        },
+        {
+            "name": "Jaume Abella",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

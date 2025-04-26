@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124000730",
+    "title": "A gene-inspired metaheuristic for scheduling workflow tasks in mobile edge computing-supported cyber–physical systems",
+    "abstract": "This paper proposes a cost-minimization  scheduling algorithm  for the  joint  optimization of  task offloading  and  resource allocation  for  workflow applications  in a  mobile edge computing  (MEC)-supported cyber–physical system. We model this scheduling problem as an  integer program  that minimizes the total communication and computation cost under resources and deadline constraints upon workflow applications. To cope with this complicated  optimization problem , we develop an efficient  heuristic method  to dispatch the workflow tasks onto MEC servers with sufficient resources. By using the task dispatching heuristic to evaluate the quality of each candidate solution, we construct a novel gene-inspired  metaheuristic algorithm  (GIMA) that incorporates an offspring-production operator and a conditional insertion scheme into the  improvement strategy  to explore high-quality solutions. Specifically, the offspring-production operator can enhance the scheduling quality by generating improved  offspring  solutions based on existing solutions. The conditional insertion scheme is further incorporated to reduce the computational overhead involved in solution exploration. We perform extensive simulations to justify the performance of the proposed GIMA in solving the scheduling problem studied in this work. Experimental results on real-world and synthetic workflow applications show that GIMA outperforms other  metaheuristics  in terms of cost reduction and computational efficiency.",
+    "citation_count": "2",
+    "year": "2024/06/01",
+    "authors": [
+        {
+            "name": "Linhua Ma",
+            "country": ""
+        },
+        {
+            "name": "Yi Zhang",
+            "country": ""
+        },
+        {
+            "name": "Junlong Zhou",
+            "country": ""
+        },
+        {
+            "name": "Gongxuan Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

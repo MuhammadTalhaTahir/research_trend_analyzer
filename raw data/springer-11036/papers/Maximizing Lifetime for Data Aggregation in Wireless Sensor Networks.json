@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-005-4443-7",
+    "title": "Maximizing Lifetime for Data Aggregation in Wireless Sensor Networks",
+    "abstract": "This paper studies energy efficient routing for data aggregation in wireless sensor networks. Our goal is to maximize the lifetime of the network, given the energy constraint on each sensor node. Using linear programming (LP) formulation, we model this problem as a multicommodity flow problem, where a commodity represents the data generated from a sensor node and delivered to a base station. A fast approximate algorithm is presented, which is able to compute (1−ε)-approximation to the optimal lifetime for any ε &gt; 0. Then along this baseline, we further study several advanced topics. First, we design an algorithm, which utilizes the unique characteristic of data aggregation, and is proved to reduce the running time of the fastest existing algorithm by a factor of K, K being the number of commodities. Second, we extend our algorithm to accommodate the same problem in the setting of multiple base stations, and study its impact on network lifetime improvement. All algorithms are evaluated through both solid theoretical analysis and extensive simulation results.",
+    "citation_count": 29,
+    "year": "2005/12",
+    "authors": [
+        {
+            "name": "Xue, Yuan",
+            "country": "USA"
+        },
+        {
+            "name": "Cui, Yi",
+            "country": "USA"
+        },
+        {
+            "name": "Nahrstedt, Klara",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

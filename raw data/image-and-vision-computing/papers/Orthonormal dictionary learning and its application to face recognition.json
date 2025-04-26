@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885616300464",
+    "title": "Orthonormal dictionary learning and its application to face recognition",
+    "abstract": "This paper presents an orthonormal dictionary learning method for low-rank representation. The orthonormal property encourages the dictionary atoms to be as dissimilar as possible, which is beneficial for reducing the ambiguities of representations and computation cost. To make the dictionary more discriminative, we enhance the ability of the class-specific dictionary to well represent samples from the associated class and suppress the ability of representing samples from other classes, and also enforce the representations that have small within-class scatter and big between-class scatter. The learned orthonormal dictionary is used to obtain low-rank representations with fast computation. The performances of  face recognition  demonstrate the effectiveness and efficiency of the method.",
+    "citation_count": "12",
+    "year": "2016/07/01",
+    "authors": [
+        {
+            "name": "Zhen Dong",
+            "country": ""
+        },
+        {
+            "name": "Mingtao Pei",
+            "country": ""
+        },
+        {
+            "name": "Yunde Jia",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

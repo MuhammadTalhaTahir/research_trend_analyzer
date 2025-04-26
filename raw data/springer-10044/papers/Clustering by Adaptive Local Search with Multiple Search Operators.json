@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s100440070006",
+    "title": "Clustering by Adaptive Local Search with Multiple Search Operators",
+    "abstract": "Local Search (LS) has proven to be an efficient optimisation technique in clustering applications and in the minimisation of stochastic complexity of a data set. In the present paper, we propose two ways of organising LS in these contexts, the Multi-operator Local Search (MOLS) and the Adaptive Multi-Operator Local Search (AMOLS), and compare their performance to single operator (random swap) LS method and repeated GLA (Generalised Lloyd Algorithm). Both of the proposed methods use several different LS operators to solve the problem. MOLS applies the operators cyclically in the same order, whereas AMOLS adapts itself to favour the operators which manage to improve the result more frequently. We use a large database of binary vectors representing strains of bacteria belonging to the family Enterobacteriaceae and a binary image as our test materials. The new techniques turn out to be very promising in these tests.",
+    "citation_count": 0,
+    "year": "2000/12",
+    "authors": [
+        {
+            "name": "Gyllenberg, M.",
+            "country": "FI"
+        },
+        {
+            "name": "Koski, T.",
+            "country": "FI"
+        },
+        {
+            "name": "Lund, T.",
+            "country": "FI"
+        },
+        {
+            "name": "Nevalainen, O.",
+            "country": "FI"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

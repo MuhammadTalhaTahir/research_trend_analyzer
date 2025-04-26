@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003834",
+    "title": "A learnable motion preserving pooling for action recognition",
+    "abstract": "Using deep neural networks (DNN) for video understanding tasks is expensive in terms of computation cost. Pooling layers in DNN which are widely used in most vision tasks to resize the spatial dimensions play crucial roles in reducing the computation and memory cost. In video-related tasks, pooling layers are also applied, mostly in the spatial dimension only as the standard average pooling in the temporal domain can significantly reduce its performance. This is because conventional temporal pooling degrades the underlying important motion features in consecutive frames. Such a phenomenon is rarely investigated and most state-of-art methods simply do not adopt temporal pooling, leading to enormous computation costs. In this work, we propose a learnable motion-preserving pooling (MPPool) layer that is able to preserve the general motion progression after the pooling. This pooling layer first locates the frames with the strongest motion features and then keeps these crucial features during pooling. Our experiments demonstrate that MPPool not only reduces the computation cost for video data modeling, but also increases the final prediction accuracy on various motion-centric and appearance-centric datasets.",
+    "citation_count": "0",
+    "year": "2024/11/01",
+    "authors": [
+        {
+            "name": "Tankun Li",
+            "country": ""
+        },
+        {
+            "name": "Kwok Leung Chan",
+            "country": ""
+        },
+        {
+            "name": "Tardi Tjahjadi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

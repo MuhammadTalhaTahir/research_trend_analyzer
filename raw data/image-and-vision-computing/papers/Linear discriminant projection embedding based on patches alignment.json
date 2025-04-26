@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885610000727",
+    "title": "Linear discriminant projection embedding based on patches alignment",
+    "abstract": "Dimensionality reduction is often required as a preliminary stage in many data analysis applications. In this paper, we propose a novel supervised dimensionality reduction method, called  linear discriminant  projection embedding (LDPE), for pattern recognition. LDPE first chooses a set of overlapping patches which cover all data points using a minimum set cover algorithm with  geodesic distance  constraint. Then,  principal component  analysis (PCA) is applied on each patch to obtain the data's local representations. Finally, patches alignment technique combined with modified maximum margin criterion (MMC) is used to yield the discriminant global embedding. LDPE takes both label information and structure of manifold into account, thus it can maximize the dissimilarities between different classes and preserve data's intrinsic structures simultaneously. The efficiency of the proposed algorithm is demonstrated by extensive experiments using three standard face databases (ORL, YALE and CMU PIE). Experimental results show that LDPE outperforms other classical and state of art algorithms.",
+    "citation_count": "11",
+    "year": "2010/12/01",
+    "authors": [
+        {
+            "name": "Jianzhong Wang",
+            "country": ""
+        },
+        {
+            "name": "Baoxue Zhang",
+            "country": ""
+        },
+        {
+            "name": "Miao Qi",
+            "country": ""
+        },
+        {
+            "name": "Jun Kong",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

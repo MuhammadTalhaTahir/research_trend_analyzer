@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-020-00650-9",
+    "title": "A linear time algorithm for the p-maxian problem on trees with distance constraint",
+    "abstract": "This paper concerns the p-maxian problem on trees with an upper bound on the distance of new facilities. We first consider the case $$p = 2$$ and show that the optimal objective is obtained if the constraint holds with equality. By this result, we further explore the characteristic of the optimal solution, which helps to develop a linear time algorithm to solve the constrained 2-maxian problem. The result can be extended to the constrained p-maxian on trees based on the nestedness property. We also discuss the constrained p-maxian problem on trees in relation to the unconstrained p-maxian problem and the 1-maxian problem on the underlying tree.",
+    "citation_count": 31,
+    "year": "2020/11",
+    "authors": [
+        {
+            "name": "Nguyen, Trung Kien",
+            "country": "Vietnam"
+        },
+        {
+            "name": "Hung, Nguyen Thanh",
+            "country": "Vietnam"
+        },
+        {
+            "name": "Nguyen-Thu, Huong",
+            "country": "Vietnam"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

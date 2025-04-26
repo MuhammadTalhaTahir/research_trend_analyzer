@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885604000654",
+    "title": "Irregular, unknown light sources in dynamic global illumination",
+    "abstract": "The goal in global illumination solutions for dynamic environments is to update a scene based on past scenes. For this difficult problem, current state of the art solutions are either not applicable, or unduly complex, when there are large changes in the illumination of unbounded number of objects. Such changes may be caused by the appearance of unexpected (at modeling time), irregular  light sources . We define a subset of dynamic environments in which new light sources may be user introduced, and implement solutions that complement existing schemes.",
+    "citation_count": "0",
+    "year": "2004/12/01",
+    "authors": [
+        {
+            "name": "Sharat Chandran",
+            "country": ""
+        },
+        {
+            "name": "Mayur P. Srivastava",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

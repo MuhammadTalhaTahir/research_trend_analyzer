@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-015-9864-z",
+    "title": "Construction of optimal constant-dimension subspace codes",
+    "abstract": "A subspace code of length $$n$$ over the finite field $$\\mathbb {F}_q$$ is a collection of subspaces of the $$n$$ -dimensional vector space $$\\mathbb {F}_q^n$$ . Subspace codes are applied to a number of areas such as noncoherent linear network coding and linear authentication. A challenge in the research of subspace codes is to construct large codes with prescribed code parameters, such that the codes have the maximum number of codewords, or the number of codewords is larger than that of previously known codes. In the literature, a general method was proposed for the construction of large constant-dimension subspace codes based on integer linear programming. In this work, making use of an optimization approach for finding the maximum independent set of a graph, a procedure is developed for constructing large subspace codes. The procedure, in some cases, outperforms the existing approach based on integer linear programming, and finds new subspace codes that have more codewords than existing codes.",
+    "citation_count": 12,
+    "year": "2016/05",
+    "authors": [
+        {
+            "name": "Pullan, Wayne",
+            "country": "Australia"
+        },
+        {
+            "name": "Wu, Xin-Wen",
+            "country": "Australia"
+        },
+        {
+            "name": "Liu, Zihui",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

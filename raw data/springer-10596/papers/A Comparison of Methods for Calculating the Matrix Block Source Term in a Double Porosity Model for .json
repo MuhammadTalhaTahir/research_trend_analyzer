@@ -1,0 +1,36 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1021259702179",
+    "title": "A Comparison of Methods for Calculating the Matrix Block Source Term in a Double Porosity Model for Contaminant Transport",
+    "abstract": "Contaminant transport in a fractured porous medium can be modeled, under appropriate conditions, with a double porosity model. Such a model consists of a parabolic equation with a coupling term describing contaminant exchange between the fractures, which have high permeability, and the matrix block, which has low permeability. A locally conservative method based on mixed finite elements is used to solve the parabolic problem, and the calculation of the coupling term, which involves the solution of diffusion equations in the matrix blocks, is based on an analytic expression. Numerical experiments show that this semi-analytic method for the coupling term is accurate and faster than several other methods but at a small expense of computer memory.",
+    "citation_count": 22,
+    "year": "2002/09",
+    "authors": [
+        {
+            "name": "Alboin, Clarisse",
+            "country": "France"
+        },
+        {
+            "name": "Jaffré, Jérôme",
+            "country": "France"
+        },
+        {
+            "name": "Joly, Patrick",
+            "country": "France"
+        },
+        {
+            "name": "Roberts, Jean E.",
+            "country": "France"
+        },
+        {
+            "name": "Serres, Christophe",
+            "country": "France"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

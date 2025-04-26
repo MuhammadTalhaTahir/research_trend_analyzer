@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218304590",
+    "title": "Surrogate-guided differential evolution algorithm for high dimensional expensive problems",
+    "abstract": "Engineering optimization problems usually involve computationally expensive simulations and massive design variables. Solving these problems in an efficient manner is still a big challenge. Recently, surrogate-assisted metaheuristic algorithms have been widely studied and are considered to have potential to solve such engineering optimization problems. In this paper, a surrogate-guided differential evolution algorithm is proposed to further improve the optimization efficiency for these problems. Unlike other surrogate-assisted metaheuristic algorithms, it makes a fusion between the differential evolution algorithm and surrogates, which are not just taken as an additional tool to accelerate the convergence of metaheuristic algorithms. Specifically, the proposed algorithm combines the optima predicted by the global and local surrogates with the  mutation operator  and makes them guide the mutation direction of the differential evolution algorithm, which thus makes the differential evolution algorithm converge fast. A simple surrogate prescreening strategy is also proposed to further improve its optimizing efficiency. In order to validate the proposed algorithm, it is tested by a lot of high dimensional numerical benchmark problems whose dimensions vary from 20 to 200 and is applied to an optimal design of a stepped  cantilever beam  and an optimal design of bearings in an all-direction  propeller . An overall comparison between the proposed algorithm and other optimization algorithms has been made. The results show that the proposed algorithm is promising for optimizing the high dimensional expensive problems especially for the problems whose dimensions are more than 30.",
+    "citation_count": "84",
+    "year": "2019/08/01",
+    "authors": [
+        {
+            "name": "Xiwen Cai",
+            "country": ""
+        },
+        {
+            "name": "Liang Gao",
+            "country": ""
+        },
+        {
+            "name": "Xinyu Li",
+            "country": ""
+        },
+        {
+            "name": "Haobo Qiu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

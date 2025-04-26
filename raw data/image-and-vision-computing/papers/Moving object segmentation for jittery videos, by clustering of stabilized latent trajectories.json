@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885617300835",
+    "title": "Moving object segmentation for jittery videos, by clustering of stabilized latent trajectories",
+    "abstract": "Moving object segmentation in videos has always been a challenging task in the presence of large camera movements. Moreover, when the camera motion is jittery, most of the existing  motion segmentation  approaches fail. In this work, we propose an optimization framework for the segmentation of moving object in jittery videos. A novel Optical Trajectory Descriptor Matrix (OTDM) built on  point trajectories  has been proposed for this purpose. An optimization function has been formulated for stabilizing the trajectories, followed by  spectral clustering  of the proposed latent trajectories. Latent trajectories are obtained by performing Probabilistic Latent Semantic Analysis (pLSA) on the OTDM (factorization of OTDM using KL divergence). This integrated framework yields accurate clustering of the trajectories from jittery videos. Foreground pixel labelling is obtained by utilizing the clustered trajectory coordinates for modelling the foreground and background, using a GraphCut based energy formulation. Experiments were performed on 16 real-world jittery videos. Also, the results have been generated for a standard segmentation dataset, SegTrackv2, with synthetic jitter incorporated. Jitter extracted from a real video is inserted into stable SegTrackv2 videos for analysis of performance. The proposed method, when compared to the state-of-the-art methods, was found to be superior.",
+    "citation_count": "5",
+    "year": "2017/08/01",
+    "authors": [
+        {
+            "name": "Geethu Miriam Jacob",
+            "country": ""
+        },
+        {
+            "name": "Sukhendu Das",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

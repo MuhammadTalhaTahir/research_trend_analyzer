@@ -1,0 +1,78 @@
+[
+    {
+        "title": "Editorial Board",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762125000499"
+    },
+    {
+        "title": "A CP-ABE-based access control scheme with cryptographic reverse firewall for IoV",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762125000037"
+    },
+    {
+        "title": "LE-GEMM: A lightweight emulation-based GEMM with precision refinement on GPU",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762125000086"
+    },
+    {
+        "title": "REC: Enhancing fine-grained cache coherence protocol in multi-GPU systems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762125000116"
+    },
+    {
+        "title": "A hash-based post-quantum ring signature scheme for the Internet of Vehicles",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762125000177"
+    },
+    {
+        "title": "A load-balanced acceleration method for small and irregular batch matrix multiplication on GPU",
+        "url": "https://www.sciencedirect.com/science/article/pii/S138376212500013X"
+    },
+    {
+        "title": "Real-time scheduling for multi-object tracking tasks in regions with different criticalities",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762125000219"
+    },
+    {
+        "title": "Fast post-quantum private set intersection from oblivious pseudorandom function for mobile social networks",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762125000189"
+    },
+    {
+        "title": "GTA: Generating high-performance tensorized program with dual-task scheduling",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762125000311"
+    },
+    {
+        "title": "EDF-based Energy-Efficient Probabilistic Imprecise Mixed-Criticality Scheduling",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762125000335"
+    },
+    {
+        "title": "Collaborative optimization of offloading and pricing strategies in dynamic MEC system via Stackelberg game",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762125000323"
+    },
+    {
+        "title": "Quantum-safe identity-based designated verifier signature for BIoMT",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762125000347"
+    },
+    {
+        "title": "Designing secure blockchain-based authentication and key management mechanism for Internet of Drones applications",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762125000372"
+    },
+    {
+        "title": "Lightweight batch authentication and key agreement scheme for IIoT gateways",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762125000402"
+    },
+    {
+        "title": "ProckStore: An NDP-empowered key-value store with asynchronous and multi-threaded compaction scheme for optimized performance",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762125000141"
+    },
+    {
+        "title": "Eliminating duplicate writes of logging via no-logging flash translation layer in SSDs",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762125000190"
+    },
+    {
+        "title": "StorStack: A full-stack design for in-storage file systems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762125000207"
+    },
+    {
+        "title": "Component-based architectural regression test selection for modularized software systems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762125000153"
+    },
+    {
+        "title": "An efficient string solver for string constraints with regex-counting and string-length",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762125000128"
+    }
+]

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217304996",
+    "title": "Evolutionary algorithm using adaptive fuzzy dominance and reference point for many-objective optimization",
+    "abstract": "Many-objective optimization is very important for numerous practical applications. It, however, poses a great challenge to the Pareto dominance based evolutionary algorithms. In this paper, a fuzzy dominance based evolutionary algorithm is proposed for many-objective optimization. The essence of the proposed algorithm is that it adaptively determines a fuzzy membership function for each objective of a given many-objective optimization problem and employs preferred reference points for clustering evolved solutions. Our algorithm uses distribution information of the evolving population to find preferred reference points from a set of generated reference points. The aim of using such preferred points is to emphasize both convergence and diversity of all the evolved solutions by maintaining cluster uniformity and handling irregular Pareto front. Extensive experimentation has been performed on a number of benchmark problems in evolutionary computing, including nine Waking-Fish-Group and seven Deb-Thiele-Laumanns-Zitzler benchmark problems having 2 to 25 objectives. In addition, we have investigated the performance of the proposed algorithm on three instances of degenerate Rectangle Problems. The experimental results show that the proposed algorithm is able to solve many-objective optimization problems efficiently, and it is compared favorably with the other evolutionary algorithms devised for such problems. A parametric study is also provided to understand the influence of a key parameter of the proposed algorithm.",
+    "citation_count": "34",
+    "year": "2019/02/01",
+    "authors": [
+        {
+            "name": "Siddhartha Shankar Das",
+            "country": ""
+        },
+        {
+            "name": "Md Monirul Islam",
+            "country": ""
+        },
+        {
+            "name": "Naheed Anjum Arafat",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

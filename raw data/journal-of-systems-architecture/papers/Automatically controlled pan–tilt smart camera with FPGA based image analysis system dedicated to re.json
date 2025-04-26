@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762115000971",
+    "title": "Automatically controlled pan–tilt smart camera with FPGA based image analysis system dedicated to real-time tracking of a moving object",
+    "abstract": "This paper presents an intelligent, automatically controlled camera based on visual feedback. The camera housing contains actuators that change the orientation of the camera – enabling a full rotation around the vertical axis (pan) and 90° around the horizontal axis (tilt). A system for acquisition, processing image analysis and a camera driver are implemented in the FPGA Xilinx Spartan-6 device. An original, innovative reconfigurable system architecture has been developed. The FPGA device is connected directly to the eight independently operated SRAM memory banks. A prototype device has been constructed with a real-time tracking algorithm, enabling an automatically control of the position of the camera. The device has been tested indoors and outdoors. The camera is able to keep a tracked object close to the center of its field of view. The power consumption of the control system is 2   W. A reconfigurable part reaches the computing performance of 3200 MOPS.",
+    "citation_count": "12",
+    "year": "2015/11/01",
+    "authors": [
+        {
+            "name": "Artur Zawadzki",
+            "country": ""
+        },
+        {
+            "name": "Marek Gorgoń",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

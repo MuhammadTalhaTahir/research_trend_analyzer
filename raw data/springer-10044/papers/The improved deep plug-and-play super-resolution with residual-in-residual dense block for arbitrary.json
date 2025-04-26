@@ -1,0 +1,36 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-023-01192-6",
+    "title": "The improved deep plug-and-play super-resolution with residual-in-residual dense block for arbitrary blur kernels",
+    "abstract": "Single-image super-resolution (SISR) reconstruction has highly academic and practical values. The deep plug-and-play super-resolution (DPSR) framework has been proposed to super-resolve low-resolution (LR) images with arbitrary blur kernels. However, DPSR does not make full use of hierarchical features from original LR images, thereby achieving relatively-low performance, such as getting low average peak signal to noise ratio (PSNR) and structural similarity (SSIM) values. Considering residual-in-residual dense block (RRDB) can exploit hierarchical features, in this paper, firstly, RRDB is introduced to design an improved DPSR (IDPSR) framework with RRDB for arbitrary blur kernels. Secondly, the RRDB is adopted to replace the deep feature extraction part in DPSR in order to extract abundant local features, which makes the network capacity higher benefiting from the dense connections. The residual learning in different levels in RRDB can obtain high quality images. Finally, the test experiments are based on Set5, Set14, Urban100 and BSD100 datasets. The experimental results show that, under different blur kernels and different scale factors, PSNR and SSIM values of our proposed method increase by 0.34dB and 0.68%, respectively; under different noise levels, the average PSNR and SSIM values increase by 0.27dB and 1.01%, respectively.",
+    "citation_count": 37,
+    "year": "2023/11",
+    "authors": [
+        {
+            "name": "Xu, Chao",
+            "country": "China"
+        },
+        {
+            "name": "Yang, Xiaoling",
+            "country": "China"
+        },
+        {
+            "name": "Li, Shan",
+            "country": "China"
+        },
+        {
+            "name": "Huang, Xiangdong",
+            "country": "China"
+        },
+        {
+            "name": "Pan, Hongguang",
+            "country": "China"
+        },
+        {
+            "name": "Lei, Xinyu",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650225000215",
+    "title": "A large-scale optimization algorithm based on variable decomposition and space compression",
+    "abstract": "Optimizing large-scale problem is very challenging due to the unknown landscape, huge search space of countless combinations of decision variables and the inner complexity of the problem. To better solve this kind of problem, a decomposition and compression based algorithm (DCBA) is proposed to decompose the problem and compress the search space for efficient optimization. Firstly, three space compression based linear search methods are designed with two functionalities: (1) to carry out a quick and rough optimization and find relatively good initial solutions; (2) to gather important information of each dimension (decision variable) for subsequent processing. In the three linear search methods, we design ways to evaluate the search region and compress it into smaller regions that may contain better solutions. Then, four decomposition methods are designed for fully non-separable large-scale problems. These methods can generate as many as twenty-nine different decomposition results to enhance the decomposition diversity in order to make a better trade-off of the non-separability characteristic and the decomposition for complexity reduction of fully non-separable large-scale problems. Finally, a decomposition and compression based algorithm (DCBA) is proposed to solve large-scale problems. Numerical experiments are conducted on two widely used benchmark suites and comparisons with state-of-the-art algorithms are made. The results show that the proposed algorithm is effective and efficient.",
+    "citation_count": "0",
+    "year": "2025/04/01",
+    "authors": [
+        {
+            "name": "Haiyan Liu",
+            "country": ""
+        },
+        {
+            "name": "Wenlong Song",
+            "country": ""
+        },
+        {
+            "name": "Yi Cheng",
+            "country": ""
+        },
+        {
+            "name": "Shouheng Tuo",
+            "country": ""
+        },
+        {
+            "name": "Yuping Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

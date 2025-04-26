@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623002597",
+    "title": "Multi-scale conditional reconstruction generative adversarial network",
+    "abstract": "Generative adversarial network has become the factual standard for high-quality  image synthesis . However, modeling the distribution of complex datasets (e.g. ImageNet and COCO-Stuff) remains challenging in unsupervised approaches. This is partly due to the imbalance between the generator and the  discriminator  during training, the  discriminator  easily defeats the generator because of special views. In this paper, we propose a model called multi-scale conditional reconstruction GAN (MS-GAN). The core concept of MS-GAN is to model the local density implicitly using different scales of instance conditions. Instance conditions are extracted from the target images via a self-supervised learning model. In addition, we alignment the semantic features of the observed instances by adding an additional reconstruction loss to the generator. Our MS-GAN can aggregate instance features at different scales and maximize semantic features. This allows the generator to learn additional comparative knowledge from instance features, leading to a better feature representation, thus improving the performance of the generation task. Experimental results on the ImageNet dataset and the COCO-Stuff dataset show that our method matches or exceeds the original performance in both FID and IS scores compared to the IC-GAN framework. Additionally, our precision score on the ImageNet dataset improved from 74.2% to 79.9%.",
+    "citation_count": "0",
+    "year": "2024/01/01",
+    "authors": [
+        {
+            "name": "Yanming Chen",
+            "country": ""
+        },
+        {
+            "name": "Jiahao Xu",
+            "country": ""
+        },
+        {
+            "name": "Zhulin An",
+            "country": ""
+        },
+        {
+            "name": "Fuzhen Zhuang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

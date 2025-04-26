@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885615001158",
+    "title": "Robust face hallucination using ensemble of feature-based regression functions and classifiers",
+    "abstract": "An example-based face hallucination system is proposed, in which given a low-resolution  facial image , a corresponding high-resolution image is automatically obtained. In practice, such a problem is extremely challenging since it is often the case that two discriminative high-resolution images may have similar low-resolution inputs. To address this issue, this study proposes an ensemble of  image feature  representations, including various local patch- or block-based representations, a one-dimensional vector image representation, a two-dimensional matrix image representation, and a global matrix image representation. Notably, some of these representations are designed to preserve the global facial geometry of the low-resolution input, while others are designed to preserve the local detailed texture. For each feature representation, a  regression function  is constructed to synthesize a high-resolution image from the low-resolution input image. The  synthesis process  is conducted in a layer-by-layer fashion, with the output from one layer serving as the input to the following layer. Importantly, each  regression function  is associated with a classifier in order to determine which regression functions are required in the synthesis procedure in accordance with the particular characteristics of the input image. Furthermore, these classifiers can also help to deal with the individual ambiguity of system low-resolution inputs. The experimental results show that the proposed framework is capable of synthesizing high-resolution images from low-resolution input images with a wide variety of facial poses, geometry misalignments and facial expressions even when such images are not included within the original training dataset.",
+    "citation_count": "4",
+    "year": "2015/12/01",
+    "authors": [
+        {
+            "name": "Ching-Ting Tu",
+            "country": ""
+        },
+        {
+            "name": "Jang-Ren Luo",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-012-9493-8",
+    "title": "The broadcast median problem in heterogeneous postal model",
+    "abstract": "We propose the problem of finding broadcast medians in heterogeneous networks. A heterogeneous network is represented by a graph G=(V,E), in which each edge has a weight that denotes the communication time between its two end vertices. The overall delay of a vertex v∈V(G), denoted as b(v,G), is the minimum sum of the communication time required to send a message from v to all vertices in G. The broadcast median problem consists of finding the set of vertices v∈V(G) with minimum overall delay b(v,G) and determining the value of b(v,G). In this paper, we consider the broadcast median problem following the heterogeneous postal model. Assuming that the underlying graph G is a general graph, we show that computing b(v,G) for an arbitrary vertex v∈V(G) is NP-hard. On the other hand, assuming that G is a tree, we propose a linear time algorithm for the broadcast median problem in heterogeneous postal model.",
+    "citation_count": 14,
+    "year": "2013/05",
+    "authors": [
+        {
+            "name": "Tsou, Cheng-Hsiao",
+            "country": "Taiwan"
+        },
+        {
+            "name": "Chen, Gen-Huey",
+            "country": "Taiwan"
+        },
+        {
+            "name": "Yu, Hung-I",
+            "country": "Taiwan"
+        },
+        {
+            "name": "Lin, Ching-Chi",
+            "country": "Taiwan"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

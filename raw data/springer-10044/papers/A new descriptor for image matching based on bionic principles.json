@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-017-0605-z",
+    "title": "A new descriptor for image matching based on bionic principles",
+    "abstract": "After millions of years of evolution, nature has developed a wide variety of interesting structures, each with their own singularities and properties. Such structures provide several unique and innovative models which may be extended to solve complex engineering problems. One example of such structures is the so-called orb webs, built by many species of a spider as a part of their survival tactics. Orb webs are highly optimized structure, specifically devised to capture prey by efficiently covering a whole area with sticky threads. In this paper, a new feature descriptor called spider local image features (SLIF) is proposed. In the proposed approach, feature vectors are built by selectively extracting pictorial information from a set of previously detected interest point. This is achieved by considering a set of efficiently distributed sampling points, which emulate the intersection nodes formed by the threads of an orb web structure. The SLIF method produces simple low-dimensional feature descriptors, which are robust to several image transformation and distortions, such as scaling, rotation, bright shifts and viewpoint changes. In order to illustrate the proficiency and robustness of the proposed approach, it is compared to other well-known feature description methods, such as those presented on the scale-invariant feature transform, speeded-up robust features, binary robust scalable keypoints and fast retina keypoints. The comparison examines several different images, commonly considered as a benchmark within the image matching literature. Our experimental results evidence SLIF’s high performance and robustness against common image transformations and distortions and further show its viability for many of computer vision applications.",
+    "citation_count": 28,
+    "year": "2017/11",
+    "authors": [
+        {
+            "name": "Fausto, Fernando",
+            "country": "Mexico"
+        },
+        {
+            "name": "Cuevas, Erik",
+            "country": "Mexico"
+        },
+        {
+            "name": "Gonzales, Adrián",
+            "country": "Mexico"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

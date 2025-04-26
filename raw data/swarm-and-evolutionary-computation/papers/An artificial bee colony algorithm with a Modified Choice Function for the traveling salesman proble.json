@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217309446",
+    "title": "An artificial bee colony algorithm with a Modified Choice Function for the traveling salesman problem",
+    "abstract": "The Artificial Bee Colony (ABC) algorithm is a  swarm intelligence  approach which has initially been proposed to solve optimisation of mathematical test functions with a unique neighbourhood search mechanism. This neighbourhood search mechanism could not be directly applied to combinatorial discrete  optimisation problems . In order to tackle combinatorial  discrete optimisation  problems, the employed and onlooker bees need to be equipped with problem-specific perturbative heuristics. However, a large variety of problem-specific heuristics are available, and it is not an easy task to select an appropriate heuristic for a specific problem. In this paper, a hyper-heuristic method, namely a Modified Choice Function (MCF), is applied such that it can regulate the selection of the neighbourhood  search heuristics  adopted by the employed and onlooker bees automatically. The Lin-Kernighan (LK)  local search  strategy is integrated to improve the performance of the proposed model. To demonstrate the effectiveness of the proposed model, 64  Traveling Salesman Problem  (TSP) instances available in TSPLIB are evaluated. On average, the proposed model solves the 64 instances to 0.055% from the known optimum within approximately 2.7 min. A performance comparison with other state-of-the-art algorithms further indicates the effectiveness of the proposed model.",
+    "citation_count": "100",
+    "year": "2019/02/01",
+    "authors": [
+        {
+            "name": "Shin Siang Choong",
+            "country": ""
+        },
+        {
+            "name": "Li-Pei Wong",
+            "country": ""
+        },
+        {
+            "name": "Chee Peng Lim",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

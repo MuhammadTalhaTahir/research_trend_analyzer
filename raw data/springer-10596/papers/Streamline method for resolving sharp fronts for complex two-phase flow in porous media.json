@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-018-9767-z",
+    "title": "Streamline method for resolving sharp fronts for complex two-phase flow in porous media",
+    "abstract": "In this paper, we present a fast streamline-based numerical method for the two-phase flow equations in high-rate flooding scenarios for incompressible fluids in heterogeneous and anisotropic porous media. A fractional flow formulation is adopted and a discontinuous Galerkin method (DG) is employed to solve the pressure equation. Capillary effects can be neglected in high-rate flooding scenarios. This allows us to present an improved streamline approach in combination with the one-dimensional front tracking method to solve the transport equation. To handle the high computational costs of the DG approximation, domain decomposition is applied combined with an algebraic multigrid preconditioner to solve the linear system. Special care at the interior interfaces is required and the streamline tracer has to include a dynamic communication strategy. The method is validated in various two- and three-dimensional tests, where comparisons of the solutions in terms of approximation of flow front propagation with standard fully implicit finite-volume methods are provided.",
+    "citation_count": 83,
+    "year": "2018/12",
+    "authors": [
+        {
+            "name": "Vidotto, Ettore",
+            "country": "Germany"
+        },
+        {
+            "name": "Helmig, Rainer",
+            "country": "Germany"
+        },
+        {
+            "name": "Schneider, Martin",
+            "country": "Germany"
+        },
+        {
+            "name": "Wohlmuth, Barbara",
+            "country": "Germany"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

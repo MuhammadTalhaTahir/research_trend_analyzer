@@ -1,0 +1,90 @@
+[
+    {
+        "title": "Editorial Board",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122002120"
+    },
+    {
+        "title": "Efficient persistent memory file systems using virtual superpages with multi-level allocator",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001552"
+    },
+    {
+        "title": "Privacy-preserving bidirectional keyword search over encrypted data for cloud-assisted IIoT",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001631"
+    },
+    {
+        "title": "A traceable and revocable multi-authority access control scheme with privacy preserving for mHealth",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001692"
+    },
+    {
+        "title": "Root cause analysis of soft-error-induced failures from hardware and software perspectives",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001680"
+    },
+    {
+        "title": "Federated time persistency in intermittently powered IoT systems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001795"
+    },
+    {
+        "title": "A blockchain-based dynamic and traceable data integrity verification scheme for smart homes",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001850"
+    },
+    {
+        "title": "Towards an energy-efficient quarter-clairvoyant mixed-criticality system",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001886"
+    },
+    {
+        "title": "CPP: A lightweight memory page management extension to prevent code pointer leakage",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001862"
+    },
+    {
+        "title": "Offline/Online lattice-based ciphertext policy attribute-based encryption",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001898"
+    },
+    {
+        "title": "Evaluating a multicore Mixed-Criticality System implementation against a temporal isolation kernel",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001916"
+    },
+    {
+        "title": "Hardware-assisted mechanisms to enforce control flow integrity: A comprehensive survey",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001643"
+    },
+    {
+        "title": "Translating a large subset of stateflow to hybrid CSP with code optimization",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001783"
+    },
+    {
+        "title": "Verifying the safety properties of distributed systems via mergeable parallelism",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001655"
+    },
+    {
+        "title": "Lightweight ID-based broadcast signcryption for cloud–fog-assisted IoT",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001667"
+    },
+    {
+        "title": "A storage computing architecture with multiple NDP devices for accelerating compaction performance in LSM-tree based KV stores",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001874"
+    },
+    {
+        "title": "Blockchain-based authentication for IIoT devices with PUF",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001618"
+    },
+    {
+        "title": "Qore-DL: A QoS-aware joint optimization framework for distributed deep learning training",
+        "url": "https://www.sciencedirect.com/science/article/pii/S138376212200162X"
+    },
+    {
+        "title": "SafeCom: Robust mutual authentication and session key sharing protocol for underwater wireless sensor networks",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001679"
+    },
+    {
+        "title": "Edge intelligence in motion: Mobility-aware dynamic DNN inference service migration with downtime in mobile edge computing",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001771"
+    },
+    {
+        "title": "Siamese Transformer Network: Building an autonomous real-time target tracking system for UAV",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001849"
+    },
+    {
+        "title": "Partition window assignment in hierarchically scheduled time-partitioned distributed real-time systems with multipath flows",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001825"
+    }
+]

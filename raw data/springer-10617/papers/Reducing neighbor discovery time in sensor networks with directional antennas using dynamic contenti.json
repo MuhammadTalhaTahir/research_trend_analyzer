@@ -1,0 +1,26 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10617-020-09236-4",
+    "title": "Reducing neighbor discovery time in sensor networks with directional antennas using dynamic contention resolution",
+    "abstract": "In this paper we present, simulate, and evaluate Dynamic Asynchronous Neighbor Discovery protocol for Directional Antennas (DANDi), a neighbor discovery protocol for Wireless Sensor Networks (WSN) with directional antennas that guarantees that every reliable communication link in a network is discovered. DANDi is asynchronous, fully directional (supports both directional transmissions and receptions) and has a dynamic contention resolution mechanism based on the detection of packet collisions, so no network topology information is needed in advance. We propose, implement and evaluate a mechanism to identify these collisions, both in simulations and with real nodes. DANDi is implemented in Contiki OS, an open-source operating system for WSN and the Internet of Things, and extensively tested. First using the COOJA network simulator and then with real Tmote Sky nodes equipped with 6-sectored antennas. The neighbor discovery times are analyzed and analytical expressions for these times are presented. The DANDi protocol performance is compared with Sectored-Antenna Neighbor Discovery, a state-of-the-art protocol for this kind of networks. Our experiments show that the discovery time can be reduced up to four times in average depending on the network topology, while discovering every reliable sector-to-sector link. To the best of our knowledge, DANDi is the fastest protocol that is able to discover every reliable link in a network without requiring any prior information of the network topology.",
+    "citation_count": 19,
+    "year": "2020/12",
+    "authors": [
+        {
+            "name": "Gammarano, Nicolás",
+            "country": "Uruguay"
+        },
+        {
+            "name": "Schandy, Javier",
+            "country": "Uruguay"
+        },
+        {
+            "name": "Steinfeld, Leonardo",
+            "country": "Uruguay"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

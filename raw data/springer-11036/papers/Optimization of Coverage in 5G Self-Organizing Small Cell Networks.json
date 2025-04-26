@@ -1,0 +1,35 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-017-0983-x",
+    "title": "Optimization of Coverage in 5G Self-Organizing Small Cell Networks",
+    "abstract": "Heterogeneous two-tier network with hybrid deployed small cells and macrocells is a promising solution for fifth generation (5G) wireless networks. However, with the higher and higher spectrum band used in 5G, the coverage and capacity of indoor environment is not good enough for the users’ increasing demand. In this paper, we proposed a self-organizing capacity and coverage optimization scheme using power adaptation to enhance the capacity and improve the coverage. Simulation results show that the proposed self-organizing scheme can effectively improve the capacity and coverage.",
+    "citation_count": 30,
+    "year": "2018/12",
+    "authors": [
+        {
+            "name": "Chen, Yu",
+            "country": "China"
+        },
+        {
+            "name": "Guo, Zhi",
+            "country": "China"
+        },
+        {
+            "name": "Yang, Xiuqing",
+            "country": "China"
+        },
+        {
+            "name": "Hu, Yi",
+            "country": "China"
+        },
+        {
+            "name": "Zhu, Qinghua",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

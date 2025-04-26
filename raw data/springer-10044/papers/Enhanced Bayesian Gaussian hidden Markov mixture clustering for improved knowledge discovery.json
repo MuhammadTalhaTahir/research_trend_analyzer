@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-024-01374-w",
+    "title": "Enhanced Bayesian Gaussian hidden Markov mixture clustering for improved knowledge discovery",
+    "abstract": "The hidden Markov model (HMM) is widely utilized in natural language processing, speech recognition, autonomous vehicular systems, and healthcare for tasks such as clustering, pattern recognition, predictive modeling, anomaly detection, and time-series forecasting. However, HMMs can be sensitive to initial states, compromising clustering reliability. To address this issue, we propose an innovative integration of an HMM with hybrid distance metric learning and a modified Bayesian Gaussian mixture model (BGMM) to enhance clustering performance and robustness. A significant challenge in HMM applications is determining the optimal number of hidden states. We address this using a k-fold cross-validation strategy. Implementing our Bayesian Gaussian Hidden Markov Mixture Clustering Model (BGH2MCM) on five diverse datasets, we categorize the observed data sequences according to underlying hidden state sequences. This approach yields superior outcomes to conventional techniques such as K-means, agglomerative clustering, density-based spatial clustering of applications with noise (DBSCAN), and the BGMM. We evaluate the efficiency of our model using silhouette, Davies–Bouldin, and Calinski–Harabasz scores, accuracy metrics, and computation time. Our results demonstrate that the BGH2MCM consistently achieves better clustering quality and computational efficiency, showing an average computation time 23% lower than agglomerative clustering with HMM, 22% less than DBSCAN with HMM, and 14% lower than K-means with the HMM and a BGMM-HMM across all datasets. This study highlights the potential of our BGH2MCM to improve data mining and knowledge discovery practices from complex, real-world datasets.",
+    "citation_count": 39,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "Ganesan, Anusha",
+            "country": "South Korea"
+        },
+        {
+            "name": "Paul, Anand",
+            "country": "USA"
+        },
+        {
+            "name": "Kim, Sungho",
+            "country": "South Korea"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

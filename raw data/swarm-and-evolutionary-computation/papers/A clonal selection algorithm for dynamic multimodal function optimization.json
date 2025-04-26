@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218300919",
+    "title": "A clonal selection algorithm for dynamic multimodal function optimization",
+    "abstract": "The objective of dynamic multimodal  optimization problems  (DMMOPs) is to find all  global optima  in a dynamic environment. Although  dynamic optimization  problems (DOPs) have been widely studied in the field of nature-inspired computation, DMMOPs have not yet been paid significant attention yet. It is a challenging task for the classic  clonal selection  algorithm (CSA) to track all the moving global optima of dynamic multimodal optimization problems. The population of the classic CSA tends to converge to a single optimum, and the shortage of population diversity prevents the classic CSA from adapting to environmental changes. To address these limitations, this paper proposes a so-called dynamic multimodal clonal  selection algorithm  (DMMCSA). DMMCSA incorporates a niching method called nearest-better clustering, and adapts the scale factor of the hypermutation operator according to the distances among individuals. Experiments on benchmark problems show that DMMCSA significantly outperforms CSA in terms of tracking all the global optima of DMMOPs.",
+    "citation_count": "56",
+    "year": "2019/11/01",
+    "authors": [
+        {
+            "name": "Wenjian Luo",
+            "country": ""
+        },
+        {
+            "name": "Xin Lin",
+            "country": ""
+        },
+        {
+            "name": "Tao Zhu",
+            "country": ""
+        },
+        {
+            "name": "Peilan Xu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

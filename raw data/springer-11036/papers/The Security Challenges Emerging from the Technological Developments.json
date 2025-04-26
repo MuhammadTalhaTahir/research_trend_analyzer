@@ -1,0 +1,31 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-018-01208-0",
+    "title": "The Security Challenges Emerging from the Technological Developments",
+    "abstract": "An increase number of cyberattacks on public and private organizations have been performed by exploiting their social and technological vulnerabilities. Mainly, these attacks aim to obtain illegal profits by extorting organizations, affecting their reputation and normal operation. In order to minimize the impact of these attacks, it is essential that these organizations not only implement preventive actions and efficient security mechanisms, but also continually evaluate the security risks their staff are exposed to when performing their job tasks. This paper presents a case study to assess the private and public Portuguese organizations security related practices followed by their staff. The results obtained by a conducted survey allow the analysis of behaviours and practices followed by the staff of these organizations and also allow to draw conclusions about their security procedures and risk awareness.",
+    "citation_count": 19,
+    "year": "2019/12",
+    "authors": [
+        {
+            "name": "Costa, Paulo",
+            "country": "Portugal"
+        },
+        {
+            "name": "Montenegro, Ricardo",
+            "country": "Portugal"
+        },
+        {
+            "name": "Pereira, Teresa",
+            "country": "Portugal"
+        },
+        {
+            "name": "Pinto, Pedro",
+            "country": "Portugal"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

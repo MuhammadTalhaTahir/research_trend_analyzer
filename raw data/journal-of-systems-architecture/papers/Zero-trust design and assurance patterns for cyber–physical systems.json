@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S138376212400198X",
+    "title": "Zero-trust design and assurance patterns for cyber–physical systems",
+    "abstract": "Security is paramount in all mission-critical domains, including the aerospace industry. Cyber-attacks are increasing both in number and sophistication. Zero-trust is an emerging initiative that has proven very effective for enterprise systems in the Information Technology domain; however, research is lacking on applicable zero-trust mechanisms and their assurance for cyber–physical systems (CPS). We have already identified various zero-trust mechanisms in our previous work. In this paper, we present our zero-trust architecture design patterns and provide a methodology for the assurance of these mechanisms. Towards this objective, we have identified an initial set of assurance patterns covering individual zero-trust components in a system design. Our design and assurance patterns are made available to system engineers in pattern libraries. Engineers can model system architectures and utilize one or more of these patterns to provide design assurance based on individual zero-trust security requirements to improve the overall system cyber-security. To demonstrate our approach, we apply our assurance patterns to an unmanned aerial vehicle surveillance application. We discuss how our framework leverages the use of these patterns to develop zero-trust-enabled systems with different security requirements. Furthermore, our assurance patterns enable engineers to identify any design flaws and correct them during the initial system design phase, thus saving development time, effort, and cost. As a result, the overall approach can be utilized to design system models with specific zero-trust security requirements to improve the security posture of a CPS.",
+    "citation_count": "0",
+    "year": "2024/10/01",
+    "authors": [
+        {
+            "name": "Saqib Hasan",
+            "country": ""
+        },
+        {
+            "name": "Isaac Amundson",
+            "country": ""
+        },
+        {
+            "name": "David Hardin",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-010-9187-1",
+    "title": "On the interface error analysis for finite difference wave simulation",
+    "abstract": "A common way to construct a finite difference scheme is to satisfy a desired order of approximation, typically as high as possible. For linear wave propagation problem approximation together with stability delivers convergence of the same order as approximation. If a wave propagation proses is considered convergence to a plane wave solution can be derived analytically by means of the dispersion analysis. However, mentioned techniques are applicable only to homogeneous media and provide no knowledge of reflection/transmission coefficients. In this paper we prove that the only way to get second order accuracy of the solution for media with discontinuous parameters is to use a conservative finite difference scheme of the second order, and the only way to do this is to use the arithmetic mean for the density and the harmonic mean for the bulk modulus in the vicinity of the interface.",
+    "citation_count": 30,
+    "year": "2010/09",
+    "authors": [
+        {
+            "name": "Lisitsa, Vadim",
+            "country": "Russia"
+        },
+        {
+            "name": "Podgornova, Olga",
+            "country": "Russia"
+        },
+        {
+            "name": "Tcheverda, Vladimir",
+            "country": "Russia"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

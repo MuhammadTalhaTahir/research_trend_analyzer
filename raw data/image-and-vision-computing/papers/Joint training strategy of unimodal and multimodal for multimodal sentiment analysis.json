@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002774",
+    "title": "Joint training strategy of unimodal and multimodal for multimodal sentiment analysis",
+    "abstract": "With the explosive growth of social media video content, research on multimodal sentiment analysis (MSA) has attracted considerable attention recently. Despite significant progress in MSA, there remains challenges: current research mostly focuses on learning either unimodal features or aspects of multimodal interactions, neglecting the importance of simultaneously considering both unimodal features and intermodal interactions. To address the aforementioned challenges, this paper proposes a fusion strategy called Joint Training of Unimodal and Multimodal (JTUM). Specifically, this strategy combines unimodal label generation module with cross-modal transformer. The unimodal label generation module aims to generate more distinctive labels for each unimodal input, facilitating more effective learning of unimodal representations. Meanwhile, cross-modal transformer is designed to treat each modality as a target modality and optimize it using other modalities as source modalities, thereby learning the interactions between each pair of modalities. By jointly training unimodal and multimodal tasks, our model can focus on individual modality features while learning the interactions between modalities. Finally, to better capture temporal information and make predictions, we also added self-attention transformer as sequence models. Experimental results on the CMU-MOSI and CMU-MOSEI datasets demonstrate that JTUM outperforms current main methods.",
+    "citation_count": "3",
+    "year": "2024/09/01",
+    "authors": [
+        {
+            "name": "Meng Li",
+            "country": ""
+        },
+        {
+            "name": "Zhenfang Zhu",
+            "country": ""
+        },
+        {
+            "name": "Kefeng Li",
+            "country": ""
+        },
+        {
+            "name": "Lihua Zhou",
+            "country": ""
+        },
+        {
+            "name": "Zhen Zhao",
+            "country": ""
+        },
+        {
+            "name": "Hongli Pei",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

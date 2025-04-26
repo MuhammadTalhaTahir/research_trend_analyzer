@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001096",
+    "title": "A novel centralized coded caching scheme for edge caching basestation",
+    "abstract": "With the development of microprocessor technology, the base stations (BSs) are equipped with more and more powerful storage and computing ability and then can be used as edge servers in the edge computing network. As a result, there is an extreme pressure on transmission load in the edge computing network during the peak traffic time. Coded caching is regarded as an efficient technology to reduce the transmission load. In this paper, we focus on designing the coded caching scheme for any fixed subpacketization and dynamic number of users by constructing an appropriate matrix called placement delivery array (PDA) based on Maddah-Ali and Niesen (MN) scheme. In order to accommodate the dynamic number of users, we remove some columns from the right side of the well known conjugate MN PDA to obtain a new flexible PDA with dynamic column number. It is worth noting that when the number of columns deleted is in a certain range, the transmission load of the scheme realized by our obtained PDA is order optimal. In addition, when the number of columns deleted satisfies a certain condition, by means of combinatorial method we can obtain an improved PDA which leads to a smaller transmission load.",
+    "citation_count": "7",
+    "year": "2022/07/01",
+    "authors": [
+        {
+            "name": "Minquan Cheng",
+            "country": ""
+        },
+        {
+            "name": "Longsong Liu",
+            "country": ""
+        },
+        {
+            "name": "Jinyu Wang",
+            "country": ""
+        },
+        {
+            "name": "Qingyong Deng",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

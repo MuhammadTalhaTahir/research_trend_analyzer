@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/026288569598754H",
+    "title": "Vision and action",
+    "abstract": "Our work on active vision has recently focused on the computational modelling of navigational tasks, where our investigations were guided by the idea of approaching vision for behavioural systems in the form of modules that are directly related to perceptual tasks. These studies led us to branch in various directions and inquire into the problems that have to be addressed in order to obtain an overall understanding of perceptual systems. In this paper, we present our views about the architecture of vision systems, about how to tackle the design and analysis of perceptual systems, and promising future research directions. Our suggested approach for understanding behavioural vision to realize the relationships of perception and action builds on two earlier approaches, the Medusa philosophy 1  and the Synthetic approach 2 . The resulting framework calls for synthesizing an artificial vision system by studying vision competences of increasing complexity and, at the same time, pursuing the integration of the perceptual components with action and learning modules. We expect that computer vision research in the future will progress in tight collaboration with many other disciplines that are concerned with empirical approaches to vision, i.e. the understanding of biological vision. Throughout the paper, we describe biological findings that motivate computational arguments which we believe will influence studies of computer vision in the near future.",
+    "citation_count": "29",
+    "year": "1995/12/01",
+    "authors": [
+        {
+            "name": "Cornelia Fermüller",
+            "country": ""
+        },
+        {
+            "name": "Yiannis Aloimonos",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

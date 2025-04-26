@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762123002114",
+    "title": "An efficient multi-data owner cooperative resource sharing scheme against key regeneration in edge computing",
+    "abstract": "In cloud storage, attribute-based keyword searchable encryption realizes multi-user fine-grained authorization access control and outsourcing data sharing. However, (1) resisting key regeneration is an urgent problem to be solved in practical applications of attribute-based  keyword search ; (2) the general attribute-based keyword search scheme ignores the application scenario where multiple data owners jointly manage files. In addition, the interaction of data between intelligent terminals and cloud servers has become more frequent, leading to issues such as central load, transmission efficiency, and data privacy protection in  cloud computing . To address the above issues, we propose an attribute-based  searchable encryption scheme  with the multi-data owner based on  edge computing . In this scheme, the Pedersen  ( k , n )  secret sharing protocol and the Reciprocal protocol are used to realize the common management and sharing of data by the multi-data owner to enhance  data security . Secondly, the attribute set and  identity information  of each user are embedded into the private key to prevent key regeneration and resist user collusion attacks. Thirdly, edge computing is introduced, and part of the storage and decryption work is outsourced to edge nodes to reduce the computing load of users and data  transmission bandwidth . Security proof and performance analysis show that the proposed scheme has strong security and practicability in multi-user sharing scenarios such as  Online Education  with multi-data owners.",
+    "citation_count": "2",
+    "year": "2024/01/01",
+    "authors": [
+        {
+            "name": "Xue Yan Liu",
+            "country": ""
+        },
+        {
+            "name": "Li Juan Huan",
+            "country": ""
+        },
+        {
+            "name": "Wen Jing Li",
+            "country": ""
+        },
+        {
+            "name": "Rui Rui Sun",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-021-00715-3",
+    "title": "Non-resumable scheduling on a single bounded parallel-batch machine with periodic maintenance",
+    "abstract": "We consider the problem of scheduling a set of jobs with different processing times and sizes on a single bounded parallel-batch machine with periodic maintenance. Because the machine is in batch-processing model and the capacity is fixed, several jobs can be processed simultaneously in a batch provided that the total size of the jobs in the batch doesn’t exceed the machine capacity. And the processing time of a batch is the largest processing time of the jobs contained in the batch. Meanwhile, the production of each batch is non-resumable, that is, if a batch cannot be completed processing before some maintenance, that batch needs to be processed anew once the machine returns available. Our goal is to minimize the makespan. We first consider two special cases where the jobs have the same sizes or the same processing times, both of which are strongly NP-hard. We present two different approximation algorithms for them and show that these two algorithms have the same tight worst-case ratio of 2. We then consider the general case where the jobs have the arbitrary processing times and arbitrary sizes, for which we propose a 17/5-approximation algorithm.",
+    "citation_count": 18,
+    "year": "2022/07",
+    "authors": [
+        {
+            "name": "Fan, Jing",
+            "country": "China"
+        },
+        {
+            "name": "Shi, Hui",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

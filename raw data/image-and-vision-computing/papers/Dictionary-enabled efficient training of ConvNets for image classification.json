@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623000926",
+    "title": "Dictionary-enabled efficient training of ConvNets for image classification",
+    "abstract": "Convolutional networks  (ConvNets) are computationally expensive but well known for their performance on  image data . One way to reduce their complexity is to explore inherited data  sparsity . However, since the gradients involved in ConvNets require dynamic updates, applying data  sparsity  in the training step is not straightforward. Dictionary-based learning methods can be useful since they encode the original data in a sparse form. This paper proposes a new dictionary-based training paradigm for ConvNets by exploiting redundancy in the  training data  while keeping the distinctive features intact. The ConvNet is then trained on the reduced, sparse dataset. The new approach significantly reduces the training time without compromising accuracy. To the best of our knowledge, this is the first implementation of ConvNet on dictionary-based sparse training data. The proposed method is validated on three publicly available datasets â€“MNIST, USPS, and MNIST FASHION. The experimental results show a significant reduction of 4.5 times in the overall computational burden of vanilla ConvNet for all the datasets. Whereas the accuracy is intact at 97.21% for MNIST, 96.81% for USPS, and 88.4% for FASHION datasets. These results are comparable to state-of-the-art algorithms, such as ResNet-{18,34,50}, trained on the full training dataset.",
+    "citation_count": "4",
+    "year": "2023/07/01",
+    "authors": [
+        {
+            "name": "Usman Haider",
+            "country": ""
+        },
+        {
+            "name": "Muhammad Hanif",
+            "country": ""
+        },
+        {
+            "name": "Ahmar Rashid",
+            "country": ""
+        },
+        {
+            "name": "Syed Fawad Hussain",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001907",
+    "title": "Self-supervised Vision Transformers for 3D pose estimation of novel objects",
+    "abstract": "Object pose estimation is important for object manipulation and scene understanding. In order to improve the general applicability of pose estimators, recent research focuses on providing estimates for novel objects, that is, objects unseen during training. Such works use deep template matching strategies to retrieve the closest template connected to a query image, which implicitly provides object class and pose. Despite the recent success and improvements of Vision Transformers over CNNs for many vision tasks, the state of the art uses CNN-based approaches for novel object pose estimation. This work evaluates and demonstrates the differences between self-supervised CNNs and Vision Transformers for deep template matching. In detail, both types of approaches are trained using contrastive learning to match training images against rendered templates of isolated objects. At test time such templates are matched against query images of known and novel objects under challenging settings, such as clutter, occlusion and object symmetries, using masked cosine similarity. The presented results not only demonstrate that Vision Transformers improve matching accuracy over CNNs but also that for some cases pre-trained Vision Transformers do not need fine-tuning to achieve the improvement. Furthermore, we highlight the differences in optimization and network architecture when comparing these two types of networks for deep template matching.",
+    "citation_count": "0",
+    "year": "2023/11/01",
+    "authors": [
+        {
+            "name": "Stefan Thalhammer",
+            "country": ""
+        },
+        {
+            "name": "Jean-Baptiste Weibel",
+            "country": ""
+        },
+        {
+            "name": "Markus Vincze",
+            "country": ""
+        },
+        {
+            "name": "Jose Garcia-Rodriguez",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

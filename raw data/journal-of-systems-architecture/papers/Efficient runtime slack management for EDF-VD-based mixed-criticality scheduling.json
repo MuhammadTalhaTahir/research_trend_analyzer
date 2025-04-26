@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000904",
+    "title": "Efficient runtime slack management for EDF-VD-based mixed-criticality scheduling",
+    "abstract": "Mixed-criticality system is an emerging design paradigm to improve the resource-efficiency for real-time embedded system. However, the traditional mixed-criticality system is commonly designed under pessimistic constraints on overrun handling and slack utilization. These solutions cannot provide efficient  resource utilization  when considering the dynamic behaviors of MC system. In this paper, we present an efficient slack management framework to improve the resource efficiency of mixed-criticality system. In this framework, the overrun can be handled in a demand-aware manner, and the dynamic slack is further integrated to improve resource efficiency. The low-criticality dropping is improved in a multiple-step manner to avoid sharp degradation. Random simulation and a  case study  are conducted to show that our framework outperforms the state-of-the-art resource management approaches.",
+    "citation_count": "5",
+    "year": "2021/08/01",
+    "authors": [
+        {
+            "name": "Junjie Yang",
+            "country": ""
+        },
+        {
+            "name": "Guangyi Xu",
+            "country": ""
+        },
+        {
+            "name": "Gang Chen",
+            "country": ""
+        },
+        {
+            "name": "Nan Guan",
+            "country": ""
+        },
+        {
+            "name": "Kai Huang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

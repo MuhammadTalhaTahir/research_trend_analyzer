@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762117300322",
+    "title": "Towards decentralized system-level security for MPSoC-based embedded applications",
+    "abstract": "With the increasing connectivity and complexity of embedded systems, security issues have become a key consideration in design. In this paper, we propose a decentralized system-level approach for isolating application tasks without the need to rely on a centralized privileged authority at run-time. We discuss the need for isolation to reduce the potential impact of a task compromise or untrustworthy IP block, and present mechanisms to allow for safe sharing of memory regions and IP blocks between tasks in the system. After exploring the architectural requirements for enforcing our security model we present a hardware Isolation Unit, which can be customized for different types of dynamic permission changes depending on task-resource relationships and added to heterogeneous  MPSoCs  to enforce our security approach.",
+    "citation_count": "11",
+    "year": "2017/10/01",
+    "authors": [
+        {
+            "name": "Benjamin Tan",
+            "country": ""
+        },
+        {
+            "name": "Morteza Biglari-Abhari",
+            "country": ""
+        },
+        {
+            "name": "Zoran Salcic",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

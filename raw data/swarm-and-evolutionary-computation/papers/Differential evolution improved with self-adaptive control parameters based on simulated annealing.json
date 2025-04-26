@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650214000522",
+    "title": "Differential evolution improved with self-adaptive control parameters based on simulated annealing",
+    "abstract": "Nowadays, differential evolution (DE) has attracted more and more attention as an effective approach for solving  numerical optimization  problems. However, the fact that users have to set the control parameters of DE according to every single different problem makes the adjustment of control parameters a very time-consuming work. To solve the problem, this paper presents an enhanced self-adaptive differential evolution (ESADE) for global numerical optimization over continuous space. In this ESADE algorithm, different control parameters have been used to make mutation and crossover. Here is the detailed process: Firstly, it initializes two groups of population. Secondly, it generates a set of control parameters for one of the two populations and then further creates another new series of control parameters for the other population through mutating the initial control parameters. Thirdly, once the control parameters are generated, the two populations are mutated and crossed to produce two groups of trial vectors. Finally, the target vectors are selected from the two groups of trial vectors by selecting operation. In order to enhance its global search capabilities, simulated annealing (SA) are involved in the selecting operation and the control parameters with better performance are chosen as the initial control parameters of the next generation. By employing a set of 17 benchmark functions from previous literature, this study carried out extensive computational simulations and comparisons and the computational results showed that the ESADE algorithm generally performed better than the state-of-the-art differential evolution variants and PSO. Besides, the influences of initialized ambient temperature and simulated annealing on the performance of ESADE have also been tested. For the purpose of testing the application of ESADE in solving real-world problems, ESADE was applied to identify the parameters of proton exchange membrane fuel cell model. The results showed that ESADE was equal with other state-of-the-art differential evolution variants on performance.",
+    "citation_count": "56",
+    "year": "2014/12/01",
+    "authors": [
+        {
+            "name": "Haixiang Guo",
+            "country": ""
+        },
+        {
+            "name": "Yanan Li",
+            "country": ""
+        },
+        {
+            "name": "Jinling Li",
+            "country": ""
+        },
+        {
+            "name": "Han Sun",
+            "country": ""
+        },
+        {
+            "name": "Deyun Wang",
+            "country": ""
+        },
+        {
+            "name": "Xiaohong Chen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

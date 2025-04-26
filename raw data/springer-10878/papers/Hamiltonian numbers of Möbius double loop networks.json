@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-010-9360-4",
+    "title": "Hamiltonian numbers of Möbius double loop networks",
+    "abstract": "For the study of hamiltonicity of graphs and digraphs, Goodman and Hedetniemi introduced the concept of Hamiltonian number. The Hamiltonian number h(D) of a digraph D is the minimum length of a closed walk containing all vertices of D. In this paper, we study Hamiltonian numbers of the following proposed networks, which include strongly connected double loop networks. For integers d≥1, m≥1 and ℓ≥0, the Möbius double loop network MDL(d,m,ℓ) is the digraph with vertex set {(i,j):0≤i≤d−1,0≤j≤m−1} and arc set {(i,j)(i+1,j) or (i,j)(i+1,j+1):0≤i≤d−2,0≤j≤m−1}∪{(d−1,j)(0,j+ℓ) or (d−1,j)(0,j+ℓ+1):0≤j≤m−1}, where the second coordinate y of a vertex (x,y) is taken modulo m. We give an upper bound for the Hamiltonian number of a Möbius double loop network. We also give a necessary and sufficient condition for a Möbius double loop network MDL(d,m,ℓ) to have Hamiltonian number at most dm, dm+d, dm+1 or dm+2.",
+    "citation_count": 15,
+    "year": "2012/05",
+    "authors": [
+        {
+            "name": "Chang, Gerard J.",
+            "country": "Taiwan"
+        },
+        {
+            "name": "Chang, Ting-Pang",
+            "country": "Taiwan"
+        },
+        {
+            "name": "Tong, Li-Da",
+            "country": "Taiwan"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

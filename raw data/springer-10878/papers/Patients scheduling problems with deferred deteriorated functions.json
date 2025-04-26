@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-015-9852-3",
+    "title": "Patients scheduling problems with deferred deteriorated functions",
+    "abstract": "In the survey scheduling theory, if a surgical patient is regarded as a job waiting to be processed, and the anesthesiologist care unit nurses as machines that are needed before the survey. Due to the lack of operating rooms or the accidental extension of operation time, the patients will have a longer wait time, and can not do operation following the effects of the anaesthetic. The patient needs to be re-anesthesia so that the effects are required to undergo surgery. But this will cause operation time prolonged. Based on the performance of medical procedures under deteriorating health conditions, this paper presents a deterministic approach to schedule patients in surgery scheduling problems with the deferred parameter. We take the patients as jobs. By the deferred deteriorating effect, it means that the actual processing time of a job is a function of its starting time and a control parameter. We prove that the classical SPT (the shortest processing time) rule remains optimal when we minimize the makespan or the total completion time. For problems of minimizing the total weighted completion time and the maximum lateness, we present heuristic sequencing rules and analyze the worst-case bounds for performance ratios. We also show that these heuristic rules can be optimal under some agreeable conditions between the normal processing times and job due dates or weights.",
+    "citation_count": 22,
+    "year": "2015/11",
+    "authors": [
+        {
+            "name": "Zhang, Xingong",
+            "country": "China"
+        },
+        {
+            "name": "Wang, Hui",
+            "country": "China"
+        },
+        {
+            "name": "Wang, Xingpeng",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

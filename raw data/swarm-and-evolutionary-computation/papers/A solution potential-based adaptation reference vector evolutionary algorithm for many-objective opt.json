@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223002237",
+    "title": "A solution potential-based adaptation reference vector evolutionary algorithm for many-objective optimization",
+    "abstract": "Decomposition-based multiobjective evolutionary algorithms are widely utilized for solving multiobjective optimization problems (MOPs). These algorithms have a higher degree of diversity due to a uniform distribution of the reference vectors in the objective space. However, these algorithms may struggle to select a suitable candidate set for solving many-objective optimization problems (MaOPs) with irregular Pareto fronts (PFs). To solve this problem, a solution potential-based adaptation reference vector evolutionary algorithm (SPARVEA) is proposed in this paper. In the algorithm, a concept called solution potential is presented to assess whether the direction of convergence of the solution to the ideal solution has potential. The solution potential is obtained with an evaluation function to calculate the potentials of the corresponding solutions. A solution potential-based adaptation strategy is then designed for adapting the reference vector to better guide the direction of convergence of the solution when solving MaOPs with irregular PFs. A modified angle penalty distance (mAPD) is adjusted to improve the convergence rate of the solution set in many-objective optimization problems. The proposed algorithm SPARVEA is compared with state-of-the-art many-objective evolutionary algorithms on four test sets with irregular PFs and four practical problems. Experimental results demonstrate the superior performance of SPARVEA on many-objective optimization problems. This contribution helps to advance the development of efficient algorithms for solving many-objective optimization problems.",
+    "citation_count": "7",
+    "year": "2024/02/01",
+    "authors": [
+        {
+            "name": "Wei Li",
+            "country": ""
+        },
+        {
+            "name": "Yangtao Chen",
+            "country": ""
+        },
+        {
+            "name": "Yuehua Dong",
+            "country": ""
+        },
+        {
+            "name": "Ying Huang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

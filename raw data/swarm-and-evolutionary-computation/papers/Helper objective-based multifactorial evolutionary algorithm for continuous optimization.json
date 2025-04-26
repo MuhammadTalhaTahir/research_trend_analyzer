@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223000536",
+    "title": "Helper objective-based multifactorial evolutionary algorithm for continuous optimization",
+    "abstract": "Searching for global optima is challenging for complex  optimization problems  since multi-modality commonly exists. To address this issue, researchers have made many attempts, including high-performance initializing methods, novel variant operators and multimodal-based environmental selection strategies. However, such approaches are highly sensitive to the parameters or their implementation is complex. To this end, in this work, a helper problem (objective function) is proposed to assist  evolutionary algorithms  (EAs) in dealing with complex optimization problems, where the multitask optimization framework is adopted to transfer knowledge between the helper and the original problems. Specifically, the helper objective is a smoother fit of the original problem, which leads EAs to concentrate on the global optima of the original problem. Then, the helper objective-assisted multifactorial differential evolutionary algorithm is proposed, termed h-MFDE. Experimental results show that h-MFDE is competitive in finding the global optimal on complex optimization problems comparing with other state-of-the-art EAs.",
+    "citation_count": "8",
+    "year": "2023/04/01",
+    "authors": [
+        {
+            "name": "Xu Yang",
+            "country": ""
+        },
+        {
+            "name": "Wenhua Li",
+            "country": ""
+        },
+        {
+            "name": "Rui Wang",
+            "country": ""
+        },
+        {
+            "name": "Kang Yang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/0262885687900011",
+    "title": "Distributed associative memory for use in scene analysis",
+    "abstract": "A distributed associative memory system which is ideal for scene analysis is described. Recall of associated patterns using incomplete originals is made possible by the use of a distributed storage mechanism and a novel recall procedure. The memory is shown to store associations between patterns more efficiently than a conventional file store. The paper describes the memory structure, the recall process and its storage abilities, as well as an example of its implementation in hardware.",
+    "citation_count": "29",
+    "year": "1987/11/01",
+    "authors": [
+        {
+            "name": "J Austin",
+            "country": ""
+        },
+        {
+            "name": "TJ Stonham",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

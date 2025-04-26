@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-014-9433-z",
+    "title": "Hysteretic enhancement of carbon dioxide trapping in deep aquifers",
+    "abstract": "The sequestration of supercritical carbon dioxide in saline aquifers has been proposed to mitigate global climate change. An important issue is whether it escapes to the atmosphere: chemical retention, for instance, is permanent in well chosen aquifers. The effects of chemical reactions may take time, so one needs short-term containment techniques such as CO2 capillary retention enhanced by permeability hysteresis during water imbibition. This retention is predicted in a class of permeability models for the capillary-dominated regime. Here, we use high-quality laboratory-measured permeabilities as well as exact analytic solutions and accurate simulation techniques to quantify the amount of carbon dioxide that can be trapped. This study on one-dimensional, vertically upward flow demonstrates that under ideal conditions, all of the carbon dioxide is immobilized permanently. This is achieved by a trapping shock due to switching under hysteresis from CO2 to chase-brine injection. This shock is peculiar: it possesses a very small amplitude but a large speed, making it difficult to simulate and detect.",
+    "citation_count": 37,
+    "year": "2014/12",
+    "authors": [
+        {
+            "name": "Rahunanthan, A.",
+            "country": "USA"
+        },
+        {
+            "name": "Furtado, F.",
+            "country": "USA"
+        },
+        {
+            "name": "Marchesin, D.",
+            "country": "Brazil"
+        },
+        {
+            "name": "Piri, M.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-012-9569-5",
+    "title": "Adjacent vertex distinguishing edge colorings of planar graphs with girth at least five",
+    "abstract": "An adjacent vertex distinguishing edge coloring of a graph $$G$$ is a proper edge coloring of $$G$$ such that any pair of adjacent vertices admit different sets of colors. The minimum number of colors required for such a coloring of $$G$$ is denoted by $$\\chi ^{\\prime }_{a}(G)$$ . In this paper, we prove that if $$G$$ is a planar graph with girth at least 5 and $$G$$ is not a 5-cycle, then $$\\chi ^{\\prime }_{a}(G)\\le \\Delta +2$$ , where $$\\Delta $$ is the maximum degree of $$G$$ . This confirms partially a conjecture in Zhang et al. (Appl Math Lett 15:623–626, 2002).",
+    "citation_count": 10,
+    "year": "2014/11",
+    "authors": [
+        {
+            "name": "Yan, Chengchao",
+            "country": "China"
+        },
+        {
+            "name": "Huang, Danjun",
+            "country": "China"
+        },
+        {
+            "name": "Chen, Dong",
+            "country": "China"
+        },
+        {
+            "name": "Wang, Weifan",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

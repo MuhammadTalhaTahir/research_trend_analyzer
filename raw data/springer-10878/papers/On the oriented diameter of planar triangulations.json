@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-024-01177-z",
+    "title": "On the oriented diameter of planar triangulations",
+    "abstract": "The diameter of an undirected or a directed graph is defined to be the maximum shortest path distance over all pairs of vertices in the graph. Given an undirected graph G, we examine the problem of assigning directions to each edge of G such that the diameter of the resulting oriented graph is minimized. The minimum diameter over all strongly connected orientations is called the oriented diameter of G. The problem of determining the oriented diameter of a graph is known to be NP-hard, but the time-complexity question is open for planar graphs. In this paper we compute the exact value of the oriented diameter for triangular grid graphs. We then prove an n/3 lower bound and an $$n/2+O\\left( \\sqrt{n}\\right) $$ upper bound on the oriented diameter of planar triangulations, where n is the number of vertices in G. It is known that given a planar graph G with bounded treewidth and a fixed positive integer k, one can determine in linear time whether the oriented diameter of G is at most k. We consider a weighted version of the oriented diameter problem and show it to be weakly NP-complete for planar graphs with bounded pathwidth.",
+    "citation_count": 33,
+    "year": "2024/07",
+    "authors": [
+        {
+            "name": "Mondal, Debajyoti",
+            "country": "Canada"
+        },
+        {
+            "name": "Parthiban, N.",
+            "country": "India"
+        },
+        {
+            "name": "Rajasingh, Indra",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

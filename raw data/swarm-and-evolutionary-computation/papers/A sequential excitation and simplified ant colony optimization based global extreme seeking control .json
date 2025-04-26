@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224000555",
+    "title": "A sequential excitation and simplified ant colony optimization based global extreme seeking control method for performance improvement",
+    "abstract": "To date, it is lacking of an effective global extreme seeking control (GESC) approach to improve  transient responses . Motivated by this engineering problem, a novel and general method of global ESC is proposed theoretically and technically in three steps: the step of a simplified  ant colony optimization  (SACO) algorithm for the task of global extreme seeking, the step of a sequential excitation (SE) algorithm for the improvement of both transient and  steady state  responses, and the step of discrete to continuous control conversion to control the real world  dynamical systems . Both numerical simulations and physical experiments have been conducted to verify the effectiveness of the proposed controller with SE-SACO on the overall performance improvement in terms of transient responses, steady state responses and global extreme seeking. In comparison with the cutting-edge methods such as IABC-SHTS, SSA, BA and GA-ACO, the settling time and oscillations due to the proposed method are reduced significantly when keeping the global extreme seeking ability. It alleviates the conflict of global extreme seeking and good transient responses of the  dynamical systems , an unsolved issue in the literature.",
+    "citation_count": "1",
+    "year": "2024/04/01",
+    "authors": [
+        {
+            "name": "Guangyu Liu",
+            "country": ""
+        },
+        {
+            "name": "Yuwei Bai",
+            "country": ""
+        },
+        {
+            "name": "Ling Zhu",
+            "country": ""
+        },
+        {
+            "name": "Qingyun Wang",
+            "country": ""
+        },
+        {
+            "name": "Wei Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

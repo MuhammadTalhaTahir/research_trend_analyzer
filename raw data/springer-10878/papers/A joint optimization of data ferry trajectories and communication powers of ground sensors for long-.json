@@ -1,0 +1,41 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-015-9840-7",
+    "title": "A joint optimization of data ferry trajectories and communication powers of ground sensors for long-term environmental monitoring",
+    "abstract": "Recently, various hybrid wireless sensor networks which consist of several robotic vehicles and a number of static ground sensors have been investigated. In this kind of system, the main role of the mobile nodes is to deliver the messages produced by the sensor nodes, and naturally their trajectory control becomes a significant issue closely related to the performance of the entire system. Previously, several communication power control strategies such as topology control are investigated to improve energy-efficiency of wireless sensor networks. However, to the best of our knowledge, no communication power control strategy has been investigated in the context of the hybrid wireless sensor networks. This paper introduces a new strategy to utilize the communication power control in multiple data ferry assisted wireless sensor network for long-term environmental monitoring such that the lifetime of the sensor network is maximized. We formally define the problem of our interest and show it is NP-hard. We further prove there exists no approximation algorithm for the problem which can produce a feasible solution for every possible problem instance even though there is a feasible solution. Then, we propose heuristic algorithms along with rigorous theoretical performance analysis for both the single data ferry case and the multiple data ferry case under certain condition.",
+    "citation_count": 36,
+    "year": "2016/05",
+    "authors": [
+        {
+            "name": "Kim, Donghyun",
+            "country": "Vietnam"
+        },
+        {
+            "name": "Wang, Wei",
+            "country": "USA"
+        },
+        {
+            "name": "Li, Deying",
+            "country": "China"
+        },
+        {
+            "name": "Lee, Joong-Lyul",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Wu, Weili",
+            "country": "USA"
+        },
+        {
+            "name": "Tokuta, Alade O.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

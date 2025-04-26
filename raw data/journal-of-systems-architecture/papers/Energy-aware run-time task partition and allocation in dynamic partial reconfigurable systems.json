@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762117302928",
+    "title": "Energy-aware run-time task partition and allocation in dynamic partial reconfigurable systems",
+    "abstract": "Dynamic partial  reconfigurable systems  with a processor and a field-programmable gate array are promising innovations for meeting the requirement of mobile embedded devices. These systems demonstrate  low power consumption  and high performance. However, with limited battery life and chip size,  energy saving  and area allocation are critical concerns for such systems. In this study, an energy-aware hardware/software partition is presented to minimize the  system energy  consumption, and a contention-aware task allocation is presented to minimize the area requirement and  response time . The energy efficiency and schedulability of the proposed methodology were evaluated using a series of workloads, and impressive results were obtained.",
+    "citation_count": "1",
+    "year": "2017/08/01",
+    "authors": [
+        {
+            "name": "Ta-Wei Liu",
+            "country": ""
+        },
+        {
+            "name": "Yen-Fang Liu",
+            "country": ""
+        },
+        {
+            "name": "Ya-Shu Chen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

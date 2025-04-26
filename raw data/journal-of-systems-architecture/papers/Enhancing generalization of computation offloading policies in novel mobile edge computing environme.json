@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S138376212200039X",
+    "title": "Enhancing generalization of computation offloading policies in novel mobile edge computing environments by exploiting experience utility",
+    "abstract": "Recent years have witnessed the booming development of mobile devices (MDs), along with the surging popularity of mobile applications. Despite the unceasing progress of MDs, the great tension between the limited capability of MDs and the intensive demands of mobile applications remains intractable. Thanks to the proposal of  mobile edge computing , the tension was partly alleviated by offloading computation-intensive and delay-critical tasks to edge servers, which are deployed with powerful computing and energy resources in  close proximity  to MDs. Researchers have paid numerous attention on designing efficient computation-offloading policies, latest of which are based on  deep reinforcement learning  (DRL). However, most existing DRL-based approaches suffer from poor generalizations in novel environments. To address the issue, this paper investigates the generalization of computation-offloading policy learning and proposes a novel scheduling approach by exploiting learning-experience utility. First, we define a group of experience utilities according to their contributions to the learning process. Then, novel maintaining and sampling strategies are proposed based on the experience utility to effectively improve the  generalization performances  of learned computation-offloading policies. Finally, extensive experiments are conducted and the substantial  performance improvements  of the proposed approach over the state-of-the-art approaches are verified by the experimental results.",
+    "citation_count": "5",
+    "year": "2022/04/01",
+    "authors": [
+        {
+            "name": "Tao Ren",
+            "country": ""
+        },
+        {
+            "name": "Jianwei Niu",
+            "country": ""
+        },
+        {
+            "name": "Yuan Qiu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

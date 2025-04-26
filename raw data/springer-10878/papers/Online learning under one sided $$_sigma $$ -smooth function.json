@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-024-01174-2",
+    "title": "Online learning under one sided $$\\sigma $$ -smooth function",
+    "abstract": "The online optimization model was first introduced in the research of machine learning problems (Zinkevich, Proceedings of ICML, 928–936, 2003). It is a powerful framework that combines the principles of optimization with the challenges of online decision-making. The present research mainly consider the case that the reveal objective functions are convex or submodular. In this paper, we focus on the online maximization problem under a special objective function $$\\varPhi (x):[0,1]^n\\rightarrow \\mathbb {R}_{+}$$ which satisfies the inequality $$\\frac{1}{2}\\langle u^{T}\\nabla ^{2}\\varPhi (x),u\\rangle \\le \\sigma \\cdot \\frac{\\Vert u\\Vert _{1}}{\\Vert x\\Vert _{1}}\\langle u,\\nabla \\varPhi (x)\\rangle $$ for any $$x,u\\in [0,1]^n, x\\ne 0$$ . This objective function is named as one sided $$\\sigma $$ -smooth (OSS) function. We achieve two conclusions here. Firstly, under the assumption that the gradient function of OSS function is L-smooth, we propose an $$(1-\\exp ((\\theta -1)(\\theta /(1+\\theta ))^{2\\sigma }))$$ - approximation algorithm with $$O(\\sqrt{T})$$ regret upper bound, where T is the number of rounds in the online algorithm and $$\\theta , \\sigma \\in \\mathbb {R}_{+}$$ are parameters. Secondly, if the gradient function of OSS function has no L-smoothness, we provide an $$\\left( 1+((\\theta +1)/\\theta )^{4\\sigma }\\right) ^{-1}$$ -approximation projected gradient algorithm, and prove that the regret upper bound of the algorithm is $$O(\\sqrt{T})$$ . We think that this research can provide different ideas for online non-convex and non-submodular learning.",
+    "citation_count": 20,
+    "year": "2024/07",
+    "authors": [
+        {
+            "name": "Zhang, Hongxiang",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Xu, Dachuan",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Gai, Ling",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Zhang, Zhenning",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

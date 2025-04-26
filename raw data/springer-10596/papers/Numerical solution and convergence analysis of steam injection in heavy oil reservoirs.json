@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-018-9763-3",
+    "title": "Numerical solution and convergence analysis of steam injection in heavy oil reservoirs",
+    "abstract": "In this paper, the numerical methods for solving the problem of steam injection in the heavy oil reservoirs are presented. We consider a 3-dimensional model of 3-phase flow, oil, water, and steam, with the effect of 3-phase relative permeability. Interphase mass transfer of water and steam is considered; oil is assumed nonvolatile. We apply the simultaneous solution approach to solve the corresponding nonlinear discretized partial differential equation in the fully implicit form. The convergence of finite difference scheme is proved by the Rosinger theorem. The heuristic Jacobian-Free-Newton-Krylov (HJFNK) method is proposed for solving the system of algebraic equations. The result of this proposed numerical method is well compared with some experimental results. Our numerical results show that the first iteration of the full approximation scheme (FAS) provides a good initial guess for the Newton method. Therefore, we propose a new hybrid-FAS-HJFNK method while there is no steam in the reservoir. The numerical results show that the hybrid-FAS-HJFNK method converges faster than the HJFNK method.",
+    "citation_count": 44,
+    "year": "2018/12",
+    "authors": [
+        {
+            "name": "Hajinezhad, H.",
+            "country": "Iran"
+        },
+        {
+            "name": "Soheili, Ali R.",
+            "country": "Iran"
+        },
+        {
+            "name": "Rasaei, Mohammad R.",
+            "country": "Iran"
+        },
+        {
+            "name": "Toutounian, F.",
+            "country": "Iran"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

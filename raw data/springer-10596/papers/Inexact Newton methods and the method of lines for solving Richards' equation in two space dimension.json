@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1011562522244",
+    "title": "Inexact Newton methods and the method of lines for solving Richards' equation in two space dimensions",
+    "abstract": "Richards' equation (RE) is often used to model flow in unsaturated porous media. This model captures physical effects, such as sharp fronts in fluid pressures and saturations, which are present in more complex models of multiphase flow. The numerical solution of RE is difficult not only because of these physical effects but also because of the mathematical problems that arise in dealing with the nonlinearities. The method of lines has been shown to be very effective for solving RE in one space dimension. When solving RE in two space dimensions, direct methods for solving the linearized problem for the Newton step are impractical. In this work, we show how the method of lines and Newton-iterative methods, which solve linear equations with iterative methods, can be applied to RE in two space dimensions. We present theoretical results on convergence and use that theory to design an adaptive method for computation of the linear tolerance. Numerical results show the method to be effective and robust compared with an existing approach.",
+    "citation_count": 30,
+    "year": "1998/12",
+    "authors": [
+        {
+            "name": "Tocci, Michael D.",
+            "country": "USA"
+        },
+        {
+            "name": "Kelley, C.T.",
+            "country": "USA"
+        },
+        {
+            "name": "Miller, Cass T.",
+            "country": "USA"
+        },
+        {
+            "name": "Kees, Christopher E.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

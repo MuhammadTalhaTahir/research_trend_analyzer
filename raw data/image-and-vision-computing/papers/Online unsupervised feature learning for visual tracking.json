@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885616300695",
+    "title": "Online unsupervised feature learning for visual tracking",
+    "abstract": "We propose a method for visual tracking-by-detection based on online feature learning. Our learning framework performs feature encoding with respect to an over-complete dictionary, followed by spatial pyramid pooling. We then learn a linear classifier based on the resulting feature encoding. Unlike previous work, we learn the dictionary online and update it to help capture the appearance of the tracked target as well as the background. In more detail, given a test image window, we extract local image patches from it and each local patch is encoded with respect to the dictionary. The encoded features are then pooled over a spatial pyramid to form an aggregated feature vector. Finally, a simple linear classifier is trained on these features. Our experiments show that the proposed powerful—albeit simple—tracker, outperforms all the state-of-the-art tracking methods that we have tested. Moreover, we evaluate the performance of different dictionary learning and feature encoding methods in the proposed tracking framework, and analyze the impact of each component in the tracking scenario. In particular, we show that a small dictionary, learned and updated online is as effective and more efficient than a huge dictionary learned offline. We further demonstrate the flexibility of feature learning by showing how it can be used within a structured learning tracking framework. The outcome is one of the best trackers reported to date, which facilitates the advantages of both feature learning and structured output prediction. We also implement a multi-object tracker, which achieves state-of-the-art performance.",
+    "citation_count": "11",
+    "year": "2016/07/01",
+    "authors": [
+        {
+            "name": "Fayao Liu",
+            "country": ""
+        },
+        {
+            "name": "Chunhua Shen",
+            "country": ""
+        },
+        {
+            "name": "Ian Reid",
+            "country": ""
+        },
+        {
+            "name": "Anton van den Hengel",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

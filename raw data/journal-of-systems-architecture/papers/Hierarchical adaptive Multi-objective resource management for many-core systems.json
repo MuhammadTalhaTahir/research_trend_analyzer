@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762118304405",
+    "title": "Hierarchical adaptive Multi-objective resource management for many-core systems",
+    "abstract": "The typical workload of many-core systems produces peaks and valleys of  resources utilization  throughout the time. The power capping limits the full system utilization in a workload peak, but also creates a power slack to apply different resource management (RM) policy in a valley phase. Related works do not consider this workload behavior, by proposing RMs with fixed goals. This work proposes a hierarchical adaptive Multi-Objective Resource Management (MORM) for many-core systems under a power cap. MORM works with  dynamic workloads , which presents peaks and valleys of utilization. The hierarchical approach allows clusters of processing elements (PEs) to execute applications according to different objectives simultaneously. A cluster can drive the PEs to optimize either performance or energy. MORM can dynamically shift the goals of a cluster according to the workload behavior. Comparison with a  state-of-the-art  RM optimized for single objective shows that MORM achieves equivalent results in a workload valley while outperforming up to 37.19–49.03% the performance in a workload peak regardless of the power cap. The comparison reveals relevant features to be considered in large many-core systems: hierarchical organization, multi-task mapping, and  joint  adaptability between software (remapping) and hardware (DVFS)  actuation .",
+    "citation_count": "15",
+    "year": "2019/08/01",
+    "authors": [
+        {
+            "name": "André Luís del Mestre Martins",
+            "country": ""
+        },
+        {
+            "name": "Alzemiro Henrique Lucas da Silva",
+            "country": ""
+        },
+        {
+            "name": "Amir M. Rahmani",
+            "country": ""
+        },
+        {
+            "name": "Nikil Dutt",
+            "country": ""
+        },
+        {
+            "name": "Fernando Gehm Moraes",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

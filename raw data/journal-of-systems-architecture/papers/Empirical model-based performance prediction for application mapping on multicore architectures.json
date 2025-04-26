@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762118306465",
+    "title": "Empirical model-based performance prediction for application mapping on multicore architectures",
+    "abstract": "Application mapping in multicore embedded systems plays a central role in their energy-efficiency. The present paper deals with this issue by focusing on the prediction of performance and energy consumption, induced by task and data allocation on computing resources. It proposes a solution by answering three fundamental questions as follows: (i) how to encode mappings for training performance prediction models? (ii) how to define an adequate criterion for assessing the quality of mapping performance predictors? and (iii) which technique among regression and classification enables the best predictions? Here, the prediction models are obtained by applying carefully selected supervised  machine learning techniques  on raw data, generated off-line from system executions. These techniques are  Support Vector Machines ,  Adaptive Boosting  (AdaBoost) and Artificial Neural Networks (ANNs). Our study is validated on an  automotive application   case study . The experimental results show that with a limited set of training information, AdaBoost and ANNs can provide very good outcomes (up to 84.8% and 89.05% correct prediction score in some cases, respectively), making them attractive enough for the addressed problem.",
+    "citation_count": "10",
+    "year": "2019/09/01",
+    "authors": [
+        {
+            "name": "Abdoulaye Gamatié",
+            "country": ""
+        },
+        {
+            "name": "Xin An",
+            "country": ""
+        },
+        {
+            "name": "Ying Zhang",
+            "country": ""
+        },
+        {
+            "name": "An Kang",
+            "country": ""
+        },
+        {
+            "name": "Gilles Sassatelli",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

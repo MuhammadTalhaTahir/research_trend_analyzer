@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650220304120",
+    "title": "Adaptive simulated binary crossover for rotated multi-objective optimization",
+    "abstract": "Crossover is a crucial operation for generating promising offspring solutions in evolutionary multi-objective optimization. Among various crossover operators, the simulated binary crossover (SBX) is the most widely used in evolutionary multi-objective optimization. Despite that SBX is effective in solving problems with regular Pareto sets, its performance degenerates dramatically on problems with rotated Pareto sets.To address this issue, we propose a modified SBX, named the rotation-based simulated binary crossover (RSBX), to improve the performance of multi-objective evolutionary algorithms (MOEAs) on rotated problems whose Pareto sets are not parallel with the decision variables. The main idea is to introduce the rotation property into the SBX, and then an adaptive selection strategy is proposed to make use of both SBX and RSBX. The proposed method is embedded in three representative MOEAs, and they are compared with their original versions on some problems with rotated Pareto sets, respectively. Experimental results demonstrate that the proposed method is efficient in promoting the performance of conventional MOEAs for handling rotated multi-objective optimization problems.",
+    "citation_count": "85",
+    "year": "2021/02/01",
+    "authors": [
+        {
+            "name": "Linqiang Pan",
+            "country": ""
+        },
+        {
+            "name": "Wenting Xu",
+            "country": ""
+        },
+        {
+            "name": "Lianghao Li",
+            "country": ""
+        },
+        {
+            "name": "Cheng He",
+            "country": ""
+        },
+        {
+            "name": "Ran Cheng",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

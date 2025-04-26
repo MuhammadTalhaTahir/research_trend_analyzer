@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003573",
+    "title": "Efficient masked feature and group attention network for stereo image super-resolution",
+    "abstract": "Current stereo image super-resolution methods do not fully exploit cross-view and intra-view information, resulting in limited performance. While vision transformers have shown great potential in super-resolution, their application in stereo image super-resolution is hindered by high computational demands and insufficient channel interaction. This paper introduces an efficient masked feature and group attention network for stereo image super-resolution (EMGSSR) designed to integrate the strengths of transformers into stereo super-resolution while addressing their inherent limitations. Specifically, an efficient masked feature block is proposed to extract local features from critical areas within images, guided by sparse masks. A group-weighted cross-attention module consisting of group-weighted cross-view feature interactions along epipolar lines is proposed to fully extract cross-view information from stereo images. Additionally, a group-weighted self-attention module consisting of group-weighted self-attention feature extractions with different local windows is proposed to effectively extract intra-view information from stereo images. Experimental results demonstrate that the proposed EMGSSR outperforms state-of-the-art methods at relatively low computational costs. The proposed EMGSSR offers a robust solution that effectively extracts cross-view and intra-view information for stereo image super-resolution, bringing a promising direction for future research in high-fidelity stereo image super-resolution. Source codes will be released at  https://github.com/jianwensong/EMGSSR .",
+    "citation_count": "0",
+    "year": "2024/11/01",
+    "authors": [
+        {
+            "name": "Jianwen Song",
+            "country": ""
+        },
+        {
+            "name": "Arcot Sowmya",
+            "country": ""
+        },
+        {
+            "name": "Jien Kato",
+            "country": ""
+        },
+        {
+            "name": "Changming Sun",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

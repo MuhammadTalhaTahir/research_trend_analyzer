@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217303577",
+    "title": "A comprehensive survey on gravitational search algorithm",
+    "abstract": "Gravitational Search Algorithm (GSA) is an optimization method inspired by the theory of Newtonian gravity in  physics . Till now, many variants of GSA have been introduced, most of them are motivated by gravity-related theories such as relativity and astronomy. On the one hand, to solve different kinds of optimization problems, modified versions of GSA have been presented such as continuous (real), binary, discrete, multimodal, constraint, single-objective, and multi-objective GSA. On the other hand, to tackle the difficulties in real-world problems, the efficiency of GSA has been improved using specialized operators, hybridization, local search, and designing the self-adaptive algorithms. Researchers have utilized GSA to solve various engineering optimization problems in diverse fields of applications ranging from electrical engineering to bioinformatics. Here, we discussed a comprehensive investigation of GSA and a brief review of GSA developments in solving different engineering problems to build up a global picture and to open the mind to explore possible applications. We also made a number of suggestions that can be undertaken to help move the area forward.",
+    "citation_count": "228",
+    "year": "2018/08/01",
+    "authors": [
+        {
+            "name": "Esmat Rashedi",
+            "country": ""
+        },
+        {
+            "name": "Elaheh Rashedi",
+            "country": ""
+        },
+        {
+            "name": "Hossein Nezamabadi-pour",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

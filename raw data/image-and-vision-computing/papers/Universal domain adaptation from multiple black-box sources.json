@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623002706",
+    "title": "Universal domain adaptation from multiple black-box sources",
+    "abstract": "Black-box  domain adaptation  (B2DA) is a practical  unsupervised domain adaptation  (UDA) setting, in which only an interface to source model is available due to privacy or security concerns. It aims to transfer source knowledge with no source data or model, but only queries for target samples from the source interface. Previous B2DA methods commonly assume a single source interface and shared label space across domains. Whereas in real tasks, there are usually multiple source interfaces with label shift from the target domain, how to effectively combine them without target ground-truth has not been fully investigated yet so far. We term such setting as Universal Domain Adaptation from Multiple Black-box sources (Uni-MBDA), and propose a new Universal multi-source Black-Box method (Um2B) through Dual-Attention on both source domains and classes. In Um2B, adaptive domain attention is first introduced to seek the optimal combination of source interfaces, whose performance is no worse than the single best one. Second, to address the label shift across domains, adaptive class attention is adopted in adaptation to suppress the private source classes, then automatically identify target unknowns and separate them apart from the known classes. Empirical results over benchmark datasets show the effectiveness of Um2B, and in most cases, it performs no worse than the best single-source.",
+    "citation_count": "1",
+    "year": "2024/02/01",
+    "authors": [
+        {
+            "name": "Yunyun Wang",
+            "country": ""
+        },
+        {
+            "name": "Jian Mao",
+            "country": ""
+        },
+        {
+            "name": "Cong Zou",
+            "country": ""
+        },
+        {
+            "name": "Xinyang Kong",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

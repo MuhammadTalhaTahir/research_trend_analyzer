@@ -1,0 +1,31 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-010-0264-4",
+    "title": "Joint Spectrum Allocation and Relay Selection in Cellular Cognitive Radio Networks",
+    "abstract": "Cognitive Radio Network (CRN) has been proposed in recent years to solve the spectrum scarcity problem by exploiting the existence of spectrum holes. One of the important issues in the cellular CRNs is how to efficiently allocate primary user (PU) spectrum inside a CRN cell without causing harmful interference to PUs. In this paper, we present a cross-layer framework which jointly considers spectrum allocation and relay selection with the objective of maximizing the minimum traffic demand of secondary users (SUs) in a CRN cell. Specifically, we consider (1) CRN tries to utilize PU spectrum even when the CRN cell is not completely outside the protection region of the PU cell, and (2) cooperative relay is used in cellular CRNs to improve the utilization of PU spectrum. We formulate this cross-layer design problem as a Mixed Integer Linear Programming (MILP) and propose a low complexity heuristic algorithm to solve it. Compared to a simple channel allocation scheme, the numerical results show a significant improvement by using our proposed method and the performance is close to the optimal solution. We further consider the spectrum allocation among several CRN cells with the objective of maximizing the overall minimum throughput of all cells while ensuring each individual cell’s minimum throughput requirement. A low complexity algorithm is proposed to achieve the objective with satisfactory performance.",
+    "citation_count": 13,
+    "year": "2011/12",
+    "authors": [
+        {
+            "name": "Zhang, Tengyi",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Wu, Yuan",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Lang, Ke",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Tsang, Danny Hin-Kwok",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

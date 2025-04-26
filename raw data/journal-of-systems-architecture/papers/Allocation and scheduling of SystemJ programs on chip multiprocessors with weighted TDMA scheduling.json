@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S138376211930013X",
+    "title": "Allocation and scheduling of SystemJ programs on chip multiprocessors with weighted TDMA scheduling",
+    "abstract": "The event-driven  model of computation  provides a good platform for capturing complex real-time applications with low latency requirements since this model is free of problems like  deadlocks , livelocks and  performance bottlenecks  such as locking overheads. Furthermore, there is great potential for extracting  parallelism  from an event-driven model on a chip  multiprocessor  (CMP). But, the execution and scheduling of this model on a CMP faces two primary problems that need to be addressed: (a) allocation of asynchronous  event handlers  (AEHs) on a minimal number of processing elements of a CMP such that the time guarantees are met and (b) scheduling the AEHs taking into consideration the  shared resource  access contentions. We propose a two-stage  Integer Linear Programming  approach for  static allocation  and scheduling of AEHs executing on a time-analyzable multiprocessor architecture with shared resources. The first stage allocates AEHs on a minimal number of processing elements in a CMP with weighted time-division multiplex access (TDMA) to the shared memory while meeting the timing requirements. The second stage then tunes the TDMA schedule such that the worst case reaction time of AEHs can be further shortened. This approach shows 43.75% better utilization of resources compared to traditional fair TDMA scheduling on CMPs.",
+    "citation_count": "2",
+    "year": "2019/09/01",
+    "authors": [
+        {
+            "name": "Muhammad Nadeem",
+            "country": ""
+        },
+        {
+            "name": "Zhenmin Li",
+            "country": ""
+        },
+        {
+            "name": "Avinash Malik",
+            "country": ""
+        },
+        {
+            "name": "Morteza Biglari-Abhari",
+            "country": ""
+        },
+        {
+            "name": "Zoran Salcic",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

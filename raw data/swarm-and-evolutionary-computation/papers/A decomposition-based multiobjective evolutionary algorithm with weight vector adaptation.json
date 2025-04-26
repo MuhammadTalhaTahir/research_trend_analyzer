@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650220304788",
+    "title": "A decomposition-based multiobjective evolutionary algorithm with weight vector adaptation",
+    "abstract": "Multi-objective  Evolutionary Algorithms  (MOEAs) have been concerned and studied with great achievements in the last two decades. As a typical decomposition-based MOEA, MOEA/D aims to decompose a multi-objective optimization problem (MOP) into several subproblems through a set of predefined  weight vectors  and then optimizes these problems simultaneously. However, performance degradation occurs when complex optimization problems with complicated Pareto Front shape (i.e., irregular and discontinuous PF) are handled. This paper proposes a decomposition-based multi-objective evolutionary algorithm with weight vector adaptation (WVA-MOEA/D) to adjust the  weight vectors  uniformly distribute in the solution space. The algorithm decomposes a MOP into several subproblems, the new environment selection mechanism defines several neighborhoods with weight vectors as the center of the circle, and elite solutions are selected based on the density of each neighborhood. Weight vector adaptation is employed to guide solution selection and obtain a set of uniformly distributed solutions. The proposed WVA-MOEA/D can improve the performance of MOEA/D on MOPs and many-objective problems with irregular PFs. Besides, the neighborhood adaptation strategy used in the algorithm aims to maintain the diversity solutions and decrease the selection pressure in many-objective optimization problems. Experimental results indicate that WVA-MOEA/D could further effectively solve MOPs with various types of Pareto Fronts for multi-objective and many-objective optimization compared with several state-of-the-art evolutionary algorithms.",
+    "citation_count": "23",
+    "year": "2021/03/01",
+    "authors": [
+        {
+            "name": "Xin Zhou",
+            "country": ""
+        },
+        {
+            "name": "Xuewu Wang",
+            "country": ""
+        },
+        {
+            "name": "Xingsheng Gu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

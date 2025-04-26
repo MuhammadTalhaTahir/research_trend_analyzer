@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-019-09912-w",
+    "title": "Generative well pattern design—principles, implementation, and test on OLYMPUS challenge field development problem",
+    "abstract": "A novel generative (well pattern) design approach is proposed for a reservoir well pattern design, building upon the observation that automated methods are slow to beat human-designed patterns. The approach relies upon the construction of 3D well patterns as a function of geology in a mindset in which functional requirements derive from reservoir engineering heuristics. The concept of well patterns as graphs is leveraged and expanded. Nodes are well parts and geological features. Edges represent functional requirements driven by economical and physical considerations; they are expressed as 3D functions of geology. Diffusive time of flight and a novel measure are proposed to quantify the relative suitability of model cells to the positioning of wells. A small, but deemed complete, set of requirements is proposed relative to the reservoir engineering domain. The search space for inserting wells is limited to cells non-dominated from the joint perspective of requirements applicable to the considered well type. Tentatively, optimal patterns are built by balancing weights given to each requirement. The process is applied to a single and to multiple realizations enabling consideration of uncertainties. Weights are few and display quasi-linear and independent relations to common objective functions. The approach was tested on the OLYMPUS field development benchmark problem. Results illustrate the potential for initializing optimization with performing candidates while maintaining geographic coverage. The search space dimension was reduced by a factor of ~ 10100. A solution was found within the first 92 investigated settings that reaches a net present value (8% discount) of 643M$. Such performances are of a nature to ensure systemic superiority over purely human-driven optimization processes and, upon integration in iterative search processes, over competing global parameterization schemes whenever few calls are made to the objective function.",
+    "citation_count": 24,
+    "year": "2020/12",
+    "authors": [
+        {
+            "name": "Bergey, Pierre",
+            "country": "France"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224002918",
+    "title": "Deep reinforcement learning driven trajectory-based meta-heuristic for distributed heterogeneous flexible job shop scheduling problem",
+    "abstract": "As the production environment evolves, distributed manufacturing exhibits heterogeneous characteristics, including diverse machines, workers, and production processes. This paper examines a distributed heterogeneous flexible job shop scheduling problem (DHFJSP) with varying processing times. A mixed integer linear programming (MILP) model of the DHFJSP is formulated with the objective of minimizing the makespan. To solve the DHFJSP, we propose a deep Q network-aided automatic design of a variable neighborhood search algorithm (DQN-VNS). By analyzing schedules, sixty-one types of scheduling features are extracted. These features, along with six shaking strategies, are used as states and actions. A DHFJSP environment simulator is developed to train the deep Q network. The well-trained DQN then generates the shaking procedure for VNS. Additionally, a greedy initialization method is proposed to enhance the quality of the initial solution. Seven efficient critical path-based neighborhood structures with three-vector encoding scheme are introduced to improve local search. Numerical experiments on various scales of instances validate the effectiveness of the MILP model and the DQN-VNS algorithm. The results show that the DQN-VNS algorithm achieves an average relative percentage deviation (ARPD) of 3.2%, which represents an approximately 88.45% reduction compared to the best-performing algorithm among the six compared, with an ARPD of 27.7%. This significant reduction in ARPD highlights the superior stability and performance of the proposed DQN-VNS algorithm.",
+    "citation_count": "2",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Qichen Zhang",
+            "country": ""
+        },
+        {
+            "name": "Weishi Shao",
+            "country": ""
+        },
+        {
+            "name": "Zhongshi Shao",
+            "country": ""
+        },
+        {
+            "name": "Dechang Pi",
+            "country": ""
+        },
+        {
+            "name": "Jiaquan Gao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

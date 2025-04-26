@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1011581631813",
+    "title": "A parallelizable method for two‐phase flows in naturally‐fractured reservoirs",
+    "abstract": "A parallelizable, semi‐implicit numerical method is proposed for the study of naturally‐fractured reservoir systems. It has proved to be computationally efficient in producing accurate numerical solutions for the dual‐porosity model for immiscible, two‐phase flow in such reservoirs. The method combines hybridized mixed finite elements, a new version of the modified method of characteristics, a sophisticated operator‐splitting procedure for separating the pressure calculation in the fractures from that of the saturation, another operator splitting to handle the interaction of the matrix blocks and the fractures, and domain decomposition iterative procedures for both the pressure and the saturation. It permits moderately long time steps for the pressure and the saturation in the fractures and matrix blocks by using short, inexpensive microsteps to treat the transport portion of the saturation equation in the fractures. This paper is devoted to the formulation of the method and a discussion of numerical results for five‐spot and vertical cross‐section examples.",
+    "citation_count": 39,
+    "year": "1997/09",
+    "authors": [
+        {
+            "name": "Douglas, Jim",
+            "country": "USA"
+        },
+        {
+            "name": "Pereira, Felipe",
+            "country": "Brazil"
+        },
+        {
+            "name": "Yeh, Li‐Ming",
+            "country": "R.O.C"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

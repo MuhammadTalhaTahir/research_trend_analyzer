@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885610000971",
+    "title": "An agglomerative segmentation framework for non-convex regions within uterine cervix images",
+    "abstract": "The National Cancer Institute has collected a large database of uterine cervix images termed “cervigrams”, for cervical cancer screening research. Tissues of interest within the cervigram, in particular the lesions, are of varying sizes and of complexnon-convex shapes. The tissues possess similar  color features  and their boundaries are not always clear. The main objective of the current work is to provide a segmentation framework for tissues of interest within the cervix, that can cope with these difficulties in an  unsupervised manner  and with a minimal number of parameters. The proposed framework transitions from pixels to a set of small coherent regions (superpixels), which are grouped bottom-up into larger, non-convex, perceptually similar regions. The merging process is performed utilizing a new graph-cut criterion termed the normalized-mean cut (NMCut) and an  agglomerative clustering  framework. Superpixels similarity is computed via a locally scaled similarity measure that combines region and  edge information .  Segmentation quality  is evaluated by measuring the overlap accuracy of the generated segments and tissues that were manually marked by medical experts. Experiments are conducted on two sets of cervigrams and lead to the following set of observations and conclusions: 1) The generated  superpixels  provide an accurate decomposition of the different tissues; 2) The local scaling process improves the  clustering results ; 3) The influence of different graph-cut criterions on the  segmentation accuracy  is evaluated and the NMCut criterion is shown to provide the best results; 4) A comparison between several modifications to the agglomerative  clustering process  is conducted. The results are shown to be strongly influenced by the  merging procedure ; 5) The agglomerative clustering framework is shown to outperform a state-of-the-art spectral  clustering algorithm .",
+    "citation_count": "4",
+    "year": "2010/12/01",
+    "authors": [
+        {
+            "name": "Shiri Gordon",
+            "country": ""
+        },
+        {
+            "name": "Hayit Greenspan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621000421",
+    "title": "Cluster adaptation networks for unsupervised domain adaptation",
+    "abstract": "Domain adaptation  is an important technology for transferring source domain knowledge to new, unseen target domains. Recently, domain adaptation models are applied to learn domain  invariant representations  by minimizing distribution distance or  adversarial training  in the  feature space . However, existing adversarial domain adaptation methods fail to preserve the  data structure  in the feature space. In this paper, we propose a novel domain adaptation method called Cluster adaptation Networks (CAN). CAN decreases the domain shift by aligning the category centers of source representations and the cluster centers of target representations in the feature space, which preserves the class-level structure and facilitates the classification of the target domain. Experiments on Digits, Office-Home and ImageCLEF-DA datasets validate the effectiveness of the structure preservation in our model.",
+    "citation_count": "24",
+    "year": "2021/04/01",
+    "authors": [
+        {
+            "name": "Qiang Zhou",
+            "country": ""
+        },
+        {
+            "name": "Wen’an Zhou",
+            "country": ""
+        },
+        {
+            "name": "Shirui Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

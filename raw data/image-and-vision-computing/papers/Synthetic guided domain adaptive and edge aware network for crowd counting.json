@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S026288562030158X",
+    "title": "Synthetic guided domain adaptive and edge aware network for crowd counting",
+    "abstract": "Crowd counting is an important surveillance application and receives significant attention from the  computer vision  community. Most of the current methods treat crowd counting by density  map estimation  and use the Fully Convolution Network (FCN) for prediction. The mainstream framework is to predict density maps and use the sum up the density maps to get the number of people. In such methods, the main drawback is the poor local quality of the dense part and the sparse part of an image. As we investigated, it is due to the lack of an efficient method to learn the heads' structure information. To address the above problem, in this paper, we propose a domain adaptive model called synthetic guided learning that learns features' structure from  synthetic data . We also propose a multi-scale edge-aware loss for improving the boundary clearness of the estimated density map. Our experimental results show, learning from the structure information effectively improves the density maps' estimation quality and promotes the counting accuracy. Comprehensive experiments and comparisons with state-of-the-art methods on four publicly available data sets demonstrate the superiority of our proposed method. We provide a reference implementation of this technique at  https://github.com/MRJTM/SGEANet .",
+    "citation_count": "5",
+    "year": "2020/12/01",
+    "authors": [
+        {
+            "name": "Zhijie Cao",
+            "country": ""
+        },
+        {
+            "name": "Pourya Shamsolmoali",
+            "country": ""
+        },
+        {
+            "name": "Jie Yang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

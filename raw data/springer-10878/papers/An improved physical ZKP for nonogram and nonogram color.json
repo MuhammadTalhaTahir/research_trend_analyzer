@@ -1,0 +1,21 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-023-01050-5",
+    "title": "An improved physical ZKP for nonogram and nonogram color",
+    "abstract": "Nonogram is a pencil puzzle consisting of a rectangular white grid where the player has to paint some cells black according to given constraints. Chien and Hon (Proceedings of the 5th international conference on fun with algorithms (FUN), 2010) constructed a physical card-based zero-knowledge proof protocol for Nonogram, which enables a prover to physically show that he/she knows a solution of the puzzle without revealing it. However, their protocol requires special tools such as scratch-off cards and a sealing machine, making it impractical to implement in real world. The protocol also has a nonzero soundness error. In this paper, we develop a more practical card-based protocol for Nonogram with perfect soundness that uses only regular paper cards. We also show how to modify our protocol to make it support Nonogram Color, a generalization of Nonogram where the player has to paint the cells with multiple colors.",
+    "citation_count": 31,
+    "year": "2023/07",
+    "authors": [
+        {
+            "name": "Ruangwises, Suthee",
+            "country": "Japan"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

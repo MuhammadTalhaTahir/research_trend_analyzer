@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124000560",
+    "title": "Evaluating the impact of microservice-centric computations in internet of vehicles",
+    "abstract": "This paper presents the design and implementation of a hierarchical and multilayered computing framework, specifically tailored to analyze the benefits of Named Data Networking (NDN) enabled microservice-centric in-network computations in autonomous  vehicular networks . The proposed framework comprises three layers: an autonomous vehicular network layer, an  Edge computing  layer, and a centralized Cloud.Modifications were made to the vanilla NDN codebase to facilitate communication between the vehicular network layer, Edge computing and Cloud layer, utilizing the C++ Boost Asio library and IP tunneling mechanism. A microservices-based driver assistance application, consisting of various heterogeneous microservices, was emulated in .NET Core and deployed on different Edge computing terminals and the Cloud. Additionally, RESTful APIs have been developed to enable the vehicular network layer and the physical Edge layer to offload microservice-centric computation requests and retrieve the corresponding computational outcomes. The Entity framework is employed to ensure proper tracking and management of these requests. An HTML-based user interface has also been developed for a visual representation of the request pattern. Extensive  testbed  experiments reveal that the proposed system significantly optimizes bandwidth consumption, reduces latency, and increases the computed results delivery ratio when compared to conventional  monolithic systems .",
+    "citation_count": "2",
+    "year": "2024/05/01",
+    "authors": [
+        {
+            "name": "Muhammad Salah Ud Din",
+            "country": ""
+        },
+        {
+            "name": "Muhammad Atif Ur Rehman",
+            "country": ""
+        },
+        {
+            "name": "Muhammad Imran",
+            "country": ""
+        },
+        {
+            "name": "Byung Seo Kim",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

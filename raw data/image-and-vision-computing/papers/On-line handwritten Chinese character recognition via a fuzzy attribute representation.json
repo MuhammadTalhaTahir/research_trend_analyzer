@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/0262885694900426",
+    "title": "On-line handwritten Chinese character recognition via a fuzzy attribute representation",
+    "abstract": "Chinese characters are constructed by strokes according to structural rules. Therefore, the geometric configurations of characters are important features for character recognition. In handwritten characters, stroke shapes and their spatial relations may vary to some extent. The attribute value of a structural identification is then a fuzzy quantity rather than a binary quantity. Recognizing these facts, we propose a fuzzy attribute representation (FAR) to describe the structural features of handwritten Chinese characters for an on-line Chinese character recognition (OLCCR) system. With a FAR. a fuzzy attribute graph for each handwritten character is created, and the character recognition process is thus transformed into a simple graph matching problem. This character representation and our proposed recognition method allow us to relax the constraints on stroke order and stroke connection. The graph model provides a generalized character representation that can easily incorporate newly added characters into an OLCCR system with an automatic learning capability. The fuzzy representation can describe the degree of structural deformation in handwritten characters. The character matching algorithm is designed to tolerate structural deformations to some extent. Therefore, even input characters with deformations can be recognized correctly once the reference dictionary of the recognition system has been trained using a few representative learning samples. Experimental results are provided to show the effectiveness of the proposed method.",
+    "citation_count": "5",
+    "year": "1994/12/01",
+    "authors": [
+        {
+            "name": "Chen Ju-Wei",
+            "country": ""
+        },
+        {
+            "name": "Lee Suh-Yin",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

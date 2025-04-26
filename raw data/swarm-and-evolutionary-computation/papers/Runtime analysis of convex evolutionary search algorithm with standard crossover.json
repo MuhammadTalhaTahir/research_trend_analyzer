@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650222000505",
+    "title": "Runtime analysis of convex evolutionary search algorithm with standard crossover",
+    "abstract": "Evolutionary Algorithms (EAs) with no mutation can be generalized across representations as Convex Evolutionary Search algorithms (CSs). However, the crossover operator used by CSs does not faithfully generalize the standard two-parents crossover: it samples a convex hull instead of a segment. Segmentwise Evolutionary Search algorithms (SESs) are defined as a more faithful generalization, equipped with a crossover operator that samples the metric segment of two parents. In metric spaces where the union of all possible segments of a given set is always a convex set, a SES is a particular CS. Consequently, the representation-free analysis of the CS on quasi-concave landscapes can be extended to the SES in these particular metric spaces. When instantiated to binary strings of the Hamming space (resp.  d -ary strings of the Manhattan space), a polynomial expected runtime upper bound is obtained for quasi-concave landscapes with at most polynomially many level sets for well-chosen population sizes. In particular, the SES solves Leading Ones in at most  288 n ln [ 4 n ( 2 n + 1 ) ]  expected fitness evaluations when the population size is equal to  144 ln [ 4 n ( 2 n + 1 ) ] .",
+    "citation_count": "0",
+    "year": "2022/06/01",
+    "authors": [
+        {
+            "name": "Tina Malalanirainy",
+            "country": ""
+        },
+        {
+            "name": "Alberto Moraglio",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

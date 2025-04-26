@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218300993",
+    "title": "Community detection in social networks based on fire propagation",
+    "abstract": "Community detection is one of the key problem areas in social  network analysis . It is classified as an NP-hard problem. Although a lot of good  approximate algorithms  are available for finding clusters in social networks, all those algorithms have serious drawbacks. They have high time complexities and are inefficient in finding shared communities, a phenomenon common in real-world social networks. In this work a novel community  detection algorithm  is proposed, that is inspired by the fire  propagation model , and is named as Fire Spread community  detection algorithm  (FSA). When a place catches fire, its nearby places are also at risk of getting burned by it. Getting burned by fire depends on several factors, such as distance from the source of fire, the combustive threshold of the material, number of neighbors already in burning state and heat transmission property of the gap between source and current place. Finding a community near a seed node resembles the phenomena of fire propagation originating from a source. Finally, the proposed algorithm is validated by comparing the modularity and conductance scores with some of the state-of-the-art community detection algorithms for which synthetic and real-world networks are used.",
+    "citation_count": "26",
+    "year": "2019/02/01",
+    "authors": [
+        {
+            "name": "Himansu Sekhar Pattanayak",
+            "country": ""
+        },
+        {
+            "name": "Amrit Lal Sangal",
+            "country": ""
+        },
+        {
+            "name": "Harsh K. Verma",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-017-9645-0",
+    "title": "Compositional dual mesh method for single phase flow in heterogeneous porous media—application to CO2 storage",
+    "abstract": "Numerical simulation of fluid flow coupled with chemical reactions has been an active field in the hydrogeology community and many formulations have been programmed into different software. In recent years, this subject has attracted increasing interest in the reservoir simulation community, partly for the application of chemical methods for hydrocarbon extraction but also for research on the geological sequestration of CO2. In this paper, an extension to the concept of dual mesh for reactive transport modeling is presented. This approach involves two meshes, a low-resolution mesh to resolve the pressure equation and a high-resolution mesh to transport the species and to calculate the geochemical equilibrium. The main objective is to preserve the fine scale heterogeneities to reach a more accurate field behavior simulation than conventional approach which consist in performing simulations on a coarser mesh. The method is applied to a simulation of CO2 storage in the SPE10 model that keep a high resolution of the heterogeneities.",
+    "citation_count": 30,
+    "year": "2017/12",
+    "authors": [
+        {
+            "name": "Guérillot, Dominique",
+            "country": "Qatar"
+        },
+        {
+            "name": "Bruyelle, Jérémie",
+            "country": "France"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-020-00612-1",
+    "title": "Approximation algorithms for two variants of correlation clustering problem",
+    "abstract": "Correlation clustering problem is a clustering problem which has many applications such as protein interaction networks, cross-lingual link detection, communication networks, and social computing. In this paper, we introduce two variants of correlation clustering problem: correlation clustering problem on uncertain graphs and correlation clustering problem with non-uniform hard constrained cluster sizes. Both problems overcome part of the limitations of the existing variants of correlation clustering problem and have practical applications in the real world. We provide a constant approximation algorithm and two approximation algorithms for the former and the latter problem, respectively.",
+    "citation_count": 33,
+    "year": "2022/07",
+    "authors": [
+        {
+            "name": "Ji, Sai",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Xu, Dachuan",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Li, Min",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Wang, Yishui",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

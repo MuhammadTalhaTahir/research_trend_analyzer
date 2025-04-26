@@ -1,0 +1,37 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-020-00529-9",
+    "title": "An efficient local search algorithm for solving maximum edge weight clique problem in large graphs",
+    "abstract": "Maximum vertex weight clique problem (MVWCP) and maximum edge weight clique problem (MEWCP) are two significant generalizations of maximum clique problem (MCP), and can be widely used in many real-world applications including molecular biology, broadband network design and pattern recognition. Recently, breakthroughs have been made for solving MVWCP in large graphs, resulting in several state-of-the-art algorithms, such as WLMC, FastWClq and LSCC&nbsp;+&nbsp;BMS. However, less attention has been paid to solving MEWCP in large graphs. In this paper, we present an efficient Stochastic Local Search (SLS) algorithm for MEWCP by combining clique construction, local search and graph reduction, resulting in a new algorithm named ReConSLS. We also propose a new upper bound function for edge weighted graphs which is essential for graph reduction. Extensive experiments on a wide range of large graphs demonstrate that ReConSLS surpasses state-of-the-art SLS competitors on the majority of testing graphs.",
+    "citation_count": 40,
+    "year": "2020/05",
+    "authors": [
+        {
+            "name": "Chu, Yi",
+            "country": "China"
+        },
+        {
+            "name": "Liu, Boxiao",
+            "country": "China"
+        },
+        {
+            "name": "Cai, Shaowei",
+            "country": "China"
+        },
+        {
+            "name": "Luo, Chuan",
+            "country": "China"
+        },
+        {
+            "name": "You, Haihang",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

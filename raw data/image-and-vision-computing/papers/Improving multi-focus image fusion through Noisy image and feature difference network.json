@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623002652",
+    "title": "Improving multi-focus image fusion through Noisy image and feature difference network",
+    "abstract": "Limited by optical constraints, the acquisition of a comprehensive set of multi-focus images remains a challenge. Leveraging the intrinsic accuracy of focused images, the concept of multi-focus image fusion emerges. However, distinguishing between focused and defocused regions, despite their visual similarities, is complex due to the absence of direct numerical indicators. This study unveils a novel insight: noisy source images lead to more substantial information loss in focus areas than in defocused regions. This observation prompts us to exploit this discrepancy by introducing noise to the source images. Motivated by this discovery, we introduce the Feature Difference Network (DDMF) for Multi-Focus Image Fusion (MFIF), aiming to leverage the differences present within feature dimensions. The pioneering DDMF approach incorporates the  diffusion process  from the Denoising Diffusion  Probabilistic Models , employing it as a mechanism to introduce  Gaussian  noise to source images. Furthermore, the denoising process enhances feature representation. This equips DDMF to effectively capture hidden differences within features, allowing precise categorization of each pixel. Our extensive experimental evaluation underscores the prowess of DDMF. Through both subjective visual assessment and objective evaluation metrics, DDMF emerges as a frontrunner, surpassing established state-of-the-art MFIF methods. ARTICLE INFO.",
+    "citation_count": "2",
+    "year": "2024/02/01",
+    "authors": [
+        {
+            "name": "Xin Pan",
+            "country": ""
+        },
+        {
+            "name": "Hao Zhai",
+            "country": ""
+        },
+        {
+            "name": "You Yang",
+            "country": ""
+        },
+        {
+            "name": "Lianhua Chen",
+            "country": ""
+        },
+        {
+            "name": "Anyu Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

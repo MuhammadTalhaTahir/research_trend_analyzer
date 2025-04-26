@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-015-0621-4",
+    "title": "Context-Aware User Association for Energy Cost Saving in a Green Heterogeneous Network with Hybrid Energy Supplies",
+    "abstract": "In this paper, we study the user association problem to minimize the total energy cost for a green heterogeneous network with hybrid energy supplies. The power consumption of a BS in both the access network and the backhaul links are modeled. We formulate a constrained total energy cost minimization problem, which is generally hard to tackle. We propose a centralized algorithm that exploits the available context-aware information of the network, including the network architecture knowledge, users’ data requirements, and available green energy, to find a feasible and near-optimal solution. Since it is difficult to collect all information in a heterogeneous network, we also propose a distributed algorithm based on the available context-aware information of each BS’s own. Simulations are used to compare our algorithms with the maximum channel gain (MCG) algorithm and the max-RSRP algorithm. Results demonstrate that the proposed context-aware user association algorithms can significantly reduce the total energy cost.",
+    "citation_count": 46,
+    "year": "2015/12",
+    "authors": [
+        {
+            "name": "Wang, Bang",
+            "country": "China"
+        },
+        {
+            "name": "Kong, Qiao",
+            "country": "China"
+        },
+        {
+            "name": "Yang, Laurence T.",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

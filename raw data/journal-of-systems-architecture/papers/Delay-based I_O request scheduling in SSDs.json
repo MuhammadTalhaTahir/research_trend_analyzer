@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S138376211830612X",
+    "title": "Delay-based I/O request scheduling in SSDs",
+    "abstract": "To pave the way for fast data access, multiple parallel components (e.g., multiple dies) in SSDs are crafted. Therefore, how to fully utilize the parallel resources has become a challenging issue. To address this issue, we first design an SSD model, which not only considers the structure of the parallel components in SSDs but also investigates the utilization of these components. Then, a novel delay-based request scheduling strategy is devised based on the proposed model. The proposed scheduling strategy can predict the  resource utilization  and intelligently allocate requests to the parallel components (i.e., channels) to achieve the low storage access latency. We integrate the delay-based request scheduling with the proposed SSD model into a trace-driven simulator and evaluate the effectiveness of the proposed scheme on the Financial and WebSearch data sets. The experimental results show that the IOPS and request latency are improved by 16.5% and 14.2% respectively compared with the state-of-the-art scheduling strategy.",
+    "citation_count": "12",
+    "year": "2019/09/01",
+    "authors": [
+        {
+            "name": "Renhai Chen",
+            "country": ""
+        },
+        {
+            "name": "Qiming Guan",
+            "country": ""
+        },
+        {
+            "name": "Chenlin Ma",
+            "country": ""
+        },
+        {
+            "name": "Zhiyong Feng",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

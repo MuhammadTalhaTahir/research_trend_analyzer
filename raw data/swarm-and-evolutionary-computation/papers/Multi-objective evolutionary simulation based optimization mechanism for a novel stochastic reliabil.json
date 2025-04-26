@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217303632",
+    "title": "Multi-objective evolutionary simulation based optimization mechanism for a novel stochastic reliability centered maintenance problem",
+    "abstract": "This research develops a novel stochastic reliability-centered maintenance (RCM) mechanism within a new multi-objective  joint  maintenance and production planning problem. RCM in this integrated problem is an agent that monitors and manages the maintenance functions of a stochastic complex production-planning problem, namely flexible  job shop scheduling  problem (FJSP). The novel developed RCM takes benefit of stochastic condition based maintenance (CBM) approach that works based on stochastic shocking scheme of machines during their process time. It activates the maintenance activities, including preventive and  corrective maintenance , according to the degradation level of system reliability after shocks and not merely according to the predetermined intervals. In addition to the maintenance activation times, the maintenance durations of different kinds are also modeled stochastically. Furthermore, different types of stochastic maintenance costs are also considered alongside system reliability and complementation time ( C max ). Moreover, as the problem belongs to the NP-Hard class of optimization problems, four multi-objective simulation based optimization (SBO) algorithms, called multi-objective  biogeography  based optimization (MOBBO) algorithm, Pareto envelope-based  selection algorithm  (PESA), new version of non-dominated sorting  genetic algorithm  (NSGAIII) and multi-objective evolutionary algorithm based on decomposition (MOEAD) are employed to solve the underlying problem. A novel visualization approach joint by Gant chart is also proposed to discuss the whole RCM scheme, systematically. Different test problems, statistical tests and outputs explain the problem and algorithms' performance explicitly.",
+    "citation_count": "40",
+    "year": "2018/06/01",
+    "authors": [
+        {
+            "name": "Seyed Habib A. Rahmati",
+            "country": ""
+        },
+        {
+            "name": "Abbas Ahmadi",
+            "country": ""
+        },
+        {
+            "name": "Behrooz Karimi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

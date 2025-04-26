@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224000245",
+    "title": "Swarm flocking using optimisation for a self-organised collective motion",
+    "abstract": "Collective motion, often called flocking, is a prevalent behaviour observed in nature wherein large groups of organisms move cohesively, guided by simple local interactions, as exemplified by bird flocks and  fish schools . Inspired by those intelligent species, many cyber–physical systems attempted to increase  autonomy  by resembling the models that describe those collective behaviours. The main motivation that persuades robotic research, particularly to move in that direction, is to benefit from the substantial robustness and reliability that social and collective systems can achieve relative to those systems that use a centralised solution to the problems. Collective motion behaviour can be achieved by applying virtual physical interaction inspired by elastic materials to determine the required attraction and repulsion forces between the agents in a  swarm robotic  system. However, it is necessary to apply virtual interaction efficiently to prevent undesirable  swarm  fluctuation, slow alignment, and excessive energy consumption. This paper presents a novel  Optimised Collective Motion  (OCM) algorithm that exerts viscoelastic interaction between robots. The main purpose of the developed algorithm is to increase robustness against different disturbing effects such as measurement noise,  environmental disturbances , and modelling uncertainties, which implies the algorithm’s capability for real-world  robotic applications . Moreover, the algorithm’s parameters are tuned automatically by employing  Particle Swarm Optimisation  to achieve: (i) minimum control effort, (ii) fast alignment, and (iii) robustness against noise. Simulation results established that the proposed algorithm outperforms the former algorithms, achieving 98% alignment in 50 s compared to the same alignment obtained in more than 300 s based on the previous method and being more robust in the presence of measurement noise. Furthermore, real-robot experiments performed on miniature mobile robots validate the OCM algorithm’s effectiveness and demonstrate the proposed algorithm’s practical capabilities.",
+    "citation_count": "10",
+    "year": "2024/04/01",
+    "authors": [
+        {
+            "name": "Mazen Bahaidarah",
+            "country": ""
+        },
+        {
+            "name": "Fatemeh Rekabi-Bana",
+            "country": ""
+        },
+        {
+            "name": "Ognjen Marjanovic",
+            "country": ""
+        },
+        {
+            "name": "Farshad Arvin",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

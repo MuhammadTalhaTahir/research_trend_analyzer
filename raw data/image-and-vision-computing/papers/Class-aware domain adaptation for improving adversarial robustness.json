@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885620300585",
+    "title": "Class-aware domain adaptation for improving adversarial robustness",
+    "abstract": "Recent works have demonstrated  convolutional neural networks  are vulnerable to  adversarial examples , i.e., inputs to  machine learning  models that an attacker has intentionally designed to cause the models to make a mistake. To improve the adversarial robustness of  neural networks ,  adversarial training  has been proposed to train networks by injecting adversarial examples into the  training data . However, adversarial training could overfit to a specific type of adversarial attack and also lead to standard accuracy drop on clean images. To this end, we propose a novel Class-Aware  Domain Adaptation  (CADA) method for adversarial defense without directly applying adversarial training. Specifically, we propose to learn domain-invariant features for adversarial examples and clean images via a domain  discriminator . Furthermore, we introduce a class-aware component into the  discriminator  to increase the  discriminative power  of the network for adversarial examples. We evaluate our newly proposed approach using multiple benchmark datasets. The results demonstrate that our method can significantly improve the state-of-the-art of adversarial robustness for various attacks and maintain high performances on clean images.",
+    "citation_count": "9",
+    "year": "2020/07/01",
+    "authors": [
+        {
+            "name": "Xianxu Hou",
+            "country": ""
+        },
+        {
+            "name": "Jingxin Liu",
+            "country": ""
+        },
+        {
+            "name": "Bolei Xu",
+            "country": ""
+        },
+        {
+            "name": "Xiaolong Wang",
+            "country": ""
+        },
+        {
+            "name": "Bozhi Liu",
+            "country": ""
+        },
+        {
+            "name": "Guoping Qiu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

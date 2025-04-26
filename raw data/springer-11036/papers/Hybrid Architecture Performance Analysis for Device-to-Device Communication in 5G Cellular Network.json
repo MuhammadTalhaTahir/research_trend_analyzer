@@ -1,0 +1,35 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-015-0566-7",
+    "title": "Hybrid Architecture Performance Analysis for Device-to-Device Communication in 5G Cellular Network",
+    "abstract": "A large number of new data consuming applications are emerging in the daily routines of mobile users. Device-to-Device (D2D) communication as a new paradigm is introduced to reduce the increasing traffic and offload it to the user equipment (UE). With the development of UE multi-radio interface, we first develop a new hybrid architecture concept for D2D communication. The architecture combines ISM 2.4G spectrum as the Out-Band mode using Bluetooth and Wifi-Direct with the cellular spectrum as the In-Band mode. Secondly, we design a scheme that forms the Out-Band cluster and makes the following periodic signaling interaction via the Bluetooth interface. Traffic is transferred via the Wifi-Direct interface inside the cluster but carried on the cellular spectrum among the clusters. Simulation results show that our proposal increases the system throughput, saves power consumption and prolongs the clusters lifetime.",
+    "citation_count": 30,
+    "year": "2015/12",
+    "authors": [
+        {
+            "name": "Lin, Zhijian",
+            "country": "China"
+        },
+        {
+            "name": "Gao, Zhibin",
+            "country": "China"
+        },
+        {
+            "name": "Huang, Lianfen",
+            "country": "China"
+        },
+        {
+            "name": "Chen, Chi-Yuan",
+            "country": "Taiwan"
+        },
+        {
+            "name": "Chao, Han-Chieh",
+            "country": "Taiwan"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-023-01198-0",
+    "title": "Applying unsupervised keyphrase methods on concepts extracted from discharge sheets",
+    "abstract": "Clinical notes contain valuable patient information. These notes are written by health care providers with various scientific levels and writing styles. It might be helpful for clinicians and researchers to understand what information is essential when dealing with extensive electronic medical records. Entities recognizing them and mapping them to standard terminologies is crucial to reducing ambiguity in processing clinical notes. Although named entity recognition and entity linking are critical steps in clinical natural language processing, they can produce repetitive and low-value concepts. On the other hand, all parts of a clinical text do not share the same importance or content in predicting the patient's condition. As a result, it is necessary to identify the section in which each content item is recorded and critical concepts to extract meaning from clinical texts. In this study, these challenges have been addressed by using clinical natural language processing techniques. In addition, a set of unsupervised essential phrase extraction methods has been verified and evaluated to identify key concepts. Considering that most clinical concepts are in the form of multi-word expressions and their accurate identification requires the user to specify an n-gram range, we have proposed a shortcut method to preserve the structure of the term based on TF-IDF (Term Frequency Inverse Document Frequency). To evaluate, we have designed two types of downstream tasks (multiple and binary classification) using the capabilities of transformer-based models. The results show the proposed method's superiority in combination with the SciBERT model. Also, they offer an insight into the efficacy of general methods for extracting essential phrases from clinical notes.",
+    "citation_count": 26,
+    "year": "2023/11",
+    "authors": [
+        {
+            "name": "Memarzadeh, Hoda",
+            "country": "Iran"
+        },
+        {
+            "name": "Ghadiri, Nasser",
+            "country": "Iran"
+        },
+        {
+            "name": "Samwald, Matthias",
+            "country": "Austria"
+        },
+        {
+            "name": "Lotfi Shahreza, Maryam",
+            "country": "Iran"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650220304223",
+    "title": "A many-objective optimization algorithm with mutation strategy based on variable classification and elite individual",
+    "abstract": "The current many-objective evolutionary algorithms (MaOEAs) generally adopt the mutation strategies designed for single-objective optimization problems directly. However, these mutation operators usually treat different decision variables without distinction and rarely consider the searching direction, which may easily lead to low search efficiency of the algorithms. To address this issue, a variable classification and elite individual based mutation strategy, namely VCEM, is proposed. It first divides decision variables into two categories, i.e., the convergence-related variables and the diversity-related variables. Then, for each generation, an elite individual with the best convergence and a set of elite individuals with good diversity are selected. The convergence-related variables and diversity related-variables of these two types of elite individuals are used to guide the mutation, respectively. The proposed mutation strategy is applied to develop a new algorithm, which is then compared with seven state-of-the-art MaOEAs on a number of benchmark problems. The experimental results demonstrate that the proposed algorithm is more competitive than the compared algorithms. Moreover, VCEM is applied to four different algorithms to compare with the original algorithms, and it is also compared with five mutation operators based on a classical MaOEA. The results further verify the effectiveness and generality of VCEM.",
+    "citation_count": "33",
+    "year": "2021/02/01",
+    "authors": [
+        {
+            "name": "Zhengping Liang",
+            "country": ""
+        },
+        {
+            "name": "Jiyu Zeng",
+            "country": ""
+        },
+        {
+            "name": "Ling Liu",
+            "country": ""
+        },
+        {
+            "name": "Zexuan Zhu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

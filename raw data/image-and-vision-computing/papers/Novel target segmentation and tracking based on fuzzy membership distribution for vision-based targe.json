@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885606001314",
+    "title": "Novel target segmentation and tracking based on fuzzy membership distribution for vision-based target tracking system",
+    "abstract": "One of the basic processes of a vision-based  target tracking  system is the detection process that separates an object from the background in a given image. A novel target detection technique for suppression of the background clutter is presented that uses a predicted point that is estimated from a tracking filter. For every pixel, the three-dimensional feature that is composed of the  x -position, the  y -position and the gray level of its position is used for evaluating the membership value that describes the probability of whether the pixel belongs to the target or to the background. These membership values are transformed into the membership level histogram. We suggest an asymmetric  Laplacian  model for the membership distribution of the background pixel and determine the optimal membership value for detecting the target region using the likelihood criterion. The proposed technique is applied to several infra-red image sequences and CCD image sequences to test segmentation and tracking. The feasibility of the proposed method is verified through comparison of the experimental results with the other techniques.",
+    "citation_count": "18",
+    "year": "2006/12/01",
+    "authors": [
+        {
+            "name": "Byung-Gyu Kim",
+            "country": ""
+        },
+        {
+            "name": "Dong-Jo Park",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

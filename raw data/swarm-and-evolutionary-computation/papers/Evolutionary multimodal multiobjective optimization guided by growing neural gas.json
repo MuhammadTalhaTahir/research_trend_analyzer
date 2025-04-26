@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224000336",
+    "title": "Evolutionary multimodal multiobjective optimization guided by growing neural gas",
+    "abstract": "Evolutionary multimodal  multiobjective optimization  aims to search for a set of  Pareto optimal solutions  that are well distributed in both the objective and decision spaces. In recent years, there has been a growing interest in enhancing the search ability of  evolutionary algorithms  using  machine learning techniques . However, there are few studies on machine learning-assisted evolutionary multimodal multiobjective optimization. In this paper, we propose an evolutionary multimodal multiobjective algorithm guided by growing neural gas, which learns the  topological structure  of the obtained good solutions during the evolution process. These good solutions are well-converged and well-distributed in the decision space, which indicate the shape of the Pareto  optimal solution set . The proposed algorithm employs three novel mating selection operators based on the topological structure to efficiently and effectively search for  Pareto optimal solutions . The first operator exploits Pareto optimal solutions within the topological structure, while the others explore Pareto optimal solutions around and far away from the topological structure, respectively. The proposed algorithm is compared with eight state-of-the-art evolutionary multimodal multiobjective algorithms on 20 test problems. Experimental results demonstrate that the proposed algorithm is competitive in solving these problems.",
+    "citation_count": "9",
+    "year": "2024/04/01",
+    "authors": [
+        {
+            "name": "Yiping Liu",
+            "country": ""
+        },
+        {
+            "name": "Ling Zhang",
+            "country": ""
+        },
+        {
+            "name": "Xiangxiang Zeng",
+            "country": ""
+        },
+        {
+            "name": "Yuyan Han",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

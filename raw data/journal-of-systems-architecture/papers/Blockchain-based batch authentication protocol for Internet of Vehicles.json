@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762120301569",
+    "title": "Blockchain-based batch authentication protocol for Internet of Vehicles",
+    "abstract": "The vehicles in  Internet of Vehicles  (IoV) can be used to opportunistically gather and distribute the data in a smart city environment. However, at the same time, various security threats arise due to insecure communication happening among various entities in an IoV-based smart city deployment. To address this issue, we aim to design a novel blockchain-enabled batch  authentication scheme  in  Artificial Intelligence  (AI)-envisioned IoV-based smart city deployment. The latest trends and revolutions in technologies incorporate AI/Machine Learning (ML) in blockchaining to produce a secure, efficient and intelligent  blockchain  based system. The data stored in the blocks in the  blockchain  are authentic and genuine, which makes the AI/ML algorithms to work at their exceptions in order produce correct predictions on the blockchain data. Through the signing phase of the proposed scheme, each vehicle in a dynamically formed cluster broadcasts a message to its own member and respective road-side unit (RSU). In the proposed scheme, two types of  authentication  take place: vehicle to vehicle (V2V) authentication allows a vehicle to authenticate its neighbor vehicles in its cluster, while batch authentication permits a group of cluster vehicles to be authenticated by their  R S U . At the end, a  group key  is established among the vehicles and  R S U  in their cluster.  R S U  then gathers securely data from its vehicles and form several transactions including the information of vehicles and its own given information to the cluster member vehicles. The transactions are formed later by the nearby fog server associated with  R S U  and then by the cloud server to form a complete block. The created blocks are mined by the cloud servers in a Peer-to-Peer (P2P) cloud server network through the voting-based Practical  Byzantine Fault Tolerance  (PBFT)  consensus algorithm . The authentic and genuine data of the blockchain are utilized for  Big data analytics  through AI/ML algorithms. It is shown that the proposed scheme is highly robust against various attacks through formal and informal security analysis, and also through formal security verification tool. A detailed comparative analysis reveals that the proposed scheme achieves superior security and functionality features, and offers comparable storage, communication and computational costs as compared to other existing competing schemes. Finally, the blockchain implementation has been carried out on the proposed scheme to show its effectiveness.",
+    "citation_count": "115",
+    "year": "2021/02/01",
+    "authors": [
+        {
+            "name": "Palak Bagga",
+            "country": ""
+        },
+        {
+            "name": "Anil Kumar Sutrala",
+            "country": ""
+        },
+        {
+            "name": "Ashok Kumar Das",
+            "country": ""
+        },
+        {
+            "name": "Pandi Vijayakumar",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

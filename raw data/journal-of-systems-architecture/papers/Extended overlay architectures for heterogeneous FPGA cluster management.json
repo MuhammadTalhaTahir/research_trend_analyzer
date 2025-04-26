@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762117300413",
+    "title": "Extended overlay architectures for heterogeneous FPGA cluster management",
+    "abstract": "This paper proposes a novel approach for the hardware  virtualization  of  FPGA  resources, based on overlay architectures. Overlays are  reconfigurable architectures  synthesized on top of commercial-of-the-shelf (COTS) FPGAs. They have demonstrated to improve portability, speed up  reconfiguration , and promote resource abstraction hence durability. This work demonstrates how slightly extending the architecture overlaying on top of COTS FPGAs can bring novel features for sake of improved management of hardware tasks, and ensure the binary compatibility among heterogeneous FPGAs. This comes along with a  deployment platform  and a software stack offering an operating system service. As a result, the platform is capable of node-to-node a hardware application live migration, while operating a cluster of heterogeneous FPGAs. Besides, the proposed software stack ensures  backward compatibility  when introducing a new overlay architecture. This paper also introduces accurate cost models for the early estimation of the  reconfiguration time  overhead. This approach that has been demonstrated in DASIP international conference is evaluated in this paper on both the Xilinx Artix-7 and Altera Cyclone V C9 FPGAs.",
+    "citation_count": "13",
+    "year": "2017/08/01",
+    "authors": [
+        {
+            "name": "Mohamad Najem",
+            "country": ""
+        },
+        {
+            "name": "Théotime Bollengier",
+            "country": ""
+        },
+        {
+            "name": "Jean-Christophe Le Lann",
+            "country": ""
+        },
+        {
+            "name": "Loïc Lagadec",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

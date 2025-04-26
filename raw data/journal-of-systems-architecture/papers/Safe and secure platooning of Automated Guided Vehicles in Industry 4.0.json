@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002125",
+    "title": "Safe and secure platooning of Automated Guided Vehicles in Industry 4.0",
+    "abstract": "Automated Guided Vehicles (AGVs) are widely used for materials transportation. Operating them in a platooned manner has the potential to improve safety, security and efficiency, control overall traffic flow and reduce resource usage. However, the published studies on platooning focus mainly on the design of technical solutions in the context of automotive domain. In this paper we focus on a largely unexplored theme of platooning in production sites transformed to the Industry 4.0, with the aim of providing safety and security assurances. We present an overall approach for a fault- and threat tolerant platooning for materials transportation in production environments. Our functional use cases include the platoon control for collision avoidance, data acquisition and processing by considering range, and connectivity with fog and cloud levels. To perform the safety and security analyses, the Hazard and Operability (HAZOP) and Threat and Operability (THROP) techniques are used. Based on the results obtained from them, the safety and security requirements are derived for the identification and prevention/mitigation of potential platooning hazards, threats and vulnerabilities. The assurance cases are constructed to show the acceptable safety and security of materials transportation using AGV platooning. We leveraged a simulation-based digital twin for performing the verification and validation as well as finetuning of the platooning strategy. Simulation data is gathered from digital twin to monitor platoon operations, identify unexpected or incorrect behaviour, evaluate the potential implications, trigger control actions to resolve them, and continuously update assurance cases. The applicability of the AGV platooning is demonstrated in the context of a quarry site.",
+    "citation_count": "0",
+    "year": "2021/12/01",
+    "authors": [
+        {
+            "name": "Muhammad Atif Javed",
+            "country": ""
+        },
+        {
+            "name": "Faiz Ul Muram",
+            "country": ""
+        },
+        {
+            "name": "Sasikumar Punnekkat",
+            "country": ""
+        },
+        {
+            "name": "Hans Hansson",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

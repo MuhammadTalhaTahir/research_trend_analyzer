@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885601000671",
+    "title": "Edge detection in a hexagonal-image processing framework",
+    "abstract": "With processing power of computers and capabilities of graphics devices increasing rapidly, the time is ripe to reconsider using hexagonal sampling for  computer vision  in earnest. This paper reports on an investigation of edge detection in the context of hexagonally sampled images. It presents a complete framework for processing hexagonally sampled images which addresses four key aspects: conversion of square to hexagonally sampled images, storage, processing, and display of these images. Results from using edge detection on this framework show that (a) the computational requirement for processing a hexagonally sampled image is less than that for square sampled images, and (b) a better qualitative performance which is due to the compact and circular nature of the  hexagonal lattice . This last point needs to be exploited in the development of edge detectors for hexagonally sampled images.",
+    "citation_count": "73",
+    "year": "2001/12/01",
+    "authors": [
+        {
+            "name": "Lee Middleton",
+            "country": ""
+        },
+        {
+            "name": "Jayanthi Sivaswamy",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

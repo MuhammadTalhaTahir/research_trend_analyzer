@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885620301116",
+    "title": "Collaborative representation of blur invariant deep sparse features for periocular recognition from smartphones",
+    "abstract": "The periocular region is used for authentication in the recent days under unconstrained acquisition in biometrics. This work presents two new feature extraction techniques to achieve robust and blur invariant biometric verification using periocular images captured using smartphones - (1)  Deep Sparse Features (DSF)  and (2)  Deep Sparse Time Frequency Features (DeSTiFF) . Both the approaches are based on extracting features via convolution of periocular images with a set of filters also referred as  Deep Sparse Filters . The filters are learnt using natural image patches and sparse filtering approach. The DSF is obtained through convolution via  Deep Sparse Filters . Further, convoluted responses are analyzed using Short Term Fourier Transform (STFT) to obtain time and frequency features of the images referred as DeSTIFF. The features obtained from the newly proposed feature extraction techniques are further represented in a collaborative subspace to achieve better verification performance. Both of the proposed feature extraction schemes are evaluated on two publicly available smartphone periocular databases and a new database (Visible Spectrum Periocular Image (VISPI) database) released with this article. The robustness of the proposed feature extraction is exemplified by comparing it with state-of-art approaches along with multiple deep networks where the improvement is evidently seen on large scale database with an average verification accuracy of  Genuine Match Rate  ≈   98% at  False Match Rate  =   0.01%. We further support reproducible research by making the code and the database available for the academic research.",
+    "citation_count": "0",
+    "year": "2020/09/01",
+    "authors": [
+        {
+            "name": "Kiran Raja",
+            "country": ""
+        },
+        {
+            "name": "Raghavendra Ramachandra",
+            "country": ""
+        },
+        {
+            "name": "Christoph Busch",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

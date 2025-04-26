@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-010-9364-0",
+    "title": "An FPTAS for uniform machine scheduling to minimize makespan with linear deterioration",
+    "abstract": "This paper consider m uniform (parallel) machine scheduling with linear deterioration to minimize the makespan. In an uniform machine environment, all machines have different processing speeds. Linear deterioration means that job’s actual processing time is a linear increasing function on its execution starting time. We propose a fully polynomial-time approximation scheme (FPTAS) to show the problem is NP-hard in the ordinary sense.",
+    "citation_count": 18,
+    "year": "2012/05",
+    "authors": [
+        {
+            "name": "Liu, Ming",
+            "country": "P.R. China"
+        },
+        {
+            "name": "Zheng, Feifeng",
+            "country": "P.R. China"
+        },
+        {
+            "name": "Chu, Chengbin",
+            "country": "France"
+        },
+        {
+            "name": "Zhang, Jiantong",
+            "country": "P.R. China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

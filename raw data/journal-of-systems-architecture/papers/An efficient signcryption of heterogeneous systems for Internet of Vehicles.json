@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762120301594",
+    "title": "An efficient signcryption of heterogeneous systems for Internet of Vehicles",
+    "abstract": "The rapid development of the  Internet of Vehicles  (IoVs) leads to a significant increase in the number of automobiles connected to the Internet. Therefore, to make all vehicles under a shared Internet, we need distributed systems and efficient communication design known as the vehicles cloud. When IoV transmits the monitored data to the server, it can delete, modify, or eavesdrop. Thus, this can cause  traffic accidents  and other mobility issues. Therefore, privacy and  authentication  are the main objectives of secure communication. To secure communication between the server and IoVs, we propose an efficient signcryption of a  heterogeneous system  for IoV (HSC-IoV) that can  achieve confidentiality , key  revocation , integrity, authentication, and no-repudiation as the high-level security features. An essential characteristic of the proposed scheme is to allow the IoVs nodes in a certificateless cryptography (CLC) environment to send a message to the server in a  Public Key Infrastructure  (PKI) environment. Therefore, the proposed protocol avoids the key escrow problem in  IBC  and also overcomes the burden of certification management in PKI. The formal analysis in a  random oracle model  (ROM) proves that the proposed protocol is secure under the Discrete Logarithm (DL) problem and the Computational Diffie–Hellman (CDH) problem. Furthermore, the analysis shows that our protocol has the advantage of being efficient compared to the existing protocols due to the computation without pairing.",
+    "citation_count": "39",
+    "year": "2021/02/01",
+    "authors": [
+        {
+            "name": "Ahmed Elkhalil",
+            "country": ""
+        },
+        {
+            "name": "Jiashu zhang",
+            "country": ""
+        },
+        {
+            "name": "Rashad Elhabob",
+            "country": ""
+        },
+        {
+            "name": "Nabeil Eltayieb",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

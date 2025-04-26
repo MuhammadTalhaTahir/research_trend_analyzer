@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762120301582",
+    "title": "Efficient Cache Resizing policy for DRAM-based LLCs in ChipMultiprocessors",
+    "abstract": "In today’s ChipMultiprocessors (CMPs), multiple cores share the common Last Level Cache (LLC), divided into multiple banks. As the data requirement is increasing the demand for larger LLC sizes is also increasing. The traditional SRAM technology is not area efficient to design such larger LLCs as demanded by the modern CMPs. From the last few years,  DRAM  technologies have been used to propose LLC.  DRAM  technology has almost 8 times density over the SRAM and hence larger cache size can be designed. Though DRAM is already considered as an alternative to design low cost, area-efficient larger size LLC, it must be used efficiently to get the benefits. Due to its overheads like access latency and refresh operations efficient techniques must be used to get better performance from DRAM LLC. In the existing works, it has been observed that though the larger LLC is required for the current as well as future data-intensive applications, the entire LLC may not be required while executing other applications. In such situations, some banks can be almost idle during a particular period of execution. These idle banks can be powered-off and restart later whenever required. The mechanism is called Cache Resizing as it resizes the cache (LLC) according to the current requirements. Cache resizing techniques are already proposed for SRAM based LLCs but due to the larger size of DRAM LLC, the same mechanisms cannot be used for DRAM LLCs. In this paper, we have proposed an efficient cache resizing policy for large sized LLC, especially for DRAM-based LLCs. We call our proposed cache resizing technique as Efficient Cache Resizing (ECR) which is implemented on top of a 3D Tiled CMP. Experimental analysis shows that ECR can reduce up to 44% more energy consumption as compared to the existing technique.",
+    "citation_count": "5",
+    "year": "2021/02/01",
+    "authors": [
+        {
+            "name": "Bindu Agarwalla",
+            "country": ""
+        },
+        {
+            "name": "Shirshendu Das",
+            "country": ""
+        },
+        {
+            "name": "Nilkanta Sahu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

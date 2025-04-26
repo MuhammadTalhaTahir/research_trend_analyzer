@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-024-01351-3",
+    "title": "Global point cloud registration network for large transformations",
+    "abstract": "Three-dimensional registration is an established yet challenging problem that is key in many different applications, such as mapping the environment for autonomous vehicles, or modeling people for avatar creation, among others. Registration refers to the process of mapping multiple data into the same coordinate system by means of matching correspondences and transformation estimation. Novel proposals exploit the benefits of deep learning architectures for this purpose, as they learn the best features for the data, providing better matches and hence results. However, the state of the art is usually focused on cases of relatively small transformations, although in certain applications and in a real and practical environment, large transformations are very common. In this paper, we present ReLaTo (Registration for Large Transformations), an architecture that addresses the cases where large transformations happen while maintaining good performance for local transformations. This proposal uses a novel Softmax pooling layer to find correspondences in a bilateral consensus manner between two point sets, sampling the most confident matches. These matches estimate a coarse and global registration using weighted Singular Value Decomposition (SVD). A target-guided denoising step is applied to both the obtained matches and latent features to estimate the final fine registration considering the local geometry. All these steps are carried out following an end-to-end approach, which has been shown to perform better than 7 state-of-the-art registration methods in two datasets commonly used for this task (ModelNet40 and the Karlsruhe Institute of Technology and Toyota Technological Institute dataset, KITTI), especially in the case of large transformations.",
+    "citation_count": 60,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "Cuevas-Velasquez, Hanz",
+            "country": "Germany"
+        },
+        {
+            "name": "Galan-Cuenca, Alejandro",
+            "country": "Spain"
+        },
+        {
+            "name": "Gallego, Antonio Javier",
+            "country": "Spain"
+        },
+        {
+            "name": "Saval-Calvo, Marcelo",
+            "country": "Spain"
+        },
+        {
+            "name": "Fisher, Robert B.",
+            "country": "UK"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

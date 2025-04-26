@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-024-01181-3",
+    "title": "Phylogenetic network-assisted rooting of unrooted gene trees",
+    "abstract": "Gene trees inferred from molecular sequence alignments are typically unrooted, and determining the most credible rooting edge is a classical problem in computational biology. One approach to solve this problem is unrooted reconciliation, where the rooting edge is postulated based on the split of the root from a given species tree. In this paper, we propose a novel variant of the gene tree rooting problem, where the gene tree root is inferred using a phylogenetic network of the species present in the gene tree. To obtain the best rooting, unrooted reconciliation can be applied, where the unrooted gene tree is jointly reconciled with a set of splits inferred from the network. However, the exponential size of the set induced by display trees of the network makes this approach computationally prohibitive. To address this, we propose a broader and easier-to-control set of splits based on the structural properties of the network. We then derive exact mathematical formulas for the rooting problem and propose two general rooting algorithms to handle cases where the input network does not meet the initial requirements. Our experimental study based on simulated gene trees and networks demonstrates that our algorithms infer gene tree rootings correctly or with a small error in most cases.",
+    "citation_count": 28,
+    "year": "2024/07",
+    "authors": [
+        {
+            "name": "Tiuryn, Jerzy",
+            "country": "Poland"
+        },
+        {
+            "name": "Rutecka, Natalia",
+            "country": "Poland"
+        },
+        {
+            "name": "Górecki, Paweł",
+            "country": "Poland"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

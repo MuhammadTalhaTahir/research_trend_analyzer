@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-022-01076-1",
+    "title": "A single-shot model for traffic-related pedestrian detection",
+    "abstract": "Traffic-related pedestrian detection is important for advanced driving-assistant systems and autonomous driving. In addition to pedestrian detection, traffic-related pedestrian detection involves the challenge of detecting small-target pedestrians from large input images. Recently, deep-learning-based methods, including convolution neural networks, have been applied to problems of pedestrian detection. In this study, we propose a single-shot multibox detector (SSD)-based method called E-SSD to increase the accuracy and speed of detecting traffic-related pedestrians. This method includes a deconvolutional feature-fusion module to provide shallow layers with additional contextual information, which is beneficial for detecting small-sized objects. Additionally, we included an attention layer designed to exploit channel attention and spatial attention in order to utilize the most valuable information for detecting target pedestrians. Furthermore, we built a traffic-related pedestrian dataset (UCAR pedestrian) specific for Beijing. Evaluation results on the UCAR dataset demonstrated that E-SSD was more effective than a baseline SSD model at detecting small-target pedestrians. Evaluation of E-SSD on the Caltech pedestrian, COCO Persons and INRIA pedestrian datasets demonstrated that its performance was comparable with state-of-the-art methods.",
+    "citation_count": 55,
+    "year": "2022/11",
+    "authors": [
+        {
+            "name": "Sun, Chang",
+            "country": "China"
+        },
+        {
+            "name": "Ai, Yibo",
+            "country": "China"
+        },
+        {
+            "name": "Qi, Xing",
+            "country": "China"
+        },
+        {
+            "name": "Wang, Sheng",
+            "country": "China"
+        },
+        {
+            "name": "Zhang, Weidong",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

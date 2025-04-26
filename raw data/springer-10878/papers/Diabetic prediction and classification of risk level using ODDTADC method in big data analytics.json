@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-024-01179-x",
+    "title": "Diabetic prediction and classification of risk level using ODDTADC method in big data analytics",
+    "abstract": "Diabetes is regarded as one of the deadliest chronic illnesses that increases blood sugar. But there is no reliable method for predicting diabetic severity that shows how the disease will affect various body organs in the future. Therefore, this paper introduced Optimized Dual Directional Temporal convolution and Attention based Density Clustering (ODDTADC) method for predicting and classifying risk level in diabetic patients. In the diabetic prediction stage, the prediction is done by using an Integrated Dual Directional Temporal Convolution and an Enriched Remora Optimization Algorithm. Here, dual directional temporal convolution is used to extract temporal features by integrating dilated convolution and casual convolution in the feature extraction layer. Then, the attention module is used instead of max-pooling to emphasize the various features' importance in the feature aggregation layer. The Enriched Remora Optimization Algorithm is used to find optimal hyper parameters for Integrated Dual Directional Temporal Convolution. In the classification of stages based on risk level, the values from stage-I are fed into the Attention based Density Spatial Clustering of Applications with Noise, which allocate various weights based on their density values in the Core Points. Based on the results, the Nested Long Short-Term Memory is utilized to classify the risk levels of diabetic patients over a period of two or three years. Experimental evaluations were performed on five datasets, including PIMA Indian Diabetics Database, UCI Machine Learning Repository Diabetics Dataset, Heart Diseases Dataset, Chronic Disease Dataset and Diabetic Retinopathy Debrecen Dataset. The proposed ODDTADC method demonstrates superior performance compared to existing methods, achieving remarkable results in accuracy (98.21%), recall (94.46%), kappa coefficient (98.95%), precision (98.74%), F1-score (99.01%) and Matthew’s correlation coefficient (MCC) (0.87%).",
+    "citation_count": 40,
+    "year": "2024/07",
+    "authors": [
+        {
+            "name": "Jenefer, G. Geo",
+            "country": "India"
+        },
+        {
+            "name": "Deepa, A. J.",
+            "country": "India"
+        },
+        {
+            "name": "Linda, M. Mary",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

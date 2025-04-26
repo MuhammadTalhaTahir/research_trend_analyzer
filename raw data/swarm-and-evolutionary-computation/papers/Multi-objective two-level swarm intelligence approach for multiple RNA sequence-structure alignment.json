@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217301062",
+    "title": "Multi-objective two-level swarm intelligence approach for multiple RNA sequence-structure alignment",
+    "abstract": "This paper proposes a novel two-level  particle swarm optimization  algorithm for multi-objective optimization (MO-TLPSO) employed to a challenging problem of bioinformatics i.e.  RNA  sequence-structure alignment. Level one of the proposed approach optimizes the dimension of each  swarm  which is sequence length for the addressed problem, whereas level two optimizes the particle positions and then evaluates both the conflicting objectives. The conflicting objectives of the addressed problem are obtaining optimal multiple sequence alignment as well as optimal  secondary structure . Optimal  secondary structure  is obtained by TL-PSOfold, the structure is further used for computing the contribution of base pairing of individual sequence and the co-variation between aligned positions of sequences so as to make the structure closer to the natural one. The results are tested against the popular softwares for pairwise and multiple alignment at BRAlibase benchmark datasets. Proposed work is so far the first multi-objective optimization based approach for structural alignment of multiple  RNA  sequences without converting the problem into single objective. Also, it is the first  swarm intelligence  based approach that addresses sequence-structure alignment issue of  RNA  sequences. Simulation results are compared with the state-of-the-art and competitive approaches. MO-TLPSO is found well competent in producing pairwise as well as multiple sequence-structure alignment of  RNA . The claim is supported by performing statistical significance testing using one way ANOVA followed by Bonferroni post-hoc analysis for both kind of alignments.",
+    "citation_count": "11",
+    "year": "2017/06/01",
+    "authors": [
+        {
+            "name": "Soniya Lalwani",
+            "country": ""
+        },
+        {
+            "name": "Rajesh Kumar",
+            "country": ""
+        },
+        {
+            "name": "Kusum Deep",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

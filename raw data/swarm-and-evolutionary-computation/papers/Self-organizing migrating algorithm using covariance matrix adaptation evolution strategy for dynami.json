@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650221000973",
+    "title": "Self-organizing migrating algorithm using covariance matrix adaptation evolution strategy for dynamic constrained optimization",
+    "abstract": "The dynamic constrained optimization problems can be a challenge for the optimization algorithms. They must tackle global optimum detection, as well as the change of the environment. Recently, a novel test suite for dynamic constrained optimization was introduced. Furthermore, three well-performed evolutionary algorithms were compared based on it. The experimental results show that each algorithm performed best for a different type of optimization problem. The objective of our work was to develop an algorithm reflecting requirements arising from the novel test suite and regarding the results provided by the tested algorithms. In this work, we present a novel evolutionary algorithm for dynamic constrained optimization. The algorithm hybridizes the self-organizing migrating algorithm and the covariance matrix adaptation evolution strategy with constraints handling approach. To avoid premature convergence, the best solutions representing feasible regions do not affect the rest of the population. Two clustering methods, exclusion radius, and quantum particles are used to preserve population diversity. The performance is evaluated on the recently published test suite and compared to the three state-of-the-art algorithms. The presented algorithm outperformed these algorithms in most test cases, which indicates the efficiency of the utilized mechanisms.",
+    "citation_count": "0",
+    "year": "2021/08/01",
+    "authors": [
+        {
+            "name": "Lenka Skanderova",
+            "country": ""
+        },
+        {
+            "name": "Tomas Fabian",
+            "country": ""
+        },
+        {
+            "name": "Ivan Zelinka",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

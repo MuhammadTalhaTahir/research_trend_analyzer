@@ -1,0 +1,21 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1009830409833",
+    "title": "Some Results on Node Lifting of TSP Inequalities",
+    "abstract": "We can define important classes of TSP inequalities by performing Naddef and Rinaldi's node lifting operation on simple TSP inequalities. We present some new insights into the node lifting operation, namely that 1-node lifting of cut based inequalities always has a geometric interpretation if a certain claw-free condition which is satisfied by most of these TSP inequalities is met. We go on to show that node lifting of the subtour elimination inequalities does not yield any new inequalities.",
+    "citation_count": 10,
+    "year": "2000/12",
+    "authors": [
+        {
+            "name": "Carr, Robert",
+            "country": "Albuquerque"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

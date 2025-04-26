@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624001495",
+    "title": "Optimal fusion of features from decomposed ultrasound RF data with adaptive weighted ensemble classifier to improve breast lesion classification",
+    "abstract": "Early diagnosis plays a crucial role in successful treatment of breast tumors and reduced mortality. In this study, considering the complementary advantages between features and combined with the improvement of classifiers, fusion of optimal complexity and texture features from decomposed ultrasound  radio frequency  (RF) data is proposed to improve  breast lesion  classification performance. In this method, three complexity features and four texture features were extracted from the ring regions of interest for breast lesions in all decomposed RF sub-images and their combinations. Selection techniques based on analysis of feature relevance, redundancy, and interaction (FRRI) were used to determine the optimal feature sets (FS–FRRI). Finally, three classifiers with the best performance (weighted k-nearest neighbor, bagged  tree ,  Gaussian   Naive Bayes  (NB)) were selected based on FS-FRRI. The three classifiers were integrated using the bagging method, and each classifier was adaptively weighted according to the  genetic algorithm  during the integration to classify breast lesions. The proposed method was evaluated using the Open Access Series of Breast  Ultrasonic  Data, with 10-fold cross-validation. The experimental results demonstrated that  optimal performance  was obtained by the FS–FRRI-based adaptive weighted ensemble classifier, with an accuracy of 97%, a sensitivity of 99%, a specificity of 96%, and an area under the receiver operating curve value of 0.97. Fusion of optimal complexity and texture features from decomposed ultrasound RF data with an adaptive weighted ensemble classifier can help improve breast lesion classification performance, which has great potential to assist clinicians in accurate diagnosis of breast lesions.",
+    "citation_count": "1",
+    "year": "2024/06/01",
+    "authors": [
+        {
+            "name": "Ruihan Yao",
+            "country": ""
+        },
+        {
+            "name": "Bingbing He",
+            "country": ""
+        },
+        {
+            "name": "Yufeng Zhang",
+            "country": ""
+        },
+        {
+            "name": "Zhiyao Li",
+            "country": ""
+        },
+        {
+            "name": "Jingying Zhu",
+            "country": ""
+        },
+        {
+            "name": "Xun Lang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

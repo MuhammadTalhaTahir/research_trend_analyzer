@@ -1,0 +1,38 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10617-012-9101-2",
+    "title": "System level modeling methodology of NoC design from UML-MARTE to VHDL",
+    "abstract": "The evolution of the semiconductor technology caters for the increase in the System-on-Chip (SoC) complexity. In particular, this complexity appears in the communication infrastructures like the Network-on-Chips (NoCs). However many complex SoCs are becoming increasingly hard to manage. In fact, the design space, which represents all the concepts that need to be explored during the SoC design, is becoming dramatically large and difficult to explore. In addition, the manipulation of SoCs at low levels, like the Register Transfer Level (RTL), is based on manual approaches. This has resulted in the increase of both time-to-market and the development costs. Thus, there is a need for developing some automated high level modeling environments for computer aided design in order to handle the design complexity and meet tight time-to-market requirements. The extension of the UML language called UML profile for MARTE (Modeling and Analysis of Real-Time and Embedded systems) allows the modeling of repetitive structures such as the NoC topologies which are based on specific concepts. This paper presents a new methodology for modeling concepts of NoC-based architectures, especially the modeling of topology of the interconnections with the help of the repetitive structure modeling (RSM) package of MARTE profile. This work deals with the ways of improving the effectiveness of the MARTE standard by clarifying and extending some notations in order to model complex NoC topologies. Our contribution includes a description of how these concepts may be mapped into VHDL. The generated code has been successfully evaluated and validated for several NoC topologies.",
+    "citation_count": 43,
+    "year": "2012/11",
+    "authors": [
+        {
+            "name": "Elhaji, Majdi",
+            "country": "Tunisia"
+        },
+        {
+            "name": "Boulet, Pierre",
+            "country": ""
+        },
+        {
+            "name": "Zitouni, Abdelkrim",
+            "country": ""
+        },
+        {
+            "name": "Meftali, Samy",
+            "country": ""
+        },
+        {
+            "name": "Dekeyser, Jean-Luc",
+            "country": ""
+        },
+        {
+            "name": "Tourki, Rached",
+            "country": ""
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

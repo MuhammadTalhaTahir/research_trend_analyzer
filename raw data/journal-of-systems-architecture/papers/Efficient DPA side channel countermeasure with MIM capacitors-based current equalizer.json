@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121001077",
+    "title": "Efficient DPA side channel countermeasure with MIM capacitors-based current equalizer",
+    "abstract": "Side-channel attacks are one of the security threats to the chip-level devices of the  communication systems . To strengthen chip-level  cryptographic devices  against side-channel attacks, a current equalizer that weakens the current difference is proposed, which barely changes the original design flow and is resistant to physical teardown. This method overlays (metal-insulator-metal) MIM capacitors on top of the critical modules in chip-level components, thus weakening the differences in supply current at different inputs. Meanwhile, the proposed countermeasure is an anti-physical teardown, due to the way the MIM capacitors are connected longitudinally to the power network of the key modules. Experimental results show that this approach is highly resistant to DPA, which has the lowest security  evaluation metrics  value and area overhead than three existing DPA countermeasures.",
+    "citation_count": "1",
+    "year": "2021/09/01",
+    "authors": [
+        {
+            "name": "Xiaomin Cai",
+            "country": ""
+        },
+        {
+            "name": "Guoqi Xie",
+            "country": ""
+        },
+        {
+            "name": "Shijie Kuang",
+            "country": ""
+        },
+        {
+            "name": "Renfa Li",
+            "country": ""
+        },
+        {
+            "name": "Shaoqing Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

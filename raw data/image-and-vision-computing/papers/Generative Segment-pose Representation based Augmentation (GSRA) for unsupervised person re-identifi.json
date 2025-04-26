@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623000069",
+    "title": "Generative Segment-pose Representation based Augmentation (GSRA) for unsupervised person re-identification",
+    "abstract": "Person re-identification matches the images of a person captured in multiple cameras in a smart surveillance environment. The process of matching the images captured from multiple viewing angles is challenging due to the variations caused by illumination, occlusion, dynamic pose change, etc., To tackle such challenges, large number of samples are required to identify the unique features of a person. In real-world crowded surveillance environment, it is highly difficult to capture the sufficient number of images to build a deep model. This scarcity in samples can be resolved by generating images using generative networks. The existing literature lacks robust discriminators and validation techniques to validate the generative network in an unsupervised person re-identification setup. Thus, we propose an unsupervised adversarial segment-pose distance threshold representation to validate the generated images in addition to the conventional discriminator. The images are generated and cross-validated with the determined segment-pose distance threshold. Labelling process is performed by matching the unoccluded segment with its appropriate ground truth parent cluster based on the segment-pose distance threshold. We have performed experiments on the benchmark person re-ID datasets like DukeMTMC re-ID, Market1501, CUHK03 and MSMT17. The effectiveness of the proposed unsupervised generative model is proved by reporting a +2.6% highest ranking accuracy over the state-of-the-art methods.",
+    "citation_count": "2",
+    "year": "2023/03/01",
+    "authors": [
+        {
+            "name": "Sridhar Raj S",
+            "country": ""
+        },
+        {
+            "name": "Munaga V.N.K. Prasad",
+            "country": ""
+        },
+        {
+            "name": "Ramadoss Balakrishnan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

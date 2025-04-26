@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-013-9618-8",
+    "title": "Multiprocessor speed scaling for jobs with arbitrary sizes and deadlines",
+    "abstract": "In this paper we study energy efficient deadline scheduling on multiprocessors in which the processors consumes power at a rate of $$s^\\alpha $$ when running at speed $$s$$ , where $$\\alpha \\ge 2$$ . The problem is to dispatch jobs to processors and determine the speed and jobs to run for each processor so as to complete all jobs by their deadlines using the minimum energy. The problem has been well studied for the single processor case. For the multiprocessor setting, constant competitive online algorithms for special cases of unit size jobs or arbitrary size jobs with agreeable deadlines have been proposed by Albers et al. (2007). A randomized algorithm has been proposed for jobs of arbitrary sizes and arbitrary deadlines by&nbsp;Greiner et al. (2009). We propose a deterministic online algorithm for the general setting and show that it is $$O(\\log ^\\alpha P)$$ -competitive, where $$P$$ is the ratio of the maximum and minimum job size.",
+    "citation_count": 33,
+    "year": "2015/05",
+    "authors": [
+        {
+            "name": "Bell, Paul C.",
+            "country": "UK"
+        },
+        {
+            "name": "Wong, Prudence W. H.",
+            "country": "UK"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

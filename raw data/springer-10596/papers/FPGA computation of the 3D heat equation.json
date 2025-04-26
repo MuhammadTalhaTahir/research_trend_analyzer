@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-009-9177-3",
+    "title": "FPGA computation of the 3D heat equation",
+    "abstract": "Efficient solution of the heat equation is one of the recursive topics in computational physics. Over the years, different software solutions have been proposed, taking advantage of today’s impressive computing power of parallel machines. In this work, we consider a hybrid software–hardware approach making use of a field-programmable gate array platform as a heat equation solver that can be easily attached to a PC using a PCI bus with the goal of obtaining a portable system to be used during field experiments. The system has been successfully used for the non-destructive inspection of soils in mine detection applications based on infrared thermography techniques.",
+    "citation_count": 15,
+    "year": "2010/09",
+    "authors": [
+        {
+            "name": "Pardo, Fernando",
+            "country": "Spain"
+        },
+        {
+            "name": "López, Paula",
+            "country": "Spain"
+        },
+        {
+            "name": "Cabello, Diego",
+            "country": "Spain"
+        },
+        {
+            "name": "Balsi, Marco",
+            "country": "Italy"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

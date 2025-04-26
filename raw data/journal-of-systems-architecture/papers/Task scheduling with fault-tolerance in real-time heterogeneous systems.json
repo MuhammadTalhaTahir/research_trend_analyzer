@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762118301759",
+    "title": "Task scheduling with fault-tolerance in real-time heterogeneous systems",
+    "abstract": "Nowadays, the performance of  heterogeneous systems  has been improved dramatically, which also increases the complexity of  heterogeneous systems , leading to the growing potential of system failures. Failures can be masked through scheduling approaches. Efficient  task scheduling  with fault-tolerance can guarantee the execution of tasks and satisfy the real-time nature. In this paper, we address the problem of scheduling tasks on heterogeneous systems with the target to support the maximum number of permanent failures while meeting a given time constraint. The problem is NP-hard and we propose a  heuristic algorithm  DBSA to solve it. DBSA can dynamically calculate the number of tolerating permanent failures. Firstly, the makespan when systems tolerate a fixed number of failures is calculated. Then, DBSA gets the actual number of tolerating failures by constantly comparing the makespan with a given deadline. Finally, DBSA maps tasks to appropriate processors without violating precedence constraints. Experimental results demonstrate that DBSA can effectively tolerate failures and improves system reliability.",
+    "citation_count": "31",
+    "year": "2018/10/01",
+    "authors": [
+        {
+            "name": "Jing Liu",
+            "country": ""
+        },
+        {
+            "name": "Mengxue Wei",
+            "country": ""
+        },
+        {
+            "name": "Wei Hu",
+            "country": ""
+        },
+        {
+            "name": "Xin Xu",
+            "country": ""
+        },
+        {
+            "name": "Aijia Ouyang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

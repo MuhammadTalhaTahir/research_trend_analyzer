@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003159",
+    "title": "W-shaped network combined with dual transformers and edge protection for multi-focus image fusion",
+    "abstract": "In this paper, a W-shaped network combined with dual transformers and edge protection is proposed for multi-focus image fusion. Different from the traditional Convolutional Neural Network (CNN) fusion method, a heterogeneous encoder network framework is designed for feature extraction, and a decoder is used for feature reconstruction. The purpose of this design is to preserve the local details and edge information of the source image to the maximum extent possible. Specifically, the first encoder uses adaptive average pooling to downsample the source image and extract important features from it. The source image pair for edge detection using the Gaussian Modified Laplace Operator (GMLO) is used as input for the second encoder, and adaptive maximum pooling is employed for downsampling. In addition, the encoder part of the network combines CNN and Transformer to extract both local and global features. By reconstructing the extracted feature information, the final fusion image is obtained. To evaluate the performance of this method, we compared 16 recent multi-focus image fusion methods and conducted qualitative and quantitative analyses. Experimental results on public datasets such as Lytro, MFFW, MFI-WHU, and the real scene dataset HBU-CVMDSP demonstrate that our method can accurately identify the focused and defocused regions of source images. It also preserves the edge details of the source images while extracting the focused regions.",
+    "citation_count": "2",
+    "year": "2024/10/01",
+    "authors": [
+        {
+            "name": "Hao Zhai",
+            "country": ""
+        },
+        {
+            "name": "Yun Chen",
+            "country": ""
+        },
+        {
+            "name": "Yao Wang",
+            "country": ""
+        },
+        {
+            "name": "Yuncan Ouyang",
+            "country": ""
+        },
+        {
+            "name": "Zhi Zeng",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

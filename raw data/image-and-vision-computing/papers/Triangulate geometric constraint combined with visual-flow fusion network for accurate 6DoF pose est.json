@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621000329",
+    "title": "Triangulate geometric constraint combined with visual-flow fusion network for accurate 6DoF pose estimation",
+    "abstract": "Estimating the 6D object pose based on a monocular  RGB image  is a challenging task in  computer vision , which produces  false positives  under the influence of occlusion or cluttered environments. In addition, the prediction of translation is affected by changes of the image size. In this work, we present a novel two-stage method TGCPose6D for robust 6DoF object pose estimation which is composed of 2D  keypoint  detection and translation refinement. In the first stage, the 2D keypoint regression space is constrained by triangulate  geometric feature  vectors, and the low-quality prediction is suppressed by the center-heatmap weighted loss function, thereby the performance of keypoint detection is significantly improved. In the second stage, the Visual-Flow Fusion network (VFFNet) is used to extract the visual feature and optical flow feature of the  rendered image  and the observed image, and to predict the relative translation based on the difference of features. Specifically, the VFFNet is trained iteratively to gain the ability to predict the relative translation deviation. Extensive experiments are conducted to demonstrate the effectiveness of the proposed TGCPose6D method. Our overall pose estimation pipeline outperforms state-of-the-art object pose estimation methods on several benchmarks.",
+    "citation_count": "10",
+    "year": "2021/04/01",
+    "authors": [
+        {
+            "name": "Zhihong Jiang",
+            "country": ""
+        },
+        {
+            "name": "Xin Wang",
+            "country": ""
+        },
+        {
+            "name": "Xiao Huang",
+            "country": ""
+        },
+        {
+            "name": "Hui Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

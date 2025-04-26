@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223001621",
+    "title": "A multi-preference-based constrained multi-objective optimization algorithm",
+    "abstract": "When tackling constrained multi-objective optimization problem,  evolutionary algorithms  grapple with the simultaneous need to optimize the conflict objectives and satisfy constraints. The preference for the algorithm in processing objectives and constraints directly affects the feasibility, diversity and convergence of population. At the same time, the decision regarding algorithmic preference should be based on the characteristics of the current evolution. Therefore, preference decision of algorithm is a intractable challenge throughout the optimization. To address this issue, a multi-preference-based constrained multi-objective optimization algorithm is proposed in this paper, operating under the aegis of three evolutionary models. The preferences are determined by the analysis of the evolution states in concert with the actual characteristic of the population, and are implemented through the reasonable scheduling evolutionary models. When the preference changes, the algorithm identifies the useful knowledges carried by the previous populations and transfers them to the current populations. In addition, a shift-based update strategy and a new co-evolution strategy are designed for different models in the proposed algorithm, respectively. Compared to five state-of-the-art multi-objective algorithms on two benchmark suits and two real-world applications, the proposed algorithm performs better than its peers, especially in diversity difficulty and convergence difficulty multi-objective optimization problems.",
+    "citation_count": "9",
+    "year": "2023/12/01",
+    "authors": [
+        {
+            "name": "Xue Feng",
+            "country": ""
+        },
+        {
+            "name": "Zhengyun Ren",
+            "country": ""
+        },
+        {
+            "name": "Anqi Pan",
+            "country": ""
+        },
+        {
+            "name": "Juchen Hong",
+            "country": ""
+        },
+        {
+            "name": "Yinghao Tong",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

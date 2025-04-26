@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959520300801",
+    "title": "Breast cancer detection by leveraging Machine Learning",
+    "abstract": "India has witnessed 30% of the cases of breast cancer during the last few years and it is likely to increase. Breast cancer in India accounts that one woman is diagnosed every two minutes and every nine minutes, one woman dies. Early detection and diagnosis can save the lives of cancer patients. This paper presents a novel method to detect breast cancer by employing techniques of Machine Learning. The authors carried out an experimental analysis on a dataset to evaluate the performance. The proposed method has produced highly accurate and efficient results when compared to the existing methods.",
+    "citation_count": "0",
+    "year": "2020/12/01",
+    "authors": [
+        {
+            "name": "Anji Reddy Vaka",
+            "country": ""
+        },
+        {
+            "name": "Badal Soni",
+            "country": ""
+        },
+        {
+            "name": "Sudheer Reddy K.",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

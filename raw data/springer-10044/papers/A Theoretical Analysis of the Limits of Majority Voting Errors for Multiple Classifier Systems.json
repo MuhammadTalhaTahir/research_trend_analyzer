@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s100440200030",
+    "title": "A Theoretical Analysis of the Limits of Majority Voting Errors for Multiple Classifier Systems",
+    "abstract": ": A robust character of combining diverse classifiers using a majority voting has recently been illustrated in the pattern recognition literature. Furthermore, negatively correlated classifiers turned out to offer further improvement of the majority voting performance even comparing to the idealised model with independent classifiers. However, negatively correlated classifiers represent a very unlikely situation in real-world classification problems, and their benefits usually remain out of reach. Nevertheless, it is theoretically possible to obtain a 0% majority voting error using a finite number of classifiers at error levels lower than 50%. We attempt to show that structuring classifiers into relevant multistage organisations can widen this boundary, as well as the limits of majority voting error, even more. Introducing discrete error distributions for analysis, we show how majority voting errors and their limits depend upon the parameters of a multiple classifier system with hardened binary outputs (correct/incorrect). Moreover, we investigate the sensitivity of boundary distributions of classifier outputs to small discrepancies modelled by the random changes of votes, and propose new more stable patterns of boundary distributions. Finally, we show how organising classifiers into different structures can be used to widen the limits of majority voting errors, and how this phenomenon can be effectively exploited.",
+    "citation_count": 0,
+    "year": "2002/10",
+    "authors": [
+        {
+            "name": "Ruta, Dymitr",
+            "country": "UK"
+        },
+        {
+            "name": "Gabrys, Bogdan",
+            "country": "UK"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885625000526",
+    "title": "Gait recognition via View-aware Part-wise Attention and Multi-scale Dilated Temporal Extractor",
+    "abstract": "Gait recognition based on silhouette sequences has made significant strides in recent years through the extraction of body shape and motion features. However, challenges remain in achieving accurate gait recognition under covariate changes, such as variations in view and clothing. To tackle these issues, this paper introduces a novel methodology incorporating a View-aware Part-wise Attention (VPA) mechanism and a Multi-scale Dilated Temporal Extractor (MDTE) to enhance gait recognition. Distinct from existing techniques, VPA mechanism acknowledges the differential sensitivity of various body parts to view changes, applying targeted attention weights at the feature level to improve the efficacy of view-aware constraints in areas of higher saliency or distinctiveness. Concurrently, MDTE employs dilated convolutions across multiple scales to capture the temporal dynamics of gait at diverse levels, thereby refining the motion representation. Comprehensive experiments on the CASIA-B, OU-MVLP, and Gait3D datasets validate the superior performance of our approach. Remarkably, our method achieves a 91.0% accuracy rate under clothing-change conditions on the CASIA-B dataset using solely silhouette information, surpassing the current state-of-the-art (SOTA) techniques. These results underscore the effectiveness and adaptability of our proposed strategy in overcoming the complexities of gait recognition amidst covariate changes.",
+    "citation_count": "0",
+    "year": "2025/04/01",
+    "authors": [
+        {
+            "name": "Xu Song",
+            "country": ""
+        },
+        {
+            "name": "Yang Wang",
+            "country": ""
+        },
+        {
+            "name": "Yan Huang",
+            "country": ""
+        },
+        {
+            "name": "Caifeng Shan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

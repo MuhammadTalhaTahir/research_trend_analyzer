@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-024-10299-6",
+    "title": "Less-Intrusive Consistent Discretization Methods for Reservoir Simulation on Cut-cell Grids – Algorithms, Implementation, and Testing",
+    "abstract": "Consistent discretization methods are a natural fit for the novel cut-cell gridding technique for reservoir simulation, which preserves the orthogonality characteristic in the lateral direction. Both uniform (global) and novel hybrid (local) variants of consistent discretization methods are implemented and tested in the vicinity of fault representations on cut-cell grids. Novel consistent discretization methods, which do not require major intrusive changes to the solver structure of industrial-grade reservoir simulators, are investigated in this work. Cell-centered methods such as multi-point flux approximation (MPFA), average multi-point flux approximation (AvgMPFA), and nonlinear two-point flux approximation (NTPFA) methods fit naturally into the framework of existing industrial-grade simulators. Thus, cut-cell compatible variants of AvgMPFA and NTPFA and their novel hybridizations with TPFA are implemented and tested. An implementation of the relatively more computationally expensive MPFA is also made to serve as accuracy reference to AvgMPFA and NTPFA. AvgMPFA and NTPFA multiphase simulation results are compared in terms of accuracy and computational performance against the ones computed with reference MPFA and TPFA methods on a set of synthetic cut-cell grid models of varying complexity including conceptual models and a field-scale model. It is observed that AvgMPFA consistently yields more accurate and computationally efficient simulations than NTPFA on cut-cell grids. Moreover, AvgMPFA-TPFA hybrids run faster than NTPFA-TPFA hybrids when compared on the same problem for the same hybridization strategy. On the other hand, the computational performance of AvgMPFA degrades more rapidly compared to NTPFA with increasing “rings” of orthogonal blocks around cut-cells. Auspiciously, only one or two “rings” of orthogonal blocks around cut cells are sufficient for AvgMPFA to deliver high accuracy.",
+    "citation_count": 66,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "Alpak, Faruk O.",
+            "country": "U.S.A."
+        },
+        {
+            "name": "Jammoul, Mohamad",
+            "country": "USA"
+        },
+        {
+            "name": "Wheeler, Mary F.",
+            "country": "USA"
+        },
+        {
+            "name": "Onyeagoro, Kachi",
+            "country": "U.S.A."
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

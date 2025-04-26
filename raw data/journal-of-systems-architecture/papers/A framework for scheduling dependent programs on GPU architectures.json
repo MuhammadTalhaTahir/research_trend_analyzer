@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762120300060",
+    "title": "A framework for scheduling dependent programs on GPU architectures",
+    "abstract": "In recent years, the  parallel computing  performance on GPUs (graphics processing units) has grown rapidly. As a result, GPUs have been widely applied in computationally intensive applications such as  image processing ,  deep learning , and  artificial intelligence . Because these applications can be modeled by multiple GPU kernels, some of which might even be dependent, it is essential to identify an efficient method for scheduling dependent kernels on GPU cores. Simply observing kernel dependencies by executing them in sequence results in  performance degradation . Furthermore, dependent kernels generally need to share data. Consequently, without properly scheduling dependent kernels, unnecessary memory accesses and copies will be generated.  Neural network model  environments include many operators that are suitable for both parallel and dependent kernels. This paper proposes an efficient and clear method for creating a framework to analyze the ONNX (open  neural network  exchange) model and find the pattern of dependent kernels, which can then be used for scheduling with the GPU architecture. The preliminary experimental results show that this technique improves the overall performance by 8% and reduces the  cache miss rate  by 14% on average by combining neural network operators and appropriate memory policies.",
+    "citation_count": "5",
+    "year": "2020/06/01",
+    "authors": [
+        {
+            "name": "Yuan-Ming Chang",
+            "country": ""
+        },
+        {
+            "name": "Wei-Cheng Liao",
+            "country": ""
+        },
+        {
+            "name": "Shao-Chung Wang",
+            "country": ""
+        },
+        {
+            "name": "Chun-Chieh Yang",
+            "country": ""
+        },
+        {
+            "name": "Yuan-Shin Hwang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

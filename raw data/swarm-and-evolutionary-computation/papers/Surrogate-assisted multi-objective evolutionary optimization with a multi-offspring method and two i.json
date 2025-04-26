@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223000883",
+    "title": "Surrogate-assisted multi-objective evolutionary optimization with a multi-offspring method and two infill criteria",
+    "abstract": "In this paper, we propose incorporating the surrogate-assisted multi-offspring method and surrogate-based infill points into a multi-objective evolutionary algorithm to solve high-dimensional computationally expensive problems. To enhance search efficiency and speed, multiple offspring are produced by the parent solutions. A hierarchical pre-screening criterion is proposed to select the surviving offspring and exactly evaluated offspring. The pre-screening criterion can maintain offspring diversity and superiority by using the non-dominated rank and reference vectors. Only a few offspring with good diversity and convergence are exactly evaluated in order to reduce the number of consumed function evaluations. Additionally, two types of surrogate-based infill points are used to further improve search efficiency. Pareto front model-based infill points are mainly used to enhance the exploration of sparse areas in the approximate Pareto front, while infill points from the surrogate-assisted local search are mainly used to accelerate the exploitation towards the real Pareto front. ZDT and DTLZ cases, with dimensions varying from 8 to 200, were adopted to test the performance of the proposed algorithm. Experimental results demonstrate the superiority of the proposed algorithm over the compared algorithms.",
+    "citation_count": "13",
+    "year": "2023/06/01",
+    "authors": [
+        {
+            "name": "Fan Li",
+            "country": ""
+        },
+        {
+            "name": "Liang Gao",
+            "country": ""
+        },
+        {
+            "name": "Weiming Shen",
+            "country": ""
+        },
+        {
+            "name": "Akhil Garg",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

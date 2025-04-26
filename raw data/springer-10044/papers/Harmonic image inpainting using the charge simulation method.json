@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-022-01074-3",
+    "title": "Harmonic image inpainting using the charge simulation method",
+    "abstract": "It was recently reported that harmonic inpainting or Laplace interpolation when used in the context of image compression can yield impressive reconstruction results if the encoded pixels were carefully selected. Mathematically, the problem translates into a mixed Dirichlet–Neumann boundary value problem with Dirichlet data coming from the known observations and reflecting conditions being imposed on the image physical boundary. Classical numerical solutions depend on finite difference schemes, which often induce instabilities and rely heavily on the choice of a convenient regularization parameter. In this paper, we propose an alternative numerical method, which is able to provide a robust harmonic reconstruction without requiring neither numerical integration nor discretization of the inpainting domain or its boundary. In fact, our approach is connected with the charge simulation method powered with the fast multipole method. Thereby, we approximate the harmonic reconstruction by a linear combination of the fundamental solutions of the Laplace equation. The experimental results on standard test images using uniformly, randomly and optimally distributed masks of different densities demonstrate the superior performance of our numerical approach over the finite difference method in terms of both reconstruction quality and speed.",
+    "citation_count": 34,
+    "year": "2022/11",
+    "authors": [
+        {
+            "name": "Kalmoun, El Mostafa",
+            "country": "Morocco"
+        },
+        {
+            "name": "Nasser, Mohamed M. S.",
+            "country": "Qatar"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

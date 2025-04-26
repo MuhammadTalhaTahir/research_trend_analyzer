@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-024-01182-2",
+    "title": "On ABC spectral radius of uniform hypergraphs",
+    "abstract": "Let G be a k-uniform hypergraph with vertex set [n] and edge set E(G), where $$k\\ge 2$$ . For $$i\\in [n]$$ , $$d_i$$ denotes the degree of vertex i in G. The ABC spectral radius of G is $$\\begin{aligned} \\max \\left\\{ k\\sum _{e\\in E(G)}\\root k \\of {\\dfrac{\\sum _{i\\in e}d_{i} -k}{\\prod _{i\\in e}d_{i}}}\\prod _{i\\in e}x_i: \\textbf{x}\\in {\\mathbb {R}}_+^n, \\sum _{i=1}^nx_i^k=1\\right\\} . \\end{aligned}$$ We give tight lower and upper bounds for the ABC spectral radius, and determine the maximum ABC spectral radii of uniform hypertrees, uniform non-hyperstar hypertrees and uniform non-power hypertrees of given size, as well as the maximum ABC spectral radii of uniform unicyclic hypergraphs and linear uniform unicyclic hypergraphs of given size, respectively. We also characterize those uniform hypergraphs for which the maxima for the ABC spectral radii are actually attained in all cases.",
+    "citation_count": 41,
+    "year": "2024/07",
+    "authors": [
+        {
+            "name": "Lin, Hongying",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Zhou, Bo",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

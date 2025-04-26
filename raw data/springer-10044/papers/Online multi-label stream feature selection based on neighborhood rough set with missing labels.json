@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-022-01067-2",
+    "title": "Online multi-label stream feature selection based on neighborhood rough set with missing labels",
+    "abstract": "Multi-label feature selection has been essential in many big data applications and plays a significant role in processing high-dimensional data. However, the existing online stream feature selection methods ignore the existence of missing labels. Inspired by the neighborhood rough set that does not require prior knowledge of the feature space, we propose a novel online multi-label stream feature selection algorithm called OFS-Mean. We define a neighborhood relationship that can automatically select an appropriate number of neighbors. Without any prior space and parameters, the algorithm’s performance of the algorithm is improved by real-time online prediction of missing labels based on the similarity between the instance and its neighbors. The proposed OFS-Mean divides the feature selection process into two stages: online feature importance evaluation and online redundancy update to screen important features. With the support of neighborhood rough set, the proposed OFS-Mean can adapt to various types of datasets, improving the algorithm generalization ability. In the experiment, the similarity test is used to verify the prediction results; the comparison with the traditional semi-supervised feature selection method under the condition of selecting the same number of features has achieved ideal results.",
+    "citation_count": 44,
+    "year": "2022/11",
+    "authors": [
+        {
+            "name": "Liang, Shunpan",
+            "country": "China"
+        },
+        {
+            "name": "Liu, Ze",
+            "country": "China"
+        },
+        {
+            "name": "You, Dianlong",
+            "country": "China"
+        },
+        {
+            "name": "Pan, Weiwei",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

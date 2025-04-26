@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885617300136",
+    "title": "Group sparse autoencoder",
+    "abstract": "Unsupervised feature extraction is gaining a lot of research attention following its success to represent any kind of noisy data. Owing to the presence of a lot of training parameters, these  feature learning  models are prone to overfitting. Different  regularization methods  have been explored in the literature to avoid overfitting in  deep learning  models. In this research, we consider  autoencoder  as the feature learning architecture and propose  ℓ 2,1 -norm based  regularization  to improve its learning capacity, called as Group Sparse AutoEncoder (GSAE).  ℓ 2,1 -norm is based on the postulate that the features from the same class will have a common  sparsity pattern  in the  feature space . We present the learning algorithm for group sparse encoding using majorization–minimization approach. The performance of the proposed algorithm is also studied on three baseline image datasets: MNIST, CIFAR-10, and SVHN. Further, using GSAE, we propose a novel  deep learning  based image representation for  minutia  detection from latent fingerprints. Latent fingerprints contain only a partial finger region, very noisy ridge patterns, and depending on the surface it is deposited, contain significant background noise. We formulate the problem of minutia extraction as a two-class classification problem and learn the descriptor using the novel formulation of GSAE. Experimental results on two publicly available latent fingerprint datasets show that the proposed algorithm yields state-of-the-art results for automated minutia extraction.",
+    "citation_count": "48",
+    "year": "2017/04/01",
+    "authors": [
+        {
+            "name": "Anush Sankaran",
+            "country": ""
+        },
+        {
+            "name": "Mayank Vatsa",
+            "country": ""
+        },
+        {
+            "name": "Richa Singh",
+            "country": ""
+        },
+        {
+            "name": "Angshul Majumdar",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

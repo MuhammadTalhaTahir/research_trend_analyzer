@@ -1,0 +1,39 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1019137101888",
+    "title": "MAC protocol and traffic scheduling for wireless ATM networks",
+    "abstract": "The Medium Access Control (MAC) protocol defined in the Wireless ATM Network Demonstrator (WAND) system being developed within the project Magic WAND is presented. Magic WAND is investigating extensions of ATM technology to cover wireless customer premises networks, in the framework of the Advanced Communications Technologies and Services (ACTS) programme, funded by the European Union. The MAC protocol, known as MASCARA, uses a dynamic TDMA scheme, which combines reservation‐ and contention‐based access methods to provide multiple access efficiency and quality of service guarantees to wireless ATM terminal connections sharing a common radio channel. The paper focuses on the description of PRADOS, a delay‐oriented traffic scheduling algorithm, which aims at satisfying the requirements of the various traffic classes defined by the ATM architecture. Simulation results are presented to assess the performance of the proposed algorithm in scheduling transmission of variable bit rate connections.",
+    "citation_count": 23,
+    "year": "1998/09",
+    "authors": [
+        {
+            "name": "Passas, Nikos",
+            "country": "Greece"
+        },
+        {
+            "name": "Merakos, Lazaros",
+            "country": "Greece"
+        },
+        {
+            "name": "Skyrianoglou, Dimitris",
+            "country": "Greece"
+        },
+        {
+            "name": "Bauchot, Frédéric",
+            "country": "France"
+        },
+        {
+            "name": "Marmigère, Gérard",
+            "country": "France"
+        },
+        {
+            "name": "Decrauzat, Stéphane",
+            "country": "France"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

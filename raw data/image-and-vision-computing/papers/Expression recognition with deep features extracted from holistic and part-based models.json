@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885620301700",
+    "title": "Expression recognition with deep features extracted from holistic and part-based models",
+    "abstract": "Facial expression recognition  aims to accurately interpret facial muscle movements in affective states (emotions). Previous studies have proposed holistic analysis of the face, as well as the extraction of features pertained only to specific facial regions towards expression recognition. While classically the latter have shown better performances, we here explore this in the context of  deep learning . In particular, this work provides a performance comparison of holistic and part-based  deep learning models  for expression recognition. In addition, we showcase the effectiveness of skip connections, which allow a network to infer from both low and high-level feature maps. Our results suggest that holistic models outperform part-based models, in the absence of skip connections. Finally, based on our findings, we propose a  data augmentation  scheme, which we incorporate in a part-based model. The proposed multi-face multi-part (MFMP) model leverages the wide information from part-based data augmentation, where we train the network using the facial parts extracted from different face samples of the same expression class. Extensive experiments on publicly available datasets show a significant improvement of facial expression classification with the proposed MFMP framework.",
+    "citation_count": "15",
+    "year": "2021/01/01",
+    "authors": [
+        {
+            "name": "S.L. Happy",
+            "country": ""
+        },
+        {
+            "name": "Antitza Dantcheva",
+            "country": ""
+        },
+        {
+            "name": "François Bremond",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885619301453",
+    "title": "Fine-Grained Image Retrieval via Piecewise Cross Entropy loss",
+    "abstract": "Fine-Grained  Image Retrieval  is an important problem in  computer vision . It is more challenging than the task of content-based image retrieval because it has small diversity within the different classes but large diversity in the same class. Recently, the cross entropy loss can be utilized to make  Convolutional Neural Network  (CNN) generate distinguish feature for Fine-Grained Image Retrieval, and it can obtain further improvement with some extra operations, such as Normalize-Scale layer. In this paper, we propose a variant of the cross entropy loss, named Piecewise  Cross Entropy loss function , for enhancing model generalization and promoting the  retrieval performance . Besides, the Piecewise Cross Entropy loss is easy to implement. We evaluate the performance of the proposed scheme on two standard fine-grained retrieval benchmarks, and obtain significant improvements over the state-of-the-art, with 11.8% and 3.3% over the previous work on CARS196 and CUB-200-2011, respectively.",
+    "citation_count": "35",
+    "year": "2020/01/01",
+    "authors": [
+        {
+            "name": "Xianxian Zeng",
+            "country": ""
+        },
+        {
+            "name": "Yun Zhang",
+            "country": ""
+        },
+        {
+            "name": "Xiaodong Wang",
+            "country": ""
+        },
+        {
+            "name": "Kairui Chen",
+            "country": ""
+        },
+        {
+            "name": "Dong Li",
+            "country": ""
+        },
+        {
+            "name": "Weijun Yang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

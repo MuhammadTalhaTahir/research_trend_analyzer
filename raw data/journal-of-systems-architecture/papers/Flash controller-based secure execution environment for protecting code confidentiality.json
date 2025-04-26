@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124001097",
+    "title": "Flash controller-based secure execution environment for protecting code confidentiality",
+    "abstract": "With the rapid evolution of Internet-of-Things (IoT), billions of IoT devices have connected to the Internet, collecting information via tags and sensors. For an IoT device, the application code itself and data collected by sensors can be of great commercial value. It is challenging to protect them because IoT devices are prone to compromise due to the inevitable vulnerabilities of commodity Operating Systems. Trusted Execution Environment (TEE) is one of the solutions that protects sensitive data by running security-sensitive workloads in a secure world. However, this solution does not work for most of the IoT devices that are limited in resources. In this paper, we propose Flash Controller-based Secure Execution Environment (FCSEE), an approach to protect security-sensitive code and data for IoT devices using the flash controller. Our approach constructs a secure execution environment on the target flash memory by modifying the execution logic of its controller, leveraging it as a co-processor to execute security-sensitive workloads of the host device. By extending the original functionality of the flash firmware, FCSEE also provides several much-needed security primitives to protect sensitive data. We constructed a prototype based on a Trans-Flash (TF) card and implemented a proof of its confidentiality. Our evaluation results indicate that FCSEE can confidentially execute security-sensitive workloads from the host and efficiently protect its sensitive data.",
+    "citation_count": "0",
+    "year": "2024/07/01",
+    "authors": [
+        {
+            "name": "Zheng Zhang",
+            "country": ""
+        },
+        {
+            "name": "Jingfeng Xue",
+            "country": ""
+        },
+        {
+            "name": "Tian Chen",
+            "country": ""
+        },
+        {
+            "name": "Yuhang Zhao",
+            "country": ""
+        },
+        {
+            "name": "Weizhi Meng",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223000974",
+    "title": "A distribution evolutionary algorithm for the graph coloring problem",
+    "abstract": "Graph coloring is a challenging combinatorial optimization problem with a wide range of applications. In this paper, a distribution evolutionary algorithm based on a population of probability model (DEA-PPM) is developed to address it efficiently. Unlike existing estimation of distribution algorithms where a probability model is updated by generated solutions, DEA-PPM employs a distribution population based on a novel probability model, and an orthogonal exploration strategy is introduced to search the distribution space with the assistance of an refinement strategy. By sampling the distribution population, efficient search in the solution space is realized based on a  tabu  search process. Meanwhile, DEA-PPM introduces an iterative vertex removal strategy to improve the efficiency of  k -coloring, and an inherited initialization strategy is implemented to address the chromatic number problem well. The cooperative evolution of the distribution population and the solution population leads to a good balance between exploration and exploitation. Numerical results demonstrate that the DEA-PPM of small  population size  is competitive to the state-of-the-art metaheuristics.",
+    "citation_count": "7",
+    "year": "2023/07/01",
+    "authors": [
+        {
+            "name": "Yongjian Xu",
+            "country": ""
+        },
+        {
+            "name": "Huabin Cheng",
+            "country": ""
+        },
+        {
+            "name": "Ning Xu",
+            "country": ""
+        },
+        {
+            "name": "Yu Chen",
+            "country": ""
+        },
+        {
+            "name": "Chengwang Xie",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001345",
+    "title": "Towards efficient and robust intelligent mobile vision system via small object aware parallel offloading",
+    "abstract": "As mobile devices continuously generate streams of images and videos, intelligent mobile vision applications are rapidly emerging. An ideal object detection system for mobile vision applications should be accurate and real-time. Nevertheless, it is non-trivial to achieve these goals utilizing resource-constrained mobile devices. In this work, we propose an efficient and robust intelligent mobile vision system AREdge via small object aware parallel offloading. We find that the detection performance of small objects is a core factor that affects detection accuracy. To tackle this, we design a local lightweight  DNN  model that runs on mobile devices to detect big objects fast and identify the regions of interest (RoIs) that may have small objects. These areas are then cropped and offloaded to multiple edge servers for more accurate detection based on complex and large-scale  DNN  models. To further improve the performance, we propose a dynamic area-aware parallel offloading scheme for fine-grained parallel execution on multiple edge servers. Experimental results show that the accuracy of AREdge is  214 . 27 %  higher than that of the local detection in small objects. It also reduces the detection latency by  20 . 68 %  on average over the offloading method based on full images and well-used object detection models.",
+    "citation_count": "1",
+    "year": "2022/08/01",
+    "authors": [
+        {
+            "name": "Xiaoxue Li",
+            "country": ""
+        },
+        {
+            "name": "Yunchuan Qin",
+            "country": ""
+        },
+        {
+            "name": "Zhizhong Liu",
+            "country": ""
+        },
+        {
+            "name": "Albert Zomaya",
+            "country": ""
+        },
+        {
+            "name": "Xiangke Liao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

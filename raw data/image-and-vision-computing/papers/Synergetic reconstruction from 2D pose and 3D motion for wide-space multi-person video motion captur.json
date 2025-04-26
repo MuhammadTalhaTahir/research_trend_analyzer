@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885620301608",
+    "title": "Synergetic reconstruction from 2D pose and 3D motion for wide-space multi-person video motion capture in the wild",
+    "abstract": "Although many studies have investigated markerless motion capture, the technology has not been applied to real sports or concerts. In this paper, we propose a markerless motion capture method with spatiotemporal accuracy and smoothness from multiple cameras in wide-space and multi-person environments. The proposed method predicts each person's 3D pose and determines the  bounding box  of multi-camera images small enough. This prediction and spatiotemporal filtering based on human skeletal model enables  3D reconstruction  of the person and demonstrates high-accuracy. The accurate 3D reconstruction is then used to predict the bounding box of each camera image in the next frame. This is feedback from the 3D motion to 2D pose, and provides a  synergetic  effect on the overall performance of video motion capture. We evaluated the proposed method using various datasets and a real sports field. The experimental results demonstrate that the mean per  joint  position error (MPJPE) is 31.5 mm and the percentage of correct parts (PCP) is 99.5% for five people dynamically moving while satisfying the range of motion (RoM). Video demonstration, datasets, and additional materials are posted on our project page 1 .",
+    "citation_count": "18",
+    "year": "2020/12/01",
+    "authors": [
+        {
+            "name": "Takuya Ohashi",
+            "country": ""
+        },
+        {
+            "name": "Yosuke Ikegami",
+            "country": ""
+        },
+        {
+            "name": "Yoshihiko Nakamura",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10617-008-9030-2",
+    "title": "FPGA implementation of a HW/SW platform for multimedia embedded systems",
+    "abstract": "This paper presents a HW/SW platform for embedded video system. It has been designed around an embedded RISC processor and FPGA technologies and provides video input and output interfaces. The configurable platform has been used to implement a real time video processing and vision systems. The Altera’s Nios II development board was chosen to realise this real time video platform which uses μClinux as embedded Linux Operating System. Experimental results using H.263 video encoder show that this platform provides enough resources and speed to implement even complex multimedia embedded systems in real time.",
+    "citation_count": 30,
+    "year": "2008/12",
+    "authors": [
+        {
+            "name": "Ben Atitallah, A.",
+            "country": "Tunisia"
+        },
+        {
+            "name": "Kadionik, P.",
+            "country": "France"
+        },
+        {
+            "name": "Masmoudi, N.",
+            "country": "France"
+        },
+        {
+            "name": "Levi, H.",
+            "country": "Tunisia"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

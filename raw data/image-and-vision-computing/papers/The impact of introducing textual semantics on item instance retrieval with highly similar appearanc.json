@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624000283",
+    "title": "The impact of introducing textual semantics on item instance retrieval with highly similar appearance: An empirical study",
+    "abstract": "Feature representation plays an important role in image instance retrieval (IIR). In practical applications, we find that items of different categories but highly similar in appearance are easy to become the objects of incorrect retrieval. We analyze that extracting features from the appearance dimension alone may cause objects with similar appearance to have smaller similar distances in  feature space . But the appearance is not the only factor that determines whether the item is the same, and the difference in the shooting angle will also amplify the appearance difference of the same item in the image. In this paper, through detailed empirical study, we verify a conjecture that by introducing text semantics and fusing it with appearance features, the similarity distance of falsely retrieved objects in feature space can be corrected, thus improving the retrieval effectiveness of image instance retrieval tasks in highly similar appearance data. We introduce textual semantics for image instances based on the image-text cross-modal model. Specifically, we enhance the proportion of appearance similar items based on three open-source datasets (Products-10 k, RP2k and Stanford products) of item instances, and add multi-angle image samples of the same item to enlarge the difference of the same item. Subsequently, we have embarked on baseline experiments for appearance features and textual features from the perspectives of shooting angle similarity and visual character similarity, to explore the advantages of multiple strategies for fusing textual semantics with appearance features. Then, we examine the effect of our method on fine-grained item instance  retrieval methods  with state-of-the-art. Resultantly, taking  mean Average Precision  (mAP) as the quantitative metric and averaging experimental results, our method has an obvious improvement over the appearance and textual baselines, where the improvement of appearance feature baselines is generally more obvious than that of textual feature baselines (e.g., in our expanded RP2k dataset, from the perspective of shooting angle similarity, the mAP of the appearance feature baseline is nearly 19.62, the textual feature baseline is 32.45, our method is 43.19. From perspective of visual character similarity, the values are 27.14, 43.59, 54.76, respectively). Moreover, our methods outperform the state-of-the-art fine-grained item instance retrieval methods with improvements of nearly  13.05 %  and  22.49 %  on expanded Products-10 k and RP2k, respectively.",
+    "citation_count": "1",
+    "year": "2024/03/01",
+    "authors": [
+        {
+            "name": "Bo Li",
+            "country": ""
+        },
+        {
+            "name": "Jiansheng Zhu",
+            "country": ""
+        },
+        {
+            "name": "Linlin Dai",
+            "country": ""
+        },
+        {
+            "name": "Hui Jing",
+            "country": ""
+        },
+        {
+            "name": "Zhizheng Huang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://link.springer.com/article/10.1007/BF00209909",
+    "title": "Lower bounds on the iteration time and the initiation interval of functional pipelining and loop folding",
+    "abstract": "The performance of pipelined datapath implementations is measured basically by three parameters: the clock cycle length, the initiation interval between successive iterations (inverse of the throughput) and the iteration time (turn-around time). In this paper we present a new method for computing performance bounds of pipelined implementations: The method has a low complexity and it handles behavioral specifications containing loop statements with interiteration data dependency and timing constraints.",
+    "citation_count": 38,
+    "year": "1996/10",
+    "authors": [
+        {
+            "name": "Bennour, Imed Eddine",
+            "country": "Canada"
+        },
+        {
+            "name": "Albouhamid, El Mostapha",
+            "country": "Canada"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

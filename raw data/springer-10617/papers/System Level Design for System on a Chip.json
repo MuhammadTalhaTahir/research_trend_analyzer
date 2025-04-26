@@ -1,0 +1,22 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1008861610503",
+    "title": "System Level Design for System on a Chip",
+    "abstract": "We present the systems requirements generation and executable specification capture of a single chip LAN Adapter for communicating using the IEEE 1394 Serial Bus Protocol. The requirements generation starts with high level performance simulation and then passes to an executable specification suitable for implementation using a hardware/software co-design tool. The reuse of pre-existing components is supported, as well as synthesis of the system interface, but only after much work is done to program the hardware/software co-design tool. The actual design flow described allows feedback among all design levels, e.g. from implementation up to requirements, throughout the process.",
+    "citation_count": 11,
+    "year": "1998/12",
+    "authors": [
+        {
+            "name": "Neely, W. Shields",
+            "country": "Santa Clara"
+        },
+        {
+            "name": "Mooney, Vincent John",
+            "country": "Atlanta"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

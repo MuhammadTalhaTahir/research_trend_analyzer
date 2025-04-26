@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-011-0228-8",
+    "title": "A structurally motivated framework for discriminant analysis",
+    "abstract": "Over the last few years, a lot of algorithms for discriminant analysis (DA) have been developed. Although having different motivations, they all inject structure information in data into their own within- and between-class scatters. However, to our best knowledge, there has not been yet a systematical examination about (1) which structure granularities lurk in data; (2) which structure granularities are utilized in scatters of a DA algorithm; (3) whether new DA algorithms can be developed based on existing structure granularities. In this paper, the established so-called structurally motivated (SM) framework for DA and its unified mathematical formulation of the ratio trace exactly answers them. It categorizes these DA algorithms from the viewpoint of constructing scatters based on different-granularity structures in data, identifies their applicable scenarios for different structure types, and provides insights into developing new DA algorithms. Inspired by the insight, we find that cluster granularity lying in the middle of granularity spectrum in SM framework can still be further utilized and exploited. As a result, the three DA algorithms based on the cluster granularity are derived from the SM framework and from the injection of the cluster structure information into the respective within-class, between-class and joint both scatter matrices for the classical MDA, and these corresponding algorithms are, respectively, called as SWDA, SBDA and SWBDA. The injection of cluster structure information makes the proposed three algorithms able to fit relatively complicated data not only more effectively, but also with the regularization technique obtain more projections than the classical MDA, which is very helpful for more effective DA. Moreover, MDA becomes their special case when the cluster numbers of all classes are set to 1. Our experiments on the benchmarks (face and UCI databases) here show that the proposed algorithms yield encouraging results.",
+    "citation_count": 44,
+    "year": "2011/11",
+    "authors": [
+        {
+            "name": "Yang, Bo",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Chen, Songcan",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Wu, Xindong",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

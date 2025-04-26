@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-008-9089-7",
+    "title": "Uncertainty as the overlap of alternate conditional distributions",
+    "abstract": "An important task in modern geostatistics is the assessment and quantification of resource and reserve uncertainty. This uncertainty is valuable support information for many management decisions. Uncertainty at specific locations and uncertainty in the global resource is of interest. There are many different methods to build models of uncertainty, including Kriging, Cokriging, and Inverse Distance. Each method leads to different results. A method is proposed to combine local uncertainties predicted by different models to obtain a combined measure of uncertainty that combines good features of each alternative. The new estimator is the overlap of alternate conditional distributions.",
+    "citation_count": 45,
+    "year": "2008/12",
+    "authors": [
+        {
+            "name": "Babak, Olena",
+            "country": "Canada"
+        },
+        {
+            "name": "Deutsch, Clayton V.",
+            "country": "Canada"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

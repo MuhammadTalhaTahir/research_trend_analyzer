@@ -1,0 +1,31 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-012-0388-9",
+    "title": "Optimal Resource Allocation for Spectrum Sensing Based Cognitive Radio Networks with Statistical QoS Guarantees",
+    "abstract": "Resource allocation under spectrum sensing based dynamic spectrum sharing strategy is a critically important issue for cognitive radio networks (CRNs), because they need to not only satisfy the interference constraint caused to the primary users (PUs), but also meet the quality-of-service (QoS) requirements for the secondary users (SUs). In this paper, we develop the optimal spectrum sensing based resource allocation scheme for the delay QoS constrained CRNs. Specifically, we aim at maximizing the maximum constant arrival rate of the SU that can be supported by the time-varying service process subject to the given statistical delay QoS constraint. In our derived power allocation scheme, not only the average transmit and interference power constraints are considered, but also the impact of the PUs’ transmission to the CRNs and the PUs’ spectrum-occupancy probability are taken into consideration. Moreover, the spectrum sensing errors are also taken into consideration. Simulation results show that, (1) the effective capacity of the secondary link decreases when the statistical delay QoS constraint becomes stringent; (2) given the QoS constraint, the effective capacity of the secondary link varies with the interference power constraint and the SNR of the primary link.",
+    "citation_count": 23,
+    "year": "2012/12",
+    "authors": [
+        {
+            "name": "Wang, Yichen",
+            "country": "China"
+        },
+        {
+            "name": "Ren, Pinyi",
+            "country": "China"
+        },
+        {
+            "name": "Du, Qinghe",
+            "country": "China"
+        },
+        {
+            "name": "Zhang, Chao",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

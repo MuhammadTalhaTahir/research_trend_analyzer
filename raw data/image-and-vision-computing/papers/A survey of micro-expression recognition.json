@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S026288562030175X",
+    "title": "A survey of micro-expression recognition",
+    "abstract": "The limited capacity to recognize micro-expressions with subtle and rapid motion changes is a long-standing problem that presents a unique challenge for expression recognition systems and even for humans. The problem regarding micro-expression is less covered by research when compared to macro-expression. Nevertheless, micro-expression recognition (MER) is imperative to exploit the full potential of expression recognition for real-world applications. Recent MER systems generally focus on three important issues: overfitting caused by a lack of sufficient  training data , the imbalanced distribution of samples, and robust features for improving the accuracy of recognition. In this paper, we provide a comprehensive survey on MER, including datasets and algorithms that provide insights into these intrinsic problems. First, we introduce the available datasets that are widely used in the literature. We then describe the pre-processing in the standard pipeline of an MER system. For the state of the art in MER, we divide the existing novel algorithms into 6 different tasks according to the type of classes and evaluation protocols. Detailed experiment settings and competitive performances for those 6 tasks are summarized in this section. Finally, we review the remaining challenges and corresponding opportunities in this field as well as future directions for the design of robust MER systems.",
+    "citation_count": "41",
+    "year": "2021/01/01",
+    "authors": [
+        {
+            "name": "Ling Zhou",
+            "country": ""
+        },
+        {
+            "name": "Xiuyan Shao",
+            "country": ""
+        },
+        {
+            "name": "Qirong Mao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

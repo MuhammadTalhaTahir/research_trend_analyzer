@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959524000808",
+    "title": "Cooperative transmission of UAV swarm using orthogonal time–frequency space modulation",
+    "abstract": "Unmanned aerial vehicles (UAVs) emerge as versatile aerial nodes capable of dynamically filling coverage gaps and enabling mission-critical communication based on their mobile nature. UAV swarms, characterized by the coordinated operation of multiple drones, are employed for a wide range of applications such as surveillance, environmental monitoring, precision farming, and autonomous delivery. While individual UAVs suffer from limited power, group transmissions of UAV swarms can enhance the data rate, reliability, and energy efficiency. However, their mobility may cause severe Doppler spread. The existing orthogonal frequency division multiplexing (OFDM) system exhibits limitations such as susceptibility to the Doppler effect in high-speed mobile environments. To address this issue, orthogonal time–frequency space (OTFS)-aided cooperative transmission (CT) for UAV swarms is considered, which can surmount the aforementioned limitations. The results show the BER improvement of the order of  1 0 3  at the SNR value of 10 dB when OTFS modulation is utilized and even better at the higher SNR values. Furthermore, the analytical framework of OTFS-based CT is presented by identifying the key design considerations on the subcarrier spacing, the number of symbols, and the number of subcarriers, which are subject to the maximum speed of the UAV and the cluster size of the UAV swarm. These results provide a significant platform for advancing research in the field of UAV-based CT, especially with the Doppler-resilient OTFS modulation.",
+    "citation_count": "0",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Usman Iqbal",
+            "country": ""
+        },
+        {
+            "name": "Yejin Lee",
+            "country": ""
+        },
+        {
+            "name": "Sunghwan Cho",
+            "country": ""
+        },
+        {
+            "name": "In-Ho Lee",
+            "country": ""
+        },
+        {
+            "name": "Haejoon Jung",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

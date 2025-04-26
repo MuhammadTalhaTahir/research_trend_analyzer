@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650213000801",
+    "title": "Extracting easy to understand summary using differential evolution algorithm",
+    "abstract": "This paper describes an optimization method based on  differential evolution algorithm  and its novel application to extract easy to understand summary for improving text readability. The idea is to improve the readability of the given text for reading difficulties using assistive summary. In order to extract easy to understand summary from the given text, an improved differential evolution algorithm is proposed. A new  chromosome representation  that considers ordering and similarity for extracting cohesive summary. Also a modified  crossover operator  and  mutation operator  are designed to generate potential  offspring . The application of differential evolution algorithm for maximizing the average similarity and informative score in the candidate summary sentences is proposed. We applied the proposed algorithm in a corpus of educational text from ESL text books and in graded text. The results show that the summary generated using Differential Evolution algorithm performs better in accuracy, readability and lexical cohesion than existing techniques. The task based evaluation done by target audience also favors the significant effect of assistive summary in improving readability.",
+    "citation_count": "20",
+    "year": "2014/06/01",
+    "authors": [
+        {
+            "name": "K. Nandhini",
+            "country": ""
+        },
+        {
+            "name": "S.R. Balasundaram",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

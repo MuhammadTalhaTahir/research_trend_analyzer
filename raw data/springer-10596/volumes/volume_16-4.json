@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Walking algorithms for point location in TIN models",
+    "url": "https://link.springer.com/article/10.1007/s10596-012-9305-3"
+  },
+  {
+    "title": "A variable-control well placement optimization for improved reservoir development",
+    "url": "https://link.springer.com/article/10.1007/s10596-012-9292-4"
+  },
+  {
+    "title": "Numerical simulation and optimization of CO",
+    "url": "https://link.springer.com/article/10.1007/s10596-012-9293-3"
+  },
+  {
+    "title": "On the time scales of nonlinear instability in miscible displacement porous media flow",
+    "url": "https://link.springer.com/article/10.1007/s10596-012-9294-2"
+  },
+  {
+    "title": "Properties of a diffuse interface model based on a porous medium theory for solid–liquid dissolution problems",
+    "url": "https://link.springer.com/article/10.1007/s10596-012-9295-1"
+  },
+  {
+    "title": "Accuracy and efficiency of stencils for the eikonal equation in earth modelling",
+    "url": "https://link.springer.com/article/10.1007/s10596-012-9296-0"
+  },
+  {
+    "title": "A supercoarsening multigrid method for poroelasticity in 3D coupled flow and geomechanics modeling",
+    "url": "https://link.springer.com/article/10.1007/s10596-012-9297-z"
+  },
+  {
+    "title": "Signature of the upper mantle density structure in the refined gravity data",
+    "url": "https://link.springer.com/article/10.1007/s10596-012-9298-y"
+  },
+  {
+    "title": "Vertex-centred discretization of multiphase compositional Darcy flows on general meshes",
+    "url": "https://link.springer.com/article/10.1007/s10596-012-9299-x"
+  },
+  {
+    "title": "Insight from analytical solutions for improved simulation of miscible WAG flooding in one dimension",
+    "url": "https://link.springer.com/article/10.1007/s10596-012-9300-8"
+  },
+  {
+    "title": "Multidimensional upstream weighting for multiphase transport on general grids",
+    "url": "https://link.springer.com/article/10.1007/s10596-012-9301-7"
+  },
+  {
+    "title": "Modeling fractures as interfaces with nonmatching grids",
+    "url": "https://link.springer.com/article/10.1007/s10596-012-9302-6"
+  },
+  {
+    "title": "Joint optimization of oil well placement and controls",
+    "url": "https://link.springer.com/article/10.1007/s10596-012-9303-5"
+  },
+  {
+    "title": "A general reduction scheme for reactive transport in porous media",
+    "url": "https://link.springer.com/article/10.1007/s10596-012-9304-4"
+  },
+  {
+    "title": "Numerical modeling of two-phase binary fluid mixing using mixed finite elements",
+    "url": "https://link.springer.com/article/10.1007/s10596-012-9306-2"
+  },
+  {
+    "title": "Pathline tracing on fully unstructured control-volume grids",
+    "url": "https://link.springer.com/article/10.1007/s10596-012-9307-1"
+  },
+  {
+    "title": "Numerical simulation of seismic waves in models with anisotropic formations: coupling Virieux and Lebedev finite-difference schemes",
+    "url": "https://link.springer.com/article/10.1007/s10596-012-9308-0"
+  },
+  {
+    "title": "Spatial grid correction for short-term numerical simulation results of carbon dioxide dissolution in saline aquifers",
+    "url": "https://link.springer.com/article/10.1007/s10596-012-9309-z"
+  }
+]

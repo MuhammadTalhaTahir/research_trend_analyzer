@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762197000283",
+    "title": "Formal methods integration for the specification of dependable distributed systems",
+    "abstract": "This paper describes a real-world case study in the specification and analysis of dependable distributed systems. The case study is an automated transport system with safety requirements. In order to manage the complexity of the problem of specifying the dynamic behavior of the whole system, a compositional approach is used, based on the integration of the trace logic of the Communicating Sequential Processes (CSP) theory, and stochastic Petri nets (SPNs). It is argued that the integration of different formal methods is a useful approach in the definition of practical engineering methodologies for the specification, design and analysis of complex dependable distributed systems.",
+    "citation_count": "1",
+    "year": "1997/01/01",
+    "authors": [
+        {
+            "name": "Nicola Mazzocca",
+            "country": ""
+        },
+        {
+            "name": "Stefano Russo",
+            "country": ""
+        },
+        {
+            "name": "Valeria Vittorini",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

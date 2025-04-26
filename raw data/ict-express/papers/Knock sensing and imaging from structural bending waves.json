@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959522000078",
+    "title": "Knock sensing and imaging from structural bending waves",
+    "abstract": "This paper presents a novel knock imaging technique for human-to-things interfaces. It allows any object to use its own surface as an imaging sensor. The methodology is to sense the structural bending waves caused by the knock and reconstruct the intensity image through the beamforming of the wave signals. To verify this, we prepare a thin piezoelectric sensor array on a square plate. The performances are evaluated by measuring the beam peak, beamwidth, and sidelobe level in the reconstructed image. Finally, a real finger knock test is demonstrated, showing an image reconstruction that the position error is only 3 mm.",
+    "citation_count": "0",
+    "year": "2022/12/01",
+    "authors": [
+        {
+            "name": "Sangyul Ha",
+            "country": ""
+        },
+        {
+            "name": "Areum Jang",
+            "country": ""
+        },
+        {
+            "name": "Kyungjun Lee",
+            "country": ""
+        },
+        {
+            "name": "Seong-Ho Son",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

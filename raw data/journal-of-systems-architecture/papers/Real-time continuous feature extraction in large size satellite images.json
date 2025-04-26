@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S138376211500140X",
+    "title": "Real-time continuous feature extraction in large size satellite images",
+    "abstract": "Remotely sensed imagery is being increasingly used for the development of the earth observation satellites to investigate human activities, to monitor environmental changes and to update existing geospatial data. The ordinary pictures are difficult to process automatically by computers but can be easily interpreted by humans. The most significant step is how to get anticipated information from the images and how to convert these images into useful data for further studies. The key objective is to satisfy an algorithm claiming to be efficient in large size image processing includ enhanced processing efficiency, finding correlation among data, and extracting continuous features. To achieve these objectives in the setting mentioned above, we propose a real-time approach for continuous feature extraction and detection in remote sensory earth observatory satellite images to find rivers, roads, and main highways. Deep analysis is made on the ENVISAT satellite missions datasets and based on this analysis the algorithm is proposed using statistical measurements, RepTree machine learning classifier, and Euclidean distance. The system is developed using Hadoop ecosystem to improve the efficiency of the system. The designed system consists of various steps including collection, filtration, load balancing, processing, merging, and interpretation. The system is implemented on Apache Hadoop system using MapReduce programming with higher efficiency results in a massive volume of satellite ASAR/ ENVISAT mission datasets.",
+    "citation_count": "24",
+    "year": "2016/03/01",
+    "authors": [
+        {
+            "name": "M. Mazhar U Rathore",
+            "country": ""
+        },
+        {
+            "name": "Awais Ahmad",
+            "country": ""
+        },
+        {
+            "name": "Anand Paul",
+            "country": ""
+        },
+        {
+            "name": "Jiaji Wu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

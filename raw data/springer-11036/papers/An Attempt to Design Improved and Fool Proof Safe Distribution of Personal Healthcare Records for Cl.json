@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-019-01379-4",
+    "title": "An Attempt to Design Improved and Fool Proof Safe Distribution of Personal Healthcare Records for Cloud Computing",
+    "abstract": "In the recent gears applications such as personal health care are broadly made use by the diseased individuals for preserving and organizing their medical information over a private, secure and trustful computing. They make use of the service providers as third party environment for interchanging the medical records of the diseased individuals. The cloud computing permits effective management and circulation of private and personal medical related records which always faces challenges in terms of various safety associated characteristics like discovery and existence of vulnerable medical data by the illegal users. To provide safety and confidentiality it is mandatory to accomplish the data before contracting out and only the authorised users are allowed to make use of the data. Hiding the information of the users are important during gaining access to the data present over the network. Moreover for reducing the setbacks in safeguarding the key of the data containers the personal health records are classified into several associated fields. For wrapping the information of the user’s unsigned verification based on the element based encoding (EBE) is employed and fine grained data access control based on the advanced encryption scheme are tailored. The comprehension provides an advanced level of security and confidentiality for the personal health records. The scheme permits autonomous alterations of the admission policies or file entities along with the autonomous user cessation. Additional analyses and evaluations reveals that the designed scheme is effective in terms of safety and secrecy.",
+    "citation_count": 16,
+    "year": "2019/12",
+    "authors": [
+        {
+            "name": "Preethi, P.",
+            "country": "India"
+        },
+        {
+            "name": "Asokan, R.",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

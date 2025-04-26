@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223001608",
+    "title": "Deep reinforcement learning assisted co-evolutionary differential evolution for constrained optimization",
+    "abstract": "Solving  constrained optimization  problems (COPs) with  evolutionary algorithms  (EAs) is a popular research direction due to its potential and diverse applications. One of the key issues in solving  COPs  is the choice of constraint handling techniques (CHTs), as different CHTs can lead to different evolutionary directions. Combining EAs with deep reinforcement learning (DRL) is a promising and emerging approach for solving COPs. Although DRL can help solve the problem of pre-setting operators in EAs,  neural networks  need to obtain diverse training data within a limited number of evaluations in EAs. Based on the above considerations, this work proposes a DRL assisted co-evolutionary differential evolution, named CEDE-DRL, which can effectively use DRL to help EAs solve COPs. (1) This method incorporates co-evolution into the extraction of training data for the first time, ensuring the diversity of samples and improving the accuracy of the  neural network  model through information exchange between multiple populations. (2) Multiple CHTs are used for offspring selection to ensure the algorithm’s generality and flexibility. (3) DRL is used to evaluate the population state, taking into account feasibility, convergence, and diversity in the state setting and using the overall degree of improvement as a reward. The neural network selects suitable parent populations and corresponding archives for mutation. Finally, (4) to avoid premature convergence and local optima, an adaptive operator selection and individual archive elimination mechanism is added. Comparisons with state-of-the-art algorithms on benchmark functions CEC2010 and CEC2017 show that the proposed method performs competitively and produced robust solutions. The results of the application test set CEC2020 show that the proposed algorithm is also effective in real-world problems.",
+    "citation_count": "39",
+    "year": "2023/12/01",
+    "authors": [
+        {
+            "name": "Zhenzhen Hu",
+            "country": ""
+        },
+        {
+            "name": "Wenyin Gong",
+            "country": ""
+        },
+        {
+            "name": "Witold Pedrycz",
+            "country": ""
+        },
+        {
+            "name": "Yanchi Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

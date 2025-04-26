@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885616300749",
+    "title": "On designing practical long range near infrared-based face recognition systems",
+    "abstract": "Although automated face recognition (AFR) is a well-studied problem with a history of more than three decades, it is still far from being considered a  solved problem  for the case of difficult exposure conditions, such as during night-time, in environments with unconstrained lighting, or at large distances from the camera. However, in practical forensic scenarios, it is often the case that investigators operate in difficult conditions, where cross-session data need to be matched and where, grouping of the data in the context of demographic information (constitute the grouping in terms of gender, ethnicity) may be used in order to assist  law enforcement officials ,  forensic investigators  and security personnel in human identification practices. In this paper, we discuss the challenges in designing a practical near infrared (NIR) FR system and, more specifically, study the problems of intra-spectral, cross-spectral, i.e. VIS–NIR, intra-distance and cross-distance NIR FR, in indoors, outdoors, day-time and night-time environments. Furthermore, we propose the usage of a multi-feature scenario dependent fusion scheme that can enhance recognition performance. We also investigate which scenarios used, related to datasets, features useful for face matching or their combination, are most beneficial to the identification accuracy of NIR FR systems, when the gallery set is composed of either visible or NIR band face images. Thus, we illustrate that the selection of specific feature extraction techniques and their fusion are often the key design aspects that can turn practically non-functional systems to effective systems with real-world applicability. As a result, such a strategy can significantly extend the range of conditions under which automated NIR FR systems can operate.",
+    "citation_count": "8",
+    "year": "2016/08/01",
+    "authors": [
+        {
+            "name": "Thirimachos Bourlai",
+            "country": ""
+        },
+        {
+            "name": "Nikolaos Mavridis",
+            "country": ""
+        },
+        {
+            "name": "Neeru Narang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

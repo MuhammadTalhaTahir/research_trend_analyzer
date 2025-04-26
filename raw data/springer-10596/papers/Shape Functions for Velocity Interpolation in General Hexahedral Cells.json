@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1021218525861",
+    "title": "Shape Functions for Velocity Interpolation in General Hexahedral Cells",
+    "abstract": "Numerical methods for grids with irregular cells require discrete shape functions to approximate the distribution of quantities across cells. For control-volume mixed finite-element (CVMFE) methods, vector shape functions approximate velocities and vector test functions enforce a discrete form of Darcy's law. In this paper, a new vector shape function is developed for use with irregular, hexahedral cells (trilinear images of cubes). It interpolates velocities and fluxes quadratically, because as shown here, the usual Piola-transformed shape functions, which interpolate linearly, cannot match uniform flow on general hexahedral cells. Truncation-error estimates for the shape function are demonstrated. CVMFE simulations of uniform and non-uniform flow with irregular meshes show first- and second-order convergence of fluxes in the L 2 norm in the presence and absence of singularities, respectively.",
+    "citation_count": 11,
+    "year": "2002/09",
+    "authors": [
+        {
+            "name": "Naff, R.L.",
+            "country": "USA"
+        },
+        {
+            "name": "Russell, T.F.",
+            "country": "USA"
+        },
+        {
+            "name": "Wilson, J.D.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

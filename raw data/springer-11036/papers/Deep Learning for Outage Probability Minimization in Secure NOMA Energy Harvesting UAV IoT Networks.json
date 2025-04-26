@@ -1,0 +1,51 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-024-02348-2",
+    "title": "Deep Learning for Outage Probability Minimization in Secure NOMA Energy Harvesting UAV IoT Networks",
+    "abstract": "In this paper, a secure uplink non-orthogonal multiple access (NOMA) internet of things (IoT) system using an energy harvesting (EH) unmanned aerial vehicle (UAV) is studied. The communication protocol includes three phases: The first phase is an EH phase, in which a UAV relay (UR) and IoT user/devices (IDs) harvest radio frequency energy from a base station (BS). Information transmission from IDs to the UAV relay is the second phase. The third phase then relays the information from the UR to the BS. Furthermore, in the second and third phases, a UAV eavesdropper (UE) wiretaps the signals from the IDs and UAV relay. For this system, we derived the closed-form outage and intercept probabilities to evaluate the system and secrecy performances. We then propose a random-cut continuous genetic algorithm (RCGA) to minimize the outage probability and obtain training data. Finally, we train a deep learning model to predict the optimal configuration parameters, allowing for rapid adaptation to environmental conditions.",
+    "citation_count": 40,
+    "year": "2023/12",
+    "authors": [
+        {
+            "name": "Long, Nguyen Quoc",
+            "country": "Vietnam"
+        },
+        {
+            "name": "Dang, Viet-Hung",
+            "country": "Vietnam"
+        },
+        {
+            "name": "Nguyen, Nhu Gia",
+            "country": "Vietnam"
+        },
+        {
+            "name": "Nguyen, Thanh Trong",
+            "country": "Vietnam"
+        },
+        {
+            "name": "Ho, Tu Dac",
+            "country": "Vietnam"
+        },
+        {
+            "name": "Tran, Hung",
+            "country": "Vietnam"
+        },
+        {
+            "name": "Tran, Duc-Dung",
+            "country": "Vietnam"
+        },
+        {
+            "name": "Thanh, Cong Le",
+            "country": "Vietnam"
+        },
+        {
+            "name": "Vo, Van Nhan",
+            "country": "Norway"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

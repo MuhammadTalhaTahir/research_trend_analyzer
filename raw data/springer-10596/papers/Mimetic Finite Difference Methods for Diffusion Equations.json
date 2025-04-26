@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1021282912658",
+    "title": "Mimetic Finite Difference Methods for Diffusion Equations",
+    "abstract": "This paper reviews and extends the theory and application of mimetic finite difference methods for the solution of diffusion problems in strongly heterogeneous anisotropic materials. These difference operators satisfy the fundamental identities, conservation laws and theorems of vector and tensor calculus on nonorthogonal, nonsmooth, structured and unstructured computational grids. We provide explicit approximations for equations in two dimensions with discontinuous anisotropic diffusion tensors. We mention the similarities and differences between the new methods and mixed finite element or hybrid mixed finite element methods.",
+    "citation_count": 24,
+    "year": "2002/09",
+    "authors": [
+        {
+            "name": "Hyman, J.",
+            "country": "USA"
+        },
+        {
+            "name": "Morel, J.",
+            "country": "USA"
+        },
+        {
+            "name": "Shashkov, M.",
+            "country": "USA"
+        },
+        {
+            "name": "Steinberg, S.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885625000307",
+    "title": "Vehicle re-identification with large separable kernel attention and hybrid channel attention",
+    "abstract": "With the rapid development of intelligent transportation systems and the popularity of smart city infrastructure, Vehicle Re-ID technology has become an important research field. The vehicle Re-ID task faces an important challenge, which is the high similarity between different vehicles. Existing methods use additional detection or segmentation models to extract differentiated local features. However, these methods either rely on additional annotations or greatly increase the computational cost. Using attention mechanism to capture global and local features is crucial to solve the challenge of high similarity between classes in vehicle Re-ID tasks. In this paper, we propose LSKA-ReID with large separable kernel attention and hybrid channel attention. Specifically, the large separable kernel attention (LSKA) utilizes the advantages of self-attention and also benefits from the advantages of convolution, which can extract the global and local features of the vehicle more comprehensively. We also compare the performance of LSKA and large kernel attention (LKA) on the vehicle ReID task. We also introduce hybrid channel attention (HCA), which combines channel attention with spatial information, so that the model can better focus on channels and feature regions, and ignore background and other disturbing information. Extensive experiments on three popular datasets VeRi-776, VehicleID and VERI-Wild demonstrate the effectiveness of LSKA-ReID. In particular, on VeRi-776 dataset, mAP reaches 86.78% and Rank-1 reaches 98.09%.",
+    "citation_count": "0",
+    "year": "2025/03/01",
+    "authors": [
+        {
+            "name": "Xuezhi Xiang",
+            "country": ""
+        },
+        {
+            "name": "Zhushan Ma",
+            "country": ""
+        },
+        {
+            "name": "Xiaoheng Li",
+            "country": ""
+        },
+        {
+            "name": "Lei Zhang",
+            "country": ""
+        },
+        {
+            "name": "Xiantong Zhen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

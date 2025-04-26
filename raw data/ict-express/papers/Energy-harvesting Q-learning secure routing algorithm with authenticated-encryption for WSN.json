@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959523000607",
+    "title": "Energy-harvesting Q-learning secure routing algorithm with authenticated-encryption for WSN",
+    "abstract": "Wireless sensor networks are susceptible to a variety of network attacks. Due to the limited energy of nodes and selfish nodes in the network, the packet delivery rate is lower. To address these issues, we innovatively propose an energy-harvesting Q-learning secure routing algorithm with authenticated-encryption. The algorithm uses physical unclonable functions and optimized Q-learning to ensure that the transmission path is reliable. Meanwhile, we combine the LSTM-based prediction model to predict the energy value that the nodes replenish. In addition, simulations are performed to compare the performances of the proposed algorithm with other algorithms under different attacks. The proposed algorithm has greater improvements in the packet delivery rate, filtering selfish nodes, and reducing node energy consumption.",
+    "citation_count": "0",
+    "year": "2023/12/01",
+    "authors": [
+        {
+            "name": "Cuiran Li",
+            "country": ""
+        },
+        {
+            "name": "Jixuan Wu",
+            "country": ""
+        },
+        {
+            "name": "Zepeng Zhang",
+            "country": ""
+        },
+        {
+            "name": "Anqi Lv",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

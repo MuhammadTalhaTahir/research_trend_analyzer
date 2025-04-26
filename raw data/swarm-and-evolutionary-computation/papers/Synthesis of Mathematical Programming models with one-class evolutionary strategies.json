@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217305849",
+    "title": "Synthesis of Mathematical Programming models with one-class evolutionary strategies",
+    "abstract": "We propose an Evolutionary Strategy-based One Class Constraint Synthesis ( ESOCCS ), a novel method for computer-assisted synthesis of constraints for  Mathematical Programming  models.  ESOCCS  synthesizes constraints of Linear Programming and Non-Linear Programming types using solely examples of  feasible states  of the modeled entity. This is a crucial feature from the viewpoint of modeling real-world business processes from data, as acquisition of examples of feasible states is straightforward for a normally operating process, while infeasible states corresponding to errors and faults are avoided in practice and thus uncommon.  ESOCCS  is verified on a suite of synthetic benchmarks having known model representations and synthesizes models with noticeable fidelity to the known representations in terms of syntax and semantics. We employ  ESOCCS  and an off-the-shelf solver in a fully automated setup for modeling and optimization of a real-world business process of rice production. The resulting optimal parameters of production are validated in the context of three exemplary rice farms. Likely increase in profit thanks to applying those parameters is concluded.",
+    "citation_count": "8",
+    "year": "2019/02/01",
+    "authors": [
+        {
+            "name": "Tomasz P. Pawlak",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1008969621405",
+    "title": "A Petri Net Model for Hardware/Software Codesign",
+    "abstract": "This work presents Petri nets as an intermediate model for hardware/software codesign. The main reason of using of Petri nets is to provide a model that allows for formal qualitative and quantitative analysis in order to perform hardware/software partitioning. Petri nets as an intermediate model allows one to analyze properties of the specification and formally compute performance indices which are used in the partitioning process. This paper highlights methods of computing load balance, mutual exclusion degree and communication cost of behavioral description in order to perform the initial allocation and the partitioning. This work is also devoted to describing a method for estimating hardware area, and it also presents an overview of the general partitioning method considering multiple software components.",
+    "citation_count": 98,
+    "year": "1999/10",
+    "authors": [
+        {
+            "name": "Maciel, Paulo",
+            "country": "Brazil"
+        },
+        {
+            "name": "Barros, Edna",
+            "country": "Brazil"
+        },
+        {
+            "name": "Rosenstiel, Wolfgang",
+            "country": "Germany"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762120301715",
+    "title": "Energy efficient backup overloading schemes for fault tolerant scheduling of real-time tasks",
+    "abstract": "Efficient  energy management  and  fault tolerance  are two key issues that demand judicious handling while scheduling real-time task-sets. Standby-sparing technique is available in literature for fault tolerance, while dynamic power management (DPM) and  dynamic voltage scaling  (DVS) schemes are exploited for energy management. However, usage of  auxiliary  processor for running backup jobs leads to increased energy consumption making fault tolerant scheduling energy inefficient. In the current work, overloading of backup jobs in overlapping time intervals is proposed, implemented and investigated for  reducing energy consumption  on auxiliary processor for scheduling real-time periodic tasks. Two energy efficient fault tolerant  scheduling algorithms  FEED-O and FEED-OD are proposed and extensive performance analysis through simulations is carried out indicating their usefulness especially at higher task-set utilization in comparison to other state-of-the-art algorithms.",
+    "citation_count": "13",
+    "year": "2021/02/01",
+    "authors": [
+        {
+            "name": "Savina Bansal",
+            "country": ""
+        },
+        {
+            "name": "Rakesh Kumar Bansal",
+            "country": ""
+        },
+        {
+            "name": "Kiran Arora",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

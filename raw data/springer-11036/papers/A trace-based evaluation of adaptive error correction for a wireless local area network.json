@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1019163202314",
+    "title": "A trace-based evaluation of adaptive error correction for a wireless local area network",
+    "abstract": "Wireless transmissions are highly susceptible to noise and interference. As a result, the error characteristics of a wireless link may vary widely depending on environmental factors such as location of the communicating systems and activity of competing radiation sources, making error control a difficult task. In this paper we evaluate error control strategies for a wireless LAN. Based on low-level packet traces of WaveLAN, we first show that forward error correction (FEC) is effective in recovering from bit corruptions and that packet length adjustment can reduce packet truncation. However, as expected, fixed error control policies can perform very poorly, because they either introduce too much overhead in “good” environments or are not aggressive enough in “bad” environments. We address this problem through adaptive error control, i.e., error control policies that adapt the degree of FEC redundancy and the packet size to the environment. The effectiveness of adaptive error control depends on the characteristics of the error environment, e.g., the type of errors and the frequency with which the error environment changes. Our evaluation shows that adaptive error control can improve throughput consistently across a wide range of wireless LAN error environments. The reason for this effectiveness is that changes in the error environment are often caused by human mobility-related events such as the motion of a cordless phone, which take place over seconds, while adaptation protocols can respond in tens of milliseconds. Evaluating adaptive error control in a wireless environments is challenging because repeatable experiments are difficult: the wireless environment cannot easily be isolated and the adaptation process itself changes the environment, which may make trace-based evaluation difficult. We introduce a trace-based evaluation methodology that deals appropriately with changes in packet content and size.",
+    "citation_count": 32,
+    "year": "1999/12",
+    "authors": [
+        {
+            "name": "Eckhardt, David A.",
+            "country": "USA"
+        },
+        {
+            "name": "Steenkiste, Peter",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

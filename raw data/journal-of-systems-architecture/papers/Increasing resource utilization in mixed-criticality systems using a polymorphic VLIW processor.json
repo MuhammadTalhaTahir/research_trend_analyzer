@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762117303971",
+    "title": "Increasing resource utilization in mixed-criticality systems using a polymorphic VLIW processor",
+    "abstract": "Mixed-criticality systems need to provide strict guarantees to hard real-time tasks and simultaneously, deliver  high throughput  for non-critical tasks. However, techniques to enhance performance more often than not affect the analyzability, e.g., caches, branch prediction, out-of-order (OoO) execution  superscalar  processing, and simultaneous multithreading (SMT). In this paper, we propose the use of a polymorphic VLIW processor to increase performance for non-critical tasks while maintaining analyzability. The processor achieves these goals by dynamically distributing computing resources (in the form of datapaths) to one or multiple threads. A static schedule guarantees the minimum amount of cycles to meet the deadlines for critical tasks. Datapaths that are not used by critical tasks can be assigned to non-critical tasks in a highly flexible way, thereby increasing  resource utilization  resulting in higher throughput. Our experiments show that our approach can exploit its  dynamic properties  to improve schedulability and assign up to 50% and on average 25% more resources to lower-priority threads during the execution of a static real-time schedule.",
+    "citation_count": "2",
+    "year": "2018/03/01",
+    "authors": [
+        {
+            "name": "Joost Hoozemans",
+            "country": ""
+        },
+        {
+            "name": "Jeroen van Straten",
+            "country": ""
+        },
+        {
+            "name": "Stephan Wong",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

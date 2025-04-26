@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959515300710",
+    "title": "QoE-based transmission strategies for multi-user wireless information and power transfer",
+    "abstract": "One solution to the problem of supplying energy to wireless networks is wireless power transfer. One such technology–electromagnetic radiation enabled wireless power transfer–will change traditional wireless networks. In this paper, we investigate a transmission strategy for multi-user wireless information and power transfer. We consider a multi-user multiple-input multiple-output (MIMO) channel that includes one base station (BS) and two user terminals (UT) consisting of one energy harvesting (EH) receiver and one information decoding (ID) receiver. Our system provides transmission strategies that can be executed and implemented in practical scenarios. The paper then analyzes the  rate–energy  (R–E) pair of our strategies and compares them to those of the theoretical optimal strategy. We furthermore propose a QoE-based mode selection algorithm by mapping the R–E pair to the utility functions.",
+    "citation_count": "0",
+    "year": "2015/12/01",
+    "authors": [
+        {
+            "name": "Taehun Jung",
+            "country": ""
+        },
+        {
+            "name": "Taehoon Kwon",
+            "country": ""
+        },
+        {
+            "name": "Chan-Byoung Chae",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

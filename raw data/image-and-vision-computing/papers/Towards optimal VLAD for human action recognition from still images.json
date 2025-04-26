@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885616300282",
+    "title": "Towards optimal VLAD for human action recognition from still images",
+    "abstract": "Human action recognition from still image has recently drawn increasing attention in human behavior analysis and also poses great challenges due to the huge inter ambiguity and intra variability. Vector of locally aggregated descriptors (VLAD) has achieved state-of-the-art performance in many image  classification tasks  based on local features. The great success of VLAD is largely due to its high descriptive ability and computational efficiency. In this paper, towards optimal VLAD representations for human action recognition from still images, we improve VLAD by tackling three important issues including empty cavity, ambiguity and pooling strategies. The empty cavity limits the performance of VLAD and has long been overlooked. We investigate the empty cavity and provide an effective solution to deal with it, which improves the performance of VLAD; we enhance the codewords with middle level of assignments which are more reliable and can provide more useful information for realistic activity; we propose incorporating the generalized max pooling to replace sum pooling in VLAD, which is more reliable for the final representation. We have conducted extensive experiments on four widely-used benchmarks to validate the proposed method for human action recognition from still images. Our method produces competitive performance with state-of-the-art algorithms.",
+    "citation_count": "9",
+    "year": "2016/11/01",
+    "authors": [
+        {
+            "name": "Lei Zhang",
+            "country": ""
+        },
+        {
+            "name": "Changxi Li",
+            "country": ""
+        },
+        {
+            "name": "Peipei Peng",
+            "country": ""
+        },
+        {
+            "name": "Xuezhi Xiang",
+            "country": ""
+        },
+        {
+            "name": "Jingkuan Song",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

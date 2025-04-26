@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1021214424953",
+    "title": "Nonconforming Finite Volume Methods",
+    "abstract": "We extend and generalize recently proposed finite volume methods using the framework of mixed finite element methods. Proposed discretizations are defined for tensor permeabilities and naturally produce a generalization of harmonic averaging, and are therefore well suited for heterogeneous and anisotropic media. They are locally mass conservative and work on extremely flexible distorted meshes. Flux variables can be excluded locally and the resulting discretizations for the pressures has the same stencils for Voronoi/PEBI grids as 2-point finite volume discretizations currently used in many simulators.",
+    "citation_count": 21,
+    "year": "2002/09",
+    "authors": [
+        {
+            "name": "Mishev, Ilya D.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

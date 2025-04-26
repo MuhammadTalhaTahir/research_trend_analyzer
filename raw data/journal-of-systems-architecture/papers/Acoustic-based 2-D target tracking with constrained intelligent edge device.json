@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001953",
+    "title": "Acoustic-based 2-D target tracking with constrained intelligent edge device",
+    "abstract": "Edge Computing has shown significant potential in the development of  IoT.  However, most existing constrained intelligent edge devices cannot provide sufficient resources for edge computing. Such as the existing acoustic 2-D tracking approaches for portable devices require at least two microphones, incapable for universal devices. In this paper, we propose  NearTracker+ , a contactless acoustic tracking system for the interaction between users and IoT devices, achieves 2-D  target tracking  with low-cost hardware (i.e., one speaker and one microphone) and lightweight computation. With the help of a nearby reflector, the additional valuable echoes from target are combined for positioning. However, the dynamic interferences from non-target echoes pose huge challenges for target echo extraction.  NearTracker+  extracts and enhances these faint target echoes with novel signal processing methods and estimates the target’s location accurately via a designed particle  filter algorithm . All the above  data processing  is computed locally in a low-latency and high-privacy way. Extensive experiments show that our system achieves on average 1.36 cm error with edge computing for 2-D  target tracking , which can satisfy universal edge devices and application scenarios.",
+    "citation_count": "1",
+    "year": "2022/10/01",
+    "authors": [
+        {
+            "name": "Chao Liu",
+            "country": ""
+        },
+        {
+            "name": "Linlin Gao",
+            "country": ""
+        },
+        {
+            "name": "Ruobing Jiang",
+            "country": ""
+        },
+        {
+            "name": "Zhongwen Guo",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

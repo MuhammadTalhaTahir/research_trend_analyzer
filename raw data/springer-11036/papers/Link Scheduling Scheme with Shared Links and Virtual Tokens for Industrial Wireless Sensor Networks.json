@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-016-0727-3",
+    "title": "Link Scheduling Scheme with Shared Links and Virtual Tokens for Industrial Wireless Sensor Networks",
+    "abstract": "Industrial wireless sensor networks can help improve the efficiency, reconfigurability and flexibility of future factories, and facilitate the introduction of new applications. Industrial applications are generally characterized with strict reliability and latency requirements. The capacity to meet such requirements is highly dependent on an efficient utilization of communication links. Such efficient utilization will become even more critical as the number of deployed sensors and traffic in factories increase. In this context, this paper presents a novel link scheduling scheme for industrial wireless sensor networks that uses shared links among nodes that are part of the same path or multi-hop route. The transmission of a message along a route acts as a virtual token to identify which node should use the shared links at each point in time. This study demonstrates that the proposed link scheduling scheme can significantly improve the reliability, latency and efficiency of industrial wireless sensor networks. The proposed link scheduling scheme is here applied to industrial wireless sensor networks, but it can be used in other centralized TDMA-based multi-hop wireless networks.",
+    "citation_count": 19,
+    "year": "2017/12",
+    "authors": [
+        {
+            "name": "Montero, Sergio",
+            "country": "Spain"
+        },
+        {
+            "name": "Gozalvez, Javier",
+            "country": "Spain"
+        },
+        {
+            "name": "Sepulcre, Miguel",
+            "country": "Spain"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

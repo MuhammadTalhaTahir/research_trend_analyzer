@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-015-0526-7",
+    "title": "A large vocabulary system for Arabic online handwriting recognition",
+    "abstract": "The success of using Hidden Markov Models (HMMs) for speech recognition application has motivated the adoption of these models for handwriting recognition especially the online handwriting that has large similarity with the speech signal as a sequential process. Some languages such as Arabic, Farsi and Urdo include large number of delayed strokes that are written above or below most letters and usually written delayed in time. These delayed strokes represent a modeling challenge for the conventional left-right HMM that is commonly used for Automatic Speech Recognition (ASR) systems. In this paper, we introduce a new approach for handling delayed strokes in Arabic online handwriting recognition using HMMs. We also show that several modeling approaches such as context based tri-grapheme models, speaker adaptive training and discriminative training that are currently used in most state-of-the-art ASR systems can provide similar performance improvement for Hand Writing Recognition (HWR) systems. Finally, we show that using a multi-pass decoder that use the computationally less expensive models in the early passes can provide an Arabic large vocabulary HWR system with practical decoding time. We evaluated the performance of our proposed Arabic HWR system using two databases of small and large lexicons. For the small lexicon data set, our system achieved competing results compared to the best reported state-of-the-art Arabic HWR systems. For the large lexicon, our system achieved promising results (accuracy and time) for a vocabulary size of 64k words with the possibility of adapting the models for specific writers to get even better results.",
+    "citation_count": 28,
+    "year": "2016/11",
+    "authors": [
+        {
+            "name": "Abdelaziz, Ibrahim",
+            "country": "Egypt"
+        },
+        {
+            "name": "Abdou, Sherif",
+            "country": "Egypt"
+        },
+        {
+            "name": "Al-Barhamtoshy, Hassanin",
+            "country": "Saudi Arabia"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

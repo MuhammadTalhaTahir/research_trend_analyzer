@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224001226",
+    "title": "A novel penalty function-based interval constrained multi-objective optimization algorithm for uncertain problems",
+    "abstract": "To directly address problems involving uncertain objectives and constraints, a novel penalty function-based interval constrained multi-objective optimization algorithm (PF-ICMOA) was developed. It comprises three main components: an uncertainty propagation-based interval constraint solver, an interval constraint violation function, and a two-stage penalty function. The uncertainty violation of interval constraints can be accurately evaluated by the proposed advanced multi-objective optimization algorithm using a segmentation function without requiring multiple interval analyses. Additionally, by applying penalties to infeasible solutions in the two-stage process, partially feasible and superior infeasible solutions are retained in the early stages of evolution, while superior feasible solutions are favored in the later stages. A novel benchmark was designed and the effect of the imprecision factor on the Pareto front was examined in details. Comparisons with seven deterministic constraint handling techniques demonstrated the effectiveness of the proposed method for solving interval constrained multi-objective optimization problems, demonstrating that PF-ICMOA is a highly competitive method for balancing the feasibility, convergence, and diversity performance characteristics.",
+    "citation_count": "11",
+    "year": "2024/07/01",
+    "authors": [
+        {
+            "name": "Qianqian Yu",
+            "country": ""
+        },
+        {
+            "name": "Chen Yang",
+            "country": ""
+        },
+        {
+            "name": "Guangming Dai",
+            "country": ""
+        },
+        {
+            "name": "Lei Peng",
+            "country": ""
+        },
+        {
+            "name": "Jian Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

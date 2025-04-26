@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-013-9598-8",
+    "title": "Strategyproof mechanism design for facility location games with weighted agents on a line",
+    "abstract": "Approximation mechanism design without money was first studied in Procaccia and Tennenholtz (2009) by considering a facility location game. In general, a facility is being opened and the cost of an agent is measured by its distance to the facility. In order to achieve a good social cost, a mechanism selects the location of the facility based on the locations reported by agents. It motivates agents to strategically report their locations to get good outcomes for themselves. A mechanism is called strategyproof if no agents could manipulate to get a better outcome by telling lies regardless of any configuration of other agents. The main contribution in this paper is to explore the strategyproof mechanisms without money when agents are distinguishable. There are two main variations on the nature of agents. One is that agents prefer getting closer to the facility, while the other is that agents prefer being far away from the facility. We first consider the model that directly extends the model in Procaccia and Tennenholtz (2009). In particular, we consider the strategyproof mechanisms without money when agents are weighted. We show that the strategyproof mechanisms in the case of unweighted agents are still the best in the weighted cases. We establish tight lower and upper bounds for approximation ratios on the optimal social utility and the minimum utility when agents prefer to stay close to the facility. We then provide the lower and upper bounds on the optimal social utility and lower bound on the minimum distance per weight when agents prefer to stay far away from the facility. We also extend our study in a natural direction where two facilities must be built on a real line. Secondly, we propose an novel threshold based model to distinguish agents. In this model, we present a strategyproof mechanism that leads to optimal solutions in terms of social cost.",
+    "citation_count": 15,
+    "year": "2014/11",
+    "authors": [
+        {
+            "name": "Zhang, Qiang",
+            "country": "SAR"
+        },
+        {
+            "name": "Li, Minming",
+            "country": "SAR"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

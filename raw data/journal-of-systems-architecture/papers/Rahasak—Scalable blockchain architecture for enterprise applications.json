@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000503",
+    "title": "Rahasak—Scalable blockchain architecture for enterprise applications",
+    "abstract": "Blockchain-based decentralized infrastructure has been adapted in various industries to handle the sensitive data in a privacy-preserving manner without trusting third parties. However, integrating state-of-the-art blockchain platforms with the scalable, enterprise-level applications result in several challenges. Current blockchain platforms do not support high transaction throughput, lack high scalability, and cannot provide real-time  transaction processing  and back-pressure operation handling in high transaction throughput applications (e.g Big data, IoT). In this paper, we propose a novel permissioned blockchain platform “Rahasak” for highly scalable, enterprise applications. Rahasak blockchain adopts the Apache Kafka-based consensus on top of a “Validate-Execute-Group” blockchain architecture to handle real-time transaction execution on the blockchain. The architecture is equipped with a functional programming and actor-based  smart contract  platform that enables concurrent execution of transactions in the blockchain. Rahasak supports high transaction throughput, high scalability, concurrent transaction execution,  data analytics  features. With Rahasak, we make blockchain more scalable, secure, structured and meaningful for further data analytics.",
+    "citation_count": "50",
+    "year": "2021/06/01",
+    "authors": [
+        {
+            "name": "Eranga Bandara",
+            "country": ""
+        },
+        {
+            "name": "Xueping Liang",
+            "country": ""
+        },
+        {
+            "name": "Peter Foytik",
+            "country": ""
+        },
+        {
+            "name": "Sachin Shetty",
+            "country": ""
+        },
+        {
+            "name": "Nalin Ranasinghe",
+            "country": ""
+        },
+        {
+            "name": "Kasun De Zoysa",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

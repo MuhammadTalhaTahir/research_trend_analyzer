@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650225000070",
+    "title": "Enhancing Quality-Diversity algorithm by reinforcement learning for Flexible Job Shop Scheduling with transportation constraints",
+    "abstract": "The Flexible Job Shop Scheduling Problem with transportation constraints (FJSP-T) widely exists in manufacturing industry. Despite its prevalence, relatively little research has been done on it. To address the FJSP-T, several meta-heuristic algorithms have been proposed, but they do not take into account the diversity of solution features, potentially leading the algorithm to get trapped in local optima. In addition, transportation constraints directly affect the final objective value, yet there are few efficient strategies specifically dedicated to this aspect of the issue. Moreover, when confronted with the challenge of selecting local search operators, the probabilistic randomization approach introduces considerable uncertainty. This method can engender a substantial volume of invalid searches, consequently degrading the efficiency of the algorithm. To address the above issues, we propose a reinforcement learning enhanced Quality-Diversity (QD) algorithm for FJSP-T. The QD framework, is employed to guarantee the diversity of solution features. This paper asserts that considering job transportation in local search operators can provide advantages in improving problem-solving abilities. Therefore, two local search operators based on job transportation are proposed. To make effective decisions between local search operators, a reinforcement learning method, named Q-learning, is applied. The results on 20 instances demonstrate that the superiority of the proposed algorithm, which has achieved an average reduction of 6% in the optimization objective, outperforming the best-performing algorithm. In summary, while exploiting characteristics of transportation constraints, enhancing QD with reinforcement learning provide a promising avenue to solve FJSP-T.",
+    "citation_count": "0",
+    "year": "2025/03/01",
+    "authors": [
+        {
+            "name": "Haoxiang Qin",
+            "country": ""
+        },
+        {
+            "name": "Yi Xiang",
+            "country": ""
+        },
+        {
+            "name": "Fangqing Liu",
+            "country": ""
+        },
+        {
+            "name": "Yuyan Han",
+            "country": ""
+        },
+        {
+            "name": "Yuting Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-015-9835-4",
+    "title": "The 2-surviving rate of planar graphs without 5-cycles",
+    "abstract": "Let $$G$$ be a connected graph with $$n\\ge 2$$ vertices. Let $$k\\ge 1$$ be an integer. Suppose that a fire breaks out at a vertex $$v$$ of $$G$$ . A firefighter starts to protect vertices. At each step, the firefighter protects $$k$$ -vertices not yet on fire. At the end of each step, the fire spreads to all the unprotected vertices that have a neighbour on fire. Let $$\\hbox {sn}_k(v)$$ denote the maximum number of vertices in $$G$$ that the firefighter can save when a fire breaks out at vertex $$v$$ . The $$k$$ -surviving rate $$\\rho _k(G)$$ of $$G$$ is defined to be $$\\frac{1}{n^2}\\sum _{v\\in V(G)} {\\hbox {sn}}_{k}(v)$$ , which is the average proportion of saved vertices. In this paper, we prove that if $$G$$ is a planar graph with $$n\\ge 2$$ vertices and without 5-cycles, then $$\\rho _2(G)&gt;\\frac{1}{363}$$ .",
+    "citation_count": 19,
+    "year": "2016/05",
+    "authors": [
+        {
+            "name": "Wu, Tingting",
+            "country": "China"
+        },
+        {
+            "name": "Kong, Jiangxu",
+            "country": "China"
+        },
+        {
+            "name": "Wang, Weifan",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

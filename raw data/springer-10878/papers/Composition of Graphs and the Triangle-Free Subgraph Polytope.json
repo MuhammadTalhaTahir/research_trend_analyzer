@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1019518830361",
+    "title": "Composition of Graphs and the Triangle-Free Subgraph Polytope",
+    "abstract": "In this paper, we study a composition (decomposition) technique for the triangle-free subgraph polytope in graphs which are decomposable by means of 3-sums satisfying some property. If a graph G decomposes into two graphs G 1 and G 2, we show that the triangle-free subgraph polytope of G can be described from two linear systems related to G 1 and G 2. This gives a way to characterize this polytope on graphs that can be recursively decomposed. This also gives a procedure to derive new facets for this polytope. We also show that, if the systems associated with G 1 and G 2 are TDI, then the system characterizing the polytope for G is TDI. This generalizes previous results in R. Euler and A.R. Mahjoub (Journal of Comb. Theory series B, vol. 53, no. 2, pp. 235–259, 1991) and A.R. Mahjoub (Discrete Applied Math., vol. 62, pp. 209–219, 1995).",
+    "citation_count": 13,
+    "year": "2002/12",
+    "authors": [
+        {
+            "name": "Bendali, F.",
+            "country": "France"
+        },
+        {
+            "name": "Mahjoub, A.R.",
+            "country": "France"
+        },
+        {
+            "name": "Mailfert, J.",
+            "country": "France"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

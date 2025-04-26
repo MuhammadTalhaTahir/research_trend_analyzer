@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224002955",
+    "title": "Open shop scheduling with group and transportation operations by learning-driven hyper-heuristic algorithms",
+    "abstract": "Open shop scheduling problems (OSSPs) are complex scheduling problems, which have been extensively studied in the literature. Group and transportation activities are two important aspects of OSSPs that still need attention. This work considers an OSSP with group and transportation operations to minimize maximum completion time by solving three key sub-problems: job assignment among groups, job sequence in groups and group sequence on machines. Firstly, an integer programming model is formulized to define the problem. Secondly, a learning-driven hyper-heuristic algorithm is developed by incorporating a Q-learning method and four meta-heuristics, i.e., genetic algorithm, artificial bee colony optimization, variable neighborhood search method and Jaya algorithm. The Q-learning method is devised to select the most promising meta-heuristic for performing at each iteration. Three neighborhood structures are designed by integrating critical machines and critical paths. Finally, the developed model is verified by an exact solver CPLEX, and the comparison results exhibit that CPLEX is effective for instances with ten jobs. For the instances with more than ten jobs, the developed algorithm wins CPLEX in terms of computation accuracy and efficiency, signifying its excellent performance in finding better solutions. Furthermore, four meta-heuristics mentioned above and three state-of-the-art meta-heuristics are employed for comparisons in solving a set of benchmark test instances. The results confirm that the formulated model and algorithm have stronger competitiveness in handling the considered problems.",
+    "citation_count": "1",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Yifeng Wang",
+            "country": ""
+        },
+        {
+            "name": "Yaping Fu",
+            "country": ""
+        },
+        {
+            "name": "Kaizhou Gao",
+            "country": ""
+        },
+        {
+            "name": "Humyun Fuad Rahman",
+            "country": ""
+        },
+        {
+            "name": "Min Huang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

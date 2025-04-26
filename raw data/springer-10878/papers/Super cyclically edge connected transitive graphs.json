@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-010-9304-z",
+    "title": "Super cyclically edge connected transitive graphs",
+    "abstract": "A cyclic edge-cut of a graph&nbsp;G is an edge set, the removal of which separates two cycles. If&nbsp;G has a cyclic edge-cut, then it is called cyclically separable. For a cyclically separable graph&nbsp;G, the cyclic edge-connectivity λ c (G) is the cardinality of a minimum cyclic edge-cut of G. We call a graph super cyclically edge-connected, if the removal of any minimum cyclic edge-cut results in a component which is a shortest cycle. In this paper, we show that a connected vertex-transitive or edge-transitive graph is super cyclically edge-connected if either&nbsp;G is cubic with girth g(G)≥7, or&nbsp;G has minimum degree δ(G)≥4 and girth g(G)≥6.",
+    "citation_count": 19,
+    "year": "2011/11",
+    "authors": [
+        {
+            "name": "Zhang, Zhao",
+            "country": "P.R. China"
+        },
+        {
+            "name": "Wang, Bing",
+            "country": "P.R. China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

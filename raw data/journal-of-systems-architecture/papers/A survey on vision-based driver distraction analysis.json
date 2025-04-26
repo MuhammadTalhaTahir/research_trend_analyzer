@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002174",
+    "title": "A survey on vision-based driver distraction analysis",
+    "abstract": "Motor vehicle crashes are great threats to our life, which may result in numerous fatalities, as well as tremendous economic and societal costs. Driver inattention, either distraction or fatigue, is the major cause among human factors responsible for the crashes. Distracted driving has been getting increasingly severe, and has caused many more crashes than drowsy driving, while the latter has been more extensively studied. Therefore, we are motivated to present a comprehensive survey on vision-based approaches for driver distraction analysis. In the paper, we firstly provide an overview of driver distraction, then introduce the available datasets and explore the various cues for driver behavior distraction analysis. After that, two forms of driver behavior distraction (visual distraction and manual distraction) are analyzed separately. Lastly, we conclude the evolvement and future directions of driver distraction analysis for safe driving. To the best of our knowledge, we are the first to propose driver behavior distraction and analyze it in a hierarchical way.",
+    "citation_count": "43",
+    "year": "2021/12/01",
+    "authors": [
+        {
+            "name": "Wanli Li",
+            "country": ""
+        },
+        {
+            "name": "Jing Huang",
+            "country": ""
+        },
+        {
+            "name": "Guoqi Xie",
+            "country": ""
+        },
+        {
+            "name": "Fakhri Karray",
+            "country": ""
+        },
+        {
+            "name": "Renfa Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

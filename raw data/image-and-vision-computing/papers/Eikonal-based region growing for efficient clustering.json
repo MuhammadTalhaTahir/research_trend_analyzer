@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885614001565",
+    "title": "Eikonal-based region growing for efficient clustering",
+    "abstract": "We describe an Eikonal-based algorithm for computing dense oversegmentation of an image, often called  superpixels . This oversegmentation respects local image boundaries while limiting undersegmentation. The proposed algorithm relies on a region growing scheme, where the potential map used is not fixed and evolves during the diffusion. Refinement steps are also proposed to enhance at low cost the first oversegmentation.  Quantitative comparisons  on the Berkeley dataset show  good performance  on traditional metrics over current state-of-the art superpixel methods.",
+    "citation_count": "20",
+    "year": "2014/12/01",
+    "authors": [
+        {
+            "name": "Pierre Buyssens",
+            "country": ""
+        },
+        {
+            "name": "Isabelle Gardin",
+            "country": ""
+        },
+        {
+            "name": "Su Ruan",
+            "country": ""
+        },
+        {
+            "name": "Abderrahim Elmoataz",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

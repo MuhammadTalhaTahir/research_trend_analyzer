@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/0262885687900035",
+    "title": "Linear predictive transform of monochrome images",
+    "abstract": "Digital monochromatic images are encoded using a novel minimum mean square error (MSE) linear predictive transform (LPT) coding formulation. The new formulation is appealing for two important reasons. First, it leads to simple coder implementation with a satisfactory signal-to-noise ratio (SNR). Second, it provides a general theoretical framework from which minimum MSE predictive coding and minimum MSE transform coding arise as special cases. Some specific results of this paper that illustrate the previous ideas are: a simple and generally suboptimum two-dimensional LPT coder operating at 2 bit pixer −1  has approximately one third the complexity of a 4 × 4 Hadamard coder while yielding a better SNR; an optimum 2D LPT coder operating at 2 bit pixer −1  has approximately one sixth the complexity of a 4 × 4 Karhunen-Loeve transform (KLT) coder while yielding a better SNR.",
+    "citation_count": "10",
+    "year": "1987/11/01",
+    "authors": [
+        {
+            "name": "Erlan H Feria",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

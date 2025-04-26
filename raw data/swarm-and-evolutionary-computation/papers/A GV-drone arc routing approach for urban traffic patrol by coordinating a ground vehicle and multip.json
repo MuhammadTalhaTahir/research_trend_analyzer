@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223000202",
+    "title": "A GV-drone arc routing approach for urban traffic patrol by coordinating a ground vehicle and multiple drones",
+    "abstract": "With the continuous expansion of civilian field,  unmanned aerial vehicle  (UAV), also known as drone, has received much attention. Nevertheless, the flight range of a rotary wing drone is restricted due to limited  battery  endurance. To conquer this shortage, the coordination of ground vehicles (GVs) and drones to finish complex tasks has attracted much attention recently. Especially, the coordination of trucks and drones has been investigated to realize the last-mile parcel delivery. By contrast, in this study, we propose to coordinate GVs and drones to monitor urban  road networks  more efficiently. The GV serves as a mobile carrier for launching, recovering, and charging the drones, while the drones are used to inspect some concerned sections of the road networks. To obtain high-quality routes for the GV and drones, a novel GV-drone arc routing problem (GVD-ARP) is specifically investigated. A mathematical model is constructed to describe the GVD-ARP and solved by the Gurobi optimizer. In addition, a hybrid optimization algorithm that combines the randomized variable neighborhood descent search, which is incorporated with the  simulated annealing algorithm  (RVND-SA), is developed to solve the model. Extensive experiments on instances with different scales are conducted and the results show the superiority of RVND-SA comparing with four other algorithms. Moreover, experiments on patrolling the real-world road networks are conducted, which further demonstrates the effectiveness of the model and RVND-SA.",
+    "citation_count": "25",
+    "year": "2023/03/01",
+    "authors": [
+        {
+            "name": "Binjie Xu",
+            "country": ""
+        },
+        {
+            "name": "Kexin Zhao",
+            "country": ""
+        },
+        {
+            "name": "Qizhang Luo",
+            "country": ""
+        },
+        {
+            "name": "Guohua Wu",
+            "country": ""
+        },
+        {
+            "name": "Witold Pedrycz",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

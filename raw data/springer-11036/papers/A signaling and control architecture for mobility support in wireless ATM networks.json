@@ -1,0 +1,35 @@
+{
+    "url": "https://link.springer.com/article/10.1007/BF01193262",
+    "title": "A signaling and control architecture for mobility support in wireless ATM networks",
+    "abstract": "This paper presents a signaling and control architecture for mobility support in a “wireless ATM” network that provides integrated broadband services to mobile terminals. A system level protocol architecture for a wireless ATM network is outlined. The proposed protocol stack incorporates new wireless link MAC, DLC and wireless control sublayers, together with appropriate mobility extensions to the existing ATM network control layer. Wireless control and ATM signaling capabilities required for mobility support are discussed, and preliminary solutions are given for selected major functions. Potential extensions to standard Q.2931 ATM signaling are proposed to support handoff and service parameter/QoS renegotiation required for mobility. An associated wireless control protocol for supporting terminal migration, resource allocation, and handoff is discussed. Preliminary experimental results are given which validate the proposed handoff control protocol on an ATM network testbed.",
+    "citation_count": 11,
+    "year": "1996/10",
+    "authors": [
+        {
+            "name": "Yuan, R.",
+            "country": "USA"
+        },
+        {
+            "name": "Biswas, S. K.",
+            "country": "USA"
+        },
+        {
+            "name": "French, L. J.",
+            "country": "USA"
+        },
+        {
+            "name": "Li, J.",
+            "country": "USA"
+        },
+        {
+            "name": "Raychaudhuri, D.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

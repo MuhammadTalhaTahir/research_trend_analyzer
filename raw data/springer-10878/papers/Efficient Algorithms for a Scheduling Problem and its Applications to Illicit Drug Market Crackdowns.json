@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1009738610804",
+    "title": "Efficient Algorithms for a Scheduling Problem and its Applications to Illicit Drug Market Crackdowns",
+    "abstract": "We give polynomial time algorithms for a job scheduling problem. By duality we transform a special case of the drug market crackdown schedulingproblem to the above job scheduling problem and thus derive polynomial timealgorithms to the second problem. Finally, using the algorithm for the specialcase, we develop a quasipolynomial time approximation algorithm for thegeneral case of the drug market crackdown scheduling problem with monomialcost functions.",
+    "citation_count": 12,
+    "year": "1998/12",
+    "authors": [
+        {
+            "name": "Cai, Pu",
+            "country": "Buffalo"
+        },
+        {
+            "name": "Cai, Jin-yi",
+            "country": "Buffalo"
+        },
+        {
+            "name": "Naik, Ashish V.",
+            "country": "Chicago"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

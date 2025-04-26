@@ -1,0 +1,41 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-020-00558-4",
+    "title": "A 1/2-approximation algorithm for maximizing a non-monotone weak-submodular function on a bounded integer lattice",
+    "abstract": "Maximizing non-monotone submodular functions is one of the most important problems in submodular optimization. Let $$\\mathbf {B}=(B_1, B_2,\\ldots , B_n)\\in {\\mathbb {Z}}_+^n$$ be an integer vector and $$[\\mathbf { B}]=\\{(x_1,\\dots ,x_n) \\in {\\mathbb {Z}}_+^n: 0\\le x_k \\le B_k, \\forall 1\\le k\\le n\\}$$ be the set of all non-negative integer vectors not greater than $$\\mathbf {B}$$. A function $$f:[\\mathbf { B}] \\rightarrow {\\mathbb {R}}$$ is said to be weak-submodular if $$f(\\mathbf {x}+\\delta \\mathbf {1}_k)-f(\\mathbf {x})\\ge f(\\mathbf {y}+\\delta \\mathbf {1}_k)-f(\\mathbf {y})$$ for any $$k\\in \\{1,\\dots ,n\\}$$, any pair of $$\\mathbf {x}, \\mathbf {y}\\in [\\mathbf { B}]$$ such that $$\\mathbf {x}\\le \\mathbf {y}$$ and $$x_k =y_k$$, and any $$\\delta \\in {\\mathbb {Z}}_+$$ satisfying $$\\mathbf {y}+\\delta \\mathbf {1}_k\\in [\\mathbf { B}]$$. Here $$\\mathbf {1}_k$$ is the vector with the kth component equal to 1 and each of the others equals to 0. In this paper we consider the problem of maximizing a non-monotone and non-negative weak-submodular function on the bounded integer lattice without any constraint. We present an randomized algorithm with an approximation guarantee $$\\frac{1}{2}$$ for the problem.",
+    "citation_count": 17,
+    "year": "2020/05",
+    "authors": [
+        {
+            "name": "Nong, Qingqin",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Fang, Jiazhu",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Gong, Suning",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Du, Dingzhu",
+            "country": "USA"
+        },
+        {
+            "name": "Feng, Yan",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Qu, Xiaoying",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

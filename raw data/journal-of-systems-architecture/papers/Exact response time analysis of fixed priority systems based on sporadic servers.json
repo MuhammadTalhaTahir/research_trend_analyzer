@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762120301284",
+    "title": "Exact response time analysis of fixed priority systems based on sporadic servers",
+    "abstract": "Real-time servers have been widely explored in the scheduling literature to predictably execute aperiodic activities, as well as to allow hierarchical scheduling settings. As they facilitate timing isolation between different software components, there is a renewed interest for the adoption of fixed priority real-time servers in the automotive domain, as a way to implement more efficient reservation mechanisms than TDMA-based methods. In this paper, we focus on the Sporadic Server, which is the only fixed priority server supported by the POSIX standard. Despite its popularity, we realized that only sufficient schedulability conditions exist for real-time systems scheduled with a Sporadic Server. Thus, we develop a formal characterization of an exact  response time  analysis for fixed priority systems based on Sporadic Servers in a multi-level scheduling setting under  preemptive scheduling . We then provide an experimental characterization of the schedulabilty improvement that can be obtained with respect to existing sufficient schedulability tests, proving the effectiveness of the proposed exact analysis.",
+    "citation_count": "9",
+    "year": "2020/11/01",
+    "authors": [
+        {
+            "name": "Jorge Martinez",
+            "country": ""
+        },
+        {
+            "name": "Dakshina Dasari",
+            "country": ""
+        },
+        {
+            "name": "Arne Hamann",
+            "country": ""
+        },
+        {
+            "name": "Ignacio Sañudo",
+            "country": ""
+        },
+        {
+            "name": "Marko Bertogna",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

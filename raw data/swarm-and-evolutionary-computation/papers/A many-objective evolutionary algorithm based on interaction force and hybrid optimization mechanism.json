@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224002050",
+    "title": "A many-objective evolutionary algorithm based on interaction force and hybrid optimization mechanism",
+    "abstract": "In many-objective optimization, both convergence and diversity are equally important. However, in high-dimensional spaces, traditional decomposition-based many-objective evolutionary algorithms struggle to ensure population diversity. Conversely, traditional Pareto dominance-based many-objective evolutionary algorithms face challenges in ensuring population convergence. In this paper, we propose a novel many-objective evolutionary algorithm based on interaction force and hybrid optimization mechanism (MaOEAIH) for effectively addressing the difficulty in balancing convergence and diversity. First, we use the concept of interaction force to simulate the convergence (akin to gravity) and diversity (repulsion) of the population. Subsequently, we design an optimization mechanism that combines decomposition and Pareto dominance to enhance the convergence and diversity of the population separately. Simultaneously, to eliminate dominance resistance solutions, we propose a quartile method based on boundary solutions. Additionally, Random perturbations are also introduced to certain individuals within the population to facilitate their escape from local optima. MaOEAIH is compared with some state-of-the-art algorithms on 31 well-known test problems with 3-15 objectives. The experimental results show that, compared to other algorithms, MaOEAIH not only obtains solution sets of higher quality when dealing with different types of many-objective optimization problems, but also effectively addresses key challenges including insufficient selection pressure, difficulty balancing convergence and diversity, and susceptibility to population entrapment in local optima within many-objective optimization scenarios.",
+    "citation_count": "2",
+    "year": "2024/10/01",
+    "authors": [
+        {
+            "name": "Lei Yang",
+            "country": ""
+        },
+        {
+            "name": "Jiale Cao",
+            "country": ""
+        },
+        {
+            "name": "Kangshun Li",
+            "country": ""
+        },
+        {
+            "name": "Yuanye Zhang",
+            "country": ""
+        },
+        {
+            "name": "Rui Xu",
+            "country": ""
+        },
+        {
+            "name": "Ke Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

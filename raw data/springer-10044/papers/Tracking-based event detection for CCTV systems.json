@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-004-0236-z",
+    "title": "Tracking-based event detection for CCTV systems",
+    "abstract": "This paper presents a description of an event detection algorithm based on trajectories designed for closed-circuit television (CCTV) surveillance systems. Following the foreground segmentation, blob and scene basic characteristics—blob position or speed and people density—are used to create low-level descriptions of predefined events. Comparing sequence parameters with the semantic description of the events associated with the current scenario, the system is able to detect them and raise an alert signal to the operator, the final decision-maker. In the approach presented here, the specific demands for CCTV surveillance systems applied to public transport environments will be analysed, together with the appropriate image processing techniques in order to build an intelligent surveillance system able to detect “potentially dangerous situations.”",
+    "citation_count": 33,
+    "year": "2004/12",
+    "authors": [
+        {
+            "name": "Fuentes, Luis M.",
+            "country": "Spain"
+        },
+        {
+            "name": "Velastin, Sergio A.",
+            "country": "UK"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

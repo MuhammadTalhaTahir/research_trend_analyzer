@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-015-9898-2",
+    "title": "On the performance of mildly greedy players in cut games",
+    "abstract": "We continue the study of the performance of mildly greedy players in cut games initiated by Christodoulou et al. (Theoret Comput Sci 438:13–27, 2012), where a mildly greedy player is a selfish agent who is willing to deviate from a certain strategy profile only if her payoff improves by a factor of more than $$1+\\epsilon $$ , for some given $$\\epsilon \\ge 0$$ . Hence, in presence of mildly greedy players, the classical concepts of pure Nash equilibria and best-responses generalize to those of $$(1+\\epsilon )$$ -approximate pure Nash equilibria and $$(1+\\epsilon )$$ -approximate best-responses, respectively. We first show that the $$\\epsilon $$ -approximate price of anarchy, that is the price of anarchy of $$(1+\\epsilon )$$ -approximate pure Nash equilibria, is at least $$\\frac{1}{2+\\epsilon }$$ and that this bound is tight for any $$\\epsilon \\ge 0$$ . Then, we evaluate the approximation ratio of the solutions achieved after a $$(1+\\epsilon )$$ -approximate one-round walk starting from any initial strategy profile, where a $$(1+\\epsilon )$$ -approximate one-round walk is a sequence of $$(1+\\epsilon )$$ -approximate best-responses, one for each player. We improve the currently known lower bound on this ratio from $$\\min \\left\\{ \\frac{1}{4+2\\epsilon },\\frac{\\epsilon }{4+2\\epsilon }\\right\\} $$ up to $$\\min \\left\\{ \\frac{1}{2+\\epsilon },\\frac{2\\epsilon }{(1+\\epsilon )(2+\\epsilon )}\\right\\} $$ and show that this is again tight for any $$\\epsilon \\ge 0$$ . An interesting and quite surprising consequence of our results is that the worst-case performance guarantee of the very simple solutions generated after a $$(1+\\epsilon )$$ -approximate one-round walk is the same as that of $$(1+\\epsilon )$$ -approximate pure Nash equilibria when $$\\epsilon \\ge 1$$ and of that of subgame perfect equilibria (i.e., Nash equilibria for greedy players with farsighted, rather than myopic, rationality) when $$\\epsilon =1$$ .",
+    "citation_count": 29,
+    "year": "2016/11",
+    "authors": [
+        {
+            "name": "Bilò, Vittorio",
+            "country": "Italy"
+        },
+        {
+            "name": "Paladini, Mauro",
+            "country": "Italy"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762115001162",
+    "title": "Fully pipelined real time hardware solution for High Efficiency Video Coding (HEVC) intra prediction\n",
+    "abstract": "A fully pipelined  hardware accelerator  for the  High Efficiency Video Coding  (HEVC)  intra prediction  is presented in this paper in order to reduce the computation complexity coming with this module and to accelerate the concerned calculations. Two reconfigurable structures are developed in this paper, the first one concerns angular modes and is identified as Processing Element for Angular (PEA) modes, the other is made in order to handle with the Planar mode and is identified as Processing Element for the Planar (PEP) mode. Each structure is repeated in five paths, that our architecture composed of, working in parallel way. This architecture supports all intra prediction modes for all prediction unit sizes. The synthesis results show that our design can run at 219 MHz for Xilinx Virtex 6 and is capable to process real time 110 1080p frames per second or 24 4K frames per second.",
+    "citation_count": "28",
+    "year": "2016/03/01",
+    "authors": [
+        {
+            "name": "Farouk Amish",
+            "country": ""
+        },
+        {
+            "name": "El-Bay Bourennane",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

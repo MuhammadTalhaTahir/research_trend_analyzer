@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885625000538",
+    "title": "Feature Field Fusion for few-shot novel view synthesis",
+    "abstract": "Reconstructing neural radiance fields from limited or sparse views has given very promising potential for this field of research. Previous methods usually constrain the reconstruction process with additional priors, e.g. semantic-based or patch-based regularization. Nevertheless, such regularization is given to the synthesis of unseen views, which may not effectively assist the field of learning, in particular when the training views are sparse. Instead, we propose a feature Field Fusion (FFusion) NeRF in this paper that can learn structure and more details from features extracted from pre-trained neural networks for the sparse training views, and use as extra guide for the training of the RGB field. With such extra feature guides, FFusion predicts more accurate color and density when synthesizing novel views. Experimental results have shown that FFusion can effectively improve the quality of the synthesized novel views with only limited or sparse inputs.",
+    "citation_count": "0",
+    "year": "2025/04/01",
+    "authors": [
+        {
+            "name": "Junting Li",
+            "country": ""
+        },
+        {
+            "name": "Yanghong Zhou",
+            "country": ""
+        },
+        {
+            "name": "Jintu Fan",
+            "country": ""
+        },
+        {
+            "name": "Dahua Shou",
+            "country": ""
+        },
+        {
+            "name": "Sa Xu",
+            "country": ""
+        },
+        {
+            "name": "P.Y. Mok",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

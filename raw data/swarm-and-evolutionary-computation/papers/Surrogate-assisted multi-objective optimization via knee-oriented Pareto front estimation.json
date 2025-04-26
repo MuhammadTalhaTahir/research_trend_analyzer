@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223000263",
+    "title": "Surrogate-assisted multi-objective optimization via knee-oriented Pareto front estimation",
+    "abstract": "In preference-based multi-objective optimization,  knee  solutions are termed as the implicit preferred promising solution, particularly when users have trouble in articulating any sensible preferences. However, finding knee solutions by existing posteriori knee identification methods is hard when the function evaluations are expensive, because the computational budget wastes on non-knee solutions. Although a number of knee-oriented multi-objective  evolutionary algorithms  have been proposed to overcome this issue, they still demand massive function evaluations. Therefore, we propose a surrogate-assisted evolutionary multi-objective optimization algorithm via knee-oriented  Pareto front  estimation, which employs  surrogate models  to replace most of the expensive evaluations. The proposed algorithm uses a Pareto front estimation method and a cooperative knee point identification method to predict the potential knee vector. Then, based on the potential knee vector, the aggregated function with an error-tolerant assignment converts the original problem into a single-objective optimization problem for an efficient optimizer. We perform the proposed algorithm on 2-/3-objective problems and experimental results demonstrate that the proposed algorithm outperforms the state-of-the-art knee identification evolutionary algorithms on most test problems within a limited computational budget.",
+    "citation_count": "17",
+    "year": "2023/03/01",
+    "authors": [
+        {
+            "name": "Junfeng Tang",
+            "country": ""
+        },
+        {
+            "name": "Handing Wang",
+            "country": ""
+        },
+        {
+            "name": "Lin Xiong",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885617301890",
+    "title": "Distances evolution analysis for online and off-line human object interaction recognition",
+    "abstract": "Human action recognition  in 3D sequences is one of the most challenging and active areas of research in the  computer vision  domain. However designing automatic systems that are robust to significant variability due to object combinations and high complexity of  human motions  is more challenging in addition to the typical requirements such as rotation, translation, and  scale invariance  is challenging task. In this paper, we propose a spatio-temporal modeling of human-object interaction videos for online and off-line recognition. The inter-joint distances and the object are considered as low-level features for online classification. For off-line recognition, we propose rate-invariant classification of full video and early recognition. A shape analysis of trajectories of the inter-joint and object-joints distances is proposed for this end. The experiments conducted following state-of-the-art settings using MSR Daily Activity 3D Dataset and Online RGBD Action Dataset and on a new multi-view dataset for human object interaction demonstrate that the proposed approach is effective and discriminative for human object interaction classification as demonstrated here.",
+    "citation_count": "23",
+    "year": "2018/02/01",
+    "authors": [
+        {
+            "name": "Meng Meng",
+            "country": ""
+        },
+        {
+            "name": "Hassen Drira",
+            "country": ""
+        },
+        {
+            "name": "Jacques Boonaert",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959524001061",
+    "title": "Prediction of permissioned blockchain performance for resource scaling configurations",
+    "abstract": "Blockchain is increasingly offered as blockchain-as-a-service (BaaS) by cloud service providers. However, configuring BaaS appropriately for optimal performance and reliability resorts to try-and-error. A key challenge is that BaaS is often perceived as a “black-box,” leading to uncertainties in performance and resource provisioning. Previous studies attempted to address this challenge; however, the impacts of both vertical and horizontal scaling remain elusive. To this end, we present machine learning-based models to predict network reliability and throughput based on scaling configurations. In our evaluation, the models exhibit prediction errors of  ∼ 1.9%, which is highly accurate and can be applied in the real-world.",
+    "citation_count": "0",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Seungwoo Jung",
+            "country": ""
+        },
+        {
+            "name": "Yeonho Yoo",
+            "country": ""
+        },
+        {
+            "name": "Gyeongsik Yang",
+            "country": ""
+        },
+        {
+            "name": "Chuck Yoo",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

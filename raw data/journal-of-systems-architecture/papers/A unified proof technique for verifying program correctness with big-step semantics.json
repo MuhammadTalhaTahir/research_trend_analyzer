@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122003058",
+    "title": "A unified proof technique for verifying program correctness with big-step semantics",
+    "abstract": "The deductive verification of computer programs helps ascertain the absence of errors for all possible inputs and executions. Computer programs can be written in a plethora of languages. The identification of mechanisms for reasoning about the common features of different languages gives rise to language-independent  program verification  techniques. Existing language-independent verification techniques either work with small-step  operational semantics  or require the definition of a special-purpose logic. In addition, these techniques have only been demonstrated in verification tasks where the code of the target program is completely known. We present a language-independent verification technique that works with big-step operational semantics and a general-purpose logic. We illustrate the technique by verifying programs in languages of different paradigms. We use the technique to develop a method for verifying  blockchain   smart contracts  that could call into unknown code and be reentered from the callee. All the theoretical results and verification examples are formalized in the Coq proof assistant.",
+    "citation_count": "0",
+    "year": "2023/03/01",
+    "authors": [
+        {
+            "name": "Ximeng Li",
+            "country": ""
+        },
+        {
+            "name": "Qianying Zhang",
+            "country": ""
+        },
+        {
+            "name": "Guohui Wang",
+            "country": ""
+        },
+        {
+            "name": "Zhiping Shi",
+            "country": ""
+        },
+        {
+            "name": "Yong Guan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

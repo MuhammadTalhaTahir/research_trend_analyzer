@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003627",
+    "title": "Nighttime scene understanding with label transfer scene parser",
+    "abstract": "Semantic segmentation plays a crucial role in traffic scene understanding, especially in nighttime conditions. This paper tackles the task of semantic segmentation in nighttime scenes. The largest challenge of this task is the lack of annotated nighttime images to train a deep learning-based scene parser. The existing annotated datasets are abundant in daytime conditions but scarce in nighttime due to the high cost. Thus, we propose a novel Label Transfer Scene Parser (LTSP) framework for nighttime scene semantic segmentation by leveraging daytime annotation transfer. Our framework performs segmentation in the dark without training on real nighttime annotated data. In particular, we propose translating daytime images to nighttime conditions to obtain more data with annotation in an efficient way. In addition, we utilize the pseudo-labels inferred from unlabeled nighttime scenes to further train the scene parser. The novelty of our work is the ability to perform nighttime segmentation via daytime annotated labels and nighttime synthetic versions of the same set of images. The extensive experiments demonstrate the improvement and efficiency of our scene parser over the state-of-the-art methods with a similar semi-supervised approach on the benchmark of Nighttime Driving Test dataset. Notably, our proposed method utilizes only one-tenth of the amount of labeled and unlabeled data in comparison with the previous methods. Code is available at  https://github.com/danhntd/Label_Transfer_Scene_Parser.git .",
+    "citation_count": "0",
+    "year": "2024/11/01",
+    "authors": [
+        {
+            "name": "Thanh-Danh Nguyen",
+            "country": ""
+        },
+        {
+            "name": "Nguyen Phan",
+            "country": ""
+        },
+        {
+            "name": "Tam V. Nguyen",
+            "country": ""
+        },
+        {
+            "name": "Vinh-Tiep Nguyen",
+            "country": ""
+        },
+        {
+            "name": "Minh-Triet Tran",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

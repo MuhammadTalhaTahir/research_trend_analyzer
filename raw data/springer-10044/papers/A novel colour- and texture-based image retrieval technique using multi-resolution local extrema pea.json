@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-015-0522-y",
+    "title": "A novel colour- and texture-based image retrieval technique using multi-resolution local extrema peak valley pattern and RGB colour histogram",
+    "abstract": "Image retrieval means extraction of desired image from a large image database. Nowadays, image searching and retrieval have become a very challenging and essential task in real-life world due to huge increment of digital images. Therefore, content-based image retrieval becomes a very popular and well-known research topic. In this paper, a novel image retrieval technique has been proposed using fusion of colour and texture features. To extract texture feature, two-level discrete wavelet transform is applied on input image. It helps to enhance the common features of the given image. Then, local extrema peak valley pattern (LEPVP), an extension of local extrema pattern, is applied on obtained wavelet coefficients to collect local directional information. For colour feature, RGB colour histogram of the original image is constructed. The colour histogram is concatenated with the histogram achieved from LEPVP operator to get the final feature descriptor. The effectiveness of the suggested technique is evaluated using five different benchmark databases. Among these, three are coloured natural image databases (Corel-1k, Corel-5k, Corel-10k) and two are coloured texture image databases (STex, MIT VisTex). From the performance analysis, it is clear that the presented algorithm outperforms the previous existing methods in terms of precision and recall.",
+    "citation_count": 47,
+    "year": "2016/11",
+    "authors": [
+        {
+            "name": "Dey, Madhumanti",
+            "country": "India"
+        },
+        {
+            "name": "Raman, Balasubramanian",
+            "country": "India"
+        },
+        {
+            "name": "Verma, Manisha",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

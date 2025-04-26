@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218307326",
+    "title": "A multi-start variable neighbourhood descent algorithm for hybrid flowshop rescheduling",
+    "abstract": "Hybrid flowshop (HFS) rescheduling has important applications in modern industry. Much of the existing research on HFS rescheduling only consider one type of dynamic event. However, realistic production systems often encounter several types of dynamic events. In this paper, HFS rescheduling considering simultaneously three types of dynamic events (i.e. machine breakdown, new job arrival and job release variation) is studied. The  mathematical model  of minimizing makespan and system instability is established. The approaches for calculating  lower and upper bounds  of the two optimization objectives are developed. A Multi-Start Variable Neighbourhood Descent (MSVND) algorithm is proposed for the HFS rescheduling. In the MSVND, a hybrid decoding is developed. To improve the intensification of the MSVND, a Fruit Fly Optimization (FFO)-based  local search  and an enhanced FFO-based local search are designed to improve the best solution found so far. Moreover, to enhance the diversification, a simulated annealing-like  acceptance criterion  is employed to determine whether the  local optima  can be accepted, and a restart strategy with perturbation is devised to guide the search to the so far unexplored area. Extensive experimental comparisons on 150 instances verify the effectiveness of the devised strategies. Further, a comprehensive comparison against seven highly efficient algorithms demonstrates the superiority of the MSVND.",
+    "citation_count": "85",
+    "year": "2019/03/01",
+    "authors": [
+        {
+            "name": "Kunkun Peng",
+            "country": ""
+        },
+        {
+            "name": "Quan-Ke Pan",
+            "country": ""
+        },
+        {
+            "name": "Liang Gao",
+            "country": ""
+        },
+        {
+            "name": "Xinyu Li",
+            "country": ""
+        },
+        {
+            "name": "Swagatam Das",
+            "country": ""
+        },
+        {
+            "name": "Biao Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

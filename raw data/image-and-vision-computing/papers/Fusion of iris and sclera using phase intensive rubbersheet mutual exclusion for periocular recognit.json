@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885620301566",
+    "title": "Fusion of iris and sclera using phase intensive rubbersheet mutual exclusion for periocular recognition",
+    "abstract": "In  biometrics , periocular recognition analysis is an essential constituent for identifying the human being. Among prevailing the modalities, ocular  biometric traits  such as iris, sclera and periocular eye movement have experienced noteworthy consciousness in the recent past. In this paper, we are presenting new multi-biometric fusion method called  Phase Intensive  Mutual Exclusive Distribution (PI-MED) method by combining periocular features (i.e. iris and sclera) for  identity verification . The main objective of the proposed PI-MED method is to reduce the matching fusion time and overhead during human recognition in biometrics. Initially, iris modality and sclera modality is pre-processed using Phase Intensive Rubber Sheeting Local  Pattern Extraction  to generate the vector of score. After that, the extracted iris and sclera features are given to the Mutual Exclusive  Bayesian fusion  model. The fusion model is applied at the score level for reducing fusion overhead. In this model,  feature fusion  is generated based on the  log likelihood ratio  by using covariance  matrix measurement . Finally with fusion features, Distributed  Hamming Distance   Template Matching  (DHDTM) algorithm is designed to evaluate the recognition rate of test data with available  training data . The results show that the DHDTM significantly improves the recognition rate of human biometric samples when compared to the conventional person identification methods. Several tests were conducted to evaluate the performance of the proposed methods of standard biometric databases using three metrics, namely, matching fusion time, overhead and true positive rate. From the experimental results, the proposed PI-MED method reduces the matching fusion time and overhead by 47% and 45% when compared to existing methods. Similarly, the proposed PI-MED method increases the true positive rate by 33% when compared to existing methods.",
+    "citation_count": "18",
+    "year": "2020/11/01",
+    "authors": [
+        {
+            "name": "Deepak Kumar Jain",
+            "country": ""
+        },
+        {
+            "name": "Xiangyuan Lan",
+            "country": ""
+        },
+        {
+            "name": "Ramachandran Manikandan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

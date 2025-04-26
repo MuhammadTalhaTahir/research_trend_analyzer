@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001035",
+    "title": "Architecture of virtual edge data center with intelligent metadata service of a geo-distributed file system",
+    "abstract": "Metadata service of geo-distributed file systems plays an important role in many web-based applications, such as supply-chain management, process mining from log files, intelligent aggregation and collaboration among business processes deployed over Industrial Internet, etc. The edge  computing paradigm  provides an ideal infrastructure for some value-added services by using geo-distributed file systems. However, web-based applications among the geo-distributed file systems often need an intelligent metadata service mechanism for low-latency data visiting and processing. Unfortunately, it is often a challenge in practice, as the  edge computing  paradigm often lacks an edge  data center  that is indispensable for metadata storage and metadata operation. In view of this challenge, an architecture of a virtual edge data center with intelligent metadata service is investigated, in this paper, for taking full advantage of the geo-distributed file systems. Concretely, a prototype of the virtual edge data center is proposed by dynamically gathering the idle storage capability of edge servers into a virtual resource pool. Then, its intelligent metadata service mechanism is investigated The experimental results demonstrate the feasibility of the architecture and show the superior performances with comparison analysis.",
+    "citation_count": "13",
+    "year": "2022/07/01",
+    "authors": [
+        {
+            "name": "Wanchun Dou",
+            "country": ""
+        },
+        {
+            "name": "Bowen Liu",
+            "country": ""
+        },
+        {
+            "name": "Chuangwei Lin",
+            "country": ""
+        },
+        {
+            "name": "Xiaokang Wang",
+            "country": ""
+        },
+        {
+            "name": "Xutong Jiang",
+            "country": ""
+        },
+        {
+            "name": "Lianyong Qi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

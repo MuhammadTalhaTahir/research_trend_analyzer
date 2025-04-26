@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-020-00619-8",
+    "title": "Eco-friendly container transshipment route scheduling problem with repacking operations",
+    "abstract": "Currently, a huge amount of cargo is transported via containers by liner shipping companies. Under stochastic demand, repacking operations and carbon reduction, which may lead to an increase in effectiveness and environmental improvement, have been rarely considered in previous literature. In this paper, we investigate a container transshipment route scheduling problem with repacking operations under stochastic demand and environmental protection. The problem is a combinatorial optimization problem. Lacking historical data, a chance-constrained programming model is proposed to minimize the total operating and environment-related costs. We choose two distribution-free approaches, i.e., approximation based in Markov’s Inequality and Mixed Integer Second-Order Conic Program to approximate the chance constraints. As the loses induced by unfulfilled demand are not taken into account in the above model, a scenario-based model is developed considering the loses. Risk-neutral model may provide solutions that perform poorly while considering uncertainty. To incorporate decision makers’ perspectives, therefore, we also propose a risk-averse model adopting a risk aversion measure called Conditional Value-at-Risk to meet different preferences. Finally, we conduct computational experiments based on real data to compare the performances of the modeling methods and illustrate the impacts by testing different risk levels and confidence levels.",
+    "citation_count": 50,
+    "year": "2022/07",
+    "authors": [
+        {
+            "name": "Liu, Ming",
+            "country": "China"
+        },
+        {
+            "name": "Liu, Rongfan",
+            "country": "China"
+        },
+        {
+            "name": "Zhang, E",
+            "country": "China"
+        },
+        {
+            "name": "Chu, Chengbin",
+            "country": "France"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

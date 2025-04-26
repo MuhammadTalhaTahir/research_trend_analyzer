@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959525000244",
+    "title": "A review on multi-fidelity hyperparameter optimization in machine learning",
+    "abstract": "Tuning hyperparameters effectively is crucial for improving the performance of machine learning models. However, hyperparameter optimization (HPO) often demands significant computational budget, which is typically limited. Therefore, efficiently using this constrained budget is critical in HPO.  Multi-fidelity HPO  has emerged as a potential solution to this issue. This paper presents a comprehensive review of multi-fidelity HPO in machine learning, discusses recent algorithms for HPO, and proposes directions for future research.",
+    "citation_count": "0",
+    "year": "2025/04/01",
+    "authors": [
+        {
+            "name": "Jonghyeon Won",
+            "country": ""
+        },
+        {
+            "name": "Hyun-Suk Lee",
+            "country": ""
+        },
+        {
+            "name": "Jang-Won Lee",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000667",
+    "title": "Worst-case traversal time analysis of TSN with multi-level preemption",
+    "abstract": "To achieve low latency transmission of time-sensitive flows in  Ethernet networks , the IEEE introduced the IEEE 802.1Qbu Standard, which specifies a 1-level preemption scheme for IEEE 802.1 networks. The specification allows the suspension of a  preemptable frame  prior to its completion for the speedy transmission of an  express frame ; but any other preemptable frame cannot be transmitted before the completion of the already preempted frame. While this approach improves the performance of express frames, the performance is negatively impacted in scenarios where the number of express frames is high. Another limitation is the fact that preemptable frames with timing requirements can suffer long blocking periods due to the non-preemptive service of frames in the same category. This is irrespective of the individual priority level of each frame. Recently, a multi-level preemption scheme has been proposed to circumvent these limitations. The work focused on the feasibility and implementation requirement of such an approach, but a formal analysis of the worst-case performance guarantees under the proposed scheme was not provided. In this paper, we fill this gap by presenting the aforementioned analysis of the  TSN  IEEE 802.1Qbu networks under the multi-level preemption assumption. Evaluation is performed with a realistic automotive use-case and the results showcase an improvement up to 53.07% for preemptable frames with firm timing requirements.",
+    "citation_count": "21",
+    "year": "2021/06/01",
+    "authors": [
+        {
+            "name": "Mubarak Adetunji Ojewale",
+            "country": ""
+        },
+        {
+            "name": "Patrick Meumeu Yomsi",
+            "country": ""
+        },
+        {
+            "name": "Borislav Nikolić",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

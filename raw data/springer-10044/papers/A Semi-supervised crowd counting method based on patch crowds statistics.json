@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-024-01359-9",
+    "title": "A Semi-supervised crowd counting method based on patch crowds statistics",
+    "abstract": "Crowd counting has been widely applied in various fields including social security, urban planning, and intelligent monitoring. A series of excellent fully-supervised crowd counting methods have emerged and achieve great performance. Nevertheless, all of the fully-supervised methods heavily depend on large quantities of annotated crowd density maps. Collecting and annotating crowd images is time-consuming and expensive, especially for highly dense crowds. In contrast, unlabeled crowd images can be acquired without having to make a great effort. However, it is challenging to effectively exploit unlabeled data for crowd counting. To this end, we propose a semi-supervised crowd counting method that aims to optimize the crowd counting models via exploiting large amounts of unlabeled crowd images. Firstly, we design an effective proxy task based on image patch counts statistics. Then, we present an end-to-end iterative learning strategy to train our semi-supervised framework. To prove the effectiveness of our semi-supervised method, we conducted various experiments on three benchmark crowd counting datasets. Experimental results demonstrate that our semi-supervised algorithm achieves competitive performance compared with state-of-the-art semi-supervised crowd counting approaches. Furthermore, experimental results show that our method performs well on cross-dataset.",
+    "citation_count": 48,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "Peng, Sifan",
+            "country": "China"
+        },
+        {
+            "name": "Yin, Baoqun",
+            "country": "China"
+        },
+        {
+            "name": "Xia, Yinfeng",
+            "country": "China"
+        },
+        {
+            "name": "Yang, Qianqian",
+            "country": "China"
+        },
+        {
+            "name": "Wang, Luyang",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

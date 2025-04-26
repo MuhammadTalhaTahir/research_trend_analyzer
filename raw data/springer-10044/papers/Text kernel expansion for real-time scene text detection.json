@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-024-01352-2",
+    "title": "Text kernel expansion for real-time scene text detection",
+    "abstract": "Understanding textual information from natural images is fundamental for artificial intelligence systems to comprehend and interact with the environment. The precise detection of text is crucial for achieving these objectives. In this work, we propose a real-time arbitrary-shaped scene text detector named Text Kernel Expansion (TKE). TKE employs a segmentation module to segment text kernels, and then models them as control points. By employing a regression-based network, TKE refines those control points through an expansion procedure, avoiding the need for complex pixel-level post-processing and ensuring both efficiency and excellent performance. Additionally, we propose an Optimal Bipartite Graph Matching Loss that measures the matching error between the refined control points and the labeled vertices, which efficiently minimizes the global matching distance. Comprehensive testing on four standard benchmarks confirms that our method strikes an effective balance between accuracy and efficiency. The code of our proposed method can be found in: https://github.com/TankosTao/TKE.git . All related datasets are openly valuable and can be downloaded through our Github link.",
+    "citation_count": 48,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "He, Tao",
+            "country": "China"
+        },
+        {
+            "name": "Huang, Sheng",
+            "country": "China"
+        },
+        {
+            "name": "Tang, Wenhao",
+            "country": "China"
+        },
+        {
+            "name": "Liu, Bo",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

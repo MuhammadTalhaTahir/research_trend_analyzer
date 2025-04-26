@@ -1,0 +1,42 @@
+[
+  {
+    "title": "A framework of joint object tracking and event detection",
+    "url": "https://link.springer.com/article/10.1007/s10044-004-0231-4"
+  },
+  {
+    "title": "Tracking-based event detection for CCTV systems",
+    "url": "https://link.springer.com/article/10.1007/s10044-004-0236-z"
+  },
+  {
+    "title": "Computer vision techniques for traffic flow computation",
+    "url": "https://link.springer.com/article/10.1007/s10044-004-0238-x"
+  },
+  {
+    "title": "An appearance-based approach for consistent labeling of humans and objects in video",
+    "url": "https://link.springer.com/article/10.1007/s10044-004-0237-y"
+  },
+  {
+    "title": "Summarising contextual activity and detecting unusual inactivity in a supportive home environment",
+    "url": "https://link.springer.com/article/10.1007/s10044-004-0233-2"
+  },
+  {
+    "title": "Unsupervised event discrimination based on nonlinear temporal modeling of activity content",
+    "url": "https://link.springer.com/article/10.1007/s10044-005-0242-9"
+  },
+  {
+    "title": "Highlights modeling and detection in sports videos",
+    "url": "https://link.springer.com/article/10.1007/s10044-004-0234-1"
+  },
+  {
+    "title": "Knowledge-based detection of events in video streams from salient regions of activity",
+    "url": "https://link.springer.com/article/10.1007/s10044-004-0235-0"
+  },
+  {
+    "title": "Hierarchical database for a multi-camera surveillance system",
+    "url": "https://link.springer.com/article/10.1007/s10044-005-0243-8"
+  },
+  {
+    "title": "Combining experts for anchorperson shot detection in news videos",
+    "url": "https://link.springer.com/article/10.1007/s10044-004-0227-0"
+  }
+]

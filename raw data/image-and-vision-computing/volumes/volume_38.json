@@ -1,0 +1,26 @@
+[
+    {
+        "title": "How to use Bag-of-Words model better for image classification",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885614001693"
+    },
+    {
+        "title": "Incremental probabilistic Latent Semantic Analysis for video retrieval",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885615000335"
+    },
+    {
+        "title": "A stereo matching approach based on particle filters and scattered control landmarks",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885615000347"
+    },
+    {
+        "title": "Visual tracking based on online sparse feature learning",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885615000384"
+    },
+    {
+        "title": "Document image binarization using local features and Gaussian mixture modeling",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885615000360"
+    },
+    {
+        "title": "A Self-adaptive CodeBook (SACB) model for real-time background subtraction",
+        "url": "https://www.sciencedirect.com/science/article/pii/S026288561500030X"
+    }
+]

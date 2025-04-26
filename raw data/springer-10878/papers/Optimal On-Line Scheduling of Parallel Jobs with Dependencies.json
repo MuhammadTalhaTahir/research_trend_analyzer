@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1009794729459",
+    "title": "Optimal On-Line Scheduling of Parallel Jobs with Dependencies",
+    "abstract": "We study the following general on-line scheduling problem. Paralleljobs arrive on a parallel machine dynamically according to thedependencies between them. Each job requests a certain number ofprocessors in a specific communication configuration, but its runningtime is not known until it is completed. We present optimal on-linealgorithms for PRAMs and one-dimensional meshes, and efficientalgorithms for hypercubes and general meshes. For PRAMs we obtainoptimal tradeoffs between the competitive ratio and the largestnumber of processors requested by any job. Our results demonstrate that on-line scheduling with dependenciesdiffers from scheduling without dependencies in several crucialaspects. First, it is essential to use virtualization, i.e., toschedule parallel jobs on fewer processors than requested. Second,the maximal number of processors requested by a job has significantinfluence on the performance. Third, the geometric structure of thenetwork topology is an even more important factor than in the absenceof dependencies.",
+    "citation_count": 23,
+    "year": "1998/12",
+    "authors": [
+        {
+            "name": "Feldmann, Anja",
+            "country": "Pittsburgh"
+        },
+        {
+            "name": "Kao, Ming-Yang",
+            "country": "Durham"
+        },
+        {
+            "name": "Sgall, Jiří",
+            "country": "Czech Republic"
+        },
+        {
+            "name": "Teng, Shang-Hua",
+            "country": "Minneapolis"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

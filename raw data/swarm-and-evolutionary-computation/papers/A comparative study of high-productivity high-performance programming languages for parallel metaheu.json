@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650220303734",
+    "title": "A comparative study of high-productivity high-performance programming languages for parallel metaheuristics",
+    "abstract": "Parallel  metaheuristics  require programming languages that provide both, high performance and a high level of  programmability . This paper aims at providing a useful data point to help practitioners gauge the difficult question of whether to invest time and effort into learning and using a new programming language. To accomplish this objective, three productivity-aware languages (Chapel, Julia, and Python) are compared in terms of performance, scalability and productivity. To the best of our knowledge, this is the first time such a comparison is performed in the context of parallel metaheuristics. As a test-case, we implement two parallel metaheuristics in three languages for solving the 3D  Quadratic Assignment Problem  (Q3AP), using thread-based  parallelism  on a multi-core shared-memory computer. We also evaluate and compare the performance of the three languages for a parallel fitness evaluation loop, using four different test-functions with different computational characteristics. Besides providing a comparative study, we give feedback on the implementation and  parallelization  process in each language.",
+    "citation_count": "28",
+    "year": "2020/09/01",
+    "authors": [
+        {
+            "name": "Jan Gmys",
+            "country": ""
+        },
+        {
+            "name": "Tiago Carneiro",
+            "country": ""
+        },
+        {
+            "name": "Nouredine Melab",
+            "country": ""
+        },
+        {
+            "name": "El-Ghazali Talbi",
+            "country": ""
+        },
+        {
+            "name": "Daniel Tuyttens",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624004037",
+    "title": "A decision support system for acute lymphoblastic leukemia detection based on explainable artificial intelligence",
+    "abstract": "The detection of acute lymphoblastic leukemia (ALL) via deep learning (DL) has received great interest because of its high accuracy in detecting lymphoblasts without the need for handcrafted feature extraction. However, current DL models, such as convolutional neural networks and vision Transformers, are extremely complex, making them black boxes that perform classification in an obscure way. To compensate for this and increase the explainability of the decisions made by such methods, in this paper, we propose an innovative decision support system for ALL detection that is based on DL and explainable artificial intelligence (XAI). Our approach first introduces causality into the decision with a metric learning approach, enabling a decision to be made by analyzing the most similar images in the database. Second, our method integrates XAI techniques to allow even non-trained personnel to obtain an informed decision by analyzing which regions of the images are most similar and how the samples are organized in the latent space. The results on publicly available ALL databases confirm the validity of our approach in opening the black box while achieving similar or superior accuracy to that of existing approaches.",
+    "citation_count": "0",
+    "year": "2024/11/01",
+    "authors": [
+        {
+            "name": "Angelo Genovese",
+            "country": ""
+        },
+        {
+            "name": "Vincenzo Piuri",
+            "country": ""
+        },
+        {
+            "name": "Fabio Scotti",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

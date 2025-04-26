@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224001664",
+    "title": "A problem knowledge driven bi-population cooperative framework for time-varying ratio error estimation of voltage transformers",
+    "abstract": "The time-varying ratio  error estimation  (TREE) is crucial for accurately assessing the real-time status of  voltage transformers . However, the majority of multi-objective algorithms (MOEAs) are unable to achieve  good performance  on the TREE problems due to their huge  search space  with complicated decision variable interactions. In this paper, we propose a problem knowledge driven bi-population cooperative framework, where the knowledge (i.e., the optimal values of most decision variables in each TREE problem are similar) is exploited to enhance the convergence of algorithm for the huge  search space . The proposed framework holds a weak cooperation between two populations to achieve the assistance in tackling the original TREE problems. To this aim, when the proposed framework evolves one population by a general MOEA, it evolves the other population by a sparse MOEA to assist generation of solutions that have many similar decision variables, thus promoting the convergence towards the  Pareto optimal fronts  of TREE problems. In the experiments, we investigate the performance of the proposed framework on five TREE problems with their number of decision variables ranging from 3000 to 15000. Experimental results show that the proposed framework outperforms seven competitors, both in terms of  final results  and convergence performance.",
+    "citation_count": "1",
+    "year": "2024/08/01",
+    "authors": [
+        {
+            "name": "Panpan Zhang",
+            "country": ""
+        },
+        {
+            "name": "Ye Tian",
+            "country": ""
+        },
+        {
+            "name": "Yajie Zhang",
+            "country": ""
+        },
+        {
+            "name": "Xingyi Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

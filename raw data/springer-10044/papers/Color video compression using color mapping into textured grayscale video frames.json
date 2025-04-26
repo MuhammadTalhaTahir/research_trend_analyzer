@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-013-0360-8",
+    "title": "Color video compression using color mapping into textured grayscale video frames",
+    "abstract": "Color video compression has become a necessity in the advent of newer applications of color video and its increasing size for higher definitions. New approaches are used to achieve more compression over the traditional and standard compression techniques. Considerable progress has been made of color transfer-based compression techniques that do not modify standard encoders but add some pre-processing and post-processing steps. We present a novel, simple yet robust, color transfer-based compression technique that can be integrated with the standard encoders like MPEG-2, H.264/AVC, etc. We achieve the compression by discarding the color components from all frames in a video sequence except those of the Intra (I) frames. The colored intra frames are converted to gray-textured images. The method is developed based on embedding the colors of the intra frames to low visibility high frequency textures of its gray luminance image. This is achieved by decomposing the luminance of the intra frame using the non-decimated DWT or discrete wavelet frame transform and replacing the bandpass subbands by the chrominance signals. The lowpass band is same as that of the luminance signal. At the output of the decoder, the colored intra frames are recovered using the wavelet transform. Instead of calculating motion vectors, we identify and reuse the motion vectors present in the decoder. The remaining luminance frames of the video are colored with the help of identified motion vectors and the color information of the preceding frames. The proposed codec considerably improves the compression ratio achievable by the standard codec, at the cost of slight increase in computation time at the decoder end.",
+    "citation_count": 22,
+    "year": "2014/11",
+    "authors": [
+        {
+            "name": "Kumar, Sambuddha",
+            "country": "India"
+        },
+        {
+            "name": "Gupta, Sumana",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003214",
+    "title": "Source domain prior-assisted segment anything model for single domain generalization in medical image segmentation",
+    "abstract": "Deep learning-based medical image segmentation models often suffer from performance degradation across domains due to domain discrepancies arising from data collected by various healthcare centers. Recent advancements, particularly the Segment Anything Model (SAM), have shown promising generalization abilities in this field, inspiring the development of several SAM-based approaches to address domain discrepancy issue. Nevertheless, these methods seldom exploit the full potential of the rich source domain knowledge to improve segmentation accuracy in unseen target domains. In this paper, we propose a source domain prior-assisted module for generalizable medical image segmentation based on SAM. Specifically, we store diverse features of the source domain data in a memory bank. When applying the model to the target domain, the features of the target domain first match with the features in the memory bank to obtain invaluable prior information. This strategy enables the model to utilize the prior information from the source domain to adapt to the target domain. We validate the proposed method on two widely used medical image segmentation tasks across multiple domains and achieve state-of-the-art performance.",
+    "citation_count": "1",
+    "year": "2024/10/01",
+    "authors": [
+        {
+            "name": "Wenhui Dong",
+            "country": ""
+        },
+        {
+            "name": "Bo Du",
+            "country": ""
+        },
+        {
+            "name": "Yongchao Xu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

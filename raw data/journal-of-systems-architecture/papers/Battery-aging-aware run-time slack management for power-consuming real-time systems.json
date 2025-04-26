@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762123001807",
+    "title": "Battery-aging-aware run-time slack management for power-consuming real-time systems",
+    "abstract": "As many safety- or mission-critical electric systems become equipped with batteries, we need to achieve seemingly conflicting goals: G1) timely execution of power-consuming tasks (for safety or mission) while G2) minimizing battery aging (for system sustainability). To this end, this paper proposes a novel scheduling framework for a set of power-consuming real-time tasks, which efficiently utilizes run-time slack (i.e., system idle time identified at run-time) to find the tasks’ schedule that achieves both G1 and G2. The proposed framework is not only applicable to any existing prioritization policy (e.g., EDF and FP) but has also been proven to reduce battery aging by up to 32.6% without compromising G1.",
+    "citation_count": "0",
+    "year": "2023/11/01",
+    "authors": [
+        {
+            "name": "Jaeheon Kwak",
+            "country": ""
+        },
+        {
+            "name": "Kyunghoon Kim",
+            "country": ""
+        },
+        {
+            "name": "Youngmoon Lee",
+            "country": ""
+        },
+        {
+            "name": "Insik Shin",
+            "country": ""
+        },
+        {
+            "name": "Jinkyu Lee",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

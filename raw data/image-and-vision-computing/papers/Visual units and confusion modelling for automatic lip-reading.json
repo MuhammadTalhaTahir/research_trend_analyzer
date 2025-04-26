@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885616300294",
+    "title": "Visual units and confusion modelling for automatic lip-reading",
+    "abstract": "Automatic lip-reading (ALR) is a challenging task because the visual speech signal is known to be missing some important information, such as voicing. We propose an approach to ALR that acknowledges that this information is missing but assumes that it is substituted or deleted in a systematic way that can be modelled. We describe a system that learns such a model and then incorporates it into decoding, which is realised as a cascade of weighted finite-state transducers. Our results show a small but statistically significant improvement in recognition accuracy. We also investigate the issue of suitable visual units for ALR, and show that visemes are sub-optimal, not but because they introduce lexical ambiguity, but because the reduction in modelling units entailed by their use reduces accuracy.",
+    "citation_count": "26",
+    "year": "2016/07/01",
+    "authors": [
+        {
+            "name": "Dominic Howell",
+            "country": ""
+        },
+        {
+            "name": "Stephen Cox",
+            "country": ""
+        },
+        {
+            "name": "Barry Theobald",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

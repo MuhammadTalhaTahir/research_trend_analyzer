@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885612001485",
+    "title": "Lucas–Kanade based entropy congealing for joint face alignment",
+    "abstract": "Entropy Congealing is an unsupervised  joint   image alignment  method, in which the transformation parameters are obtained by minimizing a sum-of-entropy function. Our previous work presented a forward formulation of entropy Congealing to estimate all the transformation parameters at the same time. In this paper, we propose an inverse compositional Lucas–Kanade formulation of entropy Congealing. This yields constant parts in  Jacobian  and  Hessian  which can be precomputed to decrease the computational complexity. Moreover, we combine Congealing with POEM descriptor to catch more information about face. Experimental results indicate that the proposed algorithm performs better than other alignment methods, regarding several evaluation criteria on different databases. Concerning the complexity, the proposed algorithm is more efficient than other considered approaches. Also, compared to the forward formulation, the  inverse method  produces a speed improvement of 20%.",
+    "citation_count": "5",
+    "year": "2012/12/01",
+    "authors": [
+        {
+            "name": "Weiyuan Ni",
+            "country": ""
+        },
+        {
+            "name": "Ngoc-Son Vu",
+            "country": ""
+        },
+        {
+            "name": "Alice Caplier",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-023-02210-x",
+    "title": "Data Privacy Protection Model Based on Graph Convolutional Neural Network",
+    "abstract": "In order to solve the problem of leakage of user data privacy in social network scenarios, the author proposes a data privacy protection model based on graph convolutional neural network. This method analyzes in detail the privacy threat to user data caused by the graph convolutional neural network prediction model in the social network scenario, according to the homogeneity principle of social networks, using the attribute features and social relationships disclosed by social users, a graph convolutional neural network classification model is constructed through a semi-supervised learning method, the hidden private attribute categories of target users are inferred, and the accuracy and robustness of the method are finally evaluated on real social network datasets. Experimental results show that: The prediction accuracy rate continues to increase steadily, all in the range of 60%, which is very close to the real prediction accuracy rate, and the data utility is high. Conclusion: The data privacy protection model based on the graph convolutional neural network can better realize the privacy protection, and at the same time ensure the data has high data utility.",
+    "citation_count": 20,
+    "year": "2024/10",
+    "authors": [
+        {
+            "name": "Gu, Tao",
+            "country": "China"
+        },
+        {
+            "name": "Yang, Lin",
+            "country": "China"
+        },
+        {
+            "name": "Wang, Hua",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

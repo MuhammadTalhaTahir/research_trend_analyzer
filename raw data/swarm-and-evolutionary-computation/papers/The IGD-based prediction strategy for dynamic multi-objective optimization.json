@@ -1,0 +1,46 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224002517",
+    "title": "The IGD-based prediction strategy for dynamic multi-objective optimization",
+    "abstract": "In recent years, an increasing number of prediction-based strategies have shown promising results in handling dynamic multi-objective optimization problems (DMOPs), and prediction models are also considered to be very favorable. Nevertheless, some linear prediction models may not always be effective. In particular, when the motion direction trends of different individuals are not aligned, these models can yield inaccurate prediction results. Inverted generational distance (IGD) is a commonly used metric for evaluating the performance of algorithms. This paper proposes a prediction model based on the IGD metric. Specifically, we assume that the pareto optimal front (POF) of the population at the previous time step is the true POF, and the POF at the current time step is the approximate POF. We cluster the current population with reference to the euclidean distances from uniform points on the true POF to the current POF points, with slight overlap between adjacent clusters, enables a better tradeoff between convergence and diversity in the prediction process. We consider the movement directions of individuals within each cluster separately through different cluster distributions, while balancing the individual movement directions and the overall population movement direction by overlaying cluster coverage areas, thereby helping to avoid the clustered prediction population from getting trapped in local optima. Experimental results and comparisons with other algorithms demonstrate that this strategy exhibits strong competitiveness in handling DMOPs.",
+    "citation_count": "2",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Yaru Hu",
+            "country": ""
+        },
+        {
+            "name": "Jiankang Peng",
+            "country": ""
+        },
+        {
+            "name": "Junwei Ou",
+            "country": ""
+        },
+        {
+            "name": "Yana Li",
+            "country": ""
+        },
+        {
+            "name": "Jinhua Zheng",
+            "country": ""
+        },
+        {
+            "name": "Juan Zou",
+            "country": ""
+        },
+        {
+            "name": "Shouyong Jiang",
+            "country": ""
+        },
+        {
+            "name": "Shengxiang Yang",
+            "country": ""
+        },
+        {
+            "name": "Jun Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

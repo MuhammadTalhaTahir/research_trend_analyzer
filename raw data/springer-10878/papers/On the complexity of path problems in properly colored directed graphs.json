@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-011-9401-7",
+    "title": "On the complexity of path problems in properly colored directed graphs",
+    "abstract": "We address the complexity class of several problems related to finding a path in a properly colored directed graph. A properly colored graph is defined as a graph G whose vertex set is partitioned into $\\mathcal{X}(G)$ stable subsets, where $\\mathcal{X}(G)$ denotes the chromatic number of G. We show that to find a simple path that meets all the colors in a properly colored directed graph is NP-complete, and so are the problems of finding a shortest and longest of such paths between two specific nodes.",
+    "citation_count": 7,
+    "year": "2012/11",
+    "authors": [
+        {
+            "name": "Granata, Donatella",
+            "country": "Italy"
+        },
+        {
+            "name": "Behdani, Behnam",
+            "country": "USA"
+        },
+        {
+            "name": "Pardalos, Panos M.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

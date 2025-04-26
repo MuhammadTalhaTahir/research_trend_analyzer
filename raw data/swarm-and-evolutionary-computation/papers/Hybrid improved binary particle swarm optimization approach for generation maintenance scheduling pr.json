@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650212000806",
+    "title": "Hybrid improved binary particle swarm optimization approach for generation maintenance scheduling problem",
+    "abstract": "This paper presents a model for maintenance scheduling (MS) of generators using hybrid improved binary  particle swarm optimization  (IBPSO) based coordinated deterministic and  stochastic approach . The objective function of this paper is to reduce the  loss of load probability  (LOLP) and minimizing the annual supply reserve ratio deviation for a  power system  which are considered as a measure of power system reliability.  Genetic algorithm  (GA) operators are introduced in the IBPSO to acquire diversified solutions in the  search space . Moreover, in this paper, the hybrid IBPSO based  economic dispatch  (ED) has been decomposed as a sub - problem in the maintenance model that results to a more practical maintenance schedule. A case study for the real power system model in Odisha (India) is considered. Comprehensive studies have also been carried out for the different power system consisting of 5-unit system, 21-unit system and IEEE reliability test system (RTS). It shows that the proposed algorithm can accomplish a significant levelization in the reliability indices over the planning horizon for reliable operation of the power system and demonstrates the usefulness of the proposed approach. The proposed method yields better result by means of improved search performance and better convergence characteristics which are compared to the other optimization methods and conventional method.",
+    "citation_count": "77",
+    "year": "2013/04/01",
+    "authors": [
+        {
+            "name": "K. Suresh",
+            "country": ""
+        },
+        {
+            "name": "N. Kumarappan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

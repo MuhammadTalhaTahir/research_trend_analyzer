@@ -1,0 +1,38 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223000287",
+    "title": "Manifold clustering-based prediction for dynamic multiobjective optimization",
+    "abstract": "Prediction-based  evolutionary algorithms  have gained much attention in solving dynamic  multiobjective optimization problems  due to their impressive performance in tracking the changing  Pareto set  (PS). Current approaches focus on developing learning or estimation models to reveal the dynamic regularities from the correlations between the historical PSs. However, the underlying knowledge in the PS itself, such as the neighborhood distribution of the individuals and their local correlation in the decision space, is ignored which may affect prediction accuracy and the quality of the predicted population. Therefore, a manifold clustering-based predictor is proposed in this paper. A manifold learning method is introduced to preprocess the historical PSs to find and reserve the intrinsic neighborhood relationship of the individuals. As a result, a number of local linear manifolds are extracted from each historical PS, and the individuals in a population are divided into several clusters according to the different linear manifolds they attach to. The individuals belonging to one cluster can be regarded as linearly correlated and may have a similar moving trend. Thus, the subsequent prediction is conducted in units of the cluster and multiple prediction models are built to predict the new PS in a decomposition manner. Finally, an initial population with good diversity and distribution can be generated for the new environment. The proposed algorithm is tested on a variety of commonly-used benchmark problems and compared with eight state-of-the-art algorithms. Experimental results confirm the efficacy of the proposed algorithm, especially on the problems with nonlinear correlation between the decision variables.",
+    "citation_count": "13",
+    "year": "2023/03/01",
+    "authors": [
+        {
+            "name": "Li Yan",
+            "country": ""
+        },
+        {
+            "name": "Wenlong Qi",
+            "country": ""
+        },
+        {
+            "name": "A.K. Qin",
+            "country": ""
+        },
+        {
+            "name": "Shengxiang Yang",
+            "country": ""
+        },
+        {
+            "name": "Dunwei Gong",
+            "country": ""
+        },
+        {
+            "name": "Boyang Qu",
+            "country": ""
+        },
+        {
+            "name": "Jing Liang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

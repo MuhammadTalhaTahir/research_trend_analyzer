@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623000999",
+    "title": "A regressive encoder-decoder-based deep attention model for segmentation of fetal head in 2D-ultrasound images",
+    "abstract": "Ultrasound imaging is the most commonly used imaging during pregnancy for tracking the fetus's growth and monitoring other biological parameters. The assessment of the development of the baby's growth requires imaging-based analysis in every trimester. The automatic computerized software and systems provide the platform for  radiologists  to more accurately access the fetus's head circumference as compared to manual estimation. The improvement of such computerized algorithms is always the key demand to improve accuracy and precision. This paper proposes an improved encoder-decoder model for the segmentation of the fetal head segmentation in 2D-ultrasound images. The proposed model uses regression in combination with attention to the encoder-decoder model to determine the fetus's head circumference. The model is further extended with the post-processing  ellipse fitting  to superimpose the segmentation region on  ultrasound images  for clear visualization of the fetus's head. Further, the proposed model performance is evaluated by using various statistical measures using segmented regions and available ground truth. The experimental results demonstrate a similarity score of 94.56%. The comparative result suggests that the proposed model is providing a more accurate fetus head segmentation region on 2D-ultrasound images as compared to other existing approaches.",
+    "citation_count": "4",
+    "year": "2023/08/01",
+    "authors": [
+        {
+            "name": "Somya Srivastava",
+            "country": ""
+        },
+        {
+            "name": "Ankit Vidyarthi",
+            "country": ""
+        },
+        {
+            "name": "Shikha Jain",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

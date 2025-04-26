@@ -1,0 +1,36 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-015-0471-5",
+    "title": "Hierarchical and multi-featured fusion for effective gait recognition under variable scenarios",
+    "abstract": "Human identification by gait analysis has attracted a great deal of interest in the computer vision and forensics communities as an unobtrusive technique that is capable of recognizing humans at range. In recent years, significant progress has been made, and a number of approaches capable of this task have been proposed and developed. Among them, approaches based on single source features are the most popular. However, the recognition rate of these methods is often unsatisfactory due to the lack of information contained in single feature sources. Consequently, in this paper, a hierarchal and multi-featured fusion approach is proposed for effective gait recognition. In practice, using more features for fusion does not necessarily mean a better recognition rate and features should in fact be carefully selected such that they are complementary to each other. Here, complementary features are extracted in three groups: Dynamic Region Area; Extension and Space features; and 2D Stick Figure Model features. To balance the proportion of features used in fusion, a hierarchical feature-level fusion method is proposed. Comprehensive results of applying the proposed techniques to three well-known datasets have demonstrated that our fusion-based approach can improve the overall recognition rate when compared to a benchmark algorithm.",
+    "citation_count": 34,
+    "year": "2016/11",
+    "authors": [
+        {
+            "name": "Chai, Yanmei",
+            "country": "China"
+        },
+        {
+            "name": "Ren, Jie",
+            "country": "China"
+        },
+        {
+            "name": "Zhao, Huimin",
+            "country": "China"
+        },
+        {
+            "name": "Li, Yang",
+            "country": "China"
+        },
+        {
+            "name": "Ren, Jinchang",
+            "country": "UK"
+        },
+        {
+            "name": "Murray, Paul",
+            "country": "UK"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

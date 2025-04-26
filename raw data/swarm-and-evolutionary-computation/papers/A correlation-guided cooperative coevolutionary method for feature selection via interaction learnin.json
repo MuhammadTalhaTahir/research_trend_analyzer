@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650225000045",
+    "title": "A correlation-guided cooperative coevolutionary method for feature selection via interaction learning-based space division",
+    "abstract": "Feature selection (FS) is an important data preprocessing technique that optimizes the learning process and results by selecting a small subset of features. With the increasing of data dimension, challenges such as high computational complexity and the tendency to fall into local optima also appear. Cooperative Coevolution (CC) shows promising prospects in FS because of its “divide and conquer” approach, which decomposes a complex high-dimensional problem into several lower-dimensional subproblems to solve simultaneously. However, most existing CC-based FS methods suffer from issues such as the coarse space division, inadequate subspace exploration, singular collaboration model, and costly fitness evaluations. To alleviate these limitations, we propose a CC method via interaction learning-based space division for high-dimensional FS problems. First of all, this method proposes an interaction learning-based space division method, which divides the whole feature space into several subspaces of different importance. Then, a correlation-guided search strategy is designed to select relevant features, eliminate redundant features, and escape local optima. Finally, a surrogate-assisted particle recombination strategy also explores the combinatorial performance of non-optimal particles across different subswarms to ensure the comprehensiveness of the exploration and the efficiency of evaluations. The results on 16 typical datasets show that the proposed method evolves the feature subset with the lowest number of features and highest classification accuracy compared to seven state-of-the-art algorithms.",
+    "citation_count": "1",
+    "year": "2025/03/01",
+    "authors": [
+        {
+            "name": "Yaqing Hou",
+            "country": ""
+        },
+        {
+            "name": "Huiyue Sun",
+            "country": ""
+        },
+        {
+            "name": "Gonglin Yuan",
+            "country": ""
+        },
+        {
+            "name": "Yijing Li",
+            "country": ""
+        },
+        {
+            "name": "Zifan Che",
+            "country": ""
+        },
+        {
+            "name": "Hongwei Ge",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

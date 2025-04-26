@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762120300333",
+    "title": "Design optimization of confidentiality-critical cyber physical systems with fault detection",
+    "abstract": "Since  fault injection  attack can be utilized to corrupt the data or deduce the secret key of  sensitive information , we approach the fault detection design of confidential real-time applications running on  Cyber Physical Systems  (CPSs) to resist fault injection attacks. We choose cryptographic service to implement confidentiality protection for messages delivered over distributed CPSs, and deploy fault detection within confidential algorithm to resist fault injection attacks. We establish the fault dispersion model and the fault coverage model of ten  fault detection schemes  to quantify the security strength. We formulate the design problem as a system-level multi-objective  optimization problem  and then make efforts to search for the best fault detection schemes for the encryption/decryption of messages with the constraints of deadline and execution dependency.We propose an efficient approach based on traditional multi-objective evolutionary mechanisms, which can obtain better solutions with lower time complexity. Extensive experiments and a real-life application are conducted to evaluate the efficiency of the proposed techniques.",
+    "citation_count": "48",
+    "year": "2020/08/01",
+    "authors": [
+        {
+            "name": "Wei Jiang",
+            "country": ""
+        },
+        {
+            "name": "Liang Wen",
+            "country": ""
+        },
+        {
+            "name": "Jinyu Zhan",
+            "country": ""
+        },
+        {
+            "name": "Ke Jiang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

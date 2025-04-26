@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762197000696",
+    "title": "Semantic multigranularity locking and its performance in object-oriented database systems",
+    "abstract": "Concurrency control schemes for object-oriented database systems (OODBSs) used in the area of performance-critical applications should increase the degree of concurrency and decrease locking overhead in order to offer maximum performance. However, most commercially available OODBSs use conventional concurrency control schemes that never exploit the rich semantics of object-oriented data model, thus fail to offer better performance. In this paper, we propose a concurrency control scheme for OODBSs, called in-place semantic multigranularity locking (ISMGL), that not only exploits semantics regarding methods to enhance the concurrency degree, but also utilizes multigranularity locking rules to decrease locking overhead. The novel aspect of ISMGL is that it combines conventional multigranularity locking and nested transaction model with utilizing commutativity of methods. Our concurrency control scheme is applicable for realistic OODBSs in the presence of complex objects with shared subobjects. Lastly, we evaluate the performance of ISMGL by using a simulation study.",
+    "citation_count": "0",
+    "year": "1998/09/01",
+    "authors": [
+        {
+            "name": "Kyoung-In Kwon",
+            "country": ""
+        },
+        {
+            "name": "Songchun Moon",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

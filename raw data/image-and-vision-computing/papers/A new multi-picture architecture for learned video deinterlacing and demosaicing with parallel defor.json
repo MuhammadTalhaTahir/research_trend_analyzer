@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624001276",
+    "title": "A new multi-picture architecture for learned video deinterlacing and demosaicing with parallel deformable convolution and self-attention blocks",
+    "abstract": "Despite the fact real-world video deinterlacing and demosaicing are well-suited to supervised learning from synthetically degraded data because the degradation models are known and fixed, learned video deinterlacing and demosaicing have received much less attention compared to denoising and super-resolution tasks. We propose a new multi-picture architecture for video deinterlacing or demosaicing by aligning multiple supporting pictures with missing data to a reference picture to be reconstructed, benefiting from both local and global spatio-temporal correlations in the feature space using modified deformable convolution blocks and a novel residual efficient top- k  self-attention (kSA) block, respectively. Separate reconstruction blocks are used to estimate different types of missing data. Our extensive experimental results, on synthetic or real-world datasets, demonstrate that the proposed novel architecture provides superior results that significantly exceed the state-of-the-art for both tasks in terms of  PSNR , SSIM, and perceptual quality. Ablation studies are provided to justify and show the benefit of each novel modification made to the deformable convolution and residual efficient kSA blocks. Code is available:  https://github.com/KUIS-AI-Tekalp-Research-Group/Video-Deinterlacing .",
+    "citation_count": "1",
+    "year": "2024/06/01",
+    "authors": [
+        {
+            "name": "Ronglei Ji",
+            "country": ""
+        },
+        {
+            "name": "A. Murat Tekalp",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

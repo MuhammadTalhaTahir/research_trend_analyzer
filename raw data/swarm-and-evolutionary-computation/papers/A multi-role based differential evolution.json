@@ -1,0 +1,46 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218305510",
+    "title": "A multi-role based differential evolution",
+    "abstract": "Differential evolution (DE) is an efficient and powerful stochastic optimization algorithm. Extensive studies in recent years have verified that different trial vector generation strategies and associated control parameters offer distinct characteristics on different problems. To take full advantages of them, different ensemble methods of trial vector generation strategies and control parameters based on various adaptive strategies have been proposed during the last decade. Aiming to organically integrate merits of some popular generation strategies and control parameters, and then utilize distinct advantages of them, a multi-role based DE (MRDE) is proposed in this paper. In MRDE, the entire population is divided into multiple small-sized groups, and individuals in each group are assigned with different roles in each generation according to their fitness. Based on the assigned role, an individual selects its own trial vector generation strategies and control parameters from a pool to breed offspring. Moreover, an adaptive strategy for population size is used to rationally distribute the computational resources, which is beneficial for speeding up the convergence. Furthermore, a regroup strategy enables individuals to play different roles in different generations, which is favorable for diversifying the search behaviors. The performance of MRDE is compared with that of ten state-of-the-art DE variants on CEC2017 test suite with three dimension cases, and the experimental results demonstrate the competitive and reliable performance of MRDE. In addition, the effectiveness of the newly proposed strategies is also verified through comparison experiments.",
+    "citation_count": "0",
+    "year": "2019/11/01",
+    "authors": [
+        {
+            "name": "Ling Gui",
+            "country": ""
+        },
+        {
+            "name": "Xuewen Xia",
+            "country": ""
+        },
+        {
+            "name": "Fei Yu",
+            "country": ""
+        },
+        {
+            "name": "Hongrun Wu",
+            "country": ""
+        },
+        {
+            "name": "Ruifeng Wu",
+            "country": ""
+        },
+        {
+            "name": "Bo Wei",
+            "country": ""
+        },
+        {
+            "name": "Yinglong Zhang",
+            "country": ""
+        },
+        {
+            "name": "Xiong Li",
+            "country": ""
+        },
+        {
+            "name": "Guoliang He",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

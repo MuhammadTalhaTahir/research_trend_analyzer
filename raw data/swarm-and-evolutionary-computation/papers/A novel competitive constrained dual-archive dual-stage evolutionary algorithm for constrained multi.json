@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223001906",
+    "title": "A novel competitive constrained dual-archive dual-stage evolutionary algorithm for constrained multiobjective optimization",
+    "abstract": "In constrained multi-objective  optimization problems  (CMOPs), the key problem is how to balance convergence and diversity simultaneously and find as many  feasible solutions  as possible in the reduced  search space . To address this issue, a novel competitive constrained dual-archive dual-stage  evolutionary algorithm , named c-DADSEA, is proposed with a convergence-driven archive (CA) and a diversity-driven archive (DA). To improve the algorithm’s convergence, instead of simply excluding infeasible solutions, an adaptive penalty function is novelly proposed to maintain competitively infeasible solutions in CA. To overcome the difficulty in finding the true  Pareto front  for the dual-population framework in some problems, a dual-stage framework is introduced to make DA search in different directions at different stages (i.e., Forward and Backward), enhancing the diversity of the algorithm. DA evolves without considering the constraints to explore all regions as much as possible in the Forward stage. While in the Backward stage, DA degenerates with increasing constraints to search the regions around the true Pareto front by using  ϵ -constrained method. Moreover, to balance convergence and diversity, different benchmark rankings are designed for the individuals in different archives. The experiments on three benchmark CMOPs test suites demonstrate that c-DADSEA is better than seven other state-of-the-art constrained evolutionary algorithms, especially for the CMOPs with a constrained Pareto front away from the unconstrained Pareto front.",
+    "citation_count": "6",
+    "year": "2023/12/01",
+    "authors": [
+        {
+            "name": "Tianwei Zhou",
+            "country": ""
+        },
+        {
+            "name": "Pengcheng He",
+            "country": ""
+        },
+        {
+            "name": "Ben Niu",
+            "country": ""
+        },
+        {
+            "name": "Guanghui Yue",
+            "country": ""
+        },
+        {
+            "name": "Hong Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885617300112",
+    "title": "Visual tracking with structured patch-based model",
+    "abstract": "In this paper, we present a novel structured patch-based  visual tracking  method, which models the appearance of individual patches and their structural relationships within a unified framework. Specifically, this framework is defined as an optimal patch selection task, and can be further formulated as a  linear programming problem , tractable and efficient in tracking scenario. To account for the changing appearance of the target object during tracking process, a pyramid local covariance descriptor is proposed to fuse multiple image characteristics. We compare the proposed method with other competing trackers by the recent large-scale benchmark. Extensive experimental results demonstrate that our tracker performs favorably against the state-of-the-art tracking algorithms.",
+    "citation_count": "7",
+    "year": "2017/04/01",
+    "authors": [
+        {
+            "name": "Fu Li",
+            "country": ""
+        },
+        {
+            "name": "Xu Jia",
+            "country": ""
+        },
+        {
+            "name": "Cheng Xiang",
+            "country": ""
+        },
+        {
+            "name": "Huchuan Lu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

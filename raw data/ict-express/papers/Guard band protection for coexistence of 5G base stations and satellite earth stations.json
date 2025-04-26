@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959523000322",
+    "title": "Guard band protection for coexistence of 5G base stations and satellite earth stations",
+    "abstract": "In this paper, the coexistence between fifth generation (5G) network and fixed satellite service (FSS) is investigated. To reduce the interference between 5G base stations (BSs) and FSS earth station (ES), a guard band protection method is proposed. Additionally, the distance and angular protection methods are amalgamated. The performances are evaluated by simulation in realistic 3GPP. Also, the impacts of four antenna types are analysed for a 5G BS. The numerical results show that the guard band protection can solve the interference for the 5G/FSS coexistence, when the distance protection is combined. In addition, when the hybrid protection method is employed, the coexistence between 5G BS and FSS ES is guaranteed.",
+    "citation_count": "0",
+    "year": "2023/12/01",
+    "authors": [
+        {
+            "name": "Shuzhi Liu",
+            "country": ""
+        },
+        {
+            "name": "Yiqiao Wei",
+            "country": ""
+        },
+        {
+            "name": "Seung-Hoon Hwang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

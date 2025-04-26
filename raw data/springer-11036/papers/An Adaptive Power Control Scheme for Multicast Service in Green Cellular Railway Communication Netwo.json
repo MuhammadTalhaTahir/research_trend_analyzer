@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-016-0712-x",
+    "title": "An Adaptive Power Control Scheme for Multicast Service in Green Cellular Railway Communication Network",
+    "abstract": "Along with emerging increasing multimedia service need from the big amount of users in the train, wireless cellular railway network has big energy saving potential with its own specific characteristics, which is widely deployed over the world. Enhanced Multimedia Broadcast Multicast Service (E-MBMS) is a prevalent solution for high speed data handling. In this paper, to achieve an energy efficient solution for wireless cellular railway network, we proposed an optimal power control solution to adjust eNodeB’s transmission power adaptively based on actual Signal to Interference plus Noise Ratio (SINR) for Multimedia Broadcast multicast service Single Frequency Network (MBSFN) at User Equipment (UE) side when provide E-MBMS. We established the system model and proposed the optimization algorithms to calculate the E-MBMS transmit power. We also designed the geometry group scheme to significantly reduce the calculation effort. And proposed the Mobility offset parameter to cope with high speed mobility of the train and variation of signal level. Finally, Simulation results showed that this solution can be a good way for high network energy efficiency and can dynamically adjust the output power for the multicast service in the wireless cellular railway communication network.",
+    "citation_count": 34,
+    "year": "2016/12",
+    "authors": [
+        {
+            "name": "Huang, Jiying",
+            "country": "China"
+        },
+        {
+            "name": "Zhong, Zhangdui",
+            "country": "China"
+        },
+        {
+            "name": "Ding, Jianwen",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650220304909",
+    "title": "Deep Statistical Comparison for Multi-Objective Stochastic Optimization Algorithms",
+    "abstract": "Making a statistical comparison of meta-heuristic multi-objective optimization algorithms is crucial for identifying the strengths and weaknesses of a newly proposed algorithm. Currently, state-of-the-art comparison approaches involve user-preference-based selection of a single quality indicator or an ensemble of quality indicators as a comparison metric. Using these quality indicators, high-dimensional data is transformed into one-dimensional data. By doing this, information contained in the high-dimensional space can be lost, which will affect the results of the comparison. To avoid losing this information, we propose a novel ranking scheme that compares the distributions of high-dimensional data. Experimental results show that the proposed approach reduces potential information loss when statistical significance is not observed in high-dimensional data. Consequently, the selection of a quality indicator is required only in cases when statistical significance is observed in high-dimensional data. With this the cases that are affected by the user preference selection are reduced.",
+    "citation_count": "0",
+    "year": "2021/03/01",
+    "authors": [
+        {
+            "name": "Tome Eftimov",
+            "country": ""
+        },
+        {
+            "name": "Peter Korošec",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

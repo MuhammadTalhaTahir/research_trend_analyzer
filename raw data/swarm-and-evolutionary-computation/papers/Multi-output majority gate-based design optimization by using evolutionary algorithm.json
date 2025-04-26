@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650212000843",
+    "title": "Multi-output majority gate-based design optimization by using evolutionary algorithm",
+    "abstract": "In this paper, a novel efficient method for optimizing multi-output majority gate based designs is proposed. Majority gate is a fundamental Boolean operator in some nano-scale technologies such as quantum-dot  cellular automata  (QCA). As a result, the design optimization must be directly implemented on majority gates instead of optimizing the design for AND–OR gates. In some other nanotechnologies, a fundamental element is Minority gate which could be simply converted to majority gate by the De Morgan's theorem. Here, the proposed optimization method works on the basis of evolutionary computation and can reduce both the number of majority gates and the worst-case delay of the circuit. The method is compared to some other optimization algorithms and its efficiency is verified.",
+    "citation_count": "14",
+    "year": "2013/06/01",
+    "authors": [
+        {
+            "name": "Mohammad A. Tehrani",
+            "country": ""
+        },
+        {
+            "name": "Keivan Navi",
+            "country": ""
+        },
+        {
+            "name": "Ali Kia-kojoori",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-013-9372-0",
+    "title": "Training image-based scenario modeling of fractured reservoirs for flow uncertainty quantification",
+    "abstract": "Geological characterization of naturally fractured reservoirs is potentially associated with large uncertainty. However, the geological modeling of discrete fracture networks (DFN) is considerably disconnected from uncertainty modeling based on conventional flow simulators in practice. DFN models provide a geologically consistent way of modeling fractures in reservoirs. However, flow simulation of DFN models is currently infeasible at the field scale. To translate DFN models to dual media descriptions efficiently and rapidly, we propose a geostatistical approach based on patterns. We will use experimental design to capture the uncertainties in the fracture description and generate DFN models. The DFN models are then upscaled to equivalent continuum models. Patterns obtained from the upscaled DFN models are reduced to a manageable set and used as training images for multiple-point statistics (MPS). Once the training images are obtained, they allow for fast realization of dual-porosity descriptions with MPS directly, while circumventing the time-consuming process of DFN modeling and upscaling. We demonstrate our ideas on a realistic Middle East-type fractured reservoir system.",
+    "citation_count": 47,
+    "year": "2013/12",
+    "authors": [
+        {
+            "name": "Jung, Andre",
+            "country": "USA"
+        },
+        {
+            "name": "Fenwick, Darryl H.",
+            "country": "USA"
+        },
+        {
+            "name": "Caers, Jef",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

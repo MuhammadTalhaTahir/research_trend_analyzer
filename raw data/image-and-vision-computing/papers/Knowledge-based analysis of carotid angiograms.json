@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/0262885685900101",
+    "title": "Knowledge-based analysis of carotid angiograms",
+    "abstract": "The project described is concerned with the development of a practical system for interpreting carotid angiograms. The general requirements of such a system are identified and some of the design considerations are discussed. The analysis strategies and types of knowledge used by an expert in recognizing and naming vessels and categorizing abnormalities on a single-plane angiogram are described- Two distinct types of knowledge are identified: ‘facts’ knowledge which is drawn from various areas of science, and ‘strategy’ knowledge which determines how the facts should be used. It is suggested that confidence parameters should be associated with each type of knowledge and these should be used in the control of the analysis of an angiogram. The ‘facts’ and ‘strategy’ knowledge bases have a hierarchical structure which, if exploited, would enable the system to be easily adapted for use in other application areas.",
+    "citation_count": "14",
+    "year": "1985/11/01",
+    "authors": [
+        {
+            "name": "RT Ritchings",
+            "country": ""
+        },
+        {
+            "name": "ACF Colchester",
+            "country": ""
+        },
+        {
+            "name": "H-Q Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

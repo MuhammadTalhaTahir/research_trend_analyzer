@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-015-9851-4",
+    "title": "A note of reduced dimension optimization algorithm of assignment problem",
+    "abstract": "Analysing the characters of the elements of the efficiency matrix of the assignment problem, we find some properties of the optimal solution. Different from the traditional algorithm, Hungarian method, we give several principles to recognize some optimal points rapidly, thus we can reduce the dimension of the assignment problem.",
+    "citation_count": 12,
+    "year": "2015/11",
+    "authors": [
+        {
+            "name": "Bai, Mengzhuo",
+            "country": "China"
+        },
+        {
+            "name": "Ren, Chunyang",
+            "country": "China"
+        },
+        {
+            "name": "Liu, Yang",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

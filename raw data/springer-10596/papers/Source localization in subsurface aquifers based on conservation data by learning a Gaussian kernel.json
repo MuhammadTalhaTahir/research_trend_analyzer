@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-024-10325-7",
+    "title": "Source localization in subsurface aquifers based on conservation data by learning a Gaussian kernel",
+    "abstract": "In recent years, with the rapid advance in computing and deep learning technologies, more and more modern designs of neural network models are introduced. Numerous research has been conducted to explore the potential of these models on solving subsurface problems. Instead of investigating the performance of these developed models on subsurface applications, this paper aims to introduce a new concept that helps deep learning models identify the location of a source in a subsurface flow field. In this study, the concept of conservation field is introduced that is initially calculated by a simplified scheme for homogeneous domains and then the scheme is generalized using trained U-Net models based on a Gaussian kernel. Even with the simplified scheme, the source localization accuracy using conservation data is increased by more than 4 times compared to using pressure data directly. When using the Gaussian kernel-based approach with the presented postprocessing technique, the accuracy is further enhanced by two to three orders of magnitude. Even for datasets with different degrees of heterogeneity and uncertain number of source, the model trained with the homogeneous dataset of single-source still maintains a high accuracy. Furthermore, the presented probability learning approach can produce a series of possible source locations tied with probabilities, instead of only making single prediction. Analysis criteria are introduced to determine real source locations from all possible locations.",
+    "citation_count": 53,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "Feng, Yin",
+            "country": "USA"
+        },
+        {
+            "name": "Temani, Ahmed",
+            "country": "USA"
+        },
+        {
+            "name": "Dudun, Anireju",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

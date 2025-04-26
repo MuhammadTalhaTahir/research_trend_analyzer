@@ -1,0 +1,36 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-016-0558-7",
+    "title": "Combining discriminative spatiotemporal features for daily life activity recognition using wearable motion sensing suit",
+    "abstract": "Motion sensing plays an important role in the study of human movements, motivated by a wide range of applications in different fields, such as sports, health care, daily activity, action recognition for surveillance, assisted living and the entertainment industry. In this paper, we describe how to classify a set of human movements comprising daily activities using a wearable motion capture suit, denoted as FatoXtract. A probabilistic integration of different classifiers recently proposed is employed herein, considering several spatiotemporal features, in order to classify daily activities. The classification model relies on the computed confidence belief from base classifiers, combining multiple likelihoods from three different classifiers, namely Naïve Bayes, artificial neural networks and support vector machines, into a single form, by assigning weights from an uncertainty measure to counterbalance the posterior probability. In order to attain an improved performance on the overall classification accuracy, multiple features in time domain (e.g., velocity) and frequency domain (e.g., fast Fourier transform), combined with geometrical features (joint rotations), were considered. A dataset from five daily activities performed by six participants was acquired using FatoXtract. The dataset provided in this work was designed to be extremely challenging since there are high intra-class variations, the duration of the action clips varies dramatically, and some of the actions are quite similar (e.g., brushing teeth and waving, or walking and step). Reported results, in terms of both precision and recall, remained around 85&nbsp;%, showing that the proposed framework is able to successfully classify different human activities.",
+    "citation_count": 45,
+    "year": "2017/11",
+    "authors": [
+        {
+            "name": "Vital, Jessica P. M.",
+            "country": "Portugal"
+        },
+        {
+            "name": "Faria, Diego R.",
+            "country": "Portugal"
+        },
+        {
+            "name": "Dias, Gonçalo",
+            "country": "Portugal"
+        },
+        {
+            "name": "Couceiro, Micael S.",
+            "country": "Portugal"
+        },
+        {
+            "name": "Coutinho, Fernanda",
+            "country": "Portugal"
+        },
+        {
+            "name": "Ferreira, Nuno M. F.",
+            "country": "Portugal"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

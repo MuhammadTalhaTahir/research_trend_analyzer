@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762116300595",
+    "title": "Energy efficient task allocation for hybrid main memory architecture",
+    "abstract": "Compared with the conventional dynamic  random access memory  (DRAM), emerging non-volatile memory technologies provide better density and energy efficiency. However, current NVM devices typically suffer from high write power, long write latency and low write endurance. In this paper, we study the task allocation problem for the hybrid main memory architecture with both DRAM and  PRAM , in order to leverage  system performance  and the energy consumption of the  memory subsystem  via assigning different memory devices for each individual task. For an embedded system with a static set of periodical tasks, we design an  integer linear programming  (ILP) based offline adaptive space allocation (offline-ASA) algorithm to obtain the optimal task allocation. Furthermore, we propose an online adaptive space allocation (online-ASA) algorithm for dynamic task set where arrivals of tasks are not known in advance. Experimental results show that our proposed schemes achieve 27.01%  energy saving  on average, with additional performance cost of 13.6%.",
+    "citation_count": "5",
+    "year": "2016/11/01",
+    "authors": [
+        {
+            "name": "Xiaojun Cai",
+            "country": ""
+        },
+        {
+            "name": "Lei Ju",
+            "country": ""
+        },
+        {
+            "name": "Xin Li",
+            "country": ""
+        },
+        {
+            "name": "Zhiyong Zhang",
+            "country": ""
+        },
+        {
+            "name": "Zhiping Jia",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-004-0227-0",
+    "title": "Combining experts for anchorperson shot detection in news videos",
+    "abstract": "Automatic classification of shots extracted by news videos plays an important role in the context of news video segmentation, which is an essential step towards effective indexing of broadcasters’ digital databases. In spite of the efforts reported by the researchers involved in this field, no techniques providing fully satisfactory performance have been presented until now. In this paper, we propose a multi-expert approach for unsupervised shot classification. The proposed multi-expert system (MES) combines three algorithms that are model-free and do not require a specific training phase. In order to assess the performance of the MES, we built up a database significantly wider than those typically used in the field. Experimental results demonstrate the effectiveness of the proposed approach both in terms of shot classification and of news story detection capability.",
+    "citation_count": 16,
+    "year": "2004/12",
+    "authors": [
+        {
+            "name": "De Santo, M.",
+            "country": "Italy"
+        },
+        {
+            "name": "Percannella, G.",
+            "country": "Italy"
+        },
+        {
+            "name": "Sansone, C.",
+            "country": "Italy"
+        },
+        {
+            "name": "Vento, M.",
+            "country": "Italy"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

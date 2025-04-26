@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218308782",
+    "title": "Preference-based cone contraction algorithms for interactive evolutionary multiple objective optimization",
+    "abstract": "We introduce a family of interactive  evolutionary algorithms  for Multiple Objective Optimization (MOO). In the phase of preference elicitation, a Decision Maker (DM) is asked to compare some pairs of solutions from the current population. Such holistic information is represented by a set of compatible instances of achievement scalarizing or quasi-convex preference functions, which contribute to the construction of preference cones in the objective space. These cones are systematically contracted during the evolutionary search, because an incremental specification of the DM's pairwise comparisons is progressively reducing the DM's most preferred region in the objective space. An inclusion of evolved solutions in this region is used along with the dominance relation to revise an elitism principle of the employed optimization algorithm. In this way, the evolutionary search is focused on a subset of Pareto optimal solutions that are particularly interesting to the DM. We investigate, moreover, how the convergence is influenced by the use of some pre-defined and newly proposed self-adjusting (dynamic) interaction patterns. We also propose a new way for visualizing the progress of an evolutionary search. It supports understanding the differences between effects of a selection pressure imposed by various optimization algorithms.",
+    "citation_count": "27",
+    "year": "2020/02/01",
+    "authors": [
+        {
+            "name": "Miłosz Kadziński",
+            "country": ""
+        },
+        {
+            "name": "Michał K. Tomczyk",
+            "country": ""
+        },
+        {
+            "name": "Roman Słowiński",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

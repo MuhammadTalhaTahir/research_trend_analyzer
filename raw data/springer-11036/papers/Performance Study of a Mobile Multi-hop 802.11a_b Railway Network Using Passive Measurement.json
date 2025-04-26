@@ -1,0 +1,39 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-008-0127-4",
+    "title": "Performance Study of a Mobile Multi-hop 802.11a/b Railway Network Using Passive Measurement",
+    "abstract": "In this paper, we study the performance of IEEE 802.11a/b in a large-scale mobile railway networks and introduce our developed passive measurement approach. To provide a comprehensive evaluation, we built an outdoor multi-hop multi-interface railroad testbed (UNL-FRA Testbed), which consists of eight access points deployed along 3.5&nbsp;mile of railroad track. We propose a novel large-scale passive measurement approach that synchronizes the system clocks of our monitoring systems, merges packet traces collected from multiple wireless channels across a multi-hop network, and enables a global performance view for the entire monitored network and across multiple layers. Based on the testing data collected from 15 field experiments carried out using BNSF locomotives and HyRail vehicles over a period of 18&nbsp;months we conclude that in typical outdoor 802.11 railway environments the wireless link quality, the channel assignment scheme, and the handoff latency have much more significant impacts on the performance than the velocity. Furthermore, we discuss the implications of our conclusions on guaranteeing the quality of mobile services. We believe this is the first analysis on such a scale for 802.11-family railway networks.",
+    "citation_count": 39,
+    "year": "2009/12",
+    "authors": [
+        {
+            "name": "Zhou, Ting",
+            "country": "USA"
+        },
+        {
+            "name": "Sharif, Hamid",
+            "country": "USA"
+        },
+        {
+            "name": "Hempel, Michael",
+            "country": "USA"
+        },
+        {
+            "name": "Mahasukhon, Puttipong",
+            "country": "USA"
+        },
+        {
+            "name": "Wang, Wei",
+            "country": "USA"
+        },
+        {
+            "name": "Chen, Hsiao-Hwa",
+            "country": "Taiwan"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

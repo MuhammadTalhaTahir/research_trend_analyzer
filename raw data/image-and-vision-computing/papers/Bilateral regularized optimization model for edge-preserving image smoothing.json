@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624001355",
+    "title": "Bilateral regularized optimization model for edge-preserving image smoothing",
+    "abstract": "Edge-preserving image smoothing is vital in the field of  image processing  and computational photography. The state-of-the-art filters based on optimization models have achieved promising performance. However, most of them fail to consider the  spatial support  in the  regularization  term, thus limiting the edge-preserving capabilities. In this paper, inspired by the bilateral filter, which consists of a range kernel and a spatial kernel. we propose to leverage bilateral kernel as a penalty function, and embed it into an optimization model for edge-preserving image smoothing. Furthermore, we propose to incorporate an edge-aware weighted scheme in the data term design, which further improves the edge-preserving capability. The bilateral function is non-convex and can be non-trivial to solve. In this paper, we propose a novel iterative solution based on fixed  point iteration , where the main burden in each iteration is a bilateral filtering process. We have conducted extensive experiments to evaluate the proposed filter. Experiment results indicate that our filter benefits a variety of  image processing  tasks. Moreover, we propose an efficient  approximation  of the proposed filter, which is able to significantly accelerate the filtering process with neglectable sacrifice of smoothing quality.",
+    "citation_count": "3",
+    "year": "2024/06/01",
+    "authors": [
+        {
+            "name": "Yang Yang",
+            "country": ""
+        },
+        {
+            "name": "Yue Sun",
+            "country": ""
+        },
+        {
+            "name": "Wei Gao",
+            "country": ""
+        },
+        {
+            "name": "Xinyu Wang",
+            "country": ""
+        },
+        {
+            "name": "Lanling Zeng",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

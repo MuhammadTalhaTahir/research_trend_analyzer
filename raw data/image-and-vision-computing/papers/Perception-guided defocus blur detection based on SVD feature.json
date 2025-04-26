@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623002196",
+    "title": "Perception-guided defocus blur detection based on SVD feature",
+    "abstract": "Defocus blur  detection aims to identify out-of-focus regions in a single image. Although defocus blur detection has attracted more and more attention in recent years, it still faces some challenges. In particular, the in-focus regions with low contrast are easily misidentified as out-of-focus regions. To address this problem, a perception-guided defocus blur detection method is proposed to estimate defocus blur amounts at edge locations from a single image based on the  singular value decomposition  (SVD) features. Inspired by the fact that blurring the clear region produces significant changes in SVD domain as compared with re-blurring the blurred one, new SVD features are extracted based on re-blurred  singular value  difference (RESVD) of the corresponding local gradient patches. Then, perceptual weight based on Just Noticeable Blur (JNB) is introduced to guide the sparse blur  map estimation  obtained with the SVD features. Finally, the full defocus blur map is constructed from the sparse defocus blur map by the Matting Laplace algorithm. Visual evaluations are conducted on the CUHK, DUT and CTCUG datasets, employing  mean absolute error  (MAE) and  F β -measure as  quantitative evaluation  metrics. The experimental results demonstrate that the proposed defocus blur detection method is superior to 13 state-of-the-art methods. On the DUT dataset, the proposed method yields a high  F β -measure (0.802) with a low MAE (0.081) compared to other methods ( F β ≤ 0.799 , MAE  ≥ 0.099 ). On the CUHK and CTCUG datasets, our method achieves the best balance between  F β -measure and MAE. Furthermore, our method results in better visual effects than other methods regarding realism and quality.",
+    "citation_count": "2",
+    "year": "2023/12/01",
+    "authors": [
+        {
+            "name": "Xiaopan Li",
+            "country": ""
+        },
+        {
+            "name": "Shiqian Wu",
+            "country": ""
+        },
+        {
+            "name": "Jiaxin Wu",
+            "country": ""
+        },
+        {
+            "name": "Shoulie Xie",
+            "country": ""
+        },
+        {
+            "name": "Sos Agaian",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

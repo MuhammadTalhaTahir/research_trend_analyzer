@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001282",
+    "title": "Contrastive learning with semantic consistency constraint",
+    "abstract": "Contrastive  representation learning  (CL) can be viewed as an anchor-based  learning paradigm  that learns representations by maximizing the similarity between an anchor and positive samples while reducing the similarity with negative samples. A randomly adopted  data augmentation  strategy generates positive and negative samples, resulting in semantic inconsistency in the learning process. The randomness may introduce additional disturbances to the original sample, thereby reversing the sample identity. Also, the negative sample demarcation strategy makes the negative samples containing semantically similar samples to the anchors, called  false negative  samples. Therefore, CL's maximization and reduction process cause distractors to be incorporated into the learned feature representation. In this paper, we propose a novel  Semantic Consistency  Regularization (SCR) method to alleviate this problem. Specifically, we introduce a new  regularization  item, pairwise subspace distance, to constrain the consistency of distributions across different views. Furthermore, we propose a divide-and-conquer strategy to ensure that the proposed SCR is well-suited for large mini-batch cases. Empirically, results across multiple benchmark mini and large datasets demonstrate that SCR outperforms state-of-the-art methods. Codes are available at  https://github.com/PaulGHJ/SCR.git .",
+    "citation_count": "1",
+    "year": "2023/08/01",
+    "authors": [
+        {
+            "name": "Huijie Guo",
+            "country": ""
+        },
+        {
+            "name": "Lei Shi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

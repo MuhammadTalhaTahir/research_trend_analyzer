@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223000470",
+    "title": "Growing neural gas assisted evolutionary many-objective optimization for handling irregular Pareto fronts",
+    "abstract": "Reference vector adjustment approaches pose a considerable potential to strengthen the capability of decomposition-based evolutionary many-objective algorithms in handling many-objective  optimization problems  (MaOPs) with irregular Pareto-optimal fronts (PFs). However, most existing approaches often rely on the current population’s distribution, which may not well match MaOPs’ PFs. This can easily mislead the reference vector adjustment and impair algorithms’ performance. To address the abovementioned issue, this paper designs a growing neural gas-assisted evolutionary many-objective  optimization algorithm , called GNG-EMO. Specifically, the proposal contains an environmental selection without reference vectors to maintain a well-diversified and converged archive over the PFs. Also, the GNG-EMO leverages a growing neural gas (GNG) network to learn Pareto-optimal fronts’ topologies using the solutions in the archive. In addition, to alleviate the issue that the nodes of the GNG network cannot reach the boundaries of Pareto-optimal fronts, we design an expansion mechanism to further diversify the nodes of the GNG network for constructing a set of better reference vectors. To evaluate the performance of the GNG-EMO, we compare it with five state-of-the-art competitors in the context of 48 test cases with irregular PFs. The numerical results demonstrate the GNG-EMO’s superior competitiveness by significantly outperforming all the five competitors on 27 test cases with respect to the indicator Hypervolume.",
+    "citation_count": "6",
+    "year": "2023/04/01",
+    "authors": [
+        {
+            "name": "Rui Hong",
+            "country": ""
+        },
+        {
+            "name": "Feng Yao",
+            "country": ""
+        },
+        {
+            "name": "Tianjun Liao",
+            "country": ""
+        },
+        {
+            "name": "Lining Xing",
+            "country": ""
+        },
+        {
+            "name": "Zhaoquan Cai",
+            "country": ""
+        },
+        {
+            "name": "Feng Hou",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

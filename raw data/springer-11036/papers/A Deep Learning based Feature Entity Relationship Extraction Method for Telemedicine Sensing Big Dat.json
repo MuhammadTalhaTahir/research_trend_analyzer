@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-022-02024-3",
+    "title": "A Deep Learning based Feature Entity Relationship Extraction Method for Telemedicine Sensing Big Data",
+    "abstract": "To solve the problem of inaccurate entity extraction caused by low application efficiency and big data noise in telemedicine sensing data, a deep learning-based method for entity relationship extraction in telemedicine big data is proposed. By analyzing the distribution structure of the medical sensing big data, the fuzzy function of the distribution shape is calculated and the seed relationship set is transformed by the inverse Shearlet transform. Combined with the deep learning technology, the GMM-GAN data enhancement model is built, the interactive medical sensing big data features are obtained, the association rules are matched one by one, the noiseless medical sensing data are extracted in time sequence, the feature items with the highest similarity are obtained and used as the constraint to complete the feature entity relationship extraction of the medical sensing data. The experimental results show that the extracted similarity of entity relations is more than 70%, which can handle overly long and complex sentences in telemedicine information text; the extraction time is the shortest and the volatility is low.",
+    "citation_count": 20,
+    "year": "2023/12",
+    "authors": [
+        {
+            "name": "Zheng, Wenkui",
+            "country": "China"
+        },
+        {
+            "name": "Hou, Wei",
+            "country": "China"
+        },
+        {
+            "name": "Lin, Jerry Chun-Wei",
+            "country": "Norway"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

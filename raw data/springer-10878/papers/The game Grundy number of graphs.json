@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-012-9513-8",
+    "title": "The game Grundy number of graphs",
+    "abstract": "Given a graph G=(V,E), two players, Alice and Bob, alternate their turns in choosing uncoloured vertices to be coloured. Whenever an uncoloured vertex is chosen, it is coloured by the least positive integer not used by any of its coloured neighbours. Alice’s goal is to minimise the total number of colours used in the game, and Bob’s goal is to maximise it. The game Grundy number of G is the number of colours used in the game when both players use optimal strategies. It is proved in this paper that the maximum game Grundy number of forests is 3, and the game Grundy number of any partial 2-tree is at most 7.",
+    "citation_count": 20,
+    "year": "2013/05",
+    "authors": [
+        {
+            "name": "Havet, Frédéric",
+            "country": "France"
+        },
+        {
+            "name": "Zhu, Xuding",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

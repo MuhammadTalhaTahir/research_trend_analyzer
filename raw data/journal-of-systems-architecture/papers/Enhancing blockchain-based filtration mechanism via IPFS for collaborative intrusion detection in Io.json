@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122000819",
+    "title": "Enhancing blockchain-based filtration mechanism via IPFS for collaborative intrusion detection in IoT networks",
+    "abstract": "Internet of Things  (IoT) has become more important for setting up a smart environment, e.g., smart home. It is a network of connected devices, which can provide many benefits such as automating and controlling the tasks on a daily basis without human intervention. While due to the dispersed structure, IoT networks are vulnerable to various attacks, e.g.,  Distributed Denial of Service  (DDoS). To protect such environment, building a suitable collaborative  intrusion detection network  (CIDN) is essential by enabling the exchange of required data among nodes. In addition, deploying a packet filtration mechanism with CIDN is necessary to reduce unwanted events and traffic. However, how to safeguard the integrity of exchanged information is a challenge, because a malicious internal node can manipulate and deliver untruthful data. Motivated by the  blockchain technology , in this work, we develop a blockchain-based filtration mechanism with CIDN to help protect the security of IoT networks by refining unexpected events. In addition, we leverage IPFS technology to host and  share information  like blacklist. In the evaluation, we examine the filter performance with three real datasets, a simulated environment and a practical environment, respectively. The results demonstrate the effectiveness and scalability of our filter compared with similar studies.",
+    "citation_count": "19",
+    "year": "2022/06/01",
+    "authors": [
+        {
+            "name": "Wenjuan Li",
+            "country": ""
+        },
+        {
+            "name": "Yu Wang",
+            "country": ""
+        },
+        {
+            "name": "Jin Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

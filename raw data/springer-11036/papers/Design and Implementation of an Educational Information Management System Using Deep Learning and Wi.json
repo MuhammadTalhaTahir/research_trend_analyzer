@@ -1,0 +1,19 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-023-02171-1",
+    "title": "Design and Implementation of an Educational Information Management System Using Deep Learning and Wireless Communication",
+    "abstract": "Wireless communication and Deep Learning can enhance the capabilities of an educational information management system by optimizing physical resources, improving student learning outcomes, and reducing costs. However, the current information asymmetry in educational information management makes providing convenient information services for schools challenging. Therefore, this paper proposes an educational information management system (EIMS) that integrates wireless communication and deep learning techniques to optimize physical resources, improve student learning outcomes, and reduce costs. The current information asymmetry in educational information management makes providing convenient information services for schools challenging. The suggested design of the EIMS consists of four components: terminals, subsystems, server and database, and school website. The client/server and the browser/server modes are adopted to cross and utilize them under the work features of educational information management. The functional design of the system consists of a management terminal, a teacher terminal, and login and registration. The management terminal includes seven module functions: personal management function, comprehensive query function, status statistics function, attendance management function, teaching resource management function, and basic data management function. The teacher terminal is mainly divided into two parts, one is to upload the video information of the teaching status of the course, and the other is the docking of the algorithm. The system database design consists of four modules: student status management, training management, degree management, and course selection management. In addition, the designed forms include student information, teacher personal information, class schedule, cultivation plan, and student attendance sheet. The suggested EIMS is experimentally tested and analyzed using MATLAB software to educational information management system under BP neural network. The experimental results show that the BP neural network has good applicability to the educational information management system and can accurately predict the trend of educational information management, providing a reference for further improvement.",
+    "citation_count": 23,
+    "year": "2023/12",
+    "authors": [
+        {
+            "name": "Wangang, Cai",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

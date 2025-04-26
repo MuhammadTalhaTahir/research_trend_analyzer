@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217300251",
+    "title": "Sizing and topology optimization of truss structures using genetic programming",
+    "abstract": "This paper presents a genetic programming approach for simultaneous optimization of sizing and topology of truss structures. It aims to find the optimal cross-sectional areas and connectivities of the  joints  to achieve minimum weight in the  search space . The structural optimization problem is subjected to kinematic stability,  maximum allowable stress  and deflection. This approach uses the variable-length representation of potential solutions in the shape of computer programs and evolves to the optimum solution. This method has the capability to identify redundant truss elements and joints in the design space. The obtained results are compared with existing popular and competent techniques in literature and its competence as a tool in the optimization problem are demonstrated in solving some benchmark examples, the proposed approach provided lighter truss structures than the available solutions reported in the literature.",
+    "citation_count": "59",
+    "year": "2017/12/01",
+    "authors": [
+        {
+            "name": "Hirad Assimi",
+            "country": ""
+        },
+        {
+            "name": "Ali Jamali",
+            "country": ""
+        },
+        {
+            "name": "Nader Nariman-zadeh",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

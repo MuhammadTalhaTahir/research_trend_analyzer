@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-024-01188-w",
+    "title": "Injective edge-coloring of claw-free subcubic graphs",
+    "abstract": "An injective edge-coloring of a graph G is an edge-coloring of G such that any two edges that are at distance 2 or in a common triangle receive distinct colors. The injective chromatic index of G is the minimum number of colors needed to guarantee that G admits an injective edge-coloring. Ferdjallah, Kerdjoudj and Raspaud showed that the injective chromatic index of every subcubic graph is at most 8, and conjectured that 8 can be improved to 6. Kostochka, Raspaud and Xu further proved that every subcubic graph has the injective chromatic index at most 7, and every subcubic planar graph has the injective chromatic index at most 6. In this paper, we consider the injective edge-coloring of claw-free subcubic graphs. We show that every connected claw-free subcubic graph, apart from two exceptions, has the injective chromatic index at most 5. We also consider the list version of injective edge-coloring and prove that the list injective chromatic index of every claw-free subcubic graph is at most 6. Both results are sharp and strengthen a recent result of Yang and Wu which asserts that every claw-free subcubic graph has the injective chromatic index at most 6.",
+    "citation_count": 16,
+    "year": "2024/07",
+    "authors": [
+        {
+            "name": "Cui, Qing",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Han, Zhenmeng",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

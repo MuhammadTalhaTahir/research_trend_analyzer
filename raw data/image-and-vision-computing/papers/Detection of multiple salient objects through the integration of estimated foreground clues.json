@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885616301238",
+    "title": "Detection of multiple salient objects through the integration of estimated foreground clues",
+    "abstract": "In this paper, a novel method for the detection of multiple  salient regions  that is based on the integration of estimated foreground clues is proposed. Although this subject has been very well studied for the detection of salient objects, many  technical challenges  still exist regarding the multiple-object-detection task; in particular, unlike a single-object-detection problem, a high inter-object dissimilarity causes new difficulties. By analyzing the limitations of the existing models, the following two main frameworks that are based on a multi-level foreground-segmentation strategy are proposed: non-parametric cluster-based saliency (NS) and parametric cluster-based saliency (PS). Each framework consists of a vector classification, a foreground estimation, an  energy generation , and an integration process. In contrast to previous models, the proposed method is not dependent upon the contrast features, and is unaffected by the size, thickness, and shape of the objects. In the experiment results, a superior detection accuracy for the SED2 benchmark was achieved with the use of the proposed scheme; furthermore, the corresponding precision and recall are superior to those of the state-of-the-art approaches, and more effective performances were also achieved on the MSRA-ASD, SED2 and CSSD benchmarks.",
+    "citation_count": "15",
+    "year": "2016/10/01",
+    "authors": [
+        {
+            "name": "Kanghan Oh",
+            "country": ""
+        },
+        {
+            "name": "Myungeun Lee",
+            "country": ""
+        },
+        {
+            "name": "Gwangbok Kim",
+            "country": ""
+        },
+        {
+            "name": "Soohyung Kim",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

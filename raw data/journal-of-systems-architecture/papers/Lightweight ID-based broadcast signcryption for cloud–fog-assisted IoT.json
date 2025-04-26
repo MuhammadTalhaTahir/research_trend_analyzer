@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001667",
+    "title": "Lightweight ID-based broadcast signcryption for cloud–fog-assisted IoT",
+    "abstract": "Balancing the security and efficiency of the  internet of things  (IoT) is difficult due to its numerous heterogeneous devices, different trust levels of stakeholders, and asymmetric resource distribution among layers. Identity-based broadcast encryption (IBBE) is a promising technique to ensure  data confidentiality , simplify the certification management issue, and achieve one-to-many data sharing while reducing overheads simultaneously. However, broadcast encryption (BE) schemes without source  authentication  are not applicable in the real world as they cannot prevent invalid messages from malicious users. Meanwhile, the computation cost of IBBE is heavy and not suitable for constrained devices. This paper proposes a lightweight ID-based broadcast signcryption scheme (LIBBSC), which takes advantage of fog nodes to temporarily store  ciphertext  and to partially designcrypt for end users. A fog node transforms the  ciphertext  based on the specific user’s public identity key and then sends the outdesigncrypted ciphertext to the end-user (this step transforms the broadcast to the one-to-one communication). Finally, only the designated end-user with the associated secret key can rapidly designcrypt with minimal computational cost. Our scheme is selective-ID secure against chosen-ciphertext attacks in the  random oracle model . And the implementation and evaluation of the proposed scheme show that it is efficient and suitable for  IoT devices .",
+    "citation_count": "10",
+    "year": "2022/09/01",
+    "authors": [
+        {
+            "name": "Suhui Liu",
+            "country": ""
+        },
+        {
+            "name": "Liquan Chen",
+            "country": ""
+        },
+        {
+            "name": "Jinguang Han",
+            "country": ""
+        },
+        {
+            "name": "Jiguo Yu",
+            "country": ""
+        },
+        {
+            "name": "Xiao Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

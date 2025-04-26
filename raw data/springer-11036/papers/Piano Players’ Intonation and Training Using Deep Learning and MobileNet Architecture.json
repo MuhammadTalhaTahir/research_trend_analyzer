@@ -1,0 +1,19 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-023-02175-x",
+    "title": "Piano Players’ Intonation and Training Using Deep Learning and MobileNet Architecture",
+    "abstract": "This work proposes a deep learning-based note detection model to assist and evaluate students during the piano teaching and training for intonation. Traditional musical note recognition algorithms are based on either time or frequency domain analysis. These methods are inadequate for analyzing signals with time-varying frequency content as they are vulnerable to noise, have high algorithm complexity and require considerable calculation for preprocessing or feature extraction during intonation. Therefore, this paper used constant Q transform (CQT) for preprocessing and feature extraction, which performs both time and frequency domain analysis. MobileNet, which is a lightweight deep CNN model for mobile apps, is used in this paper. MobileNet’s deep separable convolution structure can satisfy the demands of both performance and inference speed required for preprocessing and feature extraction. First, spectrograms were created from the piano music signals using a constant Q transform, and potential note onset times were identified for players’ intonation. The spectrogram regions centered at these onset times were then fed into a deep separable convolutional neural network, which generated a vector of probabilities for 88 notes. Finally, this paper performed different experiments by observing the effects of varying slice lengths and data overlap settings to improve the performance of deep learning architecture. Precision, Recall and F1-score are used to assess the performance of model.",
+    "citation_count": 18,
+    "year": "2023/12",
+    "authors": [
+        {
+            "name": "Peng, Linlin",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

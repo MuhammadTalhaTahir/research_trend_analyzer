@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885602000902",
+    "title": "Theoretical and experimental study on large size image processing applications using divisible load paradigm on distributed bus networks",
+    "abstract": "In this paper, we present a theoretical and an experimental study on the problem of scheduling the processing of a very large size image on a cluster of processors interconnected via a bus network. We use the divisible load paradigm, referred to as  divisible load theory  (DLT), to schedule the entire processing of an image onto the processors. The objective is to minimize the total processing time of the entire image that is submitted to the bus  network system . Here, we consider edge detection as an example of an  image processing  application, which qualifies to use a divide-and-process-like strategy, supported by DLT model. We first present the analysis of the fundamental load scheduling problem for a bus network consisting of a  heterogeneous  set of processors. We then implement the load distribution strategy on a  homogeneous  personal computer-based networking environment consisting of Pentium II machines configured in a bus topology, to verify these theoretical findings. The load (image) distribution strategy is obtained from the DLT analysis and the entire image is distributed among the available machines on the network. We also developed a software  support system  that could be as flexible as possible in terms of scalability of the network and the load (image) size. We present a detailed comparative study of the theoretical and experimental results. Also, we present a discussion on our experience and provide directions for possible future extensions of this work.",
+    "citation_count": "27",
+    "year": "2002/12/01",
+    "authors": [
+        {
+            "name": "Bharadwaj Veeravalli",
+            "country": ""
+        },
+        {
+            "name": "Surendra Ranganath",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

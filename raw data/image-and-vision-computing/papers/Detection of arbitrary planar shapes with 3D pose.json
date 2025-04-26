@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S026288560100066X",
+    "title": "Detection of arbitrary planar shapes with 3D pose",
+    "abstract": "In this work, two new methods to detect objects under perspective and scaled orthographic projection are shown. They also calculate the parameters of the transformations the object has undergone. The methods are based on the use of the Generalized Hough Transform (GHT) that compares a  template  with a projected image. The computational requirements of the algorithms are reduced by restricting the transformation to the image edge points and using invariant information during the comparison process. Moreover, a multipass design of the algorithms speeds-up the parameter calculations.",
+    "citation_count": "7",
+    "year": "2001/12/01",
+    "authors": [
+        {
+            "name": "J.R. Cózar",
+            "country": ""
+        },
+        {
+            "name": "N. Guil",
+            "country": ""
+        },
+        {
+            "name": "E.L. Zapata",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

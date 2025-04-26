@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-007-9125-x",
+    "title": "A note on online strip packing",
+    "abstract": "In online strip packing we are asked to pack a list of rectangles one by one into a vertical strip of unit width, without any information about future rectangles. The goal is to minimize the total height of strip used. The best known algorithm is First Fit Shelf algorithm (Baker and Schwarz in SIAM J. Comput. 12(3):508–525, 1983), which has an absolute competitive ratio of 6.99 under the assumption that the height of each rectangle is bounded from above by one. We improve the shelf algorithm and show an absolute competitive ratio of $7/2+\\sqrt{10}\\approx 6.6623$ without the restriction on rectangle heights. Our algorithm also beats the best known online algorithm for parallel job scheduling.",
+    "citation_count": 20,
+    "year": "2009/05",
+    "authors": [
+        {
+            "name": "Ye, Deshi",
+            "country": "China"
+        },
+        {
+            "name": "Han, Xin",
+            "country": "Hong Kong"
+        },
+        {
+            "name": "Zhang, Guochuan",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

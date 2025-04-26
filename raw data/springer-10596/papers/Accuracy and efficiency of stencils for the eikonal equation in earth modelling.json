@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-012-9296-0",
+    "title": "Accuracy and efficiency of stencils for the eikonal equation in earth modelling",
+    "abstract": "Motivated by the needs for creating fast and accurate models of complex geological scenarios, accuracy and efficiency of three stencils for the isotropic eikonal equation on rectangular grids are evaluated using a fast marching implementation. The stencils are derived by direct modelling of the wave front, resulting in new and valuable insight in terms of improved upwind and causality conditions. After introducing a method for generalising first-order upwind stencils to higher order, a new second-order diagonal stencil is presented. Similarly to the multistencil fast marching approach, the diagonal stencil makes use of nodes in the diagonal directions, whereas the traditional Godunov stencil uses solely edge-connected neighbours. The diagonal stencil uses nodes close to each other, reaching upwind, to get a more accurate estimate of the angle of incidence of the arriving wave front. Although the stencils are evaluated in a fast marching setting, they can be adapted to other efficient eikonal solvers. All first- and second-order stencils are evaluated in a range of tests. The first test case models a folded structure from the Zagros fold belt in Iran. The other test cases are constructed to investigate specific properties of the examined stencils. The numerical investigation considers convergence rates and CPU times for non-constant and constant speed first-arrival computations. In conclusion, the diagonal stencil is the most efficient and accurate of the three alternatives.",
+    "citation_count": 46,
+    "year": "2012/09",
+    "authors": [
+        {
+            "name": "Gillberg, Tor",
+            "country": "Norway"
+        },
+        {
+            "name": "Hjelle, Øyvind",
+            "country": "Norway"
+        },
+        {
+            "name": "Bruaset, Are Magnus",
+            "country": "Norway"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-014-0435-1",
+    "title": "A systematic evaluation of the scale invariance of texture recognition methods",
+    "abstract": "A large variety of well-known scale-invariant texture recognition methods is tested with respect to their scale invariance. The scale invariance of these methods is estimated by comparing the results of two test setups. In the first test setup, the images of the training and evaluation set are acquired under same scale conditions and in the second test setup, the images in the evaluation set are gathered under different scale conditions than those of the training set. For the first test setup, scale invariance is not needed, whereas for the second test setup, scale invariance is obviously crucial. The difference between the results of these two test setups indicates the scale invariance of a method (the higher the scale invariance the lower the difference). The scale invariance of the methods is additionally estimated by analyzing the similarity of the feature vectors of images and their scaled versions. Additionally to the scale invariance, we also test eventual viewpoint and illumination invariance of the methods. As texture databases for our tests we use the KTH-TIPS database and the CUReT database. Results imply that many of the considered methods are not as scale-invariant as expected.",
+    "citation_count": 42,
+    "year": "2015/11",
+    "authors": [
+        {
+            "name": "Uhl, Andreas",
+            "country": "Austria"
+        },
+        {
+            "name": "Wimmer, Georg",
+            "country": "Austria"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

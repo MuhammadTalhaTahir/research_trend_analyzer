@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650219307709",
+    "title": "A grey prediction-based evolutionary algorithm for dynamic multiobjective optimization",
+    "abstract": "Dynamic multiobjective  optimization problems  (DMOPs) usually involve multiple conflicting objectives that change over time. A good  evolutionary algorithm  should be able to quickly track the moving  Pareto optimal front  (POF) and  Pareto optimal set  (POS) over time. To solve DMOPs, a  predictive method  is proposed herein based on grey prediction model, which is composed of three essential ingredients. The first one is that the population is divided into  multiple clusters , which can help the population to preserve diversity throughout the evolutionary process. The second one is that the individuals used to detect environmental changes are taken from different clusters, which in turn help the proposed algorithm to detect environmental changes more promptly and accurately. The third one is to build the grey prediction model by using the  centroid  point of each cluster when detecting the environmental change, and then generate the initial population. Empirical results show that the proposed algorithm can deal with dynamic environments and track the varying POS and POF effectively and efficiently, and achieve better performances on most test problems than several selected state-of-the-art algorithms.",
+    "citation_count": "59",
+    "year": "2020/08/01",
+    "authors": [
+        {
+            "name": "Chunfeng Wang",
+            "country": ""
+        },
+        {
+            "name": "Gary G. Yen",
+            "country": ""
+        },
+        {
+            "name": "Min Jiang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

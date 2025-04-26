@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959525000268",
+    "title": "Robust hierarchical anomaly detection using feature impact in IoT networks",
+    "abstract": "Security threats in Internet of Things (IoT) networks increased, but the lack of labeled data and limited resources hinder intrusion detection system design for IoT networks. We propose a robust hierarchical anomaly detection method based on a variational autoencoder for IoT networks. Our proposed approach includes a shallow detection stage for obvious outliers with an in-depth detection stage that explicitly measures the impact of individual features on latent representations using Shapley values, enhancing the ability to detect adversarial attacks without adversarial training. Simulations confirm the effectiveness against adversarial attacks, with almost 100% detection rates for NSL-KDD and CIC-IDS2017 datasets.",
+    "citation_count": "0",
+    "year": "2025/04/01",
+    "authors": [
+        {
+            "name": "Joohong Rheey",
+            "country": ""
+        },
+        {
+            "name": "Hyunggon Park",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

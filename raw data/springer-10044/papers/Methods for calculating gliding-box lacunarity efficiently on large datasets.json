@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-024-01332-6",
+    "title": "Methods for calculating gliding-box lacunarity efficiently on large datasets",
+    "abstract": "Lacunarity has proven to be a useful, multifaceted tool for image analysis in several different scientific fields, from geography to virology, which has lent increasing importance to the lacunarity analysis of large datasets. It can be most reliably calculated with the so-called gliding-box method, but the evaluation process can be exceedingly time-consuming and unviable as this algorithm is not designed to operate on large datasets. Here we introduce two novel methods that can calculate gliding-box lacunarity orders of magnitude faster than the original method without any loss of accuracy. We compare these methods with the original as well as with two already existing optimized methods based on runtime memory usage and complexity. The application of all five methods for both 2D and 3D datasets analysis confirms that each of the four optimized methods are orders of magnitude faster than the original one, but each has its advantages and limitations.",
+    "citation_count": 21,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "Kovács, Bálint Barna H.",
+            "country": "Hungary"
+        },
+        {
+            "name": "Erdélyi, Miklós",
+            "country": "Hungary"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

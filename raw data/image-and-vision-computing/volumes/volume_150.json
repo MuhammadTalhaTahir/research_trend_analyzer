@@ -1,0 +1,174 @@
+[
+    {
+        "title": "Editorial Board",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003718"
+    },
+    {
+        "title": "MPE-DETR: A multiscale pyramid enhancement network for object detection in low-light images",
+        "url": "https://www.sciencedirect.com/science/article/pii/S026288562400307X"
+    },
+    {
+        "title": "Visible thermal person re-identification via multi-branch modality residual complementary learning",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003068"
+    },
+    {
+        "title": "Generative feature-driven image replay for continual learning",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002920"
+    },
+    {
+        "title": "Noise-robust re-identification with triple-consistency perception",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003020"
+    },
+    {
+        "title": "3D-ISRNet:Generating 3D point clouds through image similarity retrieval in a complex background from a single image",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003081"
+    },
+    {
+        "title": "Generous teacher: Good at distilling knowledge for student learning",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003044"
+    },
+    {
+        "title": "Semi-supervised medical image segmentation via cross teaching between MobileNet and MobileViT",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003019"
+    },
+    {
+        "title": "Triplet-set feature proximity learning for video anomaly detection",
+        "url": "https://www.sciencedirect.com/science/article/pii/S026288562400310X"
+    },
+    {
+        "title": "UTR: A UNet-like transformer for efficient unsupervised medical image registration",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003147"
+    },
+    {
+        "title": "SAM-RSP: A new few-shot segmentation method based on segment anything model and rough segmentation prompts",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003196"
+    },
+    {
+        "title": "Synthetic lidar point cloud generation using deep generative models for improved driving scene object recognition",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003123"
+    },
+    {
+        "title": "Video object segmentation based on dynamic perception update and feature fusion",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002610"
+    },
+    {
+        "title": "DynaSeg: A deep dynamic fusion method for unsupervised image segmentation incorporating feature similarity and spatial continuity",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003111"
+    },
+    {
+        "title": "Multi-scale large kernel convolution and hybrid attention network for remote sensing image dehazing",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003172"
+    },
+    {
+        "title": "Black-box model adaptation for semantic segmentation",
+        "url": "https://www.sciencedirect.com/science/article/pii/S026288562400338X"
+    },
+    {
+        "title": "Novel approach for fast structured light framework using deep learning",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003093"
+    },
+    {
+        "title": "Multi-scale feature correspondence and pseudo label retraining strategy for weakly supervised semantic segmentation",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003202"
+    },
+    {
+        "title": "Reverse cross-refinement network for camouflaged object detection",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003238"
+    },
+    {
+        "title": "SDMNet: Spatially dilated multi-scale network for object detection for drone aerial imagery",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003378"
+    },
+    {
+        "title": "Enhanced human motion detection with hybrid RDA-WOA-based RNN and multiple hypothesis tracking for occlusion handling",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003391"
+    },
+    {
+        "title": "Dual-branch teacher-student with noise-tolerant learning for domain adaptive nighttime segmentation",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003160"
+    },
+    {
+        "title": "An improved attentive residue multi-dilated network for thermal noise removal in magnetic resonance images",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003184"
+    },
+    {
+        "title": "Dual temporal memory network with high-order spatio-temporal graph learning for video object segmentation",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003135"
+    },
+    {
+        "title": "Source domain prior-assisted segment anything model for single domain generalization in medical image segmentation",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003214"
+    },
+    {
+        "title": "Learning accurate monocular 3D voxel representation via bilateral voxel transformer",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003421"
+    },
+    {
+        "title": "Learning facial structural dependency in 3D aligned space for face alignment",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003469"
+    },
+    {
+        "title": "HEDehazeNet: Unpaired image dehazing via enhanced haze generation",
+        "url": "https://www.sciencedirect.com/science/article/pii/S026288562400341X"
+    },
+    {
+        "title": "Dual subspace clustering for spectral-spatial hyperspectral image clustering",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003408"
+    },
+    {
+        "title": "ZSDT: Zero-shot domain translation for real-world super-resolution",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003032"
+    },
+    {
+        "title": "Underwater image restoration based on light attenuation prior and color-contrast adaptive correction",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003226"
+    },
+    {
+        "title": "Language conditioned multi-scale visual attention networks for visual grounding",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003470"
+    },
+    {
+        "title": "Probability based dynamic soft label assignment for object detection",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003457"
+    },
+    {
+        "title": "A streamlined framework for BEV-based 3D object detection with prior masking",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003342"
+    },
+    {
+        "title": "W-shaped network combined with dual transformers and edge protection for multi-focus image fusion",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003159"
+    },
+    {
+        "title": "Pro-ReID: Producing reliable pseudo labels for unsupervised person re-identification",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003494"
+    },
+    {
+        "title": "Coplane-constrained sparse depth sampling and local depth propagation for depth estimation",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003329"
+    },
+    {
+        "title": "Data-driven 2D-EWT based diabetic retinopathy identification using hybrid neural network",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002993"
+    },
+    {
+        "title": "Ricci curvature based volumetric segmentation",
+        "url": "https://www.sciencedirect.com/science/article/pii/S026288562400297X"
+    },
+    {
+        "title": "Segmentation-aware MRI subsampling for efficient cardiac MRI reconstruction with reinforcement learning",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003056"
+    },
+    {
+        "title": "OCUCFormer: An Over-Complete Under-Complete Transformer Network for accelerated MRI reconstruction",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003330"
+    },
+    {
+        "title": "Simultaneous image patch attention and pruning for patch selective transformer",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003445"
+    },
+    {
+        "title": "Detecting adversarial samples by noise injection and denoising",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003433"
+    }
+]

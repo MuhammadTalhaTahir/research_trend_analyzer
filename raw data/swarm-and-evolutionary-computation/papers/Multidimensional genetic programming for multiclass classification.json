@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217309136",
+    "title": "Multidimensional genetic programming for multiclass classification",
+    "abstract": "We describe a new  multiclass classification  method that learns multidimensional feature transformations using  genetic programming . This method optimizes models by first performing a transformation of the  feature space  into a new space of potentially different dimensionality, and then performing classification using a distance function in the transformed space. We analyze a novel program representation for using genetic programming to represent multidimensional features and compare it to other approaches. Similarly, we analyze the use of a distance metric for classification in comparison to simpler techniques more commonly used when applying genetic programming to  multiclass classification . Finally, we compare this method to several state-of-the-art  classification techniques  across a broad set of problems and show that this technique achieves competitive test accuracies while also producing concise models. We also quantify the scalability of the method on problems of varying dimensionality,  sample size , and difficulty. The results suggest the proposed method scales well to large feature spaces.",
+    "citation_count": "50",
+    "year": "2019/02/01",
+    "authors": [
+        {
+            "name": "William La Cava",
+            "country": ""
+        },
+        {
+            "name": "Sara Silva",
+            "country": ""
+        },
+        {
+            "name": "Kourosh Danai",
+            "country": ""
+        },
+        {
+            "name": "Lee Spector",
+            "country": ""
+        },
+        {
+            "name": "Leonardo Vanneschi",
+            "country": ""
+        },
+        {
+            "name": "Jason H. Moore",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

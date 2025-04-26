@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S221065021730812X",
+    "title": "Nature Inspired Power Optimization in smartphones",
+    "abstract": "Good  battery backup  has always been one of the most desirable features of smartphones since inception. Key subsystems of smartphones include powerful processors (application processors -  CPU , communication processors - modem and  graphics processors  - GPU), large displays and high-speed networks. All these subsystems are very demanding on smartphone  battery . Popular smartphone use cases, such as high-resolution video streaming, networked gaming, video calling etc., are power hungry. Due to increased security concerns, smartphone manufacturers have added biometric security features such as fingerprint, IRIS and face recognition etc. in smartphones. There is additional current consumption ranging from 300 mA (mA) to 400 mA (mA) each time smartphone user unlocks the device using any one of these security features. Therefore, it will be in the fitness of the things that smartphone battery lifetime is increased as much as possible. Due to irregular nature of mobile network traffic, it is very difficult to accurately predict battery lifetime or set a deadline up to which battery should last. In this paper, we have addressed both these problems. Here, we present a novel  power optimization  system called NIPO ( N ature  I nspired  P ower  O ptimization). Our contributions are – i) Present a novel client server based power optimization System, called NIPO. ii) Use nature inspired algorithms -  particle swarm optimization  (PSO),  ant colony optimization  (ACO), and  cuckoo search algorithm  (CSA) with Levy Flights, for power optimization in smartphone displays for the first time. iii) Develop a mathematical model of  power consumption  for OLED (Organic Light Emitting Diode) displays in smartphones. iv) Implement NIPO system on  Android  based smartphone and Windows server to validate the effectiveness of proposed system. For experimental purposes, the proposed NIPO system was implemented on smartphone running Android OS for client side and a Windows server for server side. The experimental results validate the effectiveness of the proposed NIPO system. NIPO system successfully meets user defined time-to-last requirement of battery lifetime.",
+    "citation_count": "12",
+    "year": "2019/02/01",
+    "authors": [
+        {
+            "name": "Nirmal Pandey",
+            "country": ""
+        },
+        {
+            "name": "O.P. Verma",
+            "country": ""
+        },
+        {
+            "name": "Amioy Kumar",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

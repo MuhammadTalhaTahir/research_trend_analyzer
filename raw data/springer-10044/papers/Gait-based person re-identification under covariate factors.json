@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-019-00793-4",
+    "title": "Gait-based person re-identification under covariate factors",
+    "abstract": "Gait is recognized as an effective behavioral biometric trait. Gait pattern information can be captured and perceived from a distance thanks to its noninvasive and less intrusive nature. Therefore, gait could be well suited for person re-identification. However, semantic information like clothing and carrying bags has a remarkable influence on its accuracy. Unlike the existing solutions, this paper proposed a new method for gait-based person re-identification relying on dynamic selection of human parts. This method consists in computing a new person descriptor from relevant selected human parts. The selection of the most informative parts was achieved depending on the presence of semantic information. Our experiments were performed on the CASIA-B database revealing promising results and showing the effectiveness of the proposed method.",
+    "citation_count": 59,
+    "year": "2019/11",
+    "authors": [
+        {
+            "name": "Fendri, Emna",
+            "country": "Tunisia"
+        },
+        {
+            "name": "Chtourou, Imen",
+            "country": "Tunisia"
+        },
+        {
+            "name": "Hammami, Mohamed",
+            "country": "Tunisia"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

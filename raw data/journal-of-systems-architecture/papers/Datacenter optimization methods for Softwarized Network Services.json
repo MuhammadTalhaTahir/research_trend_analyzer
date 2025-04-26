@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124002078",
+    "title": "Datacenter optimization methods for Softwarized Network Services",
+    "abstract": "This paper tackles the problem of optimum Virtual Machine placement, focusing on an industrial use-case dealing with capacity planning for Virtualized Network Functions. The work is framed within an industrial collaboration with the Vodafone network operator, where a particularly important problem is the one of optimum deployment of Softwarized Network Functions within their Virtualized Networking Infrastructure, spanning across several EU countries. The problem is particularly difficult due to the presence of a multitude of placement constraints that are needed in the industrial use-case, including soft affinity constraints, that should be respected only as secondary objective; furthermore, in some EU regions, the size of the problem makes it unfeasible to solve it with traditional MILP-based techniques. In this work, we review and address limitations of previously proposed heuristics for this kind of problems, and propose a new placement strategy that is shown experimentally to be more effective in dealing with soft affinity constraints. The paper includes an extensive experimental evaluation encompassing a multitude of optimization strategies, applied to a set of problems including both real-world problems that we made available as an open data-set, and additional randomly generated problems mimicking the structure of the original real-world problems.",
+    "citation_count": "0",
+    "year": "2024/11/01",
+    "authors": [
+        {
+            "name": "Luigi Pannocchi",
+            "country": ""
+        },
+        {
+            "name": "Sourav Lahiri",
+            "country": ""
+        },
+        {
+            "name": "Silvia Fichera",
+            "country": ""
+        },
+        {
+            "name": "Antonino Artale",
+            "country": ""
+        },
+        {
+            "name": "Tommaso Cucinotta",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

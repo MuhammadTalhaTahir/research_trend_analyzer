@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762117301339",
+    "title": "Access control based privacy preserving secure data sharing with hidden access policies in cloud",
+    "abstract": "Attribute-based encryption is a promising solution to the access control based data sharing in the cloud. In this scheme, access policies are being sent in plaintext form which discloses the user privacy and data privacy. Once the  ciphertext  has been shared among the set of authorized users they would be able to decrypt the  ciphertext . Whenever the authorized users are acting as malicious users, they may alter the data and further encrypt and outsource the modified data. It may adversely affect the data owner. In the existing attribute-based  encryption scheme , data owner’s authenticity cannot be verified. In order to resolve these problems, we are proposing a novel idea to anonymize the access policy and a signature scheme to verify the authenticity of data as well as that of the data owner. Anonymized access policy never discloses the privacy. The signature scheme is able to detect the insider attack on attribute-based encryption scheme. The proposed system is secure against indistinguishable chosen-ciphertext attack. It is a  provably secure  and existentially unforgeable access control based data sharing method in the public cloud.",
+    "citation_count": "13",
+    "year": "2017/04/01",
+    "authors": [
+        {
+            "name": "S. Sabitha",
+            "country": ""
+        },
+        {
+            "name": "M.S. Rajasree",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

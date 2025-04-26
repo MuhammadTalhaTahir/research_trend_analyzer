@@ -1,0 +1,42 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885625000162",
+    "title": "Efficient and robust multi-camera 3D object detection in bird-eye-view",
+    "abstract": "Bird's-eye view (BEV) representations are increasingly used in autonomous driving perception due to their comprehensive, unobstructed vehicle surroundings. Compared to transformer or depth based methods, ray transformation based methods are more suitable for vehicle deployment and more efficient. However, these methods typically depend on accurate extrinsic camera parameters, making them vulnerable to performance degradation when calibration errors or installation changes occur. In this work, we follow ray transformation based methods and propose an extrinsic parameters free approach, which reduces reliance on accurate offline camera extrinsic calibration by using a neural network to predict extrinsic parameters online and can effectively improve the robustness of the model. In addition, we propose a multi-level and multi-scale image encoder to better encode image features and adopt a more intensive temporal fusion strategy. Our framework further mainly contains four important designs: (1) a multi-level and multi-scale image encoder, which can leverage multi-scale information on the inter-layer and the intra-layer for better performance, (2) ray-transformation with extrinsic parameters free approach, which can transfers image features to BEV space and lighten the impact of extrinsic disturbance on m-odel's detection performance, (3) an intensive temporal fusion strategy using motion information from five historical frames. (4) a high-performance BEV encoder that efficiently reduces the spatial dimensions of a voxel-based feature map and fuse the multi-scale and the multi-frame BEV features. Experiments on nuScenes show that our best model (R101@900 × 1600) realized competitive 41.7% mAP and 53.8% NDS on the validation set, which outperforming several state-of-the-art visual BEV models in 3D object detection.",
+    "citation_count": "0",
+    "year": "2025/02/01",
+    "authors": [
+        {
+            "name": "Yuanlong Wang",
+            "country": ""
+        },
+        {
+            "name": "Hengtao Jiang",
+            "country": ""
+        },
+        {
+            "name": "Guanying Chen",
+            "country": ""
+        },
+        {
+            "name": "Tong Zhang",
+            "country": ""
+        },
+        {
+            "name": "Jiaqing Zhou",
+            "country": ""
+        },
+        {
+            "name": "Zezheng Qing",
+            "country": ""
+        },
+        {
+            "name": "Chunyan Wang",
+            "country": ""
+        },
+        {
+            "name": "Wanzhong Zhao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

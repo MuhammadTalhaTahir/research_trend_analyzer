@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650221001577",
+    "title": "Tensor factorization-based particle swarm optimization for large-scale many-objective problems",
+    "abstract": "In this paper, a tensor factorization-based circular optimization algorithm of subpopulations is proposed to solve multi- and many-objective optimization problems with large-scale decision variables. Various intermediated procedures, such as variable analysis, clustering, and grouping, to divide large-scale decision variables are needed by most existing algorithms, seriously affecting the optimization performance. The tensor  factorization , which is excellent in decomposition and dimensionality reduction of tensors, is originally introduced to the proposed algorithm to decompose the large-scale decision space into small-scale sub-spaces. Then an evolutionary strategy is designed to optimize these sub-populations by speed-constrained multi-objective  particle swarm optimization  circularly, searching for ideal solutions in each newly constructed lower-scale sub-space. Finally, tensor factorization is used to reconstruct the whole population for asymptotically optimizing the population by all the subpopulations. Using the proposed algorithm on some well-known multi-objective and many-objective benchmarks with 1000 decision variables, it outperformed other state-of-the-art algorithms both in solution quality and convergence rate. The main weakness of the proposed algorithm is the reconstruction error caused by the tensor factorization, which slows down the convergence rate of optimization. Hence our future work is to construct a constrained objective function with the restricted condition of the sparsity of the tensor, which affects the reconstruction error, and seek the solving algorithm.",
+    "citation_count": "16",
+    "year": "2022/03/01",
+    "authors": [
+        {
+            "name": "Qingzhu Wang",
+            "country": ""
+        },
+        {
+            "name": "Lingling Zhang",
+            "country": ""
+        },
+        {
+            "name": "Shuang Wei",
+            "country": ""
+        },
+        {
+            "name": "Bin Li",
+            "country": ""
+        },
+        {
+            "name": "Yang Xi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

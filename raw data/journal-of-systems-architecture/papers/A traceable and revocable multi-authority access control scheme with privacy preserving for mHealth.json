@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001692",
+    "title": "A traceable and revocable multi-authority access control scheme with privacy preserving for mHealth",
+    "abstract": "Mobile healthcare (mHealth) is a smart health system, which makes people have the storage and share in their personal health data (PHD) in the cloud for rapidly medical treatment through mobile 5G-enabled Industrial  Internet of Things  (IIoT) equipments. But key hosting problem and  privacy leakage  problem issued by malicious users and revoked users bring new security challenges. Traceability and accountability to attackers have been an important issue in mHealth system. Among the methods solving the above, most of them still face key abusing and privacy leakage problems. In this article, an expressive privacy preserving attribute-based traceable approach is proposed, where it keeps  PHD confidentiality , eliminates the key delegation issue and prevents the key from being abused, allowing for fine-grained access control to the shared data in mHealth. Under this framework, we imprint a robust unforgeable signature in the secret key to assure the tracked user’s undeniability. We also add a revocable function that can efficiently remove the malicious users by only updating parts of  ciphertext , and unrevoked users still can access the  encrypted data  using the original key. To achieve privacy protection, a  bloom filter  is used to hide the access policy. Security analysis and performance comparisons show the proposed method is secure and efficient.",
+    "citation_count": "15",
+    "year": "2022/09/01",
+    "authors": [
+        {
+            "name": "Leyou Zhang",
+            "country": ""
+        },
+        {
+            "name": "Chuchu Zhao",
+            "country": ""
+        },
+        {
+            "name": "Qing Wu",
+            "country": ""
+        },
+        {
+            "name": "Yi Mu",
+            "country": ""
+        },
+        {
+            "name": "Fatemeh Rezaeibagha",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

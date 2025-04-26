@@ -1,0 +1,36 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1021262308114",
+    "title": "An ELLAM Approximation for Highly Compressible Multicomponent Flows in Porous Media",
+    "abstract": "We develop an ELLAM-MFEM approximation to the strongly coupled systems of time-dependent nonlinear partial differential equations (PDEs) and constraining equations, which describe fully miscible, highly compressible, multicomponent flows through heterogeneous and compressible porous media with singular sources and sinks. An Eulerian–Lagrangian localized adjoint method (ELLAM) is presented to solve the transport equations for concentrations. A mixed finite element method (MFEM) is used to solve the pressure PDE for the pressure and Darcy velocity simultaneously, which generates accurate fluid velocities and minimizes the numerical difficulties occurring in standard methods caused by differentiation of the pressure and then multiplication by rough coefficients. The ELLAM-MFEM solution technique symmetrizes and stabilizes the governing transport PDEs and greatly reduces nonphysical oscillation and/or excessive numerical dispersion present in many large-scale simulators. Computational experiments show that the ELLAM-MFEM solution technique can generate stable and physically reasonable numerical simulations even if coarse spatial grids and very large time steps are used.",
+    "citation_count": 36,
+    "year": "2002/09",
+    "authors": [
+        {
+            "name": "Wang, H.",
+            "country": "USA"
+        },
+        {
+            "name": "Liang, D.",
+            "country": "USA"
+        },
+        {
+            "name": "Ewing, R.E.",
+            "country": "USA"
+        },
+        {
+            "name": "Lyons, S.L.",
+            "country": "China"
+        },
+        {
+            "name": "Qin, G.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

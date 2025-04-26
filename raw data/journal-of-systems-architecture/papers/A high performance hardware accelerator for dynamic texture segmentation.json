@@ -1,0 +1,38 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762115001022",
+    "title": "A high performance hardware accelerator for dynamic texture segmentation",
+    "abstract": "Hardware accelerators such as general-purpose GPUs and FPGAs have been used as an alternative to conventional CPU architectures in scientific computing applications, and have achieved good speed-up results. Within this context, the present study presents a heterogeneous architecture for high-performance computing based on CPUs and FPGAs, which efficiently explores the maximum parallelism degree for processing video segmentation using the concept of dynamic textures. The video segmentation algorithm includes processing the 3-D FFT, calculating the phase spectrum and the 2-D IFFT operation. The performance of the proposed architecture based on CPU and FPGA is compared with the reference implementation of FFTW in CPU and with the cuFFT library in  GPU . The performance report of the prototyped architecture in a single Stratix IV FPGA obtained an overall speedup of 37x over the FFTW software library.",
+    "citation_count": "6",
+    "year": "2015/11/01",
+    "authors": [
+        {
+            "name": "João P.F. Barbosa",
+            "country": ""
+        },
+        {
+            "name": "Antonyus P.A. Ferreira",
+            "country": ""
+        },
+        {
+            "name": "Rodrigo C.F. Rocha",
+            "country": ""
+        },
+        {
+            "name": "Erika S. Albuquerque",
+            "country": ""
+        },
+        {
+            "name": "Josivan R. Reis",
+            "country": ""
+        },
+        {
+            "name": "Djeefther S. Albuquerque",
+            "country": ""
+        },
+        {
+            "name": "Edna N.S. Barros",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

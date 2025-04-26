@@ -1,0 +1,26 @@
+{
+    "url": "https://link.springer.com/article/10.1023/B:DAEM.0000013063.88613.e0",
+    "title": "On the Rapid Prototyping of Equalizers for OFDM Systems",
+    "abstract": "This article discusses hardware-oriented issues related to the compensation of channel distortions in packed-based mobile Orthogonal Frequency Division Multiplexing (OFDM) systems. The adopted evaluation approach relies upon Field-Programmable Gate Array (FPGA) prototyping. Depending on radio channel parameters and the modulation scheme, the required computation effort for the compensation of channel distortions can depict significant variations. In order to perform a trade-off analysis between complexity and performance, different compensation methods for channel distortions have been simulated within an OFDM simulation chain. Based on these results, hardware models have been created and prototyped onto a FPGA. The performance of the models with regard to the hardware efficiency is evaluated by integrating the prototyped components into the OFDM simulation chain. The hardware designs and simulations have been done according to the high-speed wireless LAN standard HiperLAN/2.",
+    "citation_count": 14,
+    "year": "2003/12",
+    "authors": [
+        {
+            "name": "Pionteck, Thilo",
+            "country": "Germany"
+        },
+        {
+            "name": "Kabulepa, Lukusa D.",
+            "country": "Germany"
+        },
+        {
+            "name": "Glesner, Manfred",
+            "country": "Germany"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

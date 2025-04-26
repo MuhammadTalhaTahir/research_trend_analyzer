@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-022-00916-4",
+    "title": "Learn from history for online bipartite matching",
+    "abstract": "Motivated by various applications in the online platforms for ride-hailing and crowd-sourcing delivery, we study the edge-weighted online bipartite matching (EWOBM) problem. We assume a part of online vertices are released in advance to mimic historical information that the algorithm is able to access. Different from traditional approaches that usually learn informative distributions from large enough history sets, our algorithms enable to extra useful information for the history set of any size. When the online vertices arrive in a random order, we present an online algorithm, named as h -TP-OM, achieving a competitive ratio that increases as more historical information is considered. However, once enough historical information has been fed to the algorithm, additional historical information becomes useless. Based on h -TP-OM, we then propose a time-efficient greedy heuristic, named as h -TP-G, which even has better performances in applications, particularly on large-scale instances. When the arrival order of online vertices is determined by an adversary, we present another greedy heuristic algorithm, named as Greedy-RT. Experiments on both synthetic and real-world datasets are conducted to evaluate the practical performances of the proposed algorithms. The experiment results demonstrate the usefulness of historical information for both h -TP-OM and h -TP-G, and also show the time efficiency of h -TP-G and Greedy-RT.",
+    "citation_count": 28,
+    "year": "2022/12",
+    "authors": [
+        {
+            "name": "Zhang, Huili",
+            "country": "China"
+        },
+        {
+            "name": "Du, Rui",
+            "country": "China"
+        },
+        {
+            "name": "Luo, Kelin",
+            "country": "Germany"
+        },
+        {
+            "name": "Tong, Weitian",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

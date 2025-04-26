@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224002980",
+    "title": "A novel importance-guided particle swarm optimization based on MLP for solving large-scale feature selection problems",
+    "abstract": "Feature selection is a crucial data preprocessing technique that effectively reduces the dataset size and enhances the performance of machine learning models. Evolutionary computation (EC) based feature selection has become one of the most important parts of feature selection methods. However, the performance of existing EC methods significantly decrease when dealing with datasets with thousands of dimensions. To address this issue, this paper proposes a novel method called importance-guided particle swarm optimization based on MLP (IGPSO) for feature selection. IGPSO utilizes a two stage trained neural network to learn a feature importance vector, which is then used as a guiding factor for population initialization and evolution. In the two stage of learning, the positive samples are used to learn the importance of useful features while the negative samples are used to identify the invalid features. Then the importance vector is generated combining the two category information. Finally, it is used to replace the acceleration factors and inertia weight in original binary PSO, which makes the individual acceleration factor and social acceleration factor are positively correlated with the importance values, while the inertia weight is negatively correlated with the importance value. Further more, IGPSO uses the flip probability to update the individuals. Experimental results on 24 datasets demonstrate that compared to other state-of-the-art algorithms, IGPSO can significantly reduce the number of features while maintaining satisfactory classification accuracy, thus achieving high-quality feature selection effects. In particular, compared with other state-of-the-art algorithms, there is an average reduction of 0.1 in the fitness value and an average increase of 6.7% in classification accuracy on large-scale datasets.",
+    "citation_count": "7",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Yu Xue",
+            "country": ""
+        },
+        {
+            "name": "Chenyi Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-019-00502-1",
+    "title": "Emergency medical center location problem with people evacuation solved by extended TODIM and objective programming",
+    "abstract": "This study aims to decide the location of emergency medical centers and the evacuation of survivors after a disaster happened. An extended interactive multi-criteria decision making method (TODIM) with interval 2-tuple linguistic variables is proposed to evaluate the potential locations of the emergency medical centers. A bi-objective mixed-integer programming is then established to determine the final locations and the evacuation plan based on previous evaluations. A real case of an earthquake in Wenchuan, China in 2008 is analyzed to demonstrate the effectiveness of our method.",
+    "citation_count": 28,
+    "year": "2021/11",
+    "authors": [
+        {
+            "name": "Gai, Ling",
+            "country": "China"
+        },
+        {
+            "name": "Peng, Zhiyue",
+            "country": "China"
+        },
+        {
+            "name": "Zhang, Jiming",
+            "country": "China"
+        },
+        {
+            "name": "Zhang, Jiafu",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

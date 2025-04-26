@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218308538",
+    "title": "Hybrid biogeography-based optimization with shuffled frog leaping algorithm and its application to minimum spanning tree problems",
+    "abstract": "Biogeography-Based Optimization (BBO), a good meta-heuristic optimization algorithm, has drawn much attention and been applied widely to many areas. However, BBO can not do well in solving some complex and diversified optimization problems. In order to obtain an algorithm with better optimization performance, this paper presents a hybrid BBO with Shuffled Frog Leaping Algorithm (SFLA), named HBBOS. Firstly, we improve BBO. BBO's  mutation operator  is got rid of and its migration operator is improved. Two novel updating mechanisms, i.e. a hybrid cross mechanism and a hybrid disturbance mechanism, are introduced instead of the original migration mechanism to update the immigration habitats' Suitability Index Variables (SIVs) and non-immigration habitats' SIVs, respectively. A differential mechanism is also introduced to prevent the algorithm from falling into  local optima  to some degree. These improvements can enhance exploration and exploitation and balance them. Secondly, we merge the improved migration operator into SFLA's group structure framework. This can balance exploration and exploitation further. So HBBOS is obtained. HBBOS can effectively maximize the two algorithms' advantages and minimize the defects so that it can obtain better optimization performance. A large number of experiments are made on benchmark functions with various types and complexities, such as a set of classic functions and CEC2014 test set. HBBOS is also applied to  minimum spanning tree  problems. The experimental results show that HBBOS outperforms quite a few state-of-the-art algorithms.",
+    "citation_count": "29",
+    "year": "2019/09/01",
+    "authors": [
+        {
+            "name": "Xinming Zhang",
+            "country": ""
+        },
+        {
+            "name": "Qiang Kang",
+            "country": ""
+        },
+        {
+            "name": "Xia Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623000719",
+    "title": "Improved YOLOX-X based UAV aerial photography object detection algorithm",
+    "abstract": "Unmanned Aerial Vehicle (UAV) aerial photography object detection has high research significance in the fields of disaster rescue, ecological environmental protection, and military reconnaissance. The larger width of UAV photography introduces background interference into the detection task, whereas the relatively high imaging height of the UAV results in mostly small objects in the aerial images. YOLOX-X operated fast and achieved advanced results on MS COCO of natural scene images, so YOLOX-X was used as the baseline network in this paper. A UAV aerial photography object detection algorithm YOLOX_w with improved YOLOX-X is proposed to handle the characteristics of complex backgrounds and the large number of small objects in UAV aerial photography images. The model’s performance in detecting small objects is first improved by preprocessing the training set with the slicing aided hyper inference (SAHI) algorithm and by data augmentation. Then, a shallow feature map with rich spatial information is introduced into the path aggregation network (PAN), and a detection head is added to detect small objects. Next, the ultra-lightweight subspace attention module (ULSAM) is added to the PAN stage to highlight the target features and weaken the background features, which improves the detection accuracy of the network. Finally, the loss function of the bounding box regression is optimized to further improve network prediction accuracy. Experimental results on the VisDrone dataset demonstrate that the detection accuracy of the proposed YOLOX_w algorithm improved by 8% when compared with the baseline YOLOX-X. Moreover, migration experiments on the DIOR dataset verify the effectiveness and robustness of the improved method.",
+    "citation_count": "57",
+    "year": "2023/07/01",
+    "authors": [
+        {
+            "name": "Xin Wang",
+            "country": ""
+        },
+        {
+            "name": "Ning He",
+            "country": ""
+        },
+        {
+            "name": "Chen Hong",
+            "country": ""
+        },
+        {
+            "name": "Qi Wang",
+            "country": ""
+        },
+        {
+            "name": "Ming Chen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885619301271",
+    "title": "Foreground extraction via dual-side cameras on a mobile device using long short-term trajectory analysis",
+    "abstract": "This paper presents a foreground extraction method for live-streaming videos using dual-side cameras on mobile devices. Compared to conventional methods, which estimate both foreground and background models from the front camera, the proposed method uses the rear camera to infer the reference background model. To this end, the short-term  trajectory analysis  is first performed to cluster  point trajectories  of the front camera, and then the long-term  trajectory analysis  is performed to compare the paths of the clustered trajectories with the reference path obtained from the rear camera. In particular, clusters having high correlation are classified as background using the  Gaussian mixture model . Additionally, a pixel-wise  segmentation map  is obtained via graph-based segmentation. Experimental results show that the proposed method is robust under a variety of camera motion, outperforming state-of-the-art methods. Code and dataset can be found at  https://github.com/YCL92/dualCamSeg .",
+    "citation_count": "1",
+    "year": "2019/10/01",
+    "authors": [
+        {
+            "name": "Yucheng Lu",
+            "country": ""
+        },
+        {
+            "name": "Dong-Wook Kim",
+            "country": ""
+        },
+        {
+            "name": "Sesong Kim",
+            "country": ""
+        },
+        {
+            "name": "Seung-Won Jung",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

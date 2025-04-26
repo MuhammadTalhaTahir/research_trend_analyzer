@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650225000148",
+    "title": "Fuzzy clustering-based large-scale multimodal multi-objective differential evolution algorithm",
+    "abstract": "Traditional multi-modal multi-objective problems often have multiple local optima in the decision space, and each local optimum is of great importance. However, real-world multi-modal problems are often large-scale problems, and there are few algorithms specifically designed for large-scale multi-modal multi-objective problems. Some proposed algorithms have been tested only on specific problems and are not applicable to solve other specific problems. Based on this problem, this paper proposes a large-scale multi-modal multi-objective differential evolution algorithm called LMMODE, based on fuzzy clustering. The Fuzzy C-means(FCM) algorithm, suitable for high-dimensional data, is employed to divide the search space into multiple subspaces. The multi-stage optimization approach is then utilized to balance the algorithm’s performance in the objective space and decision space through different strategies, thereby solving large-scale multi-modal multi-objective problems. Experimental results demonstrate that, compared to state-of-the-art multi-modal and large-scale algorithms, LMMODE is competitive in solving large-scale multi-modal problems.",
+    "citation_count": "0",
+    "year": "2025/03/01",
+    "authors": [
+        {
+            "name": "Lingyu Wu",
+            "country": ""
+        },
+        {
+            "name": "Xinchao Zhao",
+            "country": ""
+        },
+        {
+            "name": "Lingjuan Ye",
+            "country": ""
+        },
+        {
+            "name": "Zenglin Qiao",
+            "country": ""
+        },
+        {
+            "name": "Xingquan Zuo",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

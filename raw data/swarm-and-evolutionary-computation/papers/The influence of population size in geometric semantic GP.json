@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650216300256",
+    "title": "The influence of population size in geometric semantic GP",
+    "abstract": "In this work, we study the influence of the  population size  on the learning ability of Geometric Semantic  Genetic Programming  for the task of symbolic regression. A large set of experiments, considering different  population size  values on different  regression problems , has been performed. Results show that, on real-life problems, having small populations results in a better training fitness with respect to the use of large populations after the same number of fitness evaluations. However, performance on the test instances varies among the different problems: in datasets with a high number of features, models obtained with large populations present a better performance on unseen data, while in datasets characterized by a relative small number of variables a better  generalization ability  is achieved by using small  population size  values. When synthetic problems are taken into account, large population size values represent the best option for achieving good quality solutions on both training and test instances.",
+    "citation_count": "11",
+    "year": "2017/02/01",
+    "authors": [
+        {
+            "name": "Mauro Castelli",
+            "country": ""
+        },
+        {
+            "name": "Luca Manzoni",
+            "country": ""
+        },
+        {
+            "name": "Sara Silva",
+            "country": ""
+        },
+        {
+            "name": "Leonardo Vanneschi",
+            "country": ""
+        },
+        {
+            "name": "Aleš Popovič",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

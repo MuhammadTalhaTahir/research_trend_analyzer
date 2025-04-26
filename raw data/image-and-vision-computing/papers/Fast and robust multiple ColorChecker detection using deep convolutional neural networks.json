@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885618301793",
+    "title": "Fast and robust multiple ColorChecker detection using deep convolutional neural networks",
+    "abstract": "ColorCheckers are reference standards that professional photographers and filmmakers use to ensure predictable results under every  lighting condition . The objective of this work is to propose a new fast and robust method for automatic ColorChecker detection. The process is divided into two steps: (1) ColorCheckers localization and (2) ColorChecker patches recognition. For the ColorChecker localization, we trained a detection  convolutional neural network  using  synthetic images . The  synthetic images  are created with the 3D models of the ColorChecker and different background images. The output of the  neural networks  are the  bounding box  of each possible ColorChecker candidates in the input image. Each bounding box defines a cropped image which is evaluated by a recognition system, and each image is canonized with regards to color and dimensions. Subsequently, all possible color patches are extracted and grouped with respect to the center's distance. Each group is evaluated as a candidate for a ColorChecker part, and its position in the scene is estimated. Finally, a  cost function  is applied to evaluate the accuracy of the estimation. The method is tested using real and synthetic images. The proposed method is fast, robust to overlaps and invariant to affine projections. The algorithm also performs well in case of multiple ColorCheckers detection.",
+    "citation_count": "15",
+    "year": "2019/01/01",
+    "authors": [
+        {
+            "name": "Pedro D. Marrero Fernández",
+            "country": ""
+        },
+        {
+            "name": "Fidel A. Guerrero Peña",
+            "country": ""
+        },
+        {
+            "name": "Tsang Ing Ren",
+            "country": ""
+        },
+        {
+            "name": "Jorge J.G. Leandro",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

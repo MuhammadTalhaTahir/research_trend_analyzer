@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S221065021300045X",
+    "title": "A novel probabilistically-guided context-sensitive crossover operator for clustering",
+    "abstract": "A new probabilistically guided context-sensitive  crossover operator  for evolutionary clustering applications is proposed. The operator compares relevant sub-regions in partitions represented by two parents selected for mating, passing on to the  offspring  only high fitness sub-regions in the partition space. The use of the restricted  growth function  as the representation for the genotype makes it easier to do a meaningful cluster-wise comparison between two partitions. Clusters are compared using a statistical basis for spatial randomness on the assumption that natural groupings in data are compact and isolated and therefore spatially random within themselves. The proposed crossover operator has good exploitation properties and is heavily biased against an exploratory  genetic  search because it identifies and necessarily passes good schemas to the offspring. Statistical and runtime comparison with two related crossover methods is also presented on synthetic and real datasets and it is shown that the proposed crossover combines the diversity preserving characteristics of an unguided context-sensitive operator with the fast  convergence properties  of a greedy context-insensitive operator.",
+    "citation_count": "7",
+    "year": "2013/12/01",
+    "authors": [
+        {
+            "name": "Amit Banerjee",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

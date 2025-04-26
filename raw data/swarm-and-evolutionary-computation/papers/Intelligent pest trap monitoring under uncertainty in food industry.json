@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223002377",
+    "title": "Intelligent pest trap monitoring under uncertainty in food industry",
+    "abstract": "Pests bring significant losses in both quantity and quality of products in postharvest food facilities and their uncertain activities make imprecise obtained infestation information from trap monitoring, which causes unclear estimation on detriment costs, preventing effective pest management. Trap placement, which collects insect information through determining the exact location and number of traps, will enhance the precision for obtaining insect information. However, this method involves optimizing conflicting objectives. On one hand, smaller number of traps save the monitoring cost and enlarge the monitoring efficiency. On the other hand, number of traps may be insufficient and losses the monitoring accuracy. Existing studies to enhance the monitoring accuracy via both laboratory testing and high tech devices but they rarely considered economic efficacy in practice. In this paper, we characterize the trap placement problem as a Multi-Objective Optimization Problem under Uncertainty. Feedforward Neural Networks and Particle Swarm Optimization algorithms are used to design a tailored algorithm for modeling the conflicting objectives through process-based simulation. Then, robust multi-objective optimization evolutionary algorithm (RMOA) is developed to search for the Pareto optimal solution for the least number of traps settled at optimal positions. Results show the optimal and robust performance of exact trap locations to monitor insect infestation effectively under uncertain insect locations and dynamic insect growth. Compared to the studies that were mainly utilizing general algorisms for solving agricultural problems, the proposed model has implications for effective methods of capturing the characteristics of real-world insect monitoring applications in food industry.",
+    "citation_count": "3",
+    "year": "2024/04/01",
+    "authors": [
+        {
+            "name": "Suling Duan",
+            "country": ""
+        },
+        {
+            "name": "Yong Li",
+            "country": ""
+        },
+        {
+            "name": "Bin Zhu",
+            "country": ""
+        },
+        {
+            "name": "Brian Adam",
+            "country": ""
+        },
+        {
+            "name": "Zhenan He",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

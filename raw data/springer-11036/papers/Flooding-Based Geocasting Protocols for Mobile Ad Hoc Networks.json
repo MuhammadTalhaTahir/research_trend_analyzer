@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1020712802004",
+    "title": "Flooding-Based Geocasting Protocols for Mobile Ad Hoc Networks",
+    "abstract": "Geocasting is a variation on the notion of multicasting. A geographical area is associated with each geocast, and the geocast is delivered to the nodes within the specified geographical area. Thus, geocasting may be used for sending a message that is likely to be of interest to everyone in a specified area. In this paper, we propose three geocasting protocols for ad hoc networks, obtained as variations of a multicast flooding algorithm, and then evaluate these approaches by means of simulations. Proposed geocasting algorithms attempt to utilize physical location information to decrease the overhead of geocast delivery.",
+    "citation_count": 22,
+    "year": "2002/12",
+    "authors": [
+        {
+            "name": "Ko, Young-Bae",
+            "country": ""
+        },
+        {
+            "name": "Vaidya, Nitin H.",
+            "country": ""
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

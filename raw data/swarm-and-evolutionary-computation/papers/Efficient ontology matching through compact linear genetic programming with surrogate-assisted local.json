@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224002967",
+    "title": "Efficient ontology matching through compact linear genetic programming with surrogate-assisted local search",
+    "abstract": "Ontology is a foundational technique of Semantic Web, which enables meaningful interpretation of Web data. However, ontology heterogeneity obstructs the communications among different ontologies, which is a key hindrance in realizing Semantic Web. To leverage different ontologies, it is important to match ontologies by identifying their semantically related entities. Given the vast number of entities and rich vocabulary semantics, this task presents considerable challenges. To tackle this challenge, this paper proposes a novel Compact Linear Genetic Programming with Surrogate-Assisted Local Search (CLGP-SALS). First, a compact multi-program encoding mechanism is developed to reduce the computational cost while ensuring the reusability of building blocks in Linear Genetic Programming. Moreover, it coordinates multiple programs within one solution to improve the quality of ontology alignment. Second, to enhance convergence speed, a new Surrogate-Assisted Local Search is designed, incorporating semantic distance and fitness discrepancies for a focused local search process. The surrogate model presents a superior approach for approximating the fitness of individuals, thereby improving search efficiency in the ontology matching task. Experimental results demonstrate that CLGP-SALS outperforms the state-of-the-art ontology matching methods on the ontology alignment evaluation initiative’s benchmark. The results show that our method can efficiently determine high-quality ontology alignments, and its performance outperforms the compared methods in terms of both effectiveness and efficiency.",
+    "citation_count": "0",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Xingsi Xue",
+            "country": ""
+        },
+        {
+            "name": "Jerry Chun-Wei Lin",
+            "country": ""
+        },
+        {
+            "name": "Tong Su",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

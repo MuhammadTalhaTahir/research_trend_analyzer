@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001592",
+    "title": "Temporal information oriented motion accumulation and selection network for RGB-based action recognition",
+    "abstract": "Numerous studies have highlighted the crucial role of motion information in accurate action recognition in videos. However, current methods heavily rely on temporal differences of features extracted by convolutional neural networks (CNNs) to represent motion, which may have two potential limitations: (1) incomplete representation of the moving target contour due to the difference operation, and (2) equal treatment of all extracted motion features, regardless of their relevance to the classification task, which may negatively impact performance. To address these limitations, we propose a novel approach called the Motion Accumulation and Selection Network (MAS-Net). Although our new approach also considers spatial attributes, it draws inspiration from the cumulative and selective nature of human visual attention, with a primary focus on capturing the temporal attributes of actions for recognition. Further, an motion selection module is exploited to prioritize relevant temporal features while filtering out irrelevant ones. Currently, there is a growing demand for action recognition with strong temporal information, as opposed to conventional scene-related datasets such as UCF-101 and HMDB-51. Therefore, we evaluated MAS-Net on benchmark video datasets that primarily emphasize temporal information, including Something-Something V1&V2, Diving48, and Kinetics-400. Our experimental results demonstrate that MAS-Net achieves state-of-the-art performance on Something-Something V1&V2 and Diving48 datasets. Furthermore, when compared to other 2D CNN-based models, MAS-Net exhibits competitive results on the Kinetics-400 dataset while maintaining computational efficiency. These findings highlight the effectiveness and efficiency of MAS-Net for temporal modeling in video analysis tasks.",
+    "citation_count": "2",
+    "year": "2023/09/01",
+    "authors": [
+        {
+            "name": "Huafeng Wang",
+            "country": ""
+        },
+        {
+            "name": "Hanlin Li",
+            "country": ""
+        },
+        {
+            "name": "Wanquan Liu",
+            "country": ""
+        },
+        {
+            "name": "Xianfeng Gu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

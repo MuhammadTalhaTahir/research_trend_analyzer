@@ -1,0 +1,42 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S221065022300127X",
+    "title": "Evolutionary architecture search via adaptive parameter control and gene potential contribution",
+    "abstract": "Evolutionary  neural architecture search  (ENAS) algorithms benefit from the non-convex optimization capability of evolutionary computation. However, most ENAS algorithms use a  genetic  algorithm (GA) with fixed parameter settings, which limits the algorithm’s search performance. Furthermore, the information generated during the evolutionary process is often ignored, while this information can be helpful for guiding the evolutionary direction of the population. This paper proposes a novel ENAS algorithm based on adaptive parameter control and gene potential contribution (AG-ENAS) to evolve  neural networks  efficiently. Firstly, an adaptive parameter adjustment mechanism is designed, based on population diversity and fitness. This enables better-informed adaptation of related parameters of genetic operators. Secondly, the  mutation operator  guided by the gene potential contribution of genes tends to produce better  offspring . The gene potential contribution reflects the positive effect of the current gene on fitness. It guides the evolution by weighting the more valuable genes with the distribution index matrix. Finally, the concept of aging is introduced into the environmental selection, to offer more opportunities to the young generation and alleviate premature convergence. The proposed algorithm has been evaluated on eight different datasets, and compared against 44 state-of-the-art algorithms from the literature. The experimental results show that the network designed by AG-ENAS obtains higher  classification accuracy  than manual-designed networks such as SENet,  DenseNet , and other ENAS algorithms such as Large-Evo and AE-CNN.",
+    "citation_count": "4",
+    "year": "2023/10/01",
+    "authors": [
+        {
+            "name": "Ronghua Shang",
+            "country": ""
+        },
+        {
+            "name": "Songling Zhu",
+            "country": ""
+        },
+        {
+            "name": "Hangcheng Liu",
+            "country": ""
+        },
+        {
+            "name": "Teng Ma",
+            "country": ""
+        },
+        {
+            "name": "Weitong Zhang",
+            "country": ""
+        },
+        {
+            "name": "Jie Feng",
+            "country": ""
+        },
+        {
+            "name": "Licheng Jiao",
+            "country": ""
+        },
+        {
+            "name": "Rustam Stolkin",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

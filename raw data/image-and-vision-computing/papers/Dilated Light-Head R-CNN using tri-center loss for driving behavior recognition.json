@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885619301192",
+    "title": "Dilated Light-Head R-CNN using tri-center loss for driving behavior recognition",
+    "abstract": "Unsafe driving behavior causes many  traffic accidents , resulting in serious casualties and property losses. It is observed that what the driver is doing can be revealed from the clues on the image, such as the hand with a cigarette. However, the existing behavior recognition approaches are not ideal for distinguishing driving behavior with only local differences. In this paper, we recognize driving behavior by detecting the action-specific parts and propose Dilated Light-Head R-CNN (DL-RCNN) approach, which uses dilated convolution to ensure image resolution for critical details. The technical novelty includes: a position-sensitive RoI alignment to improve the perception of small objects, and tri-center loss to enforce similarity between intra-class features and difference between features of distinct classes. We also adopt two strategies including online hard example mining and proper calibration of key parameters. The evaluation results on the public Kaggle-driving data set and self-built data set show that DL-RCNN achieves state-of-the-art performance in recognizing driving behavior.",
+    "citation_count": "15",
+    "year": "2019/10/01",
+    "authors": [
+        {
+            "name": "Mingqi Lu",
+            "country": ""
+        },
+        {
+            "name": "Yaocong Hu",
+            "country": ""
+        },
+        {
+            "name": "Xiaobo Lu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

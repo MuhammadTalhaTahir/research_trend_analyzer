@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-007-9127-8",
+    "title": "An improved approximation algorithm for uncapacitated facility location problem with penalties",
+    "abstract": "In this paper, we consider an interesting variant of the classical facility location problem called uncapacitated facility location problem with penalties (UFLWP for short) in which each client is either assigned to an opened facility or rejected by paying a penalty. The UFLWP problem has been effectively used to model the facility location problem with outliers. Three constant approximation algorithms have been obtained (Charikar et al. in Proceedings of the Symposium on Discrete Algorithms, pp. 642–651, 2001; Jain et al. in J. ACM 50(6):795–824, 2003; Xu and Xu in Inf. Process. Lett. 94(3):119–123, 2005), and the best known performance ratio is 2. The only known hardness result is a 1.463-inapproximability result inherited from the uncapacitated facility location problem (Guha and Khuller in J.&nbsp;Algorithms 31(1):228–248, 1999). In this paper, We present a 1.8526-approximation algorithm for the UFLWP problem. Our algorithm significantly reduces the gap between known performance ratio and the inapproximability result. Our algorithm first enhances the primal-dual method for the UFLWP problem (Charikar et al. in Proceedings of the Symposium on Discrete Algorithms, pp. 642–651, 2001) so that outliers can be recognized more efficiently, and then applies a local search heuristic (Charikar and Guha in Proceedings of the 39th IEEE Symposium on Foundations of Computer Science, pp. 378–388, 1999) to further reduce the cost for serving those non-rejected clients. Our algorithm is simple and can be easily implemented.",
+    "citation_count": 14,
+    "year": "2009/05",
+    "authors": [
+        {
+            "name": "Xu, Guang",
+            "country": "USA"
+        },
+        {
+            "name": "Xu, Jinhui",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762115001472",
+    "title": "Faces detection method based on skin color modeling",
+    "abstract": "This study suggests a method to improve the speed of a sliding window type of face detector by way of skin color region detection. The face detection method by way of skin color region detection has been studied in various perspectives: Complicated background images because of the area whose color is similar to the skin color cause high false positive rates. In contrast, the face detection method based on appearance, which adopts a sliding window type, may involve high face detection rates but cause tremendous computational costs in the process of detection scanning as the image size increases, whereas the processing time is also extended accordingly. This study suggests a method to control the subwindow size and detection area of a sliding window by detecting and using the skin color region with the processing time reduced. By means of a face detector with haar wavelet and  LBP  features, 274 images were collected online in addition to Bao database images, and then an experiment was conducted with them. As a result, the face detection time in utilization of an existing sliding window decreased down to a maximum of 47%.",
+    "citation_count": "22",
+    "year": "2016/03/01",
+    "authors": [
+        {
+            "name": "Seokhoon Kang",
+            "country": ""
+        },
+        {
+            "name": "Byoungjo Choi",
+            "country": ""
+        },
+        {
+            "name": "Donghw Jo",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

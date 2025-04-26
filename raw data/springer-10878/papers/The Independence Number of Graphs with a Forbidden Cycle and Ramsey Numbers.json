@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1023/B:JOCO.0000017383.13275.17",
+    "title": "The Independence Number of Graphs with a Forbidden Cycle and Ramsey Numbers",
+    "abstract": "Let k ≥ 5 be a fixed integer and let m = ⌊(k − 1)/2⌋. It is shown that the independence number of a C k-free graph is at least c 1[∑ d(v)1/(m − 1)](m − 1)/m and that, for odd k, the Ramsey number r(C k, K n) is at most c 2(n m + 1/log n)1/m , where c 1 = c 1(m) &gt; 0 and c 2 = c 2(m) &gt; 0.",
+    "citation_count": 19,
+    "year": "2003/12",
+    "authors": [
+        {
+            "name": "Li, Yusheng",
+            "country": "China"
+        },
+        {
+            "name": "Zang, Wenan",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

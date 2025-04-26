@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-018-0725-0",
+    "title": "Pedestrian gender classification using combined global and local parts-based convolutional neural networks",
+    "abstract": "The identification of a person’s gender plays an important role in various visual surveillance and monitoring applications which are growing more ubiquitously. This paper proposes a method for gender classification of pedestrians based on whole body images which, unlike facial-based methods, allows for observation from different viewpoints. We use a parts-based model that combines global and local information to make inference. Convolutional neural network (CNN) is leveraged for its superior feature learning and classification capability. Our method requires that only the gender label is available for the training images, without the need for any other expensive annotation such as the anatomical parts, key points or other attributes. We trained a CNN on the bounding box containing the whole body (global CNN) or a defined portion of the body (local CNN). Experimental results show that the upper half region of the body is the most discriminative for gender, in comparison with the middle or lower half. The best model is a jointly trained combination of a global CNN and a local upper body CNN, which achieves higher accuracy than previous works on publicly available datasets.",
+    "citation_count": 28,
+    "year": "2019/11",
+    "authors": [
+        {
+            "name": "Ng, Choon-Boon",
+            "country": "Malaysia"
+        },
+        {
+            "name": "Tay, Yong-Haur",
+            "country": "Malaysia"
+        },
+        {
+            "name": "Goi, Bok-Min",
+            "country": "Malaysia"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

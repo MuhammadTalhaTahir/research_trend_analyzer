@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-018-0686-3",
+    "title": "Robust vectorization method for electrical circuit drawings using component morphology",
+    "abstract": "Decomposition and representation of electrical circuit drawings to a suitable vector form has widespread applications related to data compression, storage, analysis, and editing. In this paper, we propose an efficient method for segmenting and identifying electrical circuit symbols from the image of a circuit drawing with an objective of its complete vectorization. The segmentation procedure is based on morphological operations with automatic selection of structuring elements. After segmentation, the symbols are identified by an SVM classifier that works with certain morphological and topological features of the segmented symbols. Related information like orientations and terminal attributes of the circuit symbols are finally stored in appropriate vector form. Text annotations associated with the symbols are also recognized and vectorized. Detailed performance analysis demonstrates the efficiency and robustness of the proposed method.",
+    "citation_count": 41,
+    "year": "2019/11",
+    "authors": [
+        {
+            "name": "De, Paramita",
+            "country": "India"
+        },
+        {
+            "name": "Mandal, Sekhar",
+            "country": "India"
+        },
+        {
+            "name": "Bhowmick, Partha",
+            "country": "India"
+        },
+        {
+            "name": "Chanda, Bhabatosh",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-024-01344-2",
+    "title": "A multimodal deep learning approach for hurricane tack forecast based on encoder-decoder framework",
+    "abstract": "Tropical Cyclones (TC), also known as typhoons or hurricanes, rank among the most devastating meteorological events worldwide, necessitating precise forecasts to mitigate their impact on life and property. Traditional TC track forecasting methods often depend on limited data sources, resulting in significant challenges in accuracy for long-term predictions. To address these challenges, we introduce a novel forecasting framework named HuCL (Hurricane technology with CNN and LSTM), which harnesses the power of advanced computing and deep learning technologies. This paper details the development and application of the HuCL framework, which integrates Convolutional Neural Networks (CNNs) and Long Short-Term Memory networks (LSTMs) within an encoder-decoder architecture to process and analyze multimodal data, including trajectory data and atmospheric reanalysis maps. This integration enables the HuCL model to capture and utilize complex, implicit relationships within the data, significantly enhancing forecast precision over traditional unimodal methods. Our empirical results demonstrate that HuCL achieves substantial improvements in forecasting accuracy for TC tracks in the Pacific Northwest from 2014 and 2018, underscoring its potential to transform TC prediction methodologies. By leveraging multiple data modalities, the HuCL framework sets a new standard in the predictive accuracy and operational utility of TC forecasting systems, presenting a significant advancement in the field.",
+    "citation_count": 42,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "Wang, Wennan",
+            "country": "China"
+        },
+        {
+            "name": "Lu, Jiadong",
+            "country": "China"
+        },
+        {
+            "name": "Zhu, Linkai",
+            "country": "China"
+        },
+        {
+            "name": "Dai, Shugeng",
+            "country": "China"
+        },
+        {
+            "name": "Song, Shiyang",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650218300269",
+    "title": "Reproductive bias, linkage learning and diversity preservation in bi-objective evolutionary optimization",
+    "abstract": "Diversity preservation is a crucial component for any  multiobjective evolutionary algorithm , and its effectiveness defines how well an algorithm can find solutions to cover the whole extension of the Pareto-optimal front. In this paper, we show that traditional reproduction operators such as  p -uniform and  n -point crossover may sabotage the functioning of diversity preservation mechanisms by producing more solutions in some areas of the objective-space than in others, i.e., they are biased. We argue that such reproductive bias is due to their high degree of disruptiveness which favors the generation of  average quality   offspring . Additionally, we demonstrated the impact of linkage learning in decreasing disruptiveness and reproductive bias. Such a result helps to understand the benefits of  estimation of distribution algorithms  in bi-objective optimization. We performed experiments on instances of the  ρMNK -model, in which the use of unbiased reproduction operators was shown to work in synergy with diversity preservation mechanisms favoring the diversity of the Pareto-fronts obtained.",
+    "citation_count": "2",
+    "year": "2019/08/01",
+    "authors": [
+        {
+            "name": "Jean P. Martins",
+            "country": ""
+        },
+        {
+            "name": "Alexandre C.B. Delbem",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

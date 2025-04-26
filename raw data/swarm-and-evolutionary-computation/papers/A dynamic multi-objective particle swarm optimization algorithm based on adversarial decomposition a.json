@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650221001498",
+    "title": "A dynamic multi-objective particle swarm optimization algorithm based on adversarial decomposition and neighborhood evolution",
+    "abstract": "Many multi-objective  optimization problems  in the real world are dynamic, with objectives that conflict and change over time. These problems put higher demands on the algorithm’s convergence performance and the ability to respond to environmental changes. Confronting these two points, this paper proposes a dynamic multi-objective  particle swarm optimization algorithm  based on adversarial decomposition and neighborhood evolution (ADNEPSO). To overcome the instability of the traditional  decomposition method  for the changing  Pareto optimal front  (POF) shape, the proposed algorithm utilizes the complementary characteristics in the search area of the adversarial vector, and the two populations are alternately updated and co-evolved by adversarial  search directions . Additionally, a novel particle update strategy is proposed to select promising neighborhood information to guide evolution and enhance diversity. To improve the ability to cope with environmental changes, an effective dynamic  response mechanism  is proposed, including three parts: archive set prediction, exploration of global optimal information, and retention of excellent particles to accelerate convergence to the Pareto  optimal set  (POS) in the new environment. The proposed algorithm is tested on a series of benchmark problems and compared to several state-of-the-art algorithms. The results show that ADNEPSO performed excellently in both convergence and diversity, and is highly competitive in dealing with  dynamic problems .",
+    "citation_count": "45",
+    "year": "2022/03/01",
+    "authors": [
+        {
+            "name": "Jinhua Zheng",
+            "country": ""
+        },
+        {
+            "name": "Zeyu Zhang",
+            "country": ""
+        },
+        {
+            "name": "Juan Zou",
+            "country": ""
+        },
+        {
+            "name": "Shengxiang Yang",
+            "country": ""
+        },
+        {
+            "name": "Junwei Ou",
+            "country": ""
+        },
+        {
+            "name": "Yaru Hu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

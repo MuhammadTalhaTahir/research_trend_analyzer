@@ -1,0 +1,52 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-019-09905-9",
+    "title": "Olympus challenge—standardized workflow design for field development plan optimization under uncertainty",
+    "abstract": "The “Olympus challenge” is defined as an open benchmark study on field development optimization under geological uncertainty. This work describes a structured approach to the Olympus challenge. It combines a systematic performance delivery analysis based on multiple reservoir model realizations with optimization strategies including well controls, field development scenarios, and combined strategies. The ambition of this work is to design practical and robust workflows integrating economic, reservoir geology, and delivery performance that can be applied to current real field studies. Probabilistic assessments on economic performance and reservoir opportunities are used for project framing and to define start points for optimization strategies. A sequential optimization strategy is applied to handle discrete control parameters with a time-dependent impact on economic performance over the life cycle of the reservoir. Probability maps are applied to identify reservoir opportunities and a probabilistic well ranking is introduced to investigate the robustness of a well location design. Objective measures for probabilistic evaluations are described and applied for result comparison between an optimized and a reference solution in the presence of multiple realizations. In conclusion, this work provides solution proposals for multiple optimization objectives of the Olympus challenge. Standardized workflow designs deliver manageable and repeatable work steps and give an outlook to automation.",
+    "citation_count": 14,
+    "year": "2020/12",
+    "authors": [
+        {
+            "name": "Schulze-Riegert, Ralf",
+            "country": "Norway"
+        },
+        {
+            "name": "Nwakile, Michael",
+            "country": "Norway"
+        },
+        {
+            "name": "Skripkin, Sergey",
+            "country": "Norway"
+        },
+        {
+            "name": "Whymark, Michelle",
+            "country": "Norway"
+        },
+        {
+            "name": "Baffoe, James",
+            "country": "Norway"
+        },
+        {
+            "name": "Geissenhoener, Dirk",
+            "country": "Norway"
+        },
+        {
+            "name": "Anton, Adrian",
+            "country": "Denmark"
+        },
+        {
+            "name": "Meulengracht, Chresten Steen",
+            "country": "Denmark"
+        },
+        {
+            "name": "Ng, Kin Jin",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

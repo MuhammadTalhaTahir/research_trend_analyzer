@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885615000712",
+    "title": "Chromatic shadow detection and tracking for moving foreground segmentation",
+    "abstract": "Advanced  segmentation techniques  in the surveillance domain deal with shadows to avoid distortions when detecting moving objects. Most approaches for shadow detection are still typically restricted to penumbra shadows and cannot cope well with umbra shadows. Consequently, umbra shadow regions are usually detected as part of moving objects, thus affecting the performance of the final detection. In this paper we address the detection of both penumbra and umbra shadow regions. First, a novel bottom-up approach is presented based on gradient and colour models, which successfully discriminates between chromatic moving cast shadow regions and those regions detected as moving objects. In essence, those regions corresponding to potential shadows are detected based on edge partitioning and colour statistics. Subsequently (i) temporal similarities between textures and (ii) spatial similarities between  chrominance  angle and brightness distortions are analysed for each potential shadow region for detecting the umbra shadow regions. Our second contribution refines even further the segmentation results: a tracking-based top-down approach increases the performance of our bottom-up chromatic shadow  detection algorithm  by properly correcting non-detected shadows. To do so, a combination of motion filters in a data association framework exploits the temporal consistency between objects and shadows to increase the shadow detection rate. Experimental results exceed current state-of-the-art in shadow accuracy for multiple well-known surveillance image databases which contain different shadowed materials and  illumination conditions .",
+    "citation_count": "26",
+    "year": "2015/09/01",
+    "authors": [
+        {
+            "name": "Ivan Huerta",
+            "country": ""
+        },
+        {
+            "name": "Michael B. Holte",
+            "country": ""
+        },
+        {
+            "name": "Thomas B. Moeslund",
+            "country": ""
+        },
+        {
+            "name": "Jordi Gonzàlez",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

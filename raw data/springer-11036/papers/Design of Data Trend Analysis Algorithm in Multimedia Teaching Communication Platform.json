@@ -1,0 +1,35 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-021-01880-9",
+    "title": "Design of Data Trend Analysis Algorithm in Multimedia Teaching Communication Platform",
+    "abstract": "Traditional methods have some problems such as low analysis accuracy and long time consumption in analyzing trend data of multimedia teaching and communication platform. Therefore, this paper designs a new trend analysis algorithm in multimedia teaching and communication platform.The linear regression model is used to segment the data flow of the multimedia teaching and communication platform, the inverse lemma of a matrix is introduced to modify the model parameters of the data trend analysis of the multimedia teaching and communication platform, and the recursive regression modeling is used to design the data trend analysis algorithm of the multimedia teaching and communication platform.To verify the effectiveness of this method in analyzing data trends in the multimedia teaching communication platform, a comparative experiment is designed.The results show that the algorithm in this paper has a significant clustering trend and shorter trend analysis time when analyzing the changing trend of multimedia teaching communication platform data and can effectively improve the accuracy of clustering trend judgment.",
+    "citation_count": 26,
+    "year": "2022/12",
+    "authors": [
+        {
+            "name": "Li, Jie",
+            "country": "China"
+        },
+        {
+            "name": "Qu, Yi-ning",
+            "country": "China"
+        },
+        {
+            "name": "Niu, Ya-li",
+            "country": "China"
+        },
+        {
+            "name": "Yuan, Hailey",
+            "country": "USA"
+        },
+        {
+            "name": "Herencsar, Norbert",
+            "country": "Czech Republic"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

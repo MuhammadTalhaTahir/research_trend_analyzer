@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885603001847",
+    "title": "Application of the active shape model in a commercial medical device for bone densitometry",
+    "abstract": "Osteoporosis is a common disorder characterised mainly by low  bone mineral density  (BMD), and leading to an increased risk of fracture. We have developed a new device that estimates BMD from ordinary hand radiographs. A crucial element of this method is the reconstruction of the metacarpals. This paper describes how this was solved using the active shape model (ASM). Standard ASM is unable to locate the metacarpal shafts in the direction along the bones. Therefore ASM was extended with a translation operator, which solved the problem. A hierarchical filtering method was used to construct a sufficient list of initial guesses for the ASM. The performance of ASM and the experience with the integration of ASM in a commercial  medical device  is reported. The ASM achieves 99.5% reconstruction success and is able to validate its own reconstruction in 97% of the cases. The system (Pronosco X-posure system, version 2.0) has been approved by the FDA, and more than 100 units have been sold. The concept of the translation operator is generalised to the more active shape model (MASM), which also allows a natural integration with the  active appearance model .",
+    "citation_count": "19",
+    "year": "2003/12/01",
+    "authors": [
+        {
+            "name": "H.H Thodberg",
+            "country": ""
+        },
+        {
+            "name": "A Rosholm",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

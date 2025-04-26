@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762197000301",
+    "title": "A fault tolerant RPC mechanism based on IP multicasting",
+    "abstract": "This paper presents a fault tolerant Remote Procedure Call (RPC) mechanism based on Sun RPC and IP multicast protocol. The fault tolerant RPC mechanism is provided as an RPC library, called libFTRPC, whose interface is compatible with that of conventional Sun's RPC library. Thanks to this compatibility, a reliable RPC server can be developed in the same way a conventional RPC server is constructed. The service reliability is ensured by replicating the server to a group of server replicas. Coordinator-cohort replication model in conjunction with read-one/write-all policy is used to guarantee state consistency between server replicas. We also incorporate a simple and effective approach to balance loads among server replicas to improve performance for read-only requests.",
+    "citation_count": "1",
+    "year": "1997/01/01",
+    "authors": [
+        {
+            "name": "Jyh-Tzong Chiou",
+            "country": ""
+        },
+        {
+            "name": "Charles Changli Chin",
+            "country": ""
+        },
+        {
+            "name": "Shang-Rong Tsai",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

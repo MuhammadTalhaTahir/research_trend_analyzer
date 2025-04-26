@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217304042",
+    "title": "A modified PBI approach for multi-objective optimization with complex Pareto fronts",
+    "abstract": "The penalty-based boundary intersection (PBI) approach is widely used in the decomposition-based multi-objective evolutionary algorithm (MOEA/D). Generally, a uniform distribution of  weight vectors  in PBI approach will lead to a set of evenly distributed solutions on the Pareto-optimal front (POF), but this approach cannot work well in practice when the target multi-objective optimization problem (MOP) has a complex POF. For example, the POF may have disconnected regions and a long tail and a sharp peak and a degenerate geometry, which significantly degrades the performance of the original MOEA/D. This paper proposes a modified PBI (MPBI) approach and a strategy of adjusting  reference points  (ARP) to handle these MOPs with complex fronts. A two-stage strategy is adopted in the proposed algorithm. The first stage is to determine a  hyperplane  based on the modified PBI approach, so that the projection points derived from the solutions obtained in second stage to this hyperplane are all in the first quadrant. Exploring those regions where the solution exists is also a key task in this stage. The second stage is to adjust the reference points periodically so that the reference points can be redistributed adaptively to improve the distribution of solutions. The framework of the proposed algorithm is based on  θ -DEA and named NSGA-MPBI. Some widely used test instances and three many-objective MOPs with complex POFs are employed in the experiments. The experimental results indicate that NSGA-MPBI outperforms the state-of-the-art algorithms.",
+    "citation_count": "29",
+    "year": "2018/06/01",
+    "authors": [
+        {
+            "name": "Qisheng Zhang",
+            "country": ""
+        },
+        {
+            "name": "Wen Zhu",
+            "country": ""
+        },
+        {
+            "name": "Bo Liao",
+            "country": ""
+        },
+        {
+            "name": "Xiangtao Chen",
+            "country": ""
+        },
+        {
+            "name": "Lijun Cai",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

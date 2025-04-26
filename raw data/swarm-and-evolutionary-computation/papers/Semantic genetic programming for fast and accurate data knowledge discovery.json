@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650215000516",
+    "title": "Semantic genetic programming for fast and accurate data knowledge discovery",
+    "abstract": "Big data   knowledge discovery  emerged as an important factor contributing to advancements in society at large. Still, researchers continuously seek to advance existing methods and provide novel ones for analysing vast data sets to make sense of the data, extract useful information, and build knowledge to inform decision making. In the last few years, a very promising variant of  genetic programming  was proposed: geometric semantic genetic programming. Its difference with the standard version of genetic programming consists in the fact that it uses new genetic operators, called geometric semantic operators, that, acting directly on the semantics of the candidate solutions, induce by definition a unimodal error surface on any supervised learning problem, independently from the complexity and size of the underlying data set. This property should improve the  evolvability  of genetic programming in presence of big data and thus makes geometric semantic genetic programming an extremely promising method for mining vast amounts of data. Nevertheless, to the best of our knowledge, no contribution has appeared so far to employ this new technology to  big data problems . This paper intends to fill this gap. For the first time, in fact, we show the effectiveness of geometric semantic genetic programming on several complex real-life problems, characterized by vast amounts of data, coming from several different application domains.",
+    "citation_count": "21",
+    "year": "2016/02/01",
+    "authors": [
+        {
+            "name": "Mauro Castelli",
+            "country": ""
+        },
+        {
+            "name": "Leonardo Vanneschi",
+            "country": ""
+        },
+        {
+            "name": "Luca Manzoni",
+            "country": ""
+        },
+        {
+            "name": "Aleš Popovič",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

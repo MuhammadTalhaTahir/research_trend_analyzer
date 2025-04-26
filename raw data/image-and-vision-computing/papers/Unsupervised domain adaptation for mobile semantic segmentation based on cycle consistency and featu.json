@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885620300214",
+    "title": "Unsupervised domain adaptation for mobile semantic segmentation based on cycle consistency and feature alignment",
+    "abstract": "The supervised training of deep networks for  semantic segmentation  requires a huge amount of labeled real world data. To solve this issue, a commonly exploited workaround is to use  synthetic data  for training, but deep networks show a critical performance drop when analyzing data with slightly different statistical properties with respect to the training set. In this work, we propose a novel  Unsupervised Domain Adaptation  (UDA) strategy to address the domain shift issue between real world and synthetic representations. An  adversarial model , based on the cycle consistency framework, performs the mapping between the synthetic and real domain. The data is then fed to a MobileNet-v2 architecture that performs the semantic  segmentation task . An additional couple of  discriminators , working at the feature level of the MobileNet-v2, allows to better align the features of the two domain distributions and to further improve the performance. Finally, the consistency of the semantic maps is exploited. After an initial supervised training on synthetic data, the whole UDA architecture is trained end-to-end considering all its components at once. Experimental results show how the proposed strategy is able to obtain impressive performance in adapting a  segmentation network  trained on synthetic data to real world scenarios. The usage of the lightweight MobileNet-v2 architecture allows its deployment on devices with limited  computational resources  as the ones employed in autonomous vehicles.",
+    "citation_count": "40",
+    "year": "2020/03/01",
+    "authors": [
+        {
+            "name": "Marco Toldo",
+            "country": ""
+        },
+        {
+            "name": "Umberto Michieli",
+            "country": ""
+        },
+        {
+            "name": "Gianluca Agresti",
+            "country": ""
+        },
+        {
+            "name": "Pietro Zanuttigh",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

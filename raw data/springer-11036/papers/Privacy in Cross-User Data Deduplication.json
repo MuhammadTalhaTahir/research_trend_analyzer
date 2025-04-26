@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-018-1100-5",
+    "title": "Privacy in Cross-User Data Deduplication",
+    "abstract": "With the ever increasing volume of digital data, using data deduplication techniques in archival storage has become imperative in large scale cloud systems. In a storage system based on a cross-user data deduplication technique, data is uploaded to the server by the client if only it has not been uploaded by him or any other clients previously. Therefore, such storage systems achieve optimal utilization of both storage and bandwidth resources. Although the existing cross-user data deduplication techniques preserve data privacy requirements to some extent (e.g. confidentiality and tag consistency), they leak information to communication parties. In particular in those settings, the clients and the server may find out which clients own identical data. Nevertheless, in this paper we introduce a privacy requirement for data deduplication techniques called data-unlinkability to resolve this problem. Moreover, we propose a novel approach for data deduplication using Bloom filter to provide data-unlinkability for clients’ files. Our proposed approach does not use Proof of Ownership (POW) scheme, and only entities who have access to the entire files content can obtain the information for files retrieval. The security and performance analysis suggest that our technique provides both privacy requirements and optimization of storage space and bandwidth.",
+    "citation_count": 31,
+    "year": "2021/12",
+    "authors": [
+        {
+            "name": "Jannati, Hoda",
+            "country": "Iran"
+        },
+        {
+            "name": "Ardeshir-Larijani, Ebrahim",
+            "country": "Iran"
+        },
+        {
+            "name": "Bahrak, Behnam",
+            "country": "Iran"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

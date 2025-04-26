@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223000780",
+    "title": "Effects of corner weight vectors on the performance of decomposition-based multiobjective algorithms",
+    "abstract": "Recently, it was demonstrated that a decomposition-based multiobjective  evolutionary algorithm  with a pre-specified  weight vector  set cannot find a uniformly-distributed solution set over an inverted triangular  Pareto front  (PF). This is because the weight vectors are created by a simplex-lattice structure with a triangular shape. Much more boundary solutions are often obtained than inside solutions. Whereas non-uniformity of obtained solutions has been discussed in many studies, it has been overlooked that solutions around the corners of the inverted triangular PF are not always obtained. This means that the obtained solution set is not only non-uniform but also covers only a part of the PF. In this paper, first we explain why the corner solutions of the inverted triangular PF cannot always be found using the relation between the weight vectors and the PF. Next, we propose a simple method for generating additional weight vectors for the search of the corner solutions. Then, we perform computational experiments after combining the proposed method with several decomposition-based algorithms. Experimental results demonstrate that the proposed method is able to improve the performance of the examined decomposition-based algorithms (including those with weight adaptation mechanisms) on  multiobjective problems  with various irregular PFs.",
+    "citation_count": "5",
+    "year": "2023/06/01",
+    "authors": [
+        {
+            "name": "Linjun He",
+            "country": ""
+        },
+        {
+            "name": "Auraham Camacho",
+            "country": ""
+        },
+        {
+            "name": "Yang Nan",
+            "country": ""
+        },
+        {
+            "name": "Anupam Trivedi",
+            "country": ""
+        },
+        {
+            "name": "Hisao Ishibuchi",
+            "country": ""
+        },
+        {
+            "name": "Dipti Srinivasan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

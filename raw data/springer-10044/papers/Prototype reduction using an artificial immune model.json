@@ -1,0 +1,16 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-008-0106-1",
+    "title": "Prototype reduction using an artificial immune model",
+    "abstract": "Artificial immune system (AIS)-based pattern classification approach is relatively new in the field of pattern recognition. The study explores the potentiality of this paradigm in the context of prototype selection task that is primarily effective in improving the classification performance of nearest-neighbor (NN) classifier and also partially in reducing its storage and computing time requirement. The clonal selection model of immunology has been incorporated to condense the original prototype set, and performance is verified by employing the proposed technique in a practical optical character recognition (OCR) system as well as for training and testing of a set of benchmark databases available in the public domain. The effect of control parameters is analyzed and the efficiency of the method is compared with another existing techniques often used for prototype selection. In the case of the OCR system, empirical study shows that the proposed approach exhibits very good generalization ability in generating a smaller prototype library from a larger one and at the same time giving a substantial improvement in the classification accuracy of the underlying NN classifier. The improvement in performance has been statistically verified. Consideration of both OCR data and public domain datasets demonstrate that the proposed method gives results better than or at least comparable to that of some existing techniques.",
+    "citation_count": 40,
+    "year": "2008/09",
+    "authors": [
+        {
+            "name": "Garain, Utpal",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

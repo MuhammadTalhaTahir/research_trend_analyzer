@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-020-00653-6",
+    "title": "An approximation algorithm for submodular hitting set problem with linear penalties",
+    "abstract": "The hitting set problem is a generalization of the vertex cover problem to hypergraphs. Xu et al. (Theor Comput Sci 630:117–125, 2016) presented a primal-dual algorithm for the submodular vertex cover problem with linear/submodular penalties. Motivated by their work, we study the submodular hitting set problem with linear penalties (SHSLP). The goal of the SHSLP is to select a vertex subset in the hypergraph to cover some hyperedges and penalize the uncovered ones such that the total cost of covering and penalty is minimized. Based on the primal-dual scheme, we obtain a k-approximation algorithm for the SHSLP, where k is the maximum number of vertices in all hyperedges.",
+    "citation_count": 24,
+    "year": "2020/11",
+    "authors": [
+        {
+            "name": "Du, Shaojing",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Gao, Suogang",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Hou, Bo",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Liu, Wen",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

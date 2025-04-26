@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-021-01002-x",
+    "title": "Domain adaption based on source dictionary regularized RKHS subspace learning",
+    "abstract": "Domain adaption is to transform the source and target domain data into a certain space through a certain transformation, so that the probability distribution of the transformed data is as close as possible. The domain adaption algorithm based on Maximum Mean Difference (MMD) Maximization and Reproducing Kernel Hilbert Space (RKHS) subspace transformation is the current main algorithm for domain adaption, in which the RKHS subspace transformation is determined by MMD of the transformed source and target domain data. However, MMD has inherent defects in theory. The probability distributions of two different random variables will not change after subtracting their respective mean values, but their MMD becomes zero. A reasonable method should be that the MMD of the source and target domain data with the same label should be as small as possible after RKHS subspace transformation. However, the labels of target domain data are unknown and there is no way to model according to this criterion. In this paper, a domain adaption algorithm based on source dictionary regularized RKHS subspace learning is proposed, in which the source domain data are used as a dictionary, and the target domain data are approximated by the sparse coding of the dictionary. That is to say, in the process of RKHS subspace transformation, the target domain data are distributed around the mostly relevant source domain data. In this way, the proposed algorithm indirectly achieves the MMD of the source and target domain data with the same label after RKHS subspace transformation. So far there has been no similar work reported in the published academic papers. The experimental results presented in this paper show that the proposed algorithm outperforms 5 other state-of-the-art domain adaption algorithms on 5 commonly used datasets.",
+    "citation_count": 52,
+    "year": "2021/11",
+    "authors": [
+        {
+            "name": "Lei, Wenjie",
+            "country": "China"
+        },
+        {
+            "name": "Ma, Zhengming",
+            "country": "China"
+        },
+        {
+            "name": "Lin, Yuanping",
+            "country": "China"
+        },
+        {
+            "name": "Gao, Wenxu",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

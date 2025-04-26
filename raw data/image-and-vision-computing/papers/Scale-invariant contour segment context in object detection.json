@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885614001425",
+    "title": "Scale-invariant contour segment context in object detection",
+    "abstract": "The evaluation of the scale of an object in a cluttered background is a serious problem in  computer vision . The most existing contour-based approaches relevant to object detection address this problem by normalizing descriptor or multi-scale searching, such as sliding-window searching, spatial pyramid model etc. Besides, Hough-voting framework can predict the scale of an object according to some meaning fragments. However, utilizing scale-variant descriptor or complicated structure in these measures reduces the efficiency of detection. In the present paper, we propose a novel shape feature called scale-invariant contour segment context (CSC). This feature is based on the angle between contour  line segments . It remains unchanged as scale varies. Most importantly, it evaluates the scale of objects located in cluttered images and facilitates localization of the boundary of the object in unseen images simultaneously. In this way, we need to focus on just the shape  matching algorithm  without considering the variant scale of the object in an image. This is a procedure which absolutely differs from voting and sliding window searching. We do experiments on ETHZ shape dataset, Weizmann horses dataset, and the bottle subset from PASCAL datasets. The results confirm that the present model of object detection, based on CSC, outperforms state-of-the-art of shape-based detection methods.",
+    "citation_count": "15",
+    "year": "2014/12/01",
+    "authors": [
+        {
+            "name": "Jinwen Xiao",
+            "country": ""
+        },
+        {
+            "name": "Hui Wei",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

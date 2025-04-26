@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-014-9440-0",
+    "title": "A Gabriel-Delaunay triangulation of 2D complex fractured media for multiphase flow simulations",
+    "abstract": "Fractured reservoirs are complex domains where discrete fractures are internal constraining boundaries. The discrete fractures are discretized into intersected edges during a grid-generation process, and Delaunay triangulations are often used to represent complex structures. However, a Delaunay triangulation of a fractured medium generally does not conform to the fracture; recovering the fracture elements may violate the Delaunay empty-circle (2D) criterion and may lead to a low-quality triangulation. Refining the triangulation is not a practical solution in complex fractured media. A new approach combines both Gabriel and Delaunay triangulations. A modified Gabriel condition of edge-empty-circle is introduced and locally employed to quantify the quality of the fracture edges in 2D. The fracture edges violating the modified Gabriel criterion are released in the first stage. After that, a Delaunay triangulation is generated considering the rest of the fracture constraints. The released fracture edges are then approximated by the edges of the Delaunay triangles. The final representation of fractures might be slightly different, but a very accurate approximation is always maintained. The method generates fine and coarse grids and offers an accurate and good-quality grid. Numerical examples are presented to assess the performance and efficiency of the proposed method. Finally, the method can be employed in the pre- and postprocessing stages to various possible meshing algorithms.",
+    "citation_count": 54,
+    "year": "2014/12",
+    "authors": [
+        {
+            "name": "Mustapha, Hussein",
+            "country": "UK"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

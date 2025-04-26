@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-017-9674-8",
+    "title": "Modeling geomechanical impact of fluid storage in poroelastic media using precomputed response functions",
+    "abstract": "When injecting CO2 or other fluids into a geological formation, pressure plays an important role both as a driver of flow and as a risk factor for mechanical integrity. The full effect of geomechanics on aquifer flow can only be captured using a coupled flow-geomechanics model. In order to solve this computationally expensive system, various strategies have been put forwards over the years, with some of the best current methods based on sequential splitting. In the present work, we seek to approximate the full geomechanical effect on flow without the need of coupling with a geomechanics solver during simulation, and at a computational cost comparable to that of an uncoupled model. We do this by means of precomputed pressure response functions. At grid model generation time, a geomechanics solver is used to compute the mechanical response of the aquifer for a set of pressure fields. The relevant information from these responses is then stored in a compact form and embedded with the grid model. We test the accuracy and computational performance of our approach on a simple 2D and a more complex 3D model, and compare the results with those produced by a fully coupled approach as well as from a simple decoupled method based on Geertsma’s uniaxial expansion coefficient.",
+    "citation_count": 43,
+    "year": "2017/12",
+    "authors": [
+        {
+            "name": "Andersen, Odd",
+            "country": "Norway"
+        },
+        {
+            "name": "Nilsen, Halvor Møll",
+            "country": "Norway"
+        },
+        {
+            "name": "Gasda, Sarah",
+            "country": "Norway"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

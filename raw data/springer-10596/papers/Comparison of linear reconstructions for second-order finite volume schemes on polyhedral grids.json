@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-017-9658-8",
+    "title": "Comparison of linear reconstructions for second-order finite volume schemes on polyhedral grids",
+    "abstract": "Improved and enhanced oil recovery methods require sophisticated simulation tools to predict the injected flow pass together with the chemical reactions inside it. One approach is application of higher-order numerical schemes to avoid excessive numerical diffusion that is very typical for transport processes. In this work, we provide a first step towards higher-order schemes applicable on general polyhedral and corner-point grids typically used in reservoir simulation. We compare three possible approaches of linear reconstruction and slope limiting techniques on a variety of different meshes in two and three spatial dimensions and discuss advantages and disadvantages.",
+    "citation_count": 30,
+    "year": "2017/12",
+    "authors": [
+        {
+            "name": "Klöfkorn, Robert",
+            "country": "Norway"
+        },
+        {
+            "name": "Kvashchuk, Anna",
+            "country": "Norway"
+        },
+        {
+            "name": "Nolte, Martin",
+            "country": "Germany"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

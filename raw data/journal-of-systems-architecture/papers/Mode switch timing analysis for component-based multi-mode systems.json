@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762113001823",
+    "title": "Mode switch timing analysis for component-based multi-mode systems",
+    "abstract": "The growing complexity of embedded systems software requires new techniques for their development. A common approach to reducing software complexity is to partition system behavior into different operational modes. Such a multi-mode system can change its behavior by switching between modes under certain circumstances. Another approach to simplifying software development is Component-Based Software Engineering, which allows a system to be developed by reusable components. Combining both approaches, we get component-based development of multi-mode systems, for which a key issue is the mode switch handling. Since most existing mode switch techniques do not consider component-based systems, we present in this article an approach—the Mode Switch Logic (MSL)—for the development of component-based multi-mode systems. Additionally, we provide a timing analysis for the mode switch of systems using our MSL. Finally, the fundamentals of MSL and its mode switch timing analysis are demonstrated and evaluated by a  case study , an Adaptive Cruise Control system.",
+    "citation_count": "7",
+    "year": "2013/11/01",
+    "authors": [
+        {
+            "name": "Hang Yin",
+            "country": ""
+        },
+        {
+            "name": "Hans Hansson",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

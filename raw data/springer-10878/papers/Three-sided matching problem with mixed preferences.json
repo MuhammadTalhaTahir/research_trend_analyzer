@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-019-00501-2",
+    "title": "Three-sided matching problem with mixed preferences",
+    "abstract": "In this paper, we study the three-sided matching problems with mixed preferences, where three agent sets are U, V and W. We discussed two matching problems with different types of preferences. The first is that each $$u\\in U$$ has a strict preference over set V, each $$v\\in V$$ has a strict preference over set W, each $$w\\in W$$ has a strict preference over set V and each $$w\\in W$$ has a strict preference over set U. The second is that each $$u\\in U$$ has a strict preference over set V, each $$v\\in V$$ has a strict preference over set W and each $$w\\in W$$ has a strict preference over set $$U\\times V=\\{(u,v)|u\\in U,v\\in V \\}$$ . For these two kinds of matching problems, we give the concept of stable matching and the algorithm of solving stable matching respectively. Finally, we discuss the relationship between these two matching problems.",
+    "citation_count": 20,
+    "year": "2021/11",
+    "authors": [
+        {
+            "name": "Zhang, Feng",
+            "country": "China"
+        },
+        {
+            "name": "Zhong, Liwei",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

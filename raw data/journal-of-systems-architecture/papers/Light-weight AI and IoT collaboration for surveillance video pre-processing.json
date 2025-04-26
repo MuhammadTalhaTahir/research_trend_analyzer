@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762120301922",
+    "title": "Light-weight AI and IoT collaboration for surveillance video pre-processing",
+    "abstract": "As one of the  internet of things  (IoT) use cases, wireless surveillance systems are rapidly gaining popularity due to their easier deployability and improved performance. Videos captured by surveillance cameras are required to be uploaded for further storage and analysis, while the large amount of its raw data brings great challenges to the transmission through resource-constraint wireless networks. Observing that most collected consecutive frames are redundant with few objects of interest (OoIs), the filtering of these frames before uploading can dramatically relieve the transmission pressure. Additionally, real-world monitoring environment may bring shielding or blind areas in videos, which notoriously affects the accuracy on frame filtering. The collaboration between neighbouring cameras can compensate for such accuracy loss. Under the computational constraint of edge cameras, we present an efficient video pre-processing strategy for wireless surveillance systems using light-weight  AI  and IoT collaboration. Two main modules are designed for either fixed or rotated cameras: (i) frame filtering module by dynamic  background modelling  and light-weight  deep learning  analysis; and (ii) collaborative  validation module  for error compensation among neighbouring cameras. Evaluations based on real-collected videos show the efficiency of this strategy. It achieves 64.4% bandwidth saving for the static scenario and 61.1% for the dynamic scenario, compared with the raw video transmission. Remarkably, the relatively high balance ratio between frame filtering accuracy and latency overhead outperforms than state-of-the-art light-weight AI structures and other  surveillance video   processing methods , implying the feasibility of this strategy.",
+    "citation_count": "25",
+    "year": "2021/03/01",
+    "authors": [
+        {
+            "name": "Yutong Liu",
+            "country": ""
+        },
+        {
+            "name": "Linghe Kong",
+            "country": ""
+        },
+        {
+            "name": "Guihai Chen",
+            "country": ""
+        },
+        {
+            "name": "Fangqin Xu",
+            "country": ""
+        },
+        {
+            "name": "Zhanquan Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

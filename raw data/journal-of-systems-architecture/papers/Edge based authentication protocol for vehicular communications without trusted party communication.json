@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121001673",
+    "title": "Edge based authentication protocol for vehicular communications without trusted party communication",
+    "abstract": "Vehicular networking allows vehicles with sensing capabilities to carry out communication from vehicle to vehicle or with accessible  roadside  units. To attain effective communication in vehicular networking, we have proposed a hybrid technological solution in terms of vehicular edge computing (VEC) utilizing resources, cloud and edge server environment. The proposed architecture supports a frequent communication between a vehicle and a legitimate edge server without any trusted party communication. Both security and privacy are two key challenges in edge based vehicular communications due to the adoption of a real-time environment that is required to respond to hundreds of moving vehicles. This paper presents an edge computing-based framework for vehicular communication to ensure security, message integrity, and privacy. The presented framework attains all security attributes in the presence of active as well as passive adversaries. The formal security proof ensures its correctness and robustness. The analysis indicates that it is secure and efficient, being based on new edge computing framework as compared to general cloud computing framework.",
+    "citation_count": "12",
+    "year": "2021/10/01",
+    "authors": [
+        {
+            "name": "Dharminder Dharminder",
+            "country": ""
+        },
+        {
+            "name": "Uddeshaya Kumar",
+            "country": ""
+        },
+        {
+            "name": "Pratik Gupta",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762120301570",
+    "title": "Video action recognition with visual privacy protection based on compressed sensing",
+    "abstract": "Action recognition in video involves interpreting complex semantic information, which remains a challenge in  computer vision . Research on the use of  deep neural networks  for  video action recognition  has made significant progress in recent years, but most available recognition frameworks cannot satisfactorily perform the video action recognition task in privacy scene. In light of this issue, this paper proposes a method for video action recognition that employs a compressed sensing-based visual privacy protection framework. The proposed method protects visual privacy by balancing operational efficiency with the accuracy of recognition. It consists of three steps. First,  compressed sensing  is used to realize visual privacy protection and significantly enhance efficiency at the same time. Second, the convolutional 3D network model is used due to its speed to represent features of video actions in the  compressed sensing  data, and PCA is used to reduce the dimensionality of the extracted feature vectors to reduce temporal complexity. Finally, a sparse representation-based  classification algorithm  is integrated into the  AdaBoost  architecture to improve the recognition performance of the proposed method. Experiments were performed on three commonly used video action datasets to verify the proposed method, and the results show that it is robust in video action recognition tasks, and adequately protects visual privacy.",
+    "citation_count": "12",
+    "year": "2021/02/01",
+    "authors": [
+        {
+            "name": "Jixin Liu",
+            "country": ""
+        },
+        {
+            "name": "Ruxue Zhang",
+            "country": ""
+        },
+        {
+            "name": "Guang Han",
+            "country": ""
+        },
+        {
+            "name": "Ning Sun",
+            "country": ""
+        },
+        {
+            "name": "Sam Kwong",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

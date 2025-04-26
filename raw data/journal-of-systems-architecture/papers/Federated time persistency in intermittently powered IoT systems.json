@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001795",
+    "title": "Federated time persistency in intermittently powered IoT systems",
+    "abstract": "The concept of intermittent computing has been recently proposed, which aims to remove batteries by adding small capacitors or directly powering computing systems from the energy harvesting source, retaining computation despite the intermittent nature of the supply. However, certain trivial functions of typical IoT platforms such as performing long-running computation and wireless transmission, or keeping track of time, pose a real challenge in a system with a small amount or total absence of energy storage. This paper proposes a novel framework for time persistency with diverse granularity, based on an  hourglass  strategy, which includes two small capacitors whose discharge rate is used to calculate the elapsed time from one power cycle to another. The proposed framework was implemented and tested in a real-life IoT system which is used to monitor the temperature of a motorised machine. The experimental results demonstrated an improvement of at least 73.4% in error rate of time measurements, and a minimum reduction of 48.3% in energy consumption against state-of-the-art approaches.",
+    "citation_count": "0",
+    "year": "2022/09/01",
+    "authors": [
+        {
+            "name": "Alberto Rodriguez Arreola",
+            "country": ""
+        },
+        {
+            "name": "Theodoros D. Verykios",
+            "country": ""
+        },
+        {
+            "name": "Marco A. Gurrola Navarro",
+            "country": ""
+        },
+        {
+            "name": "Carlos F. Calvillo Cortes",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

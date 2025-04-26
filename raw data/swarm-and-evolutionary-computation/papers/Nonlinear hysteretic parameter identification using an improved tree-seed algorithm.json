@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217309379",
+    "title": "Nonlinear hysteretic parameter identification using an improved tree-seed algorithm",
+    "abstract": "The tree-seed algorithm (TSA) is a new type of heuristic algorithms based on the simulation of trees propagation. It has been applied to solve continuous optimization problems effectively and efficiently. This paper proposes an improved TSA, termed as I-TSA, to solve the nonlinear hysteretic parameter identification problem with three typical hysteretic models, namely Bouc-Wen model, bilinear model with  kinematic hardening  and bilinear model with equal yielding force. In order to enhance the capability of the proposed approach to search for the best optimization results, the Lévy search mechanism and a new updating equation are introduced to improve the original TSA. Numerical studies on several mathematical benchmark test functions, a single degree-of-freedom system and a multi degree-of-freedom system are conducted to investigate the accuracy and performance of the proposed approach. The identification results are compared with those obtained from several existing widely used heuristic algorithms and the enhanced sensitivity method to demonstrate the improvement and superiority of the proposed approach.",
+    "citation_count": "35",
+    "year": "2019/05/01",
+    "authors": [
+        {
+            "name": "Zhenghao Ding",
+            "country": ""
+        },
+        {
+            "name": "Jun Li",
+            "country": ""
+        },
+        {
+            "name": "Hong Hao",
+            "country": ""
+        },
+        {
+            "name": "Zhong-Rong Lu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

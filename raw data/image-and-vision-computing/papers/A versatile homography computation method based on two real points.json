@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885617300884",
+    "title": "A versatile homography computation method based on two real points",
+    "abstract": "In this paper, we present a novel 2D  homography  computation method based on two real points. The homography is thus decomposed into three parts. The two real points and their images can be utilized to compute the first and the last parts respectively, while other primitives (could be point(s), line(s) and conic) can be utilized to compute the middle part which is a hyperbolic similarity transformation. We introduce the proposed method in a 2D pattern with a conic and a coplanar line, and apply the method in various other geometric patterns. Subsequently, many plane-based vision tasks, such as camera calibration, pose estimation and metric  rectification  can be solved in a unified way as  polynomial systems . The experiments with simulated and real data verify the correctness and the versatility of our algorithm.",
+    "citation_count": "1",
+    "year": "2017/08/01",
+    "authors": [
+        {
+            "name": "Juan Guo",
+            "country": ""
+        },
+        {
+            "name": "Shen Cai",
+            "country": ""
+        },
+        {
+            "name": "Zhanhao Wu",
+            "country": ""
+        },
+        {
+            "name": "Yuncai Liu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

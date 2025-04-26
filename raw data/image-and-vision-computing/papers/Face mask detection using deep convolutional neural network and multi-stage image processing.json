@@ -1,0 +1,42 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623000318",
+    "title": "Face mask detection using deep convolutional neural network and multi-stage image processing",
+    "abstract": "Face mask detection has several applications including real-time surveillance, biometrics, etc. Face mask detection is also useful for surveillance of the public to ensure face mask wearing in public places. Ensuring that people are wearing a face mask is not possible with monitoring staff; instead, automatic systems are a much better choice for face mask detection and monitoring to help manage public behaviour and contribute to restricting the outbreak of COVID-19. Despite the availability of several such systems, the lack of a real image dataset is a big hurdle to validating state-of-the-art face mask detection systems. In addition, using the simulated datasets lack the analysis needed for real-world scenarios. This study builds a new dataset namely RILFD by taking real pictures using a camera and annotating them with two labels (with mask, without mask) which are publicly available for future research. In addition, this study investigates various machine learning models and off-the-shelf deep learning models YOLOv3 and Faster R-CNN for the detection of face masks. The customized  CNN  models in combination with the 4 steps of  image processing  are proposed for face mask detection. The proposed approach outperforms other models and proved its robustness with a 97.5% of accuracy score in face mask detection on the RILFD dataset and two publicly available datasets (MAFA and MOXA).",
+    "citation_count": "21",
+    "year": "2023/05/01",
+    "authors": [
+        {
+            "name": "Muhammad Umer",
+            "country": ""
+        },
+        {
+            "name": "Saima Sadiq",
+            "country": ""
+        },
+        {
+            "name": "Reemah M. Alhebshi",
+            "country": ""
+        },
+        {
+            "name": "Shtwai Alsubai",
+            "country": ""
+        },
+        {
+            "name": "Abdullah Al Hejaili",
+            "country": ""
+        },
+        {
+            "name": "Ala’ Abdulmajid Eshmawi",
+            "country": ""
+        },
+        {
+            "name": "Michele Nappi",
+            "country": ""
+        },
+        {
+            "name": "Imran Ashraf",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

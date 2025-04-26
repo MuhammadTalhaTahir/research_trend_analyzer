@@ -1,0 +1,38 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650225000252",
+    "title": "A spiking neural network based proximal policy optimization method for multi-point imaging mission scheduling of earth observation satellite",
+    "abstract": "Owing to the escalating demand for earth observation, a solitary satellite will be required to undertake an expanded array of missions, thereby rendering the scheduling of multipoint earth observation satellite imaging missions increasingly intricate. Herein, we propose a proximal policy optimization (PPO) algorithm based on a spiking neural network (SNN) to solve the multipoint satellite mission scheduling problem. Initially, we preprocess the mission–transition time by incorporating satellite attitude constraints and conceptualize the mission planning process as a Markov decision. Then, our methodology integrates SNN with PPO to effectively handle a high-dimensional state space by leveraging temporal information–processing capabilities. The SNN-based actor-critic network is trained to enhance the scheduling policy via PPO. Our method exhibits superior performance across various satellite orbits, satellite attitude maneuver speeds, and mission scales. In comparison with heuristic methods and traditional reinforcement learning techniques, our method shows a swifter convergence rate and an increased success rate of observation, coupled with superior convergence speed, robustness, and stability.",
+    "citation_count": "0",
+    "year": "2025/04/01",
+    "authors": [
+        {
+            "name": "Wei Yao",
+            "country": ""
+        },
+        {
+            "name": "Xin Shen",
+            "country": ""
+        },
+        {
+            "name": "Guo Zhang",
+            "country": ""
+        },
+        {
+            "name": "Zezhong Lu",
+            "country": ""
+        },
+        {
+            "name": "Jiaying Wang",
+            "country": ""
+        },
+        {
+            "name": "Yanjie Song",
+            "country": ""
+        },
+        {
+            "name": "Zhiwei Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

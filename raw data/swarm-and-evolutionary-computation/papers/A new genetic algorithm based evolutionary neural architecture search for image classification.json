@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650222001547",
+    "title": "A new genetic algorithm based evolutionary neural architecture search for image classification",
+    "abstract": "Deep Learning  (DL) has achieved the great breakthrough in  image classification . As DL structure is problem-dependent and it has the crucial impact on its performance, it is still necessary to re-design the structures of DL according to the actual needs, even there exists various benchmark DL structures.  Neural Architecture Search  (NAS) which can design the DL network automatically has been widely investigated. However, many NAS methods suffer from the huge  computation time . To overcome this drawback, this research proposed a new Evolutionary Neural Architecture Search with RepVGG nodes (EvoNAS-Rep). Firstly, a new encoding strategy is developed, which can map the fixed-length encoding individual to DL structure with variable depth using RepVGG nodes. Secondly,  Genetic Algorithm  (GA) is adopted for searching the optimal individual and its corresponding  DL model . Thirdly, the iterative training process is designed to train the DL model and to evolve the GA simultaneously. The proposed EvoNAS-Rep is validated on the famous CIFAR 10 and CIFAR 100. The results show that EvoNAS-Rep has obtained 96.35% and 79.82% with only near 0.2  GPU  days, which is both effectiveness and efficiency. EvoNAS-Rep is also validated on two real-world applications, including the NEU-CLS and the Chest XRay 2017 datasets, and the results show that EvoNAS-Rep has achieved the competitive results.",
+    "citation_count": "22",
+    "year": "2022/12/01",
+    "authors": [
+        {
+            "name": "Long Wen",
+            "country": ""
+        },
+        {
+            "name": "Liang Gao",
+            "country": ""
+        },
+        {
+            "name": "Xinyu Li",
+            "country": ""
+        },
+        {
+            "name": "Hui Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

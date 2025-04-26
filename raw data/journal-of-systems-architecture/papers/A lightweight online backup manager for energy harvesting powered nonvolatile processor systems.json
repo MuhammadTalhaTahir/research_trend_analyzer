@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762120301703",
+    "title": "A lightweight online backup manager for energy harvesting powered nonvolatile processor systems",
+    "abstract": "With the explosive growth of battery-free and energy-harvesting devices, the  energy harvesting  powered system has gained more attentions and been widely used in different fields. However, unstable harvested energy is a challenge of energy-harvesting devices since the program execution would be interrupted frequently. Non-volatile processor (NVP) is proposed to back up volatile logics before energy depletion and recover the system status after energy  resumption . This paper takes the challenge of forward progress improvement issue in NVP system and proposes a lightweight online backup strategy which tries to aggressively use energy in capacitor after receiving energy warnings. We also build a flexible and accurate simulation tool for NVP system evaluation. The experimental results show an average of 24.2% and 13.7% improved forward progress compared with instant backup method and the most related work, respectively.",
+    "citation_count": "5",
+    "year": "2021/02/01",
+    "authors": [
+        {
+            "name": "Weinning Song",
+            "country": ""
+        },
+        {
+            "name": "Xiaojun Cai",
+            "country": ""
+        },
+        {
+            "name": "Mengying Zhao",
+            "country": ""
+        },
+        {
+            "name": "Zhaoyan Shen",
+            "country": ""
+        },
+        {
+            "name": "Zhiping Jia",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

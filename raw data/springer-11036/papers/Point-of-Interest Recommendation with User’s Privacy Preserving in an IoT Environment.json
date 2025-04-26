@@ -1,0 +1,35 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-021-01784-8",
+    "title": "Point-of-Interest Recommendation with User’s Privacy Preserving in an IoT Environment",
+    "abstract": "With the popularization of smart devices and the rapid development of Internet of Things (IoT), location-based social networks (LBSNs) are growing rapidly. As a crucial personalized location service of LBSNs, point-of-interest (POI) recommendation has become a research hotspot. However, due to the use of personal information, POI recommendation system brings serious risks of privacy disclosure. Existing studies mainly focused on improving recommendation performance while ignoring privacy issues. To cope with the challenges, we propose a POI recommendation framework with users’ privacy preserving in an IoT environment based on local differential privacy (LDP). We first design an LDP-friendly POI recommendation method based on improved Hawkes process (HawkesRec) to integrate users’ long-term static and time-varying preferences. Then we put forward a privacy preserving recommendation framework based on HawkesRec and local differential privacy to protect the visited POIs and recommendation results of users. Experimental results over three real-world datasets demonstrate that the proposed solution achieves better performance than other baselines and has a good capability of privacy preserving.",
+    "citation_count": 49,
+    "year": "2021/12",
+    "authors": [
+        {
+            "name": "Zhang, Guoming",
+            "country": "China"
+        },
+        {
+            "name": "Qi, Lianyong",
+            "country": "China"
+        },
+        {
+            "name": "Zhang, Xuyun",
+            "country": "Australia"
+        },
+        {
+            "name": "Xu, Xiaolong",
+            "country": "China"
+        },
+        {
+            "name": "Dou, Wanchun",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

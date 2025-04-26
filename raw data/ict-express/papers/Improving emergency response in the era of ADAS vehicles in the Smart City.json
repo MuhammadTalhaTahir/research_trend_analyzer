@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959521000382",
+    "title": "Improving emergency response in the era of ADAS vehicles in the Smart City",
+    "abstract": "Management of emergency vehicles can be fostered within a Smart City, i.e. an urban environment in which many IoT devices are orchestrated by a distributed intelligence able to suggest to road users the best course of action in different traffic situations. By extending MATSim (Multi-Agent Transport Simulation Software), we design and test appropriate mitigation strategies when traffic accidents occur within an existing urban area augmented with V2V (Vehicle-to-Vehicle), V2I (Vehicle-to-Infrastructure) capabilities and Advanced Driving Assisted cars (ADAS). Further, we propose traffic congestion models and related mechanisms for improving the necessary time for emergency vehicles to respond to accidents.",
+    "citation_count": "0",
+    "year": "2021/12/01",
+    "authors": [
+        {
+            "name": "Nicola Capodieci",
+            "country": ""
+        },
+        {
+            "name": "Roberto Cavicchioli",
+            "country": ""
+        },
+        {
+            "name": "Filippo Muzzini",
+            "country": ""
+        },
+        {
+            "name": "Leonard Montagna",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

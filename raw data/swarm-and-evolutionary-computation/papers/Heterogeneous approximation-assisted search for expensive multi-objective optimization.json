@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650225000847",
+    "title": "Heterogeneous approximation-assisted search for expensive multi-objective optimization",
+    "abstract": "The cheap surrogate model is commonly used to guide the multi-objective optimization algorithm in the search for the optimum of the expensive optimization problem. However, modeling diversity and its quality are the keys that affect the performance of approximating the original problem. Using multiple heterogeneous models can provide more diverse approximations for complicated optimization problems. Meanwhile, the location relationship between individuals and training samples is a potential benefit for selecting infill individuals to update the model. Therefore, this paper proposes to train two heterogeneous models for each expensive objection function, with the update of the models using the promising individuals based on the approximated domination relationship and the crowding distance between individuals and evaluated samples. Differently, the function estimation of each individual is the sum of two predicted values in a probability-weighted way together with its uncertainty. In addition, the promising individuals are selected by the dominant numbers or the distance to the decision domain center and the crowding distance to the neighbors, otherwise adopting the difference in convergence and crowding distance between all candidates and the training samples to select the individual for expensive function evaluations if the training set dominates all offspring individuals. Experimental studies analyze the effectiveness of the heterogeneous approximation-based guiding search and examine the superiority of the proposed algorithm compared to five recent epidemic optimization algorithms for DTLZ, WFG benchmark problems, and a practical application.",
+    "citation_count": "0",
+    "year": "2025/06/01",
+    "authors": [
+        {
+            "name": "Shufen Qin",
+            "country": ""
+        },
+        {
+            "name": "Chaoli Sun",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

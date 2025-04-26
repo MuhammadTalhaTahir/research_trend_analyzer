@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-021-00999-5",
+    "title": "Testing the randomness of shares in color visual cryptography",
+    "abstract": "The concept of black-and-white visual cryptography with two truly random shares, previously applied to color images, was improved by mixing the contents of the segments of each coding image and by randomly changing a specified number of black pixels into color ones. This was done in such a way that the changes of the contents of the decoded image were as small as possible. These modifications made the numbers of color pixels in the shares close to balanced, which potentially made it possible for the shares to be truly random. The true randomness was understood as that the data pass the suitably designed randomness tests. The randomness of the shares was tested with the NIST randomness tests. Part of the tests passed successfully, while some failed. The target of coding a color image in truly random shares was approached, but not yet reached. In visual cryptography, the decoding with the unarmed human eye is of primary importance, but besides this, simple numerical processing of the decoded image makes it possible to greatly improve the quality of the reconstructed image, so that it becomes close to that of the dithered original image.",
+    "citation_count": 28,
+    "year": "2021/11",
+    "authors": [
+        {
+            "name": "Chmielewski, Leszek J.",
+            "country": "Poland"
+        },
+        {
+            "name": "Nieniewski, Mariusz",
+            "country": "Poland"
+        },
+        {
+            "name": "Orłowski, Arkadiusz",
+            "country": "Poland"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

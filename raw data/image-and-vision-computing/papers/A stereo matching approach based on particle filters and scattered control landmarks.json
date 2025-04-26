@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885615000347",
+    "title": "A stereo matching approach based on particle filters and scattered control landmarks",
+    "abstract": "In robot localization, particle filtering can estimate the position of a robot in a known environment with the help of sensor data. In this paper, we present an approach based on particle filtering, for accurate  stereo matching . The proposed method consists of three parts. First, we utilize multiple  disparity maps  in order to acquire a very distinctive set of features called landmarks, and then we use segmentation as a grouping technique. Secondly, we apply scan line particle filtering using the corresponding landmarks as a virtual sensor data to estimate the best  disparity value . Lastly, we reduce the computational redundancy of particle filtering in our  stereo correspondence  with a  Markov chain  model, given the previous scan line values. More precisely, we assist particle filtering convergence by adding a proportional weight in the predicted disparity value estimated by  Markov chains . In addition to this, we optimize our results by applying a plane fitting algorithm along with a histogram technique to refine any outliers. This work provides new insights into  stereo matching  methodologies by taking advantage of global geometrical and spatial information from distinctive landmarks. Experimental results show that our approach is capable of providing high-quality disparity maps comparable to other well-known contemporary techniques.",
+    "citation_count": "24",
+    "year": "2015/06/01",
+    "authors": [
+        {
+            "name": "Stylianos Ploumpis",
+            "country": ""
+        },
+        {
+            "name": "Angelos Amanatiadis",
+            "country": ""
+        },
+        {
+            "name": "Antonios Gasteratos",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

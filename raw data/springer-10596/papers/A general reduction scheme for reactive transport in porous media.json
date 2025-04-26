@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-012-9304-4",
+    "title": "A general reduction scheme for reactive transport in porous media",
+    "abstract": "We present a method to transform the governing equations of multispecies reactive transport in porous media. The reformulation leads to a smaller problem size by decoupling of equations and by elimination of unknowns, which increases the efficiency of numerical simulations. The reformulation presented here is a generalization of earlier works. In fact, a whole class of transformations is now presented. This class is parametrized by the choice of certain transformation matrices. For specific choices, some known formulations of reactive transport can be retrieved. Hence, the software based on the presented transformation can be used to obtain efficiency comparisons of different solution approaches. For our efficiency tests, we use the MoMaS benchmark problem on reactive transport.",
+    "citation_count": 23,
+    "year": "2012/09",
+    "authors": [
+        {
+            "name": "Hoffmann, Joachim",
+            "country": "Germany"
+        },
+        {
+            "name": "Kräutle, Serge",
+            "country": "Germany"
+        },
+        {
+            "name": "Knabner, Peter",
+            "country": "Germany"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

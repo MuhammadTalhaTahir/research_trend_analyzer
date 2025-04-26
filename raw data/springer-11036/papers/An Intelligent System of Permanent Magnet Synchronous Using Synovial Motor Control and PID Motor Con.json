@@ -1,0 +1,19 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-023-02178-8",
+    "title": "An Intelligent System of Permanent Magnet Synchronous Using Synovial Motor Control and PID Motor Control for EoT Computing: a Comparative Simulation Study",
+    "abstract": "Developing intelligent control models for permanent magnet synchronous motors (PMSM) is crucial from both a theoretical and practical standpoint due to the growing use of these motors in industrial production, agriculture, and edge computing applications. The standard proportional integral derivative (PID) control is inadequate for Edge of Things (EoT) applications with high requirements and demands when operating a PMSM because of its poor anti-disturbance capacity. To increase the robustness of a PMSM, this study proposes a controller that integrates the existing synovial control method with our newly introduced sliding mode control-based fuzzy control theory. Furthermore, we compare the performance of synovial and fuzzy sliding mode control with the conventional PID control system for the PMSM control system. To evaluate the control strategies proposed in this study in terms of different performance measures such as robustness, dynamic steady-state control, and stability, we performed multiple experiments. The experimental results illustrate that intelligent control strategies have better resilience and performance as compared to the PID control method, making them more suitable for edge computing applications. Further, this study also provides insight into the potential of intelligent control algorithms for improving the performance of PMSM in an EoT computing context.",
+    "citation_count": 27,
+    "year": "2023/12",
+    "authors": [
+        {
+            "name": "Wang, Qi",
+            "country": "UK"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

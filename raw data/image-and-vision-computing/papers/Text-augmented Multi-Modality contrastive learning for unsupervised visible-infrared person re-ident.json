@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624004153",
+    "title": "Text-augmented Multi-Modality contrastive learning for unsupervised visible-infrared person re-identification",
+    "abstract": "Visible-infrared person re-identification holds significant implications for intelligent security. Unsupervised methods can reduce the gap of different modalities without labels. Most previous unsupervised methods only train their models with image information, so that the model cannot obtain powerful deep semantic information. In this paper, we leverage CLIP to extract deep text information. We propose a Text–Image Alignment (TIA) module to align the image and text information and effectively bridge the gap between visible and infrared modality. We produce a Local–Global Image Match (LGIM) module to find homogeneous information. Specifically, we employ the Hungarian algorithm and Simulated Annealing (SA) algorithm to attain original information from image features while mitigating the interference of heterogeneous information. Additionally, we design a Changeable Cross-modality Alignment Loss (CCAL) to enable the model to learn modality-specific features during different training stages. Our method performs well and attains powerful robustness by targeted learning. Extensive experiments demonstrate the effectiveness of our approach, our method achieves a rank-1 accuracy that exceeds state-of-the-art approaches by approximately 10% on the RegDB.",
+    "citation_count": "1",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Rui Sun",
+            "country": ""
+        },
+        {
+            "name": "Guoxi Huang",
+            "country": ""
+        },
+        {
+            "name": "Xuebin Wang",
+            "country": ""
+        },
+        {
+            "name": "Yun Du",
+            "country": ""
+        },
+        {
+            "name": "Xudong Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

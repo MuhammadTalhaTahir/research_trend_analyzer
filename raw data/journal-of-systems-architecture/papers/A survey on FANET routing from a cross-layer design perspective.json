@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121001934",
+    "title": "A survey on FANET routing from a cross-layer design perspective",
+    "abstract": "With the introduction of  UAVs  to networking, ad hoc communications have evolved past confinement to the terrestrial grid and have moved towards aerial meshes. Until now, Flying Ad-hoc Networks (FANETs) have been relying on strictly layered communication protocols for their function and routing, a tradition set by conventional networks. With layers of said protocols functioning as ”black boxes”, any form of interaction between non-adjacent layers constitutes a direct violation of the protocols’ architecture. The work presented in this survey intends to examine existing protocols of both legacy and cross-layer architectures in terms of their potential in accommodating routing in FANET deployments.  Special attention  is given to multi-altitude (3D) deployments, where a substantially greater amount of processing and packet route complexity is observed, and a greater amount of node location precision is required. The potential of cross-layer designs is expressed as a function of power budgeting, mobility (and awareness thereof), security, and  resource allocation , given their importance for efficient control of flying ad hoc networks.",
+    "citation_count": "29",
+    "year": "2021/11/01",
+    "authors": [
+        {
+            "name": "Georgios Amponis",
+            "country": ""
+        },
+        {
+            "name": "Thomas Lagkas",
+            "country": ""
+        },
+        {
+            "name": "Panagiotis Sarigiannidis",
+            "country": ""
+        },
+        {
+            "name": "Vasileios Vitsas",
+            "country": ""
+        },
+        {
+            "name": "Panagiotis Fouliras",
+            "country": ""
+        },
+        {
+            "name": "Shaohua Wan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

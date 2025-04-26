@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-011-9396-0",
+    "title": "Solving the minimum M-dominating set problem by a continuous optimization approach based on DC programming and DCA",
+    "abstract": "We propose a new optimization approach based on DC (Difference of Convex functions) programming and DCA (DC Algorithm) to the so-called Minimum M-Dominating Set problem in graphs. This problem is beforehand re-casted as a polyhedral DC program with the help of exact penalty in DC programming. The related DCA is original and computer efficient because it consists of solving a few linear programs and converges after a finite number of iterations to an integer solution while working in a continuous domain. Numerical simulations show the efficiency and robustness of DCA and its superiority with respect to standard methods.",
+    "citation_count": 26,
+    "year": "2012/11",
+    "authors": [
+        {
+            "name": "Schleich, Julien",
+            "country": "Luxembourg"
+        },
+        {
+            "name": "Le Thi, Hoai An",
+            "country": "France"
+        },
+        {
+            "name": "Bouvry, Pascal",
+            "country": "Luxembourg"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

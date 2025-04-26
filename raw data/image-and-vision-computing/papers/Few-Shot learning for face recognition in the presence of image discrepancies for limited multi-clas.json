@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S026288562200049X",
+    "title": "Few-Shot learning for face recognition in the presence of image discrepancies for limited multi-class datasets",
+    "abstract": "One of the primary limitations of  deep learning  is data-hungry techniques. Deep  learning approaches  do not typically generalize well for limited datasets with fewer samples. Drawing the inspiration from the way  human beings  are capable of detecting a  face  from very few images seen in past (experience), Few-Shot Learning methods are reported in the literature. The problem is more challenging for  face recognition  tasks for limited dataset where the  facial images  are captured in various unfavorable conditions (i.e. discrepancies). To that end, in this work, we propose the Siamese Network-based Few-Shot Learning method for multi-class face recognition from a training dataset consisting of only a handful of images per class. We consider three such face image discrepancies namely, low light, head rotation and occlusion. Our work offers novelty primarily in the way the image discrepancies are overcome via Few-Shot learning while recognizing the face with reasonable accuracy. The results are obtained on our manually collected primary dataset (SCAAI_FSL) for multiple classes. Our approach presents a unique solution for face recognition tasks where the images in the training and  testing dataset  have different discrepancies which is the typical real-world scenario. We have experimented with various face embeddings models and demonstrated our approach for simultaneously handling multiple image discrepancies for SCAAI_FSL dataset and reported the testing accuracy of 72.72%.",
+    "citation_count": "27",
+    "year": "2022/04/01",
+    "authors": [
+        {
+            "name": "Ashwamegha Holkar",
+            "country": ""
+        },
+        {
+            "name": "Rahee Walambe",
+            "country": ""
+        },
+        {
+            "name": "Ketan Kotecha",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

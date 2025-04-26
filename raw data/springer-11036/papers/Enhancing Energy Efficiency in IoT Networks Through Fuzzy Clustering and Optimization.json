@@ -1,0 +1,31 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-023-02273-w",
+    "title": "Enhancing Energy Efficiency in IoT Networks Through Fuzzy Clustering and Optimization",
+    "abstract": "Wireless Sensor and Internet of Things (WSIoT) networks are characterized by nodes scattered throughout the environment, posing a significant challenge when it comes to battery replacement. The task of developing an algorithm that effectively reduces energy consumption in IoT networks through the utilization of artificial intelligence and fuzzy logic is a formidable one. Heuristic algorithms emerge as valuable tools in this context, capable of swiftly addressing non-deterministic polynomial problems or approximating optimal solutions with remarkable accuracy. Conversely, mathematical optimization approaches often falter due to their sluggishness or inefficiency, rendering them less suited for the dynamic demands of IoT networks. This study embarks on a novel approach, leveraging the synergy of fuzzy clustering to intricately connect sensors to the network and particle optimization to approximate the initial values of head clusters within the realm of WSIoT. A comprehensive evaluation of our proposed strategy is meticulously conducted through extensive simulations utilizing the NS2 simulator. In this evaluation, we distinguish our algorithm from existing methods, including IoTbWSN and REcsIoT. The results of this comparative analysis are illuminating. In contrast to other methodologies, our proposed approach demonstrates a notable 9.57% improvement in network throughput and a substantial 8.47% reduction in energy consumption. This signifies a remarkable leap forward in the quest to address the challenges posed by energy consumption and battery replacement within the complex landscape of IoT networks.",
+    "citation_count": 41,
+    "year": "2024/10",
+    "authors": [
+        {
+            "name": "Javadpour, Amir",
+            "country": "China"
+        },
+        {
+            "name": "Sangaiah, Arun Kumar",
+            "country": "Portugal"
+        },
+        {
+            "name": "Zaviyeh, Hadi",
+            "country": "Taiwan"
+        },
+        {
+            "name": "Ja’fari, Forough",
+            "country": "Lebanon"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

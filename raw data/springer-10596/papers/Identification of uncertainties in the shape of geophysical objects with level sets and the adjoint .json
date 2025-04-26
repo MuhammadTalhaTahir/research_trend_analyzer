@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-011-9242-6",
+    "title": "Identification of uncertainties in the shape of geophysical objects with level sets and the adjoint method",
+    "abstract": "A shape reconstruction method for geophysical objects by temperature measurements is presented which uses adjoint equations and a level set function approach. Temperature is measured on subdomains, e.g., representing boreholes. This information is used to reconstruct the shape of the geophysical layers. For this purpose, shape optimization techniques are applied. The method uses a representation of the layers by a so-called level set function. The evolution of this level set function is then used to determine the optimal shape. The “speed” of the evolution is computed using adjoint equations. Synthetic examples demonstrate the use of the inverse method and its behavior in different configurations.",
+    "citation_count": 61,
+    "year": "2011/09",
+    "authors": [
+        {
+            "name": "Papadopoulos, Dimitris",
+            "country": "Germany"
+        },
+        {
+            "name": "Herty, Michael",
+            "country": "Germany"
+        },
+        {
+            "name": "Rath, Volker",
+            "country": "Spain"
+        },
+        {
+            "name": "Behr, Marek",
+            "country": "Germany"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

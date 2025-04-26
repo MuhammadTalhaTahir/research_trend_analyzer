@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-018-0265-y",
+    "title": "Greedy Nim $$_\\mathrm{{k}}$$ Game",
+    "abstract": "This paper introduces a new variant of Nim game, the Greedy Nim $$_\\mathrm{{k}}$$ Game. We present a complete solution for this game.",
+    "citation_count": 12,
+    "year": "2018/05",
+    "authors": [
+        {
+            "name": "Lv, Xinzhong",
+            "country": "China"
+        },
+        {
+            "name": "Xu, Rongxing",
+            "country": "China"
+        },
+        {
+            "name": "Zhu, Xuding",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

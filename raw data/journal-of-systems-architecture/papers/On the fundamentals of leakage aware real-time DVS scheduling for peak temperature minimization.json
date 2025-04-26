@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762112000720",
+    "title": "On the fundamentals of leakage aware real-time DVS scheduling for peak temperature minimization",
+    "abstract": "As the consequence of the exponentially increased power density on integrated circuits, thermal issues are becoming critical in design of computing systems. Moreover, as both leakage and thermal issues have become more prominent in the deep sub-micron domain, a power and thermal aware design technique becomes less effective if the leakage/temperature dependency is not appropriately addressed. In this paper, we take into account the dependency among the leakage, the temperature, and the  supply voltage  in our theoretical analysis and explore the fundamental characteristics on how to employ  dynamic voltage scaling  (DVS) to reduce the peak operating temperature. We find that, for a specific interval, a real-time schedule using the lowest constant speed is not necessarily the optimal choice any more in minimizing the peak temperature. We identify the scenarios when a schedule using two different speeds can outperform the one using the lowest constant speed. In addition, we find that, when scheduling a periodic task set, the constant speed schedule is still the optimal solution for minimizing the peak temperature when the temperature is at its  stable status . We formulate our conclusions into several theorems with formal proofs.",
+    "citation_count": "17",
+    "year": "2012/11/01",
+    "authors": [
+        {
+            "name": "Vivek Chaturvedi",
+            "country": ""
+        },
+        {
+            "name": "Huang Huang",
+            "country": ""
+        },
+        {
+            "name": "Shangping Ren",
+            "country": ""
+        },
+        {
+            "name": "Gang Quan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

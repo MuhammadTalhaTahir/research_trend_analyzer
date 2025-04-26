@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650222001146",
+    "title": "An approach for computationally expensive multi-objective optimization problems with independently evaluable objectives",
+    "abstract": "Multi-objective  optimization problems  involve simultaneous optimization of two or more objectives in conflict. For example, in  automotive design , one might be interested in simultaneously minimizing the  aerodynamic drag  and maximizing the torsional rigidity/collision  strength  of the vehicle. For a number of problems encountered in engineering design, the objectives can be  independently  evaluated and such evaluations are often computationally expensive. While surrogate-assisted optimization (SAO) methods are typically used to deal with such problems, they evaluate all objectives for the chosen infill solution(s). If however the objectives can be independently evaluated, there is an opportunity to improve the computational efficiency by evaluating the selected objective(s) only. In this study, we introduce a SAO approach capable of selectively evaluating the objective(s) of the infill solution(s). The approach exploits principles of non-dominance and sparse  subset selection  to facilitate decomposition and identifies the infill solutions through maximization of probabilistic dominance measure. Thereafter, for each of these infill solutions, one or more objectives are evaluated, taking into account the evaluation status of its closest neighbor and the  probability  of improvement along each objective. The performance of the approach is benchmarked against state-of-the-art methods on a range of  mathematical problems  to highlight the efficacy of the approach. Thereafter, we present the performance on two  engineering design problems  namely a vehicle crashworthiness design problem and an  airfoil  design problem. We hope that this study would motivate further algorithmic developments to cater to such classes of problems.",
+    "citation_count": "9",
+    "year": "2022/12/01",
+    "authors": [
+        {
+            "name": "Mohammad Mohiuddin Mamun",
+            "country": ""
+        },
+        {
+            "name": "Hemant Kumar Singh",
+            "country": ""
+        },
+        {
+            "name": "Tapabrata Ray",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

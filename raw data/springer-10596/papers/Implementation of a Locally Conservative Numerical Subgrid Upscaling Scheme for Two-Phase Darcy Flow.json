@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1021295215383",
+    "title": "Implementation of a Locally Conservative Numerical Subgrid Upscaling Scheme for Two-Phase Darcy Flow",
+    "abstract": "We present a locally mass conservative scheme for the approximation of two-phase flow in a porous medium that allows us to obtain detailed fine scale solutions on relatively coarse meshes. The permeability is assumed to be resolvable on a fine numerical grid, but limits on computational power require that computations be performed on a coarse grid. We define a two-scale mixed finite element space and resulting method, and describe in detail the solution algorithm. It involves a coarse scale operator coupled to a subgrid scale operator localized in space to each coarse grid element. An influence function (numerical Greens function) technique allows us to solve these subgrid scale problems independently of the coarse grid approximation. The coarse grid problem is modified to take into account the subgrid scale solution and solved as a large linear system of equations posed over a coarse grid. Finally, the coarse scale solution is corrected on the subgrid scale, providing a fine grid representation of the solution. Numerical examples are presented, which show that near-well behavior and even extremely heterogeneous permeability barriers and streaks are upscaled well by the technique.",
+    "citation_count": 31,
+    "year": "2002/09",
+    "authors": [
+        {
+            "name": "Arbogast, Todd",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

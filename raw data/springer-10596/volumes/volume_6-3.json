@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Introduction Special Issue on Locally Conservative Numerical Methods for Flow in Porous Media",
+    "url": "https://link.springer.com/article/10.1023/A:1021267624044"
+  },
+  {
+    "title": "An ELLAM Approximation for Highly Compressible Multicomponent Flows in Porous Media",
+    "url": "https://link.springer.com/article/10.1023/A:1021262308114"
+  },
+  {
+    "title": "Nonconforming Finite Volume Methods",
+    "url": "https://link.springer.com/article/10.1023/A:1021214424953"
+  },
+  {
+    "title": "Coupling Locally Conservative Methods for Single Phase Flow",
+    "url": "https://link.springer.com/article/10.1023/A:1021266409023"
+  },
+  {
+    "title": "Shape Functions for Velocity Interpolation in General Hexahedral Cells",
+    "url": "https://link.springer.com/article/10.1023/A:1021218525861"
+  },
+  {
+    "title": "Enhanced Velocity Mixed Finite Element Methods for Flow in Multiblock Domains",
+    "url": "https://link.springer.com/article/10.1023/A:1021270509932"
+  },
+  {
+    "title": "Mimetic Finite Difference Methods for Diffusion Equations",
+    "url": "https://link.springer.com/article/10.1023/A:1021282912658"
+  },
+  {
+    "title": "A Finite-Volume Method with Hexahedral Multiblock Grids for Modeling Flow in Porous Media",
+    "url": "https://link.springer.com/article/10.1023/A:1021287013566"
+  },
+  {
+    "title": "Symmetry and M-Matrix Issues for the O-Method on an Unstructured Grid",
+    "url": "https://link.springer.com/article/10.1023/A:1021239130404"
+  },
+  {
+    "title": "An Introduction to Multipoint Flux Approximations for Quadrilateral Grids",
+    "url": "https://link.springer.com/article/10.1023/A:1021291114475"
+  },
+  {
+    "title": "Unstructured, Control-Volume Distributed, Full-Tensor Finite-Volume Schemes with Flow Based Grids",
+    "url": "https://link.springer.com/article/10.1023/A:1021243231313"
+  },
+  {
+    "title": "Implementation of a Locally Conservative Numerical Subgrid Upscaling Scheme for Two-Phase Darcy Flow",
+    "url": "https://link.springer.com/article/10.1023/A:1021295215383"
+  },
+  {
+    "title": "A Posteriori Error Estimates for Finite Volume Element Approximations of Convection–Diffusion–Reaction Equations",
+    "url": "https://link.springer.com/article/10.1023/A:1021247300362"
+  },
+  {
+    "title": "Approximation of the Velocity by Coupling Discontinuous Galerkin and Mixed Finite Element Methods for Flow Problems",
+    "url": "https://link.springer.com/article/10.1023/A:1021203618109"
+  },
+  {
+    "title": "A Comparison of Methods for Calculating the Matrix Block Source Term in a Double Porosity Model for Contaminant Transport",
+    "url": "https://link.springer.com/article/10.1023/A:1021259702179"
+  },
+  {
+    "title": "Integrated Two-Dimensional Modeling of Fluid Flow and Compaction in a Sedimentary Basin",
+    "url": "https://link.springer.com/article/10.1023/A:1021211803088"
+  },
+  {
+    "title": "Author Index",
+    "url": "https://link.springer.com/article/10.1023/A:1021294805358"
+  },
+  {
+    "title": "Keyword Index",
+    "url": "https://link.springer.com/article/10.1023/A:1021251322196"
+  },
+  {
+    "title": "Contents to Volume 6",
+    "url": "https://link.springer.com/article/10.1023/A:1021203406267"
+  },
+  {
+    "title": "Instructions for Authors",
+    "url": "https://link.springer.com/article/10.1023/A:1021255423105"
+  }
+]

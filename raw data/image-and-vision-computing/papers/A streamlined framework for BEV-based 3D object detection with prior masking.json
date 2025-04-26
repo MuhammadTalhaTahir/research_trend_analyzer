@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003342",
+    "title": "A streamlined framework for BEV-based 3D object detection with prior masking",
+    "abstract": "In the field of autonomous driving, perception tasks based on Bird's-Eye-View (BEV) have attracted considerable research attention due to their numerous benefits. Despite recent advancements in performance, efficiency remains a challenge for real-world implementation. In this study, we propose an efficient and effective framework that constructs a spatio-temporal BEV feature from multi-camera inputs and leverages it for 3D object detection. Specifically, the success of our network is primarily attributed to the design of the lifting strategy and a tailored BEV encoder. The lifting strategy is tasked with the conversion of 2D features into 3D representations. In the absence of depth information in the images, we innovatively introduce a prior mask for the BEV feature, which can assess the significance of the feature along the camera ray at a low cost. Moreover, we design a lightweight BEV encoder, which significantly boosts the capacity of this physical-interpretation representation. In the encoder, we investigate the spatial relationships of the BEV feature and retain rich residual information from upstream. To further enhance performance, we establish a 2D object detection auxiliary head to delve into insights offered by 2D object detection and leverage the 4D information to explore the cues within the sequence. Benefiting from all these designs, our network can capture abundant semantic information from 3D scenes and strikes a balanced trade-off between efficiency and performance.",
+    "citation_count": "0",
+    "year": "2024/10/01",
+    "authors": [
+        {
+            "name": "Qinglin Tong",
+            "country": ""
+        },
+        {
+            "name": "Junjie Zhang",
+            "country": ""
+        },
+        {
+            "name": "Chenggang Yan",
+            "country": ""
+        },
+        {
+            "name": "Dan Zeng",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

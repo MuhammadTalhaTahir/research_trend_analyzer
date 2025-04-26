@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-010-0185-7",
+    "title": "Robust hand image processing for biometric application",
+    "abstract": "A new approach for both hand image segmentation and feature extraction is described. The main advantage of this approach, namely its robustness to low quality images, is illustrated through verification experiments with two public databases: one with scanned images from 50 subjects and another one with low-quality images acquired from 23 subjects, from a conventional webcam. In both cases, features are successfully extracted and good performances are obtained, in spite of image quality. Moreover, the main drawbacks of feature extraction in conventional algorithms are highlighted.",
+    "citation_count": 18,
+    "year": "2010/11",
+    "authors": [
+        {
+            "name": "Montalvão, Jugurta",
+            "country": "Brazil"
+        },
+        {
+            "name": "Molina, Lucas",
+            "country": "Brazil"
+        },
+        {
+            "name": "Canuto, Jânio",
+            "country": "Brazil"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

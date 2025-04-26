@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650216301353",
+    "title": "PV cell and module efficient parameters estimation using Evaporation Rate based Water Cycle Algorithm",
+    "abstract": "In order to carry out precise performance investigations and control studies on  photovoltaic  (PV) systems, an accurate model is always desired. In this work, a new and powerful  metaheuristic optimization  technique known as  Evaporation Rate  based  Water Cycle  Algorithm (ER-WCA) has been explored for effective parameters estimation of PV cell/module. Single and double diode based models of  PV cell  and single diode based model of  PV module  have been successfully identified from their respective single I-V non-linear characteristics and the modeling performance of ER-WCA, assessed in terms of  root mean square error ,  mean absolute error  and mean  relative error , between computed and experimental data, is found to be superior to the several recent prominent published works particularly the modeling of a single diode based  PV module . Furthermore, the PV module modeling capability of ER-WCA under varying temperature and irradiation conditions is also analysed and it is found to be effective, proving its practical applications. Based on the presented detailed investigation, it is concluded that ER-WCA is a promising optimization technique for PV cell/module identification.",
+    "citation_count": "149",
+    "year": "2017/08/01",
+    "authors": [
+        {
+            "name": "Dhruv Kler",
+            "country": ""
+        },
+        {
+            "name": "Pallavi Sharma",
+            "country": ""
+        },
+        {
+            "name": "Ashish Banerjee",
+            "country": ""
+        },
+        {
+            "name": "K.P.S. Rana",
+            "country": ""
+        },
+        {
+            "name": "Vineet Kumar",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

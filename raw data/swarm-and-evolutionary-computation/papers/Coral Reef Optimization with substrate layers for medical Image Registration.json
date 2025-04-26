@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217301591",
+    "title": "Coral Reef Optimization with substrate layers for medical Image Registration",
+    "abstract": "In medical imaging there is a special interest in relating information from different images frequently used for diagnosis or treatment. Image registration (IR) involves the transformation of different sets of  image data  having a shared content into a common coordinate system. The estimation of the optimal transformation is modelled either as a combinatorial or a  numerical optimization  problem. Since traditional IR methods are constrained by several limitations, other optimization methods have been recently proposed to overcome such shortcomings. In this contribution, we consider the use of a recently proposed and high performance bio-inspired meta-heuristic: the Coral Reef Optimization Algorithm with Substrate Layers (CRO-SL). We adapt the algorithm to the real-coding IR problem variant following both feature-based and intensity-based designs, and perform two thorough experimental studies. Such studies focus on both mono-modal and inter-modal scenarios where the images suffer different types of 3D affine transformations to validate our proposal. The new proposal is benchmarked with state-of-the-art evolutionary and non-evolutionary IR methods. The results show that CRO-SL is a very competitive approach in terms of its robustness, accuracy, and efficiency.",
+    "citation_count": "42",
+    "year": "2018/10/01",
+    "authors": [
+        {
+            "name": "Enrique Bermejo",
+            "country": ""
+        },
+        {
+            "name": "Manuel Chica",
+            "country": ""
+        },
+        {
+            "name": "Sergio Damas",
+            "country": ""
+        },
+        {
+            "name": "Sancho Salcedo-Sanz",
+            "country": ""
+        },
+        {
+            "name": "Oscar Cordón",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

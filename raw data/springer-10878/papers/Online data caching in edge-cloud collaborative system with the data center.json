@@ -1,0 +1,37 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-022-00892-9",
+    "title": "Online data caching in edge-cloud collaborative system with the data center",
+    "abstract": "In edge computing, the edge node can provide certain accessible storage and computing resources for the surrounding users. Caching data on the edge node can quickly retrieve the required data and complete the user’s requests with low delay. However, the resources of edge servers are limited and sometimes have to gain the data by transfering from other servers or buying from data centers at the cloud. Traditionally, data center is just regard as a place of purchasing data, and the data is always available for the buyer after purchase. However, we believe that these data have a validity period. After the buyer purchases the data, it only provides limited calls for free. Based on this assumption, in this paper, we study the data caching problem in the edge-cloud collaborative system to minimize the total cost. Without knowing the information of users’ future request flow, we propose an online algorithm. What’s more, the asymptotic competition ratio of the algorithm in the worst case is 3.",
+    "citation_count": 35,
+    "year": "2022/12",
+    "authors": [
+        {
+            "name": "Han, Xinxin",
+            "country": "China"
+        },
+        {
+            "name": "Dai, Sijia",
+            "country": "China"
+        },
+        {
+            "name": "Gao, Guichen",
+            "country": "China"
+        },
+        {
+            "name": "Wang, Yang",
+            "country": "China"
+        },
+        {
+            "name": "Zhang, Yong",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

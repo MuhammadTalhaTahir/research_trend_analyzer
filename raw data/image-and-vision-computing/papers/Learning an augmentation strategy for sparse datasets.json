@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621002432",
+    "title": "Learning an augmentation strategy for sparse datasets",
+    "abstract": "The limited quantity of training data can hamper supervised machine learning methods, that generally need large amounts of data to avoid overfitting. Data augmentation has a long history of use with machine learning algorithms and is a straightforward method to overcome overfitting and improve model generalisation. However, data augmentation schemes are typically designed by hand and demand substantial domain knowledge to create suitable data transformations. This paper introduces a GAN based method that automatically learns an augmentation strategy appropriate for sparse datasets and can improve pixel-level semantic segmentation accuracy by filling the gaps in the training set. Our method can also be combined with other augmentation techniques to further improve performance. We evaluate the proposed method's feasibility on four datasets and three semantic segmentation models, leading to improvement in the mean intersection-over-union (mIoU) score of between 0.5 and 14 percentage points, under different circumstances.",
+    "citation_count": "10",
+    "year": "2022/01/01",
+    "authors": [
+        {
+            "name": "Renato B. Arantes",
+            "country": ""
+        },
+        {
+            "name": "George Vogiatzis",
+            "country": ""
+        },
+        {
+            "name": "Diego R. Faria",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

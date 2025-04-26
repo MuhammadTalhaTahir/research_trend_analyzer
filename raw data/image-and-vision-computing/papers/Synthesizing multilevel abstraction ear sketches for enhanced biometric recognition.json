@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885625000125",
+    "title": "Synthesizing multilevel abstraction ear sketches for enhanced biometric recognition",
+    "abstract": "Sketch understanding poses unique challenges for general-purpose vision algorithms due to the sparse and semantically ambiguous nature of sketches. This paper introduces a novel approach to biometric recognition that leverages sketch-based representations of ears, a largely unexplored but promising area in biometric research. Specifically, we address the “ sketch-2-image ” matching problem by synthesizing ear sketches at multiple abstraction levels, achieved through a triplet-loss function adapted to integrate these levels. The abstraction level is determined by the number of strokes used, with fewer strokes reflecting higher abstraction. Our methodology combines sketch representations across abstraction levels to improve robustness and generalizability in matching. Extensive evaluations were conducted on four ear datasets (AMI, AWE, IITDII, and BIPLab) using various pre-trained neural network backbones, showing consistently superior performance over state-of-the-art methods. These results highlight the potential of ear sketch-based recognition, with cross-dataset tests confirming its adaptability to real-world conditions and suggesting applicability beyond ear biometrics.",
+    "citation_count": "0",
+    "year": "2025/02/01",
+    "authors": [
+        {
+            "name": "David Freire-Obregón",
+            "country": ""
+        },
+        {
+            "name": "Joao Neves",
+            "country": ""
+        },
+        {
+            "name": "Žiga Emeršič",
+            "country": ""
+        },
+        {
+            "name": "Blaž Meden",
+            "country": ""
+        },
+        {
+            "name": "Modesto Castrillón-Santana",
+            "country": ""
+        },
+        {
+            "name": "Hugo Proença",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

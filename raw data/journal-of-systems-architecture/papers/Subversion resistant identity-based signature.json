@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762125000578",
+    "title": "Subversion resistant identity-based signature",
+    "abstract": "Identity-based cryptography (IBC) resolves the issue of certificate management, establishing itself as an evolving industry standard. Identity-based signature (IBS), an essential element of IBC, ensures integrity and authentication, playing a crucial role in the domains of internet of things (IoT) and cloud computing. Nevertheless, the “Snowden” event exposed how attackers subverted cryptographic algorithms’ implementations to undermine security and conduct mass-surveillance. We explore a subversion attack (SA) model on IBS and define two properties including undetectability and strong key recoverability. Our SA enables a recovery of the master private key and a private key through any two successive signatures, posing a greater challenge. Cryptographic reverse firewalls (RFs) are the main countermeasures to resist SAs. However, existing works necessitate the storage of randomness corresponding to various identities and fail to resist bit-by-bit SA. To address the aforementioned issue, we formulate a system model and a security model for subversion-resistant identity-based signature (SR-IBS). Then, we establish an instance and prove SR-IBS’s security of existential unforgeability under chosen message attack (EUF-CMA) along with subversion resistance. Finally, we leverage pypbc library to conduct a comprehensive experiment analysis. The results indicate the execution difference between subverted IBS and pure one is around 2ms and RFs only add approximately 0.5% of overall execution across five different security level. SR-IBS provides subversion-resistant without increasing high computation burden.",
+    "citation_count": "0",
+    "year": "2025/05/01",
+    "authors": [
+        {
+            "name": "Mengdi Ouyang",
+            "country": ""
+        },
+        {
+            "name": "Cuixiang Yang",
+            "country": ""
+        },
+        {
+            "name": "Xiaojuan Liao",
+            "country": ""
+        },
+        {
+            "name": "Fagen Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-003-0194-x",
+    "title": "Generative binary codes",
+    "abstract": "A generative or latent variable model corresponds to a Bayesian network where arcs point from (presumed) hidden sources to observed variables. In this paper we introduce a particular generative model with binary valued hidden sources (i. e. each source can be either ‘on’ or ‘off’) but continuous observable variables. The purpose of this model is to learn a binary, distributed code for continuous data, for example to learn a bit code for gray value image data. For inference we rely on a mean field approximation. A novel and surprisingly simple derivation of general mean field equations is given. The structure of our model is chosen such that it is optimally suited for the structure of mean field inference. Hence, the mean field equations can be solved efficiently even with a few hundred hidden nodes, thus allowing one to learn highly distributed codes. For learning the parameters in the generative model from data, an appropriate EM-procedure is derived. In the second part of the paper we employ our approach to learning a sparse representation of natural images which is applied to code and to denoise images. The image compression rate is comparable to JPEG-coding and image denoising clearly outperforms standard methods such as Wiener filtering. In the outlook we present potential further directions of research in particular with respect to a more complex hidden topography.",
+    "citation_count": 0,
+    "year": "2004/02",
+    "authors": [
+        {
+            "name": "Haft, M.",
+            "country": "Munich"
+        },
+        {
+            "name": "Hofman, R.",
+            "country": "Munich"
+        },
+        {
+            "name": "Tresp, V.",
+            "country": "Munich"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

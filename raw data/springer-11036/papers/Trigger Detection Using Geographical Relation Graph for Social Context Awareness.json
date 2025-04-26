@@ -1,0 +1,39 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-012-0398-7",
+    "title": "Trigger Detection Using Geographical Relation Graph for Social Context Awareness",
+    "abstract": "The concept of context awareness is believed to be a key enabler for the new ubiquitous network service paradigm brought by cloud computing platforms and smartphone OSs. In particular, autonomous context-based service customization is becoming an essential tool in this context because users cannot be expected to pick step by step the appropriate network services by manually and explicitly matching preferences for their current context. In this work, we hence focus on the core problem of how to detect changes of context for network services. In turn, detection of such changes can trigger timely system reconfigurations. We introduce a trigger detection mechanism based on a mixed graph-based representation model able to encode geographical and social relationships among people and social objects like stores, restaurants, and event spots. Our mechanism generates a trigger when a significant change in the graph takes place, and it is able to render significant changes in a geographical relationship that holds among objects socially connected with each other. The main benefits of our method are that (1) it does not require building reference models in advance, and (2) it can deal with different kinds of social objects uniformly once the graph is defined. A computer simulation scenario provides evidence on the expected performance of our method.",
+    "citation_count": 25,
+    "year": "2012/12",
+    "authors": [
+        {
+            "name": "Nishio, Takayuki",
+            "country": "Japan"
+        },
+        {
+            "name": "Shinkuma, Ryoichi",
+            "country": "Japan"
+        },
+        {
+            "name": "De Pellegrini, Francesco",
+            "country": "Italy"
+        },
+        {
+            "name": "Kasai, Hiroyuki",
+            "country": "Japan"
+        },
+        {
+            "name": "Yamaguchi, Kazuhiro",
+            "country": "Japan"
+        },
+        {
+            "name": "Takahashi, Tatsuro",
+            "country": "Japan"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

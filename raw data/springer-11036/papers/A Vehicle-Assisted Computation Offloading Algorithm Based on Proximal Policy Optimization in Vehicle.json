@@ -1,0 +1,31 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-022-02029-y",
+    "title": "A Vehicle-Assisted Computation Offloading Algorithm Based on Proximal Policy Optimization in Vehicle Edge Networks",
+    "abstract": "With the continuous development of the Internet of Vehicles(IoV), Vehicle Edge Computing(VEC) has become a key technology for computational resource scheduling, but more and more smart devices are connected to the internet, which makes it difficult for traditional Vehicle Edge Networks(VEN) to deal with tasks in time. In this paper, in order to cope with the challenges of the large number of devices accessing the internet, we propose a vehicle-assisted computation offloading algorithm based on proximal policy optimization(VCOPPO) for User Equipment(UE) tasks, and it combines dynamic parked vehicles incentives mechanism and computational resource allocation strategy by using road vehicles and parked vehicles as edge servers. Firstly, a non-convex optimization problem combining VEN utility and task processing delay is formulated, subject to the constraints of the residual energy and the transmission rate of the task. Secondly, the proposed VCOPPO is used to solve the formulated non-convex optimization problem, and we use stochastic policy to obtain the optimal computation offloading decisions and resource allocation schemes. Finally, the experimental results have shown that the proposed VCOPPO has an excellent performance in network reward and task processing delay respectively, and it can effectively schedule and allocate computational resources. Compared with using Dueling Deep Q Network(Dueling DQN), Deep Q Network(DQN) and Q-learning methods, the proposed VCOPPO improves the network reward by 31%, 18% and 91%, reduces the delay in task processing by 78%, 63% and 74%, respectively.",
+    "citation_count": 37,
+    "year": "2023/12",
+    "authors": [
+        {
+            "name": "Chen, Geng",
+            "country": "China"
+        },
+        {
+            "name": "Xu, Xianjie",
+            "country": "China"
+        },
+        {
+            "name": "Zeng, Qingtian",
+            "country": "China"
+        },
+        {
+            "name": "Zhang, Yu-Dong",
+            "country": "UK"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

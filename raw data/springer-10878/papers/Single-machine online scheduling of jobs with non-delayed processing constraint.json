@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-021-00722-4",
+    "title": "Single-machine online scheduling of jobs with non-delayed processing constraint",
+    "abstract": "This paper introduces a new environment of online scheduling in which jobs are scheduled under the non-delayed processing (NDP) constraint, where NDP means that the available jobs cannot be delayed for processing when some machine is idle. We study in this paper the single-machine online scheduling to minimize the maximum weighted completion time ( $${\\textit{WC}}_{\\mathrm{max}}$$ ) or the maximum delivery completion time ( $$L_{\\mathrm{max}}$$ ) under the NDP constraint. For the first problem, we establish a lower bound 2 and provide an online algorithm which has a competitive ratio of $$(3+\\sqrt{5})/2\\approx 2.618$$ . We present a 3/2-competitive best possible online algorithm for the second problem.",
+    "citation_count": 24,
+    "year": "2021/05",
+    "authors": [
+        {
+            "name": "Li, Wenjie",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Yuan, Jinjiang",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

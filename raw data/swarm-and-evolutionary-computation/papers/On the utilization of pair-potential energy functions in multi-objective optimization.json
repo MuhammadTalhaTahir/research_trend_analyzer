@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223000810",
+    "title": "On the utilization of pair-potential energy functions in multi-objective optimization",
+    "abstract": "In evolutionary multi-objective optimization (EMO), the pair-potential energy functions (PPFs) have been used to construct diversity-preserving mechanisms to improve  Pareto front  approximations. Despite PPFs have shown promising results when dealing with different Pareto front geometries, there are still some open research questions to improve the way we employ them. In this paper, we answer three important questions: (1) what is the effect of a crucial parameter of some PPFs?, (2) how do we set the optimal parameter value?, and (3) what is the best PPF in EMO? To solve these questions, we designed a brand-new fast algorithm to generate an approximate solution to a PPF-based subset selection problem and, then, we conducted a comprehensive parametrical study to predict the optimal parameter values using a deep  neural network . To show the effectiveness of the PPF-based diversity-preserving mechanisms, we selected two application cases: the generation of  reference point  sets of benchmark problems (DTLZ, WFG, IDTLZ, IWFG, IMOP, and Viennet) with different Pareto front shapes, and the definition of a PPF-based archive that can be coupled to any multi-objective evolutionary algorithm to construct well-diversified Pareto front approximations. Using several diversity indicators, it is shown that the utilization of PPF-based mechanisms lead to good Pareto front approximations regardless of the Pareto front shape.",
+    "citation_count": "6",
+    "year": "2023/06/01",
+    "authors": [
+        {
+            "name": "Jesús Guillermo Falcón-Cardona",
+            "country": ""
+        },
+        {
+            "name": "Edgar Covantes Osuna",
+            "country": ""
+        },
+        {
+            "name": "Carlos A. Coello Coello",
+            "country": ""
+        },
+        {
+            "name": "Hisao Ishibuchi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

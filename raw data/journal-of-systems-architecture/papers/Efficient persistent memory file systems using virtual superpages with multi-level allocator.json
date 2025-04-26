@@ -1,0 +1,42 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122001552",
+    "title": "Efficient persistent memory file systems using virtual superpages with multi-level allocator",
+    "abstract": "Emerging  persistent memory  file systems can significantly improve performance by utilizing the advantages of Persistent Memories (PMs). Especially, they can employ superpages of PMs to alleviate the overhead of locating file data and space management, reduce TLB misses rate. Unfortunately, file systems that organize file data using superpages also induce two critical problems. First, ensuring data consistency can cause severe write amplification during overwrite. Second, existing superpages management may lead to large  space waste . In this paper, we propose a Virtual Superpage Mechanism (VSM) to solve the problems by taking advantages of  virtual address space . In detail, VSM adopts multi-grained copy-on-write mechanism to reduce the write amplification and zero-copy file data migration mechanism to improve the space utilization efficiency. We implement the proposed VSM mechanism in Linux kernel. Compared with PMFS and NOVA, the state-of-the-art  persistent memory  file systems, the experimental results show that VSM improves the performance by 36% and 14% on average, respectively. Meanwhile, VSM can achieve the same space utilization efficiency of the file systems using 4 KB pages. Furthermore, we also propose a multi-level allocator, called VSMA, to further improve the performance of VSM. Experimental results show that the proposed VSMA outperforms VSM by 14% on average.",
+    "citation_count": "2",
+    "year": "2022/09/01",
+    "authors": [
+        {
+            "name": "Chaoshu Yang",
+            "country": ""
+        },
+        {
+            "name": "Zhiwang Yu",
+            "country": ""
+        },
+        {
+            "name": "Runyu Zhang",
+            "country": ""
+        },
+        {
+            "name": "Shun Nie",
+            "country": ""
+        },
+        {
+            "name": "Hui Li",
+            "country": ""
+        },
+        {
+            "name": "Xianzhang Chen",
+            "country": ""
+        },
+        {
+            "name": "Linbo Long",
+            "country": ""
+        },
+        {
+            "name": "Duo Liu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

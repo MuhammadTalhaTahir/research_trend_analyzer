@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762115001216",
+    "title": "On using multivariate polynomial regression model with spectral difference for statistical model-based speech enhancement",
+    "abstract": "In this paper, we propose a statistical model-based speech enhancement technique using a multivariate polynomial regression (MPR) based on spectral difference scheme. In the analyzing step, three principal parameters, the weighting parameter in the decision-directed (DD) method, the long-term smoothing parameter for the noise estimation, and the control parameter of the minimum gain value are estimated as optimal operating points technique by using to the spectral difference under various noise conditions. These optimal operating points, which are specific according to different spectral differences, are estimated based on the composite measure, which is a relevant criterion in terms of speech quality. Thus, we apply the MPR technique by incorporating the spectral differences as independent variables in order to estimate the optimal operating points. The MPR technique offers an effective scheme to represent complex nonlinear input-output relationship between the optimal operating points and spectral differences so that operating points can be determined according to various noise conditions in the off-line step. In the on-line speech enhancement step, different parameters are chosen on a frame-by-frame basis through the regression according to the spectral difference. The performance of the proposed method is evaluated using objective and subjective speech quality measures in various noise environments. Our experimental results show that the proposed algorithm yields better performances than conventional algorithms.",
+    "citation_count": "4",
+    "year": "2016/03/01",
+    "authors": [
+        {
+            "name": "Soojeong Lee",
+            "country": ""
+        },
+        {
+            "name": "Joon-Hyuk Chang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

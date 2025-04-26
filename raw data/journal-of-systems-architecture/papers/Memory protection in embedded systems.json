@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762116000187",
+    "title": "Memory protection in embedded systems",
+    "abstract": "With reference to an embedded system featuring no support for memory management, we present a model of a protection system based on passwords. At the hardware level, our model takes advantage of a memory protection unit (MPU) interposed between the processor and the complex of the main memory and the input-output devices. The MPU supports both concepts of a protection context and a protection domain. A protection context is a set of access rights for the memory pages; a protection domain is a set of one or more protection contexts. Passwords are associated with protection domains. A process that holds a given password can take advantage of this password to activate the corresponding domain. A small set of protection primitives makes it possible to modify the composition of the domains in a strictly controlled fashion. The proposed protection model is evaluated from a number of important viewpoints, which include password distribution, review and revocation, the memory requirements for storage of the information concerning protection, and the time necessary for password validation.",
+    "citation_count": "4",
+    "year": "2016/02/01",
+    "authors": [
+        {
+            "name": "Lanfranco Lopriore",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S138376211500082X",
+    "title": "A trustworthy, fault-tolerant and scalable self-configuration algorithm for Organic Computing systems",
+    "abstract": "The growing complexity of today’s computing systems requires a large amount of administration, which poses a serious challenging task for manual administration. Therefore, new ways have to be found to autonomously manage them. They should be characterized by so-called self-x properties such as self-configuration, self-optimization, self-healing and self-protection. The autonomous assignment of services to nodes in a distributed way is a crucial part for developing self-configuring systems. In this paper, we introduce a self-configuration algorithm for Organic Computing systems, which aims on the one hand to equally distribute the load of services on nodes as in a typical load balancing scenario and on the other hand to assign services with different importance levels to nodes so that the more important services are assigned to more trustworthy nodes. Furthermore, the proposed algorithm includes a fault handling mechanism enabling the system to continue hosting services even in the presence of faults. The evaluation indicates that the proposed approach is suitable for large scale and distributed systems.",
+    "citation_count": "3",
+    "year": "2015/11/01",
+    "authors": [
+        {
+            "name": "Nizar Msadek",
+            "country": ""
+        },
+        {
+            "name": "Rolf Kiefhaber",
+            "country": ""
+        },
+        {
+            "name": "Theo Ungerer",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885615000475",
+    "title": "Non-negative matrix completion for action detection",
+    "abstract": "With the increasing number of videos all over the Internet and the increasing number of cameras looking at people around the world, one of the most interesting applications would be  human activity recognition  in videos. Many researches have been conducted in the literature for this purpose. But, still recognizing activities in a video with unrestricted conditions is a challenging problem. Moreover, finding the spatio-temporal location of the activity in the video is another issue. In this paper, we present a method based on a non-negative matrix completion framework, that learns to label videos with activity classes, and localizes the activity of interest spatio-temporally throughout the video. This approach has a multi-label weakly supervised setting for activity detection, with a  convex optimization  procedure. The experimental results show that the proposed approach is competitive with the state-of-the-art methods.",
+    "citation_count": "16",
+    "year": "2015/07/01",
+    "authors": [
+        {
+            "name": "Ehsan Adeli-Mosabbeb",
+            "country": ""
+        },
+        {
+            "name": "Mahmood Fathy",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

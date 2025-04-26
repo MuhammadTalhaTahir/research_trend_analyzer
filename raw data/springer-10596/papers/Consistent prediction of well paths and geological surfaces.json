@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-024-10310-0",
+    "title": "Consistent prediction of well paths and geological surfaces",
+    "abstract": "We propose a smooth stochastic process for modeling the vertical well path uncertainty. This process describes the accumulation of measurement errors along the well path. We combine the stochastic process with a stochastic model for surfaces into a consistent framework for simultaneous prediction of well paths and surfaces. We show properties of the proposed stochastic process and provide examples of interaction between wells and surfaces.",
+    "citation_count": 17,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "Vázquez, Ariel Almendral",
+            "country": "Norway"
+        },
+        {
+            "name": "Dahle, Pål",
+            "country": "Norway"
+        },
+        {
+            "name": "Abrahamsen, Petter",
+            "country": "Norway"
+        },
+        {
+            "name": "Sektnan, Audun",
+            "country": "Norway"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

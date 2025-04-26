@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-009-9248-3",
+    "title": "Separating sublinear time computations by approximate diameter",
+    "abstract": "We study the problem of separating sublinear time computations via approximating the diameter for a sequence S=p 1 p 2 ⋅⋅⋅ p n of points in a metric space, in which any two consecutive points have the same distance. The computation is considered respectively under deterministic, zero error randomized, and bounded error randomized models. We obtain a class of separations using various versions of the approximate diameter problem based on restrictions on input data. We derive tight sublinear time separations for each of the three computation models via proving that computation with O(n r ) time is strictly more powerful than that with O(n r−ε ) time, where r and ε are arbitrary parameters in (0,1) and (0,r) respectively. We show that, for any parameter r∈(0,1), the bounded error randomized sublinear time computation in time O(n r ) cannot be simulated by any zero error randomized sublinear time algorithm in o(n) time or queries; and the same is true for zero error randomized computation versus deterministic computation.",
+    "citation_count": 20,
+    "year": "2009/11",
+    "authors": [
+        {
+            "name": "Fu, Bin",
+            "country": "USA"
+        },
+        {
+            "name": "Zhao, Zhiyu",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

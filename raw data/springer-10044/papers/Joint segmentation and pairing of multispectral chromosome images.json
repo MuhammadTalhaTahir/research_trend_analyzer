@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-011-0253-7",
+    "title": "Joint segmentation and pairing of multispectral chromosome images",
+    "abstract": "Automated segmentation of touching or overlapping chromosomes in a metaphase image is a critical step for computer-aided chromosomes analysis. Conventional chromosome imaging methods acquire single-band grayscale images, and such a limitation makes the separation of touching or overlapping chromosomes challenging. In the multiplex fluorescence in situ hybridization (M-FISH) technique, each class of chromosomes can bind with a different combination of fluorophores. The M-FISH technique results in multispectral chromosome images, which has distinct spectral signatures. This paper presents a novel automated chromosome analysis method to combine the pixel-level geometric and multispectral information with decision-level pairing information. Our chromosome segmentation method uses the geometric and spectral information to partition the chromosome cluster into three regions. There will be ambiguity when combining these regions into separated chromosomes by using only spectral and geometric information. Then a graph–theoretical pairing method is introduced to resolve any remaining ambiguity of the aforementioned segmentation process. Experimental results demonstrate that the proposed joint segmentation and pairing method outperforms conventional grayscale and multispectral segmentation methods in separating touching and overlapping chromosomes.",
+    "citation_count": 29,
+    "year": "2013/11",
+    "authors": [
+        {
+            "name": "Zhao, Yongqiang",
+            "country": "China"
+        },
+        {
+            "name": "Wu, Xiaolin",
+            "country": "Canada"
+        },
+        {
+            "name": "Kong, Seong G.",
+            "country": "USA"
+        },
+        {
+            "name": "Zhang, Lei",
+            "country": "Hong Kong"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

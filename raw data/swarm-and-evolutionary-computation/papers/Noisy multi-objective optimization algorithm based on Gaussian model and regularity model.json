@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650221001899",
+    "title": "Noisy multi-objective optimization algorithm based on Gaussian model and regularity model",
+    "abstract": "Nowadays, noisy multi-objective optimization problems (NMOPs) become hot in the field of multi-objective optimization. Noise mostly exists in the solution space and the objective space of an NMOP, and therefore it can affect our judgment of better solutions or not. The regularity model and the probabilistic ranking method are proven that they can reduce the effect of noise in NMOPs to some degree, so in this paper, we combine them together to solve NMOPs better. On the other hand, we combine the Gaussian model with the non-dominated sorting so as to overcome the shortage of the regularity model. Consequently, a new noisy multi-objective optimization algorithm is proposed, denoted as GMRM-NSGA-II in this paper. The population of each generation is divided into two subpopulations adaptively, which are prepared for two different models with different sorting methods. The experimental results show GMRM-NSGA-II performs better on most of test problems including ZDT, DTLZ and WFG test suites with noise compared with other state-of-the-art algorithms.",
+    "citation_count": "9",
+    "year": "2022/03/01",
+    "authors": [
+        {
+            "name": "Ruochen Liu",
+            "country": ""
+        },
+        {
+            "name": "Nanxi Li",
+            "country": ""
+        },
+        {
+            "name": "Fangfang Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

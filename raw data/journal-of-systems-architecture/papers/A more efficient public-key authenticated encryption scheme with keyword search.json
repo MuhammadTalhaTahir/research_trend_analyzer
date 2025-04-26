@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762123000188",
+    "title": "A more efficient public-key authenticated encryption scheme with keyword search",
+    "abstract": "To realize  ciphertext  retrieval without decryption in the  public key  settings, Boneh et al. in 2004 proposed a  cryptographic primitive  named  Public-key Encryption with  Keyword Search  (PEKS) and proposed the first PEKS scheme. Following Boneh et al.’s work, various PEKS schemes were proposed; however, most schemes are vulnerable to inside keyword guessing attacks (IKGA). Huang and Li proposed a new primitive named  Public-key Authenticated Encryption with Keyword Search  (PAEKS) in 2017, which resists the IKGA in the setting of only one test server. Their main idea to resist IKGA is to require the data sender to authenticate the  ciphertext  while encrypting a keyword. However, in the era of  big data , as the number of encrypted files increases, huge  storage overhead  and heavy retrieval costs become problems in PAEKS. In this paper, we proposed a new PAEKS scheme that costs low storage space and supports fast search. We introduced the ciphertext  deduplication  into PAEKS to reduce storage space and leveraged the inverted index to accelerate the  retrieval process . We simulated the proposed scheme and several related schemes with a desktop computer. The experiment results show that our proposed scheme is of lower storage overhead and higher retrieval efficiency compared with related schemes.",
+    "citation_count": "19",
+    "year": "2023/04/01",
+    "authors": [
+        {
+            "name": "Qiong Huang",
+            "country": ""
+        },
+        {
+            "name": "Peisen Huang",
+            "country": ""
+        },
+        {
+            "name": "Hongbo Li",
+            "country": ""
+        },
+        {
+            "name": "Jianye Huang",
+            "country": ""
+        },
+        {
+            "name": "Hongyuan Lin",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

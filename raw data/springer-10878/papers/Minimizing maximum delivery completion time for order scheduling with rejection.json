@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-020-00649-2",
+    "title": "Minimizing maximum delivery completion time for order scheduling with rejection",
+    "abstract": "We study an order scheduling problem with rejection, in which each order consists of multiple product types and each product type should be manufactured on a dedicated machine. The aim is to find a solution to minimize a linear sum of the maximum delivery completion time of the accepted orders and the total penalty of the rejected orders. Even if the delivery times of all orders are zero, the problem is shown to be binary $$\\mathcal{NP}$$ -hard in the two-machine case and it is shown to be unary $$\\mathcal{NP}$$ -hard when the number of machines is arbitrary. Three approximation algorithms are proposed and their worst-case performance ratios are analyzed. For the scenario where the number of machines is fixed, a pseudo-polynomial dynamic programming algorithm and a fully polynomial time approximation scheme are devised for it.",
+    "citation_count": 63,
+    "year": "2020/11",
+    "authors": [
+        {
+            "name": "Chen, Ren-Xia",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Li, Shi-Sheng",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

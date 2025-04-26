@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121000862",
+    "title": "A secure and efficient authentication and data sharing scheme for Internet of Things based on blockchain",
+    "abstract": "Internet of Things  (IoT) is a network convergence of multiple intelligent devices and advanced technologies aiming at connecting and exchanging data over the Internet. IoT is extensively applied in consumer, commercial, industrial, infrastructure and military spaces. With the prevalence of IoT applications, security issues such as identity authenticity and data privacy are increasingly become critical concerns. Authentication and confidential data sharing are the important measures towards secure IoT communication and applications.  Blockchain  is a burgeoning technology supporting for efficient  authentication  and secure data sharing. A secure and accountable  data transmission  scheme based on blockchain has been proposed by Hong et al. recently. But this scheme has security weaknesses of impersonation attack, man-in-the-middle attack, replay attack,  denial of service attack  (DoS) and key compromise attack. Thus we put forward an improved scheme to overcome the identified security flaws. Our scheme is  provably secure  and performance analysis shows that our scheme reduces 15.34% computation costs and 40.68% communication costs compared with Hong et al.’s scheme. Meanwhile, we also compare our scheme with other three recent and related researches, which finally indicates that our scheme realizes a well tradeoff between security and efficiency.",
+    "citation_count": "66",
+    "year": "2021/08/01",
+    "authors": [
+        {
+            "name": "Qing Fan",
+            "country": ""
+        },
+        {
+            "name": "Jianhua Chen",
+            "country": ""
+        },
+        {
+            "name": "Lazarus Jegatha Deborah",
+            "country": ""
+        },
+        {
+            "name": "Min Luo",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

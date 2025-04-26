@@ -1,0 +1,36 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-024-10300-2",
+    "title": "Determining optimal controls placed on injection/production wells during waterflooding in heterogeneous oil reservoirs using artificial neural network models and multi-objective genetic algorithm",
+    "abstract": "The objective of this study is to propose a computationally inexpensive and effective approach that addresses the challenges faced with computationally expensive and time-consuming trial-and-error and direct optimization methods in well-control optimization. This approach involves combining proxy models such as artificial neural network (ANN) models with optimization algorithms to determine an optimal solution much faster. It was implemented in a heterogeneous oil reservoir undergoing waterflooding. The controllable parameters of the reservoir simulation model were identified as bottom-hole pressure for the producers and water injection rate for the injectors. Minimum and maximum values of each input parameter were defined based on reservoir conditions and used with a Box Behnken design (BBD) method to generate realizations for conducting reservoir simulations to obtain cumulative oil produced (COP) and cumulative water produced (CWP). The input and output data were normalized before being used for model development such that 70:15:15% of data was used for training, validation, testing, and all of the ANN model in which a coefficient of correlation (R) of 0.99756, 0.94354, 0.95813, and 0.98589 were obtained respectively. This indicates the accuracy, validity, and reliability of the model. The coefficient of determination (R2) for training, validation, testing, and all datasets as well as statistical error and trend analysis were used to validate the model. R2 values for each case were not less than 0.80, and the responses were reproduced by the ANN model with average relative error and root mean square error of not more than 0.7%. Weights and biases were extracted from the trained and validated ANN model to aid in outputting a visible ANN model that can be used for optimization studies. A multi-objective genetic algorithm was used to determine an optimal solution that maximized COP and minimized CWP. Average and optimized input data were used to run the developed ANN model. Results revealed that the optimized case outperformed the case for which average input values were used evidenced by the production of 34.198 MSm3 more oil and 14.297 MMSm3 less water. The findings of this study showed that using an ANN-MOGA approach will eliminate the computationally expensive, time-consuming, and inefficient trial-and-error approach for well-control optimization. Oil recovery was improved while water production was reduced resulting in low expenditure on treatment and disposal of produced water.",
+    "citation_count": 54,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "Nwanwe, Onyebuchi Ivan",
+            "country": "Nigeria"
+        },
+        {
+            "name": "Izuwa, Nkemakolam Chinedu",
+            "country": "Nigeria"
+        },
+        {
+            "name": "Ohia, Nnaemeka Princewill",
+            "country": "Nigeria"
+        },
+        {
+            "name": "Kerunwa, Anthony",
+            "country": "Nigeria"
+        },
+        {
+            "name": "Uwaezuoke, Nnaemeka",
+            "country": "Nigeria"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

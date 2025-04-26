@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623002627",
+    "title": "Distance metric-based learning for long-tail object detection",
+    "abstract": "Despite the recent success of general object detection, almost all models perform unsatisfactorily on long-tail datasets. The main cause of  performance degradation  is the imbalance in the number of positive samples between categories. The traditional approaches can lead to distortion of the classification  feature space , which in turn can seriously affect the classification ability of the network. To address the above issues, we propose a novel distance metric-based  learning approach  for long-tail object detection (LTDL) in this paper. Specifically, we directly use the feature space as the optimization target, thus allowing clearer decision boundaries between classes. In order to optimize the decision boundary, we adjust the intra-class and inter-class distances by Margin Module (MAM). Meanwhile, to further exploit the information provided by the dataset, we introduce  supervised information  of labels for distance weighting using the Semantic Module (SEM). In addition, to protect the learning of  tail  samples and optimize the classifier, we propose a Distance-based Equilibrium Loss (DEL). Extensive experiments conducted on the LVIS benchmark have demonstrated the  strength  of our proposed approach. The experimental results show that our method improves the baseline by 2.9% AP. And our best model can outperform almost all other representative methods.",
+    "citation_count": "3",
+    "year": "2024/02/01",
+    "authors": [
+        {
+            "name": "Mingwen Shao",
+            "country": ""
+        },
+        {
+            "name": "Zilu Peng",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

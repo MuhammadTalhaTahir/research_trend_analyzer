@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762120302174",
+    "title": "Task scheduling with precedence and placement constraints for resource utilization improvement in multi-user MEC environment",
+    "abstract": "Efficient  task scheduling  improves offloading performance in  mobile edge computing  (MEC) environment. The jobs offloaded by different users would have different dependent tasks with diverse resource demands at different times. Meanwhile, due to the heterogeneity of edge servers configurations in MEC, offloaded jobs may frequently have  placement constraints , restricting them to run on a particular class of edge servers meeting specific software running settings. This spatio-temporal information gives the opportunity to improve the  resource utilization  of the computing system. In this paper, we study the scheduling method for the jobs consisting of dependent tasks offloaded by different users in MEC. A new  task offloading  scheduler, Horae, is proposed to not only improve the  resource utilization  of MEC environment but also guarantees to select the edge server which could satisfy placement constraints for each offloaded task. Concretely, considering the fact that each job would experience slack time as a result of competing for limited resource with other jobs in MEC, Horae minimizes the sum of all slack time values of all the jobs while guaranteeing placement constraints, and therefore improve the resource utilization of the system. Horae was validated for its feasibility and efficiency by means of extensive experiments, which are presented in this paper.",
+    "citation_count": "36",
+    "year": "2021/03/01",
+    "authors": [
+        {
+            "name": "Bowen Liu",
+            "country": ""
+        },
+        {
+            "name": "Xiaolong Xu",
+            "country": ""
+        },
+        {
+            "name": "Lianyong Qi",
+            "country": ""
+        },
+        {
+            "name": "Qiang Ni",
+            "country": ""
+        },
+        {
+            "name": "Wanchun Dou",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

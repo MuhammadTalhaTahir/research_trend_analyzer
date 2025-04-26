@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003123",
+    "title": "Synthetic lidar point cloud generation using deep generative models for improved driving scene object recognition",
+    "abstract": "The imbalanced distribution of different object categories poses a challenge for training accurate object recognition models in driving scenes. Supervised machine learning models trained on imbalanced data are biased and easily overfit the majority classes, such as vehicles and pedestrians, which appear more frequently in driving scenes. We propose a novel data augmentation approach for object recognition in lidar point cloud of driving scenes, which leverages probabilistic generative models to produce synthetic point clouds for the minority classes and complement the original imbalanced dataset. We evaluate five generative models based on different statistical principles, including Gaussian mixture model, variational autoencoder, generative adversarial network, adversarial autoencoder and the diffusion model. Experiments with a real-world autonomous driving dataset show that the synthetic point clouds generated for the minority classes by the Latent Generative Adversarial Network result in significant improvement of object recognition performance for both minority and majority classes. The codes are available at  https://github.com/AAAALEX-XIANG/Synthetic-Lidar-Generation .",
+    "citation_count": "0",
+    "year": "2024/10/01",
+    "authors": [
+        {
+            "name": "Zhengkang Xiang",
+            "country": ""
+        },
+        {
+            "name": "Zexian Huang",
+            "country": ""
+        },
+        {
+            "name": "Kourosh Khoshelham",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

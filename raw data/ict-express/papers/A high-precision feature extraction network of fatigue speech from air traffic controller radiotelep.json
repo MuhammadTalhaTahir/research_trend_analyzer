@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959521000023",
+    "title": "A high-precision feature extraction network of fatigue speech from air traffic controller radiotelephony based on improved deep learning",
+    "abstract": "Air traffic controller (ATC) fatigue is receiving considerable attention in recent studies because it represents a major cause of air traffic incidences. Research has revealed that the presence of fatigue can be detected by analysing speech utterances. However, constructing a complete labelled fatigue data set is very time-consuming. Moreover, a manually constructed speech collection will often contain only little key information to be used effectively in fatigue recognition, while multilevel deep models based on such speech materials often have overfitting problems due to an explosive increase of model parameters. To address these problems, a novel deep learning framework is proposed in this study to integrate active learning (AL) into complex speech features selected from a large set of unlabelled speech data in order to overcome the loss of information. A shallow feature set is first extracted using stacked sparse autoencoder networks, in which fatigue state challenge features from a manually selected speaker set of are exploited as the input vector. A densely connected convolutional autoencoder (DCAE) is then proposed to learn advanced features automatically from spectrograms of the selected data to supplement the fatigue features. The network can be effectively trained using a relatively small number of labelled samples with the help of AL sampling strategies, and the addition of a dense block to the convolutional automatic encoder can decrease the number of parameters and make the model easier to fit. Finally, the two above-mentioned features are combined using multiple kernel learning with a support-vector-machine classifier. A series of comparative experiments using the Civil Aviation Administration of China radiotelephony corpus demonstrates that the proposed method provides a significant improvement in the detection precision compared to current state-of-the-art approaches.",
+    "citation_count": "0",
+    "year": "2021/12/01",
+    "authors": [
+        {
+            "name": "Zhiyuan Shen",
+            "country": ""
+        },
+        {
+            "name": "Yitao Wei",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

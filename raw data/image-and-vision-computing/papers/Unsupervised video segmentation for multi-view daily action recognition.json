@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623000616",
+    "title": "Unsupervised video segmentation for multi-view daily action recognition",
+    "abstract": "Multi-layer representations have achieved outstanding performances in the complex daily action recognition. However, the fixed length of the sliding window (SW) leads to the segmented motion atoms incomplete or non-unique. To deal with this problem, we propose unsupervised video segmentation (UVS) for multi-view daily action recognition. Firstly, the average  cosine similarity  is designed to ensure the integrity of motion atoms. Secondly, we utilize the ordered combination of motion atoms to construct the table of multi-scale motion phrases in a top-down manner, instead of the fixed-scale traditional motion phrases. Finally, the experimental results based on the WVU dataset, the NTU RGB-D 120 dataset, and the N-UCLA dataset show that the proposed UVS method has state-of-the-art performance, compared with the classic methods such as IDT, MoFAP, JLMF, FGCN, and MVMLR.",
+    "citation_count": "3",
+    "year": "2023/06/01",
+    "authors": [
+        {
+            "name": "Zhigang Liu",
+            "country": ""
+        },
+        {
+            "name": "Yin Wu",
+            "country": ""
+        },
+        {
+            "name": "Ziyang Yin",
+            "country": ""
+        },
+        {
+            "name": "Chunlei Gao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

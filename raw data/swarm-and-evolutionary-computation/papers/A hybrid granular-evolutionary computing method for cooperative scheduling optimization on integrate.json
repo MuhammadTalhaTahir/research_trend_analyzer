@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650222000931",
+    "title": "A hybrid granular-evolutionary computing method for cooperative scheduling optimization on integrated energy system in steel industry",
+    "abstract": "Integrated Energy System  (IES) in steel industry, typically involving gas, heat and electricity, exhibits distributed nature and complex coupling relationship, which demands effective scheduling optimization to cooperatively utilize the multiple energy media. For this purpose, a Granular-Evolutionary Hybrid Computing (GEHC) framework is proposed in this study to solve the scheduling of IES as a Constrained Multi-Objective Problem (CMOP). More specifically, a Collaborative Fuzzy C-Means (CFCM) clustering model is firstly established, where the horizontal and vertical structures are well constructed to obtain information granules regarding the cooperative relationship among the units in different energy subsystems. Then, a Probability-based Granular Computing (PGrC) approach is proposed for the initial optimization of the IES scheduling, which is guided by the expert knowledge compacted in the information granules. To determine the collaborative parameters in CFCM that essentially controls the cooperation among the multiple energy media, as well as satisfying the complex practical constraints, a Multi-Objective Differential Evolution (MODE)-based method is proposed for further scheduling optimization. To evaluate the performance on cooperativity,  convergency  and diversity, the proposed GEHC and the compared methods that either has partial collaborations or use other optimization frameworks are applied to a real-world optimization problem. The experimental results demonstrate that the proposed GEHC performs superior to the other methods considering both the objective functions and performance indicators, which can be potentially helpful to achieve well-performed unmanned IES scheduling in steel industry.",
+    "citation_count": "10",
+    "year": "2022/08/01",
+    "authors": [
+        {
+            "name": "Zhongyang Han",
+            "country": ""
+        },
+        {
+            "name": "Xinyu Zhang",
+            "country": ""
+        },
+        {
+            "name": "Hongqi Zhang",
+            "country": ""
+        },
+        {
+            "name": "Jun Zhao",
+            "country": ""
+        },
+        {
+            "name": "Wei Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

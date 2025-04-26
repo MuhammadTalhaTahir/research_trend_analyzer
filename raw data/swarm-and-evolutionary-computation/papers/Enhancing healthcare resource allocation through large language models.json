@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650225000173",
+    "title": "Enhancing healthcare resource allocation through large language models",
+    "abstract": "Recognizing the growing capabilities of large language models (LLMs) and their potential in healthcare, this study explores the application of LLMs in healthcare resource allocation using Prompt Engineering, Retrieval-Augmented Generation (RAG), and Tool Utilization. It addresses both optimizable and non-optimizable challenges in allocating operating rooms (ORs), postoperative beds, and surgeons, while also identifying key factors like ethical and legal constraints through a medical knowledge Q&A survey. Among the seven evaluated LLMs, including LaMDA 2, PaLM 2, and Qwen, ChatGPT-4o demonstrated superior performance by reducing OR and surgeon overtime, alleviating peak bed demand, and achieving the highest accuracy in medical knowledge queries. Comprehensive comparisons with traditional methods (exact and heuristic algorithm), varying problem sizes, and hybrid approaches from the literature revealed that as problem size increased, LLMs performed better and faster by integrating historical experience with new data. They adapted to changes in problem scale or demand without requiring re-optimization, effectively addressing the runtime limitations of traditional methods. These findings underscore the potential of LLMs in advancing dynamic and efficient healthcare resource management.",
+    "citation_count": "0",
+    "year": "2025/04/01",
+    "authors": [
+        {
+            "name": "Fang Wan",
+            "country": ""
+        },
+        {
+            "name": "Kezhi Wang",
+            "country": ""
+        },
+        {
+            "name": "Tao Wang",
+            "country": ""
+        },
+        {
+            "name": "Hu Qin",
+            "country": ""
+        },
+        {
+            "name": "Julien Fondrevelle",
+            "country": ""
+        },
+        {
+            "name": "Antoine Duclos",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

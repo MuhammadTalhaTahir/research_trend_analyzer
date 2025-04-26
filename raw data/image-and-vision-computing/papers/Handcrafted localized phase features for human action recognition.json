@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885622000944",
+    "title": "Handcrafted localized phase features for human action recognition",
+    "abstract": "Human action recognition is one of the most important topics in computer vision. Monitoring elderly people and children, smart surveillance systems and human-computer interaction are a few examples of its applications. The aim of this study is to recognize human activities by utilizing the phase information extracted from the frequency domain of the video data as handcrafted features. Rather than estimating optical flow or computing motion vectors, we aim to utilize the localized phase information as descriptors of the motion dynamics of the scene. Phase correlation information extracted from each two co-sited blocks from each two consecutive frames of video clips were used to train a model using KNN classifier to model the action. To evaluate the performance of our method, an extensive work has been done on three large and complex datasets: UCF101, Kinetics-400 and Kinetics-700. The results show that our approach succeeds on recognizing human actions across all these datasets with high accuracy.",
+    "citation_count": "0",
+    "year": "2022/07/01",
+    "authors": [
+        {
+            "name": "Seyed Mostafa Hejazi",
+            "country": ""
+        },
+        {
+            "name": "Charith Abhayaratne",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

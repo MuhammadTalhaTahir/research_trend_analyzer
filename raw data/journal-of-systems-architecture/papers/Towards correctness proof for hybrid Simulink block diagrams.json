@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762123001017",
+    "title": "Towards correctness proof for hybrid Simulink block diagrams",
+    "abstract": "Cyber–physical systems (CPS) are often modelled using Simulink to simulate plant and controller behaviour by  block diagrams . However, since the incomplete coverage of simulation, design using Simulink alone is insufficient for ensuring the correctness of the modelled system, especially in safety-critical CPS. The  correctness  is that the Simulink block diagrams satisfy the formal specification of the system being modelled. In this work, we present a contract-based method, which supports compositional reasoning and refinement, for proving the correctness of hybrid Simulink block diagrams (i.e., the block diagrams mixed continuous–discrete blocks and multi-rate  discrete-time  block diagrams). To this end, we first define a formal semantics for hybrid Simulink block diagrams. We then use the contract as a specification language. Moreover, we present a  satisfaction relation  between the block diagram and the contract, and a  refinement relation  between the contracts. We prove that the refinement relation preserves the correctness: if the hybrid Simulink block diagram satisfies the composition contract and the composition contract refines the system specification, the hybrid block diagram is correct relative to the system specification. Furthermore, the effectiveness of our method is illustrated by a vehicle driving control system.",
+    "citation_count": "1",
+    "year": "2023/08/01",
+    "authors": [
+        {
+            "name": "Wei Zhang",
+            "country": ""
+        },
+        {
+            "name": "Quan Sun",
+            "country": ""
+        },
+        {
+            "name": "Chao Wang",
+            "country": ""
+        },
+        {
+            "name": "Zhiming Liu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

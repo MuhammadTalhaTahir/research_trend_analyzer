@@ -1,0 +1,38 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121001119",
+    "title": "A multi-objective LSM/NoC architecture co-design framework",
+    "abstract": "Liquid state machine(LSM) is an attractive spiking  neural network  (SNN) for Network-on-Chip(NoC)-based neuromorphic platforms due to their biological characteristics and hardware efficiency. But the randomly connected topology of the liquid in LSM and lots of communication spike bring different dataflow and communication congestion on the NoC-based platform. Aiming to design an accurate and communication optimized LSM architecture, we have to explore the LSM and NoC architecture design space. Enormous design space and the gap between LSM/NoC design space bring challenges to find out the optimal pair of LSM/NoC architecture design. To face the above challenge, we propose a multi-objective LSM/NoC architecture co-design framework, which fast and efficiently explores the design space of LSM/NoC to generate an optimal LSM architecture with low latency on NoC-based platform. Evaluation results show that our framework can generate LSM architecture suitable for execution on NoC-based platform with reduced runtime and negligible reduced accuracy. Compared with state-of-the-art  LSM designs  with the fixed NoC structure, we achieve 2.5x ∼ 3.0x  latency reduction  or average 3.1x energy reduction. For  fair comparison , compared with state-of-the-art LSM designs with our NOC architecture search process, our framework can achieve 1.25x ∼ 1.41x lower latency and 1.16x ∼ 1.87x lower energy together with only average 0.65% accuracy loss.",
+    "citation_count": "8",
+    "year": "2021/06/01",
+    "authors": [
+        {
+            "name": "Shiming Li",
+            "country": ""
+        },
+        {
+            "name": "Shuo Tian",
+            "country": ""
+        },
+        {
+            "name": "Ziyang Kang",
+            "country": ""
+        },
+        {
+            "name": "Lianhua Qu",
+            "country": ""
+        },
+        {
+            "name": "Shiying Wang",
+            "country": ""
+        },
+        {
+            "name": "Lei Wang",
+            "country": ""
+        },
+        {
+            "name": "Weixia Xu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

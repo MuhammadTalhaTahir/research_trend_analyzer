@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-020-00647-4",
+    "title": "A bi-objective decision model and method for the integrated optimization of bus line planning and lane reservation",
+    "abstract": "The increasingly serious traffic congestion makes the bus system more and more inefficient. It is recognized all over the world that designing an attractive bus transit network is primordial to alleviate traffic congestion and reduce pollution, but it is a big challenge from an economic and technical point of view. In the literature, dedicated bus lanes are generally set up to improve the efficiency of bus transit network without considering bus line planning. This study investigates a new bi-objective bus line planning and lane reservation integrated optimization problem that is a complex combinatorial optimization problem. The objective is to minimize the total travel time of passengers and the lane reservation negative impact, simultaneously. For the problem, a bi-objective integer linear programming model is first formulated and the problem complexity is proved to be NP-hard. Then, problem properties are explored to reduce search space for optimal solutions, and an iterative and fuzzy method based on $$\\varepsilon $$ -constraint is proposed to yield the Pareto frontier and suggest a preferred solution for decision-makers. Experimental results on a case study and randomly generated instances demonstrate the effectiveness and efficiency of the proposed model and method.",
+    "citation_count": 54,
+    "year": "2022/07",
+    "authors": [
+        {
+            "name": "Wu, Peng",
+            "country": "China"
+        },
+        {
+            "name": "Xu, Ling",
+            "country": "China"
+        },
+        {
+            "name": "Che, Ada",
+            "country": "China"
+        },
+        {
+            "name": "Chu, Feng",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

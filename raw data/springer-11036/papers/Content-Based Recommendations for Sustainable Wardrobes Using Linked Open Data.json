@@ -1,0 +1,31 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-018-1068-1",
+    "title": "Content-Based Recommendations for Sustainable Wardrobes Using Linked Open Data",
+    "abstract": "Textile production industry is one of the biggest industries available and it is known by its negative effects to the environment. Greenhouse gas emissions can drastically be reduced by just recycling the textile waste. Such textile recycling has become a lot easier with clothing retailers now starting to offer recycling checkpoints. Moreover, people today are often challenged by overloaded wardrobes and store many clothing items that they never use. In this paper, we describe an Internet of Things system that creates incentives for the users to recycle their clothes, benefiting the environmental sustainability. We propose a content-based recommendation approach that utilizes semantic web technologies and that leverages a set of context signals obtained from the system’s architecture, to recommend clothing items that might be relevant for the user to recycle. Experiments on a real-world dataset show that our proposed approach outperforms a baseline which does not utilize semantic web technologies.",
+    "citation_count": 25,
+    "year": "2018/12",
+    "authors": [
+        {
+            "name": "Kolstad, Anders",
+            "country": "Norway"
+        },
+        {
+            "name": "Özgöbek, Özlem",
+            "country": "Norway"
+        },
+        {
+            "name": "Gulla, Jon Atle",
+            "country": "Norway"
+        },
+        {
+            "name": "Litlehamar, Simon",
+            "country": "Norway"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

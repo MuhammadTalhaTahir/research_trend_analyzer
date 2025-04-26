@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-018-0700-9",
+    "title": "Texture synthesis and modified filter bank in contourlets for improved iris recognition",
+    "abstract": "Iris recognition in the presence of eyelash occlusions is a challenging task over the years since it has begun. The active area captured under non-ideal imaging conditions usually suffers from low contrast, poor brightness, blur due to camera or subject’s relative motion and particularly eyelash and eyelid occlusions. Accurate segmentation methods avoid occlusions to some extent but not completely always. In the proposed method, pixel-wise texture synthesis is done on occluded regions which improves the correct recognition rate (CRR). The contourlet transform which is a multiresolution tool, decomposes an image into different scales and directions with the help of pyramidal and directional filter bank (PDFB). A new FIR filter named as SSK filter is proposed by the authors for the PDFB in contourlets to extract apt features of iris such that the CRR is further improved. The performance of the proposed method is checked against CASIA-Iris-Interval (V3), IITD, CASIA-V1 and UBIRIS-V1 iris databases, and from the results obtained, it is proved that the proposed method is very much worthwhile for improved iris recognition even in the presence of eyelash and eyelid occlusions.",
+    "citation_count": 32,
+    "year": "2018/11",
+    "authors": [
+        {
+            "name": "Suvarchala, P. V. L.",
+            "country": "India"
+        },
+        {
+            "name": "Srinivas Kumar, S.",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10617-010-9067-x",
+    "title": "An efficient management scheme for updating redundant information in flash-based storage system",
+    "abstract": "Since flash memory has many attractive characteristics such as high performance, non-volatility, low power consumption and shock resistance, it has been widely used as a storage media in embedded and computer system environments. However, there are many shortcomings in flash memory such as potentially high I/O latency due to erase-before-write and poor durability due to limited erase cycles. To address these performance and reliability anomalies, many large-scale storage systems use redundancy-based parallel access schemes such as RAID techniques. However, such redundancy-based schemes incur high overhead due to generating and storing redundancy information, especially in flash-based storage systems. In this paper, we propose a novel and performance-effective approach using a redundancy-based data management scheme in flash storage, called Flash-aware Redundancy Array. The proposed technique not only reduces the redundancy management overhead by performing redundancy update operations during idle periods, but also provides a preventive mechanism to recover data from unexpected read errors occurring before such redundancy update operations finish. From the experiments, we found that the proposed technique improves flash-based storage systems by 19% in average execution time as compared to other redundancy-based approaches.",
+    "citation_count": 16,
+    "year": "2010/12",
+    "authors": [
+        {
+            "name": "Lee, Yangsup",
+            "country": "South Korea"
+        },
+        {
+            "name": "Jung, Sanghyuk",
+            "country": "South Korea"
+        },
+        {
+            "name": "Choi, Min",
+            "country": "South Korea"
+        },
+        {
+            "name": "Song, Yong Ho",
+            "country": "South Korea"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

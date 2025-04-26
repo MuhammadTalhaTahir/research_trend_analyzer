@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-014-0372-z",
+    "title": "An off-line cheque handwritten forgery detection based on feature route density matrix",
+    "abstract": "The security of handwritten documents is very important in authentication systems. In this paper, a forgery detection method is proposed for verifying handwritten documents. This method proposes two types of novel features: macro and micro. Macro features extract the structure of handwritten while micro features extract more detailed information. Also, the micro features try to extract some properties similar to online properties from offline data such as pen pressure and velocity. After extracting those features a PCA is applied to them which resulted in reducing the feature vector. A simple positive classifier is used separately to detect forgeries. It is very important that the weights of this classifier have been adjusted based on positive data because it is not possible to use forgery samples in adjusting phase. To test the proposed method a Persian handwritten data set was prepared using four kinds of forgeries; random, unskilled, skilled, and mimic. This data set consists of numbers written by text as reference words. The method performance using these different reference words showed the best result in correct rejection was 87&nbsp;% while the correct acceptance was 97&nbsp;%. We believe the proposed method can be applied to other languages by adjusting some parameters but because it is very important to have the data in high resolution format (e.g. 1,200&nbsp;dpi) and none of databases have such resolution, the method was only applied to the dataset we gathered.",
+    "citation_count": 19,
+    "year": "2014/11",
+    "authors": [
+        {
+            "name": "Helli, Behzad",
+            "country": "Iran"
+        },
+        {
+            "name": "Moghaddam, Mohsen Ebrahimi",
+            "country": "Iran"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

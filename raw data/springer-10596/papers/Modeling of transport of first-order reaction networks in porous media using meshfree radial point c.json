@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-019-09906-8",
+    "title": "Modeling of transport of first-order reaction networks in porous media using meshfree radial point collocation method",
+    "abstract": "First-order reaction networks are often encountered in groundwater pollution problems. The members of the network transform/degrade from one species to another. In this paper a strong form meshfree numerical method named radial point collocation method (RPCM) is introduced to model such reactions. In the proposed method, the entire domain is decomposed into a number of overlapping local support domains surrounding each node. The concentrations of species at each node and its directional derivatives are approximated using multiquadrics radial basis functions (MQ-RBF) within the local support domain. 1D models are verified against existing analytical solutions. Further, the 2D model simulations are compared with widely used RT3D (Reactive Transport in 3 Dimensions) for a benchmark problem. Sensitivity analysis is also performed for model parameters. The proposed model solves species-wise governing equations and boundary conditions without operator splitting, unlike the popular grid/mesh-based models. The RPCM-based models are found to be very effective in modeling first-order reaction network problems.",
+    "citation_count": 30,
+    "year": "2019/12",
+    "authors": [
+        {
+            "name": "Anshuman, Aatish",
+            "country": "India"
+        },
+        {
+            "name": "Eldho, T. I.",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885616300804",
+    "title": "Pose-specific non-linear mappings in feature space towards multiview facial expression recognition",
+    "abstract": "We introduce a novel approach to recognizing facial expressions over a large range of head poses. Like previous approaches, we map the features extracted from the input image to the corresponding features of the face with the same facial expression but seen in a frontal view. This allows us to collect all  training data  into a common referential and therefore benefit from more data to learn to recognize the expressions. However, by contrast with such previous work, our mapping depends on the pose of the input image: We first estimate the pose of the head in the input image, and then apply the mapping specifically learned for this pose. The features after mapping are therefore much more reliable for recognition purposes. In addition, we introduce a non-linear form for the mapping of the features, and we show that it is robust to occasional mistakes made by the pose estimation stage. We evaluate our approach with extensive experiments on two protocols of the BU3DFE and Multi-PIE datasets, and show that it outperforms the state-of-the-art on both datasets.",
+    "citation_count": "27",
+    "year": "2017/02/01",
+    "authors": [
+        {
+            "name": "Mahdi Jampour",
+            "country": ""
+        },
+        {
+            "name": "Vincent Lepetit",
+            "country": ""
+        },
+        {
+            "name": "Thomas Mauthner",
+            "country": ""
+        },
+        {
+            "name": "Horst Bischof",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

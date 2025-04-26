@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885608001224",
+    "title": "A Mumford–Shah model on lattice",
+    "abstract": "Mumford–Shah piecewise smooth functional is a variational PDE model widely used in image segmentation and smoothing. An analogous discrete model which models image as an MRF has also been built. In this paper, we propose another discrete Mumford–Shah piecewise smooth model on lattice from a different perspective. We present a discrete objective functional, as well as the method to find the solution. Only two simple and deterministic optimization techniques, that is, derivation and  greedy algorithm  are used in the model to seek the solution. Compared with traditional continuous model, the model in this paper is much simpler and the approach is much easier and faster.",
+    "citation_count": "2",
+    "year": "2008/12/01",
+    "authors": [
+        {
+            "name": "Lu Yu",
+            "country": ""
+        },
+        {
+            "name": "Qiao Wang",
+            "country": ""
+        },
+        {
+            "name": "Lenan Wu",
+            "country": ""
+        },
+        {
+            "name": "Jun Xie",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

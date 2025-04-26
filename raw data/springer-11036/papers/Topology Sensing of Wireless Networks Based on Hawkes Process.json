@@ -1,0 +1,35 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-020-01588-2",
+    "title": "Topology Sensing of Wireless Networks Based on Hawkes Process",
+    "abstract": "With the popularization of wireless heterogeneous networks, it is becoming more and more important to infer network behavior. Topology sensing, as a fundamental issue in the field of network confrontation, can help network make optimal decisions. However, most of the related studies focus on topology sensing with complete and perfect observations, while the characteristics of wireless channel are relatively few investigated. Consequently, this paper investigates the issue of wireless network topology sensing with unreliable information caused by imperfect channels. First, a robust system model for external topology sensing considering unreliable information is formulated. Then, a wireless channel-oriented topology sensing scheme based on Hawkes process is proposed to address the challenge of unreliable information. In addition, simulations are carried out to demonstrate that the scheme we proposed is effective to deal with the imperfect channels. The performance under various parameter configurations is also analyzed, which can help us to find an optimal solution in practice.",
+    "citation_count": 36,
+    "year": "2020/12",
+    "authors": [
+        {
+            "name": "Liu, Zitong",
+            "country": "China"
+        },
+        {
+            "name": "Sun, Jiachen",
+            "country": "China"
+        },
+        {
+            "name": "Shen, Feng",
+            "country": "China"
+        },
+        {
+            "name": "Wang, Zheng",
+            "country": "China"
+        },
+        {
+            "name": "Li, Gao",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

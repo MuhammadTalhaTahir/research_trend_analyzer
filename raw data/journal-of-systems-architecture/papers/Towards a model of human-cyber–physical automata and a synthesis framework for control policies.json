@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762123001686",
+    "title": "Towards a model of human-cyber–physical automata and a synthesis framework for control policies",
+    "abstract": "Advances in research and increasing applications of  Cyber–Physical Systems  (CPSs) show the need to consider factors of humans in the loop. This has led to the growing research focus on  Human-Cyber–Physical Systems  (HCPSs). In general, humans in an HCPS interact with both the cyber and physical systems, as well as among the humans themselves. For a better understanding, correct design, development, operation, and maintenance of HCPSs, a  computational theory  based on a  computational model  is required. This paper presents our initial work towards a model of  human-cyber–physical automata  (HCPA). We consider an HCPS as a combination of a  human-physical system  (HPS) and a CPS in which the control switches between the humans and the machines. We define an HCPA by connecting the automaton of the HPS and the automaton of the CPS through a  switch control automaton . The switch control automaton makes switching decision in some  critical states  shared by the HPS and the CPS. Our theorem shows that the control switching between the HPS and the CPS increases the probability of satisfying a given property. We model the behaviour of a human in specified applications or even in carry out specific tasks, instead of general human intelligence. Therefore, a human can make mistakes to decision making and thus it is a probabilistic automaton with learning ability. The switching between the human and the machine is modelled by an oracle. The oracle learns about the human behaviour, the machine behaviour, as well as the environment to make the control decisions. To generate the control policies of the human and the oracle, we propose a synthesis framework to maximize the probability of the satisfaction of a property specified in  Linear  Temporal Logic  (LTL) by the HCPA. We present a prototype implementation of the framework by extending the model-free  reinforcement learning  (RL) algorithm and model-free deep-RL algorithm, and our experiment shows that our synthesis framework is effective in obtaining switch policies.",
+    "citation_count": "5",
+    "year": "2023/11/01",
+    "authors": [
+        {
+            "name": "Xiaochen Tang",
+            "country": ""
+        },
+        {
+            "name": "Miaomiao Zhang",
+            "country": ""
+        },
+        {
+            "name": "Wanwei Liu",
+            "country": ""
+        },
+        {
+            "name": "Bowen Du",
+            "country": ""
+        },
+        {
+            "name": "Zhiming Liu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

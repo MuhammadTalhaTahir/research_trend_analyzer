@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-022-01082-3",
+    "title": "Parallel matrix factorization-based collaborative sparsity and smooth prior for estimating missing values in multidimensional data",
+    "abstract": "Parallel matrix factorization has recently emerged as a powerful tool for low-rank tensor recovery problems. However, using only the low-rank property is often not sufficient for recovering valuable details in images. Generally, incorporating additional prior knowledge shows significant improvement in the recovered results. Therefore, smooth matrix factorization has been introduced for tensor completion in which the smoothness of its spectral factor over the third mode has been recently considered. However, these models may not efficiently characterize the smoothness of the target tensor. Thus, in this work, we are interested in boosting the piecewise smoothness by using the third-mode smoothness of the underlying tensor combined with spectral sparsity of the third factor of the factorization. Therefore, we propose in this paper a parallel matrix factorization-based sparsity constraint with a smoothness prior to the third mode of the target tensor. We develop a multi-block proximal alternating minimization algorithm for solving the proposed model. Theoretically, we show that the generated sequence globally converges to a critical point. The superiority of our model over other tensor completion methods in terms of several evaluation metrics is reported via extensive experiments conducted on real data such as videos, hyperspectral images, and MRI data.",
+    "citation_count": 37,
+    "year": "2022/11",
+    "authors": [
+        {
+            "name": "Mohaoui, Souad",
+            "country": "Maroc"
+        },
+        {
+            "name": "Hakim, Abdelilah",
+            "country": "Maroc"
+        },
+        {
+            "name": "Raghay, Said",
+            "country": "Maroc"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

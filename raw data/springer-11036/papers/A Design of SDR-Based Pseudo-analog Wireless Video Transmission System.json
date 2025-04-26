@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-020-01592-6",
+    "title": "A Design of SDR-Based Pseudo-analog Wireless Video Transmission System",
+    "abstract": "The pseudo-analog wireless video transmission technology can improve the effectiveness, reliability, and robustness of the conventional digital system in video broadcast scenarios. Although some prototypes of IEEE 802.11 series have been developed for researchers to do simulations and experiments, they are usually expensive and provide very limited access to the physical layer. More importantly, these prototypes cannot be used to verify the correctness of the new proposed pseudo-analog wireless video transmission algorithms directly due to limited modulation modes they can support. In this paper, we present a novel design of software radio platform (SDR)-based pseudo-analog wireless video transceiver which is completely transparent and allows users to learn all the implementation details. Firstly, we prove that the analog method can also achieve the optimal performance as the digital method from the perspective of the rate-distortion theory. Then, we describe the two hardware implementation difficulties existed in the designing process including the data format modification and the non-linear distortion. Next, we introduce the implementation details of the designed transceiver. Finally, we analyze the performance of the designed transceiver. Specifically, the results show that the designed system can work effectively in both simulations and experiments.",
+    "citation_count": 35,
+    "year": "2020/12",
+    "authors": [
+        {
+            "name": "Tang, Xiao-Wei",
+            "country": "China"
+        },
+        {
+            "name": "Huang, Xin-Lin",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

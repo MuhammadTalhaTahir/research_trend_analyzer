@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623000021",
+    "title": "Intelligent multimodal pedestrian detection using hybrid metaheuristic optimization with deep learning model",
+    "abstract": "For video surveillance, pedestrian detection assists in providing baseline data for crowd monitoring, people counting, and event detection; for smart transport system, pedestrian detection acts as a vital part in the semantic understanding of the environment. Pedestrian detection is frequently confronted with substantial intra-class variability because human tends to have great variation in human appearance and pose. Currently, the emergence of  deep learning  (DL) model has received considerable attention in  computer vision  techniques like object detection and object classification, and this application is based on supervised learning which required labels. Convolution  neural networks  (CNN) have assisted substantial improvement in pedestrian recognition due to the stronger representative capability of the CNN feature. But it is usually hard to decrease false positives on hard negative samples namely poles,  tree  leaves, traffic lights, and so on. Therefore, this study develops an intelligent multimodal pedestrian detection and classification using hybrid  metaheuristic optimization  with  deep learning  (IPDC-HMODL) algorithm. The major aim of the presented IPDC-HMODL model is the recognition and classification of multiple pedestrians exist in the input frames. It follows a three stage process namely multimodal object detection, pedestrian classification, and parameter tuning. At the initial stage, the IPDC-HMODL model uses multimodal object detector using YOLO-v5 and RetinaNet model. In addition, the IPDC-HMODL model applies kernel  extreme learning machine  (KELM) algorithm for pedestrian classification. Finally, hybrid  salp swarm optimization  (HSSO) model is used for optimal parameter adjustment. To depict the improvised outcomes of the IPDC-HMODL technique, a wide spread simulation analysis was conducted. The comparison study highlighted the enhanced outcomes of the IPDC-HMODL model over other approaches on multimodal pedestrian detection.",
+    "citation_count": "24",
+    "year": "2023/03/01",
+    "authors": [
+        {
+            "name": "Johnson Kolluri",
+            "country": ""
+        },
+        {
+            "name": "Ranjita Das",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,41 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-023-01045-2",
+    "title": "Maximizing the amount of data collected from WSN based on solar-powered UAV in urban environment",
+    "abstract": "Unmanned Aerial Vehicle (UAV) plays an increasingly role in data collection from Wireless Sensor Networks (WSNs) with the advantages of its high mobility and flexibility. However, the energy limitation of UAV restricts its application for data collection tasks. To solve the problem, we install solar panel on UAV to acquire energy from sunlight. This paper studies Data Collection Maximization based on Solar-powered UAV (DCMS) problem in urban environment with lots of obstacles, where one UAV equipped with solar panel is used to collect data from WSN. The problem aims at optimizing the flight trajectory of UAV such that the amount of data collected from WSN is maximized. We prove that the problem is NP-hard. To solve the DCMS problem, we first propose three algorithms: Bypass Obstacles during Flight Algorithm (BOFA), Auxiliary Graph Flight Path (AGFP), Construct Flight Plan in data collection Area (CFPA). Their objectives are to bypass the obstacles, to obtain the flight path connecting all data collection areas in WSN, to optimize the flight trajectories of UAV in the data collection areas, respectively. Afterwards, we propose an approximation algorithm called DCMSA to solve the DCMS problem based on BOFA, AGFP, CFPA algorithms. Finally, the proposed algorithm is verified by extensive simulations.",
+    "citation_count": 19,
+    "year": "2023/07",
+    "authors": [
+        {
+            "name": "Luo, Chuanwen",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Hu, Junzhe",
+            "country": "China"
+        },
+        {
+            "name": "Hou, Yunan",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Hong, Yi",
+            "country": "China"
+        },
+        {
+            "name": "Zhu, Yuqing",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Li, Deying",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

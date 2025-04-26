@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885625000320",
+    "title": "Enhanced residual network for burst image super-resolution using simple base frame guidance",
+    "abstract": "Burst or multi-frame image super-resolution (MFSR) has emerged as a critical area in computer vision, aimed at reconstructing high-resolution images from low-resolution bursts. Unlike single-image super-resolution (SISR), which has been extensively studied, MFSR leverages information from multiple shifted frames in order to mitigate the ill-posed nature of SISR. The rapid advancement in the capabilities of handheld devices, including enhanced processing power and faster image capture rates also add a layer of relevance in this field. In our previous work, we proposed a simple yet effective deep learning method tailored for RAW images, called Simple Base Frame Burst (SBFBurst). This method, based on residual convolutional architecture, demonstrated significant performance improvements by incorporating base frame guidance mechanisms such as skip frame connections and concatenation of the base frame alongside the network. Despite the promising outcomes obtained, given the outlined context and the limited investigation compared to SISR, it is evident that further extensions and experiments are required to propel the field of MFSR forward. In this paper, we extend our recent work on SBFBurst by conducting a comprehensive analysis of the method from various perspectives. Our primary contribution lies in adapting and testing the architecture to handle both RAW Bayer pattern images and RGB images, allowing the evaluation using the novel RealBSR-RGB dataset. Our experiments revealed that SBFBurst still consistently outperforms existing state-of-the-art approaches both quantitatively and qualitatively, even after the introduction of a new method, FBANet, for comparison. We also extended our experiments to assess the impact of architecture parameters, model generalization, and its capacity to leverage complementary information. These exploratory extensions may open new avenues for advance in this field. Our code and models are publicly available at  https://github.com/AndersonCotrim/SBFBurst .",
+    "citation_count": "0",
+    "year": "2025/03/01",
+    "authors": [
+        {
+            "name": "Anderson Nogueira Cotrim",
+            "country": ""
+        },
+        {
+            "name": "Gerson Barbosa",
+            "country": ""
+        },
+        {
+            "name": "Cid Adinam Nogueira Santos",
+            "country": ""
+        },
+        {
+            "name": "Helio Pedrini",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

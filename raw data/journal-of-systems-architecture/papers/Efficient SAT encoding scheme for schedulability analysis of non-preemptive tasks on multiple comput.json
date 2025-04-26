@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762120301107",
+    "title": "Efficient SAT encoding scheme for schedulability analysis of non-preemptive tasks on multiple computational resources",
+    "abstract": "This work considers exact  schedulability analysis  of a set of aperiodic non-preemptive tasks on a given set of  computational resources , and the problem is known to be NP-Complete. We propose four different SAT-based encoding schemes to address the exact schedulability problem. Each approach requires a different number of variables and generates a distinct number of clauses. We present extensive comparative studies on those approaches for both theoretical and practical results. Interestingly, the encoding scheme that requires the least number of variables is one of the worst encoding schemes among the four. We observe that it is not only the number of variables but also the other factors such as the number of clauses, the number of literals per clause, etc. dictate the performance. Moreover, the solver can play significant role on the performance. Hence, an efficient encoding scheme is absolutely necessary to find a solution quickly for resource-constrained systems.",
+    "citation_count": "2",
+    "year": "2020/11/01",
+    "authors": [
+        {
+            "name": "Jaishree Mayank",
+            "country": ""
+        },
+        {
+            "name": "Arijit Mondal",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

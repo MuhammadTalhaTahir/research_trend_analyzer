@@ -1,0 +1,31 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-016-0737-1",
+    "title": "The Performance Evaluation of Hybrid Localization Algorithm in Wireless Sensor Networks",
+    "abstract": "As one of the key techniques in wireless sensor networks (WSN), localization algorithm has been a research hot topic and indispensable function in most wireless applications. In order to promote localization accuracy and efficiency, a lot of localization algorithms with different performances and computation complexities have been proposed. The paper discusses the drawbacks of some typical works on localization, and proposes a hybrid localization algorithm integrated with approximate point in triangle (APIT) and distance vector-hop (DV-HOP). To address the positioning accuracy and coverage rate, the objectives of this paper are three folds: firstly, adopting angle detection to determine the exact direction of unknown nodes. Then, the APIT algorithm is adopted over all unknown nodes within the triangle and its localization error is reduced from 14.7215 m in conventional APIT to 3.2348 m in the considered scenario. Finally, the DV-HOP algorithm is adopted with different weights for the nodes within the minimum hops, and localizes the rest unknown nodes in WSN with localization accuracy increased by 49%.",
+    "citation_count": 16,
+    "year": "2016/12",
+    "authors": [
+        {
+            "name": "Liu, Chungang",
+            "country": "China"
+        },
+        {
+            "name": "Liu, Songlin",
+            "country": "China"
+        },
+        {
+            "name": "Zhang, Wenbin",
+            "country": "China"
+        },
+        {
+            "name": "Zhao, Donglai",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

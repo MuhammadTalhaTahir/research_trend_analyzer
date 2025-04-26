@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124001942",
+    "title": "Design-time methodology for optimizing mixed-precision CPU architectures on FPGA",
+    "abstract": "Approximate computing can significantly reduce the energy consumption of computing systems. Mixed-precision hardware architectures and precision-tuning tools for software provide the ability to introduce approximations, but when applied separately, they do not give complete control over the accuracy-energy trade-off. The co-optimization of approximations in hardware and software is a complex task, but it promises considerable benefits. We present a methodology for the fast design-time selection of mixed-precision hardware-software combinations that minimize the energy consumption and the area of the target FPGA-based softcore CPUs with configurable support for floating-point and fixed-point arithmetic. Our approach can evaluate configurations more than 2000 times faster than the alternative approach of using gate-level simulation. On benchmarks from the PolyBench suite the identified hardware-software configurations showed improvement of the energy-to-solution metric ranging from 20% to 95%.",
+    "citation_count": "0",
+    "year": "2024/10/01",
+    "authors": [
+        {
+            "name": "Lev Denisov",
+            "country": ""
+        },
+        {
+            "name": "Andrea Galimberti",
+            "country": ""
+        },
+        {
+            "name": "Daniele Cattaneo",
+            "country": ""
+        },
+        {
+            "name": "Giovanni Agosta",
+            "country": ""
+        },
+        {
+            "name": "Davide Zoni",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

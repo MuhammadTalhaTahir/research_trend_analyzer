@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124001280",
+    "title": "Error correction and erasure codes for robust network steganography",
+    "abstract": "Error correction and erasure codes and steganographic channels use related methods, but are investigated separately. We detail an idea from literature for a steganographic channel in a transmission with error correction code and experimentally investigate it with respect to bandwidth, robustness and detectability. We expand this construction to provide an example of multi-level steganography, i.e., a steganographic channel within a steganographic channel. Furthermore, we investigate the advantages on bandwidth and stealthyness that reversibility of such a steganographic channel brings, together with a new proposal for a covert channel in error-corrected data.",
+    "citation_count": "0",
+    "year": "2024/08/01",
+    "authors": [
+        {
+            "name": "Jörg Keller",
+            "country": ""
+        },
+        {
+            "name": "Saskia Imhof",
+            "country": ""
+        },
+        {
+            "name": "Peter Sobe",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

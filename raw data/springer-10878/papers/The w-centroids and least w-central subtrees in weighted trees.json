@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-017-0174-5",
+    "title": "The w-centroids and least w-central subtrees in weighted trees",
+    "abstract": "Let T be a weighted tree with a positive number w(v) associated with each vertex v. A subtree S is a w-central subtree of the weighted tree T if it has the minimum eccentricity $$e_L(S)$$ in median graph $$G_{LW}$$ . A w-central subtree with the minimum vertex weight is called a least w-central subtree of the weighted tree T. In this paper we show that each least w-central subtree of a weighted tree either contains a vertex of the w-centroid or is adjacent to a vertex of the w-centroid. Also, we show that any two least w-central subtrees of a weighted tree either have a nonempty intersection or are adjacent.",
+    "citation_count": 11,
+    "year": "2018/11",
+    "authors": [
+        {
+            "name": "Shan, Erfang",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Kang, Liying",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

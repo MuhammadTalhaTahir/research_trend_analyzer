@@ -1,0 +1,41 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-015-9856-z",
+    "title": "A two-stage method for member selection of emergency medical service",
+    "abstract": "Member selection is an important decision making problem in the formation of emergency medical teams. It involves selecting an optimal combination from a reasonable number of doctors, nurses and emergency medical technicians. Selecting suitable members for a medical emergency team (MET) will facilitate the effectiveness of emergency medical service (EMS). Essentially, investigations on EMS could offer models which increase the efficiency of proper matching and earn time to save lives. The existing methods for member selection pay much attention to the individual information to measure the individual performance of members, while few studies focus on the collaborative information to measure the collaborative performance between members. This paper aims to propose a two-stage method for member selection of an MET. In the first stage, knowledge rules are proposed to identify the valid candidates quickly. In the second stage, the individual information of members, the collaborative information between members, and the response time of EMS are all considered to build a three-objective 0-1 programming model. Due to its intractability, the model is solved by a non-dominated sorting genetic algorithm II. Liberia, now suffering the Ebola virus, is used as a backdrop for this study. A practical example followed by a computational simulation experiment is used to illustrate the applicability and the effectiveness of the proposed method.",
+    "citation_count": 21,
+    "year": "2015/11",
+    "authors": [
+        {
+            "name": "Chen, Xi",
+            "country": "China"
+        },
+        {
+            "name": "Fan, Zhiping",
+            "country": "China"
+        },
+        {
+            "name": "Li, Zhiwu",
+            "country": "China"
+        },
+        {
+            "name": "Han, Xueliang",
+            "country": "Saudi Arabia"
+        },
+        {
+            "name": "Zhang, Xiao",
+            "country": "China"
+        },
+        {
+            "name": "Jia, Haochen",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

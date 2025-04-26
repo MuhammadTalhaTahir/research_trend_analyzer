@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621001967",
+    "title": "Multi-Tier Attention Network using Term-weighted Question Features for Visual Question Answering",
+    "abstract": "Visual Question Answering  (VQA) is a multi-modal challenging task that accepts an image and a natural language question about that image as inputs and desires to find the correct answer. This AI-complete task necessitates the fine-grained  joint  understanding of the two input modalities. Inspired by the success of  attention mechanism  in the task of efficient comprehension of visual-language features for VQA, this paper proposes a Multi-Tier Attention Network (MTAN) with the major component being term-weighted question-guided visual attention. Additionally, we introduce a novel Supervised Term Weighting (STW) scheme named ‘qf.obj.cos’ to semantically weight words utilizing the notion of visual object detection. This can be generalized to other vision-language comprehension tasks like  image captioning , text-to-image-retrieval, multi-modal summarization etc. In effect, the proposed system allows the generation of more discriminative visual features from the progressive steps of question guided visual attention where question embedding is indeed guided by semantic term weighting. MTAN is quantitatively and qualitatively evaluated on the benchmark DAQUAR dataset and an extensive set of ablations are studied to demonstrate the individual significance of each of the components of the system. Experimental results certify that MTAN performs better than the previous works using the same dataset.",
+    "citation_count": "5",
+    "year": "2021/11/01",
+    "authors": [
+        {
+            "name": "Sruthy Manmadhan",
+            "country": ""
+        },
+        {
+            "name": "Binsu C. Kovoor",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

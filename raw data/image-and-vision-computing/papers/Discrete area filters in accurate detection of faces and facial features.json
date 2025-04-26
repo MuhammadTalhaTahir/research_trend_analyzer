@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885614001437",
+    "title": "Discrete area filters in accurate detection of faces and facial features",
+    "abstract": "This paper introduces a new method for detection of faces and  facial features . Proposed algorithm denies the thesis that bottom-up solutions can't work at reasonable speed. It introduces fast detection – about 9 frames per second for a 384   ×   256 image – while preserving accurate details of the detection. Main experiments focus on the detection of the eye centers — crucial in many  computer vision  systems such as  face recognition ,  eye movement  detection or  iris recognition , however algorithm is tuned to detect 15  fiducial  face points. Models were trained on nearly frontal faces. Bottom-up approach allows to detect objects under  partial occlusion  — particularly two out of four face parts (left eye, right eye, nose, mouth) must be localized. Precision of the trained model is verified on the Feret dataset. Robustness of the face detection is evaluated on the BioID, LFPW, Feret, GT, Valid and Helen databases in comparison to the state of the art detectors.",
+    "citation_count": "8",
+    "year": "2014/12/01",
+    "authors": [
+        {
+            "name": "Jacek Naruniec",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

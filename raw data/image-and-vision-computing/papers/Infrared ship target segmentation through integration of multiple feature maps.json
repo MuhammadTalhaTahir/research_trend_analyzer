@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S026288561630004X",
+    "title": "Infrared ship target segmentation through integration of multiple feature maps",
+    "abstract": "We investigate the issue of ship target segmentation in infrared (IR) images, and propose an efficient method based on feature map integration. It consists of mainly two procedures: salient region detection based on multiple feature map integration and salient region segmentation based on locally adaptive thresholding. Firstly, a saliency map is constructed by integrating multiple features of IR ship targets, including gray level intensity, local contrast, salient linear structures, and edge strength. Secondly, we propose an adaptive thresholding method to segment each local salient region, and a target  selection procedure  based on shape features is used to remove background and obtain the true target. Experimental results show that the proposed method performs well for IR ship target segmentation. The advantage of the proposed method is demonstrated in both visual and quantitative comparisons, especially for IR images with a bright background or a ship target close to port.",
+    "citation_count": "24",
+    "year": "2016/04/01",
+    "authors": [
+        {
+            "name": "Zhaoying Liu",
+            "country": ""
+        },
+        {
+            "name": "Xiangzhi Bai",
+            "country": ""
+        },
+        {
+            "name": "Changming Sun",
+            "country": ""
+        },
+        {
+            "name": "Fugen Zhou",
+            "country": ""
+        },
+        {
+            "name": "Yujian Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

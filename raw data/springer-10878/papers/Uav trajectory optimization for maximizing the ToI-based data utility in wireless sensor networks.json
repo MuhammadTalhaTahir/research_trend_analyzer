@@ -1,0 +1,41 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-025-01286-3",
+    "title": "Uav trajectory optimization for maximizing the ToI-based data utility in wireless sensor networks",
+    "abstract": "It’s a promising way to use Unmanned Aerial Vehicles (UAVs) as mobile base stations to collect data from sensor nodes, especially for large-scale wireless sensor networks. There are a lot of works that focus on improving the freshness of the collected data or the data collection efficiency by scheduling UAVs. Given that sensing data in certain applications is time-sensitive, with its value diminishing as time progresses based on Timeliness of Information (ToI), this paper delves into the UAV Trajectory optimization problem for Maximizing the ToI-based data utility (TMT). We give the formal definition of the problem and prove its NP-Hardness. To solve the TMT problem, we propose a deep reinforcement learning-based algorithm that combines the Action Rejection Mechanism and the Deep Q-Network with Priority Experience Replay (ARM-PER-DQN). Where the action rejection mechanism could reduce the action space and PER helps improve the utilization of experiences with high value, thus increasing the training efficiency. To avoid the unbalanced data collection problem, we also investigate a variant problem of TMT (named V-TMT), i.e., each sensor node can be visited by the UAV at most once. We prove that the V-TMT problem is also NP-Hard, and propose a 2-approximation algorithm as the baseline of the ARM-PER-DQN algorithm. We conduct extensive simulations for the two problems to validate the performance of our designs, and the results show that our ARM-PER-DQN algorithm outperforms other baselines, especially in the V-TMT problem, the ARM-PER-DQN algorithm always outperforms the proposed 2-approximation algorithm, which suggests the effectiveness of our algorithm.",
+    "citation_count": 38,
+    "year": "2025/04",
+    "authors": [
+        {
+            "name": "Zhao, Qing",
+            "country": "China"
+        },
+        {
+            "name": "Li, Zhen",
+            "country": "China"
+        },
+        {
+            "name": "Li, Jianqiang",
+            "country": "China"
+        },
+        {
+            "name": "Guo, Jianxiong",
+            "country": "China"
+        },
+        {
+            "name": "Ding, Xingjian",
+            "country": "China"
+        },
+        {
+            "name": "Li, Deying",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650216000122",
+    "title": "Ageist Spider Monkey Optimization algorithm",
+    "abstract": "Swarm Intelligence  (SI) is quite popular in the field of  numerical optimization  and has enormous scope for research. A number of algorithms based on decentralized and self-organized swarm behavior of natural as well as artificial systems have been proposed and developed in last few years. Spider Monkey Optimization (SMO) algorithm, inspired by the intelligent behavior of spider monkeys, is one such recently proposed algorithm. The algorithm along with some of its variants has proved to be very successful and efficient. A spider monkey group consists of members from every age group. The agility and swiftness of the spider monkeys differ on the basis of their age groups. This paper proposes a new variant of SMO algorithm termed as Ageist Spider Monkey Optimization (ASMO) algorithm which seems more practical in biological terms and works on the basis of age difference present in spider monkey population. Experiments on different benchmark functions with different parameters and settings have been carried out and the variant with the best suited settings is proposed. This variant of SMO has enhanced the performance of its original version. Also, ASMO has performed better in comparison to some of the recent advanced algorithms.",
+    "citation_count": "77",
+    "year": "2016/06/01",
+    "authors": [
+        {
+            "name": "Avinash Sharma",
+            "country": ""
+        },
+        {
+            "name": "Akshay Sharma",
+            "country": ""
+        },
+        {
+            "name": "B.K. Panigrahi",
+            "country": ""
+        },
+        {
+            "name": "Deep Kiran",
+            "country": ""
+        },
+        {
+            "name": "Rajesh Kumar",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

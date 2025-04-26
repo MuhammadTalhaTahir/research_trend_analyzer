@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001452",
+    "title": "Qualitative failures of image generation models and their application in detecting deepfakes",
+    "abstract": "The remarkable advancement of image and video generation models has led to the creation of exceptionally realistic content, posing challenges in differentiating between genuine and fabricated instances in numerous scenarios. However, despite this progress, a gap remains between the quality of generated images and those found in the real world. To address this, we have reviewed a vast body of literature from both academic publications and social media to identify qualitative shortcomings in image generation models, which we have classified into five categories. By understanding these failures, we can identify areas where these models need improvement, as well as develop strategies for detecting generated images and deepfakes. The prevalence of deepfakes in today’s society is a serious concern, and our findings can help mitigate their negative impact. In order to support research in this field, a collection of instances where models have failed is made available at  here .",
+    "citation_count": "12",
+    "year": "2023/09/01",
+    "authors": [
+        {
+            "name": "Ali Borji",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

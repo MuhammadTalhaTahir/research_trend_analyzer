@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224001263",
+    "title": "Towards explainable traffic signal control for urban networks through genetic programming",
+    "abstract": "The increasing number of vehicles in urban areas draws significant attention to traffic signal control (TSC), which can enhance the efficiency of the entire network by properly switching the phases of each signalized intersection. Fixed and max-pressure methods are commonly used in TSC systems owing to their high simplicity and good interpretability, but they respectively lack dynamic adaptability and automatic rule generation, possibly leading to low solution accuracy in complicated traffic environments. Meanwhile, meta-heuristic and black-box learning methods meet challenges in practice such as extensive computational time and poor interpretability. To this end, this paper proposes a new TSC method based on Genetic Programming (GP) to generate descriptive score rules automatically for  switching phases  of all signalized intersections in an urban transportation network. In the proposed method, switching phases of each signalized intersection type is formulated as a symbolic regression problem, and effective primitives are defined to facilitate GP to solve the problem. Experiments have been conducted on both synthetic and real-world networks. The results have validated the effectiveness of our proposed GP based method compared to several state-of-the-art TSC methods in terms of accuracy and interpretability.",
+    "citation_count": "20",
+    "year": "2024/07/01",
+    "authors": [
+        {
+            "name": "Wei-Li Liu",
+            "country": ""
+        },
+        {
+            "name": "Jinghui Zhong",
+            "country": ""
+        },
+        {
+            "name": "Peng Liang",
+            "country": ""
+        },
+        {
+            "name": "Jianhua Guo",
+            "country": ""
+        },
+        {
+            "name": "Huimin Zhao",
+            "country": ""
+        },
+        {
+            "name": "Jun Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

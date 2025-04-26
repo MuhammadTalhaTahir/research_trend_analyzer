@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S026288562030189X",
+    "title": "Cross-database and cross-attack Iris presentation attack detection using micro stripes analyses",
+    "abstract": "With the widespread use of mobile devices,  iris recognition  systems encounter more challenges, such as the vulnerability of  Presentation Attack Detection  (PAD). Recent works pointed out the contact lens attacks, especially images captured under the uncontrolled environment, as a hard task for iris PAD. In this paper, we propose a novel framework for detecting iris presentation attacks that especially for detecting contact lenses based on the normalized multiple micro stripes. The classification decision is made by the majority vote of those micro-stripes. An in-depth experimental evaluation of this framework reveals a superior performance in three databases compared with state-of-the-art (SoTA) algorithms and baselines. Moreover, our solution minimizes the confusion between textured (attack) and transparent (bona fide) presentations in comparison to  SoTA methods . We support the rationalization of our proposed method by studying the significance of different pupil-centered eye areas in iris PAD decisions under different experimental settings. In addition, extensive cross-database and cross-attack (unknown attack) detection evaluation experiments are demonstrated to explore the  generalizability  of our proposed method, texture-based method, and  neural network  based methods in three different databases. The results indicate that our Micro Stripes Analyses (MSA) method has, in most experiments, better generalizability compared to other baselines.",
+    "citation_count": "23",
+    "year": "2021/01/01",
+    "authors": [
+        {
+            "name": "Meiling Fang",
+            "country": ""
+        },
+        {
+            "name": "Naser Damer",
+            "country": ""
+        },
+        {
+            "name": "Fadi Boutros",
+            "country": ""
+        },
+        {
+            "name": "Florian Kirchbuchner",
+            "country": ""
+        },
+        {
+            "name": "Arjan Kuijper",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

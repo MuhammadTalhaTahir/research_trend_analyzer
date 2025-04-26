@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650216300244",
+    "title": "Maintaining regularity and generalization in data using the minimum description length principle and genetic algorithm: Case of grammatical inference",
+    "abstract": "In this paper, a  genetic algorithm  with  minimum description length  (GAWMDL) is proposed for  grammatical inference . The primary challenge of identifying a language of infinite  cardinality  from a finite set of examples should know when to generalize and specialize the  training data . The minimum description length principle that has been incorporated addresses this issue is discussed in this paper. Previously, the e-GRIDS learning model was proposed, which enjoyed the merits of the minimum description length principle, but it is limited to positive examples only. The proposed GAWMDL, which incorporates a traditional genetic algorithm and has a powerful global exploration capability that can exploit an optimum  offspring . This is an effective approach to handle a problem which has a large  search space  such the grammatical inference problem. The computational capability, the genetic algorithm poses is not questionable, but it still suffers from premature convergence mainly arising due to lack of population diversity. The proposed GAWMDL incorporates a bit mask oriented  data structure  that performs the reproduction operations, creating the mask, then Boolean based procedure is applied to create an  offspring  in a generative manner. The Boolean based procedure is capable of introducing diversity into the population, hence alleviating premature convergence. The proposed GAWMDL is applied in the context free as well as regular languages of varying complexities. The computational experiments show that the GAWMDL finds an optimal or close-to-optimal grammar. Two fold performance analysis have been performed. First, the GAWMDL has been evaluated against the elite mating pool genetic algorithm which was proposed to introduce diversity and to address premature convergence. GAWMDL is also tested against the improved tabular representation algorithm. In addition, the authors evaluate the performance of the GAWMDL against a genetic algorithm not using the minimum description length principle. Statistical tests demonstrate the superiority of the proposed algorithm. Overall, the proposed GAWMDL algorithm greatly improves the performance in three main aspects: maintains regularity of the data, alleviates premature convergence and is capable in grammatical inference from both positive and negative corpora.",
+    "citation_count": "19",
+    "year": "2016/12/01",
+    "authors": [
+        {
+            "name": "Hari Mohan Pandey",
+            "country": ""
+        },
+        {
+            "name": "Ankit Chaudhary",
+            "country": ""
+        },
+        {
+            "name": "Deepti Mehrotra",
+            "country": ""
+        },
+        {
+            "name": "Graham Kendall",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

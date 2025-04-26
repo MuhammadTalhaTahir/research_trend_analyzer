@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885620300068",
+    "title": "Depth-guided view synthesis for light field reconstruction from a single image",
+    "abstract": "Light field imaging has recently become a promising technology for 3D rendering and displaying. However, capturing real-world light field images still faces many challenges in both the quantity and quality. In this paper, we develop a learning based technique to reconstruct light field from a single 2D  RGB image . It includes three steps: unsupervised monocular depth estimation, view synthesis and depth-guided view inpainting. We first propose a novel monocular depth estimation network to predict  disparity maps  of each sub-aperture views from the central view of light field. Then we synthesize the initial sub-aperture views by using the warping scheme. Considering that occlusion makes synthesis ambiguous for pixels invisible in the central view, we present a simple but effective fully  convolutional network  (FCN) for view inpainting. Note that the proposed  network architecture  is a general framework for light field reconstruction, which can be extended to take a sparse set of views as input without changing any structure or parameters of the network. Comparison experiments demonstrate that our method outperforms the state-of-the-art light field reconstruction methods with single-view input, and achieves comparable results with the multi-input methods.",
+    "citation_count": "10",
+    "year": "2020/03/01",
+    "authors": [
+        {
+            "name": "Wenhui Zhou",
+            "country": ""
+        },
+        {
+            "name": "Gaomin Liu",
+            "country": ""
+        },
+        {
+            "name": "Jiangwei Shi",
+            "country": ""
+        },
+        {
+            "name": "Hua Zhang",
+            "country": ""
+        },
+        {
+            "name": "Guojun Dai",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

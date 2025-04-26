@@ -1,0 +1,38 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122002958",
+    "title": "Hardware-aware neural architecture search for stochastic computing-based neural networks on tiny devices",
+    "abstract": "Along with the progress of  artificial intelligence  (AI) democratization, there is an increasing potential for the deployment of  deep neural networks  (DNNs) to tiny devices, such as  implantable cardioverter  defibrillators (ICD). However, tiny devices with extremely limited energy supply (e.g., battery) have high demands on low-power execution, while guaranteeing the model accuracy. Stochastic computing (SC) as a new promising paradigm significantly reduces the  power consumption  of DNNs by simplifying  arithmetic circuits , but often sacrifices the model accuracy. To make up for the accuracy loss, previous works mainly focus on either only-hardware (only-HW) circuit design or software-to-hardware (SW → HW) sequential workflow, which leads to unilateral optimization. Therefore, as the first attempt, aiming at both the hardware (HW) and software (SW) performance, we innovatively propose an HW ↔ SW co-exploration framework for SC-based NNs, namely SC-NAS, which is the first to couple SC with neural architecture search (NAS) for HW/SW co-optimization. We redefine the  optimization problem  and show a complete workflow to intelligently search for a set of configurations of NNs with hardware consumption as low as possible and accuracy as high as possible. We comprehensively explore the influencing factors, which have impacts on both the HW and SW performance for SC-based NNs, to build a  search space  for  NAS . Furthermore, in order to improve the search efficiency of NAS, we contract the search space and set an energy constraint to early terminate unnecessary model inference. Experiments show that SC-NAS achieves up to 7.0 ×  energy saving  than FP-NAS, and exceeds pure SC methods by over 3.8% in accuracy. Meanwhile, SC-NAS obtains around 8.6 × 10 19  × search efficiency improvement than  exhaustive search  using VGGNet.",
+    "citation_count": "4",
+    "year": "2023/02/01",
+    "authors": [
+        {
+            "name": "Yuhong Song",
+            "country": ""
+        },
+        {
+            "name": "Edwin Hsing-Mean Sha",
+            "country": ""
+        },
+        {
+            "name": "Qingfeng Zhuge",
+            "country": ""
+        },
+        {
+            "name": "Rui Xu",
+            "country": ""
+        },
+        {
+            "name": "Xiaowei Xu",
+            "country": ""
+        },
+        {
+            "name": "Bingzhe Li",
+            "country": ""
+        },
+        {
+            "name": "Lei Yang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

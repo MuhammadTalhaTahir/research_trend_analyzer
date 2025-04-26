@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1011535210857",
+    "title": "Nested gridding and streamline-based simulation for fast reservoir performance prediction",
+    "abstract": "Detailed reservoir models routinely contain 106–108 grid blocks. These models often cannot be used directly in a reservoir simulation because of the time and memory required for solving the pressure grid on the fine grid. We propose a nested gridding technique that efficiently obtains an approximate solution for the pressure field. The domain is divided into a series of coarse blocks, each containing several fine cells. Effective mobilities are computed for each coarse grid block and the pressure is then found on the coarse scale. The pressure field within each coarse block is computed using flux boundary conditions obtained from the coarse pressure solution. Streamline-based simulation is used to move saturations forward in time. We test the method for a series of example waterflood problems and demonstrate that the method can give accurate estimates of oil production for large 3D models significantly faster than direct simulation using streamlines on the fine grid, making the method overall approximately up to 1,000 times faster than direct conventional simulation.",
+    "citation_count": 26,
+    "year": "1999/12",
+    "authors": [
+        {
+            "name": "Gautier, Yann",
+            "country": "USA"
+        },
+        {
+            "name": "Blunt, Martin J.",
+            "country": "UK E-mail:"
+        },
+        {
+            "name": "Christie, Michael A.",
+            "country": "UK"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

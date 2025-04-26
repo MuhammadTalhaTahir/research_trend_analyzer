@@ -1,0 +1,31 @@
+{
+    "url": "https://link.springer.com/article/10.1007/BF01193265",
+    "title": "A proposal of an ATM wireless access system for tetherless multimedia services",
+    "abstract": "This paper proposes an ATM wireless access system for tetherless multimedia services. The proposed system is intended to provide ATM-based high-speed transmission capability for tetherless multimedia services by wireless media in private LAN/WAN environments as well as public environments. To enable high-speed transmission, this paper proposes the utilization of the SHF band taking advantage of its wide frequency spectrum availability. However, the propagation feature of the SHF band limits the wireless terminal mobility in the proposed system compared with current cellular phone systems. This paper discusses the concept and system architecture of the proposed ATM wireless access system, including its ATM transport based on ATM/TDMA conversion using a time stamp scheme.",
+    "citation_count": 15,
+    "year": "1996/10",
+    "authors": [
+        {
+            "name": "Umehira, Masahiro",
+            "country": "Japan"
+        },
+        {
+            "name": "Hashimoto, Akira",
+            "country": "Japan"
+        },
+        {
+            "name": "Matsue, Hideaki",
+            "country": "Japan"
+        },
+        {
+            "name": "Nakura, Masamitsu",
+            "country": "Japan"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

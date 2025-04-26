@@ -1,0 +1,38 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224000373",
+    "title": "Benchmark problems for large-scale constrained multi-objective optimization with baseline results",
+    "abstract": "The interests in evolutionary constrained  multiobjective optimization  are rapidly increasing during the past two decades. However, most related studies are limited to small-scale problems, despite the fact that many practical problems contain large-scale decision variables. Although several large-scale constrained multi-objective  evolutionary algorithms  (CMOEAs) have been developed, they are still tested on benchmarks that are designed for small-scale problems without the features of large-scale problems. To promote the research on large-scale constrained multi-objective optimization (LSCMO), this paper proposes a new LSCMO benchmark based on the design principles of large-scale multi-objective optimization and constrained multi-objective optimization. In this benchmark, more realistic features are considered, such as mixed linkages between constraint variables and unconstrained variables, imbalanced contributions of variables to the objectives, varying number constraint functions. Besides, to better solve the proposed benchmark, a bidirectional sampling strategy is proposed, where a convergence direction sampling and a diversity direction sampling are used to accelerate the convergence and maintain diversity respectively. Furthermore, the proposed bidirectional sampling strategy is embedded into an existing CMOEA to improve the search ability of algorithm in the large-scale  search space  with constraints. In experiments, the proposed algorithm is compared with several latest peer algorithms, and the results verify that the designed  benchmark functions  can effectively test the performance of algorithms and the proposed algorithm can better tackle the new benchmark. Finally, the proposed algorithm is used to solve the network structure control-based personalized drug target recognition problems with more than 2000 decision variables, and results show its superiority.",
+    "citation_count": "22",
+    "year": "2024/04/01",
+    "authors": [
+        {
+            "name": "Kangjia Qiao",
+            "country": ""
+        },
+        {
+            "name": "Jing Liang",
+            "country": ""
+        },
+        {
+            "name": "Kunjie Yu",
+            "country": ""
+        },
+        {
+            "name": "Weifeng Guo",
+            "country": ""
+        },
+        {
+            "name": "Caitong Yue",
+            "country": ""
+        },
+        {
+            "name": "Boyang Qu",
+            "country": ""
+        },
+        {
+            "name": "P.N. Suganthan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

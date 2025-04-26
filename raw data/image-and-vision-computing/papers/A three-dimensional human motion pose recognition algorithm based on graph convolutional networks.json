@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624001136",
+    "title": "A three-dimensional human motion pose recognition algorithm based on graph convolutional networks",
+    "abstract": "In the task of three-dimensional  human motion  posture recognition, there are problems such as target loss, inaccurate target positioning, and high  computational complexity . This article designs a recognition evaluation algorithm to address these issues. Design a LiteHRNet model for extracting skeleton sequences from action videos, and propose a graph convolutional structure that combines  residual networks  and  attention mechanisms . This network can effectively enhance the expression ability of node key features. Introducing second-order velocity information and spatial  position information  of  joint  points to improve positioning accuracy. Improve the  TCN  and Transformer network models to simultaneously extract local and long-term features throughout the entire model, and more accurately model the temporal correlation between nodes in the entire action sequence. The fusion of Transformer networks can reduce the computational complexity of the model while ensuring its accuracy. The experiment shows that the model has good evaluation performance on multiple datasets.",
+    "citation_count": "4",
+    "year": "2024/06/01",
+    "authors": [
+        {
+            "name": "Linfang Sun",
+            "country": ""
+        },
+        {
+            "name": "Ningning Li",
+            "country": ""
+        },
+        {
+            "name": "Guangfeng Zhao",
+            "country": ""
+        },
+        {
+            "name": "Gang Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

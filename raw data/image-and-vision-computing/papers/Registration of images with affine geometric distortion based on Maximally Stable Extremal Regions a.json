@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885615000153",
+    "title": "Registration of images with affine geometric distortion based on Maximally Stable Extremal Regions and phase congruency",
+    "abstract": "This paper proposes a novel method to address the registration of images with affine transformation. Firstly, the Maximally Stable  Extremal  Region (MSER) detection method is performed on the reference image and the image to be registered, respectively. And the coarse affine  transformation matrix  between the two images is estimated by the matched MSER pairs. Two circular regions containing roughly the same  image content  are also obtained by fitting and normalizing the  centroids  of the matched MSERs from the two images. Secondly, a scale invariant and approximate affine transformation invariant feature point  detection algorithm  based on the  Gabor filter  decomposition and phase  congruency  is performed on the two coarsely aligned regions, and two feature point sets are achieved, respectively. Finally, the affine transformation matrix between the two feature point sets is obtained by using a probabilistic point set registration algorithm, and the final affine transformation matrix between the reference image and the image to be registered is achieved according to the coarse affine transformation matrix and the affine transformation matrix between the two feature point sets. Several sets of experiments demonstrate that our proposed method performs competitively with the classical scale-invariant feature transform (SIFT) method for images with scale changes, and performs better than the traditional MSER and Affine-SIFT (ASIFT) methods for images with affine distortions. Moreover, the proposed method shows higher computation efficiency and robustness to illumination change than some existing area-based or feature-based methods do.",
+    "citation_count": "27",
+    "year": "2015/04/01",
+    "authors": [
+        {
+            "name": "Qiang Zhang",
+            "country": ""
+        },
+        {
+            "name": "Yabin Wang",
+            "country": ""
+        },
+        {
+            "name": "Long Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

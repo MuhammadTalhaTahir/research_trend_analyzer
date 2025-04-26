@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885620300226",
+    "title": "Local-adaptive and outlier-tolerant image alignment using RBF approximation",
+    "abstract": "Image alignment  is a crucial step to generate a high quality panorama. The state-of-the-art approaches use local-adaptive transformations to deal with multi-view parallax, but still suffer from unreliable feature correspondences and high computational cost. In this paper, we propose a local-adaptive and outlier-tolerant image alignment method using RBF (radial basis function) approximation. To eliminate the visible artifacts, the input images are warped according to a constructed projection error function, whose parameters are estimated by solving a  linear system . The outliers are efficiently removed by screening out the abnormal weights of RBFs, such that better alignment quality can be achieved compared to the existing approaches. Moreover, a  weight assignment  strategy is introduced to further address the overfitting issues caused by extrapolation, and hence the global projectivity can be well preserved. The proposed method is computationally efficient, whose performance is verified by  comparative experiments  on several challenging cases.",
+    "citation_count": "2",
+    "year": "2020/03/01",
+    "authors": [
+        {
+            "name": "Jing Li",
+            "country": ""
+        },
+        {
+            "name": "Baosong Deng",
+            "country": ""
+        },
+        {
+            "name": "Maojun Zhang",
+            "country": ""
+        },
+        {
+            "name": "Ye Yan",
+            "country": ""
+        },
+        {
+            "name": "Zhengming Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

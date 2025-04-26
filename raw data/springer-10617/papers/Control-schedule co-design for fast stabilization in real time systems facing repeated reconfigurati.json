@@ -1,0 +1,26 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10617-019-09221-6",
+    "title": "Control-schedule co-design for fast stabilization in real time systems facing repeated reconfigurations",
+    "abstract": "Efficient scheduling of tasks in cyber-physical systems or internet-of-things is a challenging prospect primarily due to their demands to meet critical performance goals in the face of stringent resource constraints. In addition, to enhance ease of implementation and more efficient usage of resources, these schedulers are many-a-times restricted to be non-preemptive, where jobs once started must be continuously executed until completion. In this work, we address the following resource allocation issue. Given, (i) a set of functionalities (tasks) whose performance qualities are directly proportional to the rates at which they receive service from a resource, and (ii) a discrete set of allowable alternative execution rates for each task, the objective is to determine a non-preemptive execution schedule for the tasks with appropriately chosen rates over time, such that the performance of the overall system combining all functionalities, is optimized. In this work, performance of the system is considered to be directly proportional to the time taken to re-stabilize all functionalities within stipulated thresholds, subsequent to reconfigurations in the desired outputs of a subset of these functionalities. We first propose branch and bound based techniques for determining optimal schedules under different restrictions on the adaptability of execution rates for the tasks. However, although optimal, branch and bound based solutions incur significant computational overheads, which often make them prohibitively expensive towards online application, especially for large task-set sizes. Hence, we further propose two fast and efficient heuristic strategies to quickly obtain near optimal schedules. Experimental results show that the proposed schemes are able to achieve significant performance gain, 30–55% in case of optimal strategy and 10–50% for heuristic methods compared to traditional fixed rate execution mode.",
+    "citation_count": 30,
+    "year": "2019/12",
+    "authors": [
+        {
+            "name": "Mayank, Jaishree",
+            "country": "India"
+        },
+        {
+            "name": "Mondal, Arijit",
+            "country": "India"
+        },
+        {
+            "name": "Sarkar, Arnab",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

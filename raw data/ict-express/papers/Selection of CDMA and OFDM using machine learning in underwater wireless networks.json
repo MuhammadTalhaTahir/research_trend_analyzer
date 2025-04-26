@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959519303091",
+    "title": "Selection of CDMA and OFDM using machine learning in underwater wireless networks",
+    "abstract": "Underwater acoustic (UWA) channels have long propagation delays and irregular Doppler shifts, which make the design of communication scheme difficult. Even though two transceivers are fixed, UWA channels dramatically vary by time since speed velocity profile in UWA channel is changed by day and night. This paper proposes a selection method between CDMA and OFDM modulations using a convolutional neural network (CNN) for estimating channel parameters and Random Forest (RF) for modulation selection based on the CNN results. Computer simulations demonstrate that the parameter estimation of the proposed method is better than that of the conventional least square (LS) estimation, and RF selection method exhibits better detection results than the conventional DNN.",
+    "citation_count": "0",
+    "year": "2019/12/01",
+    "authors": [
+        {
+            "name": "Yongcheol Kim",
+            "country": ""
+        },
+        {
+            "name": "Hojun Lee",
+            "country": ""
+        },
+        {
+            "name": "Jongmin Ahn",
+            "country": ""
+        },
+        {
+            "name": "Jaehak Chung",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

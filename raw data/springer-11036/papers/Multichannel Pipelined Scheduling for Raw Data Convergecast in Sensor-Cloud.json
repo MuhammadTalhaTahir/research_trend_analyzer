@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-023-02275-8",
+    "title": "Multichannel Pipelined Scheduling for Raw Data Convergecast in Sensor-Cloud",
+    "abstract": "Convergecast is the process of gathering all sensor data at the base station. Convergecast in a Sensor-Cloud is achieved by creating multiple data-gathering trees over collaborating wireless sensor networks and collecting sensor data via those trees. Designing a schedule for convergecast can be one-shot (only for one round of data collection) or pipelined (data collected at regular intervals repeatedly). We give a pipelined algorithm for convergecast, assuming a raw data model (no aggregation). Firstly, we design a slot allocation algorithm considering only the adjacency constraints and traversing the trees in BFS (breadth first search) order. Our schedule requires at most $$M+H+1$$ time slots for the first round of data collection and at most $$M+1$$ slots in subsequent rounds, where M is the lower bound to complete one round of convergecast and H is the maximum height of the data gathering trees. Our schedule does not require any node to store more than two packets. In the next step, we consider interference among simultaneous transmissions and allocate multiple frequency channels to ensure interference below a certain threshold. The problem of minimizing the frequency channels while maintaining SINR above the desired value is reduced to a semidefinite programming relaxation. In our simulation, the time for the first round of convergecast is much lower than $$M+H+1$$ (closer to $$M+1$$ ), and the channel allocation algorithm requires either optimal or just one more than the optimal number of channels.",
+    "citation_count": 26,
+    "year": "2024/10",
+    "authors": [
+        {
+            "name": "Sen, Biplab Kanti",
+            "country": "India"
+        },
+        {
+            "name": "Khatua, Sunirmal",
+            "country": "India"
+        },
+        {
+            "name": "Das, Rajib K.",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

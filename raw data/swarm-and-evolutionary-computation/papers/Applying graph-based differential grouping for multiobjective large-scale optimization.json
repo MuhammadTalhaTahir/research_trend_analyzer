@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650216304345",
+    "title": "Applying graph-based differential grouping for multiobjective large-scale optimization",
+    "abstract": "An increasing number of multiobjective large-scale optimization problems (MOLSOPs) are emerging. Optimization based on variable grouping and cooperative  coevolution  is a good way to address MOLSOPs, but few attempts have been made to decompose the variables in MOLSOPs. In this paper, we propose multiobjective graph-based differential grouping with shift (mogDG-shift) to decompose the large number of variables in an MOLSOP. We analyze the variable properties, then detect the interactions among variables, and finally group the variables based on their properties and interactions. We modify the decision variable analyses (DVA) in the multiobjective  evolutionary algorithm  based on decision variable analyses (MOEA/DVA), extend graph-based differential grouping (gDG) to MOLSOPs, and test the method on many MOLSOPs. The experimental results show that mogDG-shift can achieve 100 %  grouping accuracy for LSMOP and DTLZ as well as almost all WFG instances, which are much better than DVA. We further combine mogDG-shift with two representative multiobjective evolutionary algorithms: the multiobjective evolutionary algorithm based on decomposition (MOEA/D) and the non-dominated sorting genetic algorithm II (NSGA-II). Compared with the original algorithms, the algorithms combined with mogDG-shift show improved optimization performance.",
+    "citation_count": "185",
+    "year": "2020/03/01",
+    "authors": [
+        {
+            "name": "Bin Cao",
+            "country": ""
+        },
+        {
+            "name": "Jianwei Zhao",
+            "country": ""
+        },
+        {
+            "name": "Yu Gu",
+            "country": ""
+        },
+        {
+            "name": "Yingbiao Ling",
+            "country": ""
+        },
+        {
+            "name": "Xiaoliang Ma",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

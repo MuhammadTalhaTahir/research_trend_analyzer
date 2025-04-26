@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623001889",
+    "title": "Multi-focus image fusion using structure-guided flow",
+    "abstract": "Existing deep learning based methods have shown their advantages in multi-focus image fusion task. However, most methods still suffer from inaccurate focus region detection. In this paper, we employ the property of part-whole relationships embedded by the Capsule Network (CapsNet) to solve the problem. Specifically, we introduce CapsNet in multi-focus image fusion task, and design a structure-guided flow module, which fully utilizes structure information to help locate focus regions. CapsNet is introduced to extract structure features by supervising gradient information of the image. Compared with traditional convolutional neural networks (CNNs), CapsNet takes into account the correlation of features from different positions, such that it encodes more compact features. Once structure features are obtained, a flow alignment module is introduced to learn flow field between structure and image features, and propagate effectively structure features to image features to make confident focus region detection. Experimental results show the proposed method achieves robust fusion performance on three publicly available multi-focus datasets, and outperforms or is comparable to the state-of-the-art methods.",
+    "citation_count": "2",
+    "year": "2023/10/01",
+    "authors": [
+        {
+            "name": "Zhao Duan",
+            "country": ""
+        },
+        {
+            "name": "Xiaoliu Luo",
+            "country": ""
+        },
+        {
+            "name": "Taiping Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

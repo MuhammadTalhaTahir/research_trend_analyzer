@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-023-02216-5",
+    "title": "An Algorithm of Image Encryption based on AES & Rossler Hyperchaotic Modeling",
+    "abstract": "Nowadays, images have become one of the important information carriers in the Internet and are used in various commercial, medical and military applications, so the encryption protection of images is very important; however, with the continuous development of decryption methods, it is difficult to ensure the security of information by using only one algorithm for image encryption, and the traditional one-dimensional chaos model is too simple and the AES algorithm alone cannot effectively break up the correlation between the original image pixels. The AES algorithm alone cannot effectively break the correlation between the original image pixels. Therefore, this paper proposes an hyperchaotic model ARHM(AES&amp;Rossler hyperchaotic Modeling), which is based on AES and Rossler hyperchaotic system, combined with phantom transformation for digital image encryption, making full use of the random sequence of chaotic system and the encryption speed of AES, and conducting several simulations and analyses by key space, key sensitivity, histogram, adjacent pixel correlation, information entropy and resistance to differential attacks. The security of the algorithm is demonstrated by analyzing the criteria of key space, key sensitivity, histogram, adjacent pixel correlation, information entropy.",
+    "citation_count": 14,
+    "year": "2024/10",
+    "authors": [
+        {
+            "name": "Yi, Guohong",
+            "country": "China"
+        },
+        {
+            "name": "Cao, Zhichao",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10617-023-09272-w",
+    "title": "Efficient placement and migration policies for an STT-RAM based hybrid L1 cache for intermittently powered systems",
+    "abstract": "The number of battery-powered devices is rapidly increasing due to the widespread use of IoT-enabled nodes in various fields. Energy harvesters, which help to power embedded devices, are a feasible alternative to replacing battery-powered devices. In a capacitor, the energy harvester stores enough energy to power up the embedded device and compute the task. This type of computation is referred to as intermittent computing. Energy harvesters are unable to supply continuous power to embedded devices. All registers and cache in conventional processors are volatile. We require a Non-Volatile Memory (NVM)-based Non-Volatile Processor (NVP) that can store registers and cache contents during a power failure. NVM-based caches reduce system performance and consume more energy than SRAM-based caches. This paper proposes Efficient Placement and Migration policies for hybrid cache architecture that uses SRAM and STT-RAM at the first level cache. The proposed architecture includes cache block placement and migration policies to reduce the number of writes to STT-RAM. During a power failure, the backup strategy identifies and migrates the critical blocks from SRAM to STT-RAM. When compared to the baseline architecture, the proposed architecture reduces STT-RAM writes from 63.35% to 35.93%, resulting in a 32.85% performance gain and a 23.42% reduction in energy consumption. Our backup strategy reduces backup time by 34.46% when compared to the baseline.",
+    "citation_count": 46,
+    "year": "2023/12",
+    "authors": [
+        {
+            "name": "Badri, SatyaJaswanth",
+            "country": "India"
+        },
+        {
+            "name": "Saini, Mukesh",
+            "country": "India"
+        },
+        {
+            "name": "Goel, Neeraj",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762120301697",
+    "title": "Benchmarking vision kernels and neural network inference accelerators on embedded platforms",
+    "abstract": "Developing efficient embedded vision applications requires exploring various algorithmic optimization trade-offs and a broad spectrum of hardware architecture choices. This makes navigating the  solution space  and finding the design points with  optimal performance  trade-offs a challenge for developers. To help provide a fair baseline comparison, we conducted comprehensive benchmarks of accuracy, run-time, and energy efficiency of a wide range of vision kernels and  neural networks  on multiple embedded platforms: ARM57  CPU , Nvidia Jetson TX2  GPU  and Xilinx ZCU102  FPGA . Each platform utilizes their optimized libraries for vision kernels (OpenCV, VisionWorks and xfOpenCV) and neural networks (OpenCV  DNN , TensorRT and Xilinx DPU). For vision kernels, our results show that the  GPU  achieves an energy/frame reduction ratio of 1.1–3.2 ×  compared to the others for simple kernels. However, for more complicated kernels and complete vision pipelines, the  FPGA  outperforms the others with energy/frame reduction ratios of 1.2–22.3 × . For neural networks [Inception-v2 and ResNet-50, ResNet-18, Mobilenet-v2 and SqueezeNet], it shows that the  FPGA  achieves a speed up of [2.5, 2.1, 2.6, 2.9 and 2.5] ×  and an  EDP  reduction ratio of [1.5, 1.1, 1.4, 2.4 and 1.7] ×  compared to the GPU FP16 implementations, respectively.",
+    "citation_count": "33",
+    "year": "2021/02/01",
+    "authors": [
+        {
+            "name": "Murad Qasaimeh",
+            "country": ""
+        },
+        {
+            "name": "Kristof Denolf",
+            "country": ""
+        },
+        {
+            "name": "Alireza Khodamoradi",
+            "country": ""
+        },
+        {
+            "name": "Michaela Blott",
+            "country": ""
+        },
+        {
+            "name": "Jack Lo",
+            "country": ""
+        },
+        {
+            "name": "Lisa Halder",
+            "country": ""
+        },
+        {
+            "name": "Kees Vissers",
+            "country": ""
+        },
+        {
+            "name": "Joseph Zambreno",
+            "country": ""
+        },
+        {
+            "name": "Phillip H. Jones",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

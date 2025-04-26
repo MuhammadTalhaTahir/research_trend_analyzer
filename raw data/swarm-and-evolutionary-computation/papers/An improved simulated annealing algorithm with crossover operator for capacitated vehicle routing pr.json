@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650221000729",
+    "title": "An improved simulated annealing algorithm with crossover operator for capacitated vehicle routing problem",
+    "abstract": "The capacitated vehicle routing problem (CVRP) is one of the commonly studied issues today. It belongs to the class of NP-hard problems and has a high time complexity. Therefore, the solution of the CVRP was focused in this study. An improved  simulated annealing algorithm  with crossover operator, called ISA-CO, was proposed. A population based simulated annealing algorithm was used in the proposed algorithm. The solutions in the population were developed through the local search operators, including swap, scramble, insertion, and reversion. The improved 2-opt algorithm was used to develop the routes making up the solution. The partially mapped crossover (PMX) and the order crossover (OX) operators were applied to the solutions in the population to accelerate the convergence. A mix selection method was used to ensure the balance between exploitation and exploration. The ISA-CO was tested on 91 well-known benchmark instances. The results indicated that the method has a better performance compared to other state-of-the-art methods on many instances.",
+    "citation_count": "76",
+    "year": "2021/07/01",
+    "authors": [
+        {
+            "name": "İlhan İLHAN",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

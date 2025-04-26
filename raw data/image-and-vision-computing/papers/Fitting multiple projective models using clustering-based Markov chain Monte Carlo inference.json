@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885614001632",
+    "title": "Fitting multiple projective models using clustering-based Markov chain Monte Carlo inference",
+    "abstract": "An algorithm for fitting multiple models that characterize the projective relationships between point-matches in pairs of (or single) images is proposed herein. Specifically, the problem of estimating multiple algebraic varieties that relate the projections of 3 dimensional (3D) points in one or more views is predominantly turned into a problem of inference over a Markov random field (MRF) using labels that include outliers and a set of candidate models estimated from subsets of the point matches. Thus, not only the MRF can trivially incorporate the errors of fit in  singleton  factors, but the sheer benefit of this approach is the ability to consider the interactions between data points. The proposed method (CSAMMFIT) refines the outlier posterior over the course of consecutive inference sweeps, until the process settles at a  local minimum . The inference “engine” employed is a  Markov Chain Monte Carlo  (MCMC) method which samples new labels from clusters of data points. The advantage of this technique pertains to the fact that cluster formation can be manipulated to favor common label assignments between points related to each other by image based criteria. Moreover, although CSAMMFIT uses a Potts-like pairwise factor, the inference algorithm allows for arbitrary prior formulations, thereby accommodating the needs for more elaborate feature based constraints.",
+    "citation_count": "0",
+    "year": "2015/01/01",
+    "authors": [
+        {
+            "name": "George Terzakis",
+            "country": ""
+        },
+        {
+            "name": "Phil F. Culverhouse",
+            "country": ""
+        },
+        {
+            "name": "Guido Bugmann",
+            "country": ""
+        },
+        {
+            "name": "Robert Sutton",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

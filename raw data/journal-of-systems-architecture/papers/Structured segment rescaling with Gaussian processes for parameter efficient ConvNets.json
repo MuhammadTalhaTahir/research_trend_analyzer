@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124001838",
+    "title": "Structured segment rescaling with Gaussian processes for parameter efficient ConvNets",
+    "abstract": "We introduce a novel mechanism for structured pruning on ConvNet blocks and channels. Our mechanism,  Structured Segment Rescaling (SSR)  down-samples a ConvNet’s dimensions using depth and width modifiers that respectively remove whole blocks and channels. SSR is a systematic approach for constructing ConvNets that can replace arbitrary design heuristics. The SSR modifiers rescale logical partitions (segments) of a ConvNet with grouped layers. Different modifiers on segments yield many different architectures with unique rescales for their blocks. This diversity of architectures is then systemically explored using a Gaussian Process (GP) that optimizes for modifiers that maintain accuracy and reduce parameters. We analyze SSR in the context of resource constrained environments using ResNets trained on the CIFAR datasets. An initial set of  depth  and  width  modifiers explore extreme rescales of ResNet segments, where we find up to 70% parameter reduction. The GP then generalizes on these initial rescales by being trained on them and then predicts the accuracy of other rescaled ConvNet given their segment modifiers. SSR produces over  1 0 5  ConvNets that can be trained selectively based on their GP predicted accuracy. The GP enabled SSR pushes compression to over 80% with minimal accuracy impact. While both depth and width modifiers can reduce parameters, we show reducing blocks is better for reducing latency with up to 80% faster ConvNets. Using our mechanism, we can efficiently customize ConvNets using their parameter-accuracy trade-offs. SSR only requires  1 0 1  GPU hours and modest engineering to yield efficient new ConvNets that can facilitate edge inference.",
+    "citation_count": "0",
+    "year": "2024/09/01",
+    "authors": [
+        {
+            "name": "Bilal Siddiqui",
+            "country": ""
+        },
+        {
+            "name": "Adel Alaeddini",
+            "country": ""
+        },
+        {
+            "name": "Dakai Zhu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

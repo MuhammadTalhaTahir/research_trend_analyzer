@@ -1,0 +1,42 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762123000322",
+    "title": "Composable distributed real-time systems with deterministic network channels",
+    "abstract": "A system that needs to interact with the physical world in a timely manner is called a  real-time system . When such a system is composed of multiple subsystems, or nodes, each of which is a geographically separate system, such a system of systems is called a  distributed  real-time system. The computation at each node must adhere to the timing requirements, and the connecting communication channels must never cause delays that trigger further timing violations. In this paper, we introduce  Deterministic Network Channels , a network construct using Time Sensitive Networking QoS mechanisms that add reliable and deterministic communication for distributed tasks. Introducing such network channels as a construct allows designers to focus on higher-level primitives when building distributed systems. We describe our reference implementation and evaluate it by extending Timed C with network channels. Building on this, we also perform a thorough performance evaluation to determine practical bounds for both Linux and TSN under heavy workloads and adverse network conditions to show how the proposed reference implementation performs in real-world scenarios. In our tests, we can synchronize two separate machines running commercial off-the-shelf hardware to within  15 μ s  of each other under severe internal and external interference.",
+    "citation_count": "0",
+    "year": "2023/04/01",
+    "authors": [
+        {
+            "name": "Henrik Austad",
+            "country": ""
+        },
+        {
+            "name": "Erling Rennemo Jellum",
+            "country": ""
+        },
+        {
+            "name": "Sverre Hendseth",
+            "country": ""
+        },
+        {
+            "name": "Geir Mathisen",
+            "country": ""
+        },
+        {
+            "name": "Torleiv Håland Bryne",
+            "country": ""
+        },
+        {
+            "name": "Kristoffer Nyborg Gregertsen",
+            "country": ""
+        },
+        {
+            "name": "Sigurd Mørkved Albrektsen",
+            "country": ""
+        },
+        {
+            "name": "Bjarne Emil Helvik",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

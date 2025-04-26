@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621002213",
+    "title": "Aligning vision-language for graph inference in visual dialog",
+    "abstract": "As a cross-media intelligence task, visual dialog calls for answering a sequence of questions based on an image, using the dialog history as context. To acquire correct answers, the exploration of the semantic dependencies among potential visual and textual contents becomes vital. Prior works usually ignored the underlying knowledge hidden in internal and external textual-visual relationships, which resulted in unreasonable inferring. In this paper, we propose an Aligning Vision-Language for Graph Inference (AVLGI) in visual dialog by combining the internal context-aware information and the external scene graph knowledge. Compared with other approaches, it makes up the lack of structural inference in visual dialog. So the whole system consists of three modules, Inter-Modalities Alignment (IMA), Visual Graph Attended by Text (VGAT) and Combining Scene Graph and Textual Contents(CSGTC). Specifically, the IMA module aims at representing an image with a set of integrated visual regions and corresponding textual concepts, reflecting certain semantics. And the VGAT module views the visual features with semantic information as observed nodes and measures the weight of importance between each two nodes in visual graph. The CSGTC supplements various relationships between visual objects by introducing additional information of the scene graph. We also qualitatively and quantitatively evaluate the model on VisDial v1.0 dataset, showing our AVLGI outperforms previous state-of-the-art models.",
+    "citation_count": "7",
+    "year": "2021/12/01",
+    "authors": [
+        {
+            "name": "Tianling Jiang",
+            "country": ""
+        },
+        {
+            "name": "Hailin Shao",
+            "country": ""
+        },
+        {
+            "name": "Xin Tian",
+            "country": ""
+        },
+        {
+            "name": "Yi Ji",
+            "country": ""
+        },
+        {
+            "name": "Chunping Liu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

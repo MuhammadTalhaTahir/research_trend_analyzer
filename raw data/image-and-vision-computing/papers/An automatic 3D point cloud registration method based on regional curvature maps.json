@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885616301597",
+    "title": "An automatic 3D point cloud registration method based on regional curvature maps",
+    "abstract": "3D point cloud registration is a fundamental and critical issue in  3D reconstruction  and object recognition. Most of the existing methods are based on local  shape descriptor . In this paper, we propose a discriminative and robust local shape descriptor-Regional Curvature Map (RCM). The  keypoint  and its neighboring points are firstly projected onto a 2D plane according to a robust mapping against normal errors. Then, the projection points are quantized into corresponding bins of the 2D support region and their weighted curvatures are encoded into a curvature distribution image. Based on the RCM, an efficient and accurate 3D point cloud registration method is presented. We firstly find 3D point correspondences by a RCM searching and matching strategy based on the sub-regions of the RCM. Then, a coarse registration can be achieved with geometrically consistent point correspondences, followed by a fine registration based on a modified iterative closest point (ICP) algorithm. The experimental results demonstrate that the RCM is distinctive and robust against normal errors and varying point cloud density. The corresponding registration method can achieve a higher registration precision and efficiency compared with two existing registration methods.",
+    "citation_count": "21",
+    "year": "2016/12/01",
+    "authors": [
+        {
+            "name": "Junhua Sun",
+            "country": ""
+        },
+        {
+            "name": "Jie Zhang",
+            "country": ""
+        },
+        {
+            "name": "Guangjun Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

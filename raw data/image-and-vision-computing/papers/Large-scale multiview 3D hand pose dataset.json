@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S026288561830180X",
+    "title": "Large-scale multiview 3D hand pose dataset",
+    "abstract": "Accurate visual hand pose estimation at  joint  level has several applications for human-robot interaction,  natural user interfaces  and virtual/augmented reality applications. However, it is still an open problem being addressed by the  computer vision  community. Recent novel  deep learning  techniques may help circumvent the limitations of standard approaches. However, they require large amounts of accurate annotated data. Hand pose datasets that have been released so far present issues such as limited number of samples, inaccurate data or high-level annotations. Moreover, most of them are focused on depth-based approaches, providing only depth information (missing RGB data). In this work, we present a novel multiview hand pose dataset in which we provide hand color images and different kind of annotations for each sample, i.e. the  bounding box  and the 2D and 3D location on the joints in the hand. Furthermore, we introduce a simple yet accurate  deep learning  architecture for real-time robust 2D hand pose estimation. Then, we conduct experiments that show how the use of the proposed dataset in the training stage produces accurate results for 2D hand pose estimation using a single color camera.",
+    "citation_count": "51",
+    "year": "2019/01/01",
+    "authors": [
+        {
+            "name": "Francisco Gomez-Donoso",
+            "country": ""
+        },
+        {
+            "name": "Sergio Orts-Escolano",
+            "country": ""
+        },
+        {
+            "name": "Miguel Cazorla",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

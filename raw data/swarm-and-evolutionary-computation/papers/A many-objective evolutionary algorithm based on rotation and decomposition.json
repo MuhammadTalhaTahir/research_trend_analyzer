@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650220304284",
+    "title": "A many-objective evolutionary algorithm based on rotation and decomposition",
+    "abstract": "Evolutionary algorithms  have shown their promise in addressing multiobjective problems (MOPs). However, the Pareto dominance used in multiobjective optimization loses its effectiveness when addressing many-objective problems (MaOPs), which are defined as having more than three objectives. This is because the Pareto dominance loses its ability to distinguish between individuals. In this paper, a many-objective evolutionary algorithm based on rotation and decomposition is proposed (MaOEA-RD) to overcome the shortcoming of insufficient selection pressure caused by the Pareto dominance. First, the coordinates system is rotated and a hyperplane is established to distinguish between the nondominated individuals. Then, a novel individual selection mechanism incorporating decomposition is adopted to maintain the diversity of the population. In order to compensate for the deficiency of the predefined reference vectors, a reference vector adjustment mechanism is proposed. Experimental studies on several well-known benchmark problems show that the proposed algorithm is competitive compared with nine state-of-the-art many-objective algorithms.",
+    "citation_count": "17",
+    "year": "2021/02/01",
+    "authors": [
+        {
+            "name": "Juan Zou",
+            "country": ""
+        },
+        {
+            "name": "Jing Liu",
+            "country": ""
+        },
+        {
+            "name": "Shengxiang Yang",
+            "country": ""
+        },
+        {
+            "name": "Jinhua Zheng",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

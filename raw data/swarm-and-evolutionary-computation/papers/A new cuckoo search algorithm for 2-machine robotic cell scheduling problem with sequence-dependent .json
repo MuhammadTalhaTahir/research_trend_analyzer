@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650216000183",
+    "title": "A new cuckoo search algorithm for 2-machine robotic cell scheduling problem with sequence-dependent setup times",
+    "abstract": "The paper addresses the problem of 2-machine robotic cell scheduling of one-unit cycle with sequence-dependent setup times and different loading/unloading times of the parts. As an alternative  metaheuristic algorithm , the  cuckoo search algorithm  has recently attracted growing interests of researchers. It has the capability to search globally as well as locally to converge to the global  optimality  by exploring the  search space  more efficiently due to its global  random walk  governed by  Levy flights , rather than standard isotropic  random walk . In this study, a discrete cuckoo search algorithm is proposed to determine the sequence of robot moves along with the sequence of parts so that the cycle time is minimized. In the proposed algorithm, the fractional  scaling factor  based procedure is presented to determine the step length of Levy flights distribution in discrete from and then, using this step length, two neighborhood search techniques, interchange and cyclical shift methods are applied to the current solution to obtain improved solution. A  response surface methodology  based on  desirability  function is used to enhance the  convergence speed of  the proposed algorithm. Also, a  design of experiment  is employed to tune the operating parameters of the algorithm. Finally, empirical results with a large number of randomly generated problem instances involving large part sizes varying from 200 to 500 under different operating conditions are compared with two well-known algorithms in the literature and demonstrate the effectiveness of the proposed algorithm.",
+    "citation_count": "41",
+    "year": "2016/06/01",
+    "authors": [
+        {
+            "name": "Arindam Majumder",
+            "country": ""
+        },
+        {
+            "name": "Dipak Laha",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621002237",
+    "title": "Generating facial expression adversarial examples based on saliency map",
+    "abstract": "The security demands in humanization should be considered as important, because artificial intelligence is developing rapidly in this area. Recent studies have shown the vulnerability of many deep learning models to adversarial examples; however, only a few studies on facial expression adversarial examples have been conducted. Thus, in this paper, we propose a novel method for generating facial expression adversarial examples using facial saliency maps and facial masking maps. Extensive numerical experiments demonstrate the outstanding performance of our method in terms of attack accuracy, structural similarity index measure score, and computational time, compared with other leading methods, such as the fast gradient sign method, projected gradient descent method, and Carlini–Wagner attacks.",
+    "citation_count": "12",
+    "year": "2021/12/01",
+    "authors": [
+        {
+            "name": "Yudao Sun",
+            "country": ""
+        },
+        {
+            "name": "Juan Yin",
+            "country": ""
+        },
+        {
+            "name": "Chunhua Wu",
+            "country": ""
+        },
+        {
+            "name": "KangFeng Zheng",
+            "country": ""
+        },
+        {
+            "name": "XinXin Niu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

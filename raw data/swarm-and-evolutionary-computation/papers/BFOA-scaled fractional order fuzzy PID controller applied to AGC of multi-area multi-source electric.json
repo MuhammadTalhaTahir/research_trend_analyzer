@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650216301882",
+    "title": "BFOA-scaled fractional order fuzzy PID controller applied to AGC of multi-area multi-source electric power generating systems",
+    "abstract": "In the fast developing world of today, automatic generation control (AGC) plays an incredibly significant role in offering inevident demand of good quality power supply in  power system . To deliver a quality power, AGC system requires an efficient and intelligent control algorithm. Hence, in this paper, a novel  fractional order  fuzzy proportional-integral-derivative (FOFPID) controller is proposed for AGC of electric  power generating systems . The proposed controller is tested for the first time on three structures of multi-area multi-source AGC system. The gains and fractional order parameters such as order of integrator (λ) and  differentiator  (µ and γ) of FOFPID controller are optimized using bacterial foraging optimization algorithm (BFOA). Initially, the proposed controller is implemented on a traditional two-area multi-source hydrothermal power system and its effectiveness is established by comparing the results with FOPID, fuzzy PID (FPID) and PI/PID controller based on recently published optimization techniques like hybrid firefly algorithm-pattern search (hFA-PS) and grey wolf optimization (GWO) algorithm. The approach is further extended to restructured multi-source hydrothermal and thermal gas systems. It is observed that the dynamic performance of the proposed BFOA optimized FOFPID controller is superior to BFOA optimized FPID/FOPID/PID and differential evolution (DE)/genetic algorithm (GA) optimized PID controllers. It is also detected that the dynamic responses obtained under different power transactions with/without appropriate generation rate constraint, time delay and governor dead-zone effectively satisfy the AGC requirement in deregulated environment. Moreover, robustness of the suggested approach is verified against wide variations in the nominal initial loading, system parameters, distribution company participation  matrix structure  and size and position of uncontracted power demand.",
+    "citation_count": "156",
+    "year": "2017/02/01",
+    "authors": [
+        {
+            "name": "Yogendra Arya",
+            "country": ""
+        },
+        {
+            "name": "Narendra Kumar",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

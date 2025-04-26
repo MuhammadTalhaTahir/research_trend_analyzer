@@ -1,0 +1,42 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224000774",
+    "title": "Many-objective evolutionary algorithm based on parallel distance for handling irregular Pareto fronts",
+    "abstract": "In recent years, various many-objective evolutionary algorithms (MaOEAs) have been proved to be successful in solving many-objective optimization problems (MaOPs). However, the performance of most MaOEAs is seriously affected when handling MaOPs with irregular  Pareto fronts  (PFs). In this paper, a new MaOEA variant based on parallel distance (called PDMaOEA) is proposed to solve MaOPs with irregular PFs. Firstly, two new metrics based on parallel distance are designed. The first one termed diversity metric can adapt to irregular PFs. The second one called comprehensive selection metric can consider both diversity and convergence simultaneously. Based on the two metrics, a mating selection method and an environmental selection strategy are proposed. In the mating selection, solutions with good convergence or diversity are chosen to improve the quality of  offspring  population. In the environmental selection, the selection pressure is significantly enhanced by the two metrics. Experimental study is validated on 19 irregular problems with different shapes of PFs. Performance of the proposed PDMaOEA is compared with six state-of-the-art algorithms. Statistical analysis shows that the proposed approach is competitive in handling MaOPs with irregular PFs.",
+    "citation_count": "15",
+    "year": "2024/04/01",
+    "authors": [
+        {
+            "name": "Zichen Wei",
+            "country": ""
+        },
+        {
+            "name": "Hui Wang",
+            "country": ""
+        },
+        {
+            "name": "Shuai Wang",
+            "country": ""
+        },
+        {
+            "name": "Zhixia Zhang",
+            "country": ""
+        },
+        {
+            "name": "Zhihua Cui",
+            "country": ""
+        },
+        {
+            "name": "Feng Wang",
+            "country": ""
+        },
+        {
+            "name": "Hu Peng",
+            "country": ""
+        },
+        {
+            "name": "Jia Zhao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

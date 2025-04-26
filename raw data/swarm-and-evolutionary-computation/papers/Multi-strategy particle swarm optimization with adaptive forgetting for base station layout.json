@@ -1,0 +1,42 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S221065022400275X",
+    "title": "Multi-strategy particle swarm optimization with adaptive forgetting for base station layout",
+    "abstract": "With the advent of 6G communication technology, user expectations for service quality have correspondingly risen. This is particularly evident in rural areas, where the challenge of ensuring signal coverage across diverse terrains is pressing. Consequently, the intelligent placement of base stations becomes a critical issue. To address this, our paper conducts a comprehensive analysis of terrain environments and village distributions in rural settings and develops a sophisticated objective function. We introduce a novel approach termed Multi-strategy Particle Swarm Optimization with Adaptive Forgetting (AFMPSO), designed to optimize the layout of base stations. This algorithm incorporates a forgetting mechanism and a center-of-mass traction strategy, which enable particles to update their positions responsively and maintain optimal individual information. Such features effectively prevent premature convergence and the risk of entrapment in local optima, thereby enhancing the efficacy of traditional particle swarm optimization techniques. In the IEEE Congress on Evolutionary Computation (CEC) 2022, AFMPSO was benchmarked against other particle swarm variants and the year’s winning algorithm. It demonstrated superior optimization capabilities. Further, our experiments utilizing both fixed and randomly configured village models revealed that AFMPSO achieved a signal coverage rate exceeding 90% in both setups, underscoring its substantial advantages and practical applicability in enhancing base station coverage. This research not only delivers an effective technical solution but also establishes a robust foundation for the future development of intelligent base station layouts.",
+    "citation_count": "6",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Donglin Zhu",
+            "country": ""
+        },
+        {
+            "name": "Jiaying Shen",
+            "country": ""
+        },
+        {
+            "name": "Yuemai Zhang",
+            "country": ""
+        },
+        {
+            "name": "Weijie Li",
+            "country": ""
+        },
+        {
+            "name": "Xingyun Zhu",
+            "country": ""
+        },
+        {
+            "name": "Changjun Zhou",
+            "country": ""
+        },
+        {
+            "name": "Shi Cheng",
+            "country": ""
+        },
+        {
+            "name": "Yilin Yao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

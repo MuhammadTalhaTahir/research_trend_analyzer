@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-006-0048-4",
+    "title": "An asymmetric fingerprint matching algorithm for Java Card TM",
+    "abstract": "We propose a light-weight fingerprint matching algorithm that can be executed inside the devices with a limited computational power. The algorithm is based on the minutiae local structures (the “neighborhoods”), that are invariant with respect to global transformations like translation and rotation. The match algorithm has been implemented inside a smartcard over the Java CardTM platform, meeting the individual’s need for information privacy and overall authentication procedure security. The main characteristic of the algorithm is to have an asymmetric behavior, in respect to the execution time, between correct positive and negative matches. The performances in terms of authentication reliability and speed were tested on some databases from the Fingerprint Verification Competition 2002 and 2004 editions (FVC2002 and FVC2004). Moreover, our procedure showed better reliability when compared with a related algorithm on the same database. We can achieve a false acceptance rate (FAR) of 0.1%, a false rejection rate of about 6%, and from 0.3 to 8&nbsp;s to match most of the finger pairs during the FAR tests.",
+    "citation_count": 47,
+    "year": "2006/11",
+    "authors": [
+        {
+            "name": "Bistarelli, Stefano",
+            "country": "Italy"
+        },
+        {
+            "name": "Santini, Francesco",
+            "country": "Italy"
+        },
+        {
+            "name": "Vaccarelli, Anna",
+            "country": "Italy"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

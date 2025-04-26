@@ -1,0 +1,43 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-020-01607-2",
+    "title": "Semi-Supervised Subspace Learning for Pattern Classification via Robust Low Rank Constraint",
+    "abstract": "Feature subspace learning is a crucial issue in pattern analysis. However, it remains challenging when partial samples are unlabeled, which will cause weak discrimination. In this paper, we present a novel semi-supervised learning model that is capable of utilizing labeled and unlabeled training data simultaneously to learn discriminative feature subspace while preserving their locality. To achieve this goal, we joint learning feature subspace and completed labels. In the framework, low rank representation model is firstly exploited to explore the similarity relationship among all training samples, including labeled and unlabeled data. Then, the learned representation coefficients are used to generate a dynamic neighbor graph for designing the locality preservation constraints on both of label propagation and feature subspace. Finally, the prediction and true label are used to enforce the discrimination of feature subspace in the semantic space. Extensive experiment indicates that our proposed approach is more competitive than other comparison methods, while the model shows more robustness when training datasets are contaminated with noise.",
+    "citation_count": 48,
+    "year": "2020/12",
+    "authors": [
+        {
+            "name": "Li, Ao",
+            "country": "China"
+        },
+        {
+            "name": "An, Ruoqi",
+            "country": "China"
+        },
+        {
+            "name": "Chen, Deyun",
+            "country": "China"
+        },
+        {
+            "name": "Sun, Guanglu",
+            "country": "China"
+        },
+        {
+            "name": "Liu, Xin",
+            "country": "China"
+        },
+        {
+            "name": "Wu, Qidi",
+            "country": "China"
+        },
+        {
+            "name": "Jiang, Hailong",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

@@ -1,0 +1,70 @@
+[
+    {
+        "title": "Editorial Board",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885621002523"
+    },
+    {
+        "title": "Salient object detection network with multi-scale feature refinement and boundary feedback",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885621002316"
+    },
+    {
+        "title": "Context-based image explanations for deep neural networks",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885621002158"
+    },
+    {
+        "title": "Incremental human action recognition with dual memory",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885621002183"
+    },
+    {
+        "title": "Adaptive and fast image superpixel segmentation approach",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885621002201"
+    },
+    {
+        "title": "A survey of methods, datasets and evaluation metrics for visual question answering",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885621002328"
+    },
+    {
+        "title": "Learning to disentangle scenes for person re-identification",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885621002353"
+    },
+    {
+        "title": "Generating facial expression adversarial examples based on saliency map",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885621002237"
+    },
+    {
+        "title": "ERF-YOLO: A YOLO algorithm compatible with fewer parameters and higher accuracy",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885621002225"
+    },
+    {
+        "title": "Cross-scale global attention feature pyramid network for person search",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885621002377"
+    },
+    {
+        "title": "EAR: Efficient action recognition with local-global temporal aggregation",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885621002341"
+    },
+    {
+        "title": "MLRMV: Multi-layer representation for multi-view action recognition",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885621002389"
+    },
+    {
+        "title": "Spatial likelihood voting with self-knowledge distillation for weakly supervised object detection",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885621002195"
+    },
+    {
+        "title": "MetaPix: Domain transfer for semantic segmentation by meta pixel weighting",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885621002390"
+    },
+    {
+        "title": "Monozygotic twin face recognition: An in-depth analysis and plausible improvements",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885621002365"
+    },
+    {
+        "title": "Aligning vision-language for graph inference in visual dialog",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0262885621002213"
+    },
+    {
+        "title": "VQA as a factoid question answering problem: A novel approach for knowledge-aware and explainable visual question answering",
+        "url": "https://www.sciencedirect.com/science/article/pii/S026288562100233X"
+    }
+]

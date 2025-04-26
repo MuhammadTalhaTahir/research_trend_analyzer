@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-018-0745-9",
+    "title": "L1-norm orthogonal neighbourhood preserving projection and its applications",
+    "abstract": "Dimensionality reduction techniques based on manifold learning are becoming very popular for computer vision tasks like image recognition and image classification. Generally, most of these techniques involve optimizing a cost function in L2-norm and thus they are susceptible to outliers. However, recently, due to capability of handling outliers, L1-norm optimization is drawing the attention of researchers. The work documented here is the first attempt towards the same goal where orthogonal neighbourhood preserving projection (ONPP) technique is performed using optimization in terms of L1-norm to handle data having outliers. In particular, the relationship between ONPP and PCA is established theoretically in the light of L2-norm and then ONPP is optimized using an already proposed mechanism of PCA-L1. Extensive experiments are performed on synthetic as well as real data for applications like classification and recognition. It has been observed that when larger number of training data is available L1-ONPP outperforms its counterpart L2-ONPP.",
+    "citation_count": 25,
+    "year": "2019/11",
+    "authors": [
+        {
+            "name": "Koringa, Purvi A.",
+            "country": "India"
+        },
+        {
+            "name": "Mitra, Suman K.",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

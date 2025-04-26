@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121001107",
+    "title": "A survey of deep learning techniques for vehicle detection from UAV images",
+    "abstract": "“Unmanned aerial vehicles” (UAVs) are now being used for a wide range of surveillance applications. Specifically, the detection of on-ground vehicles from UAV images has attracted significant attention due to its potential in applications such as traffic management, parking lot management, and facilitating rescue operations in disaster zones and rugged terrains. This paper presents a survey of  deep learning  techniques for performing on-ground vehicle detection from  aerial imagery  captured using UAVs (also known as drones). We review the works in terms of their approach to improve accuracy and reduce computation overhead and their optimization objective. We show the similarities and differences of various techniques and also highlight the future challenges in this area. This survey will benefit researchers in the area of  artificial intelligence , traffic surveillance, and applications of UAVs.",
+    "citation_count": "115",
+    "year": "2021/08/01",
+    "authors": [
+        {
+            "name": "Srishti Srivastava",
+            "country": ""
+        },
+        {
+            "name": "Sarthak Narayan",
+            "country": ""
+        },
+        {
+            "name": "Sparsh Mittal",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,90 @@
+[
+    {
+        "title": "Editorial Board",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650219304389"
+    },
+    {
+        "title": "A comprehensive survey: Whale Optimization Algorithm and its applications",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650218309350"
+    },
+    {
+        "title": "Using Compact Evolutionary Tabu Search algorithm for matching sensor ontologies",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650218310186"
+    },
+    {
+        "title": "Review of harmony search with respect to algorithm structure",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650218303791"
+    },
+    {
+        "title": "A metaheuristic approach to solve Dynamic Vehicle Routing Problem in continuous search space",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650218306114"
+    },
+    {
+        "title": "A novel scalable test problem suite for multimodal multiobjective optimization",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650218307387"
+    },
+    {
+        "title": "Solving systems of nonlinear equations using a modified firefly algorithm (MODFA)",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650217306107"
+    },
+    {
+        "title": "AEFA: Artificial electric field algorithm for global optimization",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650218305030"
+    },
+    {
+        "title": "Survey of quality measures for multi-objective optimization: Construction of complementary set of multi-objective quality measures",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650218305340"
+    },
+    {
+        "title": "Discrete pigeon-inspired optimization algorithm with Metropolis acceptance criterion for large-scale traveling salesman problem",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650218307430"
+    },
+    {
+        "title": "Reproductive bias, linkage learning and diversity preservation in bi-objective evolutionary optimization",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650218300269"
+    },
+    {
+        "title": "A novel multi-objective evolutionary algorithm with dynamic decomposition strategy",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650218305571"
+    },
+    {
+        "title": "Swarm intelligence techniques in recommender systems - A review of recent research",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650218305583"
+    },
+    {
+        "title": "Bio-inspired computation: Where we stand and what's next",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650218310277"
+    },
+    {
+        "title": "Jointly optimizing microgrid configuration and energy consumption scheduling of smart homes",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650218309519"
+    },
+    {
+        "title": "Surrogate-guided differential evolution algorithm for high dimensional expensive problems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650218304590"
+    },
+    {
+        "title": "Empirical study on rotation and information exchange in particle swarm optimization",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650218310198"
+    },
+    {
+        "title": "Nested evolutionary algorithms for computationally expensive bilevel optimization problems: Variants and their systematic analysis",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650218308241"
+    },
+    {
+        "title": "Ensemble prediction-based dynamic robust multi-objective optimization methods",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650218302712"
+    },
+    {
+        "title": "Feature selection for classification of microarray gene expression cancers using Bacterial Colony Optimization with multi-dimensional population",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650218306655"
+    },
+    {
+        "title": "A diversity ranking based evolutionary algorithm for multi-objective and many-objective optimization",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650218306928"
+    },
+    {
+        "title": "Analysis of high-dimensional biomedical data using an evolutionary multi-objective emperor penguin optimizer",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210650219301580"
+    }
+]

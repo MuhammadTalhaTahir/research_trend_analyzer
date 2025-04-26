@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650215000772",
+    "title": "Efficient visualization of social networks based on modified Sammon׳s mapping",
+    "abstract": "Visualization is an important part of  Network Analysis . It helps to find features of the network that are not easily identifiable. In this paper, we present a novel approach to the visualization of weighted networks based on the Distance Geometry Problem. The network may be seen as a set of data points in space induced by the incidence relation or as a  symmetric matrix  of vertex distances. We propose two methods for construction of the input for Sammon׳s mapping and discuss the effect of the particular methods on the final layout. In this work, we use Differential Evolution as a real-parameter  optimization metaheuristic  algorithm to minimize the error function used in Sammon׳s mapping. The presented experiments used the well-known Zachary׳s Karate Club network and weighted co-authors network based on the DBLP database. We present our approach to the visualization of weighted networks based on Sammon׳s mapping and linear  approximation . Dimensionality reduction and graph based  visualization methods  can uncover hidden structures of  high dimensional data  and visualize it in a low-dimensional vector space.",
+    "citation_count": "5",
+    "year": "2015/12/01",
+    "authors": [
+        {
+            "name": "Milos Kudelka",
+            "country": ""
+        },
+        {
+            "name": "Pavel Kromer",
+            "country": ""
+        },
+        {
+            "name": "Martin Radvansky",
+            "country": ""
+        },
+        {
+            "name": "Zdenek Horak",
+            "country": ""
+        },
+        {
+            "name": "Vaclav Snasel",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

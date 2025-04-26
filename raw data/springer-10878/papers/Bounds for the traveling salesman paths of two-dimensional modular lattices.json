@@ -1,0 +1,21 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-016-0043-7",
+    "title": "Bounds for the traveling salesman paths of two-dimensional modular lattices",
+    "abstract": "We present tight upper and lower bounds for the traveling salesman path through the points of two-dimensional modular lattices. We use these results to bound the traveling salesman path of two-dimensional Kronecker point sets. Our results rely on earlier work on shortest vectors in lattices as well as on the strong convergence of Jacobi–Perron type algorithms.",
+    "citation_count": 22,
+    "year": "2017/05",
+    "authors": [
+        {
+            "name": "Pausinger, Florian",
+            "country": "Germany"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

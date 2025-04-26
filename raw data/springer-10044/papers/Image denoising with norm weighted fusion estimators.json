@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-017-0617-8",
+    "title": "Image denoising with norm weighted fusion estimators",
+    "abstract": "In recent era, the weighted matrix rank minimization is used to reduce image noise, promisingly. However, low-rank weighted conditions may cause oversmoothing or oversharpening of the denoised image. This demands a clever engineering algorithm. Particularly, to remove heavy noise in image is always a challenging task, specially, when there is need to preserve the fine edge structures. To attain a reliable estimate of heavy noise image, a norm weighted fusion estimators method is proposed in wavelet domain. This holds the significant geometric structure of the given noisy image during the denoising process. Proposed method is applied on standard benchmark images, and simulation results outperform the most popular rivals of noise reduction approaches, such as BM3D, EPLL, LSSC, NCSR, SAIST, and WNNM in terms of the quality measurement metric PSNR (dB) and structural analysis SSIM indices.",
+    "citation_count": 36,
+    "year": "2018/11",
+    "authors": [
+        {
+            "name": "Muhammad, Nazeer",
+            "country": "Pakistan"
+        },
+        {
+            "name": "Bibi, Nargis",
+            "country": "Pakistan"
+        },
+        {
+            "name": "Jahangir, Adnan",
+            "country": "Pakistan"
+        },
+        {
+            "name": "Mahmood, Zahid",
+            "country": "Pakistan"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

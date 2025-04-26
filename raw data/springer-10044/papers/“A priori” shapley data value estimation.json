@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-025-01454-5",
+    "title": "“A priori” shapley data value estimation",
+    "abstract": "Distributed machine learning approaches are required when training data cannot be collected in a central location, due to storage, transmission or privacy/security constraints. An important task in any distributed machine learning context, and Federated Learning is no exception, is data value estimation or credit allocation, where the goal is to reward each participant proportionally to their contribution to the final performance of the machine learning model. However, all existing data value estimation techniques require that training be completed before the data values are obtained, and in this sense they can be considered as “a posteriori” approaches. Thus, all potential contributors must participate in the training process, regardless of the quality of their data or the final reward they can obtain. Here we present an “a priori” Shapley data value estimation technique in which, based on some statistical measures provided by the participants, the central counterpart or aggregator can obtain reasonably accurate data value estimates before actually starting the distributed learning process. To the best of our knowledge, this is the first “a priori” data value estimation approach proposed in the literature, and it can be used for the pre-selection of participants or to implement new pricing schemes. The introduced algorithms have been benchmarked using a variety of datasets and a logistic regression model, and we show that our “a priori” estimates are very accurate, compared to the centralized Shapley data values.",
+    "citation_count": 73,
+    "year": "2025/06",
+    "authors": [
+        {
+            "name": "Navia-Vázquez, Angel",
+            "country": "Spain"
+        },
+        {
+            "name": "Cid-Sueiro, Jesús",
+            "country": "Spain"
+        },
+        {
+            "name": "Vázquez, Manuel A.",
+            "country": "Spain"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

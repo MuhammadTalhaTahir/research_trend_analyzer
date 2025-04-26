@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002058",
+    "title": "Secure user authentication mechanism for IoT-enabled Wireless Sensor Networks based on multiple Bloom filters",
+    "abstract": "In this article, we propose an efficient  Bloom filter  and fuzzy extractor based user  authentication technique , which is significant for an  Internet of Things  (IoT)-enabled multi-hop  Wireless Sensor Networks  (IoT-WSNs). The novelty of the proposed authentication technique is that it prevents fraudulent querying data delivery at the starting phase (i.e., at the querying  sensor node  itself) to stop false or counterfeit data flooding (which can exhaust the resources of IoT-WSNs) from the resource-constrained IoT-enabled sensor nodes to the nearby gateway node. The proposed authentication technique has the ability to significantly reduce the Bloom filter based  false positive  for  user authentication  in IoT-WSNs, while also preserving the  constraint resources  of WSNs. To estimate the security robustness of the proposed protocol based on the security goals of IoT-WSNs, we perform the formal security analysis using the random oracle and Real-Or-Random (ROR) models, informal security analysis and also the formal security verification using a widely-recognized automated  software validation  tool, known as Automated Validation of Internet  Security Protocols  and Applications (AVISPA). Next, communication and computational overheads analysis reveal that the proposed protocol is appropriate for resource-constrained sensor nodes. Furthermore, a correlative security feature and complexity analysis outcomes validate that the proposed protocol is reliable, secure, and efficient in comparison with other existing state of art related user  authentication protocols .",
+    "citation_count": "28",
+    "year": "2021/11/01",
+    "authors": [
+        {
+            "name": "Anup Kumar Maurya",
+            "country": ""
+        },
+        {
+            "name": "Ashok Kumar Das",
+            "country": ""
+        },
+        {
+            "name": "Sajjad Shaukat Jamal",
+            "country": ""
+        },
+        {
+            "name": "Debasis Giri",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

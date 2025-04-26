@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624002634",
+    "title": "Multi-task disagreement-reducing multimodal sentiment fusion network",
+    "abstract": "Existing multimodal sentiment analysis models can effectively capture sentimental commonalities between different modalities and possess high sentimental acquisition capability. However, there are still shortcomings in the model's analysis and recognition abilities when dealing with samples that exhibit sentimental polarity disagreement between different modalities. Additionally, the dominance of the text modality in multimodal models, particularly those pre-trained with BERT, can hinder the learning of other modalities due to its richer semantic information. This issue becomes particularly pronounced in cases where there is a conflict between multimodal and textual sentimental polarities, often leading to suboptimal analytical results. Besides, the classification ability of each modality is also suppressed by single-task learning. In this paper, We propose a Multi-Task disagreement-Reducing Multimodal Sentiment Fusion Network (MtDr-MSF), designed to enhance the semantic information of non-text modalities and reduce the dominant impact of the textual modality on the model, and to improve the learning capabilities of unimodal networks. We conducted experiments on multimodal sentiment analysis datasets, CMU-MOSI, CMU-MOSEI, and CH-SIMS. The results show that our method outperforms the current SOTA method.",
+    "citation_count": "0",
+    "year": "2024/09/01",
+    "authors": [
+        {
+            "name": "Wang Zijun",
+            "country": ""
+        },
+        {
+            "name": "Jiang Naicheng",
+            "country": ""
+        },
+        {
+            "name": "Chao Xinyue",
+            "country": ""
+        },
+        {
+            "name": "Sun Bin",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

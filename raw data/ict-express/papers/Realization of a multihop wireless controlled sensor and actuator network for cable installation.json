@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959519302784",
+    "title": "Realization of a multihop wireless controlled sensor and actuator network for cable installation",
+    "abstract": "Long and heavy cables need to be laid during the construction of plant. The present-day cable installation system drives the cables through by power assistance in order to reduce physical stress on the workers. However, the system cannot pull a long and heavy cable sequentially at the desired timing of the tension triggered onto the cable head by the worker. To solve this problem, we propose a multihop wireless controlled system that works to push the cable at a time set by instruction packets delivered according to the applied tension. This paper explains the design and adoption of a multihop wireless controlled sensor and actuator network into the cable installation system.",
+    "citation_count": "0",
+    "year": "2019/12/01",
+    "authors": [
+        {
+            "name": "Masahiro Watanabe",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

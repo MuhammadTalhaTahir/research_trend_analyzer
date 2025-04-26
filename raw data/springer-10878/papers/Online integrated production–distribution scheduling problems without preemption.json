@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-015-9841-6",
+    "title": "Online integrated production–distribution scheduling problems without preemption",
+    "abstract": "We study an integrated production–distribution scheduling problem where jobs are released by customers to a manufacturer over time. The jobs are released online, that is, at any time the information of the number, release and processing times of future jobs is unknown, and the processing time of a job becomes known when the job is released. The manufacturer processes the jobs on a single machine. During the processing of jobs preemption is not allowed. Completed jobs are delivered in batches to customers via sufficient capacitated vehicles. For the objective of minimizing the sum of the total delivery time and the total distribution cost, we present a 3-competitive algorithm for the single-customer case and then extend the result to the multi-customer case. A lower bound of two on the competitive ratio of the problem is also given.",
+    "citation_count": 20,
+    "year": "2016/05",
+    "authors": [
+        {
+            "name": "Feng, Xin",
+            "country": "China"
+        },
+        {
+            "name": "Cheng, Yongxi",
+            "country": "China"
+        },
+        {
+            "name": "Zheng, Feifeng",
+            "country": "China"
+        },
+        {
+            "name": "Xu, Yinfeng",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

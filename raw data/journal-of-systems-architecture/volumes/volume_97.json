@@ -1,0 +1,154 @@
+[
+    {
+        "title": "Title page/Editorial board",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762119302358"
+    },
+    {
+        "title": "PB-NVM: A high performance partitioned buffer on NVDIMM",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762118303102"
+    },
+    {
+        "title": "A permanent fault tolerant dynamic task allocation approach for Network-on-Chip based multicore systems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762118302546"
+    },
+    {
+        "title": "GPUart - An application-based limited preemptive GPU real-time scheduler for embedded systems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762118300729"
+    },
+    {
+        "title": "ENOrMOUS: ENergy Optimization for MObile plateform using User needS",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762118300705"
+    },
+    {
+        "title": "Online stereo camera calibration for automotive vision based on HW-accelerated A-KAZE-feature extraction",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762118304740"
+    },
+    {
+        "title": "Hierarchical adaptive Multi-objective resource management for many-core systems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762118304405"
+    },
+    {
+        "title": "A new approach to the Population-Based Incremental Learning algorithm using virtual regions for task mapping on NoCs",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762118300067"
+    },
+    {
+        "title": "Leaking your engine speed by spectrum analysis of real-Time scheduling sequences",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762118302224"
+    },
+    {
+        "title": "Hardlock: Real-time multicore locking",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762118303199"
+    },
+    {
+        "title": "Event-based application modeling for analysis of asymmetric multicore-based mobile systems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762118302376"
+    },
+    {
+        "title": "Optimized implementation of OpenCL kernels on FPGAs",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762118303151"
+    },
+    {
+        "title": "A survey of spintronic architectures for processing-in-memory and neural networks",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762118304909"
+    },
+    {
+        "title": "A survey of encoding techniques for reducing data-movement energy",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762118304521"
+    },
+    {
+        "title": "A survey of optimization techniques for thermal-aware 3D processors",
+        "url": "https://www.sciencedirect.com/science/article/pii/S138376211830540X"
+    },
+    {
+        "title": "A Survey on optimized implementation of deep learning models on the NVIDIA Jetson platform",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762118306404"
+    },
+    {
+        "title": "Fuzzy pattern tree for edge malware detection and categorization in IoT",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762118305265"
+    },
+    {
+        "title": "QoE-driven computation offloading for Edge Computing",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762118304430"
+    },
+    {
+        "title": "Leaf: An open-source cybersecurity training platform for realistic edge-IoT scenarios",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762118304442"
+    },
+    {
+        "title": "P2TA: Privacy-preserving task allocation for edge computing enhanced mobile crowdsensing",
+        "url": "https://www.sciencedirect.com/science/article/pii/S138376211830451X"
+    },
+    {
+        "title": "Introduction to the special issue of the 16th ACM workshop on Adaptive and Reflective Middleware (ARM)",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762119301183"
+    },
+    {
+        "title": "Lightweight formalisation of adaptive middleware",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762118300936"
+    },
+    {
+        "title": "An adaptive IoT platform on budgeted 3G data plans",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762118301061"
+    },
+    {
+        "title": "A distributed node deployment algorithm for underwater wireless sensor networks based on virtual forces",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762118305794"
+    },
+    {
+        "title": "Computing in smart toys and the related Internet of Things (IoT) applications",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762119302024"
+    },
+    {
+        "title": "Toy user interfaces: Systematic and industrial mapping",
+        "url": "https://www.sciencedirect.com/science/article/pii/S138376211830153X"
+    },
+    {
+        "title": "The power impact of hardware and software actuators on self-adaptable many-core systems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762119300724"
+    },
+    {
+        "title": "Pessimism in multicore global schedulability analysis",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762118300845"
+    },
+    {
+        "title": "Model-based documentation of dynamicity constraints for collaborative cyber-physical system architectures: Findings from an industrial case study",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762118303527"
+    },
+    {
+        "title": "Design optimization of WirelessHART networks in Cyber-Physical Systems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762118303497"
+    },
+    {
+        "title": "Authentication in cloud-driven IoT-based big data environment: Survey and outlook",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762118303618"
+    },
+    {
+        "title": "Efficient sizing and placement of distributed generators in cyber-physical power systems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762118303278"
+    },
+    {
+        "title": "An active scheduling policy for automotive cyber-physical systems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762118303564"
+    },
+    {
+        "title": "Random test program generation for verification and validation of the Samsung Reconfigurable Processor",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762118306209"
+    },
+    {
+        "title": "A memory-bounded, deterministic and terminating semantics for the synchronous programming language",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762118305745"
+    },
+    {
+        "title": "Céu",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762118304703"
+    },
+    {
+        "title": "ECASS: Edge computing based auxiliary sensing system for self-driving vehicles",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762118305149"
+    },
+    {
+        "title": "An efficient convolutional neural network for small traffic sign detection",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762118304612"
+    }
+]

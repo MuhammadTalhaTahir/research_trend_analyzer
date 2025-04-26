@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650216300402",
+    "title": "Effectual recommendations using artificial algae algorithm and fuzzy c-mean",
+    "abstract": "Recommender systems  play a significant role in e-commerce applications. The primary motive of a recommender system is to recommend some items or products to the users based on their previous ratings of other products in the online environment. In this article, we presented a hybrid collaborative filtering based recommender system that improved the accuracy of the recommendations. In our work, we adopted fuzzy c-mean (FCM) and a recent bio-inspired approach, which is artificial algae algorithm (AAA). We have used advanced multilevel  Pearson   correlation coefficient  (PCC) to find the similarity between two users. Moreover, we discovered the rating which the user will most likely give to the movies which he has not given any ratings yet. By applying above-mentioned procedures, the quality of the recommendations is improved significantly. The proposed system succeeded to provide recommendations of better quality and accuracy when compared to other alternatives. We have experimented and evaluated our proposed recommender system on four  real data sets : Movielens 100,000, Movielens 1 million, Jester and Epinion. We concluded that our proposed recommender system delivered better recommendations for all four datasets. The efficiency of the system was estimated by  evaluation metrics  such as  mean absolute error  (MAE), precision and recall and showed impressive results. This proposed system delivered best results as compared to our previous work (Katarya and Verma, 2016) [1].",
+    "citation_count": "34",
+    "year": "2017/10/01",
+    "authors": [
+        {
+            "name": "Rahul Katarya",
+            "country": ""
+        },
+        {
+            "name": "Om Prakash Verma",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

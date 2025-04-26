@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-024-01365-x",
+    "title": "One new family of smooth semi-supervised support vector classifier based on Fourier series approximation technique",
+    "abstract": "This article presents a new family of smooth semi-supervised support vector machines based on Fourier series approximation technique (FS-S4VMs) for classification. The semi-supervised support vector machine (S3VM) is the powerful tool for coping with quantities of unlabeled data in the real world. However, the symmetric hinge loss function of S3VM is not smooth. It will decrease the classification accuracy and endure heavy burden calculation. To deal with this problem, the Fourier series approximation smooth technique for replacing the non-smooth item have been investigated. One novel family of FS-S4VMs classifier is derived. Thus, one fast SAGA algorithm for solving non-convex FS-S4VMs can be utilized to decrease the computing scale. The nonlinear case and convergence analysis are presents as well. To attest how the new FS-S4VMs can be implemented into practice, experiments on synthetic and real data sets are accessed. In the final, theoretical explanation and simulation comparisons illustrate the FS-S4VMs enhance the robustness of S3VM, and increase the classification accuracy at about 1%–3% than other smooth techniques.",
+    "citation_count": 26,
+    "year": "2024/12",
+    "authors": [
+        {
+            "name": "Wang, En",
+            "country": "China"
+        },
+        {
+            "name": "Mei, Yang",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

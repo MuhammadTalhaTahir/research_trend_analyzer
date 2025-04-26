@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/0262885689900267",
+    "title": "Stereo vision correspondence using a multichannel graph matching technique",
+    "abstract": "A multichannel feature-based stereo vision technique is described in this paper where curve segments are used as the feature primitives in the matching process. Curve segments are extracted by tracking the zero-crossings of the left and right images. The generalized Hough transform of each curve and the curve length are used as a local feature vector in representing the distinctive characteristics of the curve segment. The feature vector of each curve segment in the left image is used as a constraint to find an instance of the same curve segment in the right image. The epipolar constraint on the centroids of the curve segment is used to limit the searching space in the right image. A relational graph is formed from the left image by treating the centroids of the curve segments as the nodes of the graph. The local features of the curve segments are used to represent the local properties of the nodes, and the relationship between the nodes represents the structural properties of the objects in the scene. A similar graph is also formed from the right image curve segments. A graph isomorphism is then formed between the two graphs by using the epipolar constraint on the centroids, the local properties of the nodes, node assignment and the structural relationship (compatibility) between the nodes.",
+    "citation_count": "11",
+    "year": "1989/11/01",
+    "authors": [
+        {
+            "name": "Nasser M Nasrabadi",
+            "country": ""
+        },
+        {
+            "name": "Liu Yi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

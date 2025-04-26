@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650216000328",
+    "title": "Quantum Inspired Social Evolution (QSE) algorithm for 0-1 knapsack problem",
+    "abstract": "Social Evolution (SE) algorithm (Pavithr, 2014  [10] ) is inspired by  human interactions  and their bias. Generally,  human bias  influences with whom individuals interact and how they interact. The individual bias may also influence the outcome of interactions to be decisive or indecisive. When the interactions are decisive, the individuals may completely adopt the change. When the interactions are indecisive, individual may consult for a second opinion to further evaluate the indecisive interaction before adopting the change to emerge and evolve (Pavithr, 2014  [10] ). In the last decade, with the integration of emerging  quantum computing  with the traditional evolutional algorithms, quantum inspired  evolutionary algorithm  is evolved (Han and Kim, 2000  [2] ). Inspired by Q-bit representation and  parallelism  and the success of the quantum inspired evolutionary algorithms, in this paper, a quantum inspired Social Evolution algorithm (QSE) is proposed by hybridizing Social evolution algorithm with the emerging quantum inspired  evolutionary algorithm . The  proposed QSE  algorithm is studied on a well known 0-1  knapsack problem  and the performance of the algorithm is compared with various evolutionary, swarm and quantum inspired  evolutionary algorithm  variants. The results indicate that, the performance of QSE algorithm is better than or comparable with the different evolutionary algorithmic variants tested with. An experimental study is also performed to investigate the impact and importance of human bias in selection of individuals for interactions, the rate of individuals seeking for second opinion and the influence of selective learning on the overall performance of Quantum inspired Social Evolution algorithm (QSE).",
+    "citation_count": "37",
+    "year": "2016/08/01",
+    "authors": [
+        {
+            "name": "R.S. Pavithr",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

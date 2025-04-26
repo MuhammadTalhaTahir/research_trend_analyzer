@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1009750409895",
+    "title": "Job Shop Scheduling With Deadlines",
+    "abstract": "In this paper we deal with a variant of the Job ShopScheduling Problem. We consider the addition of release dates anddeadlines to be met by all jobs. The objective is makespanminimization if there are no tardy jobs, and tardiness minimizationotherwise. The problem is approached by using a Shifting Bottleneckstrategy. The presence of deadlines motivates an iterative use of aparticular one machine problem which is solved optimally. Theoverall procedure is heuristic and exhibits a good trade-off betweencomputing time and solution quality.",
+    "citation_count": 8,
+    "year": "1998/12",
+    "authors": [
+        {
+            "name": "Balas, Egon",
+            "country": "USA"
+        },
+        {
+            "name": "Lancia, Giuseppe",
+            "country": "USA"
+        },
+        {
+            "name": "Serafini, Paolo",
+            "country": "Italy"
+        },
+        {
+            "name": "Vazacopoulos, Alkiviadis",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

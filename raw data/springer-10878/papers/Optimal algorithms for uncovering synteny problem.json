@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-006-9008-6",
+    "title": "Optimal algorithms for uncovering synteny problem",
+    "abstract": "The syntenic distance between two genomes is the minimum number of fusions, fissions, and translocations that can transform one genome to the other, ignoring the gene order within chromosomes. As the problem is NP-hard in general, some particular classes of synteny instances, such as linear synteny, exact synteny and nested synteny, are examined in the literature. In this paper, we propose a new special class of synteny instances, called uncovering synteny. We first present a polynomial time algorithm to solve the connected case of uncovering synteny optimally. By performing only intra-component moves, we then solve the unconnected case of uncovering synteny. We will further calculate the diameters of connected and unconnected uncovering synteny, respectively.",
+    "citation_count": 18,
+    "year": "2006/12",
+    "authors": [
+        {
+            "name": "Ting, Chen",
+            "country": "P. R. China"
+        },
+        {
+            "name": "Yong, H. E.",
+            "country": "P. R. China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

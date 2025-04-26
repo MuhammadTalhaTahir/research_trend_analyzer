@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885620300573",
+    "title": "Zero-sum game theory model for segmenting skin regions",
+    "abstract": "This paper presents a new method for skin region segmentation based on a zero-sum  game theory model  which exploits the opposite classifications of an image region by different skin detectors. In fact, these regions are considered conflict areas between two players (skin and non-skin) and skin detectors are considered strategies. An appropriate  utility function  is then defined. The computation of the saddle point (The Nash equilibrium) in the mixed extension of the proposed zero-sum game allows classifying effectively the conflict areas and so reducing the  false positive  skin detection. Experiments were conducted on three publically available databases using four selected skin detectors based on skin color information, skin-texture cues and employ rule-based or  neural networks . The results show that the proposed method outperforms the existing skin  segmentation approaches  in reducing the false positive rates and obtains promising results in the skin  segmentation performance .",
+    "citation_count": "29",
+    "year": "2020/07/01",
+    "authors": [
+        {
+            "name": "Djamila Dahmani",
+            "country": ""
+        },
+        {
+            "name": "Mehdi Cheref",
+            "country": ""
+        },
+        {
+            "name": "Slimane Larabi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-010-9372-0",
+    "title": "Algorithms for the minimum weight k-fold (connected) dominating set problem",
+    "abstract": "In this paper, we study the problem of computing a minimum weight k-fold dominating set (MWkDS) or a minimum weight k-fold connected dominating set (MWkCDS) in a unit ball graph (UBG). Using slab decomposition and dynamic programming, we give two exact algorithms for the computation of MWkDS and MWkCDS which can be executed in polynomial time if the thickness of the graph is bounded above.",
+    "citation_count": 27,
+    "year": "2012/05",
+    "authors": [
+        {
+            "name": "Ma, Wenkai",
+            "country": "China"
+        },
+        {
+            "name": "Li, Deying",
+            "country": "China"
+        },
+        {
+            "name": "Zhang, Zhao",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

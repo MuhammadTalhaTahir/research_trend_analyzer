@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885622000713",
+    "title": "Multi-scale feature aggregation and boundary awareness network for salient object detection",
+    "abstract": "Salient object detection  aims to detect the most visually distinctive objects in an image. Although existing FCN-based methods have shown strong advantages in this field, scale variation and complex boundary are still great challenges. In this paper, we propose a multi-scale feature aggregation and boundary awareness network to overcome the problems. Multi-scale feature aggregation module is proposed to integrate adjacent hierarchical features and the multiple aggregation strategy solves the problem of scale variation. To obtain more effective multi-scale features from integrated features, a cross feature refinement module is proposed to compose the decoder. For the issue of complex boundary, we design a boundary pixel awareness loss function to enable the network to acquire boundary information and generate high-quality saliency maps with better boundary. Experiments on five benchmark datasets show that our network outperforms recent state-of-the-art detectors quantitatively and qualitatively.",
+    "citation_count": "7",
+    "year": "2022/06/01",
+    "authors": [
+        {
+            "name": "Qin Wu",
+            "country": ""
+        },
+        {
+            "name": "Jianzhe Wang",
+            "country": ""
+        },
+        {
+            "name": "Zhilei Chai",
+            "country": ""
+        },
+        {
+            "name": "Guodong Guo",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

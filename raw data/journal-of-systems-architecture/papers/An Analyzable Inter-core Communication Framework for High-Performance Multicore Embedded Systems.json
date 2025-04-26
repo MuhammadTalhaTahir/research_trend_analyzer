@@ -1,0 +1,38 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121001284",
+    "title": "An Analyzable Inter-core Communication Framework for High-Performance Multicore Embedded Systems",
+    "abstract": "Multicore processors provide great average-case performance. However, the use of multicore processors for safety-critical applications can lead to catastrophic consequences because of contention on shared resources. The problem has been well-studied in literature, and solutions such as partitioning of shared resources have been proposed. Strict partitioning of memory resources among cores, however, does not allow intercore communication. This paper proposes a Communication Core Model (CCM) that implements the inter-core communication by bounding the amount of intercore interference in a partitioned multicore system. A system-level perspective of how to realize such CCM along with the implementation details is provided. A formula to derive the WCET of the tasks using CCM is provided. We compare our proposed CCM with Contention-based Communication (CBC), where no private banking is enforced for any core. The analytical approach results using San Diego Vision Benchmark Suite (SD-VBS) for two models indicate that the CCM shows an improvement of up to 65 percent compared to the CBC. Moreover, our experimental results indicate that the measured WCET using SD-VBS is within the bounds calculated using the proposed analysis.",
+    "citation_count": "5",
+    "year": "2021/09/01",
+    "authors": [
+        {
+            "name": "Rohan Tabish",
+            "country": ""
+        },
+        {
+            "name": "Jen-Yang Wen",
+            "country": ""
+        },
+        {
+            "name": "Rodolfo Pellizzoni",
+            "country": ""
+        },
+        {
+            "name": "Renato Mancuso",
+            "country": ""
+        },
+        {
+            "name": "Heechul Yun",
+            "country": ""
+        },
+        {
+            "name": "Marco Caccamo",
+            "country": ""
+        },
+        {
+            "name": "Lui Raymond Sha",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

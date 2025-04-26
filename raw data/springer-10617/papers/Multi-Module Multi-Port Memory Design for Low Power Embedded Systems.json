@@ -1,0 +1,22 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10617-005-1195-3",
+    "title": "Multi-Module Multi-Port Memory Design for Low Power Embedded Systems",
+    "abstract": "In this paper we describe a multi-module, multi-port memory design procedure that satisfies area and/or energy constraints for embedded applications. Our procedure consists of application of loop transformations and reordering of array accesses to reduce the memory bandwidth followed by memory allocation and assignment procedures based on ILP models and heuristic-based algorithms. The specific problems include determination of (a) the memory configuration with minimum area, given the energy bound, (b) the memory configuration with minimum energy, given the area bound, (c) array allocation such that the energy consumption is minimum for a given memory configuration (number of modules, size and number of ports per module). The results obtained by the heuristics match well with those obtained by the ILP methods.",
+    "citation_count": 17,
+    "year": "2004/12",
+    "authors": [
+        {
+            "name": "Shiue, Wen-Tsong",
+            "country": "Austin"
+        },
+        {
+            "name": "Chakrabarti, Chaitali",
+            "country": "Tempe"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

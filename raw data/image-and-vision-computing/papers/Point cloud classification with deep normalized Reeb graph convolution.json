@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885620302249",
+    "title": "Point cloud classification with deep normalized Reeb graph convolution",
+    "abstract": "Recently, plenty of  deep learning  methods have been proposed to handle point clouds. Almost all of them input the entire point cloud and ignore the  information redundancy  lying in point clouds. This paper addresses this problem by extracting the Reeb graph from point clouds, which is a much more informative and  compact representation  of point clouds, and then filter the graph with deep  graph convolution . To be able to classify or segment point clouds well, we propose (1) Graph Normalization to transform various graphs into a canonical graph space; (2) Normalized Similarity Distance to better identify the graph structure;(3) Reeb Graph Guided Node Pooling in order to aggregate high-level features from  kNN graphs . Besides, our method naturally fits into the problem of classifying point clouds with unknown orientations. In the results, we show that our method gives a competitive performance to the state-of-the-art methods and outperforms previous methods by a large margin on handling point clouds with unknown orientations.",
+    "citation_count": "14",
+    "year": "2021/02/01",
+    "authors": [
+        {
+            "name": "Weiming Wang",
+            "country": ""
+        },
+        {
+            "name": "Yang You",
+            "country": ""
+        },
+        {
+            "name": "Wenhai Liu",
+            "country": ""
+        },
+        {
+            "name": "Cewu Lu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

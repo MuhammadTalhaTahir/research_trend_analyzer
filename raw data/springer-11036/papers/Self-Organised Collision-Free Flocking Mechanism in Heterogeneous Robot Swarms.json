@@ -1,0 +1,31 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-021-01785-7",
+    "title": "Self-Organised Collision-Free Flocking Mechanism in Heterogeneous Robot Swarms",
+    "abstract": "Flocking is a social animals’ common behaviour observed in nature. It has a great potential for real-world applications such as exploration in agri-robotics using low-cost robotic solutions. In this paper, an extended model of a self-organised flocking mechanism using heterogeneous swarm system is proposed. The proposed model for swarm robotic systems is a combination of a collective motion mechanism with obstacle avoidance functions, which ensures a collision-free flocking trajectory for the followers. An optimal control model for the leader is also developed to steer the swarm to a desired goal location. Compared to the conventional methods, by using the proposed model, the swarm network has less requirement for power and storage. The feasibility of the proposed self-organised flocking algorithm is validated by realistic robotic simulation software.",
+    "citation_count": 56,
+    "year": "2021/12",
+    "authors": [
+        {
+            "name": "Ban, Zhe",
+            "country": "UK"
+        },
+        {
+            "name": "Hu, Junyan",
+            "country": "UK"
+        },
+        {
+            "name": "Lennox, Barry",
+            "country": "UK"
+        },
+        {
+            "name": "Arvin, Farshad",
+            "country": "UK"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

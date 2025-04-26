@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762115001411",
+    "title": "Fast multisensor infrared image super-resolution scheme with multiple regression models",
+    "abstract": "High resolution (HR) infrared (IR) images play an important role in many areas. However, it is difficult to obtain images at a desired resolution level because of the limitation of hardware and image environment. Therefore, improving the spatial resolution of infrared images has become more and more urgent. Methods based on  sparse coding  have been successfully used in single-image super-resolution (SR) reconstruction. However, the existing sparse representation-based  SR  method for infrared (IR) images usually encounter three problems. First, IR images always lack detailed information, which leads to unsatisfying IR image reconstruction results with conventional method. Second, the existing dictionary learning methods in SR aim at learning a universal and over-complete dictionary to represent various image structures. A large number of different structural patterns exist in an image, whereas one dictionary is not capable of capturing all of the different structures. Finally, the optimization for dictionary learning and image reconstruction requires a highly intensive computation, which restricts the practical application in real-time systems. To overcome these problems, we propose a fast IR image  SR scheme . Firstly, we integrate the information from visible (VI) images and IR images to improve the resolution of IR images because images acquired by different sensors provide complementary information for the same scene. Second, we divide the training patches into several clusters, then the multiple dictionaries are learned for each cluster in order to provide each patch with a more accurate dictionary. Finally, we propose an method of Soft-assignment based Multiple Regression (SMR). SMR reconstructs the high resolution (HR) patch by the dictionaries corresponding to its K nearest training patch clusters. The method has a low level of  computational complexity  and may be readily suitable for real-time processing applications. Numerous experiments validate that this scheme brings better results in terms of quantization and visual perception than many state-of-the-art methods, while at the same time maintains a relatively low level of time complexity. Since the main computation of this scheme is matrix multiplication, it will be easily implemented in  FPGA  system.",
+    "citation_count": "10",
+    "year": "2016/03/01",
+    "authors": [
+        {
+            "name": "Xiaomin Yang",
+            "country": ""
+        },
+        {
+            "name": "Wei Wu",
+            "country": ""
+        },
+        {
+            "name": "Kai Liu",
+            "country": ""
+        },
+        {
+            "name": "Kai Zhou",
+            "country": ""
+        },
+        {
+            "name": "Binyu Yan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-015-9839-0",
+    "title": "On statistical bounds of heuristic solutions to location problems",
+    "abstract": "Combinatorial optimization problems such as locating facilities frequently rely on heuristics to minimize the objective function. The optimum is often sought iteratively; a criterion is therefore necessary to be able to decide when the procedure attains such an optimum. Pre-setting the number of iterations is dominant in OR applications, however, the fact that the quality of the solution cannot be ascertained by pre-setting the number of iterations makes it less preferable. A small and, almost dormant, branch of the literature suggests usage of statistical principles to estimate the minimum and its bounds as a tool to decide upon the stopping criteria and also to evaluate the quality of the solution. In the current work we have examined the functioning of statistical bounds obtained from four different estimators using simulated annealing. P-median test problems taken from Beasley’s OR-library were used for the sake of testing. Our findings show that the Weibull estimator and 2nd order Jackknife estimators are preferable and the requirement of sample size to be about 10. It should be noted that reliable statistical bounds are found to depend critically on a sample of heuristic solutions of high quality; we have therefore provided a simple statistic for checking the quality. The work finally concludes with an illustration of applying statistical bounds to the problem of locating 70 post distribution centers in a region in Sweden.",
+    "citation_count": 26,
+    "year": "2016/05",
+    "authors": [
+        {
+            "name": "Carling, Kenneth",
+            "country": "Sweden"
+        },
+        {
+            "name": "Meng, Xiangli",
+            "country": "Sweden"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

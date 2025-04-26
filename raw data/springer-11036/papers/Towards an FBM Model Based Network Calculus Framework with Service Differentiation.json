@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-008-0040-x",
+    "title": "Towards an FBM Model Based Network Calculus Framework with Service Differentiation",
+    "abstract": "In this paper, we exploit traffic modeling with the fractional Brownian motion (FBM) process to develop a network calculus framework for end-to-end performance analysis over a network provisioning differentiated services (DiffServ). The fundamental elements constituting the framework include accurate single-hop queueing analysis and three network calculuses that describe the stochastic behaviors when the traffic process is multiplexed, randomly split, or goes through a buffering system, respectively. Specifically, we develop a generic FBM based analysis for multiclass single-hop analysis where both inter-buffer priority and intra-buffer priority are used for service differentiation. Moreover, we present both theoretical and simulation studies to demonstrate that the output from the multiplexing, splitting, and buffering calculuses can still be modeled or well approximated by a properly parameterized FBM process. It is such preservation of the FBM characteristics that enables the concatenation of FBM based single-hop analysis into a network-wide performance analysis.",
+    "citation_count": 27,
+    "year": "2007/12",
+    "authors": [
+        {
+            "name": "Cheng, Yu",
+            "country": "USA"
+        },
+        {
+            "name": "Zhuang, Weihua",
+            "country": "Canada"
+        },
+        {
+            "name": "Ling, Xinhua",
+            "country": "Canada"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

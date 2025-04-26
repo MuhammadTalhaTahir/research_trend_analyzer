@@ -1,0 +1,31 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-017-0920-z",
+    "title": "Outage Performance Analysis for Device-to-Device Communication Underlying Small Cell Networks with Wireless Power Transfer",
+    "abstract": "Device-to-Device (D2D) communication and wireless small cell networks (SCNs) are two of the most promising paradigms in next generation cellular technologies. However, interference management is a major issue in regard to the use of either or both technologies. In this paper, we propose a D2D pair underlying SCNs using Wireless Power Transfer (WPT) technology. In particular, we have a D2D transmitter and D2D receiver underlying SCNs and operate in close proximity to a SCN primary user (PU). Two scenarios are proposed. The first scenario is when the best base station (BS) link is chosen to harvest energy from, and a second scenario where energy is harvested from all available SCN BSs. The transmission between the D2D pair is kept under a certain threshold so it could not have any harmful effects on the transmission link of PU. The results reveal that the number of interference users shows negative effect on the performance of the considered system. Besides, the primary network’s peak interference constraint has significant influence on the optimal value of energy harvesting time at the D2D transmitter.",
+    "citation_count": 29,
+    "year": "2018/12",
+    "authors": [
+        {
+            "name": "Altawaim, Mohammed Nasser",
+            "country": "UK"
+        },
+        {
+            "name": "Nguyen, Nam-Phong",
+            "country": "UK"
+        },
+        {
+            "name": "Scanlon, William G.",
+            "country": "UK"
+        },
+        {
+            "name": "Nguyen, Sang Quang",
+            "country": "Vietnam"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-007-0066-x",
+    "title": "Classification of hematologic malignancies using texton signatures",
+    "abstract": "We describe a decision support system to distinguish among hematology cases directly from microscopic specimens. The system uses an image database containing digitized specimens from normal and four different hematologic malignancies. Initially, the nuclei and cytoplasmic components of the specimens are segmented using a robust color gradient vector flow active contour model. Using a few cell images from each class, the basic texture elements (textons) for the nuclei and cytoplasm are learned, and the cells are represented through texton histograms. We propose to use support vector machines on the texton histogram based cell representation and achieve major improvement over the commonly used classification methods in texture research. Experiments with 3,691 cell images from 105 patients which originated from four different hospitals indicate more than 84% classification performance for individual cells and 89% for case based classification for the five class problem.",
+    "citation_count": 49,
+    "year": "2007/10",
+    "authors": [
+        {
+            "name": "Tuzel, Oncel",
+            "country": "USA"
+        },
+        {
+            "name": "Yang, Lin",
+            "country": "USA"
+        },
+        {
+            "name": "Meer, Peter",
+            "country": "USA"
+        },
+        {
+            "name": "Foran, David J.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

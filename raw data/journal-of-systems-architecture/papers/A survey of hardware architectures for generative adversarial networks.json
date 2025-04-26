@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762121001582",
+    "title": "A survey of hardware architectures for generative adversarial networks",
+    "abstract": "Recent years have witnessed a significant interest in the “generative adversarial networks” (GANs) due to their ability to generate high-fidelity data. Many models of GANs have been proposed for a diverse range of domains ranging from  natural language processing  to  image processing . GANs have a high compute and memory requirements. Also, since they involve both convolution and  deconvolution  operation, they do not map well to the conventional accelerators designed for  convolution operations . Evidently, there is a need of customized accelerators for achieving high efficiency with GANs. In this work, we present a survey of techniques and architectures for accelerating GANs. We organize the works on key parameters to bring out their differences and similarities. Finally, we present research challenges that are worthy of attention in near future. More than summarizing the state-of-art, this survey seeks to spark further research in the field of GAN accelerators.",
+    "citation_count": "10",
+    "year": "2021/09/01",
+    "authors": [
+        {
+            "name": "Nivedita Shrivastava",
+            "country": ""
+        },
+        {
+            "name": "Muhammad Abdullah Hanif",
+            "country": ""
+        },
+        {
+            "name": "Sparsh Mittal",
+            "country": ""
+        },
+        {
+            "name": "Smruti Ranjan Sarangi",
+            "country": ""
+        },
+        {
+            "name": "Muhammad Shafique",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

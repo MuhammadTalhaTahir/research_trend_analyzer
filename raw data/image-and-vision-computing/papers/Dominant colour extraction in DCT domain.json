@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885606001302",
+    "title": "Dominant colour extraction in DCT domain",
+    "abstract": "As most of  MPEG  and JPEG  compression standards  are DCT-based, we propose a simple, low-cost and fast algorithm to extract dominant colour features directly in DCT domain without involving full  decompression  to access the pixel data. As dominant colour is one of the colour features used in constructing MPEG-7 dominant colour descriptors, the proposed algorithm would provide useful technique for those already compressed videos and images, where MPEG-7 dominant colour descriptors are needed. While the proposed algorithm presents advantages in terms of computing efficiency, i.e. eliminating the need of IDCT for compressed videos and images, extensive experiments also support that the proposed algorithm achieves competitive performances in extracting dominant colour features when compared with the  pixel domain  extraction described in MPEG-7.",
+    "citation_count": "35",
+    "year": "2006/12/01",
+    "authors": [
+        {
+            "name": "Jianmin Jiang",
+            "country": ""
+        },
+        {
+            "name": "Ying Weng",
+            "country": ""
+        },
+        {
+            "name": "PengJie Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

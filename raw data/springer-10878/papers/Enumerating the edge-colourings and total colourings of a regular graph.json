@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-011-9448-5",
+    "title": "Enumerating the edge-colourings and total colourings of a regular graph",
+    "abstract": "In this paper, we are interested in computing the number of edge colourings and total colourings of a connected graph. We prove that the maximum number of k-edge-colourings of a connected k-regular graph on n vertices is k⋅((k−1)!) n/2. Our proof is constructive and leads to a branching algorithm enumerating all the k-edge-colourings of a connected k-regular graph in time O ∗(((k−1)!) n/2) and polynomial space. In particular, we obtain a algorithm to enumerate all the 3-edge-colourings of a connected cubic graph in time O ∗(2 n/2)=O ∗(1.4143 n ) and polynomial space. This improves the running time of O ∗(1.5423 n ) of the algorithm due to Golovach et&nbsp;al. (Proceedings of WG 2010, pp.&nbsp;39–50, 2010). We also show that the number of 4-total-colourings of a connected cubic graph is at most 3⋅23n/2. Again, our proof yields a branching algorithm to enumerate all the 4-total-colourings of a connected cubic graph.",
+    "citation_count": 19,
+    "year": "2013/05",
+    "authors": [
+        {
+            "name": "Bessy, S.",
+            "country": "France"
+        },
+        {
+            "name": "Havet, F.",
+            "country": "France"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

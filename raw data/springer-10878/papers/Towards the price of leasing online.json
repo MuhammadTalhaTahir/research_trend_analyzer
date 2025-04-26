@@ -1,0 +1,37 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-015-9915-5",
+    "title": "Towards the price of leasing online",
+    "abstract": "We consider online optimization problems in which certain goods have to be acquired in order to provide a service or infrastructure. Classically, decisions for such problems are considered as final: one buys the goods. However, in many real world applications, there is a shift away from the idea of buying goods. Instead, leasing is often a more flexible and lucrative business model. Research has realized this shift and recently initiated the theoretical study of leasing models (Anthony and Gupta in Proceedings of the integer programming and combinatorial optimization: 12th International IPCO Conference, Ithaca, NY, USA, June 25–27, 2007; Meyerson in Proceedings of the 46th Annual IEEE Symposium on Foundations of Computer Science (FOCS 2005), 23–25 Oct 2005, Pittsburgh, PA, USA, 2005; Nagarajan and Williamson in Discret Optim 10(4):361–370, 2013) We extend this line of work and suggest a more systematic study of leasing aspects for a class of online optimization problems. We provide two major technical results. We introduce the leasing variant of online set multicover and give an $$O\\left( \\log (mK)\\log n\\right) $$ -competitive algorithm (with n, m, and K being the number of elements, sets, and leases, respectively). Our results also imply improvements for the non-leasing variant of online set cover. Moreover, we extend results for the leasing variant of online facility location. Nagarajan and Williamson (Discret Optim 10(4):361–370, 2013) gave an $$O\\left( K\\log n\\right) $$ -competitive algorithm for this problem (with n and K being the number of clients and leases, respectively). We remove the dependency on n (and, thereby, on time). In general, this leads to a bound of $$O\\left( l_{\\text {max}} \\log l_{\\text {max}} \\right) $$ (with the maximal lease length $$l_{\\text {max}} $$ ). For many natural problem instances, the bound improves to $$O\\left( K^2\\right) $$ .",
+    "citation_count": 26,
+    "year": "2016/11",
+    "authors": [
+        {
+            "name": "Abshoff, Sebastian",
+            "country": "Germany"
+        },
+        {
+            "name": "Kling, Peter",
+            "country": "Canada"
+        },
+        {
+            "name": "Markarian, Christine",
+            "country": "Germany"
+        },
+        {
+            "name": "Meyer auf der Heide, Friedhelm",
+            "country": "Germany"
+        },
+        {
+            "name": "Pietrzyk, Peter",
+            "country": "Germany"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

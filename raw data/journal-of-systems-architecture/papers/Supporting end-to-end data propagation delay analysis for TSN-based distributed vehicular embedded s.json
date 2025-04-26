@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762123000905",
+    "title": "Supporting end-to-end data propagation delay analysis for TSN-based distributed vehicular embedded systems",
+    "abstract": "In this paper, we identify that the existing end-to-end data propagation delay analysis for distributed embedded systems can calculate pessimistic (over-estimated) analysis results when the nodes are synchronized. This is particularly the case of the Scheduled Traffic (ST) class in Time-sensitive Networking (TSN), which is scheduled offline according to the IEEE 802.1Qbv standard and the nodes are synchronized according to the IEEE 802.1AS standard. We present a comprehensive system model for distributed embedded systems that incorporates all of the above mentioned aspect as well as all traffic classes in TSN. We extend the analysis to support both synchronization and non-synchronization among the ECUs as well as offline schedules on the networks. The extended analysis can now be used to analyze all traffic classes in TSN when the nodes are synchronized without introducing any pessimism in the analysis results. We evaluate the proposed model and the extended analysis on a vehicular industrial use case.",
+    "citation_count": "0",
+    "year": "2023/08/01",
+    "authors": [
+        {
+            "name": "Bahar Houtan",
+            "country": ""
+        },
+        {
+            "name": "Mohammad Ashjaei",
+            "country": ""
+        },
+        {
+            "name": "Masoud Daneshtalab",
+            "country": ""
+        },
+        {
+            "name": "Mikael Sjödin",
+            "country": ""
+        },
+        {
+            "name": "Saad Mubeen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

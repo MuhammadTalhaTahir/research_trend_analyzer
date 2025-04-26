@@ -1,0 +1,50 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762116302831",
+    "title": "Hardware design methodology using lightweight dataflow and its integration with low power techniques",
+    "abstract": "Dataflow  models of computation  are capable of providing high-level descriptions for hardware and software components and systems, facilitating efficient processes for system-level design. The modularity and  parallelism  of dataflow representations make them suitable for key aspects of design exploration and optimization, such as efficient scheduling, task  synchronization , memory and power management. The lightweight dataflow (LWDF) programming methodology provides an abstract programming model that supports dataflow-based design of  signal processing hardware  and software components and systems. Due to its formulation in terms of abstract  application programming interfaces , the LWDF methodology can be integrated with a wide variety of simulation- and implementation-oriented languages, and can be targeted across different platforms, which allows engineers to integrate dataflow modeling approaches relatively easily into existing design processes. Previous work on LWDF techniques has emphasized their application to  DSP  software implementation (e.g., through integration with C and CUDA). In this paper, we efficiently integrate the LWDF methodology with  hardware description languages  (HDLs), and we apply this HDL-integrated form of the methodology to develop efficient methods for low power  DSP  hardware implementation. The effectiveness of the proposed LWDF-based hardware design methodology is demonstrated through a  case study  of a  deep neural network  application for vehicle classification.",
+    "citation_count": "6",
+    "year": "2017/08/01",
+    "authors": [
+        {
+            "name": "Tiziana Fanni",
+            "country": ""
+        },
+        {
+            "name": "Lin Li",
+            "country": ""
+        },
+        {
+            "name": "Timo Viitanen",
+            "country": ""
+        },
+        {
+            "name": "Carlo Sau",
+            "country": ""
+        },
+        {
+            "name": "Renjie Xie",
+            "country": ""
+        },
+        {
+            "name": "Francesca Palumbo",
+            "country": ""
+        },
+        {
+            "name": "Luigi Raffo",
+            "country": ""
+        },
+        {
+            "name": "Heikki Huttunen",
+            "country": ""
+        },
+        {
+            "name": "Jarmo Takala",
+            "country": ""
+        },
+        {
+            "name": "Shuvra S. Bhattacharyya",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

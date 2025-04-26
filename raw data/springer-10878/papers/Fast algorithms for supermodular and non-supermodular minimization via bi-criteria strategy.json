@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-022-00914-6",
+    "title": "Fast algorithms for supermodular and non-supermodular minimization via bi-criteria strategy",
+    "abstract": "In this paper, we concentrate on exploring fast algorithms for the minimization of a non-increasing supermodular or non-supermodular function f subject to a cardinality constraint. As for the non-supermodular minimization problem with the weak supermodularity ratio r, we can obtain a $$(1+\\epsilon )$$ -approximation algorithm with adaptivity $$O(\\frac{n}{\\epsilon }\\log {\\frac{r n \\cdot f(\\emptyset )}{\\epsilon \\cdot \\mathtt {OPT}}})$$ under the bi-criteria strategy, where $$\\mathtt {OPT}$$ denotes the optimal objective value of the problem. That is, instead of selecting at most k elements on behalf of the constraint, the cardinality of the output may reach to $$\\frac{k}{ r}\\log {\\frac{f(\\emptyset )}{\\epsilon \\cdot \\mathtt {OPT}}}$$ . Moreover, for the supermodular minimization problem, we propose two $$(1+\\epsilon )$$ -approximation algorithms for which the output solution X is of size $$|X_0|+ O\\left( k \\log {\\frac{f(X_0)}{\\epsilon \\cdot \\mathtt {OPT}}}\\right) $$ . The adaptivities of this two algorithms are $$O \\left( \\log ^2n \\cdot \\log \\frac{f(X_0)}{\\epsilon \\cdot \\mathtt {OPT}}\\right) $$ and $$O\\left( \\log n \\cdot \\log \\frac{f(X_0)}{\\epsilon \\cdot \\mathtt {OPT}}\\right) $$ , where $$X_0$$ is an input set and $$\\mathtt {OPT}$$ is the optimal value. Applications to group sparse linear regression problems and fuzzy C-means problems are studied at the end.",
+    "citation_count": 21,
+    "year": "2022/12",
+    "authors": [
+        {
+            "name": "Zhang, Xiaojuan",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Liu, Qian",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Li, Min",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Zhou, Yang",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

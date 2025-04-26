@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-010-0266-2",
+    "title": "Enhanced Active Queue Management for Multi-hop Networks",
+    "abstract": "Wireless networks play a very important role in today’s modern world, convincingly surpassing the wired infrastructure in terms of popularity. Hence, it is important to ensure that services which access wired networks should also be accessible using a wireless network without any performance degradation. One of the most common variants in wireless communications is the Wireless Mesh Network (WMNs). WMNs exploit multi-hop wireless communications between wireless access points. Hence, the effective bandwidth decreases as the number of hops increases in a WMN, thus increasing latency and resulting in reduced performance. This may be due to spatial contention, multipath fading, interference or inefficient queuing mechanisms etc. Here we take queuing mechanisms into consideration and study the QMMN algorithm (Queue Management for Multi-hop Networks) which tends to improve throughput, fairness and reduce global synchronization problems. Based on our study, we implement a modified version of the QMMN algorithm, otherwise called the Enhanced QMMN (EQMMN) algorithm. EQMMN can be considered an effective algorithm which solves the problem of fairness between flows (either responsive or unresponsive) and eventually improves TCP throughput at wireless access points. Our experimental results prove that EQMMN algorithms have better performance characteristics such as throughput (TCP) and fairness index compared to QMMN algorithms.",
+    "citation_count": 8,
+    "year": "2011/12",
+    "authors": [
+        {
+            "name": "Chilamkurti, Naveen",
+            "country": "Australia"
+        },
+        {
+            "name": "Prakasam, Sriram Arul",
+            "country": "Australia"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

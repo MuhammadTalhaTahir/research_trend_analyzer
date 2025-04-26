@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762111000531",
+    "title": "Reliable and energy optimized WSN design for a train application",
+    "abstract": "In the near past, several applications have been envisioned for  WSNs  because of the need to collect, interpret and act on real-time data.  Data collecting  and processing using typical wired sensor network has always been expensive, especially in already-operational systems. For this reason, it is obviously advantageous to improve the functionality of these systems using WSNs. Trains are long life means of transport whose  electrical system  cannot be changed easily. In this paper, it is demonstrated that a  WSN  can be a suitable solution to add more services to the current operational trains. A reliable algorithm for these applications has been designed and simulated in a self-developed simulator, and then optimized in terms of energy consumption and  response time . The bounded delay guarantees on  packet delivery  allows that this algorithm can be used in limited response time situations as emergency cases.",
+    "citation_count": "9",
+    "year": "2011/11/01",
+    "authors": [
+        {
+            "name": "Concepción Torres",
+            "country": ""
+        },
+        {
+            "name": "Peter Glösekötter",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

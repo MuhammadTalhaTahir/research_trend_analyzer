@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-006-0044-8",
+    "title": "On poem recognition",
+    "abstract": "Literature is one of the most significant forms of human culture. It represents a high level of intellectual activity. Humans write, read, and enjoy poems in different cultures. The purpose of this work is to initiate research in the field of poem recognition, not to understand them by electronic devices, but to provide humans with modern tools to search for and work with lyrics. This study is concerned to illuminate the challenges of poem recognition from different perspectives. In this paper, various measures of poetry are introduced and their effectiveness are investigated in different case studies using fuzzy logic, bayesian approach, and decision trees.",
+    "citation_count": 33,
+    "year": "2006/11",
+    "authors": [
+        {
+            "name": "Tizhoosh, H. R.",
+            "country": "Canada"
+        },
+        {
+            "name": "Dara, R. A.",
+            "country": "Canada"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

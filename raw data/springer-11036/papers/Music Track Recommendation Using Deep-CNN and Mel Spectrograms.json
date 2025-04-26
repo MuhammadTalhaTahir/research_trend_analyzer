@@ -1,0 +1,19 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-023-02170-2",
+    "title": "Music Track Recommendation Using Deep-CNN and Mel Spectrograms",
+    "abstract": "Recommender systems using IoT and deep learning play a vital part in creating an engaging experience on online music streaming platforms. However, in the musical domain, it is quite challenging to build a recommender system as some of the tracks are short. Similarly, some are listened to several times or generally consumed in sessions with other tracks. The recommendation of the next track is highly context dependent. Traditional recommendation algorithms were not able to extract deep-level features from the audio signal and effectively mine user’s preferred music. Therefore, this paper aims to propose a deep learning-based model to build a music recommendation algorithm. The algorithm first preprocesses the original data, and then generates the Mel spectrogram feature set through fast Fourier transform and Mel filter processing. After applying logarithmic operation, these spectrograms are then fed to the convolutional neural network algorithm to categorize music tracks. The inference results are used to understand the user’s preferences and recommend their favorite music tracks. Experimental research and comparison on different data sets show that the algorithm has good performance in the recommendation effect.",
+    "citation_count": 19,
+    "year": "2023/12",
+    "authors": [
+        {
+            "name": "Yin, Tingrong",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Numerical well model for non-Darcy flow through isotropic porous media[*]This work was supported in part by the EPA under grant # R 825207-01-1, by the State of Texas under ARP/ATP grant # 010366-168 and by a gift grant from Mobil Oil Corp.",
+    "url": "https://link.springer.com/article/10.1023/A:1011543412675"
+  },
+  {
+    "title": "Conservative, shock-capturing transport methods with nonconservative velocity approximations",
+    "url": "https://link.springer.com/article/10.1023/A:1011539311766"
+  },
+  {
+    "title": "Numerical solution of nonlinear equations in chemical speciation calculations",
+    "url": "https://link.springer.com/article/10.1023/A:1011595429513"
+  },
+  {
+    "title": "The finite volume method for Richards equation",
+    "url": "https://link.springer.com/article/10.1023/A:1011547513583"
+  },
+  {
+    "title": "Nested gridding and streamline-based simulation for fast reservoir performance prediction",
+    "url": "https://link.springer.com/article/10.1023/A:1011535210857"
+  },
+  {
+    "title": "Seismic depth migration with pseudo-screen propagator",
+    "url": "https://link.springer.com/article/10.1023/A:1011587227696"
+  },
+  {
+    "title": "Improved energy estimates for interior penalty, constrained and discontinuous Galerkin methods for elliptic problems. Part I",
+    "url": "https://link.springer.com/article/10.1023/A:1011591328604"
+  }
+]

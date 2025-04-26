@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-016-9584-1",
+    "title": "Well placement optimization subject to realistic field development constraints",
+    "abstract": "This work considers the well placement problem in reservoir management and field development optimization. In particular, it emphasizes embedding realistic and practical constraints into a mathematical optimization formulation. Such constraints are a prerequisite for the wider use of mathematical optimization techniques in well placement problems, since constraints are a way to incorporate reservoir engineering knowledge into the problem formulation. There are important design limitations that are used by the field development team when treating the well placement problem, and these limitations need to be articulated and eventually formalized within the problem before conducting the search for optimal well placements. In addition, these design limitations may be explicit or implicit. In this work, various design limitations pertaining to well locations have been developed in close collaboration with a field operator on the Norwegian Continental Shelf. Moreover, this work focuses on developing constraint-handling capability to enforce these various considerations during optimization. In particular, the Particle Swarm Optimization (PSO) algorithm is applied to optimize for the well locations, and various practical well placement constraints are incorporated into the PSO algorithm using two different constraint-handling techniques: a decoder procedure and the penalty method. The decoder procedure maps the feasible search space onto a cube and has the advantage of not requiring parameter tuning. The penalty method converts the constrained optimization problem into an unconstrained one by introducing an additional term, which is called a penalty function, to the objective function. In contrast to the penalty method, only feasible solutions are evaluated in the decoder method. Through numerical simulations, a comparison between the penalty method and the decoder technique is performed for two cases. We show that the decoder technique can easily be implemented for the well placement problem, and furthermore, that it performs better than the penalty method in most of the cases.",
+    "citation_count": 58,
+    "year": "2016/12",
+    "authors": [
+        {
+            "name": "Jesmani, Mansoureh",
+            "country": "Norway"
+        },
+        {
+            "name": "Bellout, Mathias C.",
+            "country": "Norway"
+        },
+        {
+            "name": "Hanea, Remus",
+            "country": "Norway"
+        },
+        {
+            "name": "Foss, Bjarne",
+            "country": "Norway"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

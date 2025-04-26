@@ -1,0 +1,38 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885619301076",
+    "title": "Visual tracking based on robust appearance model",
+    "abstract": "This paper aims at solving the problem of target drifting or losing due to the dramatic changes in the appearance of the target caused by the presence of severe target occlusion, background clutter, and  illumination variations  in video sequence. Firstly, we obtain a discriminative appearance description of the target by calculating the global and local  Fisher vectors  of the target area, and subsequently we utilize a semi-supervised linear kernel classifier to calculate the confidence of each candidate for well distinguish the foreground target from the  background region . Meanwhile, as the change in the appearance of the object has caused serious pollution and interfered with the original information of the target area, we obtain the similarity between the sub-patches of the target template set and all the candidates, according to the pollution degree of patches of each candidate. Finally, we retrieve the best candidate according to the production of the weight, confidence and the similarity. The extensive experiment results show that our algorithm can effectively cope with the pollution of the target area and the  drastic change  of the target appearance caused by the severe occlusion and illumination changes in complex scenes. This also demonstrates that our algorithm has considerably accuracy and robustness in visual tracking.",
+    "citation_count": "4",
+    "year": "2019/09/01",
+    "authors": [
+        {
+            "name": "Bobin Zhang",
+            "country": ""
+        },
+        {
+            "name": "Xiuyan Shao",
+            "country": ""
+        },
+        {
+            "name": "Wei Chen",
+            "country": ""
+        },
+        {
+            "name": "Fangming Bi",
+            "country": ""
+        },
+        {
+            "name": "Weidong Fang",
+            "country": ""
+        },
+        {
+            "name": "Tongfeng Sun",
+            "country": ""
+        },
+        {
+            "name": "Chaogang Tang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762123001078",
+    "title": "Compositional verification of embedded real-time systems",
+    "abstract": "In an embedded real-time system (ERTS), real-time tasks (software) are typically executed on a multicore shared-memory platform (hardware). The number of cores is usually small, contrasted with a larger number of complex tasks that share data to collaborate. Since most ERTSs are safety-critical, it is crucial to rigorously verify their software against various real-time requirements under the actual hardware constraints (concurrent access to data, number of cores). Both the real-time systems and the formal methods communities provide elegant techniques to realize such verification, which nevertheless face major challenges. For instance, model checking (formal methods) suffers from the state-space explosion problem, whereas schedulability analysis (real-time systems) is pessimistic and restricted to simple task models and schedulability properties. In this paper, we propose a scalable and generic approach to formally verify ERTSs. The core contribution is enabling, through joining the forces of both communities, compositional verification to tame the state-space size. To that end, we formalize a realistic ERTS model where tasks are complex with an arbitrary number of jobs and job segments, then show that compositional verification of such model is possible, using a hybrid approach (from both communities), under the state-of-the-art partitioned fixed-priority (P-FP) with limited preemption scheduling algorithm. The approach consists of the following steps, given the above ERTS model and scheduling algorithm. First, we compute fine-grained data sharing overheads for each job segment that reads or writes some data from the shared memory. Second, we generalize an algorithm that, aware of the data sharing overheads, computes an affinity (task-core allocation) guaranteeing the schedulability of hard-real-time (HRT) tasks. Third, we devise a timed automata (TA) model of the ERTS, that takes into account the affinity, the data sharing overheads and the scheduling algorithm, on which we demonstrate that various properties can be verified compositionally, i.e., on a subset of cores instead of the whole ERTS, therefore reducing the state-space size. In particular, we enable the scalable computation of tight worst-case response times (WCRTs) and other tight bounds separating events on different cores, thus overcoming the pessimism of schedulability analysis techniques. We fully automate our approach and show its benefits on three real-world complex ERTSs, namely two autonomous robots and an automotive case study from the WATERS 2017 industrial challenge.",
+    "citation_count": "0",
+    "year": "2023/09/01",
+    "authors": [
+        {
+            "name": "Mohammed Foughali",
+            "country": ""
+        },
+        {
+            "name": "Pierre-Emmanuel Hladik",
+            "country": ""
+        },
+        {
+            "name": "Alexander Zuepke",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

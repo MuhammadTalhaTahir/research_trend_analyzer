@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-008-9178-5",
+    "title": "Adjacent vertex distinguishing edge-colorings of graphs with smaller maximum average degree",
+    "abstract": "An adjacent vertex distinguishing edge-coloring of a graph G is a proper edge coloring of G such that any pair of adjacent vertices are incident to distinct sets of colors. The minimum number of colors required for an adjacent vertex distinguishing edge-coloring of G is denoted by χ′ a (G). Let $\\mathop{\\mathrm{mad}}(G)$ and Δ denote the maximum average degree and the maximum degree of a graph G, respectively. In this paper, we prove the following results: (1)&nbsp;If $\\mathop{\\mathrm{mad}}(G)&lt;3$ and Δ≥3, then χ′ a (G)≤Δ+2. (2)&nbsp;If $\\mathop{\\mathrm{mad}}(G)&lt;\\frac{5}{2}$ and Δ≥4, or $\\mathop{\\mathrm{mad}}(G)&lt;\\frac{7}{3}$ and Δ=3, then χ′ a (G)≤Δ+1. (3)&nbsp;If $\\mathop{\\mathrm{mad}}(G)&lt;\\frac{5}{2}$ and Δ≥5, then χ′ a (G)=Δ+1 if and only if G contains adjacent vertices of maximum degree.",
+    "citation_count": 11,
+    "year": "2010/05",
+    "authors": [
+        {
+            "name": "Wang, Weifan",
+            "country": "China"
+        },
+        {
+            "name": "Wang, Yiqiao",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762118300675",
+    "title": "Effectiveness of HT-assisted sinkhole and blackhole denial of service attacks targeting mesh networks-on-chip",
+    "abstract": "There are ample opportunities at both design and manufacturing phases to meddle in a many-core chip system, especially its underlining communication fabric, known as the networks-on-chip (NoC), through the inclusion of malicious hardware Trojans (HT). In this paper, we focus on studying two specific HT-assisted Denial-of-Service (DoS) attacks, namely the sinkhole and blackhole attacks, that directly target the NoC of a many-core chip. As of the blackhole attacks, those  intermediate routers  with inserted HTs can stop forwarding data packets/flits towards the packets’ destination; instead, packets are either dropped from the network or diverted to some other malicious nodes.  Sinkhole attacks , which exhibit similar attack effects as blackhole attacks, can occur when the NoC supports adaptive routing. In this case, a malicious node actively solicits packets from its neighbor nodes by pretending to have sufficient free buffer slots. Effects and efficiencies of both sinkhole and blackhole DoS attacks are modeled and quantified in this paper, and a few factors that influence attack effects are found to be critical. Through fine-tuning of these parameters, both attacks are shown to cause more damages to the NoC, measured as over 30% increase in  packet loss  rate. Even with current detection and defense methods in place, the  packet loss rate  is still remarkably high, suggesting the need of new and more effective detection and defense methods against the enhanced blackhole and sinkhole attacks as described in the paper.",
+    "citation_count": "28",
+    "year": "2018/09/01",
+    "authors": [
+        {
+            "name": "Li Zhang",
+            "country": ""
+        },
+        {
+            "name": "Xiaohang Wang",
+            "country": ""
+        },
+        {
+            "name": "Yingtao Jiang",
+            "country": ""
+        },
+        {
+            "name": "Mei Yang",
+            "country": ""
+        },
+        {
+            "name": "Terrence Mak",
+            "country": ""
+        },
+        {
+            "name": "Amit Kumar Singh",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

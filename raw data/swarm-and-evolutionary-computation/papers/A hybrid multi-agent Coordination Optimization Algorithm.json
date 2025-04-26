@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S221065021830525X",
+    "title": "A hybrid multi-agent Coordination Optimization Algorithm",
+    "abstract": "Many-Objective optimization problems (MaOPs) are the optimization problems which contain more than three conflicting objectives. Extensive interests from both algorithms development and practical applications are attracted to study the MaOPs. The success of the  Particle Swarm Optimization  (PSO) algorithm and Evolutionary Algorithm (EA) as single-objective optimizers motivated researchers to extend the use of those techniques to solve the MaOPs: many-objective particle swarm optimization algorithms (MOPSOs) and many-objective evolutionary algorithms (MOEAs). In this paper, we extend a recently developed bio-inspired optimization algorithm, Multi-agent Coordination Optimization Algorithm (MCO) from a single-objective optimizer to a many-objective optimizer: Many-Objective Multi-agent Coordination Optimization Algorithm (MOMCO). The cooperative mechanism in the MCO accelerates the searching process. To tackle the MaOPs, an inverted generational  distance indicator  method is used to distinguish the non-dominated solutions in MOMCO to balance the diversity ability and convergence ability of the solutions during the searching process. Together with a hybrid combination with EA, the diversity and accuracy of the MOMCO will be improved. Moreover, the convergence issue is studied for the proposed MOMCO algorithm by using the Jury's test. Experimental results are provided to demonstrate the effectiveness of the proposed MOMCO by comprising with six state-of-the-art MOPSOs and MOEAs. By calculating the Wilcoxon's rank sum test, the proposed MOMCO algorithm demonstrated superior performance among all the seven algorithms.",
+    "citation_count": "6",
+    "year": "2019/12/01",
+    "authors": [
+        {
+            "name": "Haopeng Zhang",
+            "country": ""
+        },
+        {
+            "name": "Siheng Su",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

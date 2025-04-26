@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650216000201",
+    "title": "Application of hybrid heuristic optimization algorithms for solving optimal regional dispatch of energy and reserve considering the social welfare of the participating markets",
+    "abstract": "Market integration allows increasing the social welfare of a given society. In most markets, integration also raises the social welfare of the participating markets (partakers). However, electricity markets have complexities such as  transmission network  congestion and requirements of power reserve that could lead to a decrease in the social welfare of some partakers. The social welfare reduction of partakers, if it occurs, would surely be a hindrance to the development of regional markets, since participants are usually national systems. This paper shows a new model for the regional dispatch of energy and reserve, and proposes as constraints that the social welfare of partakers does not decrease with respect to that obtained from the isolated optimal operation. These social welfare constraints are characterized by their stochastic nature and their dependence on the energy price of different operating states. The problem is solved by the combination of two optimization models (hybrid optimization): A linear model embedded within a meta-heuristic algorithm, which is known as the swarm version of the Means Variance Mapping Optimization (MVMO S ). MVMO S  allows incorporating the stochastic nature of social welfare constraints through a dynamic penalty scheme, which considers the fulfillment degree along with the dynamics of the search process.",
+    "citation_count": "4",
+    "year": "2016/06/01",
+    "authors": [
+        {
+            "name": "Marlon S. Chamba",
+            "country": ""
+        },
+        {
+            "name": "Osvaldo Añó",
+            "country": ""
+        },
+        {
+            "name": "Rodolfo Reta",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

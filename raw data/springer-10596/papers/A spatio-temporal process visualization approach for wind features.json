@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-021-10080-z",
+    "title": "A spatio-temporal process visualization approach for wind features",
+    "abstract": "As a serious meteorological natural disaster, windstorm has caused great harm to people’s lives and property. The tracking and trending of the wind storm, as well as the spatio-temporal process changes of its key features, such as wind eye, eye-wall, and wind circle, have long been the researchers’ focuses. The use of visualization tools to help meteorologists analyze and understand the spatio-temporal features and their process of storms quickly and intuitively is of far-reaching significance to the prediction of storm activities and the engagement in other work. Yet, it is difficult to have a quick understanding of the wind features by means of current visualization methods. Generally, wind field data at a certain time in a specific area are visualized directly, but have difficulties in discovering and understanding the wind features. Besides, the changes in the wind field are mostly presented at a discrete time, which can not show continuous changes or the whole life cycle of wind features. To provide a solution to these problems, this study proposes a spatio-temporal visualization method of wind features from wind field data, which converts unified process-oriented representation to visualization with the help of visual coding. Then, a process-oriented spatio-temporal visualization method is provided to express the spatio-temporal continuous change process. Based on the data from Typhoon Jelawat, an experiment is designed to analyze the expression of spatio-temporal process of wind features, such as wind eye, wind circle, and so on. By evaluating the user feedbacks for the proposed method, it can be known that compared to other wind visualization tools, this method boasts unique advantages in recognizing wind features and describing their spatio-temporal process evolution over a period of time continuously.",
+    "citation_count": 35,
+    "year": "2021/12",
+    "authors": [
+        {
+            "name": "Zheng, Kun",
+            "country": "China"
+        },
+        {
+            "name": "Ci, Yuyao",
+            "country": "China"
+        },
+        {
+            "name": "Liu, Hongyu",
+            "country": "China"
+        },
+        {
+            "name": "Zhang, Jinbiao",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

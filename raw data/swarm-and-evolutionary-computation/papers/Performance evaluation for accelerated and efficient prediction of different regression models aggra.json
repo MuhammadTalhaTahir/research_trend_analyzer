@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S221065022500077X",
+    "title": "Performance evaluation for accelerated and efficient prediction of different regression models aggravated with BPSO for enhancing area efficiency through state encoding in sequential circuits",
+    "abstract": "Minimizing circuit size and cost is a critical challenge in digital design, particularly in Finite State Machine (FSM) synthesis, which is essential for sequential systems. FSMs, implemented as Mealy or Moore machines, play a vital role in embedded systems and communication protocols. However, optimizing FSMs is inherently complex due to the NP-hard State Assignment Problem (SAP), which impacts circuit area, performance, and power efficiency. Traditional methods like KISS and NOVA often struggle with scalability and efficiency, highlighting the need for advanced solutions. To address this, we propose a Binary Particle Swarm Optimization (BPSO) approach integrated with regression-based predictive models, including Linear Regression (LR), K-Nearest Neighbor Regression (KNN), and Support Vector Regression (SVR). By leveraging a dataset of particle populations and their fitness evaluations, the predictive framework replaces computationally intensive cost simulators like ESPRESSO/SIS, significantly reducing runtime while maintaining high accuracy. Experimental results demonstrate that the BPSO-based approach achieves significant area cost reductions, with a 4.9% improvement in two-level optimization and 5.62% in multi-level optimization. The predictive model significantly improves computational efficiency, reducing total run-time by  1 . 2 ×  to  1 . 89 × , with the highest speedup observed in  planet  ( 1 . 89 × ) and the lowest in  dk14  ( 0 . 85 × ). The model’s accuracy is validated by evaluating key performance metrics for different regression techniques. Support Vector Regression (SVR) achieves the highest prediction accuracy with an  R 2  score of 0.987, outperforming KNN (0.986) and LR (0.973). SVR also exhibits the lowest Mean Absolute Percentage Error (MAPE) of 0.0627, followed by LR (0.081) and KNN (0.091). In terms of Mean Squared Error (MSE), KNN performs best with  3 . 85 × 1 0 − 6 , followed by SVR ( 3 . 92 × 1 0 − 6 ) and LR ( 3 . 96 × 1 0 − 6 ). Additionally, SVR demonstrates the lowest Mean Bias Deviation (MBD) of  3 . 62 × 1 0 − 6 , signifying minimal systematic error, while KNN and LR yield  3 . 34 × 1 0 − 5  and  2 . 4 × 1 0 − 5 , respectively. Training times for the predictive model are significantly reduced, ranging from 0.2 to 2.4 min, with total execution times between 2.6 and 19.03 min, depending on the benchmark complexity. By integrating the predictive model, Support Vector Regression (SVR) consistently demonstrates the highest prediction accuracy, reaching up to 98.7%, making it particularly suitable for precision-critical applications. Additionally, SVR achieves an impressive R 2  value of approximately 98.5%, while significantly reducing computational runtime. Graphical analyses reveal a strong correlation between predicted and actual values, validating the proposed model’s effectiveness. By integrating machine learning with heuristic optimization, the approach ensures a scalable and efficient solution for FSM area minimization, balancing accuracy with runtime efficiency. These findings highlight the potential of combining machine learning with metaheuristic algorithms to enhance FSM synthesis, improving performance while reducing computational costs.",
+    "citation_count": "0",
+    "year": "2025/06/01",
+    "authors": [
+        {
+            "name": "Kaushik Khatua",
+            "country": ""
+        },
+        {
+            "name": "Santanu Chattopadhyay",
+            "country": ""
+        },
+        {
+            "name": "Anindya Sundar Dhar",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

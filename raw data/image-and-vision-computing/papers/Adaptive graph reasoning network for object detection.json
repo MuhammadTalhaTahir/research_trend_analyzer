@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624003536",
+    "title": "Adaptive graph reasoning network for object detection",
+    "abstract": "In recent years, Transformer-based object detection has achieved leaps and bounds in performance. Nevertheless, these methods still face some problems such as difficulty in detecting heavy occluded objects and tiny objects. Besides, the mainstream object detection paradigms usually deal with region proposals alone, without considering contextual information and the relationships between objects, which results in limited improvement. In this paper, we propose an Adaptive Graph Reasoning Network (AGRN) that explores the relationships between specific objects in an image and mines high-level semantic information via GCN to enrich visual features. Firstly, to enhance the semantic correlation between objects, a cross-scale semantic-aware module is proposed to realize the semantic interaction between feature maps of different scales so as to obtain a cross-scale semantic feature. Secondly, we activate the instance features in the image and combine the cross-scale semantic feature to create a dynamic graph. Finally, guided by the specific semantics, the attention mechanism is introduced to focus on the corresponding critical regions. On the MS-COCO 2017 dataset, our method improves the performance by 3.9% box AP and 3.6% mask AP in object detection and instance segmentation respectively relative to baseline. Additionally, our model has demonstrated exceptional performance on the PASCAL VOC dataset.",
+    "citation_count": "1",
+    "year": "2024/11/01",
+    "authors": [
+        {
+            "name": "Xinfang Zhong",
+            "country": ""
+        },
+        {
+            "name": "Wenlan Kuang",
+            "country": ""
+        },
+        {
+            "name": "Zhixin Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

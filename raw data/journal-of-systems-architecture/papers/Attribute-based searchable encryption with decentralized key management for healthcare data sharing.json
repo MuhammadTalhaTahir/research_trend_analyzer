@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124000183",
+    "title": "Attribute-based searchable encryption with decentralized key management for healthcare data sharing",
+    "abstract": "In this paper, we address the secure sharing of sensitive  healthcare data  in blockchain-based healthcare. As a form of  sensitive information , healthcare data is often encrypted before being uploaded to cloud servers. Extensive research has been conducted on Attribute-Based Searchable Encryption (ABSE) to achieve fine-grained searchability of encrypted sensitive healthcare data. However, the existing  ABSE schemes  rely on a single authoritative center for managing the master key, resulting in a  single point of failure . Additionally, there has been limited research focusing on the privacy concerns of user identity during the key generation process. To tackle these challenges, we propose a novel decentralized ciphertext-policy attribute-based encryption (DCP-ABSE) scheme. In this scheme, the master key is jointly managed by all attribute nodes on the  blockchain . This ensures the smooth operation of the system even if some nodes are compromised. In addition, the user’s private key fragments are generated through interactions with all attribute nodes, in this process, the user’s  identity information  is not disclosed to attribute nodes. In addition, we prove that the proposed scheme is secure against chosen keyword attacks and chosen  plaintext attacks  under the Decisional Bilinear Diffie–Hellman assumption. The performance evaluation shows that the proposed scheme has high efficiency.",
+    "citation_count": "0",
+    "year": "2024/03/01",
+    "authors": [
+        {
+            "name": "Hongjian Yin",
+            "country": ""
+        },
+        {
+            "name": "Yiming Zhao",
+            "country": ""
+        },
+        {
+            "name": "Lei Zhang",
+            "country": ""
+        },
+        {
+            "name": "Baojun Qiao",
+            "country": ""
+        },
+        {
+            "name": "Wenbo Chen",
+            "country": ""
+        },
+        {
+            "name": "Huaqing Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

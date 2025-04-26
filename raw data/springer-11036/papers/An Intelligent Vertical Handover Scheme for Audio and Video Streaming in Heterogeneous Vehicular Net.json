@@ -1,0 +1,35 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-013-0465-8",
+    "title": "An Intelligent Vertical Handover Scheme for Audio and Video Streaming in Heterogeneous Vehicular Networks",
+    "abstract": "In heterogeneous vehicular networks, the most challenging issue is obtaining an efficient vertical handover during the vehicle roaming process. Efficient network selection process can achieve satisfactory Quality-of-Service for ongoing applications. In this paper, we propose an Intelligent Network Selection (INS) scheme based on maximization scoring function to efficiently rank available wireless network candidates. Three input parameters were utilized to develop a maximization scoring function that collected data from each network candidate during the selection process. These parameters are: Faded Signal-to-Noise Ratio, Residual Channel Capacity, and Connection Life Time. The results show that the proposed INS scheme is more efficient at decreasing handover delays, End-to-End delays for VoIP and Video applications, packet loss ratios as well as increasing the efficiency of network selection processes in comparison with the state of the arts.",
+    "citation_count": 31,
+    "year": "2013/12",
+    "authors": [
+        {
+            "name": "Sadiq, Ali Safa",
+            "country": "Malaysia"
+        },
+        {
+            "name": "Bakar, Kamalrulnizam Abu",
+            "country": "Malaysia"
+        },
+        {
+            "name": "Ghafoor, Kayhan Zrar",
+            "country": "Iraq"
+        },
+        {
+            "name": "Lloret, Jaime",
+            "country": "Spain"
+        },
+        {
+            "name": "Khokhar, Rashid",
+            "country": "Australia"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

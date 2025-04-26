@@ -1,0 +1,14 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762124001139",
+    "title": "An improved lightweight and privacy preserving authentication scheme for smart grid communication",
+    "abstract": "Smart grid is an efficient and reliable technical framework for controlling computers and automation equipment, and how to ensure the communication security in smart grid is an important issue. Cryptographic  authentication scheme  is a  feasible solution , and the existing authentication schemes for smart grid seek to ensure better performance. Some existing authentication schemes lack comprehensive security considerations and have security or privacy vulnerabilities, which makes them vulnerable to specific attacks. The paper reviews a recent scheme ISG-SLAS (Yu and Park, 2022) and analyzes its potential insecure aspects in detail, including unable to resist ESL attack, cannot provide un-traceability and etc. To this end, the paper designs an improved authentication scheme for smart grid based on  symmetric cryptography . Through informal security analyses and formal security analyses with real-or-random (ROR) model and Scyther platform, the security of the proposed scheme is demonstrated. From the perspective of performance, the proposed scheme is compared with ten advanced authentication schemes for smart grid, and the results show that the proposed scheme excels other recent schemes in computational overhead,  communication overhead  and  storage overhead , reduced by 10.1%, 30.8% and 36.1% of ISG-SLAS and 58.9%, 64.1% and 24.3% of the average value of all alternatives respectively.",
+    "citation_count": "0",
+    "year": "2024/07/01",
+    "authors": [
+        {
+            "name": "Yi Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

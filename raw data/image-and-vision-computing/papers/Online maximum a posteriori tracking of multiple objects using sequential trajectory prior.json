@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885619304603",
+    "title": "Online maximum a posteriori tracking of multiple objects using sequential trajectory prior",
+    "abstract": "In this paper, we address the problem of online multi-object tracking based on the  Maximum a Posteriori  (MAP) framework. Given the observations up to the current frame, we estimate the optimal object trajectories via two MAP estimation stages: object detection and  data association . By introducing the sequential trajectory prior,  i.e. , the prior information from previous frames about “good” trajectories, into the two MAP stages, the inference of optimal detections is refined and the association correctness between trajectories and detections is enhanced. Furthermore, the sequential trajectory prior allows the two MAP stages to interact with each other in a sequential manner, which jointly optimizes the detections and trajectories to facilitate online multi-object tracking. Compared with existing methods, our approach is able to alleviate the association ambiguity caused by noisy detections and frequent inter-object interactions without using sophisticated association likelihood models. The experiments on publicly available challenging datasets demonstrate that our approach provides superior tracking performance over state-of-the-art algorithms in various complex scenes.",
+    "citation_count": "6",
+    "year": "2020/02/01",
+    "authors": [
+        {
+            "name": "Min Yang",
+            "country": ""
+        },
+        {
+            "name": "Mingtao Pei",
+            "country": ""
+        },
+        {
+            "name": "Yunde Jia",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

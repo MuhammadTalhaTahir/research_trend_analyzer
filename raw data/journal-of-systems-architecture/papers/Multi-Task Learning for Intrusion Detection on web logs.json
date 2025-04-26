@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762117302990",
+    "title": "Multi-Task Learning for Intrusion Detection on web logs",
+    "abstract": "In this paper, we aim to detect  malicious network activities  based on the analysis of web logs. Despite recent advances, classifying all  malicious activities  into specific types as well as identifying novel attacks are still serious issues. Various kinds of attacks have different representations. In traditional approaches, detecting each kind of attack is usually considered as an independent task. However, it is observed that different types share some common features in URL, which can be formulated as a multi-task problem. Inspired by this observation, we propose a novel Multi-Task Learning  Intrusion Detection  (MTLID) approach to share these common features across all types, which improves the performance of classification. Moreover, in order to detect the  false negatives  introduced by multi-task classification, we adopt  Gaussian Mixture Model  (GMM) to build the profile of normal activities, and thereby novel attacks could be further identified. We obtain a real-world dataset of web logs from different websites to demonstrate the effectiveness of MTLID. Experiment results illustrate that our proposed approach outperforms existing methods in both detection rate and  false alarm rate .",
+    "citation_count": "14",
+    "year": "2017/11/01",
+    "authors": [
+        {
+            "name": "Bo Li",
+            "country": ""
+        },
+        {
+            "name": "Ying Lin",
+            "country": ""
+        },
+        {
+            "name": "Simin Zhang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621000949",
+    "title": "Composite recurrent network with internal denoising for facial alignment in still and video images in the wild",
+    "abstract": "Facial alignment is an essential task for many higher level facial analysis applications, such as animation, human activity recognition and human - computer interaction. Although the recent availability of big datasets and powerful deep-learning approaches have enabled major improvements on the state of the art accuracy, the performance of current approaches can severely deteriorate when dealing with images in highly unconstrained conditions, which limits the real-life applicability of such models. In this paper, we propose a composite recurrent tracker with internal denoising that jointly address both single image facial alignment and deformable facial tracking in the wild. Specifically, we incorporate multilayer LSTMs to model temporal dependencies with variable length and introduce an internal denoiser which selectively enhances the input images to improve the robustness of our overall model. We achieve this by combining 4 different sub-networks that specialize in each of the key tasks that are required, namely face detection, bounding-box tracking, facial region validation and facial alignment with internal denoising. These blocks are endowed with novel algorithms resulting in a facial tracker that is both accurate, robust to in-the-wild settings and resilient against drifting. We demonstrate this by testing our model on 300-W and Menpo datasets for single image facial alignment, and 300-VW dataset for deformable facial tracking. Comparison against 20 other state of the art methods demonstrates the excellent performance of the proposed approach.",
+    "citation_count": "0",
+    "year": "2021/07/01",
+    "authors": [
+        {
+            "name": "Decky Aspandi",
+            "country": ""
+        },
+        {
+            "name": "Oriol Martinez",
+            "country": ""
+        },
+        {
+            "name": "Federico Sukno",
+            "country": ""
+        },
+        {
+            "name": "Xavier Binefa",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

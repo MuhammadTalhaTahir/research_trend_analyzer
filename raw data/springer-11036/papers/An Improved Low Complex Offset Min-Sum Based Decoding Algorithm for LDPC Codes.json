@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-019-01392-7",
+    "title": "An Improved Low Complex Offset Min-Sum Based Decoding Algorithm for LDPC Codes",
+    "abstract": "In recent times, many advanced wireless communication systems have adopted channel coding schemes to ease secure transmission and reception of wireless data over noisy perturbed channel conditions. Channel coding approaches using low-density parity-check (LDPC) codes are most interesting and fastest growing research areas in the domain of wireless communications. Due to its widespread popularity, adaptability and parallelism for cost-effective hardware implementations, LDPC codes are widely endorsed in a number of wireless communication standards. Over the years, many low complex decoding algorithms using LDPC codes were introduced to improve the data reliability of many wireless applications. This work introduces an efficient and robust offset min-sum decoding scheme for optimal decoding of LDPC codes. This improved approach introduces a new offset correction factor to suppress the error propagation during the approximation of high precision soft values within the given range boundary of signal strength-to-background noise ratio (SNR). The experimental results illustrate the competitive advantage of the proposed algorithm over several popular algorithms in terms of error rate performance, complexity reductions and convergence speed.",
+    "citation_count": 30,
+    "year": "2019/12",
+    "authors": [
+        {
+            "name": "Roberts, Michaelraj Kingston",
+            "country": "India"
+        },
+        {
+            "name": "Mohanram, S. Sudha",
+            "country": "India"
+        },
+        {
+            "name": "Shanmugasundaram, N.",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

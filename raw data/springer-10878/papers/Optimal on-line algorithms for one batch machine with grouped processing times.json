@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-010-9298-6",
+    "title": "Optimal on-line algorithms for one batch machine with grouped processing times",
+    "abstract": "In this paper, we study on-line scheduling problems on a batch machine with the assumption that all jobs have their processing times in [p, (1+φ)p], where p&gt;0 and $\\phi=(\\sqrt{5}-1)/2$ . Jobs arrive over time. First, we deal with the on-line problem on a bounded batch machine with the objective to minimize makespan. A&nbsp;class of algorithms with competitive ratio $(\\sqrt{5}+1)/2$ are given. Then we consider the scheduling on an unbounded batch machine to minimize the time by which all jobs have been delivered, and provide a class of on-line algorithms with competitive ratio $(\\sqrt{5}+1)/2$ . The two class of algorithms are optimal for the problems studied here.",
+    "citation_count": 10,
+    "year": "2011/11",
+    "authors": [
+        {
+            "name": "Fang, Yang",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Liu, Peihai",
+            "country": "People’s Republic of China"
+        },
+        {
+            "name": "Lu, Xiwen",
+            "country": "People’s Republic of China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

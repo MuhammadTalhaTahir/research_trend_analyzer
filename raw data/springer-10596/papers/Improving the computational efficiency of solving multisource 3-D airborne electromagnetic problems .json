@@ -1,0 +1,40 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-021-10095-6",
+    "title": "Improving the computational efficiency of solving multisource 3-D airborne electromagnetic problems in complex geological media",
+    "abstract": "We consider aspects that can significantly increase the computational efficiency of solving multisource 3-D problems of airborne electromagnetic prospecting in complex geological media. An approach to fully automatic construction of non-conforming hexahedral finite element (FE) meshes for calculating electromagnetic fields is proposed. To increase the computational efficiency, a grouping of the airborne electromagnetic (AEM) system positions is used. We present the results of computational experiments for a realistic complex geoelectric model with topography, curved layers, 3-D objects of complex shape, and a fragment of a real observation system containing several thousand positions of the AEM system. Using the results of computational experiments, we have drawn conclusions about the optimal size of groups of AEM system positions using sequential and parallel environments on both one PC and six PCs connected by a local network. We also compare the computational cost of the proposed approach with those presented by other authors who use different principles for constructing meshes, as well as other discretizations in space and time. Computational experiments have shown that the proposed approach makes it possible to model electromagnetic fields in much more complex media and, at the same time, regarding the computational efficiency, our approach is superior to the approaches presented by other authors for solving the multisource airborne electromagnetic survey problems.",
+    "citation_count": 43,
+    "year": "2021/12",
+    "authors": [
+        {
+            "name": "Persova, Marina G.",
+            "country": "Russia"
+        },
+        {
+            "name": "Soloveichik, Yuri G.",
+            "country": "Russia"
+        },
+        {
+            "name": "Vagin, Denis V.",
+            "country": "Russia"
+        },
+        {
+            "name": "Kiselev, Dmitry S.",
+            "country": "Russia"
+        },
+        {
+            "name": "Sivenkova, Anastasia P.",
+            "country": "Russia"
+        },
+        {
+            "name": "Grif, Alexander M.",
+            "country": "Russia"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

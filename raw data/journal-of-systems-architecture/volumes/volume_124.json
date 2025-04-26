@@ -1,0 +1,94 @@
+[
+    {
+        "title": "Editorial Board",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122000431"
+    },
+    {
+        "title": "Pairing-free certificateless authenticated encryption with keyword search",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002678"
+    },
+    {
+        "title": "Key lengths revisited: GPU-based brute force cryptanalysis of DES, 3DES, and PRESENT",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122000066"
+    },
+    {
+        "title": "Low-latency service function chain migration in edge-core networks based on open Jackson networks",
+        "url": "https://www.sciencedirect.com/science/article/pii/S138376212200008X"
+    },
+    {
+        "title": "Structured precision skipping: Accelerating convolutional neural networks with budget-aware dynamic precision selection",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122000078"
+    },
+    {
+        "title": "Adaptive weight-bit inversion for state error reduction for robust and efficient deep neural network inference using MLC NAND Flash",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122000054"
+    },
+    {
+        "title": "Schedulability analysis and stack size minimization for adaptive mixed criticality scheduling with semi-Clairvoyance and preemption thresholds",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002630"
+    },
+    {
+        "title": "Optimized partitioning and priority assignment of real-time applications on heterogeneous platforms with hardware acceleration",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122000182"
+    },
+    {
+        "title": "Improved analysis and optimal priority assignment for communicating threads on uni-processor",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002605"
+    },
+    {
+        "title": "Blockchain-assisted searchable attribute-based encryption for e-health systems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122000194"
+    },
+    {
+        "title": "CBFF: A cloud–blockchain fusion framework ensuring data accountability for multi-cloud environments",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122000339"
+    },
+    {
+        "title": "A survey on Attribute-Based Signatures",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122000030"
+    },
+    {
+        "title": "Guest editorial: Special issue on the 2020 IEEE symposium on real-time distributed computing (ISORC)",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122000340"
+    },
+    {
+        "title": "Efficient and accurate identification of missing tags for large-scale dynamic RFID systems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122000029"
+    },
+    {
+        "title": "Graph reductions and partitioning heuristics for multicore DAG scheduling",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002502"
+    },
+    {
+        "title": "Fine-grained parallelism framework with predictable work-stealing for real-time multiprocessor systems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122000017"
+    },
+    {
+        "title": "Optimizing deep neural networks on intelligent edge accelerators via flexible-rate filter pruning",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122000303"
+    },
+    {
+        "title": "Lightweight asynchronous scheduling in heterogeneous reconfigurable systems",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122000042"
+    },
+    {
+        "title": "Computing exact WCRT for typed DAG tasks on heterogeneous multi-core processors",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762121002642"
+    },
+    {
+        "title": "A federated deep learning framework for privacy preservation and communication efficiency",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122000157"
+    },
+    {
+        "title": "Hybrid differential privacy based federated learning for Internet of Things",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122000200"
+    },
+    {
+        "title": "Special issue on Reliable Software Technologies (AEiC2021)",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122000364"
+    },
+    {
+        "title": "Hardware-aware liquid state machine generation for 2D/3D Network-on-Chip platforms",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1383762122000297"
+    }
+]

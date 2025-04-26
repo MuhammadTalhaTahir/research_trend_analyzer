@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650217309252",
+    "title": "Adaptive Epsilon dominance in decomposition-based multiobjective evolutionary algorithm",
+    "abstract": "Complicated  geometric shapes  of  Pareto fronts  can cause difficulties for multiobjective  evolutionary algorithms . To deal with these difficulties, efficient diversity strategies must be highly addressed in order to obtain a set of representative  Pareto solutions . In decomposition-based multiobjective  evolutionary algorithms , this is often done by optimizing multiple single objective  subproblems  defined by a set of  weight vectors . For complicated Pareto fronts with extreme convexity, disconnection or degeneracy, however, it is nontrivial to set these weight vector properly. To overcome this shortcoming, we propose a new decomposition-based multiobjective evolutionary algorithm based on a hybrid weighting strategy, which optimizes both random  subproblems  and fixed subproblems. To maintain diversity of  nondominated solutions  stored in external population, a new archiving strategy based on adaptive Epsilon dominance is also suggested in our proposed algorithm. Our experimental results have showed that our proposed algorithm is superior to several other state-of-the-art multiobjective  evolutionary algorithms  on a set of benchmark multiobjective test problems with different challenging difficulties regarding the geometric shapes of Pareto fronts.",
+    "citation_count": "35",
+    "year": "2019/03/01",
+    "authors": [
+        {
+            "name": "Hui Li",
+            "country": ""
+        },
+        {
+            "name": "Jingda Deng",
+            "country": ""
+        },
+        {
+            "name": "Qingfu Zhang",
+            "country": ""
+        },
+        {
+            "name": "Jianyong Sun",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

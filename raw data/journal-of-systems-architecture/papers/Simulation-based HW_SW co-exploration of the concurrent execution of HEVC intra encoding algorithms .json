@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762116302776",
+    "title": "Simulation-based HW/SW co-exploration of the concurrent execution of HEVC intra encoding algorithms for heterogeneous multi-core architectures",
+    "abstract": "The high efficiency video coding (HEVC) standard shows enhanced video compression efficiency at the cost of high performance requirements. To address these requirements different approaches, like algorithmic optimization, parallelization and hardware acceleration can be used leading to a complex design space. In order to find an efficient solution, early design verification and performance evaluation is crucial. Hereby the prevailing methodology is the simulation of the complex HW/SW architecture. Targeting heterogeneous designs, different simulation models have different performance evaluation capabilities making a combined HW/SW co-analysis of the entire system a cumbersome task. To facilitate this co-analysis, we propose a non-intrusive instrumentation methodology for simulation models, which automatically adapts to the model under observation. With the help of this instrumentation methodology we perform the analysis and exploration of different design aspects of a SystemC-based heterogeneous multi-core model of an HEVC intra encoder. In the course of this HW/SW co-analysis various aspects of the parallelization and hardware acceleration of the video coding algorithms are presented and further improved. Due to its cycle accurate nature the developed model is well suited to facilitate various performance evaluations and to drive HW/SW co-optimizations of the explored system, as discussed in this paper.",
+    "citation_count": "0",
+    "year": "2017/06/01",
+    "authors": [
+        {
+            "name": "Jens Brandenburg",
+            "country": ""
+        },
+        {
+            "name": "Benno Stabernack",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

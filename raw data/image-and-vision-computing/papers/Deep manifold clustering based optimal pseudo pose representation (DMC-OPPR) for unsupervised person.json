@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885620300883",
+    "title": "Deep manifold clustering based optimal pseudo pose representation (DMC-OPPR) for unsupervised person re-identification",
+    "abstract": "Person re-identification (re-ID) is highly complex in a diverse surveillance environment. The existing person re-ID methods are evaluated as a closed set problem with limited environmental variation. It is highly challenging to estimate the diverse poses of a dynamically crowded environment using the traditional unsupervised person re-ID methods. To resolve this issue of handling complex diverse poses and camera angles, a contextual incremental multi-clustering based unsupervised person re-ID method have been proposed. Cam-pose based optimal similarity distance threshold is determined to label the unlabeled person re-ID images efficiently. Frequent intra and inter-camera pseudo pose sequences are represented with optimal distance threshold. This resolves the over-fitting issue created by the dominant samples of an identity and reduces the source-target domain gap. The experimental results show the supremacy of our proposed method over the existing unsupervised person re-ID methods in handling complex poses and camera angles in an incremental self-learning diverse surveillance environment.",
+    "citation_count": "5",
+    "year": "2020/09/01",
+    "authors": [
+        {
+            "name": "S. Sridhar Raj",
+            "country": ""
+        },
+        {
+            "name": "Munaga V.N.K. Prasad",
+            "country": ""
+        },
+        {
+            "name": "Ramadoss Balakrishnan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

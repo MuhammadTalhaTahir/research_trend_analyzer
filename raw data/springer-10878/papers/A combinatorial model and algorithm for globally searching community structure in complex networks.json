@@ -1,0 +1,33 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-010-9356-0",
+    "title": "A combinatorial model and algorithm for globally searching community structure in complex networks",
+    "abstract": "Community structure is one of the important characteristics of complex networks. In the recent decade, many models and algorithms have been designed to identify communities in a given network, among which there is a class of methods that globally search the best community structure by optimizing some modularity criteria. However, it has been recently revealed that these methods may either fail to find known qualified communities (a phenomenon called resolution limit) or even yield false communities (the misidentification phenomenon) in some networks. In this paper, we propose a new model which is immune to the above phenomena. The model is constructed by restating community identification as a combinatorial optimization problem. It aims to partition a network into as many qualified communities as possible. This model is formulated as a linear integer programming problem and its NP-completeness is proved. A qualified min-cut based bisecting algorithm is designed to solve this model. Numerical experiments on both artificial networks and real-life complex networks show that the combinatorial model/algorithm has promising performance and can overcome the limitations in existing algorithms.",
+    "citation_count": 33,
+    "year": "2012/05",
+    "authors": [
+        {
+            "name": "Zhang, Xiang-Sun",
+            "country": "China"
+        },
+        {
+            "name": "Li, Zhenping",
+            "country": "China"
+        },
+        {
+            "name": "Wang, Rui-Sheng",
+            "country": "USA"
+        },
+        {
+            "name": "Wang, Yong",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

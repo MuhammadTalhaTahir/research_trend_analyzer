@@ -1,0 +1,27 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-008-0125-6",
+    "title": "A Multi-Scale Statistical Control Process for Mobility and Interference Identification in IEEE 802.11",
+    "abstract": "The user centric nature of mobile devices is an important issue for enhancing the user experience in a mobile wireless communication. A strategy for improving such experience consists of applying a resource management focused in providing both the user and the application valuable information about the network context. The communication quality in wireless systems heavily depends on several factors, and adjusting the application and/or alerting the user about the network conditions is an important service when managing this type of devices. The quality perceived by the user depends on the network context, which can be defined as the events that have significant impact on the wireless communication. The identification of the wireless channel behavior is necessary for obtaining a context description. Due to intrinsic features at the wireless signal propagation it is difficult to measure and assess the fundamental wireless network context, e.g., predicting when low quality signal is being caused by interference or fading effects. This work presents a new method for user centric management on IEEE 802.11b/g: a strategy for communication survival, focused in improving the user experience. Our proposal uses a multi-scale control chart approach, MCEWMA – Moving Centerline Exponential Weighted Moving Average, associated with multi-resolution analysis using a wavelet transform.",
+    "citation_count": 24,
+    "year": "2009/12",
+    "authors": [
+        {
+            "name": "Oliveira, Ricardo Rabelo",
+            "country": "Brazil"
+        },
+        {
+            "name": "Loureiro, Antônio Alfredo",
+            "country": "Brazil"
+        },
+        {
+            "name": "Frery, Alejandro C.",
+            "country": "Brazil"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

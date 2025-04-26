@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-014-0541-8",
+    "title": "Analysis of an Autonomous Vehicular WiMAX – WiFi Network for in-Tunnel Surveillance System Applications over Public Transportation",
+    "abstract": "This paper presents a scalable prototype surveillance/alarm system for public transportation safety applications over railway environments with emphasis given in the wireless vehicular communication inside a tunnel after an emergency event. An heterogeneous hybrid vehicular wireless network consisted of IEEE 802.11b/g/e and IEEE 802.16e is being deployed inside a tunnel environment for surveillance reasons. We provide a highly modular architecture system design covering a wide range of applications both in terms of monitored spaces (metro stations, trains, buses and other public transport) and in terms of threats to public safety (security incidents, accidental events, natural hazards) based on autonomous, smart monitoring devices that capture data only upon the occurrence of an incident, potentially dangerous for the passengers (like an explosion blast or the triggering of the fire detector). Moreover, we evaluate the experimental performance of the proposed vehicular hybrid WiMAX/WLAN wireless network after an emergency situation, for this reason we emulate the train coaches movement with vehicles inside a tunnel field. Finally, we also survey on the impact of Adaptive Modulation and Coding (AMC) over the hybrid wireless network comparing the experimental results.",
+    "citation_count": 23,
+    "year": "2014/12",
+    "authors": [
+        {
+            "name": "Charitos, Michael",
+            "country": "Greece"
+        },
+        {
+            "name": "Kalivas, Grigorios",
+            "country": "Greece"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

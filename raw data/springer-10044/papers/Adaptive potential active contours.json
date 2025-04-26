@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-011-0200-7",
+    "title": "Adaptive potential active contours",
+    "abstract": "In this paper potential active contours are presented as a new method of image segmentation. The concept of potential contour is a result of the relationship between active contour techniques and the methods of classifiers’ construction. The proposed method can be extended by the adaptation mechanism that allows changing the available class of the shapes dynamically. An original contribution is also the method of evaluation of segmentation results and methodology used for the parameters selection. The described method is illustrated by two examples.",
+    "citation_count": 52,
+    "year": "2011/11",
+    "authors": [
+        {
+            "name": "Tomczyk, Arkadiusz",
+            "country": "Poland"
+        },
+        {
+            "name": "Szczepaniak, Piotr S.",
+            "country": "Poland"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

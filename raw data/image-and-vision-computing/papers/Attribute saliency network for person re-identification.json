@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621002031",
+    "title": "Attribute saliency network for person re-identification",
+    "abstract": "This paper proposes the Attribute Saliency Network (ASNet), a deep learning model that utilizes attribute and saliency map learning for person re-identification (re-ID) task. Many re-ID methods used human pose or local body parts, either fixed position or auto-learn, to guide the learning. Person attributes, though can describe a person in greater details, are seldom used in retrieving the person's images. We therefore propose to integrate the person attributes learning into the re-ID model, and let it learns together with the person identity networks. With this arrangement, there is a synergistic effect and thus better representations are encoded. In addition, both visual and text retrievals, such as query by clothing colors, hair length, etc., are possible. We also propose to improve the granularity of the heatmap, by generating two global person attributes and body part saliency maps to capture fine-grained details of the person and thus enhance the discriminative power of the encoded vectors. As a result, we are able to achieve state-of-the-art performances. On the Market1501 dataset, we achieve 90.5% mAP and 96.3% Rank 1 accuracy. On DukeMTMC-reID, we obtained 82.7% mAP and 90.6% Rank 1 accuracy.",
+    "citation_count": "3",
+    "year": "2021/11/01",
+    "authors": [
+        {
+            "name": "Chiat-Pin Tay",
+            "country": ""
+        },
+        {
+            "name": "Kim-Hui Yap",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

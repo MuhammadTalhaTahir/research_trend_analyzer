@@ -1,0 +1,34 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1020359206122",
+    "title": "Improving Software Performance with Configurable Logic",
+    "abstract": "We examine the energy and performance benefits that can be obtained by re-mapping frequently executed loops from a microprocessor to reconfigurable logic. We present a design flow that finds critical software loops automatically and manually re-implements these inconfigurable logic by implementing them in SA-C, a C language variation supportinga dataflow computation model and designed to specify and map DSP applicationsonto reconfigurable logic. We apply this design flow on several examples fromthe MediaBench benchmark suite and report the energy and performance improvements.",
+    "citation_count": 23,
+    "year": "2002/11",
+    "authors": [
+        {
+            "name": "Villarreal, Jason",
+            "country": "Riverside"
+        },
+        {
+            "name": "Suresh, Dinesh",
+            "country": "Riverside"
+        },
+        {
+            "name": "Stitt, Greg",
+            "country": "Riverside"
+        },
+        {
+            "name": "Vahid, Frank",
+            "country": "Riverside"
+        },
+        {
+            "name": "Najjar, Walid",
+            "country": "Riverside"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

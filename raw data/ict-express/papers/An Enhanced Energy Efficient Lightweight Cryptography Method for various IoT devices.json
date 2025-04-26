@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959521000400",
+    "title": "An Enhanced Energy Efficient Lightweight Cryptography Method for various IoT devices",
+    "abstract": "Internet of Things (IoT) is an auspicious technology that will connect more number of devices through an internet. The huge number of communication expected to transmit high data securely is an important problem in recent days. In this paper, an  E nhanced  E nergy  E fficient  L ightweight  C ryptography  M ethod which utilizes 8 bit manipulation principle ( E 3 LCM ) has been proposed. The proposed method has been verified for speech signal using MATLAB. The hardware complexity has been validated using Sparten3E XC3S500E FPGA devices and it has been found that the proposed method consumes 202mW power and 0.9 Kbytes RAM and it outperforms other methods.",
+    "citation_count": "0",
+    "year": "2021/12/01",
+    "authors": [
+        {
+            "name": "Prakasam P.",
+            "country": ""
+        },
+        {
+            "name": "Madheswaran M.",
+            "country": ""
+        },
+        {
+            "name": "Sujith K.P.",
+            "country": ""
+        },
+        {
+            "name": "Md Shohel Sayeed",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

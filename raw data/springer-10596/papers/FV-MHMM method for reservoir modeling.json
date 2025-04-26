@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-017-9644-1",
+    "title": "FV-MHMM method for reservoir modeling",
+    "abstract": "The present paper proposes a new family of multiscale finite volume methods. These methods usually deal with a dual mesh resolution, where the pressure field is solved on a coarse mesh, while the saturation fields, which may have discontinuities, are solved on a finer reservoir grid, on which petrophysical heterogeneities are defined. Unfortunately, the efficiency of dual mesh methods is strongly related to the definition of up-gridding and down-gridding steps, allowing defining accurately pressure and saturation fields on both fine and coarse meshes and the ability of the approach to be parallelized. In the new dual mesh formulation we developed, the pressure is solved on a coarse grid using a new hybrid formulation of the parabolic problem. This type of multiscale method for pressure equation called multiscale hybrid-mixed method (MHMM) has been recently proposed for finite elements and mixed-finite element approach (Harder et al. 2013). We extend here the MH-mixed method to a finite volume discretization, in order to deal with large multiphase reservoir models. The pressure solution is obtained by solving a hybrid form of the pressure problem on the coarse mesh, for which unknowns are fluxes defined on the coarse mesh faces. Basis flux functions are defined through the resolution of a local finite volume problem, which accounts for local heterogeneity, whereas pressure continuity between cells is weakly imposed through flux basis functions, regarded as Lagrange multipliers. Such an approach is conservative both on the coarse and local scales and can be easily parallelized, which is an advantage compared to other existing finite volume multiscale approaches. It has also a high flexibility to refine the coarse discretization just by refinement of the lagrange multiplier space defined on the coarse faces without changing nor the coarse nor the fine meshes. This refinement can also be done adaptively w.r.t. a posteriori error estimators. The method is applied to single phase (well-testing) and multiphase flow in heterogeneous porous media.",
+    "citation_count": 25,
+    "year": "2017/12",
+    "authors": [
+        {
+            "name": "Franc, J.",
+            "country": "France"
+        },
+        {
+            "name": "Jeannin, L.",
+            "country": "France"
+        },
+        {
+            "name": "Debenest, G.",
+            "country": "France"
+        },
+        {
+            "name": "Masson, R.",
+            "country": "France"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

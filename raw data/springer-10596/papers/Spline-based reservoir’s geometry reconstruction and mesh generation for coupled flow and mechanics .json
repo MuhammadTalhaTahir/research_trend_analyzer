@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-014-9438-7",
+    "title": "Spline-based reservoir’s geometry reconstruction and mesh generation for coupled flow and mechanics simulation",
+    "abstract": "In this paper, the geometry of oil reservoirs is reconstructed by using B-splines surfaces. The technique exploits the reservoir’s static model’s simplicity to build a robust piecewise continuous geometrical representation by means of Bèzier bicubic patches. Interpolation surfaces can manage the reservoir’s topology while translational surfaces allow extrapolating it towards its sideburdens. After that, transfinite interpolation (TFI) can be applied to generate decent hexahedral meshes. In order to test the procedure, several open-to-the-public oil reservoir datasets are reconstructed and hexahedral meshes around them are generated. This reconstruction workflow also allows having different meshes for flow and mechanics by computing a projection operator in order to map pressures from the original flow mesh to the generated reference mechanics mesh. As an update respect to a previous version of this research, we already incorporate blending functions to the TFI procedure in order to attract the mesh towards the reservoir, which allows grading the hexahedral meshes in the appropriate manner. Finally, field scale reservoir compaction and subsidence computations are carried out by using continuous Galerkin FEM for both flow and mechanics in order to demonstrate the applicability of the proposed algorithm.",
+    "citation_count": 31,
+    "year": "2014/12",
+    "authors": [
+        {
+            "name": "Florez, Horacio",
+            "country": "USA"
+        },
+        {
+            "name": "Manzanilla-Morillo, Raul",
+            "country": "Ecuador"
+        },
+        {
+            "name": "Florez, Jorge",
+            "country": "USA"
+        },
+        {
+            "name": "Wheeler, Mary F.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

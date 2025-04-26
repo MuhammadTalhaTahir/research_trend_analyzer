@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1023/B:COMG.0000005245.72694.13",
+    "title": "Unsplit Variables Perfectly Matched Layers for the Shallow Water Equations with Coriolis Forces",
+    "abstract": "The paper presents an analytical and numerical study of two perfectly matched layer (PML) formulations for the shallow water equations in terms of the unsplit physical variables. A perturbation method followed by a change of dependent variable allows us to extend the methods to include the Coriolis forces. The PML equations, usually given in terms of the primitive variables, are also presented here in terms of the conservative variables, which facilitates their use in flows containing discontinuities. The performance of the two methods on a set of test cases is investigated.",
+    "citation_count": 21,
+    "year": "2003/12",
+    "authors": [
+        {
+            "name": "Abarbanel, S.",
+            "country": "Israel"
+        },
+        {
+            "name": "Stanescu, D.",
+            "country": "USA"
+        },
+        {
+            "name": "Hussaini, M.Y.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

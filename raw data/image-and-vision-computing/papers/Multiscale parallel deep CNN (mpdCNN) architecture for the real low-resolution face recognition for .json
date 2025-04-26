@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621001955",
+    "title": "Multiscale parallel deep CNN (mpdCNN) architecture for the real low-resolution face recognition for surveillance",
+    "abstract": "Images from the surveillance networks are being extensively used for the purpose of monitoring and criminal investigations. However, it is often difficult to recognize faces using the data from the surveillance networks because the resolution of the face in the images captured is too low. Further, the low-resolution images have varying magnitude of facial feature content because of wide variations in illumination, pose, resolution and the distance from which the image is captured. Also, a single face recognition solution is not able to recognize faces efficiently in both high and low-resolution images. Wide variations in facial feature content in high and low-resolution images causes difficulty in classification of the features by a single model for the purpose of face recognition. We present a Deep-CNN based architecture called  mpdCNN  to solve the problem of face recognition in low as well as high-resolution images with high accuracy and robustness. Our proposed architecture  mpdCNN  gives 88.6% accuracy on the SCface database which is an impressive improvement over the state-of-the-art algorithms. We also achieved an accuracy of above 99% on normal to high-resolution databases for face recognition.",
+    "citation_count": "26",
+    "year": "2021/11/01",
+    "authors": [
+        {
+            "name": "Nayaneesh Kumar Mishra",
+            "country": ""
+        },
+        {
+            "name": "Mainak Dutta",
+            "country": ""
+        },
+        {
+            "name": "Satish Kumar Singh",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

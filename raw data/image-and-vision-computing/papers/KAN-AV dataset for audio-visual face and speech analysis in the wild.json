@@ -1,0 +1,42 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623002135",
+    "title": "KAN-AV dataset for audio-visual face and speech analysis in the wild",
+    "abstract": "Human-computer interaction is becoming increasingly prevalent in daily life with the adoption of intelligent devices. These devices must be capable of interacting in diverse settings, such as environments with noise, music and differing illumination and occlusion conditions. They must also interact with a variety of end users across ages and backgrounds. Therefore, the machine learning community needs in-the-wild multi-modal datasets to develop models for face and speech analysis so that they can be applicable in most real world scenarios. However, most existing audio and audio-visual databases are captured in controlled conditions with few or no age and kinship labels. In this paper, we introduce the KAN-AV dataset which contains 98 h of audio-visual data from 970 identities across ages. Two thirds of the identities have kin relations in the dataset. The dataset is manually annotated with labels for kinship, age, and gender and is intended to drive future research in face and speech analysis.",
+    "citation_count": "0",
+    "year": "2023/12/01",
+    "authors": [
+        {
+            "name": "Triantafyllos Kefalas",
+            "country": ""
+        },
+        {
+            "name": "Eftychia Fotiadou",
+            "country": ""
+        },
+        {
+            "name": "Markos Georgopoulos",
+            "country": ""
+        },
+        {
+            "name": "Yannis Panagakis",
+            "country": ""
+        },
+        {
+            "name": "Pingchuan Ma",
+            "country": ""
+        },
+        {
+            "name": "Stavros Petridis",
+            "country": ""
+        },
+        {
+            "name": "Themos Stafylakis",
+            "country": ""
+        },
+        {
+            "name": "Maja Pantic",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

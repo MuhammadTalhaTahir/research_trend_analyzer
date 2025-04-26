@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122000935",
+    "title": "An efficient and access policy-hiding keyword search and data sharing scheme in cloud-assisted IoT",
+    "abstract": "By leveraging the  cloud computing paradigm , the cloud-assisted  Internet of Things  (IoT) is able to offer the massive storage and highly available computation services for end-users. When the  data collected  from  IoT devices  is endlessly gathering to the cloud center, the  data security  become new challenges.  Encrypting data  is an effective measure to guarantee  data confidentiality . However, traditional  encryption techniques  make the data searching and access control inoperative. Current attribute-based  keyword search  (ABKS) techniques provide a feasibility to achieve data searching and access control over  encrypted data  simultaneously. However, existing ABKS schemes leak  sensitive information  via clear access policy and may be unsuitable for certain IoT applications, where the access policies in data might contain private information of data owners such as the security number or the residential area of a resident in smart grids. In this work, we design an efficient and policy-hiding attribute-based keyword search and data sharing scheme (PH-ABKS-DS) in cloud-assisted IoT. To the best of our knowledge, this construction is the first PH-ABKS-DS with practical efficiency that is constructed on prime order group. We provide detailed correctness and security analyses for PH-ABKS-DS. Extensive experiments demonstrate that our proposed PH-ABKS-DS is correct and practical.",
+    "citation_count": "11",
+    "year": "2022/07/01",
+    "authors": [
+        {
+            "name": "Hui Yin",
+            "country": ""
+        },
+        {
+            "name": "Yangfan Li",
+            "country": ""
+        },
+        {
+            "name": "Fangmin Li",
+            "country": ""
+        },
+        {
+            "name": "Hua Deng",
+            "country": ""
+        },
+        {
+            "name": "Wei Zhang",
+            "country": ""
+        },
+        {
+            "name": "Keqin Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

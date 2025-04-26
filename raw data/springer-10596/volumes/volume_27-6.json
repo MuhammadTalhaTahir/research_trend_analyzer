@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Deep-learning-based upscaling method for geologic models via theory-guided convolutional neural network",
+    "url": "https://link.springer.com/article/10.1007/s10596-023-10233-2"
+  },
+  {
+    "title": "Surrogate-assisted distributed swarm optimisation for computationally expensive geoscientific models",
+    "url": "https://link.springer.com/article/10.1007/s10596-023-10223-4"
+  },
+  {
+    "title": "Generating subsurface earth models using discrete representation learning and deep autoregressive network",
+    "url": "https://link.springer.com/article/10.1007/s10596-023-10243-0"
+  },
+  {
+    "title": "Marginalized iterative ensemble smoothers for data assimilation",
+    "url": "https://link.springer.com/article/10.1007/s10596-023-10242-1"
+  },
+  {
+    "title": "Deep learning discovery of macroscopic governing equations for viscous gravity currents from microscopic simulation data",
+    "url": "https://link.springer.com/article/10.1007/s10596-023-10244-z"
+  },
+  {
+    "title": "Bayesian model evaluation for multiple scenarios",
+    "url": "https://link.springer.com/article/10.1007/s10596-023-10241-2"
+  },
+  {
+    "title": "Meshing strategies for 3d geo-electromagnetic modeling in the presence of metallic infrastructure",
+    "url": "https://link.springer.com/article/10.1007/s10596-023-10247-w"
+  },
+  {
+    "title": "Stochastic reconstruction of shale combining multi-scale generators and discriminators with attention mechanisms",
+    "url": "https://link.springer.com/article/10.1007/s10596-023-10249-8"
+  },
+  {
+    "title": "Stacked ensemble model for reservoir characterisation to predict log properties from seismic signals",
+    "url": "https://link.springer.com/article/10.1007/s10596-023-10248-9"
+  },
+  {
+    "title": "Competitive algorithm to balance and predict blasting outcomes using measured field data sets",
+    "url": "https://link.springer.com/article/10.1007/s10596-023-10254-x"
+  },
+  {
+    "title": "Fracture network flow prediction with uncertainty using physics-informed graph features",
+    "url": "https://link.springer.com/article/10.1007/s10596-023-10256-9"
+  },
+  {
+    "title": "A preliminary model for optimal control of moisture content in unsaturated soils",
+    "url": "https://link.springer.com/article/10.1007/s10596-023-10250-1"
+  },
+  {
+    "title": "Impact of artificial topological changes on flow and transport through fractured media due to mesh resolution",
+    "url": "https://link.springer.com/article/10.1007/s10596-023-10253-y"
+  },
+  {
+    "title": "A 3D organized point cloud clustering algorithm for seismic fault data based on region growth",
+    "url": "https://link.springer.com/article/10.1007/s10596-023-10259-6"
+  }
+]

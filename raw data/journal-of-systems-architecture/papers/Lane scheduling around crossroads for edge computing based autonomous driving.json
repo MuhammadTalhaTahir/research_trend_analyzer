@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762118305277",
+    "title": "Lane scheduling around crossroads for edge computing based autonomous driving",
+    "abstract": "Autonomous driving , which can free our hands and feet, is of increasing importance in our daily lives. However, the capacity of onboard computation and communication limits the rapid development of autonomous driving. To address this issue, this paper proposes a novel model named the edge computing-based lanes scheduling system (ECLSS) to study lane scheduling for each vehicle around crossroads with real-time edge devices. There are several  edge computing  devices (ECD) deployed around crossroads in ECLSS that can collect information from vehicles and road conditions with short-range wired/wireless transmissions. Based on the strong computing power of ECDs and their real-time transmission performance, we propose two centralized management lane scheduling methods: the searching for efficient switching algorithm (SESA) and special vehicles lane switching algorithm (SVLSA). These edge computing-based autonomous driving methods aim to achieve high speed passing through crossroads and guarantee that special vehicles can pass through crossroads within a certain time. Extensive simulations are conducted, and the simulation results demonstrate the superiority of the proposed approaches over competing schemes in typical lane switching scenarios.",
+    "citation_count": "9",
+    "year": "2019/05/01",
+    "authors": [
+        {
+            "name": "Changqing Xia",
+            "country": ""
+        },
+        {
+            "name": "Xi Jin",
+            "country": ""
+        },
+        {
+            "name": "Linghe Kong",
+            "country": ""
+        },
+        {
+            "name": "Chi Xu",
+            "country": ""
+        },
+        {
+            "name": "Peng Zeng",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,36 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-018-0738-8",
+    "title": "Pattern matching for industrial object recognition using geometry-based vector mapping descriptors",
+    "abstract": "Object recognition has always been a troublesome issue for computer vision. Despite continuous researches, it still remains a challenge to define features, match the corresponding features, and develop accuracy and precision concurrently while considering computational speed and robustness at the same time. In this paper, we propose a novel feature matching method called the vector mapping descriptor (VMD) to overcome existing issues. We implement sub-pixel units for edge detection to improve the accuracy of invariant features, after which sub-pixel unit edges are enhanced by least squares error estimation, and more accurate geometric features are extracted from the enhanced sub-pixel unit edges of an object’s geometric shape. We defined two geometric features, namely a circle center and a line intersection, used to construct the VMD, which represents the correlation of features consisting of the Euclidean distance and angle. The geometry-based VMD for pattern matching is proposed to match salient feature points between different images effectively under geometric transformation irrespective of missing or additional feature points. The VMD enabled one-to-one feature matching of corresponding grouped feature points from different images resulting in complete object matching. The proposed matching algorithm was invariant to geometric transformation such as translation, rotation, and scale differences and was also able cope with partial distortion or occlusion. Experiments were conducted with an industrial camera to show that our system can be executed in real time.",
+    "citation_count": 39,
+    "year": "2018/11",
+    "authors": [
+        {
+            "name": "You, Oung Tak",
+            "country": "South Korea"
+        },
+        {
+            "name": "Pae, Dong Sung",
+            "country": "South Korea"
+        },
+        {
+            "name": "Kim, Sung Hee",
+            "country": "South Korea"
+        },
+        {
+            "name": "Kim, Kyeong Eun",
+            "country": "South Korea"
+        },
+        {
+            "name": "Lim, Myo Taeg",
+            "country": "South Korea"
+        },
+        {
+            "name": "Kang, Tae Koo",
+            "country": "South Korea"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

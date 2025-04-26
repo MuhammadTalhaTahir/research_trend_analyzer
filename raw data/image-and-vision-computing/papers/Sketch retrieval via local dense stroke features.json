@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885615001389",
+    "title": "Sketch retrieval via local dense stroke features",
+    "abstract": "Sketch retrieval aims at retrieving the most similar sketches from a large database based on one hand-drawn query. Successful retrieval hinges on an effective representation of sketch images and an efficient search method. In this paper, we propose a representation scheme which takes sketch strokes into account with  local features , thereby facilitating efficient retrieval with codebooks. Stroke features are detected via densely sampled points on stroke lines with crucial corners as anchor points, from which local gradients are enhanced and described by a quantized histogram of gradients. A codebook is organized in a hierarchical  vocabulary tree , which maintains structural information of visual words and enables efficient retrieval in sub-linear time. Experimental results on three data sets demonstrate the merits of the proposed algorithm for effective and efficient sketch retrieval.",
+    "citation_count": "15",
+    "year": "2016/02/01",
+    "authors": [
+        {
+            "name": "Chao Ma",
+            "country": ""
+        },
+        {
+            "name": "Xiaokang Yang",
+            "country": ""
+        },
+        {
+            "name": "Chongyang Zhang",
+            "country": ""
+        },
+        {
+            "name": "Xiang Ruan",
+            "country": ""
+        },
+        {
+            "name": "Ming-Hsuan Yang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

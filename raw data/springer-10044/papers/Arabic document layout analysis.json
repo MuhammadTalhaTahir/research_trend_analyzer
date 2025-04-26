@@ -1,0 +1,36 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-017-0595-x",
+    "title": "Arabic document layout analysis",
+    "abstract": "Document layout analysis is a key step in the process of converting document images into text. Arabic language script is cursive and written in different styles which cause some challenges in the analysis of Arabic text documents. In this paper, we introduce an approach for Arabic documents layout analysis. In that approach, the document is segmented into set of zones using morphological operations. The segmented zones are classified as text or non-text ones using a support vector machine classifier. Features used in zone classification are combination between texture-based features and connected component-based features. The textural-based feature vector size is reduced using genetic algorithm. Classified text zones are clustered, using adaptive sample set clustering algorithm, into lines. Each segmented line is segmented into words by clustering inter- and intra-spaces. The proposed system was evaluated against two other systems that represent the best available tools for the Arabic documents analysis, and evaluation results show that the proposed system works well on multi-font and multi-size documents with a variety of layouts even on some historical documents.",
+    "citation_count": 28,
+    "year": "2017/11",
+    "authors": [
+        {
+            "name": "Hesham, Amany M.",
+            "country": "Egypt"
+        },
+        {
+            "name": "Rashwan, Mohsen A. A.",
+            "country": "Egypt"
+        },
+        {
+            "name": "Al-Barhamtoshy, Hassanin M.",
+            "country": "Egypt"
+        },
+        {
+            "name": "Abdou, Sherif M.",
+            "country": "Saudi Arabia"
+        },
+        {
+            "name": "Badr, Amr A.",
+            "country": "Egypt"
+        },
+        {
+            "name": "Farag, Ibrahim",
+            "country": "Egypt"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

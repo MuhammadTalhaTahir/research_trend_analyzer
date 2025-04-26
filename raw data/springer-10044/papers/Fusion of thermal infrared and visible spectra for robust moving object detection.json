@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-017-0621-z",
+    "title": "Fusion of thermal infrared and visible spectra for robust moving object detection",
+    "abstract": "The detection of moving objects is a crucial step for many video surveillance applications whether using a visible camera (VIS) or an infrared (IR) one. In order to profit from both types, several fusion methods were proposed in the literature: low-level fusion, medium-level fusion and high-level fusion. The first one is the most used for moving objects’ detection in IR and VIS spectra. In this paper, we present an overview of the different moving object detection methods in IR and VIS spectra and a state of the art of the low-level fusion techniques. Moreover, we propose a new method for moving object detection using low-level fusion of IR and VIS spectra. In order to evaluate quantitatively and qualitatively our proposed method, three series of experiments were carried out using two well-known datasets namely “OSU Color-Thermal Database” and “INO-Database”; the results of these evaluations show promising results and demonstrate the effectiveness of the proposed method.",
+    "citation_count": 72,
+    "year": "2017/11",
+    "authors": [
+        {
+            "name": "Fendri, Emna",
+            "country": "Tunisia"
+        },
+        {
+            "name": "Boukhriss, Rania Rebai",
+            "country": "Tunisia"
+        },
+        {
+            "name": "Hammami, Mohamed",
+            "country": "Tunisia"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-012-9525-4",
+    "title": "The L(2,1)-labelling problem for cubic Cayley graphs on dihedral groups",
+    "abstract": "A k-L(2,1)-labelling of a graph G is a mapping f:V(G)→{0,1,2,…,k} such that |f(u)−f(v)|≥2 if uv∈E(G) and f(u)≠f(v) if u,v are distance two apart. The smallest positive integer k such that G admits a k-L(2,1)-labelling is called the λ-number of&nbsp;G. In this paper we study this quantity for cubic Cayley graphs (other than the prism graphs) on dihedral groups, which are called brick product graphs or honeycomb toroidal graphs. We prove that the λ-number of such a graph is between&nbsp;5 and&nbsp;7, and moreover we give a characterisation of such graphs with λ-number&nbsp;5.",
+    "citation_count": 33,
+    "year": "2013/05",
+    "authors": [
+        {
+            "name": "Li, Xiangwen",
+            "country": "China"
+        },
+        {
+            "name": "Mak-Hau, Vicky",
+            "country": "Australia"
+        },
+        {
+            "name": "Zhou, Sanming",
+            "country": "Australia"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

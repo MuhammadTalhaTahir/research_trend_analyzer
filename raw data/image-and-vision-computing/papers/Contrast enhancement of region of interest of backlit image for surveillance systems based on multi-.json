@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623000677",
+    "title": "Contrast enhancement of region of interest of backlit image for surveillance systems based on multi-illumination fusion",
+    "abstract": "The surveillance images under backlit conditions is a potential and challenging research problem in image processing and computer vision. Low contrast regions of interest of backlit images form an indiscernible part for the real-time surveillance and biometrics applications. However, current state-of-the-art techniques typically offer limited dark-region contrast enhancement, are susceptible to colour distortion. This research work uses region of interest segmentation and a transfer learning-based strategy to improve the contrast of the dark intensity regions in backlit image using multi-illumination mappings, motivated by its usefulness. To generate a diversified collection of illumination-maps and enhance the brightness and contrast of the backlit image, the proposed framework applies the varied set of log and gamma transforms. The experimental findings confirm the assertion that the proposed method provides better performance than state-of-the-art methods both objectively and subjectively.",
+    "citation_count": "9",
+    "year": "2023/07/01",
+    "authors": [
+        {
+            "name": "Gaurav Yadav",
+            "country": ""
+        },
+        {
+            "name": "Dilip Kumar Yadav",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

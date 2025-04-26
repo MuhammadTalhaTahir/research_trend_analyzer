@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224002189",
+    "title": "Two-stage knowledge-assisted coevolutionary NSGA-II for bi-objective path planning of multiple unmanned aerial vehicles",
+    "abstract": "This paper focuses on the bi-objective path planning problem of multiple unmanned aerial vehicles (UAVs) under the complex environment with numerous obstacles and threat areas, where the UAVs need to be kept as far away as possible from threat areas during flight. Based on the integrated energy reduction perspective, a bi-objective model is subtly constructed by minimizing the total energy consumption of each path (including flight altitude, horizontal turns, and path length), and minimizing the costs of the total threats (including ground radar, anti-aircraft gun, missile and geological hazard threat areas). Moreover, a two-stage knowledge-assisted coevolutionary NSGA-II algorithm is novelly proposed to enhance collaboration and avoid collision. The first stage is designed for population convergence, where the considered constrained problem is solved with the help of the designed problem without the constraints of threats and obstacles. The second stage emphasizes the quality and diversity of solutions. In this stage, a double-population coevolution approach is developed. Additionally, a multi-mode strategy is introduced for the inferior population, leveraging reinforcement learning. This strategy aids in selecting the optimal mode from random swing, directed guidance, and potential dominance exploration. Furthermore, experimental results in two different environments show that the proposed algorithm can better solve the collaborative path planning problem for multiple UAVs compared with other five classical or recent proposed algorithms.",
+    "citation_count": "0",
+    "year": "2024/10/01",
+    "authors": [
+        {
+            "name": "Tianwei Zhou",
+            "country": ""
+        },
+        {
+            "name": "Zhenghan Zhou",
+            "country": ""
+        },
+        {
+            "name": "Haiyun Qiu",
+            "country": ""
+        },
+        {
+            "name": "Ben Niu",
+            "country": ""
+        },
+        {
+            "name": "Gabriel Xiao-Guang Yue",
+            "country": ""
+        },
+        {
+            "name": "Witold Pedrycz",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

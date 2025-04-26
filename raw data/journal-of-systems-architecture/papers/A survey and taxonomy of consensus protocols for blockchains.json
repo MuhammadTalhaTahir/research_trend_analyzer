@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122000777",
+    "title": "A survey and taxonomy of consensus protocols for blockchains",
+    "abstract": "Blockchain  is an emerging decentralized and distributed technology. Along with the beneficial features of decentralization, transparency, and security the  consensus algorithms  of blockchains form key  building blocks  for this technology. Consensus protocol/algorithm helps to provide a decentralized decision making process. An efficient consensus algorithm is inclusive that engages all the participants to make their decision based on the conflicts of the blockchain networks. These consensus decisions lead to better quality outcomes of the blockchains and help to obtain the finality.  Rigorous research  is in process to upgrade or optimize the existing consensus protocols. The optimized or enhanced consensus protocols objectify to be suitable for Internet-of-Thing (IoT) as the current versions of the protocols are not suitable for the resource-constrained environments due their complexity, hard configurations, mining techniques, high resource consumption, and explicit security loophole. In this paper, we present a survey of consensus protocols with a purpose to identify and discuss the existence of various consensus protocols available in literature. We emphasize on the genesis of the consensus protocols, particularly for Proof-of-X,  byzantine fault tolerance , Paxos, and RAFT; we also include Directed Acyclic Graph (DAG) orientation of some contemporary algorithms. We discuss the variants of these genesis protocols. Our survey analyzes the advantages, disadvantages, and their applicability in IoTs. We enlist the categorical use of consensus algorithms in blockchains and other applications. Finally, we present several research trends and open issues emphasizing for consensus protocols emphasizing on IoTs. Compared to the other surveys in the field, our present survey objectifies to provide a more thorough summary of the most relevant protocols and application issues; this survey helps the researchers and the application developers to obtain an insight on the current status of the consensus protocols’ suitability to deliver the desired functionalities in IoTs. The notified disadvantages of each of the protocol provide future scope for the  industries  and academia. To the best of our knowledge, such a comprehensive and summarized survey of consensus protocols including DAG-based protocols is unavailable in the literature and thus, our contribution claims are significant.",
+    "citation_count": "47",
+    "year": "2022/06/01",
+    "authors": [
+        {
+            "name": "Arshdeep Singh",
+            "country": ""
+        },
+        {
+            "name": "Gulshan Kumar",
+            "country": ""
+        },
+        {
+            "name": "Rahul Saha",
+            "country": ""
+        },
+        {
+            "name": "Mauro Conti",
+            "country": ""
+        },
+        {
+            "name": "Mamoun Alazab",
+            "country": ""
+        },
+        {
+            "name": "Reji Thomas",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

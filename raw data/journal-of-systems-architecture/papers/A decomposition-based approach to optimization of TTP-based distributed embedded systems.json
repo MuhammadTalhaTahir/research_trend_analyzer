@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762117305155",
+    "title": "A decomposition-based approach to optimization of TTP-based distributed embedded systems",
+    "abstract": "Time-Triggered Protocol (TTP) is an industry-standard bus protocol widely-used in safety-critical avionics distributed embedded systems.  Design space exploration  for TTP-based distributed embedded system involves searching through a vast design space of all possible task-to-processor mappings and bus access configurations. In this paper, we consider the task model of periodic tasks on multiple processor nodes connected by the TTP bus communicating via asynchronous buffers based on non-blocking read/write semantics, and present two optimization frameworks based on Logic-Based Benders Decomposition (LBBD), by dividing the design problem into a master problem of optimizing task-to-processor mapping to minimize bus  bandwidth utilization , and a sub-problem of optimizing the bus access configuration subject to deadline constraints on a set of end-to-end paths, and each problem is solved with a suitable optimization solver. Experimental results demonstrate the feasibility and scalability of the proposed techniques.",
+    "citation_count": "15",
+    "year": "2018/11/01",
+    "authors": [
+        {
+            "name": "Ming Zhang",
+            "country": ""
+        },
+        {
+            "name": "Nenggan Zheng",
+            "country": ""
+        },
+        {
+            "name": "Hong Li",
+            "country": ""
+        },
+        {
+            "name": "Zonghua Gu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

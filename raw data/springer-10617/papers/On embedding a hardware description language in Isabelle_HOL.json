@@ -1,0 +1,30 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10617-019-09226-1",
+    "title": "On embedding a hardware description language in Isabelle/HOL",
+    "abstract": "In order to define executable hardware description language while at the same time be fit for formal proofs of properties, a hardware description language VeriFormal, embedded in Isabelle/HOL, was created. VeriFormal, together with a translator and Isabelle/HOL proof facility, provides a platform for designing, simulating and reasoning about hardware designs. Building such an environment is challenging due to the fact that the designer must have expertise in programming language design, the specific domain and theorem prover. It requires selection of a language design criteria, host language, grammar, embedding approach and techniques and mechanisms to address determinism and termination issues. When the language in question is a hardware description language, it requires specialized treatment of events, their scheduling, data types and assignments. In this paper, we report on our experience of embedding hardware description language VeriFormal in theorem prover Isabelle/HOL. In particular, the structure and execution of programs in the context of theorem provers and their impact on the overall language design are discussed. Among the main features of VeriFormal include formal semantics of the language, support for mechanical reasoning about designs and compiler and type checking of modules using Isabelle/HOL as well as VeriFormal type checkers.",
+    "citation_count": 55,
+    "year": "2019/12",
+    "authors": [
+        {
+            "name": "Khan, Wilayat",
+            "country": "Pakistan"
+        },
+        {
+            "name": "Sanan, David",
+            "country": "Singapore"
+        },
+        {
+            "name": "Hou, Zhe",
+            "country": "Australia"
+        },
+        {
+            "name": "Yang, Liu",
+            "country": "Singapore"
+        }
+    ],
+    "keywords": [
+        "Circuits and Systems",
+        "Computer-Aided Engineering (CAD, CAE) and Design",
+        "Special Purpose and Application-Based Systems"
+    ]
+}

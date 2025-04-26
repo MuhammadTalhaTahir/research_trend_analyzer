@@ -1,0 +1,42 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650220304417",
+    "title": "A clustering-based differential evolution algorithm for solving multimodal multi-objective optimization problems",
+    "abstract": "Multimodal Multi-objective Optimization Problems (MMOPs) refer to the problems that have multiple Pareto-optimal solution sets in decision space corresponding to the same or similar Pareto-optimal front in objective space. These problems require the optimization algorithm to locate multiple  Pareto Sets  (PSs). This paper proposes a differential evolution algorithm based on the clustering technique and an elite selection mechanism to solve MMOPs. In this algorithm, a Clustering-based Special Crowding Distance (CSCD) method is designed to calculate the comprehensive crowding degree in decision and objective spaces. Subsequently, a distance-based elite selection mechanism (DBESM) is introduced to determine the learning exemplars of various individuals. New individuals are generated around the exemplars to obtain a well-distributed population in both decision and objective spaces. To test the performance of the proposed algorithm, extensive experiments on the suit of CEC'2019 benchmark functions have been conducted. The results indicate that the proposed method has superior performance compared with other commonly used algorithms.",
+    "citation_count": "120",
+    "year": "2021/02/01",
+    "authors": [
+        {
+            "name": "Jing Liang",
+            "country": ""
+        },
+        {
+            "name": "Kangjia Qiao",
+            "country": ""
+        },
+        {
+            "name": "Caitong Yue",
+            "country": ""
+        },
+        {
+            "name": "Kunjie Yu",
+            "country": ""
+        },
+        {
+            "name": "Boyang Qu",
+            "country": ""
+        },
+        {
+            "name": "Ruohao Xu",
+            "country": ""
+        },
+        {
+            "name": "Zhimeng Li",
+            "country": ""
+        },
+        {
+            "name": "Yi Hu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

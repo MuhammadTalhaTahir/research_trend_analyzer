@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S138376211500079X",
+    "title": "Memory organizations for 3D-DRAMs and PCMs in processor memory hierarchy",
+    "abstract": "In this paper, we describe and evaluate three possible architectures for using 3D-DRAMs and PCMs in the processor memory hierarchy. We explore: (i) using 3D-DRAM as main memory with  PCM  as backing store; (ii) using 3D-DRAM as the Last Level Cache and  PCM  as the main memory; and (iii) using both 3D-DRAM and PCM as main memory. In each of these configurations, since the proposed memories are significantly faster than today’s off-chip 2D DRAMs for main memories and magnetic  hard drives  for secondary storage, we introduce  hardware assistance  to speedup virtual to physical address translation. We use Simics, a full system simulator, and benchmarks from both SPEC and OLTP suites to evaluate our designs. We use CACTI for obtaining energy and latency values for our configurations. We measure energy consumed and execution performance for the selected benchmarks. Our studies lead to the following conclusions. The best performance is obtained when 3D-DRAMs are used as last level caches (LLC) and PCM as the main memory. However, this organization performs poorly in terms of energy consumed. Our 3D-DRAM together with PCM as main memory is the best choice in terms of energy consumed. In terms of write-backs, 3D-DRAM as LLC causes fewer writes to PCM than the other organization. These experiments can be extended to explore specific memory organizations, capacities of 3D-DRAM needed as LLC or main memory and how the hybrid PCM/DRAM memory should be used for specific application contexts.",
+    "citation_count": "5",
+    "year": "2015/11/01",
+    "authors": [
+        {
+            "name": "Krishna Kavi",
+            "country": ""
+        },
+        {
+            "name": "Stefano Pianelli",
+            "country": ""
+        },
+        {
+            "name": "Giandomenico Pisano",
+            "country": ""
+        },
+        {
+            "name": "Giuseppe Regina",
+            "country": ""
+        },
+        {
+            "name": "Mike Ignatowski",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

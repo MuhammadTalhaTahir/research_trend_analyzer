@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885623002433",
+    "title": "Few-shot classification with multisemantic information fusion network",
+    "abstract": "Metric-based methods aim to predict class labels by computing the similarity between samples using distance functions, which is the mainstream approach to few-shot learning. However, the limited representational space of feature vectors and appearance variations among congenetic samples still present challenges. We propose a Multisemantic Information Fusion Network (MIFN) to address these problems. A Lower-level Feature generator (LF-generator), which is an unsupervised module, adaptively activates high-response regions of objects to introduce discriminative semantic details. Meanwhile, a Higher-level Feature extractor (HF-extractor) learns global semantic information with  human cognition  to minimise the impact of appearance variations. We integrate the coarse outputs of these two modules, which complement each other to jointly promote more precise predictions. Furthermore, considering the importance of prototypes, we redefine the sampling strategy of the triplet loss and utilise it as an  auxiliary  loss to sharpen the decision boundary at the prototype level, facilitating subsequent classification. Our experimental results demonstrate the competitiveness of our approach in both general few-shot classification ( mini -ImageNet and  tiered -ImageNet) and cross-domain problems (CUB, Caltech-101, Stanford-dogs, and Stanford-cars) with minimal bells and whistles.",
+    "citation_count": "5",
+    "year": "2024/01/01",
+    "authors": [
+        {
+            "name": "Ruixuan Gao",
+            "country": ""
+        },
+        {
+            "name": "Han Su",
+            "country": ""
+        },
+        {
+            "name": "Shitala Prasad",
+            "country": ""
+        },
+        {
+            "name": "Peisen Tang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-025-01455-4",
+    "title": "Multi-view clustering via diversity induction and multi-layer concept factorization",
+    "abstract": "To investigate complicated nonlinear interactions and underlying hierarchical structure in multi-view data, provide more useful data representation, and boost the multi-view learning approach’s recognition power, we develop a multi-view clustering via diversity induction and multi-layer concept factorization (MCDMCF) framework. This framework employs the Hilbert-Schmidt independence criterion (HSIC) to model the projection matrix corresponding to each view to strengthen the complementarity between different views. Additionally, the proposed approach imposes multiple graph regularization constraints on each view to explore essential information in the data and adopts the concept of deep learning (DL) to investigate the hierarchical structure hidden in various views. We also used kernel technology to perform concept factorization (CF) in a high-dimensional space, which enables the MCDMCF to effectively distinguish data points. Furthermore, we designed an alternating iterative optimization approach to address the MCDMCF approach and analyze its convergence. Extensive tests reveal that the proposed method’s clustering ability on several datasets are superior to those of numerous recent multi-view clustering approaches.",
+    "citation_count": 61,
+    "year": "2025/06",
+    "authors": [
+        {
+            "name": "Liu, Guoqing",
+            "country": "China"
+        },
+        {
+            "name": "Ge, Hongwei",
+            "country": "China"
+        },
+        {
+            "name": "Li, Ting",
+            "country": "China"
+        },
+        {
+            "name": "Su, Shuzhi",
+            "country": "China"
+        },
+        {
+            "name": "Gao, Penglian",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

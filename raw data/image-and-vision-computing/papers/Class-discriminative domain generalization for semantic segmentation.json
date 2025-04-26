@@ -1,0 +1,38 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624004980",
+    "title": "Class-discriminative domain generalization for semantic segmentation",
+    "abstract": "Existing domain generalization semantic segmentation methods aim to improve the generalization ability by learning domain-invariant information for generalizing well on unseen domains. However, these methods ignore the class discriminability of models, which may lead to a class confusion problem. In this paper, a class-discriminative domain generalization (CDDG) approach is proposed to simultaneously alleviate the distribution shift and class confusion for semantic segmentation. Specifically, a dual prototypical contrastive learning module is proposed. Since the high-frequency component is consistent across different domains, a class-text-guided high-frequency prototypical contrastive learning is proposed. It uses text embeddings as prior knowledge for guiding the learning of high-frequency prototypical representation from high-frequency components to mine domain-invariant information and further improve the generalization ability. However, the domain-specific information may also contain label-related information which refers to the discrimination of a specific class. Thus, only learning the domain-invariant information may limit the class discriminability of models. To address this issue, a low-frequency prototypical contrastive learning is proposed to learn the class-discriminative representation from low-frequency components since it is more domain-specific across different domains. Finally, the class-discriminative representation and high-frequency prototypical representation are fused to simultaneously improve the generalization ability and class discriminability of the model. Extensive experiments demonstrate that the proposed approach outperforms current methods on single- and multi-source domain generalization benchmarks.",
+    "citation_count": "1",
+    "year": "2025/02/01",
+    "authors": [
+        {
+            "name": "Muxin Liao",
+            "country": ""
+        },
+        {
+            "name": "Shishun Tian",
+            "country": ""
+        },
+        {
+            "name": "Yuhang Zhang",
+            "country": ""
+        },
+        {
+            "name": "Guoguang Hua",
+            "country": ""
+        },
+        {
+            "name": "Rong You",
+            "country": ""
+        },
+        {
+            "name": "Wenbin Zou",
+            "country": ""
+        },
+        {
+            "name": "Xia Li",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

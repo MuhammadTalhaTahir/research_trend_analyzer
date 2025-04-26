@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650219300422",
+    "title": "A high-efficiency adaptive artificial bee colony algorithm using two strategies for continuous optimization",
+    "abstract": "It has always been a problem faced by Artificial Bee Colony (ABC) algorithm that how to adjust exploration and exploitation dynamically in the evolution process. In order to overcome this problem, this paper presents a highly efficient variant of ABC algorithm which is two-strategy adaptive. Among the two proposed search strategies, one has strong exploration ability and the other has strong exploitation ability; Based on the  adaptability  of the two search strategies to the problem solving and the search process, the  selection probability  of each search strategy is dynamically adjusted according to success rate, and then the cooperative optimization of the two search strategies is realized to improve the performance of the algorithm. It can be seen that the improved algorithm is enhanced significantly on accuracy of solution and success rate from comparing experiment results with the other state-of-the-art ABC algorithms.",
+    "citation_count": "42",
+    "year": "2019/11/01",
+    "authors": [
+        {
+            "name": "Xiaoyu Song",
+            "country": ""
+        },
+        {
+            "name": "Ming Zhao",
+            "country": ""
+        },
+        {
+            "name": "Qifeng Yan",
+            "country": ""
+        },
+        {
+            "name": "Shuangyun Xing",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

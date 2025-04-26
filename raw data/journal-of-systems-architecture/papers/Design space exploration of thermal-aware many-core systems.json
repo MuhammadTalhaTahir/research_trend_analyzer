@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762113001550",
+    "title": "Design space exploration of thermal-aware many-core systems",
+    "abstract": "Higher temperatures or uneven distribution of temperatures result in timing uncertainties which induces performance and reliability concerns for the system. Future 3D IC technology offers greater device integration, reduced signal delay and reduced interconnect power. It also provides greater design flexibility by allowing  heterogeneous integration . However, 3D technology exacerbates the on-chip thermal issues and increases packaging and cooling costs. In order to resolve these issues in 2D and  3D systems , and avoid high and uneven temperatures, accurate thermal modeling and analysis, and thermal-aware placement optimizations are essential before tapeout. In this paper, we propose a thermally efficient routing strategy for 3D NoC-Bus  Hybrid architectures , which mitigates on-chip temperatures by conducting most of the  switching activity  closer to the heat sink. Our simulations with a real world benchmark show that there has been a significant decrease in the peak temperatures when compared to a typical stacked  mesh 3D   NoC . Also, we have presented an exploration of various thermal-aware placement approaches for both the 2D and 3D stacked systems. Various thermal models have been developed in order to investigate the effect of thermal-aware placement in 2D chip and 3D stacked systems. Using the developed metrics, we proposed an efficient thermal-aware application mapping for a 2D NoC. Steady-state simulations show that the proposed thermal-aware  mapping algorithm  reduces the effective chip area reeling under high temperatures when compared to the  Tree-Model-Based (TMB)  mapping and  Worst case  mapping.",
+    "citation_count": "1",
+    "year": "2013/11/01",
+    "authors": [
+        {
+            "name": "Kameswar Rao Vaddina",
+            "country": ""
+        },
+        {
+            "name": "Amir-Mohammad Rahmani",
+            "country": ""
+        },
+        {
+            "name": "Mohammad Fattah",
+            "country": ""
+        },
+        {
+            "name": "Pasi Liljeberg",
+            "country": ""
+        },
+        {
+            "name": "Juha Plosila",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

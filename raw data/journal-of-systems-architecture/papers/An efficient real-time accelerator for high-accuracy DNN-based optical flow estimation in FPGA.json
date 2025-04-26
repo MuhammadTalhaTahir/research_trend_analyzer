@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122003034",
+    "title": "An efficient real-time accelerator for high-accuracy DNN-based optical flow estimation in FPGA",
+    "abstract": "Recently, accelerator architectures of  deep neural networks  (DNNs) have been designed to accelerate  computer vision tasks , gaining the advantages of both accuracy and speed. However, DNNs-based  optical flow estimation  accelerators have not been successfully deployed due to the  resource constraint . Existing  hardware accelerators  for optical flow estimation are all designed for non-DNN methods and generally perform poorly in estimated accuracy. In this paper, we present FlowAcc, a dedicated hardware accelerator for DNN-based optical flow estimation, adopting a pipelined hardware design for the real-time processing of image streams. We design an efficient multiplexing binary  neural network  (BNN) architecture for pyramidal feature extraction to significantly reduce the  hardware cost  and make it independent of the pyramid-level number. Furthermore, efficient designs such as  hamming distance  calculation and competent flow  regularization  are used for hierarchical optical flow estimation to greatly improve the system’s efficiency. Comprehensive experimental results demonstrate that FlowAcc achieves state-of-the-art estimation accuracy and real-time performance on the Middlebury dataset when compared with the existing optical flow accelerators.",
+    "citation_count": "14",
+    "year": "2023/03/01",
+    "authors": [
+        {
+            "name": "Yuanxing Yan",
+            "country": ""
+        },
+        {
+            "name": "Yehua Ling",
+            "country": ""
+        },
+        {
+            "name": "Kai Huang",
+            "country": ""
+        },
+        {
+            "name": "Gang Chen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

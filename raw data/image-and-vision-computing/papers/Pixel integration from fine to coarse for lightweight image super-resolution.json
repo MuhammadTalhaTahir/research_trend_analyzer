@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624004670",
+    "title": "Pixel integration from fine to coarse for lightweight image super-resolution",
+    "abstract": "Recently, Transformer-based methods have made significant progress on image super-resolution. They encode long-range dependencies between image patches through self-attention mechanism. However, when extracting all tokens from the entire feature map, the computational cost is expensive. In this paper, we propose a novel lightweight image super-resolution approach, pixel integration network(PIN). Specifically, our method employs fine pixel integration and coarse pixel integration from local and global receptive field. In particular, coarse pixel integration is implemented by a retractable attention, consisting of dense and sparse self-attention. In order to focus on enriching features with contextual information, spatial-gate mechanism and depth-wise convolution are introduced to multi-layer perception. Besides, a spatial frequency fusion block is adopted to obtain more comprehensive, detailed, and stable information at the end of deep feature extraction. Extensive experiments demonstrate that PIN achieves the state-of-the-art performance with small parameters on lightweight super-resolution.",
+    "citation_count": "0",
+    "year": "2025/02/01",
+    "authors": [
+        {
+            "name": "Yuxiang Wu",
+            "country": ""
+        },
+        {
+            "name": "Xiaoyan Wang",
+            "country": ""
+        },
+        {
+            "name": "Xiaoyan Liu",
+            "country": ""
+        },
+        {
+            "name": "Yuzhao Gao",
+            "country": ""
+        },
+        {
+            "name": "Yan Dou",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

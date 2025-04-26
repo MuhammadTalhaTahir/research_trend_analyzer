@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621001748",
+    "title": "Real-time semantic segmentation with weighted factorized-depthwise convolution",
+    "abstract": "Semantic segmentation  has achieved great success with the popularity of  convolutional neural networks  (CNNs). However, the huge computational burden restricts the application of most existing networks on edge devices with strict inference time constraints. To solve this problem, a weighted factorized-depthwise convolution network (WFDCNet) is presented in this paper, which contains full- dimensional continuous separation convolution (FCS) modules and a lateral asymmetric pyramid fusion (LAPF) module, aiming to obtain high accuracy without damaging inference speed. Specifically, the FCS module enables the calculation of each dimension to be completed independently in a continuous separation process and uses simplified SE (SSE) attention layer to adjust the channels, achieving the extensive extraction of feature information. The LAPF module is able to eliminate semantic divergence and fuse feature maps of three different scales to realize the combination of multiple information from the front-end and the back-end network. WFDCNet shows superior performance on Cityscapes, Camvid, Mapillary Vistas and COCO-Stuff datasets. Especially, the experimental results demonstrate that our network achieves 73.7% mIoU on Cityscapes dataset, with the inference speed of 102.6FPS on a single RTX 2080 Ti  GPU , and 17.2FPS on Jetson TX2.",
+    "citation_count": "16",
+    "year": "2021/10/01",
+    "authors": [
+        {
+            "name": "Xiaochen Hao",
+            "country": ""
+        },
+        {
+            "name": "Xingjun Hao",
+            "country": ""
+        },
+        {
+            "name": "Yaru Zhang",
+            "country": ""
+        },
+        {
+            "name": "Yuanyuan Li",
+            "country": ""
+        },
+        {
+            "name": "Chao Wu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

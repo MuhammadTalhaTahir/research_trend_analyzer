@@ -1,0 +1,28 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-011-0220-3",
+    "title": "Human body segmentation based on deformable models and two-scale superpixel",
+    "abstract": "In this paper, we propose a novel method to segment human body in static images by graph cuts based on two deformable models at two-scale superpixel. In our study, body segmentation is decomposed into torso detection and lower body recovery. Based on the first-scale superpixel, the seeds of torso are obtained on the basis of the coarse torso region, which is estimated by an improved deformable torso model. For the lower body, we estimate the hip region to obtain the seeds of lower body at the second-scale superpixel. Besides, a deformable upper leg model is designed to derive more foreground seeds of the lower body. To avoid failure caused by the heavy dependence between the two hierarchies, a scheme of probabilistic hierarchical detection is presented. Experiments on our datasets containing 200 images photographed by ourselves and 100 other images collected from public datasets show that our approach can accurately segment human body in static images with a variety of poses, backgrounds and clothing. Segmenting the human body in static image based on deformable torso and upper leg models at two-scale superpixel.",
+    "citation_count": 22,
+    "year": "2012/11",
+    "authors": [
+        {
+            "name": "Li, Shifeng",
+            "country": "China"
+        },
+        {
+            "name": "Lu, Hu-Chuan",
+            "country": "China"
+        },
+        {
+            "name": "Ruan, Xiang",
+            "country": "Japan"
+        },
+        {
+            "name": "Chen, Yen-Wei",
+            "country": "Japan"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

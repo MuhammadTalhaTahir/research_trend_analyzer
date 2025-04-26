@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-009-9174-6",
+    "title": "Cross-covariances and localization for EnKF in multiphase flow data assimilation",
+    "abstract": "The ensemble Kalman filter has been successfully applied for data assimilation in very large models, including those in reservoir simulation and weather. Two problems become critical in a standard implementation of the ensemble Kalman filter, however, when the ensemble size is small. The first is that the ensemble approximation to cross-covariances of model and state variables to data can indicate the presence of correlations that are not real. These spurious correlations give rise to model or state variable updates in regions that should not be updated. The second problem is that the number of degrees of freedom in the ensemble is only as large as the size of the ensemble, so the assimilation of large amounts of precise, independent data is impossible. Localization of the Kalman gain is almost universal in the weather community, but applications of localization for the ensemble Kalman filter in porous media flow have been somewhat rare. It has been shown, however, that localization of updates to regions of non-zero sensitivity or regions of non-zero cross-covariance improves the performance of the EnKF when the ensemble size is small. Localization is necessary for assimilation of large amounts of independent data. The problem is to define appropriate localization functions for different types of data and different types of variables. We show that the knowledge of sensitivity alone is not sufficient for determination of the region of localization. The region depends also on the prior covariance for model variables and on the past history of data assimilation. Although the goal is to choose localization functions that are large enough to include the true region of non-zero cross-covariance, for EnKF applications, the choice of localization function needs to balance the harm done by spurious covariance resulting from small ensembles and the harm done by excluding real correlations. In this paper, we focus on the distance-based localization and provide insights for choosing suitable localization functions for data assimilation in multiphase flow problems. In practice, we conclude that it is reasonable to choose localization functions based on well patterns, that localization function should be larger than regions of non-zero sensitivity and should extend beyond a single well pattern.",
+    "citation_count": 25,
+    "year": "2010/09",
+    "authors": [
+        {
+            "name": "Chen, Yan",
+            "country": "USA"
+        },
+        {
+            "name": "Oliver, Dean S.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

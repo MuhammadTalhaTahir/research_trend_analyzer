@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-012-9487-6",
+    "title": "L(d,1)-labelings of the edge-path-replacement of a graph",
+    "abstract": "For two positive integers j and k with j≥k, an L(j,k)-labeling of a graph G is an assignment of nonnegative integers to V(G) such that the difference between labels of adjacent vertices is at least j, and the difference between labels of vertices that are distance two apart is at least k. The span of an L(j,k)-labeling of a graph G is the difference between the maximum and minimum integers used by it. The L(j,k)-labelings-number of G is the minimum span over all L(j,k)-labelings of G. This paper focuses on L(d,1)-labelings-number of the edge-path-replacement G(P k ) of a graph G. Note that G(P 3) is the incidence graph of G. L(d,1)-labelings of the edge-path-replacement G(P k ) of a graph, called (d,1)-total labeling of G, was introduced in 2002 by Havet and Yu (Workshop graphs and algorithms, 2003; Discrete Math 308:493–513, 2008). Havet and Yu (Discrete Math 308:498–513, 2008) obtained the bound $\\Delta+ d-1\\leq\\lambda^{T}_{d}(G)\\leq2\\Delta+ d-1$ and conjectured $\\lambda^{T}_{d}(G)\\leq\\Delta+2d-1$ . In (Lü in J Comb Optim, to appear; Zhejiang University, submitted), we worked on L(2,1)-labelings-number and L(1,1)-labelings-number of the edge-path-replacement G(P k ) of a graph G, and obtained that λ(G(P k ))≤Δ+2 for k≥5, and conjecture λ(G(P 4))≤Δ+2 for any graph G with maximum degree Δ. In this paper, we will study L(d,1)-labelings-number of the edge-path-replacement G(P k ) of a graph G for d≥3 and k≥4.",
+    "citation_count": 23,
+    "year": "2013/11",
+    "authors": [
+        {
+            "name": "Lü, Damei",
+            "country": "P.R. China"
+        },
+        {
+            "name": "Lin, Nianfeng",
+            "country": "P.R. China"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

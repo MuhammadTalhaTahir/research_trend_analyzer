@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650223000317",
+    "title": "Regional-modal optimization problems and corresponding normal search particle swarm optimization algorithm",
+    "abstract": "Motivated by the limit state curve (LSC) finding problem in reliability analysis, a new category of optimization problems referred to as the regional-modal optimization problems (RMOPs) was investigated in this paper. The most distinguishing feature of RMOPs is the continuity of its solutions. Existing optimization methods are not capable of capturing this feature and thus cannot produce acceptable results for RMOPs. Therefore, based on niching  PSO  a normal search particle swarm optimization (NSPSO) algorithm that can provide discrete optimal solutions for a continuous optimal region with arbitrary pre-specified density was developed. NSPSO is consisting of a normal search pattern and a multi-strategy fusion. Normal searching is the core of NSPSO, in which each particle is guided by the normal vector of the region composed of its several best neighborhoods. Normal searching prevents the particles from clustering and thus provide a basis for the solution diversity. Further, a multi-strategy framework with three components was introduced to improve the performance of NSPSO. It includes a dynamic particle repulsion strategy that improve the solution diversity, a particle memory strategy to prevent local optimum, and an elite breeding strategy that was developed to increase the efficiency of the method. This framework gives NSPSO the ability to maintain the balance between exploitation and exploration and thereby to realize the uniform distribution and high coverage and diversity of the algorithm. Furthermore, the key parameters involved in NSPSO were analyzed thoroughly. The NSPSO is compared with ten state-of-the-art multi-mode optimization algorithms in terms of twenty typical test functions with different properties that were constructed in this study. The experimental results demonstrate the superiority of our proposed algorithm over the state-of-the-art algorithms in solving RMOPs.",
+    "citation_count": "9",
+    "year": "2023/04/01",
+    "authors": [
+        {
+            "name": "Yi-li Yuan",
+            "country": ""
+        },
+        {
+            "name": "Chang-ming Hu",
+            "country": ""
+        },
+        {
+            "name": "Liang Li",
+            "country": ""
+        },
+        {
+            "name": "Yuan Mei",
+            "country": ""
+        },
+        {
+            "name": "Xue-yan Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

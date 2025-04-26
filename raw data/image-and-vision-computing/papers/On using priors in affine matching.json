@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885604000605",
+    "title": "On using priors in affine matching",
+    "abstract": "In this paper, we consider the  generative model  for affine transformations on  point sets  and show how a  priori information  on the noise and the transformation can be incorporated into the model resulting in more accurate algorithms. While invariants have been widely used, the existing literature fails to fully account for the uncertainties introduced by both noise and the transformation. We show how using such priors leads to algorithms for  Bayesian estimation  and a probabilistic interpretation of invariants which addresses the limitations of current methods. We present synthetic and real results for object recognition, image registration and determining object  planarity  to demonstrate the power of using priors for image comparison.",
+    "citation_count": "7",
+    "year": "2004/12/01",
+    "authors": [
+        {
+            "name": "Venu Madhav Govindu",
+            "country": ""
+        },
+        {
+            "name": "Michael Werman",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

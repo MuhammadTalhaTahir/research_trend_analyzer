@@ -1,0 +1,42 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885614001401",
+    "title": "The effects of temperature variation on videometric measurement and a compensation method",
+    "abstract": "When a videometric system operates over a long period, temperature variations in the camera and its environment will affect the measurement results, which cannot be ignored. How to eliminate or compensate for the effects of such variations in temperature is an emergent problem. Starting with the image drift phenomenon, this paper presents an image-drift model that analyzes the relationship between variations in the camera parameters and drift in the coordinates of the image. A simplified model is then introduced by analyzing the coupling relationships among the variations in the camera parameters. Furthermore, a model of the relationship between the camera parameters and temperature variations is established with the system identification method. Finally, several compensation experiments on image drift are carried out, using the parameter–temperature relationship model calibrated with one arbitrary data set to compensate the others. The analyses and experiments demonstrate the feasibility and efficiency of the proposed method.",
+    "citation_count": "31",
+    "year": "2014/12/01",
+    "authors": [
+        {
+            "name": "Qifeng Yu",
+            "country": ""
+        },
+        {
+            "name": "Zhichao Chao",
+            "country": ""
+        },
+        {
+            "name": "Guangwen Jiang",
+            "country": ""
+        },
+        {
+            "name": "Yang Shang",
+            "country": ""
+        },
+        {
+            "name": "Sihua Fu",
+            "country": ""
+        },
+        {
+            "name": "Xiaolin Liu",
+            "country": ""
+        },
+        {
+            "name": "Xianwei Zhu",
+            "country": ""
+        },
+        {
+            "name": "Haibo Liu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

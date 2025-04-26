@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650224002657",
+    "title": "Coevolutionary multitasking for constrained multiobjective optimization",
+    "abstract": "Addressing the challenges of constrained multiobjective optimization problems (CMOPs) with evolutionary algorithms requires balancing constraint satisfaction and optimization objectives. Coevolutionary multitasking (CEMT) offers a promising strategy by leveraging synergies from distinct, complementary tasks. The primary challenge in CEMT frameworks is constructing suitable auxiliary tasks that effectively complement the main CMOP task. In this paper, we propose an adaptive CEMT framework (ACEMT), which customizes two adaptive auxiliary tasks to enhance CMOP-solving efficiency. The first auxiliary task dynamically narrows constraint boundaries, facilitating exploration in regions with smaller feasible spaces. The second task focuses specifically on individual constraints, continuously adapting to expedite convergence and uncover optimal regions. In solving the main CMOP task, this dual-auxiliary-task strategy not only improves search thoroughness but also clarifies the balance between constraints and objectives. Concretely, ACEMT incorporates an adaptive constraint relaxation technique for the first auxiliary task and a specialized constraint selection strategy for the second. These innovations foster effective knowledge transfer and task synergy, addressing the key challenge of auxiliary task construction in CEMT frameworks. Extensive experiments on three benchmark suites and real-world applications demonstrate ACEMT’s superior performance compared to state-of-the-art constrained evolutionary algorithms. ACEMT sets a new standard in CMOP-solving by strategically constructing and adapting auxiliary tasks, representing a significant advancement in this research direction.",
+    "citation_count": "2",
+    "year": "2024/12/01",
+    "authors": [
+        {
+            "name": "Songbai Liu",
+            "country": ""
+        },
+        {
+            "name": "Zeyi Wang",
+            "country": ""
+        },
+        {
+            "name": "Qiuzhen Lin",
+            "country": ""
+        },
+        {
+            "name": "Jianyong Chen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

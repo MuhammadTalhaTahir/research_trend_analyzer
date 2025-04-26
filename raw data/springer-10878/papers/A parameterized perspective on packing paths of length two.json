@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-009-9230-0",
+    "title": "A parameterized perspective on packing paths of length two",
+    "abstract": "We study (vertex-disjoint) packings of paths of length two (i.e., of P 2’s) in graphs under a parameterized perspective. Starting from a maximal P 2-packing ℘ of size j we use extremal combinatorial arguments for determining how many vertices of ℘ appear in some P 2-packing of size (j+1) (if such a packing exists). We prove that one can ‘reuse’ 2.5j vertices. We also show that this bound is asymptotically sharp. Based on a WIN-WIN approach, we build an algorithm which decides, given a graph, if a P 2-packing of size at least k exists in time $\\mathcal{O}^{*}(2.448^{3k})$ .",
+    "citation_count": 31,
+    "year": "2009/11",
+    "authors": [
+        {
+            "name": "Fernau, Henning",
+            "country": "Germany"
+        },
+        {
+            "name": "Raible, Daniel",
+            "country": "Germany"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

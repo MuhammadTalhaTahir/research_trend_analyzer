@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-014-9442-y",
+    "title": "Three-dimensional viscoelastic finite-difference code and modelling of basement focusing effects on ground motion characteristics",
+    "abstract": "This paper consists of two parts. The first part of the paper is concerned with developing a 3D staggered grid time-domain finite-difference (FD) code with fourth-order spatial accuracy for simulating the responses of viscoelastic geological models with a continuous variable grid size in all the directions. The 3D FD code is written in Fortran 90. In the developed code, the realistic damping in the time-domain simulation is incorporated based on the generalized Maxwell body rheological model proposed by Emmerich and Korn (GMB-EK) Geophysics 52,1252–1264, 1987 with improvements made by Kristeck and Moczo Bull Seism Soc Am 93, 2273–2280, 2003. The accuracy of implementation of the realistic damping is validated by comparing the numerically computed phase velocity, quality factors and spatial spectral damping with the same based on GMB-EK model and Futterman’s relations. It is also concluded that the grid spacing ratio up to 5.0 can be used unharmed. The second part of the paper presents the application of the developed code to simulate the basement focusing effects on ground motion characteristics in an unbounded medium. The combined effects of sediment damping and the focusing caused by the hemi-spherical (HS) and hemi-cylindrical (HC) synclinal basement topography (SBT) on the ground motion characteristics are studied. The simulated responses and the computed snapshots revealed the SBT focusing and defocusing phenomenon, intense mode conversion and diffractions of the incident waves. A good match of the spectral amplifications caused by the HS and HC basement topography models at their focus with the same computed analytically also reveals the accuracy of the developed FD code. The response of elastic HS and HC basement topography models revealed an increase of spectral amplification with an increase of frequency. Further, an increase of rate of frequency-dependent amplification towards the focus was inferred. The average spectral amplification (ASA) caused by the elastic HS basement topography model at the focus is more than the square of the same caused by the elastic HC basement topography model, and this ratio of ASA is increasing with an increase of sediment damping.",
+    "citation_count": 53,
+    "year": "2014/12",
+    "authors": [
+        {
+            "name": "Narayan, J. P.",
+            "country": "India"
+        },
+        {
+            "name": "Sahar, D.",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

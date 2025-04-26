@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885621000147",
+    "title": "A survey of iris datasets",
+    "abstract": "Research on human eye image processing and iris recognition has grown steadily over the last few decades. It is important for researchers interested in this discipline to know the relevant datasets in this area to (i) be able to compare their results and (ii) speed up their research using existing datasets rather than creating custom datasets. In this paper, we provide a comprehensive overview of the existing publicly available datasets and their popularity in the research community using a bibliometric approach. We reviewed 158 different iris datasets referenced from the 689 most relevant research articles indexed by the  Web of Science  online library. We categorized the datasets and described the properties important for performing relevant research. We provide an overview of the databases per category to help investigators conducting research in the domain of iris recognition to identify relevant datasets.",
+    "citation_count": "0",
+    "year": "2021/04/01",
+    "authors": [
+        {
+            "name": "Lubos Omelina",
+            "country": ""
+        },
+        {
+            "name": "Jozef Goga",
+            "country": ""
+        },
+        {
+            "name": "Jarmila Pavlovicova",
+            "country": ""
+        },
+        {
+            "name": "Milos Oravec",
+            "country": ""
+        },
+        {
+            "name": "Bart Jansen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

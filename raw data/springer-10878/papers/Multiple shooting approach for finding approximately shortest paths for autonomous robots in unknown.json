@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-024-01148-4",
+    "title": "Multiple shooting approach for finding approximately shortest paths for autonomous robots in unknown environments in 2D",
+    "abstract": "An autonomous robot with a limited vision range finds a path to the goal in an unknown environment in 2D avoiding polygonal obstacles. In the process of discovering the environmental map, the robot has to return to some positions marked previously, the regions where the robot traverses to reach that position are defined as sequences of bundles of line segments. This paper presents a novel algorithm for finding approximately shortest paths along the sequences of bundles of line segments based on the method of multiple shooting. Three factors of the approach including bundle partition, collinear condition, and update of shooting points are presented. We then show that if the collinear condition holds, the exact shortest path of the problem is determined, otherwise, the sequence lengths of paths obtained by the update of the method converges. The algorithm is implemented in Python and some numerical examples show that the running time of path-planing for autonomous robots using our method is faster than that using the rubber band technique of Li and Klette in Euclidean Shortest Paths, Springer, 53–89 (2011).",
+    "citation_count": 23,
+    "year": "2024/07",
+    "authors": [
+        {
+            "name": "An, Phan Thanh",
+            "country": "Vietnam"
+        },
+        {
+            "name": "Le, Nguyen Thi",
+            "country": "Vietnam"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762116300236",
+    "title": "A comprehensive reconfigurable computing approach to memory wall problem of large graph computation",
+    "abstract": "Graph computation problems that exhibit irregular  memory access patterns  are known to show poor performance on  multiprocessor  architectures. Although recent studies use  FPGA technology  to tackle the memory wall problem of graph computation by adopting a massively multi-threaded architecture, the performance is still far less than optimal memory performance due to the long  memory access latency . In this paper, we propose a comprehensive  reconfigurable computing  approach to address the memory wall problem. First, we present an extended edge-streaming model with massive partitions to provide better  load balance  while taking advantage of the streaming bandwidth of external memory in processing large graphs. Second, we propose a two-level shuffle network architecture to significantly reduce the on-chip memory requirement while provide high processing throughput that matches the bandwidth of the external memory. Third, we introduce a compact storage design based on graph  compression schemes  and propose the corresponding encoding and decoding hardware to reduce the data volume transferred between the processing engines and external memory. We validate the effectiveness of the proposed architecture by implementing three frequently-used  graph algorithms  on ML605 board, showing an up to 3.85 × improvement in terms of performance to bandwidth ratio over previously published FPGA-based implementations.",
+    "citation_count": "3",
+    "year": "2016/10/01",
+    "authors": [
+        {
+            "name": "Xu Wang",
+            "country": ""
+        },
+        {
+            "name": "Yongxin Zhu",
+            "country": ""
+        },
+        {
+            "name": "Linan Huang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

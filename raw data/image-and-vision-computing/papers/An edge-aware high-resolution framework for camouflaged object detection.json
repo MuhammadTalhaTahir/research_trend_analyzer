@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885625000757",
+    "title": "An edge-aware high-resolution framework for camouflaged object detection",
+    "abstract": "Camouflaged objects are often seamlessly assimilated into their surroundings and exhibit indistinct boundaries. The complex environmental conditions and the high intrinsic similarity between camouflaged targets and their backgrounds present significant challenges in accurately locating and fully segmenting these objects. Although existing methods have achieved remarkable performance across various real-world scenarios, they still struggle with challenging cases such as small targets, thin structures, and blurred boundaries. To address these issues, we propose a novel edge-aware high-resolution network. Specifically, we design a High-Resolution Feature Enhancement Module to exploit multi-scale features while preserving local details. Furthermore, we introduce an Edge Prediction Module to generate high-quality edge prediction maps. Subsequently, we develop an Attention-Guided Fusion Module to effectively leverage the edge prediction maps. With these key modules, the proposed model achieves real-time performance at 58 FPS and surpasses 21 state-of-the-art algorithms across six standard evaluation metrics. Source code will be publicly available at  https://github.com/clelouch/EHNet .",
+    "citation_count": "0",
+    "year": "2025/05/01",
+    "authors": [
+        {
+            "name": "Jingyuan Ma",
+            "country": ""
+        },
+        {
+            "name": "Tianyou Chen",
+            "country": ""
+        },
+        {
+            "name": "Jin Xiao",
+            "country": ""
+        },
+        {
+            "name": "Xiaoguang Hu",
+            "country": ""
+        },
+        {
+            "name": "Yingxun Wang",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

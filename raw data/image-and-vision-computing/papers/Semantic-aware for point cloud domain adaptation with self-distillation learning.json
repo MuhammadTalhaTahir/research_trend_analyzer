@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885625000186",
+    "title": "Semantic-aware for point cloud domain adaptation with self-distillation learning",
+    "abstract": "Unsupervised domain adaptation aims to apply knowledge gained from a label-rich domain, i.e., the source domain, to a label-scare domain, i.e., the target domain. However, direct alignment between the source and the target domains is challenging due to significant distribution differences. This paper introduces a novel unsupervised domain adaptation method for 3D point clouds. Specifically, to better learn the pattern of the target domain, we propose a self-distillation framework that effectively learns feature representations in a large-scale unlabeled target domain while enhancing resilience to noise and variations. Moreover, we propose Asymmetric Transferable Semantic Augmentation (AsymTSA) to bridge the gaps between theory and practical issues by extending the multivariate normal distribution assumption to multivariate skew-normal distribution, and progressively learning the semantic information in the target domain. Comprehensive experiments conducted on two benchmarks, PointDA-10, and GraspNetPC-10, and the results demonstrate the effectiveness and superiority of our method.",
+    "citation_count": "0",
+    "year": "2025/02/01",
+    "authors": [
+        {
+            "name": "Jiming Yang",
+            "country": ""
+        },
+        {
+            "name": "Feipeng Da",
+            "country": ""
+        },
+        {
+            "name": "Ru Hong",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

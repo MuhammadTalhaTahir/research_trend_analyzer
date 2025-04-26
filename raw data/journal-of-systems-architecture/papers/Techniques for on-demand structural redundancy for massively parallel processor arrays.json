@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762115001186",
+    "title": "Techniques for on-demand structural redundancy for massively parallel processor arrays",
+    "abstract": "In this paper, we present techniques for providing on-demand  structural redundancy  for Coarse-Grained Reconfigurable Array (CGRAs) and a calculus for determining the gains of reliability when applying these replication techniques from the perspective of safety-critical parallel loop program applications. Here, for protecting massively parallel loop computations against errors like soft errors, well-known replication schemes such as Dual Modular Redundancy (DMR) and Triple Modular Redundancy (TMR) must be applied to each single Processor Element (PE) rather than one based on application requirements for reliability and Soft Error Rates (SERs). Moreover, different voting options and signal replication schemes are investigated. It will be shown that hardware voting may be accomplished at negligible  hardware cost , i. e. less than two percent area overhead per PE, for a class of reconfigurable processor arrays called Tightly Coupled Processor Arrays (TCPAs). As a major contribution of this paper, a formal analysis of the reliability achievable by each combination of replication and voting scheme for parallel loop executions on CGRAs in dependence of a given SER and application timing characteristics (schedule) is elaborated. Using this analysis,  error detection  latencies may be computed and proper decisions which replication scheme to choose at runtime to guarantee a maximal probability of failure on-demand can be derived. Finally, fault-simulation results are provided and compared with the formal analysis of reliability.",
+    "citation_count": "5",
+    "year": "2015/11/01",
+    "authors": [
+        {
+            "name": "Vahid Lari",
+            "country": ""
+        },
+        {
+            "name": "Jürgen Teich",
+            "country": ""
+        },
+        {
+            "name": "Alexandru Tanase",
+            "country": ""
+        },
+        {
+            "name": "Michael Witterauf",
+            "country": ""
+        },
+        {
+            "name": "Faramarz Khosravi",
+            "country": ""
+        },
+        {
+            "name": "Brett H. Meyer",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

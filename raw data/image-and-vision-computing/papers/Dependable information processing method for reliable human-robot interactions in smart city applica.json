@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885620301773",
+    "title": "Dependable information processing method for reliable human-robot interactions in smart city applications",
+    "abstract": "Human-robot interaction (HRI) is a multidisciplinary area that consists of several technologies that are used to create various  smart city applications . The knowledge gain and analysis of the smart city environment improves  response time . This paper introduces the dependable  information processing  (DIP) method for handling multi-attribute environmental information in a smart city application. Information sensed from the environment is categorized in the initial stage regarding how it meets application requirements. It helps to identify the need and response of the application through different interacting spans and previous trials. For attribute categorization and span validation, learning via K-means clustering is exploited to identify similar and dissimilar information attributes. This identification speeds up the process of successive responses with improved interaction sessions. The accuracy of user responses and latency-free assessment improves the reliability of DIP in smart city applications. The efficiency of the system is then evaluated using detection accuracy (97.34%), the response time (4.3 s), and interaction time (12.3 s), which is compared with other methods.",
+    "citation_count": "5",
+    "year": "2020/12/01",
+    "authors": [
+        {
+            "name": "Zafer Al-Makhadmeh",
+            "country": ""
+        },
+        {
+            "name": "Amr Tolba",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

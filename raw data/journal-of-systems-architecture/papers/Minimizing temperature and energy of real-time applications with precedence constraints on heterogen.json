@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762119300281",
+    "title": "Minimizing temperature and energy of real-time applications with precedence constraints on heterogeneous MPSoC systems",
+    "abstract": "The energy issue of real-time applications with precedence-constrained tasks on  heterogeneous systems  has been studied recently. With the strikingly increasing power density due to the soaring system integration level, severe thermal issues arise which can in turn further aggravate the energy issues due to the strong temperature/leakage dependency. Any optimization should be insufficient if such dependency is not properly addressed. However, the state-of-the-art approaches either treat leakage power as a constant, or only adopt the  dynamic power consumption  as the heuristic metric to conduct the optimization, both of which cannot fully explore the optimization room for the two issues. To this end, we design an energy/thermal aware  task scheduling  approach by taking both the thermal and energy factors into consideration. The optimization is conducted from two aspects: first balance the energy/thermal loads of processors by assigning tasks in an energy/thermal aware heuristic way, and that of tasks by the deduced task-level deadlines; then reduce the waiting time between parallel tasks that share the same successor task. Extensive experiments conducted on real-world applications show that, the proposed approach can reduce more temperature by up to about 12 ∘ C (depending on the specific application and related parameters) while keeping a competitive energy consumption compared with the state-of-the-arts.",
+    "citation_count": "25",
+    "year": "2019/09/01",
+    "authors": [
+        {
+            "name": "Tiantian Li",
+            "country": ""
+        },
+        {
+            "name": "Tianyu Zhang",
+            "country": ""
+        },
+        {
+            "name": "Ge Yu",
+            "country": ""
+        },
+        {
+            "name": "Jie Song",
+            "country": ""
+        },
+        {
+            "name": "Jing Fan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

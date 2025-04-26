@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885622000269",
+    "title": "Batch feature standardization network with triplet loss for weakly-supervised video anomaly detection",
+    "abstract": "Video  anomaly detection  refers to  detecting anomalies  automatically without manual labor, which is of great significance to intelligent security. With the emergence of weakly-supervised learning, the performance of video anomaly detection has been greatly advanced. However, the abnormal frames and their adjacent normal frames often make slight differences, increasing the difficulty and complexity of video anomaly detection. To address this problem, we propose a batch feature standardization module using a special standardization approach to facilitate the identification of obscure abnormal events. Meanwhile, we propose a novel strategy to refine the anomaly degree to classify the anomalous videos into two categories, i.e., weak anomalies and strong anomalies. Then the triplet loss is utilized to further improve the  discriminative power  of the model. Extensive experiments results demonstrate that our method works well on two benchmark datasets, and obtains a frame-level AUC 97.65% on ShanghaiTech and 84.29% on UCF-Crime, achieving comparable performance with the recent state-of-the-art methods.",
+    "citation_count": "16",
+    "year": "2022/04/01",
+    "authors": [
+        {
+            "name": "Shuhan Yi",
+            "country": ""
+        },
+        {
+            "name": "Zheyi Fan",
+            "country": ""
+        },
+        {
+            "name": "Di Wu",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-015-0485-z",
+    "title": "Proximal gradient method for huberized support vector machine",
+    "abstract": "The support vector machine (SVM) has been used in a wide variety of classification problems. The original SVM uses the hinge loss function, which is non-differentiable and makes the problem difficult to solve in particular for regularized SVMs, such as with $$\\ell _1$$ -regularization. This paper considers the Huberized SVM (HSVM), which uses a differentiable approximation of the hinge loss function. We first explore the use of the proximal gradient (PG) method to solving binary-class HSVM (B-HSVM) and then generalize it to multi-class HSVM (M-HSVM). Under strong convexity assumptions, we show that our algorithm converges linearly. In addition, we give a finite convergence result about the support of the solution, based on which we further accelerate the algorithm by a two-stage method. We present extensive numerical experiments on both synthetic and real datasets which demonstrate the superiority of our methods over some state-of-the-art methods for both binary- and multi-class SVMs.",
+    "citation_count": 52,
+    "year": "2016/11",
+    "authors": [
+        {
+            "name": "Xu, Yangyang",
+            "country": "USA"
+        },
+        {
+            "name": "Akrotirianakis, Ioannis",
+            "country": "USA"
+        },
+        {
+            "name": "Chakraborty, Amit",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

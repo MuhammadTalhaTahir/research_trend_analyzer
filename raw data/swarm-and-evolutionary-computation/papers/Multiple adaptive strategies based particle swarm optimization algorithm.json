@@ -1,0 +1,42 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650220303849",
+    "title": "Multiple adaptive strategies based particle swarm optimization algorithm",
+    "abstract": "Although  particle swarm optimization  algorithm (PSO) has displayed promising performance on many optimization problems, how to balance contradictions between the exploration and the exploitation and rationally allocate computational resource are two crucial problems need to be dealt with in PSO study. In this paper, a PSO variant based on multiple adaptive strategies (MAPSO) is proposed. To efficiently maintain the population diversity, the entire population is split into multiple swarms, which can be regrouped during the evolutionary process. In each generation, different particles in a swarm adaptively select their learning exemplars (ALE) according to the performance of the particles. Thus, different particles in the same swarm can perform distinct search behaviors in each generation, as well as the same particle can conduct various search behaviors in different generations. In addition, aiming to rationally utilize computational resource, an adaptive strategy for  population size  (APS) is introduced. In APS, the population can adaptively delete unfavorable particles and add promising particles during the evolutionary process. Extensive experiments based on CEC2013 and CEC2017 test suites verify the superior performance of the multiple adaptive strategies on balancing the exploration and exploitation abilities. Furthermore, the performance of the newly introduced strategies is also testified by a set of experiments.",
+    "citation_count": "103",
+    "year": "2020/09/01",
+    "authors": [
+        {
+            "name": "Bo Wei",
+            "country": ""
+        },
+        {
+            "name": "Xuewen Xia",
+            "country": ""
+        },
+        {
+            "name": "Fei Yu",
+            "country": ""
+        },
+        {
+            "name": "Yinglong Zhang",
+            "country": ""
+        },
+        {
+            "name": "Xing Xu",
+            "country": ""
+        },
+        {
+            "name": "Hongrun Wu",
+            "country": ""
+        },
+        {
+            "name": "Ling Gui",
+            "country": ""
+        },
+        {
+            "name": "Guoliang He",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

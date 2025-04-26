@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650221001061",
+    "title": "Genetic programming with local search to evolve priority rules for scheduling jobs on a machine with time-varying capacity",
+    "abstract": "Priority rules combined with schedule generation schemes are a usual approach to online scheduling. These rules are commonly designed by experts on the problem domain. However, some automatic method may be better as it could capture some characteristics of the problem that are not evident to the human eye. Furthermore, automatic methods could devise priority rules adapted to particular sets of instances of the problem at hand. In this paper we propose a  Memetic Algorithm , which combines a Genetic Program and a  Local Search algorithm , to evolve priority rules for the problem of scheduling a set of jobs on a machine with time-varying capacity. We propose a number of neighbourhood structures that are specifically designed to this problem. These structures were analyzed theoretically and also experimentally on the version of the problem with tardiness minimization, which provided interesting insights on this problem. The results of the experimental study show that a proper selection and combination of neighbourhood structures allows the Memetic Algorithm to outperform previous approaches to the same problem.",
+    "citation_count": "38",
+    "year": "2021/10/01",
+    "authors": [
+        {
+            "name": "Francisco J. Gil-Gala",
+            "country": ""
+        },
+        {
+            "name": "María R. Sierra",
+            "country": ""
+        },
+        {
+            "name": "Carlos Mencía",
+            "country": ""
+        },
+        {
+            "name": "Ramiro Varela",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

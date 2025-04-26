@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762125000359",
+    "title": "Privacy-preserving multidimensional data aggregation for diverse electricity data users",
+    "abstract": "The smart grid enables the bidirectional flow of electricity and data, but during multidimensional electricity consumption data reporting, Smart Meters (SMs) may compromise users’ privacy by disclosing detailed electricity consumption data from various devices. Additionally, in addressing the needs of diverse electricity Data Users (DUs), it is essential to protect their legal rights. Consequently, it is necessary to implement dimension-level access control for multidimensional aggregated data. However, existing Multidimensional Data Aggregation (MDA) schemes often fail to provide efficient dimension-level access control while safeguarding users’ privacy. To address these problems, this paper establishes a smart grid model based on fog computing and introduces a privacy-preserving MDA scheme with dimension-level access control. Specifically, our scheme utilizes the threshold Paillier cryptosystem and the Chinese Remainder Theorem (CRT) to securely aggregate users’ multidimensional data. Meanwhile, our scheme employs digital signatures to ensure data integrity and implements Key-Policy Attribute-Based Encryption (KP-ABE) to enforce dimension-level access control. Comprehensive theoretical analysis indicates our scheme satisfies privacy, integrity, and authentication. Extensive experimental results demonstrate our scheme achieves a trade-off between dimension level access control and system overhead.",
+    "citation_count": "0",
+    "year": "2025/04/01",
+    "authors": [
+        {
+            "name": "Huadong Liu",
+            "country": ""
+        },
+        {
+            "name": "Yuanxing Peng",
+            "country": ""
+        },
+        {
+            "name": "Yining Liu",
+            "country": ""
+        },
+        {
+            "name": "Zhixin Zeng",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885622002360",
+    "title": "Dual-level contrastive learning for unsupervised person re-identification",
+    "abstract": "Unsupervised person re-identification (re-ID) has drawn increasing attention in the community because it is more data-friendly when applied in the real world. Most existing works leverage instance discrimination learning to guide the model to learn image features for person matching. However, the instance discrimination may cause unexpected repulsion among similar samples, which makes the unsupervised feature learning unstable. To address this problem, we propose a dual-level contrastive learning (DLCL) framework to mine both the intra-instance and inter-instance similarities. The DLCL framework consists of two tasks: instance-instance contrastive learning (IICL) and instance-community contrastive learning (ICCL). The IICL aims to mine the intra-instance similarity via pulling an original sample and its augmented versions closer and pushing different instances away. The ICCL is proposed to capture the inter-instance similarity by attracting similar instances to the same sample community, which can reduce the unexpected repulsion brought by instance discrimination. The combination of IICL and ICCL can enable the model to learn more robust and discriminative image features. Extensive experimental results on Market-1501 and DukeMTMC-reID indicate the effectiveness of our method for unsupervised person re-ID.",
+    "citation_count": "7",
+    "year": "2023/01/01",
+    "authors": [
+        {
+            "name": "Yu Zhao",
+            "country": ""
+        },
+        {
+            "name": "Qiaoyuan Shu",
+            "country": ""
+        },
+        {
+            "name": "Xi Shi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

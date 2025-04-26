@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650211000733",
+    "title": "A swarm intelligence approach to the early/tardy scheduling problem",
+    "abstract": "This paper describes an application of artificial bee colony (ABC) algorithm, which is a new swarm intelligence approach, for a version of the single machine early/tardy scheduling problem where no unforced machine idle time is allowed. A local search is used inside the ABC algorithm to further improve the schedules obtained through it. A variant of the basic ABC approach is also considered in this paper where the best solution obtained through ABC algorithm is improved further via an exhaustive local search. We have compared these two approaches with 16 heuristic approaches reported in the literature on existing set of benchmark instances as well as on some large instances. Computational results show the effectiveness of our approaches.",
+    "citation_count": "36",
+    "year": "2012/06/01",
+    "authors": [
+        {
+            "name": "Shyam Sundar",
+            "country": ""
+        },
+        {
+            "name": "Alok Singh",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

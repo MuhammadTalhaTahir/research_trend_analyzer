@@ -1,0 +1,21 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10878-005-1776-x",
+    "title": "An Improved Approximation Algorithm for Multicast k-Tree Routing",
+    "abstract": "An improved approximation algorithm is presented in this paper for the multicast k-tree routing problem. The algorithm has a worst case performance ratio of (2.4 + ρ), where ρ is the best approximation ratio for the metric Steiner tree problem (and is about 1.55 so far). The previous best approximation algorithm for the multicast k-tree routing problem has a performance ratio of 4. Two techniques, weight averaging and tree partitioning, are developed to facilitate the algorithm design and analysis.",
+    "citation_count": 11,
+    "year": "2005/06",
+    "authors": [
+        {
+            "name": "Lin, Guohui",
+            "country": "Canada"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

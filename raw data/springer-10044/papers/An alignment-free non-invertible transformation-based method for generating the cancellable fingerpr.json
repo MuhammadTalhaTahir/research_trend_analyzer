@@ -1,0 +1,20 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-022-01080-5",
+    "title": "An alignment-free non-invertible transformation-based method for generating the cancellable fingerprint template",
+    "abstract": "Since long time fingerprint has been the most compelling biometric due to its permanence, universality, acceptability, and collectability. However, fingerprint recognition raises some privacy concerns. A stolen fingerprint template from the reference database could be used by an antagonist to gain a unauthorized access of the system. Therefore, the fingerprint needs to be secured from being compromised. In this paper, a non-invertible transformation function-based method for generating the cancellable fingerprint template is proposed. The transformation matrix is governed by the user key which is in the form of a randomly generated binary string. An alignment-free approach is proposed in which the fingerprint template is stored in the form of a polar histogram that contains the information about location of neighbouring minutiae around each detected minutia point. The matching score is obtained by computing the Chi-square distance between two templates. The pre-requisites for being the secured template are satisfied by conducting series of experiments on DB1 and DB2 datasets of FVC2000, FVC2002, FVC2004, and FVC2006 databases. The performance is evaluated in both non-transformed and transformed domains by computing error rates based on the receiver operating characteristic (ROC) of the fingerprint recognition system.",
+    "citation_count": 47,
+    "year": "2022/11",
+    "authors": [
+        {
+            "name": "Agarwal, Diwakar",
+            "country": "India"
+        },
+        {
+            "name": "Bansal, Atul",
+            "country": "India"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

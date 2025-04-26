@@ -1,0 +1,31 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-008-0051-7",
+    "title": "On Throughput Efficiency of Geographic Opportunistic Routing in Multihop Wireless Networks",
+    "abstract": "Geographic opportunistic routing (GOR) has shown throughput efficiency in coping with unreliable transmissions in multihop wireless networks. The basic idea behind opportunistic routing is to take advantage of the broadcast nature and spacial diversity of the wireless medium by involving multiple neighbors of the sender into the local forwarding, thus improve transmission reliability. The existing GOR schemes typically involve as many as available next-hop neighbors into the local forwarding, and give the nodes closer to the destination higher relay priorities. In this paper, we show that it is not always the optimal way to achieve the best throughput. We introduce a framework to analyze the one-hop throughput of GOR, provide a deeper insight into the trade-off between the benefit (packet advancement and transmission reliability) and cost (medium time delay) associated with the node collaboration, and propose a local metric named expected one-hop throughput (EOT) to balance the benefit and cost. We also identify an upper bound of EOT and its concavity, which indicates that even if the candidate coordination delay were negligible, the throughput gain would become marginal when the number of forwarding candidates increases. Based on the EOT, we also propose a local candidate selection and prioritization algorithm. Simulation results validate our analysis and show that the EOT metric leads to both better one-hop and path throughput than the corresponding pure GOR and geographic routing.",
+    "citation_count": 24,
+    "year": "2007/12",
+    "authors": [
+        {
+            "name": "Zeng, Kai",
+            "country": "USA"
+        },
+        {
+            "name": "Lou, Wenjing",
+            "country": "USA"
+        },
+        {
+            "name": "Yang, Jie",
+            "country": "USA"
+        },
+        {
+            "name": "Brown, Donald R.",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

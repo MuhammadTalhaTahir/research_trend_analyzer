@@ -1,0 +1,44 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-023-10259-6",
+    "title": "A 3D organized point cloud clustering algorithm for seismic fault data based on region growth",
+    "abstract": "Traditional classification methods for seismic fault 3D point cloud data rely on fault annotation data. Fault annotation data is usually stored in the data structure of a 3D array, and represented by organized point cloud data. The artificial fault annotation method analyses point data in each 2D slice respectively, without considering the 3D spatial distribution of all points, produces results without clustering and proper continuity in 3D space, and causes inconvenience for subsequent research work, such as calculation of the trend, inclination, and other information of each single fault. This paper presents a very simple but efficient clustering method for seismic fault annotation point cloud data to divide the points into each fault. To provide features as fundaments for this clustering method, we propose a normal direction estimation algorithm for seismic fault point cloud data. Tested by the experiments on synthetic data and field data, our method can divide the points with accuracy, reliability, and adaptability, thus providing a foundation for unified analysis, processing, and calculation for each part of the same fault, and analyzing fault displacement and low sequence faults, moreover, the clustering result could be used to fix 3D continuity of fault annotation data itself.",
+    "citation_count": 62,
+    "year": "2023/12",
+    "authors": [
+        {
+            "name": "Zhao, Lihong",
+            "country": "China"
+        },
+        {
+            "name": "Cai, Minghao",
+            "country": "China"
+        },
+        {
+            "name": "Ding, Renwei",
+            "country": "China"
+        },
+        {
+            "name": "Zhang, Yujie",
+            "country": "China"
+        },
+        {
+            "name": "Zhao, Shuo",
+            "country": "China"
+        },
+        {
+            "name": "Zhang, Jinwei",
+            "country": "China"
+        },
+        {
+            "name": "Yang, Jing",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

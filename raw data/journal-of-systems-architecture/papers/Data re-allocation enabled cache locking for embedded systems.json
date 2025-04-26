@@ -1,0 +1,34 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762116302545",
+    "title": "Data re-allocation enabled cache locking for embedded systems",
+    "abstract": "Cache locking is a cache management technique to preclude the replacement of locked contents. Cache locking methods have been proposed to improve predictability and worst-case  execution time  (WCET) previously. Recently,  instruction cache  locking has also been applied to improve average-case execution time (ACET). However, we observe that the previous ACET-driven  instruction cache  locking technique shows very limited improvement on performance when applied in data cache. The underlying reason lies in that object similarity of data accesses in data memory blocks are relatively low. This paper presents a data re-allocation enabled cache locking framework where data objects are first re-allocated to enhance data object similarity in memory blocks and then a data cache locking is well motivated. In this way, locking efficiency for data cache can be enhanced and thus  system performance  can be improved. The experimental results show that the miss rate, memory access cycles and dynamic energy can obtain good improvements across a suite of benchmarks.",
+    "citation_count": "2",
+    "year": "2017/06/01",
+    "authors": [
+        {
+            "name": "Chun Xue",
+            "country": ""
+        },
+        {
+            "name": "Keni Qiu",
+            "country": ""
+        },
+        {
+            "name": "Weigong Zhang",
+            "country": ""
+        },
+        {
+            "name": "Jing Wang",
+            "country": ""
+        },
+        {
+            "name": "Yuanchao Xu",
+            "country": ""
+        },
+        {
+            "name": "Mengying Zhao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

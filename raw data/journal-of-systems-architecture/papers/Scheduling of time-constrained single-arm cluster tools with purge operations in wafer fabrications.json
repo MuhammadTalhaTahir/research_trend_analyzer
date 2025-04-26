@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762122002739",
+    "title": "Scheduling of time-constrained single-arm cluster tools with purge operations in wafer fabrications",
+    "abstract": "Purge operations are widely used to remove residual chemicals and impurities in chambers of wafer fabrication systems to ensure wafer quality. However, such operations lead to more start-up transient processes and wafer delays. In addition, wafer residency time constraints must be met to ensure the wafer quality. Thus, the system scheduling problem with such considerations will become more complicated. This work aims to optimize the start-up transient process of a single-arm cluster tool with purge operations and wafer residency time constraints by using resource-oriented  Petri net  (ROPN) models. Based on the models, we dynamically depict the behavior of the steady state and start-up transient processes of a single-arm cluster tool with purge operations. Then, a scheduling method that dynamically adjusts the robot waiting time is proposed to find an optimal schedule for such systems with purge operations and wafer residency time constraints. Finally, some examples are tested to illustrate the effectiveness of our method.",
+    "citation_count": "3",
+    "year": "2023/01/01",
+    "authors": [
+        {
+            "name": "Fenglian Yuan",
+            "country": ""
+        },
+        {
+            "name": "Qingling Zhao",
+            "country": ""
+        },
+        {
+            "name": "Bo Huang",
+            "country": ""
+        },
+        {
+            "name": "Chunrong Pan",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

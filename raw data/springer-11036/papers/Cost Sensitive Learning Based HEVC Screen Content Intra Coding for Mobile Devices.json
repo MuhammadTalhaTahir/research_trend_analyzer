@@ -1,0 +1,23 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-020-01594-4",
+    "title": "Cost Sensitive Learning Based HEVC Screen Content Intra Coding for Mobile Devices",
+    "abstract": "The distinguished features of screen contents lead to the development of the Screen Content Coding (SCC) extension of High Efficiency Video Coding (HEVC). Intra coding of HEVC-SCC has to evaluate traditional HEVC intra coding modes and additional modes for screen contents, which poses a challenge for coding such a content on mobile devices. Furthermore, the heterogeneous mobile devices have varying complexity requirements. In this paper, a flexible screen content intra coding scheme is proposed, which can trade between encoding complexity and rate-distortion performance degradation via cost sensitive learning. Taking the cost of different decisions into account, binary classifiers are designed to determine whether a particular kind of coding modes will be evaluated. By adopting the cost-proportionate weighted sampling, the proposed scheme can learn a flexible coding policy offline via reinforcement learning. Experimental results show the effectiveness of the proposed scheme.",
+    "citation_count": 36,
+    "year": "2020/12",
+    "authors": [
+        {
+            "name": "Xu, Yuanyuan",
+            "country": "China"
+        },
+        {
+            "name": "Zhu, Kun",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

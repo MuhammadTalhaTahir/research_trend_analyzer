@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650221000730",
+    "title": "A population perturbation and elimination strategy based genetic algorithm for multi-satellite TT&C scheduling problem",
+    "abstract": "The Multi-satellite Tracking  Telemetry  and Command (TT&C) Scheduling, a multi-constrained and high-conflict complex combinatorial optimization problem, is a typical NP-hard problem. The effective utilization of existing TT&C resources has always played a key role in the satellite field. This paper first simplified the problem and established a corresponding mathematical model with the hybrid objective of maximizing the profit and task completion rate. Considering the significant effect of  genetic algorithm  in solving the problem of resource allocation, a population perturbation and elimination strategy based genetic algorithm (GA-PE) which focused on the Multi-Satellite TT&C Scheduling problem was proposed. For each case, a task scheduling sequence was first obtained through the GA-PE algorithm, and then a task planning algorithm will be used to determine which tasks can be scheduled. Compared with several efficient heuristic algorithms, a series of computational experiments have illustrated its better performance in both profit and task completion rates. The experiments of strategy and parameter sensitivity verification have investigated the performance of GA-PE in various aspects thoroughly.",
+    "citation_count": "49",
+    "year": "2021/08/01",
+    "authors": [
+        {
+            "name": "Ming Chen",
+            "country": ""
+        },
+        {
+            "name": "Jun Wen",
+            "country": ""
+        },
+        {
+            "name": "Yan-Jie Song",
+            "country": ""
+        },
+        {
+            "name": "Li-ning Xing",
+            "country": ""
+        },
+        {
+            "name": "Ying-wu Chen",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

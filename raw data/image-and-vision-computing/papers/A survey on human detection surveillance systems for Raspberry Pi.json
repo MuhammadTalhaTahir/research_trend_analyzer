@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885619300198",
+    "title": "A survey on human detection surveillance systems for Raspberry Pi",
+    "abstract": "Building reliable surveillance systems is critical for security and safety. A core component of any surveillance system is the human detection model. With the recent advances in the hardware and embedded devices, it becomes possible to make a real-time human detection system with low cost. This paper surveys different systems and techniques that have been deployed on embedded devices such as Raspberry Pi. The characteristics of datasets, feature extraction techniques, and  machine learning  models are covered. A unified dataset is utilized to compare different systems with respect to accuracy and  performance time . New enhancements are suggested, and future research directions are highlighted.",
+    "citation_count": "37",
+    "year": "2019/05/01",
+    "authors": [
+        {
+            "name": "Ali Farouk Khalifa",
+            "country": ""
+        },
+        {
+            "name": "Eman Badr",
+            "country": ""
+        },
+        {
+            "name": "Hesham N. Elmahdy",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

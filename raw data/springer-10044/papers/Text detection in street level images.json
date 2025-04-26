@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10044-013-0329-7",
+    "title": "Text detection in street level images",
+    "abstract": "Text detection system for natural images is a very challenging task in Computer Vision. Image acquisition introduces distortion in terms of perspective, blurring, illumination, and characters which may have very different shape, size, and color. We introduce in this article a full text detection scheme. Our architecture is based on a new process to combine a hypothesis generation step to get potential boxes of text and a hypothesis validation step to filter false detections. The hypothesis generation process relies on a new efficient segmentation method based on a morphological operator. Regions are then filtered and classified using shape descriptors based on Fourier, Pseudo Zernike moments and an original polar descriptor, which is invariant to rotation. Classification process relies on three SVM classifiers combined in a late fusion scheme. Detected characters are finally grouped to generate our text box hypotheses. Validation step is based on a global SVM classification of the box content using dedicated descriptors adapted from the HOG approach. Results on the well-known ICDAR database are reported showing that our method is competitive. Evaluation protocol and metrics are deeply discussed and results on a very challenging street-level database are also proposed.",
+    "citation_count": 56,
+    "year": "2013/11",
+    "authors": [
+        {
+            "name": "Fabrizio, Jonathan",
+            "country": "France"
+        },
+        {
+            "name": "Marcotegui, Beatriz",
+            "country": "France"
+        },
+        {
+            "name": "Cord, Matthieu",
+            "country": "France"
+        }
+    ],
+    "keywords": [
+        "Pattern Recognition"
+    ]
+}

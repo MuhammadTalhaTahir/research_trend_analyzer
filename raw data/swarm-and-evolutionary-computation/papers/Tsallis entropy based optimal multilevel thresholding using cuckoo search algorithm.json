@@ -1,0 +1,26 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210650213000059",
+    "title": "Tsallis entropy based optimal multilevel thresholding using cuckoo search algorithm",
+    "abstract": "In this paper, optimal thresholds for multi-level thresholding in an image are obtained by maximizing the Tsallis entropy using cuckoo search algorithm. The method is considered as a  constrained optimization problem . The solution is obtained through the convergence of a meta-heuristic search algorithm. The proposed algorithm is tested on standard set of images. The results are then compared with that of bacteria foraging optimization (BFO), artificial bee colony (ABC) algorithm,  particle swarm optimization  (PSO) and  genetic algorithm  (GA). Results are analyzed both qualitatively and quantitatively. It is observed that our results are also encouraging in terms of CPU time and objective function values.",
+    "citation_count": "231",
+    "year": "2013/08/01",
+    "authors": [
+        {
+            "name": "Sanjay Agrawal",
+            "country": ""
+        },
+        {
+            "name": "Rutuparna Panda",
+            "country": ""
+        },
+        {
+            "name": "Sudipta Bhuyan",
+            "country": ""
+        },
+        {
+            "name": "B.K. Panigrahi",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

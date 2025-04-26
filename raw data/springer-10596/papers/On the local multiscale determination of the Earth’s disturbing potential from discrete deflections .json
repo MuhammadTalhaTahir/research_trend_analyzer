@@ -1,0 +1,32 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s10596-008-9086-x",
+    "title": "On the local multiscale determination of the Earth’s disturbing potential from discrete deflections of the vertical",
+    "abstract": "As a first approximation, the Earth is a sphere; as a second approximation, it may be considered an ellipsoid of revolution. The deviations of the actual Earth’s gravity field from the ellipsoidal “normal” field are so small that they can be understood to be linear. The splitting of the Earth’s gravity field into a “normal” and a remaining small “disturbing” field considerably simplifies the problem of its determination. Under the assumption of an ellipsoidal Earth model, high observational accuracy is achievable only if the deviation (deflection of the vertical) of the physical plumb line, to which measurements refer, from the ellipsoidal normal is not ignored. Hence, the determination of the disturbing potential from known deflections of the vertical is a central problem of physical geodesy. In this paper, we propose a new, well-promising method for modelling the disturbing potential locally from the deflections of the vertical. Essential tools are integral formulae on the sphere based on Green’s function with respect to the Beltrami operator. The determination of the disturbing potential from deflections of the vertical is formulated as a multiscale procedure involving scale-dependent regularized versions of the surface gradient of the Green function. The modelling process is based on a multiscale framework by use of locally supported surface curl-free vector wavelets.",
+    "citation_count": 22,
+    "year": "2008/12",
+    "authors": [
+        {
+            "name": "Fehlinger, T.",
+            "country": "Germany"
+        },
+        {
+            "name": "Freeden, W.",
+            "country": "Germany"
+        },
+        {
+            "name": "Mayer, C.",
+            "country": "Germany"
+        },
+        {
+            "name": "Schreiner, M.",
+            "country": "Switzerland"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

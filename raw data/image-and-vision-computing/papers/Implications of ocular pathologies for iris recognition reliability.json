@@ -1,0 +1,22 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885616301251",
+    "title": "Implications of ocular pathologies for iris recognition reliability",
+    "abstract": "This paper presents an analysis of how  iris recognition  is influenced by  eye disease  and an appropriate dataset comprising 2996 images of irises taken from 230 distinct eyes (including 184 affected by more than 20 different eye conditions). The images were collected in near infrared and visible light during routine ophthalmological examination. The experimental study carried out utilizing four independent iris  recognition algorithms  (MIRLIN, VeriEye, OSIRIS and IriCore) renders four valuable results. First, the enrollment process is highly sensitive to those eye conditions that obstruct the iris or cause geometrical distortions. Second, even those conditions that do not produce visible changes to the structure of the iris may increase the dissimilarity between samples of the same eyes. Third, eye conditions affecting the geometry or the tissue structure of the iris or otherwise producing obstructions significantly decrease same-eye similarity and have a lower, yet still statistically significant, influence on impostor comparison scores. Fourth, for unhealthy eyes, the most prominent effect of disease on  iris recognition  is to cause segmentation errors. To our knowledge this paper describes the largest database of  iris images  for disease-affected eyes made publicly available to researchers and offers the most comprehensive study of what we can expect when iris recognition is employed for diseased eyes.",
+    "citation_count": "15",
+    "year": "2017/02/01",
+    "authors": [
+        {
+            "name": "Mateusz Trokielewicz",
+            "country": ""
+        },
+        {
+            "name": "Adam Czajka",
+            "country": ""
+        },
+        {
+            "name": "Piotr Maciejewicz",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

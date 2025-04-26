@@ -1,0 +1,24 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1021266409023",
+    "title": "Coupling Locally Conservative Methods for Single Phase Flow",
+    "abstract": "This work presents the coupling of two locally conservative methods for elliptic problems: namely, the discontinuous Galerkin method and the mixed finite element method. The couplings can be defined with or without interface Lagrange multipliers. The formulations are shown to be equivalent. Optimal error estimates are given; penalty terms may or may not be included. In addition, the analysis for non-conforming grids is also discussed.",
+    "citation_count": 18,
+    "year": "2002/09",
+    "authors": [
+        {
+            "name": "Rivière, Béatrice",
+            "country": "USA"
+        },
+        {
+            "name": "Wheeler, Mary",
+            "country": "USA"
+        }
+    ],
+    "keywords": [
+        "Earth Sciences, general",
+        "Geotechnical Engineering & Applied Earth Sciences",
+        "Hydrogeology",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Soil Science & Conservation"
+    ]
+}

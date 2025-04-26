@@ -1,0 +1,31 @@
+{
+    "url": "https://link.springer.com/article/10.1007/s11036-010-0265-3",
+    "title": "Joint Optimization of Power, Packet Forwarding and Reliability in MIMO Wireless Sensor Networks",
+    "abstract": "In this paper, we study the reliable packet forwarding in Wireless Sensor Networks (WSNs) with the multiple-input multiple-output (MIMO) and orthogonal space time block codes (OSTBC) techniques. The objective is to propose a cross-layer optimized forwarding scheme to maximize the Successful Transmission Rate (STR) while satisfying the given end-to-end power consumption constraint. The channel coding, power allocation, and route planning are jointly considered to significantly improve the transmission quality in terms of STR. The joint optimization design is formulated as a global deterministic optimization and also a local stochastic optimization issues. It is found that the stochastic optimization approach can effectively model, analyze, and solve the routing problem. In order to substantially reduce the implementation complication of the global optimization, we propose a low-complexity distributed scheme. The determination of relaying nodes and power budgets are decoupled, i.e. performing route planning and power allocation separately. We have shown that the result in the distributed scheme is able to provide sufficiently accurate predication of the global optimization. In addition, the proposed scheme can clearly reduce the Symbol Error Rate (SER) and achieve higher STR compared with two existing energy-efficient routing protocols, in which no joint design is considered.",
+    "citation_count": 13,
+    "year": "2011/12",
+    "authors": [
+        {
+            "name": "Yu, Rong",
+            "country": "China"
+        },
+        {
+            "name": "Zhang, Yan",
+            "country": "Norway"
+        },
+        {
+            "name": "Song, Lingyang",
+            "country": "China"
+        },
+        {
+            "name": "Yao, Wenqing",
+            "country": "China"
+        }
+    ],
+    "keywords": [
+        "Communications Engineering, Networks",
+        "Computer Communication Networks",
+        "Electrical Engineering",
+        "IT in Business"
+    ]
+}

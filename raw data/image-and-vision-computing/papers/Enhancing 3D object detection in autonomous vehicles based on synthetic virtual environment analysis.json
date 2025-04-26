@@ -1,0 +1,46 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885624004906",
+    "title": "Enhancing 3D object detection in autonomous vehicles based on synthetic virtual environment analysis",
+    "abstract": "Autonomous Vehicles (AVs) rely on real-time processing of natural images and videos for scene understanding and safety assurance through proactive object detection. Traditional methods have primarily focused on 2D object detection, limiting their spatial understanding. This study introduces a novel approach by leveraging 3D object detection in conjunction with augmented reality (AR) ecosystems for enhanced real-time scene analysis. Our approach pioneers the integration of a synthetic dataset, designed to simulate various environmental, lighting, and spatiotemporal conditions, to train and evaluate an AI model capable of deducing 3D bounding boxes. This dataset, with its diverse weather conditions and varying camera settings, allows us to explore detection performance in highly challenging scenarios. The proposed method also significantly improves processing times while maintaining accuracy, offering competitive results in conditions previously considered difficult for object recognition. The combination of 3D detection within the AR framework and the use of synthetic data to tackle environmental complexity marks a notable contribution to the field of AV scene analysis.",
+    "citation_count": "0",
+    "year": "2025/02/01",
+    "authors": [
+        {
+            "name": "Vladislav Li",
+            "country": ""
+        },
+        {
+            "name": "Ilias Siniosoglou",
+            "country": ""
+        },
+        {
+            "name": "Thomai Karamitsou",
+            "country": ""
+        },
+        {
+            "name": "Anastasios Lytos",
+            "country": ""
+        },
+        {
+            "name": "Ioannis D. Moscholios",
+            "country": ""
+        },
+        {
+            "name": "Sotirios K. Goudos",
+            "country": ""
+        },
+        {
+            "name": "Jyoti S. Banerjee",
+            "country": ""
+        },
+        {
+            "name": "Panagiotis Sarigiannidis",
+            "country": ""
+        },
+        {
+            "name": "Vasileios Argyriou",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

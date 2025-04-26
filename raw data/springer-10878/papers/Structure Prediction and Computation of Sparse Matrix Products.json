@@ -1,0 +1,21 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1009716300509",
+    "title": "Structure Prediction and Computation of Sparse Matrix Products",
+    "abstract": "We consider1 the problem of predicting the nonzero structure of a product of two or more matrices. Prior knowledge of the nonzero structure can be applied to optimize memory allocation and to determine the optimal multiplication order for a chain product of sparse matrices. We adapt a recent algorithm by the author and show that the essence of the nonzero structure and hence, a near-optimal order of multiplications, can be determined in near-linear time in the number of nonzero entries, which is much smaller than the time required for the multiplications. An experimental evaluation of the algorithm demonstrates that it is practical for matrices of order 103 with 104 nonzeros (or larger). A relatively small pre-computation results in a large time saved in the computation-intensive multiplication.",
+    "citation_count": 16,
+    "year": "1998/12",
+    "authors": [
+        {
+            "name": "Cohen, Edith",
+            "country": "AT&T Labs-Research"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

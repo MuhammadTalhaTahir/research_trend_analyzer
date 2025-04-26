@@ -1,0 +1,18 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S1383762125000761",
+    "title": "Enabling flexible multiple-replica cloud storage integrity auditing for cloud-based IoT data",
+    "abstract": "With the rapid development of the Internet of Things (IoT), a large amount of data from various IoT devices is generated. The cloud provides high-performance and simple-pricing storage service for these large-scale data generated in IoT. For some important data, the user prefers to store multiple replicas of them in cloud to enhance the reliability. Multiple-replica cloud storage integrity auditing is a technology that checks the integrity of the data with multiple replicas to ensure they are intactly stored in the cloud. Nonetheless, the existing schemes cannot be well applied to IoT scenarios because they incur high computation overhead on the user side. In order to address this problem, we propose a flexible multiple-replica cloud storage integrity auditing scheme for cloud-based IoT data. In our scheme, online/offline signature is used to divide authentication generation into two phases: offline phase and online phase. In the offline phase, complex computations are performed. In the online phase, the user uses the results produced in the offline phase to perform lightweight computations. This design significantly reduces the user’s computation overhead in the online phase, so that IoT devices can complete lightweight computation tasks. What is more, our scheme achieves the flexibility of auditing, which can support both file-based multiple-replica cloud storage integrity auditing and keyword-based multiple-replica cloud storage integrity auditing to meet different auditing requirements. We conducted security analysis and performance analysis for the proposed scheme.",
+    "citation_count": "0",
+    "year": "2025/06/01",
+    "authors": [
+        {
+            "name": "Guoqing Chen",
+            "country": ""
+        },
+        {
+            "name": "Rong Hao",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}

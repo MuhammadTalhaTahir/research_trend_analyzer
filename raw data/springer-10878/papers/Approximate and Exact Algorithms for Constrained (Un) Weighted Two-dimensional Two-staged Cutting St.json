@@ -1,0 +1,25 @@
+{
+    "url": "https://link.springer.com/article/10.1023/A:1011628809603",
+    "title": "Approximate and Exact Algorithms for Constrained (Un) Weighted Two-dimensional Two-staged Cutting Stock Problems",
+    "abstract": "In this paper we propose two algorithms for solving both unweighted and weighted constrained two-dimensional two-staged cutting stock problems. The problem is called two-staged cutting problem because each produced (sub)optimal cutting pattern is realized by using two cut-phases. In the first cut-phase, the current stock rectangle is slit down its width (resp. length) into a set of vertical (resp. horizontal) strips and, in the second cut-phase, each of these strips is taken individually and chopped across its length (resp. width). First, we develop an approximate algorithm for the problem. The original problem is reduced to a series of single bounded knapsack problems and solved by applying a dynamic programming procedure. Second, we propose an exact algorithm tailored especially for the constrained two-staged cutting problem. The algorithm starts with an initial (feasible) lower bound computed by applying the proposed approximate algorithm. Then, by exploiting dynamic programming properties, we obtain good lower and upper bounds which lead to significant branching cuts. Extensive computational testing on problem instances from the literature shows the effectiveness of the proposed approximate and exact approaches.",
+    "citation_count": 28,
+    "year": "2001/12",
+    "authors": [
+        {
+            "name": "Hifi, Mhand",
+            "country": "France"
+        },
+        {
+            "name": "Roucairol, Catherine",
+            "country": "France"
+        }
+    ],
+    "keywords": [
+        "Combinatorics",
+        "Convex and Discrete Geometry",
+        "Mathematical Modeling and Industrial Mathematics",
+        "Theory of Computation",
+        "Optimization",
+        "Operations Research/Decision Theory"
+    ]
+}

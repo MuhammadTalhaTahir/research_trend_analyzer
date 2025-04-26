@@ -1,0 +1,30 @@
+{
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885622001482",
+    "title": "Late feature supplement network for early action prediction",
+    "abstract": "Early action prediction is a new hotspot in the field of  computer vision . To improve the accuracy of early action prediction, a new end-to-end late feature supplement-based early action prediction network is proposed in this work. Different from the existing methods that use the model transfer strategy, a feature transfer strategy is defined in this work. Specifically, the features of the late clip are regarded as labels, and a feature transfer model is built to achieve mapping from the features of the early clip to the late features. After feature transfer, the generated late feature is fused into the early feature to form the final video feature. Finally, the final video feature is applied to  action classification . The proposed method is evaluated on the action  classification task  of the early clip. The experimental results show that compared with the existing methods, the proposed method has better performance at different observation ratios. The ablation study verifies that the proposed feature transfer strategy can significantly improve the accuracy of early action prediction.",
+    "citation_count": "3",
+    "year": "2022/09/01",
+    "authors": [
+        {
+            "name": "Zhe Li",
+            "country": ""
+        },
+        {
+            "name": "Hong-Bo Zhang",
+            "country": ""
+        },
+        {
+            "name": "Miao-Hui Zhang",
+            "country": ""
+        },
+        {
+            "name": "Qing Lei",
+            "country": ""
+        },
+        {
+            "name": "Ji-Xiang Du",
+            "country": ""
+        }
+    ],
+    "keywords": []
+}
